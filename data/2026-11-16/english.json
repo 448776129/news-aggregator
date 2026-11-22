@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-16",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-22T15:35:49.353348+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:f31d8a71c7604a383d236ff34a65ec6455acd18e",
+      "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b029aae48df423ca28f7ca97ed3e4bb&url=https%3a%2f%2fwww.cnbc.com%2f2026%2f11%2f16%2fjapan-q3-gdp-energy-oil-prices.html&c=7647755046040472965&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A Reuters poll of economists had estimated the economy to grow at 0.3%. While Japan's exports beat expectations for two of the three months in the quarter, net exports weighed on the economy as ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-16T02:56:00+08:00",
+      "published_date": "2026-11-16",
+      "fetched_at": "2026-11-22T15:33:08.302058+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

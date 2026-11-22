@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-22T15:06:10.782705+08:00",
-  "count": 247,
+  "generated_at": "2026-11-22T15:35:49.363180+08:00",
+  "count": 255,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 27,
+      "count": 3,
       "error": ""
     },
     {
@@ -27,11 +27,59 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 50,
+      "count": 33,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:cointelegraph:802a4c21f094b:0",
+      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+      "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Cointelegraph",
+      "summary": "",
+      "content": "",
+      "title_zh": "韩国交易所因疑似桥接漏洞暂停CYBER转账",
+      "summary_zh": "",
+      "published_at": "2026-11-22T15:24:05+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:CYBERCUSD"
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720JQ:0",
+      "title": "Red Sea Global Opens The Ritz-Carlton, Amaala",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720JQ:0-red-sea-global-opens-the-ritz-carlton-amaala/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "Red Sea Global开设The Ritz-Carlton, Amaala",
+      "summary_zh": "",
+      "published_at": "2026-11-22T15:16:41+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [],
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
+    },
     {
       "id": "alpaca:128573468",
       "title": "Woodspin Awarded FSC® Chain of Custody Certification",
@@ -40,10 +88,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Woodspin, a company associated with Spinnova, has received FSC® Chain of Custody certification, ensuring transparency in its sustainable wood sourcing.",
-      "content": "",
+      "content": "Woodspin has been awarded the FSC® Chain of Custody certification, a rigorous international standard for responsible forestry. This certification provides customers with full supply chain transparency regarding the sustainable wood sourcing used in the production of SPINNOVA® fibre. The achievement underscores the company's commitment to environmental standards in its manufacturing processes.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T15:02:04+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -63,13 +113,17 @@
       "author": "",
       "summary": "e.l.f. Beauty stock is up 53% in a year, but a raised sales outlook and early international expansion suggest the run may not be over.",
       "content": "",
+      "title_zh": "买入e.l.f. Beauty股票的1个理由",
+      "summary_zh": "e.l.f. Beauty股票一年上涨53%，但提高的销售展望和早期国际扩张表明涨势可能尚未结束。",
       "published_at": "2026-11-22T14:54:02+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "tradingview:stocktwits:6c1974419094b:0",
@@ -80,9 +134,11 @@
       "author": "Stocktwits",
       "summary": "",
       "content": "",
+      "title_zh": "Chamath Palihapitiya称赞Jensen Huang“好得如同圣经”，但警告在Nvidia让他回来可能让“所有人”面临风险",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:52:25+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -90,7 +146,8 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:NVDA"
-        ]
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -102,13 +159,42 @@
       "author": "",
       "summary": "Palihapitiya argued that any decision to reinstate Huang could raise serious corporate governance concerns.",
       "content": "",
+      "title_zh": "Chamath Palihapitiya称赞Jensen Huang“好得如同圣经”，但警告在Nvidia让他回来可能让“所有人”面临风险",
+      "summary_zh": "Palihapitiya认为，任何重新启用Huang的决定都可能引发严重的公司治理问题。",
       "published_at": "2026-11-22T14:52:25+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:1f53798cc094b:0",
+      "title": "Welspun Living plans ₹3,200 crore investment in capacity expansion by December 2028",
+      "url": "https://www.tradingview.com/news/cnbctv:1f53798cc094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "Welspun Living计划在2028年12月前投资3200亿卢比扩大产能",
+      "summary_zh": "",
+      "published_at": "2026-11-22T14:52:09+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:WELSPUNLIV"
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720GW:0",
@@ -119,9 +205,11 @@
       "author": "Reuters",
       "summary": "",
       "content": "",
+      "title_zh": "Gas Arabian Services与Saudi Aramco签署工作单元费率合同",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:51:12+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -130,7 +218,8 @@
         "symbols": [
           "TADAWUL:4146",
           "TADAWUL:2222"
-        ]
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -142,15 +231,18 @@
       "author": "Binance News",
       "summary": "",
       "content": "",
+      "title_zh": "Justin Sun Prize提议为两项黎曼猜想研究提供200万美元奖励",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:50:34+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
       "extra": {
         "urgency": 2,
-        "symbols": []
+        "symbols": [],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -162,9 +254,11 @@
       "author": "CNBC TV18",
       "summary": "",
       "content": "",
+      "title_zh": "全球AI抛售：台湾再次采取行动支持崩溃的股票市场",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:49:46+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -172,7 +266,8 @@
         "urgency": 2,
         "symbols": [
           "TWSE:IX0001"
-        ]
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -184,9 +279,11 @@
       "author": "Binance News",
       "summary": "",
       "content": "",
+      "title_zh": "Goldman Sachs：黄金将跑赢白银并在2028年底达到5600美元",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:45:58+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -195,7 +292,8 @@
         "symbols": [
           "OANDA:XAUUSD",
           "COMEX:SI1!"
-        ]
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -207,9 +305,11 @@
       "author": "Binance News",
       "summary": "",
       "content": "",
+      "title_zh": "UBS：美国全国停飞将影响航空公司第四季度业绩，JetBlue受创最重",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:45:40+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -217,7 +317,8 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:JBLU"
-        ]
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -229,15 +330,18 @@
       "author": "Crypto Briefing",
       "summary": "",
       "content": "",
+      "title_zh": "东京税务官员审计91名加密持有者，发现2450万美元未申报收入",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:36:17+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
       "extra": {
         "urgency": 2,
-        "symbols": []
+        "symbols": [],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -249,9 +353,11 @@
       "author": "Business Line",
       "summary": "",
       "content": "",
+      "title_zh": "政府修订延长NELP前石油、天然气合同的政策；提高政府利润份额",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:30:58+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -260,7 +366,8 @@
         "symbols": [
           "NSE:ONGC",
           "NSE:OIL"
-        ]
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -272,9 +379,11 @@
       "author": "CNBC TV18",
       "summary": "",
       "content": "",
+      "title_zh": "11月24日股市假日：NSE、BSE因Guru Nanak Jayanti保持关闭",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:28:43+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -284,7 +393,8 @@
           "BSE:NSE",
           "NSE:BSE",
           "NSE:MCX"
-        ]
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -296,15 +406,18 @@
       "author": "Binance News",
       "summary": "",
       "content": "",
+      "title_zh": "Lisa Cook称美联储加息可能延续至12月之后",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:27:58+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
       "extra": {
         "urgency": 2,
-        "symbols": []
+        "symbols": [],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -316,13 +429,17 @@
       "author": "",
       "summary": "The multi-cancer early detection test company's volatility is likely to continue next year.",
       "content": "",
+      "title_zh": "Grail股票在2026年剧烈波动的背后是什么，投资者在2027年可以期待什么？",
+      "summary_zh": "这家多癌早期检测公司的波动性明年可能会持续。",
       "published_at": "2026-11-22T14:27:02+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "tradingview:binance_news:d254940bd094b:0",
@@ -333,15 +450,18 @@
       "author": "Binance News",
       "summary": "",
       "content": "",
+      "title_zh": "Jefferies警告AI投资放缓可能损害新兴市场，将韩国下调至低配",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:26:34+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
       "extra": {
         "urgency": 2,
-        "symbols": []
+        "symbols": [],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -353,9 +473,11 @@
       "author": "Binance News",
       "summary": "",
       "content": "",
+      "title_zh": "OpenRouter从MiniMax端点移除零数据保留标签",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:20:31+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -363,7 +485,58 @@
         "urgency": 2,
         "symbols": [
           "HKEX:100"
-        ]
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
+    },
+    {
+      "id": "tradingview:benzinga:7a080b389094b:0",
+      "title": "Van Hollen Calls Senate Democratic Leader Race 'Wide Open' as Prediction Markets Favor Schumer",
+      "url": "https://www.tradingview.com/news/benzinga:7a080b389094b:0-van-hollen-calls-senate-democratic-leader-race-wide-open-as-prediction-markets-favor-schumer/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Benzinga",
+      "summary": "",
+      "content": "",
+      "title_zh": "Van Hollen称参议院民主党领袖竞选“完全开放”，预测市场看好Schumer",
+      "summary_zh": "",
+      "published_at": "2026-11-22T14:18:46+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:KALSHI"
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
+    },
+    {
+      "id": "tradingview:benzinga:10893b2a8094b:0",
+      "title": "Trump Says He'll Work With Democrats to Cap Credit Card Rates at 10%: 'I Would Do It'",
+      "url": "https://www.tradingview.com/news/benzinga:10893b2a8094b:0-trump-says-he-ll-work-with-democrats-to-cap-credit-card-rates-at-10-i-would-do-it/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Benzinga",
+      "summary": "",
+      "content": "",
+      "title_zh": "Trump称他将与民主党人合作将信用卡利率上限设为10%：“我会这么做”",
+      "summary_zh": "",
+      "published_at": "2026-11-22T14:18:29+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:TRUMPUSD"
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -375,9 +548,11 @@
       "author": "Stocktwits",
       "summary": "",
       "content": "",
+      "title_zh": "JPMorgan称比特币矿工可能在BTC低于挖矿成本估计2.6万美元后出售储备：报告",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:12:23+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -385,7 +560,8 @@
         "urgency": 2,
         "symbols": [
           "BITSTAMP:BTCUSD"
-        ]
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -397,15 +573,18 @@
       "author": "Binance News",
       "summary": "",
       "content": "",
+      "title_zh": "分析师预计美国10月PCE通胀将达到3.8%，美联储加息预期上升",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:11:40+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
       "extra": {
         "urgency": 2,
-        "symbols": []
+        "symbols": [],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -417,9 +596,11 @@
       "author": "Stocktwits",
       "summary": "",
       "content": "",
+      "title_zh": "Aswath Damodaran将Anthropic估值定为每股77美元——其83美元的IPO价格让他“感到恐惧”",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:07:13+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -427,7 +608,8 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:ANT"
-        ]
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -439,9 +621,11 @@
       "author": "Reuters",
       "summary": "",
       "content": "",
+      "title_zh": "Almunajem Foods下半年每股股息1沙特里亚尔",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:05:55+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -449,7 +633,8 @@
         "urgency": 2,
         "symbols": [
           "TADAWUL:4162"
-        ]
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -461,9 +646,11 @@
       "author": "CoinMarketCal",
       "summary": "",
       "content": "",
+      "title_zh": "Falcon Finance：2027年2月解锁2.0306亿枚FF",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:00:29+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -471,7 +658,8 @@
         "urgency": 2,
         "symbols": [
           "CRYPTO:FFUSD"
-        ]
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -483,9 +671,11 @@
       "author": "CoinMarketCal",
       "summary": "",
       "content": "",
+      "title_zh": "Falcon Finance：FF供应解锁释放约2.03亿枚代币 - 2027年1月",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:00:21+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -493,7 +683,8 @@
         "urgency": 2,
         "symbols": [
           "CRYPTO:FFUSD"
-        ]
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -505,9 +696,11 @@
       "author": "CoinMarketCal",
       "summary": "",
       "content": "",
+      "title_zh": "Falcon Finance：2.0306亿枚FF解锁 - 2026年12月",
+      "summary_zh": "",
       "published_at": "2026-11-22T14:00:08+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -515,7 +708,8 @@
         "urgency": 2,
         "symbols": [
           "CRYPTO:FFUSD"
-        ]
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -527,15 +721,18 @@
       "author": "Reuters",
       "summary": "",
       "content": "",
+      "title_zh": "Al Ameen Insurance前9个月持续运营盈余2.9亿第纳尔",
+      "summary_zh": "",
       "published_at": "2026-11-22T13:58:40+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
       "extra": {
         "urgency": 2,
-        "symbols": []
+        "symbols": [],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -547,15 +744,18 @@
       "author": "Reuters",
       "summary": "",
       "content": "",
+      "title_zh": "Al-Khatem Telecommunications第三季度盈余476.2亿第纳尔",
+      "summary_zh": "",
       "published_at": "2026-11-22T13:58:00+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
       "extra": {
         "urgency": 2,
-        "symbols": []
+        "symbols": [],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -567,13 +767,17 @@
       "author": "",
       "summary": "One of these funds is down around 18% from its record while the other has risen. Why own both?",
       "content": "",
+      "title_zh": "我今天会买入的2只ETF：一只用于增长，一只用于股息",
+      "summary_zh": "其中一只基金较其记录下跌约18%，而另一只则上涨。为什么要同时拥有两者？",
       "published_at": "2026-11-22T13:57:02+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "tradingview:moodys:a2a1547e319df:0",
@@ -584,9 +788,11 @@
       "author": "Business Line",
       "summary": "",
       "content": "",
+      "title_zh": "Ashok Leyland通过200辆水泥运输卡车订单扩大电动车攻势，瞄准更广泛的LCV市场",
+      "summary_zh": "",
       "published_at": "2026-11-22T13:51:01+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -594,7 +800,8 @@
         "urgency": 2,
         "symbols": [
           "NSE:ASHOKLEY"
-        ]
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
       }
     },
     {
@@ -606,9 +813,11 @@
       "author": "Reuters",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T13:41:00+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -628,9 +837,11 @@
       "author": "CNBC TV18",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T13:36:10+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -651,9 +862,11 @@
       "author": "Crypto Briefing",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T13:35:58+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -673,9 +886,11 @@
       "author": "Business Line",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T13:31:00+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -695,9 +910,11 @@
       "author": "Cointelegraph",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T13:28:43+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -718,13 +935,17 @@
       "author": "",
       "summary": "Nvidia's future isn't as hard to forecast as you might think.",
       "content": "",
+      "title_zh": "20年后Nvidia股票会在哪里？答案可能会让你惊讶。",
+      "summary_zh": "Nvidia的未来并不像你想象的那么难以预测。",
       "published_at": "2026-11-22T13:20:02+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720JN:0",
@@ -735,9 +956,11 @@
       "author": "Reuters",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T13:17:59+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -757,13 +980,17 @@
       "author": "",
       "summary": "AI infrastructure just absorbed a shock, with Nvidia’s leadership turmoil, customer investigations and eye catching Q3 FY2027 numbers all hitting at once, and that ripple now runs straight through the cloud and data center operators that power this boom. Pricing for compute is changing, expectations are resetting and some stocks are suddenly being repriced. This article walks through three companies exposed to this Nvidia story and why each one merits a closer look today. The three stocks...",
       "content": "",
+      "title_zh": "Nvidia冲击使MongoDB股票和云软件名称重新受到关注",
+      "summary_zh": "AI基础设施刚刚遭受了冲击，Nvidia的领导层动荡、客户调查和引人注目的2027财年第三季度数字同时袭来，这一涟漪现在直接波及支撑这一繁荣的云和数据中心运营商。计算定价正在变化，预期正在重置，一些股票突然被重新定价。本文梳理了受此Nvidia故事影响的三家公司，以及为什么今天每一家都值得更仔细的关注。这三只股票...",
       "published_at": "2026-11-22T13:15:40+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720E1:0",
@@ -774,9 +1001,11 @@
       "author": "Reuters",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T13:15:32+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -796,9 +1025,11 @@
       "author": "Reuters",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T13:06:20+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -818,9 +1049,11 @@
       "author": "Moneycontrol",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T13:03:54+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -842,13 +1075,17 @@
       "author": "",
       "summary": "Neither Xi or Trump was keen to dredge up the Nvidia scandal threatening a delicate detente between the world’s two largest economies.",
       "content": "",
+      "title_zh": "在中国科技圣地，Trump和Xi宣扬AI合作。现在残酷的现实来了。",
+      "summary_zh": "Xi和Trump都不愿重提威胁着世界两大经济体之间微妙缓和的Nvidia丑闻。",
       "published_at": "2026-11-22T13:01:15+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "tradingview:stocktwits:b2c7d88ba094b:0",
@@ -859,9 +1096,11 @@
       "author": "Stocktwits",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T13:00:01+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -881,9 +1120,11 @@
       "author": "Stocktwits",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T12:59:48+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -904,9 +1145,11 @@
       "author": "Reuters",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T12:50:00+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -926,9 +1169,11 @@
       "author": "Binance News",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T12:47:38+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -948,9 +1193,11 @@
       "author": "Benzinga",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T12:46:59+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -970,9 +1217,11 @@
       "author": "Binance News",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T12:45:12+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -990,9 +1239,11 @@
       "author": "Business Line",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T12:41:55+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1014,9 +1265,11 @@
       "author": "CNBC TV18",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T12:34:01+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1038,9 +1291,11 @@
       "author": "Binance News",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T12:33:16+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1060,13 +1315,17 @@
       "author": "",
       "summary": "Is the massive investment paying off?",
       "content": "",
+      "title_zh": "Mark Zuckerberg的Meta Platforms今年正向AI投入高达1450亿美元。投资者应关注这1个数字。",
+      "summary_zh": "巨额投资是否正在产生回报？",
       "published_at": "2026-11-22T12:31:01+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "tradingview:binance_news:802dca64e094b:0",
@@ -1077,9 +1336,11 @@
       "author": "Binance News",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T12:29:16+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1097,13 +1358,17 @@
       "author": "",
       "summary": "A lower share price in the short term could be great in the long run.",
       "content": "",
+      "title_zh": "Netflix跌破60美元。Bill Ackman解释了为什么这是一个不可思议的投资机会。",
+      "summary_zh": "短期内较低的股价从长远来看可能很棒。",
       "published_at": "2026-11-22T12:20:02+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://www.thestreet.com/investing/stocks/gta-6-apple-innovation?.tsrc=rss",
@@ -1114,13 +1379,17 @@
       "author": "",
       "summary": "Investors may not like the lesson here.",
       "content": "",
+      "title_zh": "GTA 6首周37.9亿美元销售额向苹果股票投资者发出明确信号",
+      "summary_zh": "投资者可能不喜欢这里的教训。",
       "published_at": "2026-11-22T12:17:00+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "tradingview:binance_news:e33df8598094b:0",
@@ -1131,9 +1400,11 @@
       "author": "Binance News",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T12:12:56+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1153,9 +1424,11 @@
       "author": "Binance News",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T12:10:50+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1173,9 +1446,11 @@
       "author": "Reuters",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T11:57:20+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1193,9 +1468,11 @@
       "author": "Stocktwits",
       "summary": "",
       "content": "",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T11:53:44+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.962239+08:00",
+      "fetched_at": "2026-11-22T15:33:02.417611+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1235,13 +1512,17 @@
       "author": "",
       "summary": "Investors don’t need to do a lot of post-election portfolio tinkering, but some ETFs may be worth examining.",
       "content": "",
+      "title_zh": "2026年中期选举：我现在对我的投资组合正在做的确切事情",
+      "summary_zh": "投资者不需要在选举后进行大量的投资组合调整，但一些ETF可能值得审视。",
       "published_at": "2026-11-22T11:50:02+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "tradingview:binance_news:4a79a4c06094b:0",
@@ -1334,13 +1615,17 @@
       "author": "",
       "summary": "Tepper was selling shares of AMD, Broadcom, and Alphabet in Q3, while buying Nvidia and Micron.",
       "content": "",
+      "title_zh": "亿万富翁David Tepper刚刚进行了大规模AI芯片轮换——它会奏效吗？",
+      "summary_zh": "Tepper在第三季度出售了AMD、Broadcom和Alphabet的股份，同时买入了Nvidia和Micron。",
       "published_at": "2026-11-22T11:20:02+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/3-top-ai-stocks-least-031239184.html?.tsrc=rss",
@@ -1351,13 +1636,17 @@
       "author": "",
       "summary": "The recent plunge in AI linked stocks, including Nvidia and Anthropic, has reminded investors that story alone is not enough. Profit matters. That selloff has pushed attention toward companies already earning solid cash flows from AI rather than just promising future breakthroughs. This article spotlights three profitable AI focused stocks from our screener that are turning heavy AI spending into real earnings and potentially more resilient business models. The three stocks below are just a...",
       "content": "",
+      "title_zh": "3只顶级AI股票，ROE至少为14%",
+      "summary_zh": "近期AI相关股票，包括Nvidia和Anthropic的暴跌，提醒投资者仅靠故事是不够的。利润很重要。这次抛售将注意力转向了已经从AI中赚取稳定现金流的公司，而不仅仅是承诺未来的突破。本文重点介绍了我们筛选器中三只盈利的AI股票，它们正在将沉重的AI支出转化为实际盈利，并可能拥有更具韧性的商业模式。以下三只股票只是...",
       "published_at": "2026-11-22T11:12:39+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/21/the-rise-of-just-in-case-etfs-for-uncertain-markets-what-you-need-to-know/?.tsrc=rss",
@@ -1385,13 +1674,17 @@
       "author": "",
       "summary": "Amazon was counting on ULA to get its Leo satellites back on track. It shouldn't have.",
       "content": "",
+      "title_zh": "ULA Vulcan发射以灾难告终，打击Amazon的卫星互联网雄心",
+      "summary_zh": "Amazon曾指望ULA让其Leo卫星重回正轨。它本不该这样做。",
       "published_at": "2026-11-22T10:47:02+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/21/the-smartest-dividend-stock-to-buy-with-1000-right-now/?.tsrc=rss",
@@ -1419,13 +1712,17 @@
       "author": "",
       "summary": "The chipmaker isn't naming the customer. What would the deal need to become to matter?",
       "content": "",
+      "title_zh": "Intel称其刚刚为其最先进的芯片制造工艺签署了第一家客户。该股票仍比6月记录低60%以上。",
+      "summary_zh": "该芯片制造商没有透露客户名称。这笔交易需要变成什么样才能重要？",
       "published_at": "2026-11-22T10:07:02+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "alpaca:128543766",
@@ -1435,10 +1732,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Desjardins Securities has downgraded GO Residential Real Estate Investment Trust from Buy to Hold.",
-      "content": "",
+      "content": "On November 21, 2026, Desjardins Securities issued a research update downgrading GO Residential Real Estate Investment Trust from a Buy rating to a Hold rating. This analyst action reflects a change in the firm's outlook on the REIT's stock. The adjustment serves as a formal update to the investment community regarding the company's market position.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:05:04+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1457,10 +1756,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Red Cat Holdings was one of five companies selected to receive a $150,000 innovation award following the Kinetic Reach 2026 event.",
-      "content": "",
+      "content": "Red Cat Holdings, Inc. was selected as one of five recipients of a $150,000 innovation award by the U.S. Army. The award followed the Kinetic Reach 2026 event, where soldiers evaluated emerging logistics technologies to address capability gaps in contested environments. While the award provides funding for further development and assessment, it does not guarantee a future procurement contract or fielding decision. The evaluation process allowed the Army to gather firsthand feedback on the effectiveness and operational utility of the proposed technologies.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:04:30+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1479,10 +1780,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Cantor Fitzgerald analyst Nathan Frankovitz maintained an Overweight rating on Cypherpunk Technologies (CYPH) while increasing the price target to $5.00 from $4.90.",
-      "content": "",
+      "content": "On November 21, 2026, Cantor Fitzgerald analyst Nathan Frankovitz issued an updated research note maintaining an Overweight rating on Cypherpunk Technologies (CYPH). The firm concurrently raised its price target for the company's stock from $4.90 to $5.00. This adjustment follows the company's recent financial disclosures regarding its Zcash mining operations and third-quarter performance.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:04:18+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1501,10 +1804,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "HawkEye 360 has projected its total revenue for the 2026 fiscal year to fall between $215 million and $220 million.",
-      "content": "",
+      "content": "HawkEye 360, a defense technology and geospatial intelligence firm, has announced its revenue outlook for the 2026 fiscal year. The company expects to generate between $215 million and $220 million in revenue. This guidance provides a quantified financial target for the company's performance in the current year.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:04:06+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1523,10 +1828,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "AMC Networks Inc. has been assigned a consensus rating of 'Strong Sell' by the five ratings firms currently covering the company, according to a report from MarketBeat.",
-      "content": "",
+      "content": "MarketBeat reports that AMC Networks Inc. (NASDAQ:AMCX) currently holds a consensus rating of 'Strong Sell' from the five investment analysts covering the firm. The breakdown of these ratings includes three analysts with a 'sell' rating and two with a 'hold' rating. Additionally, the company has an average price target of $10.00 per share.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:59+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1545,10 +1852,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "The Form 10-12B registration statement for Axiom Solutions International has become effective, marking a step in its separation process.",
-      "content": "",
+      "content": "The Form 10-12B for Axiom Solutions International has been declared effective as of November 20, 2026. This filing is a key component of the company's separation from its former parent, Flex Ltd. Management has indicated a target completion for the spin-off in the first calendar quarter of 2027, though a specific date has not yet been finalized.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:54+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1567,10 +1876,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Sailfish Royalty Corp. has released its financial results for the third quarter and nine months ended September 30, 2026.",
-      "content": "",
+      "content": "Sailfish Royalty Corp. announced its financial performance for the third quarter and the nine-month period ending September 30, 2026. The report details the company's royalty and streaming revenue generated from its precious metals interests in the Americas. As a royalty and streaming company, these results reflect the production and operational performance of the underlying mining assets in which Sailfish holds interests. The disclosure provides investors with updated information on the company's financial position and operational outcomes for the specified period.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:46+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1589,10 +1900,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "CTO Realty Growth, Inc. has announced its dividend declaration for the fourth quarter of 2026.",
-      "content": "",
+      "content": "CTO Realty Growth, Inc. has officially declared its dividend for the fourth quarter of 2026. This action represents a routine corporate governance event for the real estate investment trust. The declaration confirms the company's ongoing commitment to its dividend policy for shareholders.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:42+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1611,10 +1924,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Bleichroeder Acquisition Corp. III filed a Form 425 with the U.S. Securities and Exchange Commission on November 20, 2026, regarding a business combination.",
-      "content": "",
+      "content": "On November 20, 2026, Bleichroeder Acquisition Corp. III filed a Form 425 with the U.S. Securities and Exchange Commission. This filing is used by special purpose acquisition companies to provide information related to a proposed business combination or merger. The filing reflects ongoing activity regarding the company's efforts to effect a business combination.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:41+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1633,10 +1948,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Krispy Kreme has opened its first 'Hot Light Express' location, a smaller-format shop concept, within the Excalibur Hotel & Casino food court in Las Vegas.",
-      "content": "",
+      "content": "Krispy Kreme has introduced a new, smaller retail concept called 'Hot Light Express' at the Excalibur Hotel & Casino in Las Vegas. This pilot location is designed to focus on the company's signature 'Hot Light' experience and fresh Original Glazed doughnuts. The company has characterized the opening as a test of the new shop format. The location is situated in the second-level food court of the property.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:37+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1655,10 +1972,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "El Pollo Loco has installed a new mural at its restaurant in the Crenshaw district as part of a community engagement initiative.",
-      "content": "",
+      "content": "El Pollo Loco Holdings, Inc. has unveiled a new mural installation at its restaurant located in the Crenshaw district. The project serves as a community-focused initiative to enhance the brand's presence in the local area. This event is a localized marketing and community relations activity.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:36+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1677,10 +1996,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Citigroup has increased its price target for Bumble Inc. shares from $3.20 to $6.05.",
-      "content": "",
+      "content": "Citigroup has updated its financial outlook for Bumble Inc., raising the price target for the company's shares to $6.05 from the previous target of $3.20. This analyst action was reported on November 21, 2026. The adjustment reflects the firm's updated valuation perspective on the company.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:30+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1699,10 +2020,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Stifel analyst Stephen Gengaro has reaffirmed a Buy rating and a $37 price target for Ameresco, Inc. (AMRC).",
-      "content": "",
+      "content": "Stifel analyst Stephen Gengaro maintained a Buy rating on Ameresco, Inc. (AMRC) and kept the price target at $37. This analyst action reflects the firm's ongoing outlook on the company's performance and market position. The update was reported on November 21, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:29+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1721,10 +2044,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "MasTec, Inc. has finalized its acquisition of mechanical infrastructure contractor Murphy Corporation for approximately $1.25 billion.",
-      "content": "",
+      "content": "MasTec, Inc. announced on November 21, 2026, that it has completed the acquisition of Murphy Corporation, a mechanical infrastructure contractor serving mission-critical end markets. The transaction is valued at approximately $1.25 billion. MasTec expects the acquisition to be immediately accretive to its revenue, adjusted EBITDA, earnings per share, and cash flow. Murphy Corporation will continue to operate under its existing leadership as an operating group within MasTec.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:29+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1743,10 +2068,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Matthews International Corporation announced a new board refreshment plan and corporate governance enhancements aimed at increasing long-term shareholder value.",
-      "content": "",
+      "content": "Matthews International Corporation has initiated a board refreshment plan and corporate governance enhancements as part of its strategy to improve long-term shareholder value. As part of this initiative, the Board of Directors intends to facilitate an orderly transition of the Board Chair role. The company plans to appoint a new independent Board Chair to lead the board moving forward.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:28+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1765,10 +2092,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Intellia Therapeutics has filed a registration statement for a mixed shelf offering, providing flexibility for future capital raising.",
-      "content": "",
+      "content": "Intellia Therapeutics, Inc. has filed for a mixed shelf offering, a regulatory step that allows the company to issue various types of securities, such as common stock, preferred stock, or debt, in future offerings. The filing provides the company with the flexibility to raise capital as needed, though the specific size and timing of any potential issuance were not disclosed. This move is a standard corporate action to maintain financial readiness for ongoing clinical and operational activities.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:26+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1787,10 +2116,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Obsidian Energy Ltd. announced that Gary Sykes, Senior Vice President, Commercial & Development, will assume the responsibilities of Vice President, Light Oil, effective November 21, 2026.",
-      "content": "",
+      "content": "Obsidian Energy Ltd. has appointed Gary Sykes to take on the responsibilities of Vice President, Light Oil, in addition to his current role as Senior Vice President, Commercial & Development. Sykes, who joined the company in 2019 and was promoted to Senior Vice President in 2022, will lead the light oil portfolio during this transition period until a permanent successor is named. This change follows the company's recent announcement regarding its shift to a new organizational structure featuring dedicated Heavy Oil and Light Oil asset teams, which is set to take effect on December 1, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:23+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1809,10 +2140,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Former Fermi CEO Toby Neugebauer is appealing a Texas court ruling regarding the company's board bylaws.",
-      "content": "",
+      "content": "Former Fermi CEO Toby Neugebauer has initiated an appeal against a Texas court ruling concerning the company's board bylaws. This legal action follows ongoing governance disputes involving the company's leadership and shareholder structure. The appeal represents a continued effort by the former executive to challenge the current board's governance framework.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:22+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1831,10 +2164,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "BTIG analyst Mark Massaro has reaffirmed a 'Buy' rating and a $85 price target for GeneDx Holdings (WGS).",
-      "content": "",
+      "content": "BTIG analyst Mark Massaro continues to maintain a 'Buy' rating on GeneDx Holdings (WGS) with a price target of $85. This analyst action reflects the firm's ongoing outlook on the company's performance and market position. The update was reported in the context of broader market activity and analyst coverage for the company.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:21+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1853,10 +2188,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "A Form 4 filing was submitted to the SEC regarding an insider transaction for TrustCo Bank Corp NY.",
-      "content": "",
+      "content": "On November 20, 2026, a Form 4 document was filed with the U.S. Securities and Exchange Commission concerning an insider transaction for TrustCo Bank Corp NY. The filing, submitted by Michael James Hall, provides disclosure of stock-related activity as required by regulatory standards. This is a routine administrative disclosure and does not represent a change in the company's fundamental business operations or strategic direction.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:19+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1875,10 +2212,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "IDT Corporation is scheduled to be removed from the Russell Microcap 3000 index as part of a broader update to index constituents.",
-      "content": "",
+      "content": "IDT Corporation has been identified as one of the companies exiting the Russell Microcap 3000 index. This change in index composition was reported alongside updates for other telecommunications stocks. The removal of a company from a major market index can influence institutional investment and passive fund holdings. The event reflects standard periodic adjustments to the index's constituent list.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:18+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1897,10 +2236,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Canaccord Genuity has increased its price target for Tasmea to A$11.76 per share.",
-      "content": "",
+      "content": "On November 21, 2026, Canaccord Genuity updated its research coverage on Tasmea, raising the price target for the company's shares by 3.2% to A$11.76. This adjustment is part of the firm's ongoing analyst coverage and market research activities within its capital markets segment.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:18+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1919,10 +2260,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "SmartFinancial, Inc. (NYSE: SMBK) experienced a trading halt on the New York Stock Exchange on November 21, 2026, due to pending news and subsequent news dissemination.",
-      "content": "",
+      "content": "On November 21, 2026, the New York Stock Exchange implemented a trading halt for SmartFinancial, Inc. (NYSE: SMBK). The halt was initially triggered by a 'News Pending' status at 10:00:50 ET, followed by a 'News Dissemination' status at 10:02:51 ET. Trading halts are regulatory actions taken by the exchange to ensure fair and orderly markets when material information is expected or being released. No further details regarding the specific nature of the news were provided in the initial reports.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:17+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1941,10 +2284,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Rackspace Technology has introduced 'Foundry for Generative AI by Rackspace' (FAIR), a new global practice designed to help organizations adopt generative AI solutions securely and responsibly.",
-      "content": "",
+      "content": "Rackspace Technology announced the launch of Foundry for Generative AI by Rackspace (FAIR), a dedicated global practice aimed at accelerating the adoption of generative AI. The initiative is designed to support organizations of all sizes in implementing AI solutions in a secure, responsible, and sustainable manner. By providing this specialized practice, Rackspace intends to assist clients in navigating the complexities of integrating generative AI into their existing business operations and technology stacks.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:15+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1963,10 +2308,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "An analyst upgraded Sweetgreen, Inc. to a 'Buy' rating and set a price target of $9, citing a positive outlook on the company's earnings recovery.",
-      "content": "",
+      "content": "On November 21, 2026, an analyst upgraded Sweetgreen, Inc. to a 'Buy' rating with a price target of $9, representing a 32% premium over the recent share price. The analyst noted that the company is in an attractive earnings recovery phase, supported by stabilizing same-store sales and accelerating growth. Projections for same-store sales, store-level profitability, and EBITDA for 2026 and 2027 were revised upward, with expectations that profit recovery through 2027 will provide a foundation for the stock price.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:14+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -1985,10 +2332,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Collective Mining reported new assay results from its Guayabales Project in Colombia, confirming gold-silver mineralization outside the current mineral resource area.",
-      "content": "",
+      "content": "Collective Mining has released new assay results from its Guayabales Project in Colombia, revealing gold-silver mineralization that extends beyond the project's current mineral resource boundary. The drilling results, which tested areas for potential future resource growth at the Apollo deposit, included significant intercepts such as 146.10 meters at 1.07 grams per tonne (g/t) gold equivalent, 107.85 meters at 1.07 g/t gold equivalent, and 49.80 meters at 1.81 g/t gold equivalent. These findings provide new data on the project's geological potential and support the company's ongoing efforts to expand its resource base through district-scale drilling.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:03+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2007,10 +2356,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Law firms are investigating potential federal securities law violations by Universal Technical Institute, Inc. following the company's fiscal 2026 financial results and lower-than-expected fiscal 2027 guidance.",
-      "content": "",
+      "content": "Following the announcement of its fourth quarter and fiscal year 2026 financial results on November 18, 2026, Universal Technical Institute, Inc. (UTI) has become the subject of investigations by law firms including Kirby McInerney LLP and SueWallSt. The investigations focus on whether the company or its senior management made materially false or misleading statements regarding regulatory and operational risks, as well as federal student-aid verification requirements. The company reported a 46.7% year-over-year decrease in full-year 2026 net income and provided fiscal 2027 diluted EPS guidance of $0.00 to $0.09, significantly lower than the $0.60 reported for fiscal 2026. Management attributed the outlook to approximately $35 million in planned growth-related investments. UTI shares declined approximately 8.5% following the release of these results.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:03:01+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2029,10 +2380,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Wedbush analyst Robert Driscoll has maintained an Outperform rating on Tango Therapeutics (NASDAQ: TNGX) while adjusting the price target from $45 to $40.",
-      "content": "",
+      "content": "Wedbush analyst Robert Driscoll has reaffirmed his Outperform rating on Tango Therapeutics, Inc. (NASDAQ: TNGX). In the same action, the analyst lowered the firm's price target for the company's stock from $45 to $40. This update reflects a change in the analyst's valuation outlook for the clinical-stage biotechnology company.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:57+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2051,10 +2404,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Guggenheim Partners analyst Debjit Chattopadhyay has initiated a bullish rating on Tyra Biosciences, setting a price target of $55.",
-      "content": "",
+      "content": "Guggenheim Partners analyst Debjit Chattopadhyay has issued a bullish rating for Tyra Biosciences, Inc. (NASDAQ: TYRA), establishing a price target of $55 per share. This analyst action reflects the firm's positive outlook on the company's clinical-stage biotechnology developments. The rating is based on the analyst's assessment of the company's potential within its sector.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:56+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2073,10 +2428,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "A J.P. Morgan research report titled '2027 U.S. Biotech Outlook' identifies Precigen among several companies for which the firm holds a cautious view.",
-      "content": "",
+      "content": "In a research report published on November 20, 2026, titled '2027 U.S. Biotech Outlook: We See Solid Fundamentals and More Tailwinds Than Headwinds in 2027,' J.P. Morgan analysts provided an assessment of the biotechnology sector. The report, authored by researcher Jessica Fye, outlines a generally optimistic outlook for the sector in 2027, supported by a buy-side survey in which 79% of respondents expect the sector to outperform the broader market. Within the report, the analysts categorized various companies based on investment themes and performance expectations. Precigen (PGEN) was specifically mentioned among a group of companies for which the firm expressed concerns, with the report noting that most of these companies are rated as neutral or underweight.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:53+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2095,10 +2452,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Revolve Group, Inc. (RVLV) experienced a brief trading halt on the New York Stock Exchange on November 21, 2026, for news dissemination.",
-      "content": "",
+      "content": "On November 21, 2026, Revolve Group, Inc. (NYSE: RVLV) was subject to a brief trading halt on the New York Stock Exchange. The halt, categorized as being for \"news dissemination,\" began at 10:00:50 ET and was followed by a resumption of trading at 10:04:41 ET. Such halts are standard procedural measures used by exchanges to ensure that material information is properly disseminated to the market before trading continues.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:52+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2117,10 +2476,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Sunshine Silver Mining & Refining Company has disclosed an S-K 1300 resource estimate of 264 million ounces of silver for its historic Sunshine Mine in Idaho.",
-      "content": "",
+      "content": "Sunshine Silver Mining & Refining Company reported a total S-K 1300 resource estimate of 264 million ounces of silver for the historic Sunshine Mine, comprising 104 million ounces in the indicated category and 160 million ounces in the inferred category. The company is leveraging existing, permitted infrastructure to potentially accelerate the project's development compared to typical greenfield operations. Management is targeting a restart of commercial silver production at the site by the end of 2028. These details were highlighted in recent company updates regarding the revitalization of the Silver Valley asset.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:50+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2139,10 +2500,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Replimune Group, Inc. CEO and Director Sushil Patel recently sold approximately $1.1 million worth of company shares, reducing his total holding by 27%.",
-      "content": "",
+      "content": "Replimune Group, Inc. CEO and Director Sushil Patel executed a sale of company stock valued at approximately $1.1 million. The shares were sold at a price of $21.60 per share. This transaction represents a 27% reduction in the executive's total shareholding in the company.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:49+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2161,10 +2524,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Analyst AlexStansbury has maintained a \"Buy\" rating on Kaiser Aluminum Corporation (KALU) with a price target of $184.",
-      "content": "",
+      "content": "On November 21, 2026, analyst AlexStansbury reaffirmed a \"Buy\" rating for Kaiser Aluminum Corporation, maintaining a price target of $184. This action reflects the analyst's ongoing assessment of the company's market position and financial outlook. The rating is provided as part of independent financial analysis and is intended for informational purposes.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:49+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2183,10 +2548,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Scotiabank analyst Orest Wowkodaw has maintained a Sector Perform rating on Ivanhoe Mines while adjusting the price target.",
-      "content": "",
+      "content": "Scotiabank analyst Orest Wowkodaw has maintained a 'Sector Perform' rating on Ivanhoe Mines (TSX: IVN). In the same update, the analyst lowered the price target for the company's shares from C$14 to C$10. The report also noted that the company currently holds 43,000 tonnes of unsold copper at its Kamoa-Kakula complex.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:45+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2205,10 +2572,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Spectrum Brands Holdings, Inc. Executive Vice President Ehsan Zargar recently sold shares of the company, marking the largest insider sale observed in the past year.",
-      "content": "",
+      "content": "Spectrum Brands Holdings, Inc. (NYSE: SPB) saw a notable insider transaction on November 21, 2026, as Executive Vice President Ehsan Zargar sold shares valued at approximately US$2.4 million. The shares were sold at an average price of US$86.45, representing a 24% reduction in the executive's total holdings. While the transaction is identified as the largest insider sale of the company's stock within the last year, market analysis suggests the move is not necessarily indicative of a major fundamental concern for the company. The sale occurred near the prevailing market price of approximately US$80.65.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:45+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2227,10 +2596,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "LandBridge has been selected to join the Russell 3000 Index as part of a broader rebalancing of energy sector stocks.",
-      "content": "",
+      "content": "LandBridge has been named as one of the energy stocks set to join the Russell 3000 Index. This inclusion reflects the company's market position and is part of a scheduled rebalancing of the index. The Russell 3000 is a widely tracked benchmark that includes the 3,000 largest U.S. companies by market capitalization. Inclusion in the index typically increases visibility among institutional investors and may lead to increased trading volume as index-tracking funds adjust their holdings.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:44+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2249,10 +2620,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Porch Group, Inc. Chief Operating Officer Matthew Neagle sold 56,250 shares of company stock in a transaction reported via an SEC Form 4 filing.",
-      "content": "",
+      "content": "On November 13, 2026, Porch Group, Inc. Chief Operating Officer Matthew Neagle sold 56,250 shares of the company's common stock for a total value of $1,180,457. The transaction was executed pursuant to a Rule 10b5-1 trading plan that the executive had established on June 15, 2026. Following this sale, Neagle retains control over 1,680,506 common shares of the company, all of which are held directly. The sale was disclosed in a regulatory filing with the U.S. Securities and Exchange Commission.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:44+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2271,10 +2644,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Analyst Marvin Fong from BTIG has issued a price target of $17.0 for McGraw Hill (NYSE: MH).",
-      "content": "",
+      "content": "Marvin Fong, an analyst at BTIG, has set a price target of $17.0 for McGraw Hill, Inc. (NYSE: MH). This update is part of recent analyst coverage for the company, which has seen multiple price target assessments over the past six months. The company continues to be monitored by institutional investors and analysts as it operates within the educational content and digital learning technology market.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:42+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2293,10 +2668,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Coinbase Chief Policy Officer Faryar Shirzad defended the cryptocurrency industry's bipartisan political engagement in response to criticism from Democrats regarding election spending.",
-      "content": "",
+      "content": "Coinbase Global, Inc. Chief Policy Officer Faryar Shirzad publicly defended the cryptocurrency industry's approach to bipartisan political engagement. The statement was made in response to criticism from Democratic lawmakers regarding the industry's aggressive election spending. This event highlights the company's ongoing involvement in regulatory and political discourse.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:40+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2315,10 +2692,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "BofA Securities indicated that Snowflake's fiscal Q3 outlook remains positive, citing healthy demand momentum despite high investor expectations.",
-      "content": "",
+      "content": "BofA Securities reported that Snowflake's fiscal Q3 outlook remains favorable, with recent demand checks indicating healthy momentum for the company. The firm noted that while the outlook is positive, elevated investor expectations create a high bar for the company to exceed. This commentary provides insight into the company's performance trends as investors look ahead to the upcoming fiscal third-quarter financial results.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:39+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2337,10 +2716,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "J.P. Morgan has reaffirmed its 'Overweight' rating for BeOne Medicines, signaling the firm's continued positive outlook on the company.",
-      "content": "",
+      "content": "J.P. Morgan has maintained its 'Overweight' rating for BeOne Medicines. This analyst action reflects the firm's ongoing positive assessment of the company's market position and prospects. The rating update was reported on November 21, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:38+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2359,10 +2740,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Acuity Inc. has filed SEC documentation regarding a new unsecured delayed draw term loan facility of up to $400 million and the maturity date for its term loan facility.",
-      "content": "",
+      "content": "Acuity Inc. disclosed through SEC filings that it has entered into an amendment providing for an unsecured delayed draw term loan facility of up to $400 million. Additionally, the company confirmed that its term loan facility is scheduled to mature on May 8, 2031. These financial updates were reported on November 21, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:37+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2381,10 +2764,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "AMC Entertainment is testing artificial intelligence to optimize theater programming and auditorium utilization across its European operations.",
-      "content": "",
+      "content": "AMC Entertainment Holdings, Inc. has begun testing AI-powered theater programming within its European cinema network. The initiative aims to optimize auditorium utilization, reduce operational costs, and drive EBITDA growth by leveraging the company's existing operating leverage. This pilot program represents a strategic effort to integrate automation into its exhibition business model.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:36+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2403,10 +2788,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "The U.S. Department of Justice Antitrust Division has cleared the proposed merger between NextEra Energy and Dominion Energy.",
-      "content": "",
+      "content": "The U.S. Department of Justice (DoJ) Antitrust Division has officially cleared the acquisition of Dominion Energy by NextEra Energy. This regulatory approval marks a significant milestone in the merger process, removing a key hurdle for the transaction. The clearance follows a thorough investigation by the DoJ into the competitive implications of the deal. The companies are now expected to proceed with the remaining steps required to finalize the combination.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:35+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2425,10 +2812,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Goldman Sachs has revised its price target for Norwegian Cruise Line Holdings (NCLH) to $27 from $31, while maintaining a \"buy\" rating on the stock.",
-      "content": "",
+      "content": "On November 21, 2026, Goldman Sachs updated its outlook on Norwegian Cruise Line Holdings (NCLH), adjusting the company's price target to $27 from the previous $31. The firm maintained its \"buy\" rating on the stock. This analyst action reflects the firm's updated valuation assessment of the company.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:35+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2447,10 +2836,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Chesapeake Utilities Corporation has projected its total capital investment to surpass $2.2 billion for the five-year period ending in 2028.",
-      "content": "",
+      "content": "Chesapeake Utilities Corporation disclosed a multi-year capital investment outlook, anticipating that total capital expenditures will exceed $2.2 billion over the five-year period concluding in 2028. This projection reflects the company's strategic focus on infrastructure development and energy delivery expansion. The announcement provides investors with a quantified baseline for the company's planned capital allocation through the end of the decade.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:34+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2469,10 +2860,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Investment firm Jefferies has increased its price target for Crane NXT, Co. from $60 to $70.",
-      "content": "",
+      "content": "Jefferies has updated its outlook on Crane NXT, Co., raising the price target for the company's stock from $60 to $70. This adjustment reflects a change in the firm's valuation assessment of the industrial technology company. The update was reported on November 21, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:32+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2491,10 +2884,12 @@
       "source_name": "Alpaca News",
       "author": "",
       "summary": "Multiple financial institutions, including JPMorgan, Baird, Stifel, Piper Sandler, and Canaccord Genuity, updated their investment ratings and price targets for TransMedics Group, Inc. on November 21, 2026.",
-      "content": "",
+      "content": "On November 21, 2026, several Wall Street firms issued updated research notes regarding TransMedics Group, Inc. (TMDX). JPMorgan analyst Allen Gong maintained a Hold rating while lowering the price target from $149 to $85. Baird analyst David Rescott maintained a Buy rating and adjusted the price target from $122 to $117. Stifel analyst Thomas Stephan maintained a Hold rating and reduced the price target from $80 to $70. Piper Sandler analyst Matthew O'Brien maintained a Buy rating with a $100 price target, while Canaccord Genuity analyst William Plovanic maintained a Buy rating and increased the price target from $94 to $120.",
+      "title_zh": "",
+      "summary_zh": "",
       "published_at": "2026-11-22T10:02:32+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:07.023595+08:00",
+      "fetched_at": "2026-11-22T15:33:02.447517+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -2536,13 +2931,17 @@
       "author": "",
       "summary": "Asset tokenization could provide a huge boost to the future growth prospects of Securitize.",
       "content": "",
+      "title_zh": "这只默默无闻的加密股票可能会让所有人惊讶",
+      "summary_zh": "资产代币化可能会为Securitize的未来增长前景提供巨大推动。",
       "published_at": "2026-11-22T09:50:00+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/21/should-you-forget-nvidia-and-buy-these-2-ai-memory-stocks-instead/?.tsrc=rss",
@@ -2553,13 +2952,17 @@
       "author": "",
       "summary": "Memory chips may be cyclical, but this cycle has a long way to go before wrapping up.",
       "content": "",
+      "title_zh": "你应该忘记Nvidia转而买入这2只AI内存股票吗？",
+      "summary_zh": "内存芯片可能是周期性的，但这个周期还有很长的路要走才会结束。",
       "published_at": "2026-11-22T09:23:02+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/21/prediction-some-anthropic-investors-are-about-to-learn-an-expensive-lesson/?.tsrc=rss",
@@ -2621,13 +3024,17 @@
       "author": "",
       "summary": "Nvidia closed 48% below its record on Friday and trades at 15 times its last four quarters of earnings, the lowest since at least 2014 and less than Microsoft or Broadcom. Here is what that price assumes and why the market doubts the earnings.",
       "content": "",
+      "title_zh": "Nvidia股票暴跌48%，现以15倍市盈率交易，为十多年来最便宜，且比Microsoft和Broadcom更便宜",
+      "summary_zh": "Nvidia周五收盘较其记录低48%，并以过去四个季度盈利的15倍交易，这是自2014年以来的最低水平，且低于Microsoft或Broadcom。这是该价格所假设的内容以及市场为何怀疑盈利的原因。",
       "published_at": "2026-11-22T08:47:00+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://finance.yahoo.com/technology/articles/trump-recalls-helping-elon-musk-003010870.html?.tsrc=rss",
@@ -2689,13 +3096,17 @@
       "author": "",
       "summary": "Intuit's sticky tax and small business ecosystem faces off against Oracle's push into AI cloud capacity, and the trade-offs between them look starkly different.",
       "content": "",
+      "title_zh": "Intuit与Oracle：哪只科技股是2027年的更好买入选择？",
+      "summary_zh": "Intuit粘性强的税务和中小企业生态系统与Oracle进军AI云算力的举措形成对比，两者之间的权衡看起来截然不同。",
       "published_at": "2026-11-22T08:00:25+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/21/realty-income-pays-dividends-every-month-heres-what-you-can-expect-10000-invested-to-pay-monthly-in-2027/?.tsrc=rss",
@@ -2740,13 +3151,17 @@
       "author": "",
       "summary": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 47 sold Alphabet and 31 bought, and 19 of the sellers added to Meta Platforms in the same quarter.",
       "content": "",
+      "title_zh": "Stanley Druckenmiller、David Tepper和其他45只大型基金上季度卖出了Alphabet，而31只买入。谁是对的？",
+      "summary_zh": "关键要点在截至9月30日的季度提交13F的460只大型基金中，47只卖出了Alphabet，31只买入，其中19只卖方在同一季度增持了Meta Platforms。",
       "published_at": "2026-11-22T05:19:08+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://finance.yahoo.com/m/9ef9da98-bccf-3565-9a30-9bc3e57ad4b9/dow-jones-futures%3A-after.html?.tsrc=rss",
@@ -2757,13 +3172,17 @@
       "author": "",
       "summary": "The Dow Jones and Nasdaq had their worst week since March 2020, fueled by Nvidia and Anthropic. A fear gauge is soaring. Good news?",
       "content": "",
+      "title_zh": "道琼斯期货：在Nvidia和Anthropic引发疫情以来最糟糕一周后，关注这些“绝对输家”",
+      "summary_zh": "道琼斯指数和纳斯达克指数经历了自2020年3月以来最糟糕的一周，由Nvidia和Anthropic推动。恐慌指数正在飙升。好消息是？",
       "published_at": "2026-11-22T03:18:49+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://www.thestreet.com/retail/t-mobile-t-select-prepaid-wireless-plans-leak?.tsrc=rss",
@@ -2774,13 +3193,17 @@
       "author": "",
       "summary": "T-Mobile’s latest move comes as it faces mounting pressure to keep a key part of its wireless business competitive.",
       "content": "",
+      "title_zh": "T-Mobile泄露文件显示核心客户手机套餐重大变更",
+      "summary_zh": "T-Mobile的最新举措正值其面临越来越大的压力，以保持无线业务关键部分的竞争力。",
       "published_at": "2026-11-22T02:33:00+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://www.trefis.com/stock/dell/articles/624826/dell-up-447-in-5-years-hpe-220-what-did-michael-dell-do-differently/2026-11-21?.tsrc=rss",
@@ -2791,13 +3214,17 @@
       "author": "",
       "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
       "content": "",
+      "title_zh": "Dell五年上涨447%，HPE上涨220%：Michael Dell做了什么不同的事？",
+      "summary_zh": "今日大新闻：2027年会是股票的2022年重演吗。",
       "published_at": "2026-11-22T02:32:03+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://www.trefis.com/stock/msft/articles/627454/microsoft-was-the-only-big-ai-buyer-paying-down-debt-how-much-more-can-it-spend/2026-11-21?.tsrc=rss",
@@ -2808,13 +3235,17 @@
       "author": "",
       "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
       "content": "",
+      "title_zh": "微软是唯一在偿还债务的大型AI买家。它还能花多少钱？",
+      "summary_zh": "今日大新闻：2027年会是股票的2022年重演吗。",
       "published_at": "2026-11-22T02:32:03+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://www.trefis.com/stock/meta/articles/627455/meta-stopped-its-buybacks-to-build-ai-how-much-more-can-it-spend/2026-11-21?.tsrc=rss",
@@ -2825,13 +3256,17 @@
       "author": "",
       "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
       "content": "",
+      "title_zh": "Meta停止回购以建设AI。它还能花多少钱？",
+      "summary_zh": "今日大新闻：2027年会是股票的2022年重演吗。",
       "published_at": "2026-11-22T02:32:03+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "msn:190b3f6bb5e62005278675df23e69c0430dc77b5",
@@ -2902,6 +3337,25 @@
       "extra": {}
     },
     {
+      "id": "msn:405fff86a6b4e6c05ab109a5c43bf894a3dd853c",
+      "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the No. 1 Move All Investors Should Make",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b029aae922d4c708b2689c97f7b9faf&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fif-a-stock-market-crash-is-coming-warren-buffett-says-this-is-the-no-1-move-all-investors-should-make%2far-AA2hWEB2&c=10665140341572275088&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The right strategy can protect your portfolio against even severe market volatility.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T01:30:02+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T15:33:08.302058+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:3d1d3aefc332d39f48fc4342505ef5e65fab8844",
       "title": "QQQ Has Fallen 20%: The Forward P/E Looks Cheap, But The Earnings Aren't Risk-Free",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0292d55c464098b4d87740a4fd7c04&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4970887-qqq-has-fallen-20-percent-forward-pe-looks-cheap-but-earnings-arent-risk-free&c=5546508311613081107&mkt=en-us",
@@ -2953,6 +3407,25 @@
       "extra": {}
     },
     {
+      "id": "msn:4ecd5eb05d7c3477fc434aae01b57277de7f3ed7",
+      "title": "QQQ Has Fallen 20%: The Forward P/E Looks Cheap, But The Earnings Aren't Risk-Free",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b029aae5dec4b66882b046f2ed90af3&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4970887-qqq-has-fallen-20-percent-forward-pe-looks-cheap-but-earnings-arent-risk-free&c=5546508311613081107&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Analyst sees QQQ as near fair value: a base DCF values the Nasdaq-100 at 22,679, 9% below its close, with no margin of safety.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T01:29:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T15:33:08.302058+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.tikr.com/blog/a-1-3-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261121-5m5mfwj7&.tsrc=rss",
       "title": "A $1.3 Billion Fund Just Bought These 3 Stocks",
       "url": "https://www.tikr.com/blog/a-1-3-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261121-5m5mfwj7&.tsrc=rss",
@@ -2961,13 +3434,17 @@
       "author": "",
       "summary": "Key TakeawaysInsight Holdings Group’s newest 13F shows its three biggest new or added positions last quarter were Microsoft, Bloom Energy and a third stock. All three have fallen since Sept.",
       "content": "",
+      "title_zh": "一只13亿美元基金刚刚买入了这3只股票",
+      "summary_zh": "关键要点Insight Holdings Group最新的13F显示，其上一季度最大的三个新增或增持头寸是Microsoft、Bloom Energy和第三只股票。这三只股票自9月以来均已下跌。",
       "published_at": "2026-11-22T01:21:55+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://moneylion.com/trending/money/tech-outages-drive-costco-surge-emergency-prep?.tsrc=rss",
@@ -2978,13 +3455,17 @@
       "author": "",
       "summary": "Recent tech outages prompted a surge in panic buying at Costco. How much emergency preparation is necessary?",
       "content": "",
+      "title_zh": "技术故障导致Costco激增：你应该买多少应急准备？",
+      "summary_zh": "最近的技术故障导致Costco出现恐慌性购买激增。需要多少应急准备？",
       "published_at": "2026-11-22T01:00:42+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://moneylion.com/trending/money/money-moves-hear-about-company-layoffs?.tsrc=rss",
@@ -2995,13 +3476,17 @@
       "author": "",
       "summary": "Worried about possible layoffs? These three financial moves can help you prepare your emergency fund, expenses and income.",
       "content": "",
+      "title_zh": "如果你听说公司裁员，应采取的3个财务举措",
+      "summary_zh": "担心可能的裁员？这三个财务举措可以帮助你准备应急基金、支出和收入。",
       "published_at": "2026-11-22T01:00:40+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://247wallst.com/investing/2026/11/21/google-is-paying-elon-musks-spacex-30-billion-jim-cramer-just-revealed-why/?.tsrc=rss",
@@ -3012,13 +3497,17 @@
       "author": "",
       "summary": "Google builds its own AI chips and runs one of the world's biggest clouds, yet it is leasing GPUs from a rocket company. Cramer's comparison to Apple hints at a deeper shift in what Google pays for, and shareholders should care.",
       "content": "",
+      "title_zh": "Google正在向Elon Musk的SpaceX支付300亿美元。Jim Cramer刚刚揭示了原因",
+      "summary_zh": "Google自己制造AI芯片并运营世界上最大的云之一，但它却从一家火箭公司租用GPU。Cramer与苹果的对比暗示了Google支付内容的更深层转变，股东应该关注这一点。",
       "published_at": "2026-11-22T00:48:17+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://www.tikr.com/blog/buy-microsoft-and-amazon-at-more-than-70x-2028-free-cash-flow-heres-what-their-capex-must-return?ref=yahoofinance&tlnk=yf-261121-crqwjg7c&.tsrc=rss",
@@ -3029,13 +3518,17 @@
       "author": "",
       "summary": "Key TakeawaysAt the Nov. 20 close, Microsoft traded at about 77x the free cash flow analysts expect for fiscal 2028, and Amazon traded at about 75x.",
       "content": "",
+      "title_zh": "以超过2028年自由现金流70倍的价格买入Microsoft和Amazon？它们的资本支出必须回报多少",
+      "summary_zh": "关键要点截至11月20日收盘，Microsoft的交易价格约为分析师预期的2028财年自由现金流的77倍，Amazon约为75倍。",
       "published_at": "2026-11-22T00:20:38+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://247wallst.com/investing/2026/11/21/mark-gurman-says-apple-is-not-set-up-to-move-at-the-pace-of-these-ai-companies/?.tsrc=rss",
@@ -3046,13 +3539,17 @@
       "author": "",
       "summary": "Apple just launched its biggest AI push in years, yet a top Apple reporter says the company's whole operating model is wrong for this race. The real risk may be which assistant your habits settle into next, and what that means for AAPL holders.",
       "content": "",
+      "title_zh": "Mark Gurman称苹果“不具备以这些AI公司速度行动的条件”",
+      "summary_zh": "苹果刚刚推出了多年来最大规模的AI攻势，但一位顶级苹果记者表示，该公司的整体运营模式不适合这场竞赛。真正的风险可能在于你的习惯会最终固定在哪个助手上，以及这对AAPL持有者意味着什么。",
       "published_at": "2026-11-22T00:07:26+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://247wallst.com/investing/2026/11/21/feds-lisa-cook-warns-of-larger-rate-hikes-ahead/?.tsrc=rss",
@@ -3063,13 +3560,17 @@
       "author": "",
       "summary": "A Fed governor says policy is too loose and bigger hikes may be coming, yet bond traders are betting on a slowdown. For anyone holding an S&P 500 fund, the December 9 decision will reveal which side is right.",
       "content": "",
+      "title_zh": "美联储Lisa Cook警告未来将有更大幅度的加息",
+      "summary_zh": "一位美联储理事表示政策过于宽松，可能会有更大的加息，但债券交易员却在押注放缓。对于持有标普500基金的人来说，12月9日的决定将揭示哪一方是正确的。",
       "published_at": "2026-11-22T00:03:16+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "msn:6ec279c1095c0063de14b5b5191aab1eed8059e2",
@@ -3123,6 +3624,25 @@
       "extra": {}
     },
     {
+      "id": "msn:edc9dacd4706c2a3e729d8b2b7a835c604d6f6f2",
+      "title": "Stock market correction? Whatever — Wall Street is bullish on 2027, and one chief ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b029aae922d4c708b2689c97f7b9faf&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fstock-market-correction-whatever-wall-street-is-bullish-on-2027-and-one-chief-investment-officer-sees-the-s-p-500-soaring-45-to-10-000%2far-AA2hWpLv&c=10482299891857901136&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "\"We expect the equity bull market to continue.\" ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T00:02:17+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T15:33:08.302058+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/warren-buffet-stock-portfolio-top-160007034.html?.tsrc=rss",
       "title": "Warren Buffet’s Stock Portfolio: Top 5 Picks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffet-stock-portfolio-top-160007034.html?.tsrc=rss",
@@ -3131,13 +3651,17 @@
       "author": "",
       "summary": "Warren Buffett no longer runs the conglomerate he built over six decades, but his fingerprints are still on nearly everything it owns. He handed the chief executive role to Greg Abel at the end of 2025, and Abel took over at the start of 2026. On September 18, Buffett, 96, stepped down as chairman, a […]",
       "content": "",
+      "title_zh": "Warren Buffet的股票投资组合：前5大持仓",
+      "summary_zh": "Warren Buffett不再管理他六十多年来建立的 conglomerate，但他的印记仍然留在其持有的几乎每一样东西上。他在2025年底将首席执行官职位交给了Greg Abel，Abel在2026年初接管。9月18日，96岁的Buffett辞去董事长职务，一个[…]",
       "published_at": "2026-11-22T00:00:07+08:00",
       "published_date": "2026-11-22",
-      "fetched_at": "2026-11-22T15:06:06.120889+08:00",
+      "fetched_at": "2026-11-22T15:33:01.871199+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
-      "extra": {}
+      "extra": {
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
     },
     {
       "id": "yahoo:https://247wallst.com/investing/2026/11/21/bill-ackman-opened-about-2-billion-in-new-positions-in-alcon-and-intercontinental-exchange/?.tsrc=rss",

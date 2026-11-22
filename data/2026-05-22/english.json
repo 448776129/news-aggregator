@@ -1,0 +1,55 @@
+{
+  "date": "2026-05-22",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-22T15:35:49.352534+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:497b32764a1f5b3ecf5c1dad63e750ceb031fa24",
+      "title": "Britain’s Economy Turns Sour Just as Starmer Had a Reason to Brag",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b029aae48df423ca28f7ca97ed3e4bb&url=https%3a%2f%2fwww.bloomberg.com%2fnews%2farticles%2f2026-05-22%2fbritain-s-economy-turns-sour-just-as-starmer-had-a-reason-to-brag&c=16028365972617793750&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A smile on his face, Keir Starmer approached reporters outside Downing Street on Thursday to talk up recent data that suggested that Britain was the fastest growing economy in the Group of Seven. “I’m ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-05-22T12:00:00+08:00",
+      "published_date": "2026-05-22",
+      "fetched_at": "2026-11-22T15:33:08.302058+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

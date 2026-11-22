@@ -1,0 +1,55 @@
+{
+  "date": "2023-09-07",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-22T15:35:49.351179+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:4191ab4469f78dbaedb6dea9e71c06f397ac08b0",
+      "title": "Why Biden’s strong economy feels so bad to most Americans",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b029aae48df423ca28f7ca97ed3e4bb&url=https%3a%2f%2fwww.cnn.com%2f2023%2f09%2f07%2fbusiness%2fus-economy-biden-approval&c=13701776937923842169&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "What’s the biggest problem with the US economy right now? The vibes are off. By almost any objective measure, Americans are doing much better economically than they were nearly three years ago, when ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2023-09-07T22:02:00+08:00",
+      "published_date": "2023-09-07",
+      "fetched_at": "2026-11-22T15:33:08.302058+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
