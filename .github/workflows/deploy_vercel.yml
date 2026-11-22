@@ -22,3 +22,12 @@ jobs:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
         run: |
           vercel deploy --prod --yes --token "$VERCEL_TOKEN" 2>&1 | tee deploy.log
+
+      - name: Smoke test
+        run: |
+          URL=$(grep -oE 'https://news-aggregator-[a-z0-9-]+\.vercel\.app' deploy.log | tail -1)
+          echo "Testing $URL"
+          curl -fsS "$URL/health"
+          echo
+          curl -fsS "$URL/api/dates" | head -c 300
+          echo
