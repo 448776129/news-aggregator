@@ -3,11 +3,17 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-22T15:56:52.079209+08:00",
-  "count": 2,
+  "generated_at": "2026-11-22T19:59:53.926530+08:00",
+  "count": 3,
   "sources": [
     {
       "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
       "status": "ok",
       "count": 0,
       "error": ""
@@ -65,6 +71,25 @@
       "published_at": "2026-03-02T06:00:00+08:00",
       "published_date": "2026-03-02",
       "fetched_at": "2026-11-22T15:54:54.235462+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b4f769122dfdee230f0ef0b06eb70a36c18c5466",
+      "title": "Cars, SUVs, and Trucks With the Best Fuel Economy",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d9345caa4ff08aec1a9177422898&url=https%3a%2f%2fwww.consumerreports.org%2fcars%2ffuel-economy-efficiency%2fbest-worst-fuel-economy-a3183445363%2f&c=44024000711794280&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Fuel economy is a key factor in the operating costs for vehicles. A small difference in the overall miles-per-gallon rating can add up to big bucks over years of ownership. CR conducts extensive ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-03-02T06:00:00+08:00",
+      "published_date": "2026-03-02",
+      "fetched_at": "2026-11-22T19:59:50.180849+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
