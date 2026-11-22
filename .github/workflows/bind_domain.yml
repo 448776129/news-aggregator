@@ -28,7 +28,7 @@ jobs:
           DOMAIN: ${{ inputs.domain }}
         run: |
           echo "=== domains add ==="
-          vercel domains add "$DOMAIN" news-aggregator --token "$VERCEL_TOKEN" 2>&1 | tee domain.log || true
+          vercel domains add "$DOMAIN" news-aggregator --force --token "$VERCEL_TOKEN" 2>&1 | tee domain.log || true
           echo "=== domains verify ==="
           vercel domains verify "$DOMAIN" --project news-aggregator --token "$VERCEL_TOKEN" 2>&1 | tee verify.log || true
           echo "=== alias set ==="
@@ -37,3 +37,6 @@ jobs:
           if [ -n "$DEPLOY" ]; then
             vercel alias set "$DEPLOY" "$DOMAIN" --token "$VERCEL_TOKEN" 2>&1 | tee alias.log || true
           fi
+          echo "=== custom domain smoke test ==="
+          curl -fsS "https://$DOMAIN/health" || true
+          echo

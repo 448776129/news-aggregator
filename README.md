@@ -2,6 +2,14 @@
 
 从雅虎新闻、新浪财经、金十数据、财联社、雪球、Stocktwits、Reddit、TradingView、Alpaca News、微软 MSN 抓取资讯，按 **财经新闻 / 英文新闻 / 社区新闻** 分类，以 **天** 为单位归档为 JSON，并通过 GitHub Actions 定时自动提交。提供命令行、Python 与 HTTP API 三种查询方式，可按 **日期 + 分类** 精确取数。
 
+## 在线地址
+
+- 主页：https://news.365200.xyz/ （Vercel 备选：`https://news-aggregator-sooty-eight.vercel.app/`）
+- 接口示例：`https://news.365200.xyz/api/news?date=2026-11-22&category=finance`
+- 原始数据：`https://raw.githubusercontent.com/448776129/news-aggregator/main/data/index.json`
+
+归档日期取新闻站点发布时间，而非采集时间；每 5 分钟采集，重复 id 自动去重。
+
 ## 数据源与分类
 
 | 数据源 | 分类代码 | 分类 | 抓取方式 | 凭证 |

@@ -3,8 +3,10 @@ from __future__ import annotations
 
 from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import HTMLResponse
 
 from . import query, storage
+from .web import home_html
 
 app = FastAPI(title="新闻聚合查询接口", version="1.0.0")
 app.add_middleware(
@@ -13,6 +15,11 @@ app.add_middleware(
     allow_methods=["GET"],
     allow_headers=["*"],
 )
+
+
+@app.get("/", response_class=HTMLResponse)
+def home():
+    return home_html()
 
 
 @app.get("/health")
