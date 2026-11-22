@@ -49,14 +49,14 @@ def load_day(date: str, category: str) -> dict[str, Any] | None:
 
 
 def merge_items(existing: list[dict], incoming: list[dict]) -> list[dict]:
-    """按 id 去重；同一 id 保留 fetched_at 更新的那条。"""
+    """按 id 去重；已入库的 id 保留原始记录，避免每 5 分钟刷新 fetched_at。"""
     merged: dict[str, dict] = {}
+    # 先放旧数据，后者只在 id 不存在时补入
     for item in list(existing) + list(incoming):
         if not isinstance(item, dict):
             continue
         key = item.get("id") or f"tmp:{item.get('title', '')}"
-        old = merged.get(key)
-        if old is None or str(item.get("fetched_at", "")) >= str(old.get("fetched_at", "")):
+        if key not in merged:
             merged[key] = item
     items = list(merged.values())
     items.sort(key=lambda x: (x.get("published_at") or x.get("fetched_at") or ""), reverse=True)
@@ -89,6 +89,11 @@ def save_day(
         for result in source_results:
             sources[result.name] = result.to_dict()
 
+    sorted_sources = sorted(sources.values(), key=lambda x: x.get("name", ""))
+    # 内容与来源状态都没变化时不重写文件，避免每 5 分钟产生空提交。
+    if old and old.get("items") == merged and old.get("sources") == sorted_sources:
+        return old
+
     payload = {
         "date": date,
         "category": category,
@@ -96,7 +101,7 @@ def save_day(
         "timezone": str(TZ),
         "generated_at": iso(local_now()),
         "count": len(merged),
-        "sources": sorted(sources.values(), key=lambda x: x.get("name", "")),
+        "sources": sorted_sources,
         "items": merged,
     }
     _write_json(category_path(date, category), payload)
@@ -139,10 +144,21 @@ def rebuild_index() -> dict[str, Any]:
                     "file": f"data/{date}/{filename}",
                     "generated_at": data.get("generated_at", ""),
                 }
+    old_index = read_index()
+    new_dates = sorted(entries.keys(), reverse=True)
+    new_categories = sorted({c for v in entries.values() for c in v})
+    # 索引内容不变时不重写，避免 updated_at 每次刷新造成无意义提交。
+    if (
+        old_index.get("dates") == new_dates
+        and old_index.get("categories") == new_categories
+        and old_index.get("entries") == entries
+    ):
+        return old_index
+
     payload = {
         "updated_at": iso(local_now()),
-        "dates": sorted(entries.keys(), reverse=True),
-        "categories": sorted({c for v in entries.values() for c in v}),
+        "dates": new_dates,
+        "categories": new_categories,
         "entries": entries,
     }
     _write_json(index_path(), payload)
