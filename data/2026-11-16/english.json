@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-16",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-22T19:26:59.659638+08:00",
+  "count": 2,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 2,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:a75b8cccd89c64fbdcd35d45cd071d3face934a7",
+      "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d18070d94f3ba602f2bd289bc8a3&url=https%3a%2f%2fwww.cnbc.com%2f2026%2f11%2f16%2fjapan-q3-gdp-energy-oil-prices.html&c=7647755046040472965&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A Reuters poll of economists had estimated the economy to grow at 0.3%. While Japan's exports beat expectations for two of the three months in the quarter, net exports weighed on the economy as ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-16T02:56:00+08:00",
+      "published_date": "2026-11-16",
+      "fetched_at": "2026-11-22T19:26:58.818178+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:f2256902902da455fd70ba50ea7c18d886c3cf2a",
+      "title": "China’s Economy Disappoints With New Stimulus Yet to Kick In",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d18070d94f3ba602f2bd289bc8a3&url=https%3a%2f%2fwww.bloomberg.com%2fnews%2farticles%2f2026-11-16%2fchina-s-economy-weakens-more-than-forecast-despite-stimulus-push&c=17595778584949889632&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "China’s growth weakened across the board in October as investment unexpectedly worsened while consumption and industrial output undershot estimates, in a sign Beijing’s latest stimulus measures have ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-16T02:00:00+08:00",
+      "published_date": "2026-11-16",
+      "fetched_at": "2026-11-22T19:26:58.818178+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

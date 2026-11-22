@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-27",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-22T19:26:59.658739+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:1df9b1e08cd5ceb6e15754dd3ad4696643d04eb4",
+      "title": "As Chinese retirees boost nation’s economy, some hope for greater consumer freedom in society",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d18070d94f3ba602f2bd289bc8a3&url=https%3a%2f%2fwww.scmp.com%2feconomy%2fchina-economy%2farticle%2f3368939%2fchinese-retirees-boost-nations-economy-some-hope-greater-consumer-freedom-society&c=6766721679723244079&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Even though he was an experienced swimmer and a medical check-up showed he had no condition that made exercise unsafe, 66-year-old Zhao Xin said he was stopped by staff at a local swimming pool from ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-09-27T22:00:00+08:00",
+      "published_date": "2026-09-27",
+      "fetched_at": "2026-11-22T19:26:58.818178+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

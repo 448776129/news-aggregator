@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-22T15:56:52.092650+08:00",
-  "count": 148,
+  "generated_at": "2026-11-22T19:26:59.672748+08:00",
+  "count": 232,
   "sources": [
     {
       "name": "alpaca",
@@ -13,9 +13,15 @@
       "error": ""
     },
     {
-      "name": "msn",
+      "name": "finnhub",
       "status": "ok",
       "count": 4,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 3,
       "error": ""
     },
     {
@@ -27,11 +33,1774 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 33,
+      "count": 36,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://www.tikr.com/blog/a-1-2-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-77qr38x6&.tsrc=rss",
+      "title": "A $1.2 Billion Fund Just Bought These 3 Stocks",
+      "url": "https://www.tikr.com/blog/a-1-2-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-77qr38x6&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysKR Capital, a $1. 17 billion fund, opened a new position in Microsoft and added to Amazon and Gildan Activewear in the third quarter, its latest 13F shows.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T19:20:01+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47301B:0",
+      "title": "South Korea prepares market stabilisation funds after KOSPI hits 10-month low",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47301B:0-south-korea-prepares-market-stabilisation-funds-after-kospi-hits-10-month-low/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T19:13:47+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:KOSPI",
+          "NASDAQ:ANT",
+          "KRX:005930",
+          "KRX:000660"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720GY:0",
+      "title": "Burgan Bank Obtains CBK's Final Approval For Upto KWD 75 Mln Tier 2 Bonds",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720GY:0-burgan-bank-obtains-cbk-s-final-approval-for-upto-kwd-75-mln-tier-2-bonds/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T19:13:08+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KSE:BURG"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/41-6-berkshire-hathaways-358-billion-portfolio-parked-3-artificial-intelligence-ai-stocks/?.tsrc=rss",
+      "title": "41.6% of Berkshire Hathaway's $358 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
+      "url": "https://www.fool.com/investing/2026/11/22/41-6-berkshire-hathaways-358-billion-portfolio-parked-3-artificial-intelligence-ai-stocks/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Berkshire's new CEO has aggressively bought one particular artificial intelligence stock this year.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T19:11:02+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-ceo-jensen-huang-110709516.html?.tsrc=rss",
+      "title": "Nvidia (NVDA) CEO Jensen Huang Resigned As The SEC Opened An Accounting Probe",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-ceo-jensen-huang-110709516.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia (NasdaqGS: NVDA) disclosed an SEC investigation into its accounting practices, focusing on revenue recognition with a major customer. CEO Jensen Huang resigned abruptly, with the board linking his departure to a scandal involving that key client and alleged national security concerns. The SEC probe arrives while the DOJ continues an antitrust review and Nvidia’s board pursues a separate internal governance investigation. The SEC accounting probe and Huang’s resignation now sit...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T19:07:09+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/nike-is-down-79-from-its-peak-here-s-how-much-usd10-000-invested-pays-in-dividends-now/?.tsrc=rss",
+      "title": "Nike Is Down 79% From Its Peak. Here's How Much $10,000 Invested Pays in Dividends Now.",
+      "url": "https://www.fool.com/investing/2026/11/22/nike-is-down-79-from-its-peak-here-s-how-much-usd10-000-invested-pays-in-dividends-now/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The sneaker giant's stock is down, but its yield is up.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T19:00:02+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/article/from-anthropic-to-nvidia-wall-street-just-had-a-bizarre-wild-week-110000443.html?.tsrc=rss",
+      "title": "From Anthropic to Nvidia, Wall Street just had a bizarre, wild week",
+      "url": "https://finance.yahoo.com/markets/article/from-anthropic-to-nvidia-wall-street-just-had-a-bizarre-wild-week-110000443.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "This has been a week for the ages in the investing world, no doubt.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T19:00:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N472009:0",
+      "title": "Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N472009:0-like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T19:00:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SPCX",
+          "NYSE:GS",
+          "NYSE:MS",
+          "NYSE:UBER",
+          "NASDAQ:LYFT",
+          "NASDAQ:Z",
+          "NASDAQ:ANT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N470115:0",
+      "title": "Schumer led Democrats to big Senate win. Now, some say they need a new leader",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N470115:0-schumer-led-democrats-to-big-senate-win-now-some-say-they-need-a-new-leader/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T19:00:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N3MN04P:0",
+      "title": "Chinese stock exchanges to lower margin trading ratio",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N3MN04P:0-chinese-stock-exchanges-to-lower-margin-trading-ratio/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:53:30+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:moodys:38d0bda03bf7d:0",
+      "title": "IPO Street set for year-end revival; 29 firms eye ₹42,000 crore as sentiment improves",
+      "url": "https://www.tradingview.com/news/moodys:38d0bda03bf7d:0-ipo-street-set-for-year-end-revival-29-firms-eye-42-000-crore-as-sentiment-improves/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:51:25+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "PRIVATE:ZEPTO",
+          "PRIVATE:PHONEPE",
+          "NSE:JPL"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/xrp-is-back-under-usd1-is-it-finally-a-buy/?.tsrc=rss",
+      "title": "XRP Is Back Under $1. Is It Finally a Buy?",
+      "url": "https://www.fool.com/investing/2026/11/22/xrp-is-back-under-usd1-is-it-finally-a-buy/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Ripple's success is only loosely tied to the token.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:50:02+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:cnbctv:72ba821ba094b:0",
+      "title": "Wall Street asks what can save AI trade after Anthropic wipeout",
+      "url": "https://www.tradingview.com/news/cnbctv:72ba821ba094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:41:39+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ANT",
+          "NASDAQ:NDX",
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:beincrypto:2413f0e28094b:0",
+      "title": "3 Events That Could Shake Bitcoin Prices During Thanksgiving Week",
+      "url": "https://beincrypto.com/bitcoin-events-thanksgiving-week-pce-expiry/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Beincrypto",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:40:43+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CAPITALCOM:IBIT",
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:d494673f6094b:0",
+      "title": "RailTel wins ₹27 crore order to develop Legal AI platform for Andhra Pradesh government",
+      "url": "https://www.tradingview.com/news/cnbctv:d494673f6094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:37:18+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:RAILTEL"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/street-calls-week-103002019.html?.tsrc=rss",
+      "title": "Street Calls of the Week",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/street-calls-week-103002019.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Investing.com -- The week ran against the grain. Upgrades coincided with declines, downgrades with relief, and the biggest winner was a micro-cap biotech on trial data.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:30:02+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:DJN_DN20261122001350:0",
+      "title": "Has the AI Bubble Already Burst? - Streetwise — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261122001350:0-has-the-ai-bubble-already-burst-streetwise-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:30:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA",
+          "NASDAQ:MU",
+          "NASDAQ:CRWV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261122001351:0",
+      "title": "James Bond's Bare Wrist Sets Off Watch Industry War - Heard on the Street — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261122001351:0-james-bond-s-bare-wrist-sets-off-watch-industry-war-heard-on-the-street-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:30:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SIX:UHR"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/this-pipeline-partnership-raised-its-payout-by-125-for-the-third-straight-year-heres-how-much-longer-it-can-keep-that-up/?.tsrc=rss",
+      "title": "This Pipeline Partnership Raised Its Payout by 12.5% for the Third Straight Year. Here’s How Much Longer It Can Keep That Up.",
+      "url": "https://www.fool.com/investing/2026/11/22/this-pipeline-partnership-raised-its-payout-by-125-for-the-third-straight-year-heres-how-much-longer-it-can-keep-that-up/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "MPLX can still afford to fund its massive distributions.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:27:02+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4755333:0",
+      "title": "Yidu Tech: Revenue rose 5.3% as H1 FY2027 returned to profit, despite lower gross margin",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4755333:0-yidu-tech-revenue-rose-5-3-as-h1-fy2027-returned-to-profit-despite-lower-gross-margin/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:26:32+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:2158"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720BC:0",
+      "title": "Specialities Group Holding Unit Awarded KWD 8.9 Mln Marine Vessels Leasing Tender",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720BC:0-specialities-group-holding-unit-awarded-kwd-8-9-mln-marine-vessels-leasing-tender/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:25:50+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KSE:SPEC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:84c928aa6aeb7:0",
+      "title": "Anteris Technologies Global Corp. (AVR) Reports 1% Heart Failure Hospitalization at One Year",
+      "url": "https://www.tradingview.com/news/tradingview:84c928aa6aeb7:0-anteris-technologies-global-corp-avr-reports-1-heart-failure-hospitalization-at-one-year/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:24:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AVR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:0834d55ed094b:0",
+      "title": "Anteris’ DurAVR THV Demonstrates 1% Heart Failure Hospitalization, Single-Digit Gradients and No Valve-Related Deaths at 1 Year in Patients with Small Aortic Annuli",
+      "url": "https://www.globenewswire.com/news-release/2026/11/22/3407938/0/en/anteris-duravr-thv-demonstrates-1-heart-failure-hospitalization-single-digit-gradients-and-no-valve-related-deaths-at-1-year-in-patients-with-small-aortic-annuli.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:24:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AVR"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:37c53f6defca8150150352844d5082d95736749b",
+      "title": "Stanley Druckenmiller, David Tepper and 33 Other Big Funds Sold Advanced Micro Devices Last Quarter, While 21 Bought. Who’s Right?",
+      "url": "https://www.tikr.com/blog/stanley-druckenmiller-david-tepper-and-33-other-big-funds-sold-advanced-micro-devices-last-quarter-while-21-bought-whos-right?ref=yahoofinance&tlnk=yf-261122-4w2438x8&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysOf 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 35 sold Advanced Micro Devices, including Stanley Druckenmiller’s and David Tepper’s, while 21 bought.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:22:43+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/elon-musks-tesla-and-spacex-committee-merger/?.tsrc=rss",
+      "title": "Elon Musk's Tesla and SpaceX Each Formed a Special Committee to Explore a Merger as His AI Spending Accelerates. Here's Why Combining Them Could Reshape How Investors Value Tesla's Robotaxi Business.",
+      "url": "https://www.fool.com/investing/2026/11/22/elon-musks-tesla-and-spacex-committee-merger/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "A Tesla-SpaceX merger could give the automaker's robotaxi business a boost.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:20:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:53fa01cbed568c7ca7945036a38e559ae1e0c16d",
+      "title": "“The Selloff Does Not End When Fundamentals Improve,” Warns Gene Munster. Nvidia Looks Like 2012 Apple",
+      "url": "https://www.tikr.com/blog/the-selloff-does-not-end-when-fundamentals-improve-warns-gene-munster-nvidia-looks-like-2012-apple?ref=yahoofinance&tlnk=yf-261122-jwx4m5q4&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysNVIDIA stock is 47% below its October high, even after a beat-and-raise quarter and higher earnings estimates. Gene Munster compares NVIDIA to Apple in 2012, and he’s right that better fundamentals alone won’t end the selloff.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:07:16+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.tikr.com/blog/plot-twist-as-cfo-nvidias-interim-ceo-said-over-99-of-singapore-billings-were-for-u-s-customers?ref=yahoofinance&tlnk=yf-261122-mmcx4jc4&.tsrc=rss",
+      "title": "Plot Twist: As CFO, Nvidia’s Interim CEO Said “Over 99%” of Singapore Billings Were for U.S. Customers",
+      "url": "https://www.tikr.com/blog/plot-twist-as-cfo-nvidias-interim-ceo-said-over-99-of-singapore-billings-were-for-u-s-customers?ref=yahoofinance&tlnk=yf-261122-mmcx4jc4&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysNVIDIA fell 14% on Friday after Reuters reported that the SEC’s probe of the chipmaker is examining possible accounting issues. As CFO in August 2025, interim CEO Colette Kress said over 99% of data center compute revenue billed to Singapore was for U.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:04:27+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:moodys:6bf02f5c28135:0",
+      "title": "90% Of SpiceJet Fliers Report Customer Service Issues: Report",
+      "url": "https://www.tradingview.com/news/moodys:6bf02f5c28135:0-90-of-spicejet-fliers-report-customer-service-issues-report/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:00:46+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BSE:SPICEJET"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:d6cce15db30ee:0",
+      "title": "India Inc Earnings Seen Growing 11% In H2 FY27 On Strong Demand: Report",
+      "url": "https://www.tradingview.com/news/moodys:d6cce15db30ee:0-india-inc-earnings-seen-growing-11-in-h2-fy27-on-strong-demand-report/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:00:40+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:MOTILALOFS",
+          "NSE:NIFTY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:benzinga:6376d3669094b:0",
+      "title": "Biden Criticizes White House Ballroom Project, Trump Sees Upside in FBI Hack and More: This Week in Politics",
+      "url": "https://www.tradingview.com/news/benzinga:6376d3669094b:0-biden-criticizes-white-house-ballroom-project-trump-sees-upside-in-fbi-hack-and-more-this-week-in-politics/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Benzinga",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:00:07+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261122001339:0",
+      "title": "Boomers Are Rewriting the Playbook for Old Age. It Doesn't Include Winding Down. — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261122001339:0-boomers-are-rewriting-the-playbook-for-old-age-it-doesn-t-include-winding-down-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T18:00:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:VIK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:6ca768b70094b:0",
+      "title": "The Great Cash Grab Is Crashing Gold, Silver And Bitcoin, Goldman Sachs Warns The Stock Selloff Isn't Over",
+      "url": "https://stocktwits.com/news-articles/markets/equity/why-gold-silver-and-bitcoin-are-crashing-together-the-great-cash-grab/cNbnYXsR91w",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:49:52+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD",
+          "COMEX:SI1!",
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cryptobriefing:b132565e4094b:0",
+      "title": "Kraken upholds trades after Bitcoin briefly drops to $17K on its CAD markets",
+      "url": "https://cryptobriefing.com/kraken-upholds-trades-bitcoin-17k-cad/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:46:29+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD",
+          "NASDAQ:KRAKEN"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/where-will-micron-stock-be-in-3-years/?.tsrc=rss",
+      "title": "Where Will Micron Stock Be in 3 Years?",
+      "url": "https://www.fool.com/investing/2026/11/22/where-will-micron-stock-be-in-3-years/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Micron's stock has plunged in recent months, but the next three years could still be lucrative.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:46:02+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/stock-market-sounds-alarm-bad-news-president-trump-economy/?.tsrc=rss",
+      "title": "The Stock Market Sounds an Alarm as Investors Get Bad News About President Donald Trump's Economy",
+      "url": "https://www.fool.com/investing/2026/11/22/stock-market-sounds-alarm-bad-news-president-trump-economy/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The stock market could decline sharply as persistent inflation and rich valuations fuel investor anxiety.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:41:02+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/broadcom-stock-is-27-below-its-june-record-here-s-where-i-think-it-will-be-in-2030/?.tsrc=rss",
+      "title": "Broadcom Stock Is 27% Below Its June Record. Here's Where I Think It Will Be in 2030.",
+      "url": "https://www.fool.com/investing/2026/11/22/broadcom-stock-is-27-below-its-june-record-here-s-where-i-think-it-will-be-in-2030/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Management's own profit goal points far above today's price. But how much of that depends on a few buyers?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:39:02+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:0eb992d52215cbbfd9ea7fdd9a02cf44af9a17b2",
+      "title": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future",
+      "url": "https://www.fool.com/investing/2026/11/22/nvidia-just-delivered-incredible-results-buy-this-artificial-intelligence-ai-stock-instead-if-you-re-still-worried-about-the-semiconductor-giant-s-future/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The strong demand for Nvidia's advanced AI chips is great news for ASML investors.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:34:02+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:cointelegraph:8169d7dc0094b:0",
+      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+      "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Cointelegraph",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:33:06+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD",
+          "NASDAQ:KRAKEN"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/1000-invested-in-eli-lilly-5-years-ago-is-now-wort/?.tsrc=rss",
+      "title": "$1,000 Invested in Eli Lilly 5 Years Ago Is Now Worth Over $5,000. Could It Soar That Much Again by 2031?",
+      "url": "https://www.fool.com/investing/2026/11/22/1000-invested-in-eli-lilly-5-years-ago-is-now-wort/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The pharma giant offers investors a mix of safety and growth.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:30:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/is-stock-market-crash-imminent-for-ai-driven-trump-bull-market-history-weighs-in-unpleasant-answer/?.tsrc=rss",
+      "title": "Is a Stock Market Crash Imminent for the AI-Driven Trump Bull Market? History Weighs In With an Unpleasant Answer.",
+      "url": "https://www.fool.com/investing/2026/11/22/is-stock-market-crash-imminent-for-ai-driven-trump-bull-market-history-weighs-in-unpleasant-answer/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "History can be a powerful teaching tool for those willing to listen.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:26:02+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N46106H:0",
+      "title": "South Korea to be ready to deploy market stabilisation funds immediately",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46106H:0-south-korea-to-be-ready-to-deploy-market-stabilisation-funds-immediately/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:24:14+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:KOSPI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720GX:0",
+      "title": "Adani Energy Solutions Says Executes SPA To Buy 100% Of Vikramshila Power Transmission On Nov 21, 2026",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720GX:0-adani-energy-solutions-says-executes-spa-to-buy-100-of-vikramshila-power-transmission-on-nov-21-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:12:43+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:ADANIENSOL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N473015:0",
+      "title": "Shanghai Fosun Pharmaceutical Plans A-Share Buyback",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N473015:0-shanghai-fosun-pharmaceutical-plans-a-share-buyback/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:02:39+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SSE:600196"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128585832",
+      "title": "StoneX Adjusts Price Target for Gorilla Technology Group",
+      "url": "https://www.moomoo.com/stock/GRRR-US?chain_id=Name1K9-3FXPhg.1lg4fkg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FGRRR-US%2Fcommunity%22%7D",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "StoneX has revised its price target for Gorilla Technology Group Inc. to $15.00 from $25.00 while maintaining a 'Buy' rating.",
+      "content": "Analyst firm StoneX updated its outlook on Gorilla Technology Group Inc. by lowering the price target from $25.00 to $15.00 per share. Despite the reduction in the price target, the firm maintained its 'Buy' rating on the company's stock.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:02:31+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.841872+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GRRR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128585831",
+      "title": "Nscale Reportedly in Negotiations with Anthropic for Computing Power",
+      "url": "https://www.moomoo.com/hans/news/video/1001717121/anthropic-in-talks-for-45b-nscale-cloud-computing-deal",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Nscale is reportedly in discussions to provide computing power to Anthropic in a deal potentially valued at $45 billion.",
+      "content": "Nscale is reportedly engaged in negotiations to supply computing power to AI developer Anthropic. According to reports, the potential deal could be valued at approximately $45 billion. The discussions highlight Nscale's role as a provider of high-performance compute capacity for AI model training and inference.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:02:30+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.841872+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "NSCL"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128585830",
+      "title": "Vertical Aerospace Ltd. Experiences NYSE Trading Halt",
+      "url": "https://newsfilter.io/ticker/EVTL",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Vertical Aerospace Ltd. (EVTL) was subject to a Limit Up-Limit Down (LULD) trading halt on the New York Stock Exchange on November 21, 2026.",
+      "content": "On November 21, 2026, Vertical Aerospace Ltd. (NYSE: EVTL) experienced a trading halt on the New York Stock Exchange. The event was classified as a Limit Up-Limit Down (LULD) pause, which occurred at 10:15:16 ET. No resumption of trading was noted in the immediate reporting.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:02:12+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.841872+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "EVTL"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128585723",
+      "title": "Aggreko Plans 850 Million Reais Investment in Brazilian Microgrid Projects",
+      "url": "https://www.dubaiprnetwork.com/2/17765/clean-energy-helps-close-latin-america-s-electricity-gap",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Aggreko is set to deploy solar power and battery storage systems across 24 locations in Brazil's Amazonas state to support local electricity networks.",
+      "content": "Aggreko has announced plans to invest approximately 850 million reais in Brazilian microgrid projects, utilizing solar power and Huawei battery storage technology. The initiative aims to enhance electricity networks across 24 locations in the Amazonas state, with the first plants expected to come online in 2027 or 2028. Existing thermal plants will remain operational to maintain supply stability while the new renewable and storage systems are integrated. This project is part of broader efforts to improve energy access and reliability in the region.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:01:34+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.841872+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "AGKO"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/microsoft-stock-gave-back-8-within-2-weeks-of-its-record-here-s-how-past-quick-pullbacks-like-this-played-out/?.tsrc=rss",
+      "title": "Microsoft Stock Gave Back 8% Within 2 Weeks of Its Record. Here's How Past Quick Pullbacks Like This Played Out.",
+      "url": "https://www.fool.com/investing/2026/11/22/microsoft-stock-gave-back-8-within-2-weeks-of-its-record-here-s-how-past-quick-pullbacks-like-this-played-out/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Quick slides like this have hit the software giant 18 times since 1995. How many finished lower a year later?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:01:02+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.049471+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:coinmarketcal:b64937dc3094b:0",
+      "title": "Falcon Finance: Supply unlock releases about 203 million FF - May 2027",
+      "url": "https://coinmarketcal.com/event/token-unlock-0fa90f5e-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:00:19+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:FFUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:2e300e8d3094b:0",
+      "title": "Falcon Finance: FF Supply Unlock Releases About 203.06 Million Tokens - Apr 2027",
+      "url": "https://coinmarketcal.com/event/token-unlock-17e274d7-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:00:14+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:FFUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:6740db76e094b:0",
+      "title": "Falcon Finance: Schedules Unlock of About 203 Million FF - Mar 2027",
+      "url": "https://coinmarketcal.com/event/token-unlock-7e656475-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:00:09+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:FFUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:09074bad2094b:0",
+      "title": "BlackRock, State Street Say Tokenization Won't Kill ETFs, But Could Draw Crypto Holders Who Avoid Banks",
+      "url": "https://stocktwits.com/news-articles/markets/equity/black-rock-state-street-vanguard-brush-off-tokenization-as-an-etf-killer/cNbnFreR91H",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:49:35+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:STT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:a9af6ed9eef9c:0",
+      "title": "Shree Cement to cross 100 mt capacity in 3-4 years, says Chairman Hari Mohan Bangur",
+      "url": "https://www.tradingview.com/news/moodys:a9af6ed9eef9c:0-shree-cement-to-cross-100-mt-capacity-in-3-4-years-says-chairman-hari-mohan-bangur/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:41:29+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:SHREECEM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:4b5cb4d94094b:0",
+      "title": "InvIT IPO rush gathers pace; 4-5 private trusts likely to go public by Mar 2027",
+      "url": "https://www.tradingview.com/news/cnbctv:4b5cb4d94094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:40:55+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:benzinga:e170fe59b094b:0",
+      "title": "Iran's Bahrain Attack Comes as JD Vance Stops Short of Endorsing Trump's War",
+      "url": "https://www.tradingview.com/news/benzinga:e170fe59b094b:0-iran-s-bahrain-attack-comes-as-jd-vance-stops-short-of-endorsing-trump-s-war/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Benzinga",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:36:38+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:9982d5ab2094b:0",
+      "title": "JPMorgan Says $290B AI-Fueled IPO Wave Is A ‘Drop In The Bucket’ For $70 Trillion Stock Market — ‘Eventual Winners In AI May Not Even Exist Yet’",
+      "url": "https://stocktwits.com/news-articles/markets/equity/jpmorgan-290b-ai-ipo-wave-drop-bucket-70-trillion-stock-market/cNbnFLGR91u",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:36:20+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:JPM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:benzinga:144f6a1f8094b:0",
+      "title": "Mark Kelly Says Trump Has Used His Office to Enrich Himself ‘Like No Other President’",
+      "url": "https://www.tradingview.com/news/benzinga:144f6a1f8094b:0-mark-kelly-says-trump-has-used-his-office-to-enrich-himself-like-no-other-president/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Benzinga",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:36:17+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N473014:0",
+      "title": "Zhejiang Huayou Cobalt Plans A-Share Buyback",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N473014:0-zhejiang-huayou-cobalt-plans-a-share-buyback/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:33:53+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SSE:603799"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:047becd9a094b:0",
+      "title": "RVNL emerges as L1 bidder for ₹348 crore East Coast Railway project",
+      "url": "https://www.tradingview.com/news/cnbctv:047becd9a094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:33:45+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:RVNL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47300Y:0",
+      "title": "Seven body bags recovered, 50 missing after Indonesian factory fire",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47300Y:0-seven-body-bags-recovered-50-missing-after-indonesian-factory-fire/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:31:06+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N473013:0",
+      "title": "Suzhou TFC Optical Communication To Invest In Optical Device R&D, Manufacturing Project",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N473013:0-suzhou-tfc-optical-communication-to-invest-in-optical-device-r-d-manufacturing-project/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:20:59+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SZSE:300394"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:benzinga:efaf43ad3094b:0",
+      "title": "China Threatens Retaliation as US Blocks Chinese Telecom Firms From Direct Phone Number Access",
+      "url": "https://www.tradingview.com/news/benzinga:efaf43ad3094b:0-china-threatens-retaliation-as-us-blocks-chinese-telecom-firms-from-direct-phone-number-access/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Benzinga",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:13:29+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SSE:600941",
+          "SSE:601728",
+          "HKEX:762"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:benzinga:f89da97de094b:0",
+      "title": "Washington Gov. Bob Ferguson Says ICE Is ‘Completely and Totally Out of Control’ After Sea-Tac Arrests",
+      "url": "https://www.tradingview.com/news/benzinga:f89da97de094b:0-washington-gov-bob-ferguson-says-ice-is-completely-and-totally-out-of-control-after-sea-tac-arrests/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Benzinga",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:10:10+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:23e136ff8094b:0",
+      "title": "What To Expect In Markets This Week: HPE, DELL, ZM, ZENA, BBY, CLSK Earnings, GDP, PCE And More",
+      "url": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-nov-22-2026/cNbnnY4R91M",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:08:41+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:HPE",
+          "NYSE:DELL",
+          "NASDAQ:ZM",
+          "NYSE:BBY",
+          "NASDAQ:ZENA",
+          "NASDAQ:CLSK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N473011:0",
+      "title": "Suzhou Dongshan Precision Manufacturing Says Over-Allotment Option Partially Exercised For 1.6 Million H-Shares",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N473011:0-suzhou-dongshan-precision-manufacturing-says-over-allotment-option-partially-exercised-for-1-6-million-h-shares/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:05:39+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SZSE:002384"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128579737",
+      "title": "Zest S.p.A. Portfolio Update at Open Innovation Summit 2026",
+      "url": "https://www.italiaonline.news/intelligenza-artificiale-sono-le-startup-a-surfare-la-nuova-ondata-innovativa-anche-in-italia-startupitalia-startupitalia/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "During the Open Innovation Summit 2026, a Zest S.p.A. representative reported that over 40% of the company's portfolio now operates within the artificial intelligence sector.",
+      "content": "At the Open Innovation Summit 2026, a representative from Zest S.p.A. provided an update on the firm's investment strategy and portfolio composition. The company disclosed that more than 40% of its current portfolio is comprised of businesses operating in the artificial intelligence sector. This update highlights the firm's continued focus on digital technology and AI-driven innovation, following its earlier initiatives in the space.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:04:08+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.841872+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ZEST"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128579632",
+      "title": "Altea Green Power Reports Financial Results and Strategic Shift to IPP Model",
+      "url": "https://www.milanofinanza.it/news/energie-rinnovabili-altea-guarda-al-lungo-termine-ma-soffre-nel-breve-202611202137438588",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Altea Green Power reported a decline in financial results for the period ending September 30, 2026, as the company transitions toward an Independent Power Producer (IPP) business model.",
+      "content": "Altea Green Power's financial results for the nine months ending September 30, 2026, reflect the impact of a strategic shift in its business model. Revenues fell to 6.7 million euros from 19.5 million euros in the previous year, with EBITDA decreasing to 1.6 million euros from 11.4 million euros, and a net result of -0.2 million euros compared to 7.4 million euros. The company is transitioning to an Independent Power Producer (IPP) model, which involves acquiring proprietary energy production assets, including recent purchases in Emilia and Puglia. CEO Giovanni Di Pascale attributed the short-term financial pressure to the temporary misalignment between asset development and valuation, emphasizing that this strategy aims to generate recurring revenue and long-term value. To support these acquisitions, the company's net financial position shifted from a positive 4.8 million euros at the end of 2025 to a negative 28.5 million euros.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:03:38+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.841872+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "AGP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cryptobriefing:f16736486094b:0",
+      "title": "MF Markets adds 24/7 perpetual futures trading for Palo Alto Networks",
+      "url": "https://cryptobriefing.com/mf-markets-palo-alto-networks-24-7-trading/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:03:12+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:PANW"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128579631",
+      "title": "ad pepper media International N.V. Reports Third Quarter and Nine Months 2026 Financial Results",
+      "url": "https://in.marketscreener.com/news/companies/positive/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "ad pepper media International N.V. has released its financial results for the third quarter and the first nine months of the fiscal year ending September 30, 2026.",
+      "content": "ad pepper media International N.V. announced its financial performance for the third quarter and the nine-month period ended September 30, 2026. The report provides key metrics regarding the company's revenue, profitability, and operational progress during this period. As a digital performance marketing company, these results reflect the firm's ongoing activities in affiliate marketing, lead generation, and e-commerce solutions across its European markets. The disclosure serves as a formal update for shareholders and market participants regarding the company's fiscal health and strategic execution for the year 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:03:04+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.841872+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "APM"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128579630",
+      "title": "Eurowings Announces New Stuttgart–Bologna Service for Summer 2027",
+      "url": "https://eturbonews.com/global-aviation-news-november-15-21-2026/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Eurowings has included a new route connecting Stuttgart and Bologna in its network expansion plans for the summer 2027 season.",
+      "content": "As part of its network expansion for the summer 2027 season, Eurowings has announced the launch of a new service connecting Stuttgart and Bologna. This route is one of four new services introduced by the Lufthansa Group airline, alongside connections to Copenhagen, Kefalonia, and Turin. The addition of this service represents a new connectivity link for Bologna Airport, contributing to its ongoing efforts to expand its flight network.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:02:54+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.841872+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ADB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N47203E:0",
+      "title": "SNB closely watching for second-round inflation effects, vice chairman tells paper",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N47203E:0-snb-closely-watching-for-second-round-inflation-effects-vice-chairman-tells-paper/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:00:01+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BX:1Y4",
+          "BX:0UB",
+          "SIX:SNBN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:39f1c02deb048:0",
+      "title": "Key facts: Anthropic IPO Raises $81.3B; Ratings Issued; Shares Slip",
+      "url": "https://www.tradingview.com/news/tradingview:39f1c02deb048:0-key-facts-anthropic-ipo-raises-81-3b-ratings-issued-shares-slip/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:00:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ANT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:76aecb0522331:0",
+      "title": "Key facts: NVIDIA CEO Resigns; Q3 Revenue Jumps 103%; SEC Opens Probe",
+      "url": "https://www.tradingview.com/news/tradingview:76aecb0522331:0-key-facts-nvidia-ceo-resigns-q3-revenue-jumps-103-sec-opens-probe/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:00:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:financemagnates:fc7a67cc4094b:0",
+      "title": "Stablecoins in Financial Services: From Roadmap to Rails",
+      "url": "https://www.financemagnates.com/fm-events/stablecoins-in-financial-services-from-roadmap-to-rails/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Finance Magnates",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T16:00:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720BB:0",
+      "title": "MNT-Halan Says Unit Applies To FRA For EGP 30 Billion Securitization Program",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720BB:0-mnt-halan-says-unit-applies-to-fra-for-egp-30-billion-securitization-program/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T15:59:48+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EGX:HALN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47300U:0",
+      "title": "Thailand plans to block exports of chemicals used in Myanmar rare earth mining",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47300U:0-thailand-plans-to-block-exports-of-chemicals-used-in-myanmar-rare-earth-mining/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T15:56:28+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:fce4b1839094b:0",
+      "title": "ETH Is One Small Dip Away From Trouble, But Analyst Calls Ethereum’s Strength Against Bitcoin ‘Incredibly Positive’",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/eth-is-one-small-dip-away-from-trouble-but-analyst-calls-ethereum-s-strength-against-bitcoin-incredibly-positive/cNbnVa7R91t",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T15:54:50+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.570988+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:ETHUSD"
+        ]
+      }
+    },
     {
       "id": "tradingview:moodys:19489f37c8d50:0",
       "title": "Maruti Suzuki hikes select model prices amid cost pressures",
@@ -3005,6 +4774,30 @@
       "extra": {}
     },
     {
+      "id": "finnhub:8790466",
+      "title": "Bahrain says Iran strikes industrial facility as air defences intercept attacks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Bahrain says Iran strikes industrial facility as air defences intercept attacks Reuters",
+      "content": "Bahrain says Iran strikes industrial facility as air defences intercept attacks Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T03:15:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.684051+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "yahoo:https://www.thestreet.com/retail/t-mobile-t-select-prepaid-wireless-plans-leak?.tsrc=rss",
       "title": "T-Mobile leak reveals major phone plan change for core customers",
       "url": "https://www.thestreet.com/retail/t-mobile-t-select-prepaid-wireless-plans-leak?.tsrc=rss",
@@ -3081,6 +4874,30 @@
       "extra": {}
     },
     {
+      "id": "finnhub:8789662",
+      "title": "Israeli strike on vehicle in Gaza kills three, Gaza Health Ministry says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNER6Q2NPRk9TUmtuX1hhQ21MdEdsc05rT0FxZzE4RTczVDJqbjN1My04Zm4tUkd1aUJ4cDdXSTM3ZVl6UVg0S0hLTWs1d1pjLTRDcVgtM1dVeVNvWFZHd1g3NEZCdm5HMlR1U09Cd1JfWUg1cEQ0aUZSU19uSHowSWhEUERvNE5OM1NxTDR1T3VYV21rb25pX1NSOFdFcHlOd3VzYkpMT2VzMlYwRVVSMmFuc2J3SkZ5dUM3Z0M0YXEyZw?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Israeli strike on vehicle in Gaza kills three, Gaza Health Ministry says Reuters",
+      "content": "Israeli strike on vehicle in Gaza kills three, Gaza Health Ministry says Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T02:21:58+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.684051+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "msn:584b294e5c007a622b1734b9bf175ad0f65ae6df",
       "title": "Stock market plummets amid AI sell-off",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b029fcc6187463fbf3f5b3d10dda81a&url=https%3a%2f%2fwww.foxbusiness.com%2fvideo%2f6408678564112&c=12971481592968805581&mkt=en-us",
@@ -3138,6 +4955,25 @@
       "extra": {}
     },
     {
+      "id": "msn:b7be217b2f95a380f1b981509c0b5fc37074f702",
+      "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the No. 1 Move All Investors Should Make",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d180f8ca4958b3cf0671ad093e97&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fif-a-stock-market-crash-is-coming-warren-buffett-says-this-is-the-no-1-move-all-investors-should-make%2far-AA2hWEB2&c=10665140341572275088&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The right strategy can protect your portfolio against even severe market volatility.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T01:30:02+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:58.818178+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:265d73cfe70014c92f0813a8fabc31de66aafc6c",
       "title": "QQQ Has Fallen 20%: The Forward P/E Looks Cheap, But The Earnings Aren't Risk-Free",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b029c243eb248d28fe689e526b06032&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4970887-qqq-has-fallen-20-percent-forward-pe-looks-cheap-but-earnings-arent-risk-free&c=5546508311613081107&mkt=en-us",
@@ -3170,6 +5006,25 @@
       "published_at": "2026-11-22T01:29:00+08:00",
       "published_date": "2026-11-22",
       "fetched_at": "2026-11-22T15:54:54.235462+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:2902ca630ad2ac12cd157aaf0972d6178039191c",
+      "title": "QQQ Has Fallen 20%: The Forward P/E Looks Cheap, But The Earnings Aren't Risk-Free",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d1819ad5406f9fd68627e5817cdf&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4970887-qqq-has-fallen-20-percent-forward-pe-looks-cheap-but-earnings-arent-risk-free&c=5546508311613081107&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Analyst sees QQQ as near fair value: a base DCF values the Nasdaq-100 at 22,679, 9% below its close, with no margin of safety.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T01:29:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:58.818178+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -3233,6 +5088,30 @@
       "extra": {}
     },
     {
+      "id": "finnhub:8789962",
+      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+      "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "CNBC",
+      "summary": "This would make the second recent intrusion into the FBI system.",
+      "content": "This would make the second recent intrusion into the FBI system.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T00:57:34+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.684051+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "CNBC",
+        "category": "top news",
+        "related": "",
+        "image": "https://image.cnbcfm.com/api/v1/image/108556666-17951972432026-11-20t175115z_1355872127_rc2troappj32_rtrmadp_0_usa-trump.jpeg?v=1795197271&w=1920&h=1080"
+      }
+    },
+    {
       "id": "yahoo:https://247wallst.com/investing/2026/11/21/google-is-paying-elon-musks-spacex-30-billion-jim-cramer-just-revealed-why/?.tsrc=rss",
       "title": "Google Is Paying Elon Musk’s SpaceX $30 Billion. Jim Cramer Just Revealed Why",
       "url": "https://247wallst.com/investing/2026/11/21/google-is-paying-elon-musks-spacex-30-billion-jim-cramer-just-revealed-why/?.tsrc=rss",
@@ -3250,6 +5129,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "finnhub:8789862",
+      "title": "US denies Iranian account that missile damaged F-16 over Gulf - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEdyaGtabnZRdHhGLWIzeGx0MkhleGZEYlVpTmFySVFYdlUtd3JfamE1YjlXQmwzWW1xTE83UzJRZ2lra1pEWmFsTXZMbDRlUm9CNTllRHdXR0VWRExIaTlQanhkTDFaU2RjU2dCYkI3WDd2WElmSlFfY1pwVkdxVEw0cDBYNGEwTGFLUGFqUTZPMFIxU0Y4Z25pREJEai16RGNfX3JlWXZOZ05hT3liNUJnU2stVlQ5RV9NZmVBUmhlQQ?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "US denies Iranian account that missile damaged F-16 over Gulf Reuters",
+      "content": "US denies Iranian account that missile damaged F-16 over Gulf Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T00:23:46+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:56.684051+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
     },
     {
       "id": "yahoo:https://www.tikr.com/blog/buy-microsoft-and-amazon-at-more-than-70x-2028-free-cash-flow-heres-what-their-capex-must-return?ref=yahoofinance&tlnk=yf-261121-crqwjg7c&.tsrc=rss",
@@ -3341,6 +5244,25 @@
       "published_at": "2026-11-22T00:02:17+08:00",
       "published_date": "2026-11-22",
       "fetched_at": "2026-11-22T15:54:54.235462+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:cae20e6d6a11857429285b09277c8bd9d32e1827",
+      "title": "Stock market correction? Whatever — Wall Street is bullish on 2027, and one chief ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02d180f8ca4958b3cf0671ad093e97&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fstock-market-correction-whatever-wall-street-is-bullish-on-2027-and-one-chief-investment-officer-sees-the-s-p-500-soaring-45-to-10-000%2far-AA2hWpLv&c=10482299891857901136&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "\"We expect the equity bull market to continue.\" ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T00:02:17+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T19:26:58.818178+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
