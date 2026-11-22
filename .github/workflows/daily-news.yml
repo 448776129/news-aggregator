@@ -1,9 +1,9 @@
-name: 每日新闻抓取与归档
+name: 新闻抓取与归档（每 5 分钟）
 
 on:
   schedule:
-    # UTC 时间，每 6 小时执行一次（北京时间 02:00 / 08:00 / 14:00 / 20:00）
-    - cron: "0 */6 * * *"
+    # UTC 时间，每 5 分钟执行一次（GitHub Actions 定时最小粒度为 5 分钟）
+    - cron: "*/5 * * * *"
   workflow_dispatch:
     inputs:
       date:
@@ -21,7 +21,8 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    # 定时粒度 5 分钟：单次运行限时 4 分钟，避免任务堆积 overlapping。
+    timeout-minutes: 4
     steps:
       - name: 检出仓库
         uses: actions/checkout@v4
