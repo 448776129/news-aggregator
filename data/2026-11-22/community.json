@@ -3,8 +3,8 @@
   "category": "community",
   "category_name": "社区新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-22T20:27:24.355829+08:00",
-  "count": 81,
+  "generated_at": "2026-11-22T20:39:40.074228+08:00",
+  "count": 83,
   "sources": [
     {
       "name": "reddit",
@@ -26,6 +26,58 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:669883175",
+      "title": "$TSLA an australian class action over model 3 and model y self driving claims is in discovery, no settlement yet, per op",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "openclassaction2",
+      "summary": "$TSLA an australian class action over model 3 and model y self driving claims is in discovery, no settlement yet, per open class actions. plaintiffs allege the marketing overstated the tech",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T20:39:22+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T20:39:35.886858+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "community",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "TSLA"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:669883015",
+      "title": "The Maverick was red at the highs this morning — and it never flipped back. 👇 Bearish signals printed near $740, the rib",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "MadMaverick",
+      "summary": "The Maverick was red at the highs this morning — and it never flipped back. 👇 Bearish signals printed near $740, the ribbon went red and curved down, and $SPY slid all day: $739.90 high to a $715.65 low, closed $715.87, down 2%. Sixth straight down day. That's the same signal behind this morning's $736 puts in PennyBois — $4.10 to $11.70, +185%. Three tools. One chart. Bullish signals, bearish signals, and the trend ribbon — it tells you which side to be on before the move, not after. The Maverick — $10/mo, cancel anytime the-maverick.netlify.app NFA · DYODD $QQQ $TSLA $NVDA $AMD",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T20:29:35+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T20:39:35.886858+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "community",
+      "extra": {
+        "sentiment": "Bearish",
+        "symbols": [
+          "SPY",
+          "QQQ",
+          "TSLA",
+          "NVDA",
+          "AMD"
+        ]
+      }
+    },
     {
       "id": "stocktwits:669882897",
       "title": "$TSLA lol Ukrianians in the US and Canada are not loyal Ukrainians.",

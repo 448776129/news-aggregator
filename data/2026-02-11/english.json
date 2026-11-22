@@ -1,0 +1,61 @@
+{
+  "date": "2026-02-11",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-22T20:39:39.954594+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:54c040a071f76b0a86f2f30247745642a7f8fb41",
+      "title": "Developed Economy: Definition, How It Works, HDI Indicator",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02e2889edf44a3b79faecddfb32676&url=https%3a%2f%2fwww.investopedia.com%2fterms%2fd%2fdeveloped-economy.asp&c=5908107393373302070&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Christina Majaski writes and edits finance, credit cards, and travel content. She has 14+ years of experience with print and digital publications. Suzanne is a content marketer, writer, and ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-02-11T13:53:00+08:00",
+      "published_date": "2026-02-11",
+      "fetched_at": "2026-11-22T20:39:37.809331+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

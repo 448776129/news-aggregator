@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-22T20:27:24.361030+08:00",
-  "count": 270,
+  "generated_at": "2026-11-22T20:39:40.167284+08:00",
+  "count": 279,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 4,
+      "count": 5,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 4,
       "error": ""
     },
     {
@@ -38,6 +38,93 @@
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/article/gpu-prices-are-rising-for-nvidias-older-chips-even-as-the-stock-keeps-going-down-chart-of-the-day-123721121.html?.tsrc=rss",
+      "title": "GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day",
+      "url": "https://finance.yahoo.com/markets/article/gpu-prices-are-rising-for-nvidias-older-chips-even-as-the-stock-keeps-going-down-chart-of-the-day-123721121.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Investors can't get out of Nvidia fast enough. The companies running AI can't get enough of its chips.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T20:37:21+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T20:39:35.196174+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:seekingalpha:de893cd74094b:0",
+      "title": "Blame game emerges after Anthropic's IPO market value plunge - WSJ",
+      "url": "https://seekingalpha.com/news/4675405-blame-game-emerges-after-anthropics-ipo-market-value-plunge---wsj?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T20:34:33+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T20:39:35.910748+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ANT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720JS:0",
+      "title": "Al Baraka Group Q3 Income Up BY 52% To $68 Million",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720JS:0-al-baraka-group-q3-income-up-by-52-to-68-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T20:33:07+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T20:39:35.910748+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_SN20261122000967:0",
+      "title": "Can stocks bounce back after a brutal week? This timing model says history is on the market's side.",
+      "url": "https://www.tradingview.com/news/DJN_SN20261122000967:0-can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-market-s-side/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MarketWatch",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T20:30:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T20:39:35.910748+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/22/heres-how-many-shares-of-coca-cola-youd-need-for-10000-in-yearly-dividends/?.tsrc=rss",
       "title": "Here’s How Many Shares of Coca-Cola You’d Need for $10,000 in Yearly Dividends.",
@@ -77,6 +164,30 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "finnhub:8793878",
+      "title": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
+      "url": "https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "CNBC",
+      "summary": "Wall Street analysts can help shortlist attractive dividend-paying stocks, as their recommendations are backed by thorough analysis of a company's financials.",
+      "content": "Wall Street analysts can help shortlist attractive dividend-paying stocks, as their recommendations are backed by thorough analysis of a company's financials.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T20:13:56+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T20:39:36.114025+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "CNBC",
+        "category": "top news",
+        "related": "",
+        "image": "https://image.cnbcfm.com/api/v1/image/108366800-1790168714093-gettyimages-2278538311-P1011086JPG.jpeg?v=1795178273&w=1920&h=1080"
       }
     },
     {
@@ -5715,6 +5826,25 @@
       "extra": {}
     },
     {
+      "id": "msn:ffcc7b36a6e02dd02314772251a651ad02ce826d",
+      "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the No. 1 Move All Investors Should Make",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02e2870e4c43a4a5e64522a0515edd&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fif-a-stock-market-crash-is-coming-warren-buffett-says-this-is-the-no-1-move-all-investors-should-make%2far-AA2hWEB2&c=10665140341572275088&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The right strategy can protect your portfolio against even severe market volatility.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T01:30:02+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T20:39:37.809331+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:265d73cfe70014c92f0813a8fabc31de66aafc6c",
       "title": "QQQ Has Fallen 20%: The Forward P/E Looks Cheap, But The Earnings Aren't Risk-Free",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b029c243eb248d28fe689e526b06032&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4970887-qqq-has-fallen-20-percent-forward-pe-looks-cheap-but-earnings-arent-risk-free&c=5546508311613081107&mkt=en-us",
@@ -5804,6 +5934,25 @@
       "published_at": "2026-11-22T01:29:00+08:00",
       "published_date": "2026-11-22",
       "fetched_at": "2026-11-22T20:27:23.743455+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:ce466a06298563a75e04b33a9328af6dfc3ac2ed",
+      "title": "QQQ Has Fallen 20%: The Forward P/E Looks Cheap, But The Earnings Aren't Risk-Free",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02e288ca844182851b444f8c80ba2b&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4970887-qqq-has-fallen-20-percent-forward-pe-looks-cheap-but-earnings-arent-risk-free&c=5546508311613081107&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Analyst sees QQQ as near fair value: a base DCF values the Nasdaq-100 at 22,679, 9% below its close, with no margin of safety.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T01:29:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T20:39:37.809331+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -5923,6 +6072,25 @@
       "published_at": "2026-11-22T00:47:00+08:00",
       "published_date": "2026-11-22",
       "fetched_at": "2026-11-22T19:59:50.180849+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:94cd403db3785d9fe234c2591b121460f0587da1",
+      "title": "Nvidia Stock Has Crashed 48% and Now Trades at 15 Times Earnings, Its Cheapest in More Than ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02e288ca844182851b444f8c80ba2b&url=https%3a%2f%2f247wallst.com%2finvesting%2f2026%2f11%2f21%2fnvidia-stock-has-crashed-48-and-now-trades-at-15-times-earnings-its-cheapest-in-more-than-a-decade-and-cheaper-than-microsoft-and-broadcom%2f&c=4934697968373711841&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nvidia closed 48% below its record on Friday and trades at 15 times its last four quarters of earnings, the lowest since at least 2014 and less than Microsoft or Broadcom. Here is what that price ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T00:47:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T20:39:37.809331+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
@@ -6099,6 +6267,25 @@
       "published_at": "2026-11-22T00:02:17+08:00",
       "published_date": "2026-11-22",
       "fetched_at": "2026-11-22T20:27:23.743455+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:fd07b02b37947ddbff2c2ede1c20d7968f630d9c",
+      "title": "Stock market correction? Whatever — Wall Street is bullish on 2027, and one chief ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02e2870e4c43a4a5e64522a0515edd&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fstock-market-correction-whatever-wall-street-is-bullish-on-2027-and-one-chief-investment-officer-sees-the-s-p-500-soaring-45-to-10-000%2far-AA2hWpLv&c=10482299891857901136&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "\"We expect the equity bull market to continue.\" ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T00:02:17+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T20:39:37.809331+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",
