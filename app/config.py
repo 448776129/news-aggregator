@@ -90,6 +90,22 @@ GITHUB_RAW_BASE_URL = os.getenv("GITHUB_RAW_BASE_URL", "").strip().rstrip("/")
 GITHUB_REPO = os.getenv("GITHUB_REPO", "").strip()
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "").strip()
 
+# 标题/摘要翻译（OpenAI 兼容 Chat Completions 接口）
+TRANSLATE_ENABLED = os.getenv("TRANSLATE_ENABLED", "1").strip().lower() not in ("0", "false", "no", "off")
+TRANSLATE_API_KEY = os.getenv("TRANSLATE_API_KEY", "").strip()
+TRANSLATE_BASE_URL = os.getenv(
+    "TRANSLATE_BASE_URL", "https://token.sensenova.cn/v1"
+).strip().rstrip("/")
+# 额度耗尽 / 限流时按顺序切换下一个模型
+TRANSLATE_MODELS = [
+    m.strip() for m in os.getenv(
+        "TRANSLATE_MODELS",
+        "deepseek-flash,sensenova-6.8-flash-lite,deepseek-v4-flash,kimi-k3,glm-5.3,sensenova-6.8-flash",
+    ).split(",") if m.strip()
+]
+TRANSLATE_BATCH_SIZE = max(1, int(os.getenv("TRANSLATE_BATCH_SIZE", "20") or 20))
+TRANSLATE_TARGET_LANG = os.getenv("TRANSLATE_TARGET_LANG", "简体中文").strip() or "简体中文"
+
 # 数据目录：默认项目根目录下的 data/，可通过 NEWS_DATA_DIR 覆盖
 DATA_DIR = os.getenv("NEWS_DATA_DIR", "").strip() or os.path.join(
     os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data"

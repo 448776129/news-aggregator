@@ -42,6 +42,7 @@ jobs:
           ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
           ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
           XUEQIU_COOKIE: ${{ secrets.XUEQIU_COOKIE }}
+          TRANSLATE_API_KEY: ${{ secrets.TRANSLATE_API_KEY }}
           NEWS_TIMEZONE: Asia/Shanghai
         run: |
           DATE="${{ github.event.inputs.date }}"

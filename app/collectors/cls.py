@@ -33,7 +33,7 @@ class ClsCollector(BaseCollector):
                 break
         items: list[NewsItem] = []
         for row in rows:
-            content = clean_html(pick(row, "content", "brief", default=""), 600)
+            content = clean_html(pick(row, "content", "brief", default=""))
             title = clean_html(pick(row, "title", default=""), 300) or content[:80]
             if not title:
                 continue

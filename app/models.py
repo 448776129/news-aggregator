@@ -13,8 +13,10 @@ class NewsItem:
     source: str = ""             # 数据源代码，如 cls / reddit
     source_name: str = ""        # 数据源展示名
     author: str = ""
-    summary: str = ""
-    content: str = ""
+    summary: str = ""            # 原文摘要（不截断）
+    content: str = ""            # 原文完整正文（不截断）
+    title_zh: str = ""           # 中文标题（由翻译模块生成，原文保留在 title）
+    summary_zh: str = ""         # 中文摘要（由翻译模块生成，原文保留在 summary）
     published_at: str = ""       # ISO 8601，带时区
     published_date: str = ""     # YYYY-MM-DD（按配置时区）
     fetched_at: str = ""         # 抓取时间 ISO 8601

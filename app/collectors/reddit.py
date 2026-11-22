@@ -41,7 +41,7 @@ class RedditCollector(BaseCollector):
                         id=stable_id("reddit", row.get("id") or title),
                         title=title,
                         url=f"https://www.reddit.com{row.get('permalink', '')}",
-                        summary=clean_html(row.get("selftext", ""), 600),
+                        summary=clean_html(row.get("selftext", "")),
                         author=str(row.get("author", "")),
                         published_at=iso(dt),
                         extra={

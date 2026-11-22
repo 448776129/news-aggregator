@@ -68,7 +68,11 @@ def day(dt: datetime | None) -> str:
     return dt.strftime("%Y-%m-%d") if dt else ""
 
 
-def clean_html(text: Any, limit: int = 600) -> str:
+def clean_html(text: Any, limit: int | None = None) -> str:
+    """清洗 HTML；默认不截断，保证采集到完整正文。
+
+    仅在明确传入 limit（如标题限制 300 字）时才截断。
+    """
     if not text:
         return ""
     if isinstance(text, (list, tuple)):
@@ -78,7 +82,7 @@ def clean_html(text: Any, limit: int = 600) -> str:
     value = re.sub(r"<style[\s\S]*?</style>", " ", value, flags=re.I)
     value = re.sub(r"<[^>]+>", " ", value)
     value = re.sub(r"\s+", " ", value).strip()
-    return value[:limit]
+    return value[:limit] if limit else value
 
 
 def stable_id(source: str, raw: Any) -> str:

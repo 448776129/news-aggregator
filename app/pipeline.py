@@ -5,7 +5,7 @@ import logging
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Any
 
-from . import storage
+from . import storage, translator
 from .collectors import SOURCE_CATEGORY, all_collectors, get_collector
 from .config import WORKERS
 from .models import SourceResult
@@ -47,9 +47,20 @@ def run_fetch(
                 statuses[key] = SourceResult(key, "error", 0, str(exc)[:200])
 
     saved: dict[str, int] = {}
+    translation_stats: dict[str, dict[str, Any]] = {}
     for category in sorted({SOURCE_CATEGORY.get(key, "finance") for key in results}):
         bucket = [item for key, items in results.items() if SOURCE_CATEGORY.get(key) == category for item in items]
         source_results = [result for key, result in statuses.items() if SOURCE_CATEGORY.get(key) == category]
+
+        # 复用上一次已翻译结果，避免每 5 分钟重复翻译相同条目。
+        previous = storage.load_day(date, category) or {}
+        existing = {
+            row.get("id", ""): row
+            for row in previous.get("items", [])
+            if isinstance(row, dict) and row.get("id")
+        }
+        translation_stats[category] = translator.translate_items(bucket, existing)
+
         payload = storage.save_day(date, category, bucket, source_results)
         saved[category] = payload["count"]
 
@@ -59,6 +70,7 @@ def run_fetch(
         "sources": {key: result.to_dict() for key, result in statuses.items()},
         "saved": saved,
         "total": sum(saved.values()),
+        "translation": translation_stats,
     }
     logger.info("抓取完成：%s", summary)
     return summary

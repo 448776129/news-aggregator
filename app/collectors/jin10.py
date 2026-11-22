@@ -59,7 +59,7 @@ class Jin10Collector(BaseCollector):
         for row in rows:
             detail = row.get("data") if isinstance(row.get("data"), dict) else {}
             title = clean_html(pick(detail, "title", default=""), 300)
-            content = clean_html(pick(detail, "content", default=""), 600)
+            content = clean_html(pick(detail, "content", default=""))
             if not title:
                 title = content[:80] or "金十快讯"
             raw_id = pick(row, "id", default=title)

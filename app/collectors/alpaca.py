@@ -26,7 +26,7 @@ class AlpacaCollector(BaseCollector):
             next_day = date
         data = get_json(
             f"{ALPACA_DATA_URL}/v1beta1/news",
-            params={"sort": "desc", "limit": 50, "start": date, "end": next_day, "include_content": "false"},
+            params={"sort": "desc", "limit": 50, "start": date, "end": next_day, "include_content": "true"},
             headers={
                 "APCA-API-KEY-ID": ALPACA_API_KEY,
                 "APCA-API-SECRET-KEY": ALPACA_SECRET_KEY,
@@ -42,12 +42,15 @@ class AlpacaCollector(BaseCollector):
             if not title:
                 continue
             dt = parse_datetime(row.get("created_at"))
+            full_content = clean_html(row.get("content", ""))
+            summary = clean_html(row.get("summary", "")) or full_content
             items.append(
                 NewsItem(
                     id=stable_id("alpaca", row.get("id") or title),
                     title=title,
                     url=str(row.get("url", "")),
-                    summary=clean_html(row.get("summary", "")),
+                    summary=summary,
+                    content=full_content,
                     author=str(row.get("author", "")),
                     published_at=iso(dt),
                     extra={"source": row.get("source", ""), "symbols": row.get("symbols", [])},

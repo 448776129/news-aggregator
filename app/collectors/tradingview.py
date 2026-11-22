@@ -49,7 +49,7 @@ class TradingViewCollector(BaseCollector):
                     id=stable_id("tradingview", raw_id),
                     title=title,
                     url=url,
-                    summary=clean_html(row.get("description", row.get("summary", "")), 600),
+                    summary=clean_html(row.get("description", row.get("summary", ""))),
                     author=str(row.get("source", "")),
                     published_at=iso(dt),
                     extra={"urgency": row.get("urgency", ""), "symbols": symbols},
