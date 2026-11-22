@@ -3,11 +3,17 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-22T15:56:52.078094+08:00",
-  "count": 1,
+  "generated_at": "2026-11-22T20:27:24.346270+08:00",
+  "count": 2,
   "sources": [
     {
       "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
       "status": "ok",
       "count": 0,
       "error": ""
@@ -46,6 +52,25 @@
       "published_at": "2026-02-19T05:01:00+08:00",
       "published_date": "2026-02-19",
       "fetched_at": "2026-11-22T15:54:54.235462+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:2f5c55d969779e2198afa261397f1697398baaa5",
+      "title": "Walmart reports strong holiday growth, but earnings outlook falls short of estimates",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02dfaae02c4ab6a9ac4b1a62153112&url=https%3a%2f%2fwww.cnbc.com%2f2026%2f02%2f19%2fwalmart-wmt-q4-2026-earnings.html&c=2631543614914189390&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Walmart topped fourth-quarter earnings and revenue estimates, but its current fiscal-year earnings outlook fell short of Wall Street's expectations. Chief Financial Officer John David Rainey told CNBC ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-02-19T05:01:00+08:00",
+      "published_date": "2026-02-19",
+      "fetched_at": "2026-11-22T20:27:23.743455+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",

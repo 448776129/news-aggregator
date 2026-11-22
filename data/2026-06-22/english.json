@@ -1,0 +1,61 @@
+{
+  "date": "2026-06-22",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-22T20:27:24.347684+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:0fc999bd74ea7e31e43ad45d5aea6232acecb09f",
+      "title": "Stock Market Today: Dow Up As Bessent Makes This Iran Move; SpaceX Craters (Live Coverage)",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02dfa96180418db17f054c040e4497&url=https%3a%2f%2fwww.investors.com%2fmarket-trend%2fstock-market-today%2fdow-jones-sp500-nasdaq-us-iran-peace-talks-spacex-stock-spcx%2f&c=11706087823865462009&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The tech-heavy Nasdaq composite got mauled by the bears, dropping 1.3%. Micron Technology (MU) outperformed though, rising more than 5% amid ongoing memory-chip shortages. A slight majority of the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-06-22T22:31:00+08:00",
+      "published_date": "2026-06-22",
+      "fetched_at": "2026-11-22T20:27:23.743455+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

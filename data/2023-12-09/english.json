@@ -3,11 +3,17 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-22T15:56:52.077612+08:00",
-  "count": 1,
+  "generated_at": "2026-11-22T20:27:24.345676+08:00",
+  "count": 2,
   "sources": [
     {
       "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
       "status": "ok",
       "count": 0,
       "error": ""
@@ -46,6 +52,25 @@
       "published_at": "2023-12-09T10:00:00+08:00",
       "published_date": "2023-12-09",
       "fetched_at": "2026-11-22T15:54:54.235462+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b1f7a1384ff1f0203acc8a2da4bc16a2f2037fe2",
+      "title": "The economy is a trouble spot for Biden despite strong signs. Here's why",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02dfaaacb64e05877e9c2b287078e7&url=https%3a%2f%2fwww.npr.org%2f2023%2f12%2f09%2f1218291541%2fbiden-economy-inflation-jobs&c=1085595643352617721&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The economy's good. The economy's bad. It depends on who you ask — and increasingly which party is in the White House when you ask. It was yet another strong jobs report Friday, exceeding expectations ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2023-12-09T10:00:00+08:00",
+      "published_date": "2023-12-09",
+      "fetched_at": "2026-11-22T20:27:23.743455+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",

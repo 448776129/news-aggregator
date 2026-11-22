@@ -3,11 +3,17 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-22T15:56:52.075651+08:00",
-  "count": 2,
+  "generated_at": "2026-11-22T20:27:24.344517+08:00",
+  "count": 3,
   "sources": [
     {
       "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
       "status": "ok",
       "count": 0,
       "error": ""
@@ -65,6 +71,25 @@
       "published_at": "2020-05-28T11:00:00+08:00",
       "published_date": "2020-05-28",
       "fetched_at": "2026-11-22T15:54:54.235462+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:edc5d3aa4eefba6130bfd02e7ae3342f3cb447b1",
+      "title": "How Rooftop Carriers Affect Fuel Economy for Cars and SUVs",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02dfaaacb64e05877e9c2b287078e7&url=https%3a%2f%2fwww.consumerreports.org%2ffuel-economy-efficiency%2fhow-rooftop-carriers-affect-fuel-economy%2f&c=16923703402027703297&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "When you shop through retailer links on our site, we may earn affiliate commissions. 100% of the fees we collect are used to support our nonprofit mission. Learn more. A car rooftop carrier is a great ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2020-05-28T11:00:00+08:00",
+      "published_date": "2020-05-28",
+      "fetched_at": "2026-11-22T20:27:23.743455+08:00",
       "crawl_date": "2026-11-22",
       "lang": "en",
       "category": "english",

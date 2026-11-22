@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-03",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-22T20:27:24.349092+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:2e17d682fd5ab2a240f499bf8c01dc2c18f95a91",
+      "title": "September Stock Market Outlook: How to Position Your Portfolio During a Risky Stage",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02dfa96180418db17f054c040e4497&url=https%3a%2f%2fwww.morningstar.com%2fstocks%2fseptember-stock-market-outlook-how-position-your-portfolio-during-risky-stage&c=3855692306795363769&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The US stock market is trading at a 9% discount to a composite of our valuations. Undervaluation is extremely concentrated; excluding just seven mega-cap stocks, the remaining market is at fair value.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-09-03T15:34:00+08:00",
+      "published_date": "2026-09-03",
+      "fetched_at": "2026-11-22T20:27:23.743455+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

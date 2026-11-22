@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-19",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-22T20:27:24.348841+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:d2c37d52a554a17b0f9687ef93d7c2175c78c055",
+      "title": "If a Stock Market Crash Is Coming, History Says This Is the Best Move Investors Can Make",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02dfa96180418db17f054c040e4497&url=https%3a%2f%2fwww.fool.com%2finvesting%2f2026%2f08%2f19%2fif-a-stock-market-crash-is-coming-history-says-thi%2f&c=17954229518019539844&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Some market metrics are displaying patterns last seen during the dot-com bear market. History suggests that keeping a long-term outlook is more important than ever. However, no bull market can last ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-08-19T14:29:00+08:00",
+      "published_date": "2026-08-19",
+      "fetched_at": "2026-11-22T20:27:23.743455+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

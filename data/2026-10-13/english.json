@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-13",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-22T20:27:24.350176+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:6f9072f2e15e769d0f206d27380d7f69e68c3f30",
+      "title": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02dfa96180418db17f054c040e4497&url=https%3a%2f%2fwww.cnbc.com%2f2026%2f10%2f13%2fpaul-tudor-jones-2027-really-challenging-year.html&c=264744140604887218&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Paul Tudor Jones told CNBC's \"Squawk Box\" on Tuesday that next year could be a tough one for the stock market because of increased equity supply from big tech IPOs. \"2027 is going to be really, really ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-10-13T13:40:00+08:00",
+      "published_date": "2026-10-13",
+      "fetched_at": "2026-11-22T20:27:23.743455+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
