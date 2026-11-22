@@ -72,6 +72,12 @@ def save_day(
     old = load_day(date, category)
     old_items = old.get("items", []) if old else []
     merged = merge_items(old_items, [item.to_dict() for item in items])
+    # 按新闻发布时间归档：剔除历史遗留的“采集日归档”条目。
+    # 老数据没有 published_date 时保留，继续按采集日兜底。
+    merged = [
+        item for item in merged
+        if not item.get("published_date") or item.get("published_date") == date
+    ]
 
     # 合并来源状态：同一来源保留最近一次结果
     sources: dict[str, dict] = {}
