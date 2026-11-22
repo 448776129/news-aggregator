@@ -1,0 +1,63 @@
+name: 每日新闻抓取与归档
+
+on:
+  schedule:
+    # UTC 时间，每 6 小时执行一次（北京时间 02:00 / 08:00 / 14:00 / 20:00）
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "要归档的日期 YYYY-MM-DD（留空为当天）"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 抓取并归档
+        env:
+          JIN10_SECRET_KEY: ${{ secrets.JIN10_SECRET_KEY }}
+          ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+          XUEQIU_COOKIE: ${{ secrets.XUEQIU_COOKIE }}
+          NEWS_TIMEZONE: Asia/Shanghai
+        run: |
+          DATE="${{ github.event.inputs.date }}"
+          if [ -n "$DATE" ]; then
+            python run.py fetch --date "$DATE"
+          else
+            python run.py fetch
+          fi
+
+      - name: 提交归档数据
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "没有新增数据，跳过提交。"
+          else
+            git commit -m "chore: 更新新闻归档 $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
