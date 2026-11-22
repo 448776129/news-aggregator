@@ -1,0 +1,37 @@
+name: Bind Custom Domain
+
+on:
+  workflow_dispatch:
+    inputs:
+      domain:
+        description: "要绑定的域名"
+        required: true
+        default: "news.365200.xyz"
+
+jobs:
+  bind:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Vercel CLI
+        run: npm install -g vercel@latest
+
+      - name: Add domain to project
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          DOMAIN: ${{ inputs.domain }}
+        run: |
+          echo "=== domains add ==="
+          vercel domains add "$DOMAIN" news-aggregator --token "$VERCEL_TOKEN" 2>&1 | tee domain.log || true
+          echo "=== alias set ==="
+          DEPLOY=$(vercel ls news-aggregator --prod --json --token "$VERCEL_TOKEN" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d[0]['url'] if d else '')")
+          echo "deployment: $DEPLOY"
+          if [ -n "$DEPLOY" ]; then
+            vercel alias set "$DEPLOY" "$DOMAIN" --token "$VERCEL_TOKEN" 2>&1 | tee alias.log || true
+          fi
