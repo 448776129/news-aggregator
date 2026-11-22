@@ -3,7 +3,8 @@ name: 新闻抓取与归档（每 5 分钟）
 on:
   schedule:
     # UTC 时间，每 5 分钟执行一次（GitHub Actions 定时最小粒度为 5 分钟）
-    - cron: "*/5 * * * *"
+    # 错开到 :03/:08/... 而不是整 5 分钟点，避开整点调度高峰导致的丢跑
+    - cron: "3,8,13,18,23,28,33,38,43,48,53,58 * * * *"
   workflow_dispatch:
     inputs:
       date:
