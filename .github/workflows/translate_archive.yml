@@ -1,0 +1,54 @@
+name: AI 翻译归档新闻（每小时）
+
+# 只翻译 2026-11-22 及之后归档的标题与摘要；
+# 已存在中文译文的条目自动跳过，避免重复翻译。
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # UTC 整点 → 北京时间每小时 08:00 / 09:00 ...
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: translate-archive
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: AI 翻译标题与摘要
+        env:
+          TRANSLATE_ENABLED: "1"
+          TRANSLATE_API_KEY: ${{ secrets.TRANSLATE_API_KEY }}
+          TRANSLATE_DATE_FROM: "2026-11-22"
+          TRANSLATE_MODELS: "sensenova-6.8-flash-lite"
+          TRANSLATE_BATCH_SIZE: "1000"
+          TRANSLATE_MAX_ITEMS: "200"
+          TRANSLATE_TIME_BUDGET: "180"
+        run: python scripts/translate_archive.py
+
+      - name: 提交译文
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "没有新译文，跳过提交。"
+          else
+            git commit -m "chore: AI 翻译新闻标题与摘要 $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi

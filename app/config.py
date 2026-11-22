@@ -91,7 +91,9 @@ GITHUB_REPO = os.getenv("GITHUB_REPO", "").strip()
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "").strip()
 
 # 标题/摘要翻译（OpenAI 兼容 Chat Completions 接口）
-TRANSLATE_ENABLED = os.getenv("TRANSLATE_ENABLED", "1").strip().lower() not in ("0", "false", "no", "off")
+TRANSLATE_ENABLED = os.getenv("TRANSLATE_ENABLED", "0").strip().lower() not in ("0", "false", "no", "off")
+# 只翻译该日期及之后的归档数据（含当天）
+TRANSLATE_DATE_FROM = os.getenv("TRANSLATE_DATE_FROM", "2026-11-22").strip()
 TRANSLATE_API_KEY = os.getenv("TRANSLATE_API_KEY", "").strip()
 TRANSLATE_BASE_URL = os.getenv(
     "TRANSLATE_BASE_URL", "https://token.sensenova.cn/v1"
@@ -103,12 +105,12 @@ TRANSLATE_MODELS = [
         "sensenova-6.8-flash-lite",
     ).split(",") if m.strip()
 ]
-# 翻译总时间预算（秒）；超时就跳过剩余翻译，保证采集任务按时结束。
-TRANSLATE_TIME_BUDGET = max(5, int(os.getenv("TRANSLATE_TIME_BUDGET", "60") or 60))
+# 翻译总时间预算（秒）；超时就跳过剩余翻译，跑不完就不跑。
+TRANSLATE_TIME_BUDGET = max(5, int(os.getenv("TRANSLATE_TIME_BUDGET", "180") or 180))
 # 一个栏目一次 API 调用完成翻译；批大小覆盖单栏目上限即可。
 TRANSLATE_BATCH_SIZE = max(1, int(os.getenv("TRANSLATE_BATCH_SIZE", "1000") or 1000))
-# 单次运行最多翻译多少条；0 表示不限制。默认 60 条以控制在 5 分钟任务时限内。
-TRANSLATE_MAX_ITEMS = max(0, int(os.getenv("TRANSLATE_MAX_ITEMS", "60") or 0))
+# 单次运行最多翻译多少条；0 表示不限制。小时任务默认 200 条。
+TRANSLATE_MAX_ITEMS = max(0, int(os.getenv("TRANSLATE_MAX_ITEMS", "200") or 0))
 TRANSLATE_TARGET_LANG = os.getenv("TRANSLATE_TARGET_LANG", "简体中文").strip() or "简体中文"
 
 # 数据目录：默认项目根目录下的 data/，可通过 NEWS_DATA_DIR 覆盖

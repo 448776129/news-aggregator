@@ -234,12 +234,16 @@ def translate_items(items: list[NewsItem], existing: dict[str, dict[str, str]] |
                 target = by_id.get(str(row.get("id", "")))
                 if not target:
                     continue
-                if row.get("title"):
+                filled = 0
+                if row.get("title") and not target.title_zh:
                     target.title_zh = str(row["title"]).strip()
-                if row.get("summary"):
+                    filled += 1
+                if row.get("summary") and not target.summary_zh:
                     target.summary_zh = str(row["summary"]).strip()
-                target.extra["translate_model"] = model
-                stats["translated"] += 1
+                    filled += 1
+                if filled:
+                    target.extra["translate_model"] = model
+                    stats["translated"] += filled
             stats["model"] = model
         else:
             stats["failed"] += len(batch)
