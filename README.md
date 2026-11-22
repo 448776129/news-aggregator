@@ -145,9 +145,15 @@ for item in result["items"]:
 ## GitHub Actions
 
 1. 把项目推送到 GitHub 仓库。
-2. 在 **Settings → Secrets and variables → Actions** 添加需要的密钥：`JIN10_SECRET_KEY`、`ALPACA_API_KEY`、`ALPACA_SECRET_KEY`、`XUEQIU_COOKIE`（均为可选）。
-3. Workflow 默认每 6 小时执行一次（北京时间 02:00 / 08:00 / 14:00 / 20:00），也可在 Actions 页面手动触发并指定日期回填。
+2. 在 **Settings → Secrets and variables → Actions** 添加需要的密钥：`JIN10_SECRET_KEY`、`ALPACA_API_KEY`、`ALPACA_SECRET_KEY`、`FINNHUB_API_KEY`、`XUEQIU_COOKIE`（均为可选）。
+3. `daily-news.yml` 每 5 分钟采集一次（cron 已错峰到 `:03/:08/...`），也可在 Actions 页面手动触发并指定日期回填。
 4. 仓库需允许 Actions 写入：`Settings → Actions → General → Workflow permissions` 选择 **Read and write permissions**。
+
+### 定时触发说明
+
+新建仓库的 `schedule` 注册可能长时间不生效（实测本仓库与 `news-cron` 建仓 6 小时内 `event=schedule` 均为 0 次，而账号下老仓库正常）。因此保留了一个兜底「闹钟」仓库 **`news-cron`**：它每 5 分钟调用 `workflow_dispatch` 触发本仓库的采集工作流，密钥为 `DISPATCH_TOKEN`。
+
+采集本身按 `id` 去重、按 `published_date` 归档，重复触发不会产生重复数据。
 
 ## 可调参数
 
