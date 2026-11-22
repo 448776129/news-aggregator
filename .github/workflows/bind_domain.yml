@@ -32,17 +32,7 @@ jobs:
           echo "=== domains verify ==="
           vercel domains verify "$DOMAIN" --project news-aggregator --token "$VERCEL_TOKEN" 2>&1 | tee verify.log || true
           echo "=== alias set ==="
-          DEPLOY=$(vercel ls news-aggregator -e production --json --token "$VERCEL_TOKEN" | python3 -c "
-import sys, json
-d = json.load(sys.stdin)
-if isinstance(d, dict):
-    for key in ('deployments', 'data', 'items'):
-        if isinstance(d.get(key), list):
-            d = d[key]
-            break
-if isinstance(d, list) and d:
-    print(d[0].get('url', ''))
-")
+          DEPLOY=$(vercel ls news-aggregator -e production --json --token "$VERCEL_TOKEN" | python3 -c "import sys,json; d=json.load(sys.stdin); d=d.get('deployments',d) if isinstance(d,dict) else d; print(d[0].get('url','') if isinstance(d,list) and d else '')")
           echo "deployment: $DEPLOY"
           if [ -n "$DEPLOY" ]; then
             vercel alias set "$DEPLOY" "$DOMAIN" --token "$VERCEL_TOKEN" 2>&1 | tee alias.log || true
