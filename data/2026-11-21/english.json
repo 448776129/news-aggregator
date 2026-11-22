@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-22T20:39:39.976646+08:00",
-  "count": 76,
+  "generated_at": "2026-11-23T03:29:13.015712+08:00",
+  "count": 81,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 34,
+      "count": 37,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "error": ""
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 12,
+      "count": 5,
       "error": ""
     }
   ],
@@ -237,6 +237,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "finnhub:8794288",
+      "title": "AI selloff spurs haven demand for Yen, Franc as Dollar slips",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/ai-selloff-boosts-haven-demand-for-yen-franc-as-dollar-slips",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Bloomberg",
+      "summary": "The yen gained 0.7% against the dollar Friday, while the franc snapped an eight-day losing streak to rise 0.4%",
+      "content": "The yen gained 0.7% against the dollar Friday, while the franc snapped an eight-day losing streak to rise 0.4%",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-21T22:37:37+08:00",
+      "published_date": "2026-11-21",
+      "fetched_at": "2026-11-23T03:29:09.207863+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Bloomberg",
+        "category": "top news",
+        "related": "",
+        "image": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png"
+      }
     },
     {
       "id": "finnhub:8789458",
@@ -887,6 +911,30 @@
       }
     },
     {
+      "id": "finnhub:8794694",
+      "title": "Brazil ex-President Bolsonaro hospitalized with intestinal obstruction - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnhGQzVqMUN5Z0VlenUyUE1IRndZMnpvNXRnbmkxRWdhMUZQSUJTX1FiVk5KN0JHN0RLQm4zRnJqWm4zQUkyOXQ1RENLU2xQN0dJbnZvc2hNbXJSTU9ic1BjLXA5VVZGZEVISUxPZk9Ibl9SaDZ5YVFvRUhSMi1fRVRkX0luUi1HSkh6RGdUM2pUVmZ0RlBPUXI3dU5NX0I1bEwteUlUOTUyYk9mWGNJekt2cGdCUDhZbHN6clJkNEhKQQ?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Brazil ex-President Bolsonaro hospitalized with intestinal obstruction Reuters",
+      "content": "Brazil ex-President Bolsonaro hospitalized with intestinal obstruction Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-21T07:15:48+08:00",
+      "published_date": "2026-11-21",
+      "fetched_at": "2026-11-23T03:29:09.207863+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "finnhub:8787124",
       "title": "Araqchi says Iran wants diplomacy to end war, Trump says terms unacceptable - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMmJ1MkI1NFRhVGFBd09OcklwWXpmN2taa1EtT1pfNWxDSzZhamdaUkJubjMxb01yQV9zQ0hqQ0JFVGFGUE92RFRvRjh1Q21UeElHcWFxWnRhdnFlZFNuT1BBY081U2tyTVpaZmU5RmR6cmRfcklWUG1LeXRfdUZJTlNGQ213X0JDNGdzMTZOdVlPTVZYZVZaUmdGVVFpYmJFdG5xSUlBclI0QWlPYzdsTFdncWJjeF80XzI5N3NXMDM4b1E?oc=5",
@@ -1107,6 +1155,30 @@
       "published_date": "2026-11-21",
       "fetched_at": "2026-11-22T19:26:56.684051+08:00",
       "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
+      "id": "finnhub:8786527",
+      "title": "Xi hails 'comprehensive turnaround' in China-Australia ties - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHhaMkRlWERNdEhzanBwSHBJVVU4eUFLSUUzaXF6OFRnOTczX29tdnlhZEM0ZlhNZnBRTmpjcXVKQVZyOUxycnhVMmRwQzBUSlhwS1pDOG9KZ2V5dlhoaW40MWJUQ0RVTmNVY0xhWTd4Sm52QmhGSnp6M3NvSHBsU2RDbFV2WGV1dk9KTm1TYTdpZUcydUtNc3M3MzhVWFRJSHVQRA?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Xi hails 'comprehensive turnaround' in China-Australia ties Reuters",
+      "content": "Xi hails 'comprehensive turnaround' in China-Australia ties Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-21T04:33:29+08:00",
+      "published_date": "2026-11-21",
+      "fetched_at": "2026-11-23T03:29:09.207863+08:00",
+      "crawl_date": "2026-11-23",
       "lang": "en",
       "category": "english",
       "extra": {
@@ -1558,6 +1630,25 @@
       "extra": {}
     },
     {
+      "id": "msn:a561372962c4811124fc66c5e83970f3327d022a",
+      "title": "Stock Market News From Nov. 20, 2026: Stocks Tumble Into Correction",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b034285e88246059d56646aed2a047b&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today-112026&c=13849612895385174877&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The S&P 500 and Nasdaq were both set to open lower as the tech selloff deepened after the Claude developer's trading debut failed to ease AI fears.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-21T00:39:00+08:00",
+      "published_date": "2026-11-21",
+      "fetched_at": "2026-11-23T03:29:10.765090+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:fc1a48af511dfaf7039770410a3381926801a379",
       "title": "Stock Market News, Nov. 20, 2026: Tech Rout Deepens as Nvidia, Anthropic Slide",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b029c247d4b4a3cbe221bf0c6d959c9&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-20-2026&c=12537421971286575258&mkt=en-us",
@@ -1648,6 +1739,25 @@
       "published_date": "2026-11-21",
       "fetched_at": "2026-11-22T20:39:37.809331+08:00",
       "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:e982749c34c0f2839c559fe294fb6a848172710a",
+      "title": "Stock Market News, Nov. 20, 2026: Tech Rout Deepens as Nvidia, Anthropic Slide",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b034285e88246059d56646aed2a047b&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-20-2026&c=12537421971286575258&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-21T00:01:00+08:00",
+      "published_date": "2026-11-21",
+      "fetched_at": "2026-11-23T03:29:10.765090+08:00",
+      "crawl_date": "2026-11-23",
       "lang": "en",
       "category": "english",
       "extra": {}

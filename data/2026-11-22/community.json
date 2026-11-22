@@ -3,8 +3,8 @@
   "category": "community",
   "category_name": "社区新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-22T20:39:40.074228+08:00",
-  "count": 83,
+  "generated_at": "2026-11-23T03:29:13.017987+08:00",
+  "count": 87,
   "sources": [
     {
       "name": "reddit",
@@ -15,7 +15,7 @@
     {
       "name": "stocktwits",
       "status": "ok",
-      "count": 50,
+      "count": 11,
       "error": ""
     },
     {
@@ -26,6 +26,102 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:669886856",
+      "title": "$AAPL the apple intelligence siri settlement pays $25 to $95 per iphone, per open class actions. suit alleged the ads ov",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "openclassaction2",
+      "summary": "$AAPL the apple intelligence siri settlement pays $25 to $95 per iphone, per open class actions. suit alleged the ads overstated siri features. claims open, claim by dec 21, 2026",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T23:15:55+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-23T03:29:08.736224+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "community",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "AAPL"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:669884258",
+      "title": "$AAPL Prob longer dated contracts and more ITM actually to be safe. We’ll see!",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "TradesTyrone",
+      "summary": "$AAPL Prob longer dated contracts and more ITM actually to be safe. We’ll see!",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T21:37:26+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-23T03:29:08.736224+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "community",
+      "extra": {
+        "sentiment": "Bearish",
+        "symbols": [
+          "AAPL"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:669884010",
+      "title": "$AAPL never",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "5win5",
+      "summary": "$AAPL never",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T21:26:02+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-23T03:29:08.736224+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "community",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "AAPL"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:669883731",
+      "title": "$AAPL Reloading these this week. NVDA type dump coming.",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "TradesTyrone",
+      "summary": "$AAPL Reloading these this week. NVDA type dump coming.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T21:12:08+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-23T03:29:08.736224+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "community",
+      "extra": {
+        "sentiment": "Bearish",
+        "symbols": [
+          "AAPL"
+        ]
+      }
+    },
     {
       "id": "stocktwits:669883175",
       "title": "$TSLA an australian class action over model 3 and model y self driving claims is in discovery, no settlement yet, per op",

@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-22T20:39:39.974341+08:00",
-  "count": 21,
+  "generated_at": "2026-11-23T03:29:13.012450+08:00",
+  "count": 23,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 2,
       "error": ""
     },
     {
@@ -129,6 +129,25 @@
       "published_date": "2026-11-19",
       "fetched_at": "2026-11-22T20:39:37.809331+08:00",
       "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d75a0c464ca4ae0ae03fb7eb82d3daaa57dee313",
+      "title": "Gap Inc. Q3 2026 Earnings Call: Recap of $GAP Earnings, Stock Forecast",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b034285f043455ba84842e83a8333b0&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2feconomy%2fgap-inc-q3-2026-earnings-call-recap-of-gap-earnings-stock-forecast%2far-AA2hOtka&c=12686516210543430195&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The apparel retailer beat third-quarter earnings expectations but reported revenue slightly below forecasts.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-19T23:27:00+08:00",
+      "published_date": "2026-11-19",
+      "fetched_at": "2026-11-23T03:29:10.765090+08:00",
+      "crawl_date": "2026-11-23",
       "lang": "en",
       "category": "english",
       "extra": {}
@@ -395,6 +414,25 @@
       "published_date": "2026-11-19",
       "fetched_at": "2026-11-22T20:39:37.809331+08:00",
       "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:9e7169780c7f3f9123085b79f09e001b179e11ff",
+      "title": "Anthropic shares close up 17% after record-breaking stock market debut",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b034285e88246059d56646aed2a047b&url=https%3a%2f%2fwww.bbc.com%2fnews%2flive%2fc933xxm82mr8t%3fpost%3dasset%253A9b0f1d83-2335-45e2-8e6c-0c816280092c&c=8798198608781707824&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The AI firm's share price started at $111.50, which at that stage gave it a market value close to $2tn - prices then dropped slightly to close at around $97.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-19T13:40:00+08:00",
+      "published_date": "2026-11-19",
+      "fetched_at": "2026-11-23T03:29:10.765090+08:00",
+      "crawl_date": "2026-11-23",
       "lang": "en",
       "category": "english",
       "extra": {}
