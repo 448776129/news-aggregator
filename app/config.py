@@ -103,7 +103,9 @@ TRANSLATE_MODELS = [
         "deepseek-flash,sensenova-6.8-flash-lite,deepseek-v4-flash,kimi-k3,glm-5.3,sensenova-6.8-flash",
     ).split(",") if m.strip()
 ]
-TRANSLATE_BATCH_SIZE = max(1, int(os.getenv("TRANSLATE_BATCH_SIZE", "20") or 20))
+TRANSLATE_BATCH_SIZE = max(1, int(os.getenv("TRANSLATE_BATCH_SIZE", "50") or 50))
+# 单次运行最多翻译多少条；未翻译的条目留给下一次运行逐步补齐。
+TRANSLATE_MAX_ITEMS = max(0, int(os.getenv("TRANSLATE_MAX_ITEMS", "100") or 100))
 TRANSLATE_TARGET_LANG = os.getenv("TRANSLATE_TARGET_LANG", "简体中文").strip() or "简体中文"
 
 # 数据目录：默认项目根目录下的 data/，可通过 NEWS_DATA_DIR 覆盖

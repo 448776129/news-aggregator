@@ -46,29 +46,50 @@ def run_fetch(
                 logger.exception("采集器 %s 失败", key)
                 statuses[key] = SourceResult(key, "error", 0, str(exc)[:200])
 
+    # 归档日期以新闻站点发布的 published_date 为准；发布信息缺失时才回退到采集日。
+    # 同一批抓取可能横跨多天，分别落到对应日期目录。
+    buckets: dict[tuple[str, str], list] = {}
+    for key, items in results.items():
+        category = SOURCE_CATEGORY.get(key, "finance")
+        for item in items:
+            archive_date = item.published_date or date
+            buckets.setdefault((archive_date, category), []).append(item)
+
     saved: dict[str, int] = {}
-    translation_stats: dict[str, dict[str, Any]] = {}
-    for category in sorted({SOURCE_CATEGORY.get(key, "finance") for key in results}):
-        bucket = [item for key, items in results.items() if SOURCE_CATEGORY.get(key) == category for item in items]
-        source_results = [result for key, result in statuses.items() if SOURCE_CATEGORY.get(key) == category]
+    saved_by_date: dict[str, int] = {}
+    translation_stats: dict[str, dict[str, dict[str, Any]]] = {}
+    for (archive_date, category), bucket in sorted(buckets.items()):
+        # 每个归档日单独统计来源条数，全局健康状态仍沿用本次采集结果。
+        counts: dict[str, int] = {}
+        for item in bucket:
+            counts[item.source] = counts.get(item.source, 0) + 1
+        source_results = [
+            SourceResult(key, result.status, counts.get(key, 0), result.error)
+            for key, result in statuses.items()
+            if SOURCE_CATEGORY.get(key) == category
+        ]
 
         # 复用上一次已翻译结果，避免每 5 分钟重复翻译相同条目。
-        previous = storage.load_day(date, category) or {}
+        previous = storage.load_day(archive_date, category) or {}
         existing = {
             row.get("id", ""): row
             for row in previous.get("items", [])
             if isinstance(row, dict) and row.get("id")
         }
-        translation_stats[category] = translator.translate_items(bucket, existing)
+        stats = translator.translate_items(bucket, existing)
+        translation_stats.setdefault(archive_date, {})[category] = stats
 
-        payload = storage.save_day(date, category, bucket, source_results)
-        saved[category] = payload["count"]
+        payload = storage.save_day(archive_date, category, bucket, source_results)
+        saved[category] = saved.get(category, 0) + payload["count"]
+        saved_by_date[archive_date] = saved_by_date.get(archive_date, 0) + payload["count"]
 
     storage.rebuild_index()
     summary = {
         "date": date,
+        "archive_dates": sorted(saved_by_date),
         "sources": {key: result.to_dict() for key, result in statuses.items()},
         "saved": saved,
+        "saved_by_date": saved_by_date,
         "total": sum(saved.values()),
         "translation": translation_stats,
     }

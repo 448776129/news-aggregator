@@ -21,6 +21,7 @@ from .config import (
     TRANSLATE_BATCH_SIZE,
     TRANSLATE_BASE_URL,
     TRANSLATE_ENABLED,
+    TRANSLATE_MAX_ITEMS,
     TRANSLATE_MODELS,
     TRANSLATE_TARGET_LANG,
 )
@@ -155,7 +156,14 @@ def translate_items(items: list[NewsItem], existing: dict[str, dict[str, str]] |
     返回本次翻译统计。
     """
     global _no_key_warned
-    stats = {"enabled": TRANSLATE_ENABLED, "translated": 0, "reused": 0, "failed": 0, "model": ""}
+    stats = {
+        "enabled": TRANSLATE_ENABLED,
+        "translated": 0,
+        "reused": 0,
+        "failed": 0,
+        "deferred": False,
+        "model": "",
+    }
 
     if not TRANSLATE_ENABLED:
         return stats
@@ -189,6 +197,11 @@ def translate_items(items: list[NewsItem], existing: dict[str, dict[str, str]] |
 
     if not pending:
         return stats
+
+    # 限制单次翻译量，保证每 5 分钟的定时任务能在超时前结束。
+    if TRANSLATE_MAX_ITEMS and len(pending) > TRANSLATE_MAX_ITEMS:
+        pending = pending[:TRANSLATE_MAX_ITEMS]
+        stats["deferred"] = True
 
     by_id = {item.id: item for item in items}
     # 同一模型的兼容配置：先 JSON 模式 + 不思考；不支持就降为 low，再去掉 response_format。
