@@ -138,7 +138,7 @@ GET /api/news?date={_esc(date)}&category=english&keyword=rate
   <h2>已归档日期</h2>
   <p>{dates_html or '暂无'}</p>
 
-  <div class="footer">数据源：金十 · 新浪 · 雅虎 · Alpaca · TradingView · Stocktwits · MSN · 雪球 · Reddit · 财联社</div>
+  <div class="footer">数据源：金十 · 新浪 · 雅虎 · Alpaca · Finnhub · TradingView · Stocktwits · MSN · 雪球 · Reddit · 财联社</div>
 </div>
 </body>
 </html>"""

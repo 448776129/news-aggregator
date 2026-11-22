@@ -33,6 +33,7 @@ SOURCE_CATEGORY: dict[str, str] = {
     "tradingview": "english",  # TradingView
     "alpaca": "english",      # Alpaca News
     "msn": "english",         # 微软 MSN / Bing News
+    "finnhub": "english",     # Finnhub News
 }
 
 # 数据源 -> 展示名与语言
@@ -47,6 +48,7 @@ SOURCE_META: dict[str, dict[str, str]] = {
     "tradingview": {"name": "TradingView", "lang": "en"},
     "alpaca": {"name": "Alpaca News", "lang": "en"},
     "msn": {"name": "微软 MSN", "lang": "en"},
+    "finnhub": {"name": "Finnhub News", "lang": "en"},
 }
 
 
@@ -84,6 +86,9 @@ JIN10_SECRET_KEY = os.getenv("JIN10_SECRET_KEY", "").strip()
 ALPACA_API_KEY = os.getenv("ALPACA_API_KEY", "").strip()
 ALPACA_SECRET_KEY = os.getenv("ALPACA_SECRET_KEY", "").strip()
 ALPACA_DATA_URL = os.getenv("ALPACA_DATA_URL", "https://data.alpaca.markets").strip().rstrip("/")
+FINNHUB_API_KEY = os.getenv("FINNHUB_API_KEY", "").strip()
+FINNHUB_API_URL = os.getenv("FINNHUB_API_URL", "https://finnhub.io/api/v1/news").strip().rstrip("/")
+FINNHUB_CATEGORY = os.getenv("FINNHUB_CATEGORY", "general").strip() or "general"
 XUEQIU_COOKIE = os.getenv("XUEQIU_COOKIE", "").strip()
 
 GITHUB_RAW_BASE_URL = os.getenv("GITHUB_RAW_BASE_URL", "").strip().rstrip("/")

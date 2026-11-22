@@ -24,6 +24,7 @@
 | TradingView | `english` | 英文新闻 | 头条 JSON | 无 |
 | Alpaca News | `english` | 英文新闻 | `v1beta1/news` | 需要 |
 | 微软 MSN | `english` | 英文新闻 | Bing News RSS（微软新闻源） | 无 |
+| Finnhub News | `english` | 英文新闻 | `/api/v1/news?category=general` | 需要 |
 
 分类映射可在 `.env` 中用 `NEWS_SOURCE_CATEGORY_MAP` 覆盖，例如：
 

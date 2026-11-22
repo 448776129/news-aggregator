@@ -5,6 +5,7 @@ from ..config import CATEGORIES, SOURCE_CATEGORY, SOURCE_META
 from .base import BaseCollector
 from .alpaca import AlpacaCollector
 from .cls import ClsCollector
+from .finnhub import FinnhubCollector
 from .jin10 import Jin10Collector
 from .msn import MsnCollector
 from .reddit import RedditCollector
@@ -25,6 +26,7 @@ REGISTRY: dict[str, type[BaseCollector]] = {
     "tradingview": TradingViewCollector,
     "alpaca": AlpacaCollector,
     "msn": MsnCollector,
+    "finnhub": FinnhubCollector,
 }
 
 

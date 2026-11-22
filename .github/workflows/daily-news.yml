@@ -41,6 +41,7 @@ jobs:
           JIN10_SECRET_KEY: ${{ secrets.JIN10_SECRET_KEY }}
           ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
           ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
           XUEQIU_COOKIE: ${{ secrets.XUEQIU_COOKIE }}
           NEWS_TIMEZONE: Asia/Shanghai
         run: |
