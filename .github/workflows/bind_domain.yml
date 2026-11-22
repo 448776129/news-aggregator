@@ -40,3 +40,4 @@ jobs:
           echo "=== custom domain smoke test ==="
           curl -fsS "https://$DOMAIN/health" || true
           echo
+          curl -fsS "https://$DOMAIN/" | grep -o '<title>.*</title>' | head -1 || true
