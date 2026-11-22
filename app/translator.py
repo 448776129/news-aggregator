@@ -24,6 +24,7 @@ from .config import (
     TRANSLATE_MAX_ITEMS,
     TRANSLATE_MODELS,
     TRANSLATE_TARGET_LANG,
+    TRANSLATE_TIME_BUDGET,
 )
 from .models import NewsItem
 
@@ -92,6 +93,7 @@ def _post_translate(
     json_mode: bool = True,
     reasoning: str = "none",
     include_thinking: bool = True,
+    timeout: float = 90,
 ):
     """调用一次 Chat Completions，返回 (content, resp, exc)。"""
     system = (
@@ -108,7 +110,7 @@ def _post_translate(
         "temperature": 0,
         # 最低思考模式：不同兼容层都带上，能识别哪个用哪个
         "reasoning_effort": reasoning,
-        "max_tokens": 4096,
+        "max_tokens": 32768,
     }
     if include_thinking:
         payload["thinking"] = {"type": "disabled"}
@@ -122,7 +124,7 @@ def _post_translate(
                 "Content-Type": "application/json",
             },
             json=payload,
-            timeout=90,
+            timeout=timeout,
         )
         if resp.status_code != 200:
             return None, resp, None
@@ -162,6 +164,7 @@ def translate_items(items: list[NewsItem], existing: dict[str, dict[str, str]] |
         "reused": 0,
         "failed": 0,
         "deferred": False,
+        "timeout": False,
         "model": "",
     }
 
@@ -204,67 +207,47 @@ def translate_items(items: list[NewsItem], existing: dict[str, dict[str, str]] |
         stats["deferred"] = True
 
     by_id = {item.id: item for item in items}
-    # 同一模型的兼容配置：先 JSON 模式 + 不思考；不支持就降为 low，再去掉 response_format。
-    configs = (
-        (True, "none", True),
-        (True, "low", True),
-        (True, "low", False),
-        (False, "none", True),
-        (False, "low", True),
-        (False, "low", False),
-    )
+    model = _current_model()
+    if not model:
+        return stats
+
+    # 只用当前（lite）模型，一次调用翻译一个栏目；失败或超时直接跳过，不重试。
+    started = time.monotonic()
     for start in range(0, len(pending), TRANSLATE_BATCH_SIZE):
+        remaining = TRANSLATE_TIME_BUDGET - (time.monotonic() - started)
+        if remaining <= 5:
+            stats["timeout"] = True
+            stats["failed"] += len(pending) - start
+            logger.warning("翻译时间预算 %.0fs 用尽，跳过剩余 %d 条", TRANSLATE_TIME_BUDGET, len(pending) - start)
+            break
         batch = pending[start:start + TRANSLATE_BATCH_SIZE]
-        done = False
-        tried = 0
-        while not done and tried < len(TRANSLATE_MODELS):
-            model = _current_model()
-            if not model:
-                break
-            quota = False
-            for json_mode, reasoning, include_thinking in configs:
-                content, resp, exc = _post_translate(
-                    model, batch, json_mode=json_mode, reasoning=reasoning,
-                    include_thinking=include_thinking,
-                )
-                if content:
-                    parsed = _extract_json(content)
-                    rows = parsed.get("items") if parsed else None
-                    if isinstance(rows, list):
-                        for row in rows:
-                            if not isinstance(row, dict):
-                                continue
-                            target = by_id.get(str(row.get("id", "")))
-                            if not target:
-                                continue
-                            if row.get("title"):
-                                target.title_zh = str(row["title"]).strip()
-                            if row.get("summary"):
-                                target.summary_zh = str(row["summary"]).strip()
-                            target.extra["translate_model"] = model
-                            stats["translated"] += 1
-                        stats["model"] = model
-                        done = True
-                        break
-                    logger.warning("模型 %s 翻译返回格式异常，换配置重试", model)
-                if _quota_error(resp, exc):
-                    quota = True
-                    break
-                body = resp.text if resp is not None else ""
-                if "reasoning_effort" in body or "thinking" in body:
-                    # 该模型不支持当前思考参数配置，换下一个配置重试同一模型
+        content, resp, exc = _post_translate(
+            model, batch, json_mode=True, reasoning="none",
+            include_thinking=True, timeout=max(5, min(90, remaining - 2)),
+        )
+        parsed = _extract_json(content) if content else None
+        rows = parsed.get("items") if parsed else None
+        if isinstance(rows, list):
+            for row in rows:
+                if not isinstance(row, dict):
                     continue
-                logger.warning(
-                    "模型 %s 翻译失败: %s", model,
-                    (exc or (body[:200] if body else "未知错误")),
-                )
-                break
-            _advance_model()
-            tried += 1
-            if quota:
-                logger.warning("模型 %s 额度/限流，切换到下一个模型", model)
-                time.sleep(1)
-        if not done:
+                target = by_id.get(str(row.get("id", "")))
+                if not target:
+                    continue
+                if row.get("title"):
+                    target.title_zh = str(row["title"]).strip()
+                if row.get("summary"):
+                    target.summary_zh = str(row["summary"]).strip()
+                target.extra["translate_model"] = model
+                stats["translated"] += 1
+            stats["model"] = model
+        else:
             stats["failed"] += len(batch)
+            body = resp.text if resp is not None else ""
+            logger.warning(
+                "模型 %s 翻译失败/超时，跳过本栏目剩余条目: %s",
+                model, exc or (body[:200] if body else "未知错误"),
+            )
+            break
 
     return stats

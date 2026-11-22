@@ -55,9 +55,26 @@ def run_fetch(
             archive_date = item.published_date or date
             buckets.setdefault((archive_date, category), []).append(item)
 
+    # 一个栏目只发一次翻译请求（跨日期的同类新闻合并翻译），避免逐批调用拖慢采集。
+    category_items: dict[str, list] = {}
+    for (_, category), bucket in buckets.items():
+        category_items.setdefault(category, []).extend(bucket)
+
+    translation_stats: dict[str, dict[str, Any]] = {}
+    for category, items in category_items.items():
+        # 复用各归档日已有的译文，避免每 5 分钟重复翻译相同条目。
+        existing: dict[str, dict] = {}
+        for (archive_date, cat) in buckets:
+            if cat != category:
+                continue
+            previous = storage.load_day(archive_date, category) or {}
+            for row in previous.get("items", []):
+                if isinstance(row, dict) and row.get("id"):
+                    existing[row["id"]] = row
+        translation_stats[category] = translator.translate_items(items, existing)
+
     saved: dict[str, int] = {}
     saved_by_date: dict[str, int] = {}
-    translation_stats: dict[str, dict[str, dict[str, Any]]] = {}
     for (archive_date, category), bucket in sorted(buckets.items()):
         # 每个归档日单独统计来源条数，全局健康状态仍沿用本次采集结果。
         counts: dict[str, int] = {}
@@ -68,17 +85,6 @@ def run_fetch(
             for key, result in statuses.items()
             if SOURCE_CATEGORY.get(key) == category
         ]
-
-        # 复用上一次已翻译结果，避免每 5 分钟重复翻译相同条目。
-        previous = storage.load_day(archive_date, category) or {}
-        existing = {
-            row.get("id", ""): row
-            for row in previous.get("items", [])
-            if isinstance(row, dict) and row.get("id")
-        }
-        stats = translator.translate_items(bucket, existing)
-        translation_stats.setdefault(archive_date, {})[category] = stats
-
         payload = storage.save_day(archive_date, category, bucket, source_results)
         saved[category] = saved.get(category, 0) + payload["count"]
         saved_by_date[archive_date] = saved_by_date.get(archive_date, 0) + payload["count"]

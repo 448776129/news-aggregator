@@ -100,12 +100,15 @@ TRANSLATE_BASE_URL = os.getenv(
 TRANSLATE_MODELS = [
     m.strip() for m in os.getenv(
         "TRANSLATE_MODELS",
-        "deepseek-flash,sensenova-6.8-flash-lite,deepseek-v4-flash,kimi-k3,glm-5.3,sensenova-6.8-flash",
+        "sensenova-6.8-flash-lite",
     ).split(",") if m.strip()
 ]
-TRANSLATE_BATCH_SIZE = max(1, int(os.getenv("TRANSLATE_BATCH_SIZE", "50") or 50))
-# 单次运行最多翻译多少条；未翻译的条目留给下一次运行逐步补齐。
-TRANSLATE_MAX_ITEMS = max(0, int(os.getenv("TRANSLATE_MAX_ITEMS", "100") or 100))
+# 翻译总时间预算（秒）；超时就跳过剩余翻译，保证采集任务按时结束。
+TRANSLATE_TIME_BUDGET = max(5, int(os.getenv("TRANSLATE_TIME_BUDGET", "90") or 90))
+# 一个栏目一次 API 调用完成翻译；批大小与单次上限都放到足够大。
+TRANSLATE_BATCH_SIZE = max(1, int(os.getenv("TRANSLATE_BATCH_SIZE", "1000") or 1000))
+# 单次运行最多翻译多少条；0 表示不限制。
+TRANSLATE_MAX_ITEMS = max(0, int(os.getenv("TRANSLATE_MAX_ITEMS", "0") or 0))
 TRANSLATE_TARGET_LANG = os.getenv("TRANSLATE_TARGET_LANG", "简体中文").strip() or "简体中文"
 
 # 数据目录：默认项目根目录下的 data/，可通过 NEWS_DATA_DIR 覆盖
