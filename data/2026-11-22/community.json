@@ -3,8 +3,8 @@
   "category": "community",
   "category_name": "社区新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-22T15:41:46.439675+08:00",
-  "count": 50,
+  "generated_at": "2026-11-22T15:56:52.087355+08:00",
+  "count": 52,
   "sources": [
     {
       "name": "reddit",
@@ -26,6 +26,58 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:669880251",
+      "title": "$SPCX $TSLA $NVDA Back to all time highs on Monday morning!",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "Charizardforlife",
+      "summary": "$SPCX $TSLA $NVDA Back to all time highs on Monday morning!",
+      "content": "",
+      "title_zh": "$SPCX $TSLA $NVDA 周一早上回到历史新高！",
+      "summary_zh": "$SPCX $TSLA $NVDA 周一早上回到历史新高！",
+      "published_at": "2026-11-22T15:44:55+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T15:54:52.195297+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "community",
+      "extra": {
+        "sentiment": "Bullish",
+        "symbols": [
+          "SPCX",
+          "TSLA",
+          "NVDA"
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
+    },
+    {
+      "id": "stocktwits:669880228",
+      "title": "$TSLA yuck",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "NaughtyNeighbor",
+      "summary": "$TSLA yuck",
+      "content": "",
+      "title_zh": "$TSLA 恶心",
+      "summary_zh": "$TSLA 恶心",
+      "published_at": "2026-11-22T15:42:43+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-22T15:54:52.195297+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "community",
+      "extra": {
+        "sentiment": "Bearish",
+        "symbols": [
+          "TSLA"
+        ],
+        "translate_model": "sensenova-6.8-flash-lite"
+      }
+    },
     {
       "id": "stocktwits:669880205",
       "title": "$TSLA $SPCX Spacex literally turned a profit last quarter lol. What a hater retard who lives in mom’s basement",

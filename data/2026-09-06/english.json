@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-06",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-22T15:56:52.082148+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:0c169aa6f52f34e5ea8209582ab446f59d18acc0",
+      "title": "Using the Price-to-Earnings (P/E) Ratio and PEG Ratio To Assess a Stock",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b029fcc385d444ba2b24de55c37f8da&url=https%3a%2f%2fwww.investopedia.com%2finvesting%2fuse-pe-ratio-and-peg-to-tell-stocks-future%2f&c=2997140769351731802&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Tobi is a crypto writer at Investopedia. He aims to simplify the complex concepts of blockchain and cryptocurrencies for the masses. Stella Osoba is the Senior Editor of trading and investing at ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-09-06T20:20:00+08:00",
+      "published_date": "2026-09-06",
+      "fetched_at": "2026-11-22T15:54:54.235462+08:00",
+      "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
