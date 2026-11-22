@@ -24,11 +24,38 @@ def _remote_text(rel_path: str) -> str | None:
     return None
 
 
+def _remote_index() -> dict[str, Any] | None:
+    """Serverless 环境下读 GitHub 上的最新索引，避免使用部署时打包的旧数据。"""
+    if not GITHUB_RAW_BASE_URL:
+        return None
+    text = _remote_text("data/index.json")
+    if not text:
+        return None
+    try:
+        data = json.loads(text)
+        return data if isinstance(data, dict) else None
+    except json.JSONDecodeError:
+        return None
+
+
 def load_payload(date: str, category: str) -> dict[str, Any] | None:
+    rel = f"data/{date}/{category}.json"
+    # 配置远端地址时优先读远端，保证每 5 分钟更新的数据立即可用。
+    if GITHUB_RAW_BASE_URL:
+        text = _remote_text(rel)
+        if text:
+            try:
+                data = json.loads(text)
+                if isinstance(data, dict):
+                    return data
+            except json.JSONDecodeError:
+                pass
     local = storage.load_day(date, category)
     if local is not None:
         return local
-    text = _remote_text(f"data/{date}/{category}.json")
+    if GITHUB_RAW_BASE_URL:
+        return None
+    text = _remote_text(rel)
     if not text:
         return None
     try:
@@ -39,6 +66,10 @@ def load_payload(date: str, category: str) -> dict[str, Any] | None:
 
 
 def list_dates() -> list[str]:
+    if GITHUB_RAW_BASE_URL:
+        index = _remote_index()
+        if index:
+            return index.get("dates", [])
     dates = storage.list_dates()
     if dates:
         return dates
@@ -60,10 +91,11 @@ def resolve_date(date: str | None) -> str:
 
 def list_categories(date: str | None = None) -> list[str]:
     if date:
-        index = storage.read_index()
-        cats = sorted(index.get("entries", {}).get(date, {}).keys())
-        if cats:
-            return cats
+        index = _remote_index() if GITHUB_RAW_BASE_URL else storage.read_index()
+        if index:
+            cats = sorted(index.get("entries", {}).get(date, {}).keys())
+            if cats:
+                return cats
         cats = [c for c in CATEGORIES if load_payload(date, c)]
         if cats:
             return cats
