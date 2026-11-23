@@ -3,25 +3,25 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-23T08:27:58.794510+08:00",
-  "count": 137,
+  "generated_at": "2026-11-23T16:06:38.302545+08:00",
+  "count": 270,
   "sources": [
     {
       "name": "alpaca",
       "status": "ok",
-      "count": 1,
+      "count": 50,
       "error": ""
     },
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 4,
+      "count": 14,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 0,
+      "count": 3,
       "error": ""
     },
     {
@@ -33,11 +33,2842 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 22,
+      "count": 30,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "alpaca:128765782",
+      "title": "Ascom Included in New SIX Growth Index",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/six-lanciert-europaischen-wachstumsindex-mit-31-firmen-1036790702",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Ascom has been named as one of the initial members of a new index launched by the Swiss stock exchange operator SIX for listed growth companies.",
+      "content": "On November 23, 2026, the Swiss stock exchange operator SIX announced the launch of a new index designed for listed growth companies across Switzerland, Spain, and the United Kingdom. Ascom is one of the 31 initial members included in the index, which features 13 companies listed on the SIX Swiss Exchange. The program aims to facilitate access to international investors for these companies through joint marketing activities and investor contacts. Participating firms also receive preferential conditions for services such as research and market information.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:04:54+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ASCN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720CS:0",
+      "title": "Tikehau Announces Completion Of Majority Investment In Sigma Components",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720CS:0-tikehau-announces-completion-of-majority-investment-in-sigma-components/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:04:34+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:TKO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720ID:0",
+      "title": "Bechtle: Merger Of Bechtle Direct And Bechtle Comsoft In France",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720ID:0-bechtle-merger-of-bechtle-direct-and-bechtle-comsoft-in-france/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:04:14+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:BC8"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765781",
+      "title": "Safe Lane Gaming AB Reports Quarterly Financial Results",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/safe-lane-gaming-registered-b-mit-zahlen-zum-abgelaufenen-quartal-1036790514",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Safe Lane Gaming AB released its financial results for the quarter ending September 30, 2026, reporting a loss per share of 0.03 SEK.",
+      "content": "Safe Lane Gaming AB presented its financial figures for the third quarter of 2026 on November 20, 2026. The company reported a loss per share of 0.03 SEK, an improvement compared to the loss of 4.700 SEK per share reported in the same quarter of the previous year. Revenue for the quarter reached 2.5 million SEK, representing a 4.98 percent decrease from the 2.6 million SEK generated in the corresponding period of the prior year.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:04:01+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SLG.B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261123001023:0",
+      "title": "BYD's Shares Fall After Dutch Court Bars Sales of Ti7 SUV Model in EU",
+      "url": "https://www.tradingview.com/news/DJN_DN20261123001023:0-byd-s-shares-fall-after-dutch-court-bars-sales-of-ti7-suv-model-in-eu/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:04:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SZSE:002594"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765672",
+      "title": "WISeSat.Space Submits Amended Draft Registration Statement on Form F-4",
+      "url": "https://www.streetinsider.com/Press+Releases?before_id=26601323",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "WISeSat.Space Holdings Corp. has announced the confidential submission of an amended draft registration statement on Form F-4 with the U.S. Securities and Exchange Commission.",
+      "content": "WISeSat.Space Holdings Corp. has formally submitted an amended draft registration statement on Form F-4 to the U.S. Securities and Exchange Commission. This confidential filing represents a procedural step in the company's regulatory and registration process. The submission follows the company's ongoing efforts to advance its corporate and financial objectives.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:03:52+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SAIQ"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765671",
+      "title": "Kvix AB Reports Quarterly Financial Results",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/kvix-registered-gewaehrte-anlegern-blick-in-die-buecher-1036790496",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Kvix AB announced its financial results for the quarter ending September 30, 2026, reporting a loss per share of 0.01 SEK and total revenue of 3.9 million SEK.",
+      "content": "Kvix AB released its financial results for the third quarter of 2026, which concluded on September 30, 2026. The company reported a loss per share of 0.01 SEK, an improvement compared to the loss of 0.04 SEK per share recorded in the same quarter of the previous year. Total revenue for the quarter reached 3.9 million SEK, representing a 28.38% increase from the 3.0 million SEK generated in the corresponding quarter of the prior year. The results were disclosed during a financial conference held on November 20, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:03:34+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "KVIX"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765670",
+      "title": "Sound Dimension AB Reports Quarterly Financial Results",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/sound-dimension-registered-legte-quartalsergebnis-vor-1036790493",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Sound Dimension AB announced its financial results for the most recent quarter during a financial conference held on November 20, 2026.",
+      "content": "Sound Dimension AB reported a loss of 0.02 SEK per share for the recent quarter. This result is consistent with the company's performance in the same period of the previous year, where it also recorded a loss of 0.02 SEK per share. The figures were disclosed during the company's quarterly financial conference.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:03:31+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SOUND"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765669",
+      "title": "Eurotel Reports Financial Results for the Quarter Ended September 30, 2026",
+      "url": "https://www.finanzen.at/nachrichten/aktien/eurotel-vermeldete-zahlen-zum-juengsten-quartal-1036790317",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Eurotel S.A. announced its financial performance for the third quarter of 2026, showing significant growth in both earnings per share and total revenue compared to the same period last year.",
+      "content": "Eurotel S.A. reported its financial results for the quarter that ended on September 30, 2026. The company achieved earnings per share of 1.27 PLN, marking an increase from the 0.670 PLN reported in the corresponding quarter of the previous year. Total revenue for the period was 139.9 million PLN, up from 104.6 million PLN in the prior-year quarter. These figures reflect the company's performance for the three-month period ending September 30, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:03:29+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ETL"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765668",
+      "title": "NanoCap Group AB Reports Third Quarter and Nine Months 2026 Financial Results",
+      "url": "https://in.marketscreener.com/news/companies/positive/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "NanoCap Group AB has released its financial results for the third quarter and the nine-month period ending September 30, 2026.",
+      "content": "NanoCap Group AB (publ) has officially reported its financial performance for the third quarter and the nine-month period concluded on September 30, 2026. The disclosure covers the company's operational and financial standing as of the end of the third quarter. As an investment company focused on high-tech and e-commerce SaaS businesses, these results provide insight into the firm's recent portfolio performance and capital management. The report serves as the company's formal update to shareholders and the market regarding its fiscal progress for the year to date.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:03:28+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "NANOC.B"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765667",
+      "title": "Hunter Group Subsidiary Reaches 89.5% Stake in Jacktel and Extends Offer Period",
+      "url": "https://ch.marketscreener.com/boerse-nachrichten/hunter-group-tochter-erreicht-89-5-beteiligung-an-jacktel-und-verlaengert-frist-fuer-uebernahmeangebo-ce785ed3d18aff24",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "A subsidiary of Hunter Group ASA has secured an 89.5% ownership stake in Jacktel AS and has extended the deadline for its takeover offer.",
+      "content": "A subsidiary of Hunter Group ASA has reached an 89.5% ownership interest in Jacktel AS. In conjunction with this milestone, the bidder has extended the offer period for its takeover bid for the company. This development marks a significant step in the ongoing acquisition process initiated by the Hunter Group subsidiary.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:03:25+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "JACK"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765666",
+      "title": "Goodbye Kansas Group AB Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026",
+      "url": "https://in.marketscreener.com/news/companies/positive/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Goodbye Kansas Group AB has released its financial results for the third quarter and the nine-month period ending September 30, 2026.",
+      "content": "Goodbye Kansas Group AB announced its financial performance for the third quarter and the first nine months of 2026. The report covers the period ending September 30, 2026, providing insights into the company's operational and financial standing. As a provider of visual content for the entertainment industry, these results reflect the company's ongoing activities in VFX, animation, and game cinematics. The disclosure serves as a standard periodic update for stakeholders regarding the company's fiscal progress.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:03:18+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GBK"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765665",
+      "title": "Lenzing Leadership Visits TreeToTextile Demo Plant in Sweden",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-news-lenzing-vorstand-besucht-treetotextile-demo-anlage-in-nymoella-schweden-1036790782",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "The management board of Lenzing AG visited the TreeToTextile demonstration plant located in Nymölla, Sweden, on November 23, 2026.",
+      "content": "Lenzing AG announced that its management board visited the TreeToTextile demonstration plant in Nymölla, Sweden. This visit highlights the ongoing engagement between Lenzing and TreeToTextile, a company focused on developing sustainable textile fiber production technologies. The event serves as a corporate update regarding the company's involvement in sustainable innovation and industry partnerships.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:03:17+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "LNZ"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765664",
+      "title": "Initiator Pharma Reports Quarterly Financial Results",
+      "url": "https://www.finanzen.at/nachrichten/aktien/initiator-pharma-a-s-registered-prasentierte-bilanzzahlen-zum-juengsten-jahresviertel-1036790347",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Initiator Pharma A/S reported its financial results for the quarter ending September 30, 2026, showing a loss per share of 0.18 SEK.",
+      "content": "Initiator Pharma A/S released its financial figures for the most recent quarter, which concluded on September 30, 2026. The company reported a loss per share of 0.18 SEK for the period. This compares to a loss of 0.090 SEK per share recorded in the same quarter of the previous year.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:03:13+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "INIT"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765663",
+      "title": "2G Energy AG Secures Largest Single Contract in Company History for German Market",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-news-2g-energy-ag-secures-the-largest-single-contract-in-the-groups-history-for-the-german-market-1036790742",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "2G Energy AG has won its largest single order to date for the German market, involving multiple combined heat and power (CHP) plant modules in the mid-double-digit megawatt range.",
+      "content": "2G Energy AG announced it has secured the largest single contract in its history for the German market. The order, placed by an energy supply company, consists of several combined heat and power (CHP) plant modules with an electrical output in the mid-double-digit megawatt range. The company confirmed that the contractually agreed-upon down payment has already been received. CEO Pablo Hofelich characterized the win as a confirmation of the company's diversification strategy, noting that while the North American business is driven by data centers, other global markets have also seen significant year-over-year growth. The company also reported a 28% revenue increase and a 72% boost in total output for the third quarter, while confirming its full-year revenue forecast of up to EUR 490 million and an EBIT margin of 9.5% to 10.5%.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:03:05+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "2GB"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765662",
+      "title": "Borussia Dortmund Annual General Meeting",
+      "url": "https://www.finanzen.at/nachrichten/aktien/rheinmetall-deal-duerfte-bei-bvb-hauptversammlung-thema-sein-1036790232",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Borussia Dortmund holds its annual general meeting to review the financial results of the past fiscal year.",
+      "content": "Borussia Dortmund is scheduled to hold its annual general meeting on November 23, 2026, in the Westfalenhallen. Management will present the financial results for the past fiscal year, which include a reported revenue of 460.5 million euros and a loss exceeding 21 million euros. The meeting provides shareholders with an overview of the company's financial performance, which was impacted by the club's results in the UEFA Champions League.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:03:05+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BVB"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765661",
+      "title": "Zepp Health Corporation Reports Third Quarter of 2026 Unaudited Financial Results",
+      "url": "https://www.morningstar.com/news/pr-newswire/20261122cn04084/zepp-health-corporation-reports-third-quarter-of-2026-unaudited-financial-results",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Zepp Health Corporation announced its unaudited financial results for the third quarter of 2026, reporting revenue of US$68.3 million and a net loss attributable to the company of US$12.6 million.",
+      "content": "Zepp Health Corporation reported third-quarter 2026 revenue of US$68.3 million, marking a 9.9% year-over-year decrease and a 7.5% quarter-over-quarter increase. The company recorded a GAAP net loss of US$12.6 million and an adjusted net loss of US$11.6 million, compared to a GAAP net loss of US$1.6 million in the same period of 2025. Gross margin for the quarter was 35.0%, down from 38.2% in the third quarter of 2025, primarily due to elevated memory and component costs alongside foreign currency headwinds. Management noted that increased investment in marketing and branding activities also contributed to the net loss. As of September 30, 2026, the company held US$99.0 million in cash, cash equivalents, and restricted cash.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:03:03+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ZEPP"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765660",
+      "title": "Polwax Reports Quarterly Financial Results",
+      "url": "https://www.finanzen.at/nachrichten/aktien/polwax-legte-quartalsergebnis-vor-1036790338",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Polwax S.A. reported its financial results for the quarter ending September 30, 2026, showing a slight decline in revenue compared to the same period last year.",
+      "content": "Polwax S.A. released its financial results for the third quarter of 2026, which ended on September 30, 2026. The company reported revenue of 53.2 million PLN for the quarter. This represents a decrease of 1.54 percent compared to the 54.0 million PLN in revenue generated during the same quarter of the previous year.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:03:03+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "PWX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:702da7b1f4543:0",
+      "title": "Share buybacks in Ericsson during the period November 16 - November 20, 2026",
+      "url": "https://www.tradingview.com/news/prnewswire:702da7b1f4543:0-share-buybacks-in-ericsson-during-the-period-november-16-november-20-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:03:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:ERIC_A"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4770416:0",
+      "title": "WBT: Cash-rich, but fab bottlenecks and long qualification cycles shape 2027 ReRAM goals",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4770416:0-wbt-cash-rich-but-fab-bottlenecks-and-long-qualification-cycles-shape-2027-reram-goals/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:57+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:WBT"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765564",
+      "title": "GPM Vindexus Reports Quarterly Financial Results",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/gpm-vindexus-bilanzzahlen-zum-vergangenen-quartal-1036790432",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "GPM Vindexus announced its financial results for the quarter ending September 30, 2026, showing a significant increase in revenue compared to the same period last year.",
+      "content": "GPM Vindexus reported its financial performance for the quarter ending September 30, 2026. The company achieved revenue of 39.2 million PLN, representing a 101.91% increase compared to the 19.4 million PLN reported in the same quarter of the previous year. Earnings per share (EPS) for the period were 0.35 PLN, compared to 0.66 PLN in the prior year's corresponding quarter.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:53+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "VIN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765563",
+      "title": "Nordic Halibut Raises 200 Million NOK via Private Placement and Announces Repair Offering",
+      "url": "https://ch.marketscreener.com/boerse-nachrichten/nordic-halibut-nimmt-200-mio-nok-ueber-privatplatzierung-auf-und-plant-reparaturangebot-ueber-10-mio-ce785ed3d08cf023",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Nordic Halibut has successfully raised 200 million NOK through a private placement and plans a subsequent repair offering of 10 million NOK.",
+      "content": "Nordic Halibut has completed a private placement, raising 200 million NOK in capital. In conjunction with this financing, the company has announced plans for a repair offering aimed at raising an additional 10 million NOK. These actions represent a significant capital allocation event for the aquaculture company as it continues its operations in the Atlantic halibut farming sector.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:53+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "NOHAL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:sharecast:d02b9baea094b:0",
+      "title": "Sunday newspaper round-up: COP31, European Union, Nscale, London landlords, Heathrow, Poundland",
+      "url": "https://www.tradingview.com/news/sharecast:d02b9baea094b:0-sunday-newspaper-round-up-cop31-european-union-nscale-london-landlords-heathrow-poundland/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "ShareCast",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:52+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:NSCL",
+          "LSE:IAG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765562",
+      "title": "SFC Energy AG Receives CAD 1.7 Million Initial Order from New Canadian Energy Infrastructure Customer",
+      "url": "https://www.finanzen.at/nachrichten/aktien/eqs-news-sfc-energy-ag-erhalt-erstauftrag-im-wert-von-cad-1-7-mio-von-neukunden-im-kanadischen-energieinfrastrukturmarkt-1036790666",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "SFC Energy AG has secured a CAD 1.7 million order from a leading midstream operator in Western Canada to provide off-grid power solutions for pipeline infrastructure.",
+      "content": "SFC Energy AG announced an initial order valued at approximately CAD 1.7 million from a new customer in the Canadian midstream energy sector. The contract involves the turnkey delivery of EFOY ProCabinet 4260SX systems, which utilize the EFOY Pro 12000 Duo fuel cell, to support valve station expansion projects along a major natural gas pipeline in Western Canada. These systems are designed to provide autonomous, off-grid power, remote monitoring, and communication capabilities to enhance operational resilience and efficiency. The company stated that this order marks the beginning of a new customer relationship and strengthens its market position in the North American oil, gas, and energy infrastructure sectors.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:50+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "F3C"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47405X:0",
+      "title": "Copper rebounds after AI rout; China spot premiums ease",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47405X:0-copper-rebounds-after-ai-rout-china-spot-premiums-ease/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:46+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LME:CA1!",
+          "TVC:IXIC",
+          "TVC:DXY",
+          "LME:AH1!",
+          "COMEX:ZNC1!",
+          "MCX:NICKEL1!",
+          "MYX:FTIN1!",
+          "MCX:LEAD1!",
+          "COMEX:HG1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-23:newsml_RSW2395Ea:0",
+      "title": "REG - Sound Energy PLC - Grant of Restricted Shares and Options",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-23:newsml_RSW2395Ea:0-reg-sound-energy-plc-grant-of-restricted-shares-and-options/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:43+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:SOU"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765561",
+      "title": "Instal Kraków Reports Quarterly Financial Results",
+      "url": "https://www.finanzen.at/nachrichten/aktien/instal-krakow-zog-bilanz-zum-juengsten-jahresviertel-1036790313",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Instal Kraków announced its financial results for the most recent quarter, reporting earnings per share of 0.92 PLN and revenue of 75.4 million PLN.",
+      "content": "Instal Kraków released its financial results for the recent quarter on November 20, 2026. The company reported earnings per share (EPS) of 0.92 PLN, compared to 1.58 PLN in the same period of the previous year. Revenue for the quarter reached 75.4 million PLN, showing a slight increase from the 74.5 million PLN reported in the prior year's corresponding period.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:41+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "INK"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765560",
+      "title": "Newron Pharmaceuticals Strengthens Intellectual Property Portfolio for Evenamide",
+      "url": "https://www.comdirect.de/inf/news/detail.html?ID_NEWS=1170027956",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Newron Pharmaceuticals announced that its European patent for evenamide has successfully passed the opposition period without any objections, while also expanding its broader patent portfolio.",
+      "content": "Newron Pharmaceuticals S.p.A. reported that the European patent for its lead clinical candidate, evenamide, has cleared the opposition period without receiving any challenges. Evenamide is a first-in-class glutamate modulator currently in Phase 3 development for the treatment of treatment-resistant schizophrenia. In addition to this milestone, the company has further bolstered its intellectual property position through the receipt of new patent grants and the filing of additional patent applications. These developments are intended to strengthen the company's proprietary protection for its pipeline assets.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:35+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "NWRN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765559",
+      "title": "Marvipol Development Reports Q3 2026 Financial Results",
+      "url": "https://www.finanzen.at/nachrichten/aktien/marvipol-development-spolka-akcyjna-bearer-mit-zahlen-zum-abgelaufenen-quartal-1036790349",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Marvipol Development S.A. reported a loss per share of 0.18 PLN for the quarter ending September 30, 2026, compared to 0.85 PLN in the same period last year, alongside a 62.42% decline in revenue.",
+      "content": "Marvipol Development S.A. released its financial results for the third quarter of 2026, which ended on September 30, 2026. The company reported a loss per share of 0.18 PLN, a significant shift from the earnings of 0.85 PLN per share recorded in the corresponding quarter of the previous year. Revenue for the period fell to 79.8 million PLN, representing a 62.42% decrease compared to the 212.3 million PLN generated in the same quarter of 2025.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:34+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MVP"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765558",
+      "title": "MPC Oceanic Group Reports Strong 9M 2026 Performance and Confirms Guidance",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-news-mpc-oceanic-group-continued-profitable-growth-in-the-first-nine-months-2026-guidance-confirmed-1036790634",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "MPC Oceanic Group AG reported a 9% year-on-year revenue increase to EUR 35.0 million and a 20% rise in earnings before taxes (EBT) to EUR 23.7 million for the first nine months of 2026, while confirming its full-year guidance.",
+      "content": "MPC Oceanic Group AG announced strong financial results for the first nine months of 2026, with revenue reaching EUR 35.0 million and EBT rising to EUR 23.7 million. The company confirmed its full-year 2026 guidance, which was previously raised in August 2026, citing growth in maritime services and co-investment income. Additionally, the company highlighted its strategic acquisition of a 41% stake in Marlow Navigation, a leading crew management provider, which is expected to close in early 2027. The acquisition will be partially financed through a capital increase at EUR 7.00 per share, with Marlow's shareholders expected to hold approximately 9% of MPC Oceanic Group post-completion. The group maintains a strong balance sheet with an equity ratio of 90% as of September 30, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:32+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MPCG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765557",
+      "title": "Santhera Pharmaceuticals Included in New SIX Growth Index",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/six-lanciert-europaischen-wachstumsindex-mit-31-firmen-1036790702",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Santhera Pharmaceuticals has been selected as one of the 13 Swiss companies included in a new growth index launched by the stock exchange operator SIX.",
+      "content": "Santhera Pharmaceuticals is among the 31 companies selected for a new index launched by the Swiss stock exchange operator SIX, which focuses on growth companies from Switzerland, Spain, and the United Kingdom. The index is part of a broader program designed to facilitate access to international investors for these companies. As a participant, Santhera will benefit from joint marketing activities, investor networking opportunities, and preferential terms for research and market information services. The initiative aims to support these companies as they grow and potentially prepare for future capital market activities.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:28+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SANN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765556",
+      "title": "SHT Smart High-Tech AB Reports Quarterly Financial Results",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/sht-smart-high-tech-aktiebolag-registered-b-legte-quartalsergebnis-vor-1036790495",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "SHT Smart High-Tech AB announced its financial results for the most recent quarter, reporting a loss per share of 0.69 SEK and a decline in revenue.",
+      "content": "SHT Smart High-Tech AB reported its quarterly financial results on November 20, 2026. The company disclosed a loss per share of 0.69 SEK, an improvement compared to the loss of 0.88 SEK per share reported in the same quarter of the previous year. Revenue for the quarter fell by 54.01% to 0.6 million SEK, down from 1.4 million SEK in the year-ago period.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:27+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SHT.B"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765555",
+      "title": "Verve Group Media SE Publishes Q3 2026 Interim Report",
+      "url": "https://www.media-outreach.com/news/ireland/2026/11/23/503519/verve-group-publishes-q3-2026-interim-report-and-maintains-full-year-guidance/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Verve Group Media SE reported 5.7 percent like-for-like revenue growth for the third quarter of 2026 and confirmed its full-year financial guidance.",
+      "content": "Verve Group Media SE released its interim report for the third quarter of 2026, highlighting a 5.7 percent like-for-like revenue increase despite challenging market conditions. The company noted that political advertising activity provided a boost to the broader ad market during the period. Alongside the quarterly results, management reaffirmed the company's full-year guidance. The report was issued on November 23, 2026, by the Dublin-based advertising technology firm.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:24+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "VRV"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765554",
+      "title": "Hunter Group ASA Reports Third Quarter 2026 Financial Results",
+      "url": "https://www.finanzen.at/nachrichten/aktien/hunter-group-asa-registered-prasentierte-das-zahlenwerk-zum-abgelaufenen-jahresviertel-1036790388",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Hunter Group ASA released its financial results for the quarter ended September 30, 2026, showing significant growth in revenue and earnings per share.",
+      "content": "Hunter Group ASA reported its financial performance for the third quarter of 2026, which ended on September 30. The company achieved earnings per share of 7.90 NOK, compared to 0.100 NOK in the same quarter of the previous year. Revenue for the period reached 1.37 billion NOK, representing a substantial increase from the 20.7 million NOK reported in the year-ago quarter.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:22+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "HUNT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720IB:0",
+      "title": "Mezzan Holding Renews Existing Banking Facilities With A Bank In Kuwait And In Qatar",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720IB:0-mezzan-holding-renews-existing-banking-facilities-with-a-bank-in-kuwait-and-in-qatar/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:16+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KSE:MEZZAN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC1PPHZD:0",
+      "title": "Netcare Reports FY Adjusted HEPS UP 17.1% TO 160.6 Cents",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC1PPHZD:0-netcare-reports-fy-adjusted-heps-up-17-1-to-160-6-cents/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:15+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "JSE:NTC"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765553",
+      "title": "SECO Enters Strategic Partnership with Arrow Electronics",
+      "url": "https://www.milanofinanza.it/news/seco-ed-arrow-electronics-rafforzano-la-collaborazione-per-accelerare-l-adozione-dell-edge-ai-in-ambito-202611230709376947",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "SECO S.p.A. has announced a partnership with Arrow Electronics to develop artificial intelligence applications and distribute its Clea software platform.",
+      "content": "SECO S.p.A. has entered into a strategic agreement with Arrow Electronics to collaborate on the development of artificial intelligence applications across Europe, the Middle East, Africa, and North America. As part of the partnership, Arrow Electronics will serve as a distributor for SECO's proprietary Clea software platform. This collaboration aims to expand the reach of SECO's edge computing and AI solutions by leveraging Arrow's distribution network. The agreement marks a significant step in SECO's strategy to scale its software-as-a-service offerings globally.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:13+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "IOT"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765552",
+      "title": "Erste Group Upgrades PORR AG to 'Buy'",
+      "url": "https://www.finanzen.at/nachrichten/aktien/wiener-aktienmarkt-vorboerslich-stabilisiert-erwartet-1036790784",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Analysts at Erste Group have raised their price target for PORR AG shares and upgraded the stock rating from 'Accumulate' to 'Buy'.",
+      "content": "Erste Group analysts, led by expert Michael Marschallinger, have increased their price target for PORR AG shares from 42.00 euros to 44.90 euros. Concurrently, the investment rating for the construction group's stock was upgraded from 'Accumulate' to 'Buy'. This adjustment reflects a positive shift in the firm's outlook on the company's equity.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:11+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "POS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765551",
+      "title": "Analyst Rating Update for DEUTZ AG",
+      "url": "https://www.finanzen.ch/analysen",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "An analyst firm issued a 'Buy' rating for DEUTZ AG on November 22, 2026.",
+      "content": "On November 22, 2026, an analyst firm assigned a 'Buy' rating to DEUTZ AG. This rating update provides a market perspective on the company's equity, reflecting the firm's current assessment of the stock.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:10+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "DEZ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4740B1:0",
+      "title": "GDS Holdings Limited expected to post a loss of 34 fen a share - Earnings Preview",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4740B1:0-gds-holdings-limited-expected-to-post-a-loss-of-34-fen-a-share-earnings-preview/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:08+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:9698"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765550",
+      "title": "First Berlin Equity Research Adjusts Energiekontor Price Target",
+      "url": "https://www.finanznachrichten.de/nachrichten-medien/4investors.htm",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "First Berlin Equity Research has lowered its price target for Energiekontor AG shares from 49 euros to 42 euros while maintaining a 'Buy' recommendation.",
+      "content": "First Berlin Equity Research has updated its outlook on Energiekontor AG, reducing the price target for the company's shares to 42 euros from the previous 49 euros. Despite this downward adjustment in the target price, the firm continues to maintain a 'Buy' recommendation for the stock. The research firm cites an expectation of a potential doubling of the share price as a key factor supporting its positive rating.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:07+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "EKT"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765549",
+      "title": "Selena FM Reports Financial Results for the Quarter Ended September 30, 2026",
+      "url": "https://www.finanzen.at/nachrichten/aktien/selena-fm-vermeldete-zahlen-zum-juengsten-quartal-1036790305",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Selena FM announced its financial results for the third quarter of 2026, reporting a revenue increase of 25.67% alongside an EPS of 2.03 PLN.",
+      "content": "Selena FM released its financial results for the quarter ending September 30, 2026, on November 20, 2026. The company reported revenue of 629.9 million PLN, representing a 25.67% increase compared to the 501.2 million PLN recorded in the same quarter of the previous year. Earnings per share (EPS) for the period were 2.03 PLN, down from 2.33 PLN per share in the prior-year quarter.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:02:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SEL"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765469",
+      "title": "Orange Belgium Subsidiary Secures Financing for Fiber Expansion",
+      "url": "https://www.globenewswire.com/news-release/2026/11/23/3408013/0/fr/orange-netco-acc%C3%A9l%C3%A8re-le-d%C3%A9ploiement-de-la-fibre-%C3%A0-bruxelles-et-en-wallonie.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Orange NetCo, a subsidiary of Orange Belgium, has secured a financing commitment of up to 800 million euros from BNP Paribas to accelerate its fiber-to-the-premises (FTTP) network deployment in Brussels and Wallonia.",
+      "content": "Orange Belgium's wholly-owned subsidiary, Orange NetCo, has announced a financing agreement with BNP Paribas to support the expansion of its fiber-to-the-premises (FTTP) network. The commitment, which could reach 800 million euros, is subject to the finalization of contractual documentation. This initiative aims to extend FTTP coverage to at least two-thirds of the company's existing Hybrid Fiber Coaxial (HFC) footprint in Brussels and Wallonia by 2040. In the near term, the company plans to expand its fiber footprint in Brussels and initiate deployments in the Liège region while continuing to modernize its HFC network.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:01:52+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "OBEL"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765468",
+      "title": "R&S Group Included in New SIX Growth Company Index",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/six-lanciert-europaischen-wachstumsindex-mit-31-firmen-1036790702",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "R&S Group has been selected as one of the 31 inaugural members of a new index launched by the Swiss stock exchange operator, SIX, designed to support growth companies across Switzerland, Spain, and the UK.",
+      "content": "The Swiss stock exchange operator, SIX, has launched a new index for listed growth companies from Switzerland, Spain, and the UK, with R&S Group included as one of the 13 Swiss members. The program aims to facilitate access to international investors for the participating firms, which have market capitalizations between 100 million and 1 billion in their respective local currencies. As part of this initiative, SIX plans to support these companies through joint marketing activities, investor contacts, and preferential terms for services such as research and market information. Additionally, the operator intends to launch the 'SIX European IPO Academy' in the second quarter of 2027 to further support these companies.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:01:47+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "RSGN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765467",
+      "title": "Director's Dealing: Peter Oswald Purchases Shares in Mayr-Melnhof Karton AG",
+      "url": "https://www.finanzen.at/nachrichten/aktien/eqs-dd-mayr-melnhof-karton-ag-peter-oswald-kauf-1036790663",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Mayr-Melnhof Karton AG reported a share purchase by board member Peter Oswald, who acquired 1,000 shares of the company.",
+      "content": "On November 23, 2026, Mayr-Melnhof Karton AG disclosed a directors' dealing notification regarding a transaction by board member Peter Oswald. Mr. Oswald purchased 1,000 shares of the company at a price of 69.1 EUR per share. The transaction took place on the Vienna Stock Exchange on November 20, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:01:47+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MMK"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765466",
+      "title": "Cicor Included in New SIX European Growth Index",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/six-lanciert-europaischen-wachstumsindex-mit-31-firmen-1036790702",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Cicor Technologies Ltd. has been named as one of the 31 inaugural members of a new index launched by the Swiss stock exchange operator SIX, designed to support growth-oriented companies.",
+      "content": "The Swiss stock exchange operator SIX has launched a new index for listed growth companies from Switzerland, Spain, and the United Kingdom, with Cicor Technologies Ltd. included as one of the 13 Swiss members. The index comprises 31 companies in total, each with a market capitalization between 100 million and 1 billion in their respective local currencies. Through this initiative, SIX aims to facilitate better access to international investors for the participating firms. Member companies will benefit from joint marketing activities, investor contacts, and preferential conditions for services such as research and market information. Additionally, the program includes the upcoming launch of the 'SIX European IPO Academy' in the second quarter of 2027, which is intended to support companies in preparing for potential public offerings.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:01:46+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "CICN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765465",
+      "title": "74Software Participates in AISec Industry Study",
+      "url": "https://natlawreview.com/press-releases/ultraviolet-cyber-introduces-aisec-study-first-practitioner-led-benchmark",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "74Software participated in the AISec Study, an industry-led initiative designed to provide data-driven insights into AI security practices.",
+      "content": "74Software participated in the AISec Study, a practitioner-led initiative aimed at benchmarking AI security programs across organizations. Sandy Blackwell, Global Senior Director of Software Security at 74Software, noted that the study provides visibility into data-driven insights, allowing the company to measure its AI initiatives and compare its practices against industry peers. The study helps the company identify potential gaps and prioritize improvements in its security framework. 74Software expressed its intention to continue collaborating with the AISec benchmark team.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:01:43+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "74SW"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128765464",
+      "title": "EPIC Suisse Reports Financial Results for the First Nine Months of 2026",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/epic-suisse-steigert-in-ersten-neun-monaten-mietzinseinnahmen-1036790645",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "EPIC Suisse announced an increase in total revenue for the first nine months of 2026, while maintaining a stable portfolio value.",
+      "content": "EPIC Suisse reported that its total revenue for the first nine months of 2026 rose by 4.5% to 53.4 million CHF, compared to 51.1 million CHF in the same period of the previous year. The company's portfolio value remained stable at 1.67 billion CHF, consistent with its mid-year valuation. Additionally, the company's net asset value according to IFRS increased to 936 million CHF, up from 921 million CHF at the end of 2025. The report also noted the earlier sale of the Vennes III property in May 2026 for 51.1 million CHF, which included the repayment of an associated 18.6 million CHF bank loan.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:01:36+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "EPIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUCBMJNZG:0",
+      "title": "Eco (Atlantic) Oil & Gas Holds 35% Working Interest In Falkland Islands PL001 Licence Block",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUCBMJNZG:0-eco-atlantic-oil-gas-holds-35-working-interest-in-falkland-islands-pl001-licence-block/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:01:28+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:EOG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261123000828:0",
+      "title": "ABB's Ziehl-Abegg Deal Looks Highly Complementary, But Financially Dilutive — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261123000828:0-abb-s-ziehl-abegg-deal-looks-highly-complementary-but-financially-dilutive-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:01:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:ABB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:d88edc03d094b:0",
+      "title": "Graphano Channel Sampling Returns 15.68% Cg over 20.0 Metres and 9.98% Cg over 26.0 Metres, Defining Graphite Mineralization over a 125-Metre Length at Black Jack",
+      "url": "https://www.newsfilecorp.com/release/325166/Graphano-Channel-Sampling-Returns-15.68-Cg-over-20.0-Metres-and-9.98-Cg-over-26.0-Metres-Defining-Graphite-Mineralization-over-a-125Metre-Length-at-Black-Jack",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:01:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:GEL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:7fd193459472b:0",
+      "title": "Graphano Energy Ltd. (GEL) Reports Graphite Mineralization Over 125 Metres",
+      "url": "https://www.tradingview.com/news/tradingview:7fd193459472b:0-graphano-energy-ltd-gel-reports-graphite-mineralization-over-125-metres/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:01:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:GEL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720L5:0",
+      "title": "BioArctic AB To Initiate Two Phase 2B Exidavnemab Studies In First Half Of 2027",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720L5:0-bioarctic-ab-to-initiate-two-phase-2b-exidavnemab-studies-in-first-half-of-2027/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:22+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:BIOA_B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4740AL:0",
+      "title": "Thai appeal court halves jail term of lawmaker convicted of royal insult",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4740AL:0-thai-appeal-court-halves-jail-term-of-lawmaker-convicted-of-royal-insult/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:09+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:581fd0c03094b:0",
+      "title": "Allied Critical Metals Reports 28 Metres at 0.52% WO3 at Santa Helena Breccia and 136 Metres at 0.10% MoS2 at Venise Breccia Within the Borralha Project",
+      "url": "https://www.newsfilecorp.com/release/325212/Allied-Critical-Metals-Reports-28-Metres-at-0.52-WO3-at-Santa-Helena-Breccia-and-136-Metres-at-0.10-MoS2-at-Venise-Breccia-Within-the-Borralha-Project",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:ACM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:387f44441094b:0",
+      "title": "Audi Debuts Cerence AI’s Mobile Work Agent, Bringing Enterprise-Trusted Access to Microsoft 365 to the Car",
+      "url": "https://www.globenewswire.com/news-release/2026/11/23/3408055/0/en/audi-debuts-cerence-ai-s-mobile-work-agent-bringing-enterprise-trusted-access-to-microsoft-365-to-the-car.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CRNC",
+          "NASDAQ:MSFT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:fd6ece3e32823:0",
+      "title": "Bigbank AS Retains €15M Bond Issue After 10.3% Oversubscription",
+      "url": "https://www.tradingview.com/news/tradingview:fd6ece3e32823:0-bigbank-as-retains-15m-bond-issue-after-10-3-oversubscription/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:fa25b443e2ce6:0",
+      "title": "Cerence Inc. (CRNC) Launches Audi Mobile Work Agent",
+      "url": "https://www.tradingview.com/news/tradingview:fa25b443e2ce6:0-cerence-inc-crnc-launches-audi-mobile-work-agent/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CRNC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:0308b6ce9094b:0",
+      "title": "Delisting and Cancellation of Trading in ICG Units",
+      "url": "https://www.globenewswire.com/news-release/2026/11/23/3408056/0/en/delisting-and-cancellation-of-trading-in-icg-units.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:IR5B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:1578d610fc759:0",
+      "title": "Irish Continental Group plc (IR5B) Units Delisted After Acquisition Scheme Takes Effect",
+      "url": "https://www.tradingview.com/news/tradingview:1578d610fc759:0-irish-continental-group-plc-ir5b-units-delisted-after-acquisition-scheme-takes-effect/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:IR5B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:81a7b8489e708:0",
+      "title": "Key facts: AXPAXLI filing on track; SOL-R endpoint moved to week 40",
+      "url": "https://www.tradingview.com/news/tradingview:81a7b8489e708:0-key-facts-axpaxli-filing-on-track-sol-r-endpoint-moved-to-week-40/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:OCUL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:e3692a3c0d096:0",
+      "title": "Key facts: COP Sells Norway Assets; Q3 Earnings, Dividend, Buybacks",
+      "url": "https://www.tradingview.com/news/tradingview:e3692a3c0d096:0-key-facts-cop-sells-norway-assets-q3-earnings-dividend-buybacks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:COP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:058cb2f1431e4:0",
+      "title": "Key facts: Drax lifts profit targets; adds sales; agrees Bluefield deal",
+      "url": "https://www.tradingview.com/news/tradingview:058cb2f1431e4:0-key-facts-drax-lifts-profit-targets-adds-sales-agrees-bluefield-deal/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:DRX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:dabb4abff27e6:0",
+      "title": "Key facts: Meta sees $145B capex; trims Reality Labs, funds AI",
+      "url": "https://www.tradingview.com/news/tradingview:dabb4abff27e6:0-key-facts-meta-sees-145b-capex-trims-reality-labs-funds-ai/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:META"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:9f045c71cac4e:0",
+      "title": "Key facts: NVIDIA Beats Estimates; Shares Slide, CEO Search, SEC Probe",
+      "url": "https://www.tradingview.com/news/tradingview:9f045c71cac4e:0-key-facts-nvidia-beats-estimates-shares-slide-ceo-search-sec-probe/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:7e1ec888f6ec5:0",
+      "title": "Key facts: NuScale Revenue Falls 96%; Reactor Projects Face Uncertainty",
+      "url": "https://www.tradingview.com/news/tradingview:7e1ec888f6ec5:0-key-facts-nuscale-revenue-falls-96-reactor-projects-face-uncertainty/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:SMR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:fbc4fab429191:0",
+      "title": "Key facts: Oklo targets Aurora plant in 2028–2029; Groves-1 approved",
+      "url": "https://www.tradingview.com/news/tradingview:fbc4fab429191:0-key-facts-oklo-targets-aurora-plant-in-2028-2029-groves-1-approved/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:OKLO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:3a5f7e80bfcab:0",
+      "title": "Key facts: PANW Beats Q1; Raises Outlook, $4.5B Deal; Phillip Upgrades",
+      "url": "https://www.tradingview.com/news/tradingview:3a5f7e80bfcab:0-key-facts-panw-beats-q1-raises-outlook-4-5b-deal-phillip-upgrades/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:PANW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:58d92186c17b0:0",
+      "title": "Key facts: PayPal Adds Brian J. Lee to Board; Clear Street Flags Risks",
+      "url": "https://www.tradingview.com/news/tradingview:58d92186c17b0:0-key-facts-paypal-adds-brian-j-lee-to-board-clear-street-flags-risks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:PYPL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:4a1421957a71c:0",
+      "title": "Key facts: Rocket Lab wins 20 launches; 54 Q3 bookings; factory expansion",
+      "url": "https://www.tradingview.com/news/tradingview:4a1421957a71c:0-key-facts-rocket-lab-wins-20-launches-54-q3-bookings-factory-expansion/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:RKLB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:c4b27bf123a57:0",
+      "title": "Key facts: SpaceX targets 13GW, raises $44B; Anthropic deal begins",
+      "url": "https://www.tradingview.com/news/tradingview:c4b27bf123a57:0-key-facts-spacex-targets-13gw-raises-44b-anthropic-deal-begins/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SPCX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0fb6a39ec3c5c:0",
+      "title": "Key facts: Tesla Berlin Plan; HSBC Lifts Target; Deal Needs 50% Vote",
+      "url": "https://www.tradingview.com/news/tradingview:0fb6a39ec3c5c:0-key-facts-tesla-berlin-plan-hsbc-lifts-target-deal-needs-50-vote/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:TSLA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-23:newsml_RSW1295Ea:0",
+      "title": "REG - AIM - AIM Notice - 23/11/2026",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-23:newsml_RSW1295Ea:0-reg-aim-aim-notice-23-11-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-23:newsml_RSW1284Ea:0",
+      "title": "REG - Stock Exch Notice - Admission to ISM - 23/11/2026",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-23:newsml_RSW1284Ea:0-reg-stock-exch-notice-admission-to-ism-23-11-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-23:newsml_RSW1302Ea:0",
+      "title": "REG - Stock Exch Notice - Admission to Trading - 23/11/2026",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-23:newsml_RSW1302Ea:0-reg-stock-exch-notice-admission-to-trading-23-11-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:70f63ca24094b:0",
+      "title": "Results of the Offering of Unsecured Subordinated Bonds of Bigbank AS",
+      "url": "https://www.globenewswire.com/news-release/2026/11/23/3408060/0/en/results-of-the-offering-of-unsecured-subordinated-bonds-of-bigbank-as.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:fc2133abb782b:0",
+      "title": "Rokmaster Resources Corp. (RKR) Reports High-Grade Copper-Molybdenum Samples",
+      "url": "https://www.tradingview.com/news/tradingview:fc2133abb782b:0-rokmaster-resources-corp-rkr-reports-high-grade-copper-molybdenum-samples/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:RKR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:7421ae42a094b:0",
+      "title": "Rokmaster Samples High-Grade Porphyry Cu-Mo-W at Thomlinson",
+      "url": "https://www.newsfilecorp.com/release/325186/Rokmaster-Samples-HighGrade-Porphyry-CuMoW-at-Thomlinson",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:RKR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:408c0a1e531f3:0",
+      "title": "Íslandsbanki hf. (ISB) Repurchased 3.43M Shares for ISK 481.9M",
+      "url": "https://www.tradingview.com/news/tradingview:408c0a1e531f3:0-slandsbanki-hf-isb-repurchased-3-43m-shares-for-isk-481-9m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXICE:ISB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:40c472b68e20c:0",
+      "title": "Íslandsbanki hf.: Transactions in relation to a share repurchase programme – week 47",
+      "url": "https://www.tradingview.com/news/modular_finance:40c472b68e20c:0-slandsbanki-hf-transactions-in-relation-to-a-share-repurchase-programme-week-47/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXICE:ISB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUA5JZTSN:0",
+      "title": "Harel Insurance Investments And Financial Services' Q3 Core Profit Surpasses NIS 1 Billion",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA5JZTSN:0-harel-insurance-investments-and-financial-services-q3-core-profit-surpasses-nis-1-billion/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T15:59:57+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TASE:HARL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:sharecast:469c97aa7094b:0",
+      "title": "Smith & Nephew taps Nick Alexos for CFO, Volution agrees to acquire Titon Holdings",
+      "url": "https://www.tradingview.com/news/sharecast:469c97aa7094b:0-smith-nephew-taps-nick-alexos-for-cfo-volution-agrees-to-acquire-titon-holdings/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "ShareCast",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T15:59:39+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:SN.",
+          "LSE:FAN",
+          "LSE:TON"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720KT:0",
+      "title": "Kraken Investigates Issue With The NESA Funding Gateway",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720KT:0-kraken-investigates-issue-with-the-nesa-funding-gateway/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T15:59:31+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:sharecast:cbaafa6e9094b:0",
+      "title": "Volution to buy Titon Holdings in £14m deal",
+      "url": "https://www.tradingview.com/news/sharecast:cbaafa6e9094b:0-volution-to-buy-titon-holdings-in-14m-deal/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "ShareCast",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T15:59:30+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TON"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720ER:0",
+      "title": "Huckleberry Issues Statement On Delaware Court Decision Regarding Asset Distribution",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720ER:0-huckleberry-issues-statement-on-delaware-court-decision-regarding-asset-distribution/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T15:59:04+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:HUCK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720CP:0",
+      "title": "Egyptian Modern Education Systems Q1 Profit EGP 5.4 Mln",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720CP:0-egyptian-modern-education-systems-q1-profit-egp-5-4-mln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T15:58:50+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EGX:MOED"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:sharecast:285b146e9094b:0",
+      "title": "Smith & Nephew appoints Nick Alexos as CFO",
+      "url": "https://www.tradingview.com/news/sharecast:285b146e9094b:0-smith-nephew-appoints-nick-alexos-as-cfo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "ShareCast",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T15:58:37+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.809935+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:SN."
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/23/national-debt-rose-usd2-4-trillion-in-a-year-to-usd40-6-trillion-the-s-and-p-500-gained-9-anyway/?.tsrc=rss",
+      "title": "The National Debt Rose $2.4 Trillion in a Year to $40.6 Trillion. The S&P 500 Gained 9% Anyway.",
+      "url": "https://www.fool.com/investing/2026/11/23/national-debt-rose-usd2-4-trillion-in-a-year-to-usd40-6-trillion-the-s-and-p-500-gained-9-anyway/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Investors should start to question conventional wisdom about how equities should behave in a higher-yield environment.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T15:50:01+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://stocktwits.com/news-articles/markets/equity/michael-burry-apple-costco-walmart-havens-generals-2000-2007-peaks/cNbYM9pR9Sk?.tsrc=rss",
+      "title": "Michael Burry Names Apple, Costco And Walmart Early Crash Havens — The ‘Generals’ Fell Months After 2000 And 2007 Peaks",
+      "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-apple-costco-walmart-havens-generals-2000-2007-peaks/cNbYM9pR9Sk?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Burry sold half his Nvidia puts and half his semiconductor ETF puts, kept his Nasdaq 100 puts and held Nvidia calls to hedge against a rebound.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T15:48:58+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/23/if-youd-bought-oklo-at-its-spac-debut-heres-what-youd-have-today/?.tsrc=rss",
+      "title": "If You’d Bought Oklo at Its SPAC Debut, Here’s What You’d Have Today",
+      "url": "https://www.fool.com/investing/2026/11/23/if-youd-bought-oklo-at-its-spac-debut-heres-what-youd-have-today/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Oklo stock has had a rocky life on Wall Street.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T15:35:02+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/world-indices/articles/asian-tech-back-firing-line-024445930.html?.tsrc=rss",
+      "title": "Asian tech back in the firing line as traders track Wall St rout",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-tech-back-firing-line-024445930.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Asian stock markets struggled to recover on Monday from last week's sell-off, with tech firms again in the firing line as investors tracked an eye-watering rout on Wall Street.\"Their continued weakness suggests investors are still more interested in reducing exposure than celebrating a few hours of improved sentiment in US futures.\"",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T15:24:13+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/23/anthropic-just-went-public-heres-the-1-thing-im-watching/?.tsrc=rss",
+      "title": "Anthropic Just Went Public. Here’s the 1 Thing I’m Watching.",
+      "url": "https://www.fool.com/investing/2026/11/23/anthropic-just-went-public-heres-the-1-thing-im-watching/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The company's valuation depends on one ratio, and it went in the wrong direction last quarter.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T15:20:02+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "finnhub:8797631",
+      "title": "COMMENTARY: China's steel sector bifurcates as iron ore remains robust - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2xsd3JPb1JDd3FyX0VGUnM0dmZrYXQ4aldfYlFxbkZaSXZxTjljTkVBN19YVzl5ZGMxOHhIdTJKT01OTHhXUmNWSGVHMmhzSGhuV0FoOXN5b1RqVWJ4SE0zVGpFbndrZjJaYjlpdVIyS3FVQ3d4bU02VXdmTGNGbjJHUWNwZms4YzI0WjNLYW5UbVhPZ1RpenoyeW9EWlVkMjZ3SnpwUk82UHNZUmR6c2NMNWE0a1EtR1ltdloxcHg?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "COMMENTARY: China's steel sector bifurcates as iron ore remains robust Reuters",
+      "content": "COMMENTARY: China's steel sector bifurcates as iron ore remains robust Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T15:08:19+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:34.085549+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/nvidia-news-investors-rethinking-u-070751605.html?.tsrc=rss",
+      "title": "Nvidia News Has Investors Rethinking These U.S. AI Chip Stocks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-news-investors-rethinking-u-070751605.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "AI chip stocks just came through a sharp sentiment swing, with Nvidia’s leadership drama, export control worries and U.S.–China security concerns colliding with a sudden rebound in futures. That mix of anxiety and optimism can reset prices quickly, which matters if you care about where capital flows next. This article walks through 3 U.S. AI-chip and GPU designers exposed to these headlines and explains why their stories deserve a closer look. The stocks covered below are a small sample of...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T15:07:51+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "alpaca:128761156",
+      "title": "Can-Fite BioPharma Completes Dosing in Pivotal Phase III Psoriasis Study",
+      "url": "https://www.moomoo.com/stock/CANF-US?chain_id=Name1K9-3FXPhg.1le5340&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A64%2C%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2Frevelation-6-70897568%2Fpost%2Fall%22%7D",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Can-Fite BioPharma has completed patient dosing for its pivotal Phase III study of Piclidenoson in psoriasis, with an interim analysis expected in the first quarter of 2027.",
+      "content": "Can-Fite BioPharma announced that all patients have completed dosing in its pivotal Phase III clinical trial evaluating the oral drug candidate Piclidenoson for the treatment of psoriasis. The study is being conducted under a protocol agreed upon by both the U.S. Food and Drug Administration (FDA) and the European Medicines Agency (EMA). The company expects to conduct an interim analysis of the study data in the first quarter of 2027. This milestone marks the completion of treatment for the interim-analysis cohort, moving the program closer to its regulatory and clinical objectives.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T15:02:18+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "CANF"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128761083",
+      "title": "Fiverr Launches \"Connect to your AI\" Feature",
+      "url": "https://news.marketersmedia.com/paulo-teixeira-sees-interface-for-ai-becoming-a-model-for-the-web/89210496",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Fiverr has introduced a new \"Connect to your AI\" option on its platform, allowing users to integrate AI agents to assist with searching for and comparing freelance services.",
+      "content": "On November 22, 2026, Fiverr launched a new \"Connect to your AI\" feature on its marketplace. This integration, part of the Fiverr MCP (Model Context Protocol) framework, enables AI agents to search for freelancers, compare services, and retrieve profile and review information on behalf of users. The feature is currently in its first phase, focusing on search capabilities, while the final decision and engagement with a freelancer remain with the user. This development reflects the company's effort to incorporate AI-driven automation into its freelance hiring process.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T15:01:57+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "FVRR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128761082",
+      "title": "Amerx Maintains Buy Rating and $2.21 Price Target on Arbe Robotics",
+      "url": "https://www.moomoo.com/hans/news/post/1005339701/arbe-robotics-price-target-maintained-with-a-2-21-share",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Amerx analyst Casey Ryan has reiterated a Buy rating and maintained a $2.21 price target for Arbe Robotics (NASDAQ: ARBE).",
+      "content": "Amerx analyst Casey Ryan has reaffirmed a Buy rating on Arbe Robotics Ltd. (NASDAQ: ARBE) and maintained the firm's price target of $2.21 per share. This analyst action represents a continuation of the existing investment thesis for the company. No new financial guidance or structural changes were reported in conjunction with this maintenance of the rating.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T15:01:42+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ARBE"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/23/2-semiconductor-stocks-to-buy-no-matter-who-wins-the-ai-chip-race/?.tsrc=rss",
+      "title": "2 Semiconductor Stocks to Buy No Matter Who Wins the AI Chip Race",
+      "url": "https://www.fool.com/investing/2026/11/23/2-semiconductor-stocks-to-buy-no-matter-who-wins-the-ai-chip-race/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia's surprise CEO exit has scrambled the AI chip race, but two equipment makers get paid either way.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T14:50:02+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/alice-huang-contacts-chinese-spy-064411334.html?.tsrc=rss",
+      "title": "Alice Huang’s Contacts With Chinese Spy Agency Reportedly Tracked by US Intelligence: Nvidia Stock Climbs Over 7% on Robinhood’s Platform",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alice-huang-contacts-chinese-spy-064411334.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "U.S. intelligence reportedly tracked contacts between Alice Huang and an officer of a Chinese spy agency during her relationship with Jensen Huang, former CEO of Nvidia Corp. (NASDAQ:NVDA), whose shares rose more than 7% overnight early Monday. Contacts Spanned More Than a Year Alice Huang was in touch with an officer of China’s Ministry of State Security from spring 2025 until this fall, The New York Times reported Sunday, citing multiple people familiar with U.S. intelligence reports. That per",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T14:44:11+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:7ffb50275ba9f3cade5820d35f988a4f8bdcdf30",
+      "title": "Nvidia Just Reported Its First Quarter Without Jensen Huang. If the AI Trade Is Cracking, Warren Buffett’s Advice Comes Down to 1 Move.",
+      "url": "https://www.fool.com/investing/2026/11/23/nvidia-just-reported-its-first-quarter-without-jensen-huang-if-the-ai-trade-is-cracking-warren-buffett-s-advice-comes-down-to-1-move/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Buffett has age-old advice that can help you survive different market paradigms.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T14:20:02+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:bc9e7df568abdd403c52c858eb58d4a2d3a5cd49",
+      "title": "Anthropic Stock Trend, Jensen Huang’s Potential Return As Nvidia CEO And Dell’s Q4 Results To Keep Tech Investors Busy This Week",
+      "url": "https://stocktwits.com/news-articles/markets/equity/anthropic-stock-trend-jensen-huang-s-potential-return-as-nvidia-ceo-and-dell-s-q4-results-to-keep-tech-investors-busy-this-week/cNbYAtgR9Sf?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "President Donald Trump has backed Huang’s reinstatement.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T14:14:45+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://uk.finance.yahoo.com/news/time-cash-nvidia-060000333.html?.tsrc=rss",
+      "title": "It’s time to follow the cash at Nvidia",
+      "url": "https://uk.finance.yahoo.com/news/time-cash-nvidia-060000333.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "There is an old stock market saying that “revenues and profits are a matter of opinion, but cash is a matter of fact” and a current case in point may just be Nvidia.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T14:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://beincrypto.com/nvidia-futures-rip-as-markets-rebound/?.tsrc=rss",
+      "title": "Green Week Ahead? Nvidia Futures Rip 6%, Nasdaq and S&P 500 Futures Snap Back 2%",
+      "url": "https://beincrypto.com/nvidia-futures-rip-as-markets-rebound/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia futures jumped 5.71% while Nasdaq and S&P 500 futures rebounded 2%, but an SEC probe keeps pressure on AI stocks.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T14:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.euronews.com/2026/11/23/tech-back-in-the-firing-line-as-traders-track-wall-street-rout?.tsrc=rss",
+      "title": "Tech back in the firing line as traders track Wall Street rout",
+      "url": "https://www.euronews.com/2026/11/23/tech-back-in-the-firing-line-as-traders-track-wall-street-rout?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Ahead of European markets opening, Asian stock markets struggled to recover from last week's sell-off, with tech firms again in the firing line as investors tracked an eye-watering rout on Wall Street.View on euronews",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T13:20:14+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/23/these-5-stocks-could-double-by-2028-here-s-what-has-to-go-right/?.tsrc=rss",
+      "title": "These 5 Stocks Could Double by 2028. Here's What Has to Go Right.",
+      "url": "https://www.fool.com/investing/2026/11/23/these-5-stocks-could-double-by-2028-here-s-what-has-to-go-right/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "SpaceX, Broadcom, SentinelOne, SoundHound, and Dutch Bros have the potential to double.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T13:20:02+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://stocktwits.com/news-articles/markets/equity/why-did-nvda-nflx-orcl-slip-to-52-week-lows-last-week/cNbYpPuR9SJ?.tsrc=rss",
+      "title": "Why Did NVDA, NFLX, ORCL Slip To 52-Week Lows Last Week?",
+      "url": "https://stocktwits.com/news-articles/markets/equity/why-did-nvda-nflx-orcl-slip-to-52-week-lows-last-week/cNbYpPuR9SJ?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia, Netflix and Oracle shares plunged to annual lows on Friday amid leadership concerns, slowing pace of growth, and broader liquidity issues following Anthropic’s recent IPO.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T13:11:19+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:bb0bd72ac94b9d42da5dc01763b50b6a103e8bdf",
+      "title": "Trump Throws His Weight Behind Jensen Huang’s Return As Nvidia CEO: ‘It Would Be The Best Thing For The Company’",
+      "url": "https://stocktwits.com/news-articles/markets/equity/trump-throws-his-weight-behind-jensen-huang-s-return-as-nvidia-ceo-it-would-be-the-best-thing-for-the-company/cNbY8mTR9S3?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "“I hope the Board of Nvidia rehires Jensen Huang,” Trump posted on Truth Social on Sunday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T12:13:37+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "alpaca:128748551",
+      "title": "Delta Electronics (Thailand) Announces Board Resolutions on Related Party Transactions",
+      "url": "https://www.set.or.th/en/market/news-and-alert/news?newsType=company",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Delta Electronics (Thailand) Public Company Limited disclosed resolutions from its Board of Directors Meeting No. 16/2026, including the ratification of a related party transaction involving financial assistance from a major shareholder.",
+      "content": "Delta Electronics (Thailand) Public Company Limited issued a notification regarding the resolutions of its Board of Directors Meeting No. 16/2026. The board ratified a related party transaction concerning the receipt of financial assistance from a major shareholder. Additionally, the company provided an update on Central Administrative Court Case No. 2096/2561 and announced the disclosure of the Notice of the Debenture Holders' Meeting No. 5/2026 on its corporate website.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T12:02:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "DELTA"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://beincrypto.com/sp-500-bottom-unlikely-apple-krinsky/?.tsrc=rss",
+      "title": "BTIG's Krinsky Says S&P 500 Bottom Unlikely While Apple Holds Near Highs",
+      "url": "https://beincrypto.com/sp-500-bottom-unlikely-apple-krinsky/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "BTIG's Jonathan Krinsky says an S&P 500 bottom is unlikely while Apple sits near highs, citing a decade of data.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T12:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.trefis.com/stock/dell/articles/624827/how-did-dell-grow-from-56-billion-to-151-billion-in-20-years/2026-11-22?.tsrc=rss",
+      "title": "How Did Dell Grow From $56 Billion To $151 Billion In 20 Years?",
+      "url": "https://www.trefis.com/stock/dell/articles/624827/how-did-dell-grow-from-56-billion-to-151-billion-in-20-years/2026-11-22?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T10:44:11+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.trefis.com/stock/amzn/articles/627456/amazon-spent-1-82-for-every-1-of-cash-last-quarter-can-it-keep-going/2026-11-22?.tsrc=rss",
+      "title": "Amazon Spent $1.82 For Every $1 Of Cash Last Quarter. Can It Keep Going?",
+      "url": "https://www.trefis.com/stock/amzn/articles/627456/amazon-spent-1-82-for-every-1-of-cash-last-quarter-can-it-keep-going/2026-11-22?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T10:44:11+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "finnhub:8796812",
+      "title": "Oil holds in tight range as Gulf attacks sustain risk premium - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb016TW1Rc3N2Q0h6TVJZUFBSeXZqWklRWXgwZ2QyUnRCa0tnWnI4b0Z2YkVVZlVGWTJwa0E3SEVqNnotSE4zOFpOdjJUSE5GcjB5RHJxaklsM0I2U1owemZ4aUJmYkRhUUM2VjVFd09paWhIWHhFUWxmcmhzT3Y5RWhCTENfNE00a3RaYnhnOGgweEJoNEVtNTVKS0pLTWNiY2ZfM1pvbFNieG5DbWpGcUdOM19xZFF5QXl5LWZXNVRrZw?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Oil holds in tight range as Gulf attacks sustain risk premium Reuters",
+      "content": "Oil holds in tight range as Gulf attacks sustain risk premium Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T10:24:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:34.085549+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
+      "id": "alpaca:128740339",
+      "title": "Kura Sushi USA Reaches 100-Location Milestone",
+      "url": "https://www.streetinsider.com/Press+Releases?before_id=27361045",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Kura Sushi USA announced it will reach its 100th restaurant location in December 2026, marking the milestone with customer giveaways and rewards.",
+      "content": "Kura Sushi USA is set to celebrate the opening of its 100th restaurant location this December. To commemorate this triple-digit milestone, the company plans to offer special dine-in giveaways and provide customers with 3X rewards points. The announcement highlights the company's continued expansion of its technology-enabled revolving sushi dining model across the United States.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T10:03:59+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "KRUS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128740338",
+      "title": "Chemomab Therapeutics Proposes Merger with Scipher Medicine",
+      "url": "https://www.moomoo.com/stock/CMMB-US?chain_id=Name1K9-3FXPhg.1l3rg80&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FSFTBY-US%22%7D",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Chemomab Therapeutics has announced a proposed merger with Scipher Medicine, with the transaction expected to close in the first quarter of 2027.",
+      "content": "Chemomab Therapeutics (NASDAQ: CMMB) has announced a proposal to merge with Scipher Medicine. The companies anticipate that the transaction will be completed in the first quarter of 2027. This development represents a significant strategic shift for both entities as they move toward a combined operation. Further details regarding the structure and terms of the merger were not disclosed in the initial announcement.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T10:03:46+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SCIP"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128740337",
+      "title": "Aclaris Therapeutics Receives Analyst Price Target Reductions",
+      "url": "https://www.moomoo.com/stock/ACRS-US?chain_id=Name1K9-3FXPhg.1le2eo0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FACRS-US%22%7D",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Multiple financial institutions, including Canaccord Genuity and Wedbush, have lowered their price targets for Aclaris Therapeutics (ACRS) as of November 21, 2026.",
+      "content": "On November 21, 2026, Aclaris Therapeutics experienced several analyst price target adjustments. Canaccord Genuity reduced its price target for the company's shares from $13.00 to $12.00, while maintaining a Buy rating. Additionally, Wedbush lowered its price target for Aclaris Therapeutics from $8.00 to $3.00. These revisions reflect updated analyst sentiment regarding the company's valuation and market outlook.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T10:03:44+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ACRS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128740336",
+      "title": "Janux Therapeutics Announces Development Candidate Nomination Under Bristol Myers Squibb Collaboration",
+      "url": "https://www.moomoo.com/stock/JANX-US?chain_id=Name1K9-3FXPhg.1kt0l40&global_content=%7B%22promote_id%22%3A13643,%22sub_promote_id%22%3A67,%22f%22%3A%22www.moomoo.com%2Fhans%2Fstock%2FOKLO-US%2Fforecast%22%7D",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Janux Therapeutics has nominated a new development candidate under its collaboration with Bristol Myers Squibb, triggering a $35 million milestone payment.",
+      "content": "Janux Therapeutics, Inc. announced the nomination of a development candidate as part of its exclusive worldwide license and collaboration agreement with Bristol Myers Squibb. This milestone achievement triggers a $35 million payment to Janux. The nomination marks progress in the company's efforts to develop novel immunotherapies for cancer. The collaboration remains a key component of Janux's clinical-stage pipeline development.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T10:03:35+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "JANX"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128740335",
+      "title": "Oak Valley Community Bank Welcomes Nathan Dellinger as Senior Vice President, Credit Administrator",
+      "url": "https://www.streetinsider.com/Press+Releases?before_id=26090490",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Oak Valley Community Bank, a subsidiary of Oak Valley Bancorp, has appointed Nathan Dellinger as its new Senior Vice President and Credit Administrator.",
+      "content": "Oak Valley Community Bank, the wholly-owned subsidiary of Oak Valley Bancorp, has announced the appointment of Nathan Dellinger to the position of Senior Vice President, Credit Administrator. This executive appointment reflects the bank's ongoing efforts to strengthen its credit administration and leadership team. As a key operating entity of the bancorp, the bank continues to focus on its community-oriented banking services in California's Central Valley and Eastern Sierras regions.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T10:03:31+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "OVLY"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128740334",
+      "title": "Morgan Stanley Maintains Hold Rating and Adjusts Price Target for ZoomInfo",
+      "url": "https://www.moomoo.com/stock/GTM-US?chain_id=Name1K9-3FXPhg.1ldvqc0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A59%2C%22f%22%3A%22www.moomoo.com%2Foptions%2FALIT261120P16000-US%22%7D",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Morgan Stanley analyst Elizabeth Porter has maintained a Hold rating on ZoomInfo Technologies Inc. while lowering the price target to $4.",
+      "content": "Morgan Stanley analyst Elizabeth Porter has reaffirmed a Hold rating on ZoomInfo Technologies Inc. (GTM) while adjusting the price target to $4. This analyst action reflects the firm's current outlook on the company's performance and market position. The update was reported on November 22, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T10:03:27+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GTM"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128740333",
+      "title": "B. Riley Securities Maintains Buy Rating on enCore Energy, Revises Price Target",
+      "url": "https://www.moomoo.com/stock/EU-CA",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "B. Riley Securities analyst Soundarya Iyer has maintained a Buy rating on enCore Energy (EU) and updated the price target to $1.75.",
+      "content": "B. Riley Securities analyst Soundarya Iyer has maintained a Buy rating on enCore Energy Corp. (NYSE: ECR). The analyst also revised the price target for the company's stock from $2.50 to $1.75. This analyst action was reported on November 22, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T10:03:24+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ECR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128740332",
+      "title": "Analyst Initiates Coverage on Keel Infrastructure Corp.",
+      "url": "https://www.moomoo.com/stock/KEEL-CA?chain_id=Name1K9-3FXPhg.1l0ksl0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fstock%2F01776-HK%22%7D",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "An analyst has initiated coverage on Keel Infrastructure Corp. with a neutral rating.",
+      "content": "On November 21, 2026, an analyst initiated coverage on Keel Infrastructure Corp. (KEEL) with a neutral rating. This initiation was part of a broader set of analyst actions reported for the day. The company, which is transitioning its focus toward artificial intelligence and high-performance computing infrastructure, continues to be monitored by market participants following recent stock price volatility.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T10:03:24+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "KEEL"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128740331",
+      "title": "Artivion Lowers 2026 Revenue Guidance",
+      "url": "https://www.moomoo.com/hans/news/post/69597710/artivion-cuts-2026-view-to-rev-480m-496m-aort?futusource=news_newspage_recommend",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Artivion, Inc. has revised its financial outlook for 2026, lowering its expected revenue range to between $480 million and $496 million.",
+      "content": "Artivion, Inc. announced a downward revision to its revenue guidance for the 2026 fiscal year. The company now expects total revenue to fall within the range of $480 million to $496 million. This adjustment represents a change to the company's previously communicated financial outlook. The update provides investors with updated expectations regarding the company's performance for the remainder of the year.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T10:03:23+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.936669+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "AORT"
+        ]
+      }
+    },
+    {
+      "id": "finnhub:8797120",
+      "title": "Australia shares set to slide at open, NZ falls - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2JMdUwzSGRkYk1MUm5YajNwSHBXSnhSdWt4S0t3VnlrcTBZWlFxYVFfVEVXYkhuVjlwR203aHM2eHljWER5M2F5eVg5QXI5NnVnaXN3TG9OVkZrNXFUaTB4OUFHTmtWb0dzWDBlLWlGc0F3ZGd0QUd0aWdtR1lrUXBCMXF0RlBSVXl1SS12Z3ppaEpIMXJLYQ?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Australia shares set to slide at open, NZ falls Reuters",
+      "content": "Australia shares set to slide at open, NZ falls Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T09:07:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:34.085549+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N473058:0",
       "title": "Changzhou Microintelligence seeks up to $74.62 million in revived Hong Kong IPO",
@@ -942,6 +3773,30 @@
       }
     },
     {
+      "id": "finnhub:8796709",
+      "title": "Let's weigh the cons — and pros — of this brutal market to find a way forward",
+      "url": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "CNBC",
+      "summary": "My dad always said a list can help you make an informed decision — not always the right one, but the most informed at that moment.",
+      "content": "My dad always said a list can help you make an informed decision — not always the right one, but the most informed at that moment.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:49:44+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:34.085549+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "CNBC",
+        "category": "top news",
+        "related": "",
+        "image": "https://image.cnbcfm.com/api/v1/image/108556475-1795186492969-gettyimages-2305372283-AFP_D8394NG.jpeg?v=1795186549&w=1920&h=1080"
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N473057:0",
       "title": "New Zealand's Asset Plus HY profit rises on lease gains",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N473057:0-new-zealand-s-asset-plus-hy-profit-rises-on-lease-gains/",
@@ -1078,6 +3933,30 @@
         "symbols": [
           "ASX:CAT"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8796404",
+      "title": "Dollar edges off 19-month high after market rout; yen softens - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVA0aUFSMnFob3ZJdVFvbmlpN0JDRWFRNUJwZ1BIY19KU3RXZjJTRGdLaU00NGJ6dDRvX3VBUDdtcG9XQWRiRFhuUzhMZTNsN2lDSWVKMmI2Vi1EQ3dFUE5mM3dwZGNQWC1zZXhnZTJfVEVuYzVETlV1enJTN0dPZlQ3SlozeklDTzkwck16LW42eWt5aDJEY0w4M0Ytd0ZlRnBSZmZpN0Z5bkxTLXNXcWdtSW0?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Dollar edges off 19-month high after market rout; yen softens Reuters",
+      "content": "Dollar edges off 19-month high after market rout; yen softens Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:43:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:34.085549+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -1322,6 +4201,30 @@
       "extra": {}
     },
     {
+      "id": "finnhub:8796713",
+      "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "OpenAI scientist proposes industry AI limits tied to model intelligence metric Reuters",
+      "content": "OpenAI scientist proposes industry AI limits tied to model intelligence metric Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:09:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:34.085549+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "yahoo:https://www.fool.com/investing/2026/11/22/apple-is-now-25-of-berkshire-hathaway-s-stock-portfolio-here-s-what-holding-every-share-tells-investors/?.tsrc=rss",
       "title": "Apple Is Now 25% of Berkshire Hathaway's Stock Portfolio. Here's What Holding Every Share Tells Investors.",
       "url": "https://www.fool.com/investing/2026/11/22/apple-is-now-25-of-berkshire-hathaway-s-stock-portfolio-here-s-what-holding-every-share-tells-investors/?.tsrc=rss",
@@ -1377,6 +4280,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "finnhub:8797632",
+      "title": "North Carolina win gives Democrats biggest US House majority since early 1990s - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZzZjY0pNZnpnUmtsZ3RudXpZeDh4TnlWZDFIZHBvUk0tbVlxREhydk5zRTJhX0lYcjFXQTNNTzBtOFM4NlNhTE9DZnl3SUZiM3RpTzRzZTJ4aURMSUJCdDRGb0l2MWh5MFJmTWgwS1k4Ql9vTGh1eWVGbEw3WGVCS1UtTkNGVVoxS0EyZVl3Vmw0UThpTlVUWWN2WlNyaWR6a1FYYlJZaWl1MlAyQ01OSEcyY3hMai0zUWdfUUc3MkQ?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "North Carolina win gives Democrats biggest US House majority since early 1990s Reuters",
+      "content": "North Carolina win gives Democrats biggest US House majority since early 1990s Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T06:04:25+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:34.085549+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
     },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/22/3-ai-hardware-stocks-down-more-than-30-from-their-records-to-buy-now-and-hold-through-2030/?.tsrc=rss",
@@ -1574,6 +4501,25 @@
       "extra": {}
     },
     {
+      "id": "yahoo:https://www.barchart.com/story/news/8957349/microsoft-remains-attractively-valued-as-azure-and-cloud-drive-growth?.tsrc=rss",
+      "title": "Microsoft Remains Attractively Valued as Azure and Cloud Drive Growth",
+      "url": "https://www.barchart.com/story/news/8957349/microsoft-remains-attractively-valued-as-azure-and-cloud-drive-growth?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Bill Ackman says he remains bullish on Microsoft despite Pershing Square selling 2 million shares.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T04:30:03+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:33.109455+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.tikr.com/blog/a-6-4-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-hf28rr6f&.tsrc=rss",
       "title": "A $6.4 Billion Fund Just Bought These 3 Stocks",
       "url": "https://www.tikr.com/blog/a-6-4-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-hf28rr6f&.tsrc=rss",
@@ -1591,6 +4537,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "finnhub:8796813",
+      "title": "WHO chief says fighting near Congo Ebola outbreak area disrupts response efforts - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVnZjcE50YXJiLWxXZE5OQldXSndtUVlUbnNJckNPY1lQM1ZpdlExMlNJX08zNFJQbnFYd3FKT3ZZbzBqY2s4a3c0RVg0M2dELVZrLUx5R0tobENIQWk2QUdNZG9YRl95STZFUlVOVTlVcThuRG90VndEZEZhaE5jbTRVYkN1SUxoYmlteUhlempZSVNGRjJNWjhZdXlSNzMtM1Q3VExpZmFqZHJKbVdjT3lpekdsb0dXQXg0NHdsUkZwdlNzQW9CaGVhblM2b0VHSWRZTGlFVUJBSnd3LXA2SXJoUlVmV1E?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "WHO chief says fighting near Congo Ebola outbreak area disrupts response efforts Reuters",
+      "content": "WHO chief says fighting near Congo Ebola outbreak area disrupts response efforts Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T04:17:43+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:34.085549+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
     },
     {
       "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/apple-aapl-planning-autonomous-ai-200614575.html?.tsrc=rss",
@@ -1648,6 +4618,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "finnhub:8796711",
+      "title": "Delta flights faced brief delays at Atlanta airport over automated system issue - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUi1YSXI0MDNzWFFveF90TU5ObVc1eVBONWJnaGdLaGMyV0lrYjJwbkFUM0lUVXJkUGpPRXNkbEw3c29yTDdNaGJWeEV3ZUw0UzhKbjdzYXBkQ2ZwY3JaRkxjM1hIazJXdmlnN3dCNkNMOW5lcEVIcE1BN3NMSWNCem5JSHpRSzRkOUdKUzFjbnJWZUhnWG5CWkR6dDB1LWFsdFp0TS0xU2h0QWZZdVprUVRnVXk4MkpRY1lDX2U5S1g3OWIzd3dqa080eU5xOFk0ekE4UlBsakxQUQ?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Delta flights faced brief delays at Atlanta airport over automated system issue Reuters",
+      "content": "Delta flights faced brief delays at Atlanta airport over automated system issue Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T03:16:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:34.085549+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N47306I:0",
@@ -2247,6 +5241,30 @@
       }
     },
     {
+      "id": "finnhub:8796814",
+      "title": "US intelligence chief predicts more tech outages as systems undergo upgrades - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX1ZQQTFqN0xpOERieUhlT0puQ0pnQnNnRnQtaW8yb3VGWkFvM3hGeTA3QlBrR1VCNUhjS21TQ1JISlNWMG5mdlc3NVVmOUZ0LWZrMTB4R3h4YlpIVnJObWVQcmhLUDFiRnhCY1c1RTE5NzhwQzIwTXQ3MkxfN1hQSU9ZbkVidFZCWE1PWWxHMWgtem5ZSzBoOU1oYUVuZ0NEOW00V0Jlb1pEUVdrNUF3blEtSEw4dkpsYU9ya0w0N3UxTmRE?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "US intelligence chief predicts more tech outages as systems undergo upgrades Reuters",
+      "content": "US intelligence chief predicts more tech outages as systems undergo upgrades Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T02:14:09+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:34.085549+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "tradingview:financemagnates:422e22bfb094b:0",
       "title": "BridgeWise Files for a Tel Aviv IPO Instead of Crossing the Atlantic: Report",
       "url": "https://www.financemagnates.com/forex/bridgewise-files-for-a-tel-aviv-ipo-instead-of-crossing-the-atlantic-report/",
@@ -2326,6 +5344,25 @@
       "published_at": "2026-11-23T02:05:15+08:00",
       "published_date": "2026-11-23",
       "fetched_at": "2026-11-23T03:29:08.526581+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6edd283247c04240387229bc2e6db03b6cbc4657",
+      "title": "ONE Gas: Earnings Growth Comes At A Cost",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03f40a514d4001bb4a686e79e3ab54&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4970980-one-gas-stock-earnings-growth-comes-at-a-cost&c=16076626658662403222&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "ONE Gas is growing earnings from gas distribution, but capital intensity and dilution make the price difficult to justify.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T02:04:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:35.849828+08:00",
       "crawl_date": "2026-11-23",
       "lang": "en",
       "category": "english",
@@ -2970,6 +6007,25 @@
       }
     },
     {
+      "id": "msn:536bb21175fad40912135de92edab2eecd13918e",
+      "title": "Sensex Today | Stock Market Live Updates: Nifty extends losses to 330 points; Tata Power at ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03f4096f3d48c8a17082eb2c210849&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-expiry-today-nifty-bank-usd-metals-it-ai-tata-steel-apl-apollo-railway-share-price-liveblog-20039466.htm&c=7738284599607499725&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "After four straight weekly gains, Nifty bulls head into another truncated week with 26,000 levels firmly in sight. It is after mid-February that the index managed a close at the 25,800 mark last ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T00:36:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:35.849828+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47303L:0",
       "title": "Schumer led Democrats to big Senate win. Now, some say they need a new leader",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47303L:0-schumer-led-democrats-to-big-senate-win-now-some-say-they-need-a-new-leader/",
@@ -3150,6 +6206,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "msn:4ea4e5b7a40859c9326d7b5aae9e9596152f2f40",
+      "title": "Stock Market Crash: शेयर बाजार में ऐसी तबाही ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03f4096f3d48c8a17082eb2c210849&url=https%3a%2f%2fwww.aajtak.in%2fbusiness%2fnews%2fstory%2fstock-market-crash-sensex-nifty-big-fall-from-day-high-investors-lost-5-lakh-crore-rupee-tutc-dskc-2703519-2026-11-23&c=17860094535127890234&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stock Market Crash: शेयर बाजार में सोमवार को दिन निवेशकों के लिए बेहद खराब साबित हो रहा है. बीएसई का सेंसेक्स दोपहर 1 बजे तक डे-हाई से 1800 अंक फिसल गया था और निवेशकों के 5 लाख करोड़ रुपये से ज्यादा स ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T00:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T16:06:35.849828+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     }
   ]
 }
