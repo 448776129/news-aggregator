@@ -1,0 +1,61 @@
+{
+  "date": "2023-06-27",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-24T04:13:04.197174+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:7cc0a2742f0e676a907def2574ea645aa018e5d8",
+      "title": "Walgreens slashes earnings guidance due to lower consumer spending, drop in Covid care demand",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b049e4d01bf4a21af91cb2e6f5763d7&url=https%3a%2f%2fwww.cnbc.com%2f2023%2f06%2f27%2fwalgreens-wba-earnings-q3-2023.html&c=3296674075575989649&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Walgreens slashed its full-year earnings guidance to a range of $4.00 to $4.05 per share, down from its previous forecast of $4.45 to $4.65 per share. Walgreens fiscal third-quarter earnings missed ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2023-06-27T12:00:00+08:00",
+      "published_date": "2023-06-27",
+      "fetched_at": "2026-11-24T04:13:02.863095+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2024-08-10",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-24T04:13:04.197827+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:22ca9dcae02c252609e2059ff6eb04e7ed3e7f56",
+      "title": "Earnings Growth in US Finally Showing Up Outside Tech Megacaps",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b049e4d01bf4a21af91cb2e6f5763d7&url=https%3a%2f%2fwww.bloomberg.com%2fnews%2farticles%2f2024-08-10%2fearnings-growth-is-finally-showing-up-outside-of-megacap-tech&c=18354842577667984313&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "As another quarterly earnings season from Corporate America enters its final stretch, this much is clear: The long-awaited recovery in the companies that were left out of the artificial-intelligence ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2024-08-10T13:00:00+08:00",
+      "published_date": "2024-08-10",
+      "fetched_at": "2026-11-24T04:13:02.863095+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

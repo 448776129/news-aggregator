@@ -1,0 +1,61 @@
+{
+  "date": "2025-03-05",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-24T04:13:04.198309+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:b55a2199c355dc58ddf45e5379272fbbeff31c72",
+      "title": "Stock Exchanges: Where Shares Are Bought & Sold",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b049e4c1b4547a1953e04ab70da316f&url=https%3a%2f%2fwww.fool.com%2finvesting%2fstock-market%2fexchange%2f&c=16670621055461812484&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stock exchanges connect companies and investors, facilitating stock trades like a marketplace. By providing liquidity, stock exchanges enable easier and anonymous trading between buyers and sellers.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2025-03-05T20:49:00+08:00",
+      "published_date": "2025-03-05",
+      "fetched_at": "2026-11-24T04:13:02.863095+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

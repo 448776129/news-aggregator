@@ -1,0 +1,61 @@
+{
+  "date": "2025-01-09",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-24T04:13:04.198086+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:9745e21feadb6149155ad329a156ff5b603a5575",
+      "title": "Low-income workers experience—by far—the most earnings and work hours instability",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b049e4d01bf4a21af91cb2e6f5763d7&url=https%3a%2f%2fwww.brookings.edu%2farticles%2flow-income-workers-experience-by-far-the-most-earnings-and-work-hours-instability%2f&c=15108327349460922898&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Instability is a defining characteristic of low-income workers’ earnings and hours. Earnings and hours volatility for low-income workers are not due to their preferences but rather reflect the nature ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2025-01-09T15:00:00+08:00",
+      "published_date": "2025-01-09",
+      "fetched_at": "2026-11-24T04:13:02.863095+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

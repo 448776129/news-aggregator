@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-23T16:06:38.279526+08:00",
-  "count": 75,
+  "generated_at": "2026-11-24T04:13:04.202292+08:00",
+  "count": 76,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 1,
       "error": ""
     },
     {
@@ -878,6 +878,25 @@
       "published_date": "2026-11-20",
       "fetched_at": "2026-11-23T16:06:35.849828+08:00",
       "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:7fd3c7c7dfed9e2f23c2fb363ecd9d008c737be1",
+      "title": "Earnings Calendar and Analysis for This Week",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b049e4d01bf4a21af91cb2e6f5763d7&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fearnings-calendar-analysis-week-june-162434561.html&c=3839535102985255084&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-20T14:59:00+08:00",
+      "published_date": "2026-11-20",
+      "fetched_at": "2026-11-24T04:13:02.863095+08:00",
+      "crawl_date": "2026-11-24",
       "lang": "en",
       "category": "english",
       "extra": {}
