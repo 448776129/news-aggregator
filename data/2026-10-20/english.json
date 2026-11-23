@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-20",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-23T08:27:58.775197+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:edf94452f0163edfbc685b531994914e9452b801",
+      "title": "Here’s what matters most to Tesla investors heading into earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03888a3d0e413b9961fdf93c4f1788&url=https%3a%2f%2fwww.marketwatch.com%2fstory%2fheres-what-matters-most-to-tesla-investors-heading-into-earnings-6b9e5d27&c=7145682848340285513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Tesla’s third-quarter earnings are coming, but what investors really want to hear about is the company’s robotaxi progress, according to experts.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-10-20T19:15:00+08:00",
+      "published_date": "2026-10-20",
+      "fetched_at": "2026-11-23T08:27:56.400470+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

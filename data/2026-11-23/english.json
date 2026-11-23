@@ -3,19 +3,19 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-23T03:29:13.035569+08:00",
-  "count": 66,
+  "generated_at": "2026-11-23T08:27:58.794510+08:00",
+  "count": 137,
   "sources": [
     {
       "name": "alpaca",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "error": ""
     },
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 2,
+      "count": 4,
       "error": ""
     },
     {
@@ -27,17 +27,1609 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 47,
+      "count": 50,
       "error": ""
     },
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 17,
+      "count": 22,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N473058:0",
+      "title": "Changzhou Microintelligence seeks up to $74.62 million in revived Hong Kong IPO",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N473058:0-changzhou-microintelligence-seeks-up-to-74-62-million-in-revived-hong-kong-ipo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:26:48+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720HD:0",
+      "title": "Ipark Hyundai Development Wins 376.3 Billion Won Project",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720HD:0-ipark-hyundai-development-wins-376-3-billion-won-project/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:25:19+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:294870"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261122001801:0",
+      "title": "Catapult's Bull Wants Demonstration of Opportunity — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261122001801:0-catapult-s-bull-wants-demonstration-of-opportunity-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:24:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:CAT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261122001798:0",
+      "title": "New Zealand's Retail Sales Data Show Recovery Intact — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261122001798:0-new-zealand-s-retail-sales-data-show-recovery-intact-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:22:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720HC:0",
+      "title": "Ls Corp - Announces Contract For Propel Ny Energy Project",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720HC:0-ls-corp-announces-contract-for-propel-ny-energy-project/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:20:31+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:006260"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:smallcaps:5c2600d2d094b:0",
+      "title": "LTR Pharma Advances US Commercial Rollout of ROXUS Intranasal ED Treatment",
+      "url": "https://smallcaps.com.au/article/ltr-pharma-advances-us-commercial-rollout-of-roxus-intranasal-ed-treatment",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Small Caps",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:20:04+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:LTP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N474001:0",
+      "title": "US futures bounce while Asia markets brace for AI wipeout",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N474001:0-us-futures-bounce-while-asia-markets-brace-for-ai-wipeout/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:17:08+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:IXIC",
+          "CME_MINI:NQ1!",
+          "KRX:KOSPI",
+          "ASX:XJO",
+          "NASDAQ:ANT",
+          "NASDAQ:SOX",
+          "NASDAQ:IXIC",
+          "NASDAQ:NDX",
+          "SP:SPX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N473073:0",
+      "title": "South Korea's education minister quits over exam cheating chaos",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N473073:0-south-korea-s-education-minister-quits-over-exam-cheating-chaos/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:16:13+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261122001793:0",
+      "title": "NextDC's Prudence Is Positive Amid Uncertainty — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261122001793:0-nextdc-s-prudence-is-positive-amid-uncertainty-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:14:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:NXT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261122001792:0",
+      "title": "Week Ahead for FX, Bonds: Flash PMI Data to Provide Gauge on Economic Growth",
+      "url": "https://www.tradingview.com/news/DJN_DN20261122001792:0-week-ahead-for-fx-bonds-flash-pmi-data-to-provide-gauge-on-economic-growth/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:14:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N474002:0",
+      "title": "Commodities intraday targets/key levels",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N474002:0-commodities-intraday-targets-key-levels/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:12:05+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOT:ZC1!",
+          "CBOT:ZS1!",
+          "CBOT:ZW1!",
+          "OANDA:XAUUSD",
+          "TVC:UKOIL",
+          "ICEUS:CC1!",
+          "ICEUS:KC1!",
+          "MYX:FCPO1!",
+          "NYMEX:CL1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47305A:0",
+      "title": "New Zealand's Gentrack FY26 EBITDA falls on Utilities project delays",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47305A:0-new-zealand-s-gentrack-fy26-ebitda-falls-on-utilities-project-delays/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:11:42+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:GTK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261122001787:0",
+      "title": "Asian Currencies Mixed as Traders Digest Divergent Signals — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261122001787:0-asian-currencies-mixed-as-traders-digest-divergent-signals-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:11:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/down-75-soundhound-ai-stock-needs-this-1-thing-to-happen-by-2027/?.tsrc=rss",
+      "title": "Down 75%, SoundHound AI Stock Needs This 1 Thing to Happen by 2027",
+      "url": "https://www.fool.com/investing/2026/11/22/down-75-soundhound-ai-stock-needs-this-1-thing-to-happen-by-2027/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "One improvement could change the story for this AI pioneer.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:10:02+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:prnewswire:ba5ea4fad683b:0",
+      "title": "MetaOptics Ltd Secures up to S$32 Million Share Subscription Facility from GEM Opportunities Fund ISA Ltd.",
+      "url": "https://www.tradingview.com/news/prnewswire:ba5ea4fad683b:0-metaoptics-ltd-secures-up-to-s-32-million-share-subscription-facility-from-gem-opportunities-fund-isa-ltd/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:09:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:bed9154501f49:0",
+      "title": "MetaOptics Ltd (9MT) Secures Facility for Up to S$32M, Subject to Shareholder Approval",
+      "url": "https://www.tradingview.com/news/tradingview:bed9154501f49:0-metaoptics-ltd-9mt-secures-facility-for-up-to-s-32m-subject-to-shareholder-approval/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:05:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SGX:9MT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N474009:0",
+      "title": "Shaoyang Victor Says CSRC Warns Key Shareholder For Violation Of Disclosure Rules",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N474009:0-shaoyang-victor-says-csrc-warns-key-shareholder-for-violation-of-disclosure-rules/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:04:41+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SZSE:301079"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720K5:0",
+      "title": "Kakao Tpg Files 1.5 Trln Won Arbitration Lawsuit To Icc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720K5:0-kakao-tpg-files-1-5-trln-won-arbitration-lawsuit-to-icc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:03:44+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:035720",
+          "NASDAQ:TPG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261122001773_20261122001773:0",
+      "title": "South Korea's Kospi Stock Index Falls 3.1% to 4721.52",
+      "url": "https://www.tradingview.com/news/DJN_DN20261122001773_20261122001773:0-south-korea-s-kospi-stock-index-falls-3-1-to-4721-52/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:03:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N474000:0",
+      "title": "Ambarella, Inc. expected to post earnings of 32 cents a share - Earnings Preview",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N474000:0-ambarella-inc-expected-to-post-earnings-of-32-cents-a-share-earnings-preview/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:02:24+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMBA"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:128739650",
+      "title": "MEDIROM Healthcare Technologies Inc. Regains Compliance with Nasdaq Periodic Filing Requirement",
+      "url": "https://stockanalysis.com/news/press-releases/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "MEDIROM Healthcare Technologies Inc. announced it has regained compliance with Nasdaq's periodic filing requirement following the submission of its 2025 annual report.",
+      "content": "MEDIROM Healthcare Technologies Inc. received written notice from Nasdaq Listing Qualifications confirming the company has regained compliance with Nasdaq Listing Rule 5250(c)(1). This development follows the company's filing of its Form 20-F for the fiscal year ended December 31, 2025, which was submitted on November 18, 2026. Consequently, Nasdaq has officially closed the matter regarding the company's previously delayed annual report filing.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:01:38+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.458371+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MRM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-23:newsml_ACN111758:0",
+      "title": "Automated platform accelerates research on metallic materials",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-23:newsml_ACN111758:0-automated-platform-accelerates-research-on-metallic-materials/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Asian Corporate Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:01:04+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N473036:0",
+      "title": "UK government to make case for greater public control of utilities",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N473036:0-uk-government-to-make-case-for-greater-public-control-of-utilities/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:01:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:64b3ba156094b:0",
+      "title": "Midnight: Introduces Programmable Shielded Assets - Q1 2027",
+      "url": "https://coinmarketcal.com/event/programmable-shielded-assets-99381059-5",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:00:31+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRAKEN:NIGHTUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:e4123f112094b:0",
+      "title": "Midnight: Shielded Contract Tokens Debut - Q4 2026",
+      "url": "https://coinmarketcal.com/event/shielded-contract-tokens-99381059-3",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:00:19+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRAKEN:NIGHTUSD",
+          "CRYPTO:NIGHTMUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:87d393910094b:0",
+      "title": "Midnight: Private swaps launch - Q4 2026",
+      "url": "https://coinmarketcal.com/event/private-swaps-launch-51422167-10",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:00:10+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRAKEN:NIGHTUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N46R0EG:0",
+      "title": "South Korea November 1-20 exports surge on chip sales",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46R0EG:0-south-korea-november-1-20-exports-surge-on-chip-sales/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:00:04+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:598a0f63a8cfa:0",
+      "title": "HUTCHMED (China) Limited Starts Phase III Glioma Trial in China",
+      "url": "https://www.tradingview.com/news/tradingview:598a0f63a8cfa:0-hutchmed-china-limited-starts-phase-iii-glioma-trial-in-china/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:13"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:7b67b0057094b:0",
+      "title": "HUTCHMED Initiates RANOVA Phase III Trial of Ranosidenib (HMPL-306) in Patients with IDH-Mutated Glioma in China",
+      "url": "https://www.globenewswire.com/news-release/2026/11/23/3407984/0/en/hutchmed-initiates-ranova-phase-iii-trial-of-ranosidenib-hmpl-306-in-patients-with-idh-mutated-glioma-in-china.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:00:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:13"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4588837:0",
+      "title": "PEN: MU-4 stabilization and Kendrick development anchor the path to CY2027 production guidance",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4588837:0-pen-mu-4-stabilization-and-kendrick-development-anchor-the-path-to-cy2027-production-guidance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:59:30+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:PEN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_S8N46B019:0",
+      "title": "Libya's NOC says pipeline valve closure from Sharara oilfield to cut output by 350,000 bpd",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N46B019:0-libya-s-noc-says-pipeline-valve-closure-from-sharara-oilfield-to-cut-output-by-350-000-bpd/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:57:46+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:CL1!",
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:eqs:aeb21dc8f094b:0",
+      "title": "Poppins Payroll Passes 75,000 Customers Served and Launches Its Fall 2026 Release With Time Tracking and an end-to-end Redesign",
+      "url": "https://www.eqs-news.com/news/corporate-news/poppins-payroll-passes-75-000-customers-served-and-launches-its-fall-2026-release-with-time-tracking-and-an-end-to-end-redesign/06fd87aa-ef18-4102-8cd0-5900dcf3d548_en",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "EQS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:54:31+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:f12fd2d11598e:0",
+      "title": "Poppins Payroll Reports 75,000 Customers and Launches New Features",
+      "url": "https://www.tradingview.com/news/tradingview:f12fd2d11598e:0-poppins-payroll-reports-75-000-customers-and-launches-new-features/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:54:31+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:d18c2d9b8094b:0",
+      "title": "Clariant, CD&R in talks to acquire chemicals firm Ashland - Bloomberg",
+      "url": "https://seekingalpha.com/news/4675417-clariant-cd-and-r-in-talks-to-acquire-chemicals-firm-ashland-bloomberg?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:53:16+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OTC:CLZNF",
+          "OTC:CLZNY",
+          "NYSE:ASH",
+          "BX:CLRN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261122001755_20261122001756:0",
+      "title": "eMini Nasdaq 100 Futures Rise 2.3%; eMini S&P 500 Futures Gain 1.4%, FactSet Data Show",
+      "url": "https://www.tradingview.com/news/DJN_DN20261122001755_20261122001756:0-emini-nasdaq-100-futures-rise-2-3-emini-s-p-500-futures-gain-1-4-factset-data-show/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:52:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SP:SPX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261122001755_20261122001755:0",
+      "title": "U.S. Stock Futures Rise in Early Trade",
+      "url": "https://www.tradingview.com/news/DJN_DN20261122001755_20261122001755:0-u-s-stock-futures-rise-in-early-trade/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:51:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N473059:0",
+      "title": "New Zealand's Kiwi Property H1 rental income, AFFO fall on asset sales; reaffirms FY27 dividend view",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N473059:0-new-zealand-s-kiwi-property-h1-rental-income-affo-fall-on-asset-sales-reaffirms-fy27-dividend-view/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:50:55+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:KPG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:smallcaps:e0119c22e094b:0",
+      "title": "Prairie Lithium Brings Saskatchewan Brine to Surface Ahead of Processing Tests",
+      "url": "https://smallcaps.com.au/article/prairie-lithium-brings-saskatchewan-brine-to-surface-ahead-of-processing-tests",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Small Caps",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:49:58+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:PL9"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N473057:0",
+      "title": "New Zealand's Asset Plus HY profit rises on lease gains",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N473057:0-new-zealand-s-asset-plus-hy-profit-rises-on-lease-gains/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:49:38+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:APL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261122001751:0",
+      "title": "Yen May Strengthen Vs. Dollar on Diminished Risk Appetite — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261122001751:0-yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:48:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4720EB:0",
+      "title": "Image Resources Requests Trading Halt",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4720EB:0-image-resources-requests-trading-halt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:47:33+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:IMA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:e540ec983094b:0",
+      "title": "Dow Jones, Nasdaq futures rebound up to 600 points - This is the most important trigger of the week",
+      "url": "https://www.tradingview.com/news/cnbctv:e540ec983094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:47:10+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:DJI",
+          "NASDAQ:IXIC",
+          "SP:SPX"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:60d3634c70cf551961e3fa1fa5f39424082752c6",
+      "title": "Nvidia Just Lost Nearly Half Its Value. A 62-Year-Old With $1 Million in an S&P 500 Index Fund Owns About $50,000 of It Without Buying a Share",
+      "url": "https://247wallst.com/investing/2026/11/22/nvidia-just-lost-nearly-half-its-value-a-62-year-old-with-1-million-in-an-sp-500-index-fund-owns-about-50000-of-it-without-buying-a-share/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia has lost nearly half its value since Oct. 6. Here is how much of it sits in a $1 million 401(k): about $50,000 in an S&P 500 index fund and roughly $14,000 in a 2030 target-date fund.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:43:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:DJN_DN20261122001749_20261122001749:0",
+      "title": "Catapult Sports Target Price Cut 3.8% to A$5.00/Share by Morgan Stanley>CAT.AU",
+      "url": "https://www.tradingview.com/news/DJN_DN20261122001749_20261122001749:0-catapult-sports-target-price-cut-3-8-to-a-5-00-share-by-morgan-stanley-cat-au/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:43:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:CAT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261122001746_20261122001747:0",
+      "title": "Alcidion Started With A$1.52/Share Target Price by Ord Minnett>ALC.AU",
+      "url": "https://www.tradingview.com/news/DJN_DN20261122001746_20261122001747:0-alcidion-started-with-a-1-52-share-target-price-by-ord-minnett-alc-au/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:42:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261122001746_20261122001746:0",
+      "title": "Alcidion Started at Buy by Ord Minnett >ALC.AU",
+      "url": "https://www.tradingview.com/news/DJN_DN20261122001746_20261122001746:0-alcidion-started-at-buy-by-ord-minnett-alc-au/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:42:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47308W:0",
+      "title": "Dollar edges off 19-month high after market rout; yen softens",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47308W:0-dollar-edges-off-19-month-high-after-market-rout-yen-softens/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:40:24+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:EURUSD",
+          "FX:AUDUSD",
+          "FX:GBPUSD",
+          "FX:NZDUSD",
+          "FX_IDC:USDJPY",
+          "TVC:DXY",
+          "BITSTAMP:BTCUSD",
+          "BITSTAMP:ETHUSD",
+          "FX:EURCHF",
+          "FX:EURJPY",
+          "FX:USDCNH",
+          "FX:USDCAD",
+          "FX:USDJPY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:eqs:cd9ddee88094b:0",
+      "title": "Winter Storage Planning: How Off-Season Moves Are Changing Storage Demand",
+      "url": "https://www.eqs-news.com/news/corporate-news/winter-storage-planning-how-off-season-moves-are-changing-storage-demand/b7d3429a-34fa-4fdd-8e62-21a67146ab59_en",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "EQS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:40:21+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47306C:0",
+      "title": "New Zealand's ArborGen half-year revenue rises on higher prices",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47306C:0-new-zealand-s-arborgen-half-year-revenue-rises-on-higher-prices/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:40:16+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:ARB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261122001744_20261122001744:0",
+      "title": "Autosports Target Price Cut 36% to A$1.60/Share by Macquarie>ASG.AU",
+      "url": "https://www.tradingview.com/news/DJN_DN20261122001744_20261122001744:0-autosports-target-price-cut-36-to-a-1-60-share-by-macquarie-asg-au/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:39:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:ASG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261122001743_20261122001743:0",
+      "title": "Computershare Target Price Raised 21% to A$46.00/Share by Macquarie>CPU.AU",
+      "url": "https://www.tradingview.com/news/DJN_DN20261122001743_20261122001743:0-computershare-target-price-raised-21-to-a-46-00-share-by-macquarie-cpu-au/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:39:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:CPU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4717081:0",
+      "title": "BKT: US$204m debt support and staged equity moves Mahenge toward development, subject to conditions",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4717081:0-bkt-us-204m-debt-support-and-staged-equity-moves-mahenge-toward-development-subject-to-conditions/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:38:51+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:BKT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261122001742_20261122001742:0",
+      "title": "Sims Target Price Cut 20% to A$28.20/Share by Macquarie>SGM.AU",
+      "url": "https://www.tradingview.com/news/DJN_DN20261122001742_20261122001742:0-sims-target-price-cut-20-to-a-28-20-share-by-macquarie-sgm-au/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:38:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.297784+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:SGM"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/upstart-is-yesterdays-news-is-this-fintech-stock-the-better-buy/?.tsrc=rss",
+      "title": "Upstart Is Yesterday's News. Is This Fintech Stock the Better Buy?",
+      "url": "https://www.fool.com/investing/2026/11/22/upstart-is-yesterdays-news-is-this-fintech-stock-the-better-buy/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "One of Upstart's competitors has a much stronger growth story and trades at a reasonable valuation.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T07:24:02+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/apple-is-now-25-of-berkshire-hathaway-s-stock-portfolio-here-s-what-holding-every-share-tells-investors/?.tsrc=rss",
+      "title": "Apple Is Now 25% of Berkshire Hathaway's Stock Portfolio. Here's What Holding Every Share Tells Investors.",
+      "url": "https://www.fool.com/investing/2026/11/22/apple-is-now-25-of-berkshire-hathaway-s-stock-portfolio-here-s-what-holding-every-share-tells-investors/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The iPhone maker still matters tremendously to the diversified Omaha company's finances.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T06:55:02+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/where-will-usa-rare-earth-stock-be-in-5-years-this-mine-holds-the-keys/?.tsrc=rss",
+      "title": "Where Will USA Rare Earth Stock Be in 5 Years? This Mine Holds the Keys.",
+      "url": "https://www.fool.com/investing/2026/11/22/where-will-usa-rare-earth-stock-be-in-5-years-this-mine-holds-the-keys/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "USA Rare Earth is building out its mine-to-magnet supply chain, and the Round Top mine in Texas will be an important part of its growth.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T06:50:02+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/should-you-buy-tesla-or-spacex-stock-before-merger/?.tsrc=rss",
+      "title": "Should You Buy Tesla or SpaceX Stock Before Their Potential Merger?",
+      "url": "https://www.fool.com/investing/2026/11/22/should-you-buy-tesla-or-spacex-stock-before-merger/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The potential combination has a clear winner.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T06:21:02+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/3-ai-hardware-stocks-down-more-than-30-from-their-records-to-buy-now-and-hold-through-2030/?.tsrc=rss",
+      "title": "3 AI Hardware Stocks Down More Than 30% From Their Records to Buy Now and Hold Through 2030",
+      "url": "https://www.fool.com/investing/2026/11/22/3-ai-hardware-stocks-down-more-than-30-from-their-records-to-buy-now-and-hold-through-2030/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Each of these AI suppliers sits well below its record close. Has data center demand actually cooled that much?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T06:03:02+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "finnhub:8795094",
+      "title": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0NtOW83bnNaeXNoY0g0REh2Ym8yMU52U0FCaGVTRy1oeTRrM1dPclNpZTF4QWVtVE95eG9TUXJkT3JBZldRWDNjejBRcFpiWTVPV1ZqeEVZdS1qMVZ6QzVvNUtSRXY0RUxLX05pdlB3V0tvLXA1Nk0wQXhxT1dQYVNyMm1YYTZtX0pRZFI4VWNDTHctYVk2NnJMdDlWSmhxbWlzbVg5OWFacVhQUzdHSU5lNDdJTlBRZVhlVXZaUQ?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank Reuters",
+      "content": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T05:54:56+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.715502+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/altria-yields-59-heres-how-many-shares-youd-need-f/?.tsrc=rss",
+      "title": "Altria Yields 5.9%. Here's How Many Shares You'd Need for $5,000 in Yearly Dividend Income.",
+      "url": "https://www.fool.com/investing/2026/11/22/altria-yields-59-heres-how-many-shares-youd-need-f/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The cigarette giant has reliably raised its payouts annually for decades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T05:34:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/procter-gamble-has-raised-its-dividend-70-straight-years-heres-why-id-buy-before-2027/?.tsrc=rss",
+      "title": "Procter & Gamble Has Raised Its Dividend 70 Straight Years. Here's Why I'd Buy Before 2027.",
+      "url": "https://www.fool.com/investing/2026/11/22/procter-gamble-has-raised-its-dividend-70-straight-years-heres-why-id-buy-before-2027/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "P&G's 70-year dividend streak is the headline, but what the company is changing right now is the real reason I'd buy.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T05:20:02+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/22/charlie-bilello-flags-the-nasdaq-100s-first-bear-market-since-april-2025/?.tsrc=rss",
+      "title": "Charlie Bilello Flags the Nasdaq 100’s First Bear Market Since April 2025",
+      "url": "https://247wallst.com/investing/2026/11/22/charlie-bilello-flags-the-nasdaq-100s-first-bear-market-since-april-2025/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The Nasdaq 100 slipped past a line it hasn't touched in over a year, then barely escaped at the closing bell. If you hold no Nasdaq fund, your retirement account may still be more exposed than you think.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T05:17:16+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/15-parents-already-cut-college-211500548.html?.tsrc=rss",
+      "title": "15% of parents already cut college savings after Microsoft AI CEO told a mom 'probably not' to bother saving",
+      "url": "https://finance.yahoo.com/technology/ai/articles/15-parents-already-cut-college-211500548.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Parents are cutting back on some college savings plans, thanks to AI. Is that a good idea?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T05:15:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:1dc94ca6979ec3017e0a54c235bc53a26fede848",
+      "title": "U.S. Treasury Secretary Scott Bessent Just Delivered Great News to Former Nvidia CEO Jensen Huang. Should You Buy Nvidia Stock Before Nov. 25?",
+      "url": "https://www.fool.com/investing/2026/11/22/u-s-treasury-secretary-scott-bessent-just-delivered-great-news-to-former-nvidia-ceo-jensen-huang-should-you-buy-nvidia-stock-before-nov-25/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "On CBS's Face the Nation, U.S. Treasury Secretary Scott Bessent seemed to change his tone regarding a potential return of Jensen Huang to Nvidia.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T05:08:04+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.thestreet.com/investing/jeff-bezos-sends-a-strong-signal-to-nvidia-stock-investors-as-ceo-search-heats-up?.tsrc=rss",
+      "title": "Jeff Bezos sends a strong signal to Nvidia stock investors as CEO search heats up",
+      "url": "https://www.thestreet.com/investing/jeff-bezos-sends-a-strong-signal-to-nvidia-stock-investors-as-ceo-search-heats-up?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The Amazon founder has a warning for Nvidia’s board as it weighs who should replace Jensen Huang.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T05:07:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/22/does-anthropic-have-a-competitive-advantage-these-are-the-four-big-ones/?.tsrc=rss",
+      "title": "Does Anthropic Have a Competitive Advantage? These are the Four Big Ones",
+      "url": "https://www.fool.com/investing/2026/11/22/does-anthropic-have-a-competitive-advantage-these-are-the-four-big-ones/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Anthropic is officially public, and there's plenty of uncertainty about where the stock goes from here.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T04:50:02+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:77b221569c1e08ef8b5c05a5ae26292fea14ac2f",
+      "title": "Warren Buffett’s Successor, Greg Abel, Has Invested Nearly 47% of Berkshire Hathaway’s $360 Billion Stock Portfolio in Just 3 Stocks (and None Are AI Hyperscalers)",
+      "url": "https://www.fool.com/investing/2026/11/22/warren-buffett-s-successor-greg-abel-has-invested-nearly-47-of-berkshire-hathaway-s-usd360-billion-stock-portfolio-in-just-3-stocks-and-none-are-ai-hyperscalers/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Like Buffett, Abel continues to take a concentrated approach in Berkshire Hathaway's massive stock portfolio.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T04:47:02+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.tikr.com/blog/a-6-4-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-hf28rr6f&.tsrc=rss",
+      "title": "A $6.4 Billion Fund Just Bought These 3 Stocks",
+      "url": "https://www.tikr.com/blog/a-6-4-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-hf28rr6f&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysApollo Management Holdings, whose 13F holds $6. 43 billion of US stocks, raised its Churchill Downs stake 512% and its Primo Brands stake 121% in the third quarter, and added put options on Apple.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T04:20:18+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/apple-aapl-planning-autonomous-ai-200614575.html?.tsrc=rss",
+      "title": "What Is Apple (AAPL) Planning With Its New Autonomous AI Agent?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-planning-autonomous-ai-200614575.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Apple (NasdaqGS:AAPL) is building an autonomous AI agent designed to handle complex, multistep tasks for everyday users. Job postings point to a large scale buildout of AI engineering and product roles tied directly to this new assistant effort. Internal planning targets a potential consumer launch as soon as late 2027 with a core focus on on device privacy and security. Apple's autonomous AI agent push under CEO John Ternus fits into a broader shift our research is tracking at the company...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T04:06:14+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.thestreet.com/employment/marriott-hotels-announce-major-shake-up-affecting-over-500-workers?.tsrc=rss",
+      "title": "Marriott hotels announce major shake-up affecting over 500 workers",
+      "url": "https://www.thestreet.com/employment/marriott-hotels-announce-major-shake-up-affecting-over-500-workers?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Two Marriott hotels are changing operators, triggering employment terminations.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T03:33:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/22/here-s-what-a-usd1-000-investment-in-broadcom-stock-could-be-worth-by-2035/?.tsrc=rss",
       "title": "Here's What a $1,000 Investment in Broadcom Stock Could Be Worth By 2035",
@@ -924,6 +2516,30 @@
         "symbols": [
           "TSE:6902"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8795297",
+      "title": "Yemen's Houthis say they attacked Saudi Rabigh oil refinery - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjZLZW5ua05hQkRTLVhvZnNHZnpUM05mT3ZxNl9FUUoyMEhMN0gtTUVfT0Zhb0g2eUxaeHlvZWlIWXNTVGlSMlczMHdBUERvRjVsQVZVSW92MlFESWlmTGxVaWM2aXYwZ0NtUTlna3k4ZkV2S0k4YkhVOFRjaWRrcmhZeWg5NHpQaW9pRGIybUFpalV3U2lzdlZ5QzYteENUSWpWdm90SXNFWVU4OWxBaGx3?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Yemen's Houthis say they attacked Saudi Rabigh oil refinery Reuters",
+      "content": "Yemen's Houthis say they attacked Saudi Rabigh oil refinery Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T01:52:15+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-23T08:27:54.715502+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {

@@ -1,0 +1,61 @@
+{
+  "date": "2025-05-27",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-23T08:27:58.773650+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:2a71ffccf0ae45d8dd98e850481267fcfeb4c3a3",
+      "title": "Is the stock market open today? Trading hours and holiday schedule",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03888a43224879889cf8c8e4a2998f&url=https%3a%2f%2fwww.businessinsider.com%2fpersonal-finance%2finvesting%2fis-the-stock-market-open-today&c=18045856287813053137&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Paid non-client promotion: Affiliate links for the products on this page are from partners that compensate us (see our advertiser disclosure with our list of partners for more details). However, our ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2025-05-27T17:10:00+08:00",
+      "published_date": "2025-05-27",
+      "fetched_at": "2026-11-23T08:27:56.400470+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

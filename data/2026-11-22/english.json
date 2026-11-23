@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-23T03:29:13.022600+08:00",
-  "count": 303,
+  "generated_at": "2026-11-23T08:27:58.781719+08:00",
+  "count": 310,
   "sources": [
     {
       "name": "alpaca",
@@ -21,13 +21,13 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 5,
       "error": ""
     },
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 3,
+      "count": 0,
       "error": ""
     },
     {
@@ -271,6 +271,30 @@
       }
     },
     {
+      "id": "finnhub:8795197",
+      "title": "Most Gulf bourses retreat as regional flare-ups continue - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0hpdmdTS3ZXeDhNM1FWWTVwV0JRQkFQOHBkQUxGOW1NMVJmQmxKM1RXbmpPaHVWX1JJczhkWjBLMEs5aHVFVU40TUhOMS1vcXc3am52WEQ0bTIxQ0U5TDFHVFhXRmVnNmpaTHFZRTVoSVBMYnNLT25rc0RGZ3BYeUhScGd3RGEwdUpCWExOXzc0a3NZOXRoZTc5eUo5Tk1LMnBuaE9lQmE?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Most Gulf bourses retreat as regional flare-ups continue Reuters",
+      "content": "Most Gulf bourses retreat as regional flare-ups continue Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T21:16:33+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-23T08:27:54.715502+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "finnhub:8793979",
       "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
       "url": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
@@ -399,6 +423,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://beincrypto.com/apple-stock-market-crash-price-outlook/?.tsrc=rss",
+      "title": "Why is Apple Stock Holding Strong While the Rest of the Market Falls?",
+      "url": "https://beincrypto.com/apple-stock-market-crash-price-outlook/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Apple stock sits near its record as the S&P 500 falls, and BTIG says a stock market bottom has needed Apple to drop.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T20:25:31+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-23T08:27:54.137231+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:https://www.tikr.com/blog/a-164-billion-fund-bought-these-3-stocks-last-quarter?ref=yahoofinance&tlnk=yf-261122-9gjc63fr&.tsrc=rss",
@@ -846,6 +889,25 @@
           "HKEX:6980"
         ]
       }
+    },
+    {
+      "id": "msn:637a50db6411b39d69be474a7489e75c31a8f52c",
+      "title": "Wall Street strategists see silver lining for stock market",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03888a43224879889cf8c8e4a2998f&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fwall-street-strategists-see-silver-lining-for-stock-market%2far-AA2hZaFN&c=4513446282276574873&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Ingredients for a meaningful recovery are falling into place, but there may be more downside before we get there.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T19:46:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-23T08:27:56.400470+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N47301S:0",
@@ -1963,6 +2025,25 @@
           "NASDAQ:KRAKEN"
         ]
       }
+    },
+    {
+      "id": "msn:59c8d18bd810bc34a3374ca35245047ab46bf4a4",
+      "title": "Prediction: Dec. 9 Will Be a Huge Day for the Stock Market",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03888a43224879889cf8c8e4a2998f&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fprediction-dec-9-will-be-a-huge-day-for-the-stock-market%2far-AA2hYDJe&c=6674179453480524085&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Multiple market-moving events are set to converge.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:33:02+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-23T08:27:56.400470+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/22/1000-invested-in-eli-lilly-5-years-ago-is-now-wort/?.tsrc=rss",
@@ -4649,6 +4730,25 @@
       "extra": {}
     },
     {
+      "id": "msn:c344905c3ce39b1925eda5c80ab8422413bf3569",
+      "title": "The Stock Market Sounds an Alarm as Investors Get Bad News About President Donald Trump's Economy",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03888a43224879889cf8c8e4a2998f&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fthe-stock-market-sounds-an-alarm-as-investors-get-bad-news-about-president-donald-trumps-economy%2far-AA2hYcs5&c=9448150931354341757&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The stock market could decline sharply as persistent inflation and rich valuations fuel investor anxiety.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T10:21:02+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-23T08:27:56.400470+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:721b2c276a48021d982973d403a37e4bb35d2030",
       "title": "Intel Says It Just Signed Its First Customer for Its Most Advanced Chipmaking Process. The Stock Is Still More Than 60% Below Its June Record.",
       "url": "https://www.fool.com/investing/2026/11/21/intel-says-it-just-signed-its-first-customer-for-its-most-advanced-chipmaking-process-the-stock-is-still-more-than-60-below-its-june-record/?.tsrc=rss",
@@ -6405,6 +6505,25 @@
       "extra": {}
     },
     {
+      "id": "msn:795301fdff266628ae00d2baed2180c6e1ab8dd3",
+      "title": "QQQ Has Fallen 20%: The Forward P/E Looks Cheap, But The Earnings Aren't Risk-Free",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03888a3d0e413b9961fdf93c4f1788&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4970887-qqq-has-fallen-20-percent-forward-pe-looks-cheap-but-earnings-arent-risk-free&c=5546508311613081107&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Analyst sees QQQ as near fair value: a base DCF values the Nasdaq-100 at 22,679, 9% below its close, with no margin of safety.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T01:29:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-23T08:27:56.400470+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.tikr.com/blog/a-1-3-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261121-5m5mfwj7&.tsrc=rss",
       "title": "A $1.3 Billion Fund Just Bought These 3 Stocks",
       "url": "https://www.tikr.com/blog/a-1-3-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261121-5m5mfwj7&.tsrc=rss",
@@ -6556,6 +6675,25 @@
       "published_at": "2026-11-22T00:47:00+08:00",
       "published_date": "2026-11-22",
       "fetched_at": "2026-11-23T03:29:10.765090+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:083d4447b658d03ce24836a5249f963e3c009f56",
+      "title": "Nvidia Stock Has Crashed 48% and Now Trades at 15 Times Earnings, Its Cheapest in More Than ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03888a3d0e413b9961fdf93c4f1788&url=https%3a%2f%2f247wallst.com%2finvesting%2f2026%2f11%2f21%2fnvidia-stock-has-crashed-48-and-now-trades-at-15-times-earnings-its-cheapest-in-more-than-a-decade-and-cheaper-than-microsoft-and-broadcom%2f&c=4934697968373711841&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nvidia closed 48% below its record on Friday and trades at 15 times its last four quarters of earnings, the lowest since at least 2014 and less than Microsoft or Broadcom. Here is what that price ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T00:47:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-23T08:27:56.400470+08:00",
       "crawl_date": "2026-11-23",
       "lang": "en",
       "category": "english",

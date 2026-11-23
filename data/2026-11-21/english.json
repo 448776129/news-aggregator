@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-23T03:29:13.015712+08:00",
-  "count": 81,
+  "generated_at": "2026-11-23T08:27:58.778473+08:00",
+  "count": 86,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 37,
+      "count": 36,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 4,
       "error": ""
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 5,
+      "count": 0,
       "error": ""
     }
   ],
@@ -640,6 +640,25 @@
       "extra": {}
     },
     {
+      "id": "msn:28d7cea7203850539172f584c1d112c356996a1e",
+      "title": "Stock Market Sell-Off: History Says This Is the Smartest Move Investors Can Make Right Now",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03888a43224879889cf8c8e4a2998f&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fstock-market-sell-off-history-says-this-is-the-smartest-move-investors-can-make-right-now%2far-AA2hVmr6&c=13123054162155877040&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Keep calm and carry on, the famous World War II slogan from Great Britain, is perfect advice for a bear market.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-21T14:15:00+08:00",
+      "published_date": "2026-11-21",
+      "fetched_at": "2026-11-23T08:27:56.400470+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:c8e579e4ef8d0e8596e637eca6e9d96b078f0d77",
       "title": "A 10% drop for the stock market is unnerving, but it's not that unusual",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b029c247d4b4a3cbe221bf0c6d959c9&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fa-10-drop-for-the-stock-market-is-unnerving-but-it-s-not-that-unusual%2far-AA2hUA5t&c=2708747936803729072&mkt=en-us",
@@ -749,6 +768,25 @@
       "published_date": "2026-11-21",
       "fetched_at": "2026-11-22T20:39:37.809331+08:00",
       "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:36b6d3c4a677df3594c672c78e243634ffe6a3c2",
+      "title": "A 10% drop for the stock market is unnerving, but it's not that unusual",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03888a43224879889cf8c8e4a2998f&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fa-10-drop-for-the-stock-market-is-unnerving-but-it-s-not-that-unusual%2far-AA2hUA5t&c=2708747936803729072&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The U.S. stock market has dropped 10% from its high set last month amid concerns about the growing hurdles faced by the high-flying artificial intelligence industry. The fall for the S&P 500 is steep ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-21T14:01:56+08:00",
+      "published_date": "2026-11-21",
+      "fetched_at": "2026-11-23T08:27:56.400470+08:00",
+      "crawl_date": "2026-11-23",
       "lang": "en",
       "category": "english",
       "extra": {}
@@ -949,6 +987,30 @@
       "published_date": "2026-11-21",
       "fetched_at": "2026-11-22T19:26:56.684051+08:00",
       "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
+      "id": "finnhub:8781426",
+      "title": "Backing Trump, US Senate Republicans block Iran war resolution - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmstcFNFWmdlWE9OT3pCd2JxN1RvaDZMZ2dlZC01YU9hUVFDdFdETmRJLWYtRWI5bkpNVHgyQUFTRVNncW9kUUZkdGhFRkl1RUx6MGs2eVhNNXhZbzROalJGQnRSSUdqdVBhQ1NuLTRONXEyQWpYemhwenhCd2VlNlY4VUZJT3NRdjBmdzBTZGxreUlHNmgyX0p4TzVxX1FvaXZR?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Backing Trump, US Senate Republicans block Iran war resolution Reuters",
+      "content": "Backing Trump, US Senate Republicans block Iran war resolution Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-21T07:02:38+08:00",
+      "published_date": "2026-11-21",
+      "fetched_at": "2026-11-23T08:27:54.715502+08:00",
+      "crawl_date": "2026-11-23",
       "lang": "en",
       "category": "english",
       "extra": {
@@ -1649,6 +1711,25 @@
       "extra": {}
     },
     {
+      "id": "msn:384a38a13a4a80a72b09c9bfe03dbe640e4c5a4e",
+      "title": "Stock Market News From Nov. 20, 2026: Stocks Tumble Into Correction",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03888a43224879889cf8c8e4a2998f&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today-112026&c=13849612895385174877&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The S&P 500 and Nasdaq were both set to open lower as the tech selloff deepened after the Claude developer's trading debut failed to ease AI fears.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-21T00:39:00+08:00",
+      "published_date": "2026-11-21",
+      "fetched_at": "2026-11-23T08:27:56.400470+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:fc1a48af511dfaf7039770410a3381926801a379",
       "title": "Stock Market News, Nov. 20, 2026: Tech Rout Deepens as Nvidia, Anthropic Slide",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b029c247d4b4a3cbe221bf0c6d959c9&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-20-2026&c=12537421971286575258&mkt=en-us",
@@ -1757,6 +1838,25 @@
       "published_at": "2026-11-21T00:01:00+08:00",
       "published_date": "2026-11-21",
       "fetched_at": "2026-11-23T03:29:10.765090+08:00",
+      "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:ec1d54ebfdd2f2f6bf730ac8a95ac96075e1d45d",
+      "title": "Stock Market News, Nov. 20, 2026: Tech Rout Deepens as Nvidia, Anthropic Slide",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03888a43224879889cf8c8e4a2998f&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-20-2026&c=12537421971286575258&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-21T00:01:00+08:00",
+      "published_date": "2026-11-21",
+      "fetched_at": "2026-11-23T08:27:56.400470+08:00",
       "crawl_date": "2026-11-23",
       "lang": "en",
       "category": "english",
