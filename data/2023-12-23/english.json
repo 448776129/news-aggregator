@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-23T16:06:38.274783+08:00",
-  "count": 4,
+  "generated_at": "2026-11-24T12:50:44.989291+08:00",
+  "count": 5,
   "sources": [
     {
       "name": "alpaca",
@@ -110,6 +110,25 @@
       "published_date": "2023-12-23",
       "fetched_at": "2026-11-23T16:06:35.849828+08:00",
       "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:167f1759ac33a81e4bfa93f807b352b40f96d240",
+      "title": "Biden’s economy vs. Trump’s, in 12 charts",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0517a290f14bdf896b778bb61fa1a6&url=https%3a%2f%2fwww.washingtonpost.com%2fbusiness%2f2023%2f12%2f23%2ftrump-biden-us-economy-compared%2f&c=16376729206949199489&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The presidential election is just months away, and economic issues are once again top of mind for voters around the country. Despite the economy’s rapid recovery from the pandemic, President Biden has ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2023-12-23T12:00:00+08:00",
+      "published_date": "2023-12-23",
+      "fetched_at": "2026-11-24T12:50:44.072255+08:00",
+      "crawl_date": "2026-11-24",
       "lang": "en",
       "category": "english",
       "extra": {}

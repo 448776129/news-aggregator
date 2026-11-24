@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-25",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-24T12:50:44.990915+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:a93d40b1ce02d59f60a5d7b601f79ed75dd3f248",
+      "title": "AI Spending Fears Threaten to Swamp Big Tech’s Strong Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0517a29a714db6af96163e0d10380d&url=https%3a%2f%2fwww.bloomberg.com%2fnews%2farticles%2f2026-10-25%2fai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings&c=949404238440814711&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Three of the biggest and most important technology companies in the world are expected to show healthy growth when they report earnings this week. Normally that would be considered a catalyst to ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-10-25T14:00:00+08:00",
+      "published_date": "2026-10-25",
+      "fetched_at": "2026-11-24T12:50:44.072255+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

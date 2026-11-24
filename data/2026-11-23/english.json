@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-24T04:13:04.206816+08:00",
-  "count": 325,
+  "generated_at": "2026-11-24T12:50:45.007926+08:00",
+  "count": 337,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 41,
+      "count": 30,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 7,
+      "count": 8,
       "error": ""
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 9,
+      "count": 4,
       "error": ""
     }
   ],
@@ -244,6 +244,30 @@
       }
     },
     {
+      "id": "finnhub:8800169",
+      "title": "EU adds Rinaldo Nazzaro founder of \"The Base\" to its terrorist sanctions list - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdEVTanFPMmYxQ0FkZnRIejJnMWR1clU5azJuaUx2b09KN0k0WmYyVHNocUhUM1N1bzdaRVh6alg2b1BnMUxVdmp6VU9jMmRsZHE5UzFqOGpkbmZpWUVSWk05UG5MQjJ0SFRmaVRiLVcwdFNOaGlqcVRBTlhFdHltWmhQUTJ6bDBRYzlTbGVET1RwMi1pbHlWLW9IUzJadzM4MmxnQUpTVENkTjg?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "EU adds Rinaldo Nazzaro founder of \"The Base\" to its terrorist sanctions list Reuters",
+      "content": "EU adds Rinaldo Nazzaro founder of \"The Base\" to its terrorist sanctions list Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T22:21:46+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-24T12:50:42.383938+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "yahoo:https://finance.yahoo.com/markets/articles/stop-wasting-money-cancel-unused-155722212.html?.tsrc=rss",
       "title": "Paying for Subscriptions You Forgot About? How to Find and Cancel Them",
       "url": "https://finance.yahoo.com/markets/articles/stop-wasting-money-cancel-unused-155722212.html?.tsrc=rss",
@@ -402,6 +426,54 @@
       }
     },
     {
+      "id": "finnhub:8800065",
+      "title": "India Inc rushes to raise $2.7 billion debt ahead of expected RBI rate hike - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVBOV1JkUG5VWHhvOE9VZEFvalhOUmExSjg4X1Y1SnVSUGt2S21aMUtVcWlsVFlmRFE5bW1veGxJc2NaenlkSk1MLUhOUVoxbzktUUptakFodGpHWm15YTZLQnpxNS1LU3F5M21WOTlLaWd4NlZnd01udUxHRUM2N0huV0l1cHgzUkFnOEVIRjRVaTlmTzJLWlJCWDBOLUg1eGNCTEJkUExiZmZxU0RXaUtwOHhodw?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "India Inc rushes to raise $2.7 billion debt ahead of expected RBI rate hike Reuters",
+      "content": "India Inc rushes to raise $2.7 billion debt ahead of expected RBI rate hike Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T21:44:20+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-24T12:50:42.383938+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
+      "id": "finnhub:8800372",
+      "title": "Tajikistan becomes fourth country to withdraw from ICC since US diplomatic push - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXBGX0NyVFZrd0hBMEctVUxNOUJxTmRmaDZiRHA1c3V1VFNxTkNZdTExd080Qk1yOVEyYkpneTZIQUUzcGdsbkxpdV8zUWdYaHFaS09LaG9iaFZ4OEc0RFkyWGJvTW1LWG9OeFRCTk5YY3NvTUdYeF81SDdrbkh1NGZhM0pFazdvbDZGMG9QRnU3WmV0eDlJZ0hETFNQVm92ZHp3dEN3dWVmeF9sa1N3MExEdEpNUVhPZEEzbmJNb3h1RGJh?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Tajikistan becomes fourth country to withdraw from ICC since US diplomatic push Reuters",
+      "content": "Tajikistan becomes fourth country to withdraw from ICC since US diplomatic push Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T21:35:53+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-24T12:50:42.383938+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "finnhub:8798795",
       "title": "Most Gulf bourses end higher, buoyed by diplomatic momentum - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUzZMZWl5YjFRMm5kU1RDNUNkRHkyT1Q3b05xRndBMUs2eGhWQUZONGhudnpiQUdrWlNjNHVkcVJscy1VbHhRbWhVZUxNLV9ZU3l2b1NRTUhQd2JnMEFCYkRYMkwtNFh3U01KLTJFaUVxV01DVlFGbHl6VElHbnRRY3BKUHlNZ2tJakRVTVJnanQxVEJraWRodnpjWDgzNXpkZklFNUQwWDEteVdN?oc=5",
@@ -474,6 +546,25 @@
       }
     },
     {
+      "id": "msn:3264037993469e7e770e1661ca1c7cd212568b53",
+      "title": "Stock market rebounds sharply after sell-off, Nvidia soars",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0517a2252d4794a1bc30ca271a83ae&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fstock-market-rebounds-sharply-after-sell-off-nvidia-soars%2far-AA2i3kbT&c=9793947412376579403&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The major indexes closed significantly higher on Monday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T21:09:53+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-24T12:50:44.072255+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8798672",
       "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
       "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
@@ -520,6 +611,44 @@
         "related": "",
         "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
+    },
+    {
+      "id": "msn:0a5fa3ec5d1e39eedacce6581b4a2a359f6f4ca6",
+      "title": "Everforth: Opportunity For Earnings Recovery Faces Profitability And Debt Test",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0517a29a714db6af96163e0d10380d&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4971174-everforth-opportunity-for-earnings-recovery-faces-profitability-and-debt-test&c=8677576804900918809&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Analyst rates Everforth a Hold with a $39 target; 2027 earnings recovery depends on better project profitability and lower administrative expenses.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T20:33:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-24T12:50:44.072255+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:e39b5ffec9047343958eb5d88ce463a6950e7f9c",
+      "title": "Traders are pricing a 13% swing in Dell ahead of earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0517a29a714db6af96163e0d10380d&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2ftraders-are-pricing-a-13-swing-in-dell-ahead-of-earnings%2far-AA2i4gbM&c=16842648668849057235&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Earnings are back in focus on Tuesday, with a Benzinga-selected lineup that runs from big-box retail to enterprise hardware and semiconductors. For traders, the key question isn’t just whether ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T20:32:05+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-24T12:50:44.072255+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "finnhub:8799746",
@@ -824,6 +953,25 @@
       }
     },
     {
+      "id": "msn:202200b6da3a4f5dabb1062df5bc35d1ea4f7736",
+      "title": "Stock Market Correction: The Most Expensive Mistake Investors Make During a 10% Drop",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0517a2252d4794a1bc30ca271a83ae&url=https%3a%2f%2fwww.fool.com%2finvesting%2f2026%2f11%2f23%2fstock-market-correction-the-most-expensive-mistake-investors-make-during-a-10-drop%2f&c=16464736231231038691&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Studies have consistently shown that the average investor underperforms the overall stock market, and a big reason why is knee-jerk reactions to scary market conditions. In 2022, for example, the S&P ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T17:53:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-24T12:50:44.072255+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8798903",
       "title": "Denmark to propose mobile phone ban in schools in 2027 - Reuters",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlNxOUFyb3RKS05jRXVWNTFoTGhTUlFsSTB4RGMzeTRuekVNVFFtdXpOcWhrRWliUkl5R0RYU2pqR0ZDR3N3YXBBYWxMZnZ2NUhoX3l6Q29jeVdRR1c5bHBxVEZxc3ZZZmtSVGhyRHZEYXdzRHRtTzViemdQdnRKbHJiY2pleHNld25WQVFvR18?oc=5",
@@ -865,6 +1013,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "finnhub:8800473",
+      "title": "Hedge funds post worst week since April 2025, sparks defensive shift - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMnM4dll3SWNPSHNtaGRXY3o1OWFjMVVrQ0g0TnhWcm5HZ0JiamRBV2t3VjYxUm9WXzJheEZxcGh6bERCM01DVEFaWGdfaVctQ0taRVY4cC1sUzNDUW9IbS00NHhNV25xWW4zb0wxWTk4YllLc2dNN1ZzT2xuaVVHeFg4VW1uRlJQQW92TnpSZDdER3ZYVElmQ2JRbVJocDc1N0hGQmdsR000QXFZRWhWZThSR3R5Zw?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Hedge funds post worst week since April 2025, sparks defensive shift Reuters",
+      "content": "Hedge funds post worst week since April 2025, sparks defensive shift Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:25:43+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-24T12:50:42.383938+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
     },
     {
       "id": "alpaca:128765782",
@@ -3784,6 +3956,25 @@
       "extra": {}
     },
     {
+      "id": "msn:a5c0f97b0b4a30d61a5807f3390c0dfb15aa0954",
+      "title": "Is the stock market open on Thanksgiving, Black Friday?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0517a2252d4794a1bc30ca271a83ae&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fmoney%2fis-the-stock-market-open-on-thanksgiving-black-friday%2far-AA2i27ez&c=5354299360325556885&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Thanksgiving falls on Thursday, Nov. 26, this year. Here's what to know about whether the stock market will be open or closed.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T11:04:15+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-24T12:50:44.072255+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.trefis.com/stock/dell/articles/624827/how-did-dell-grow-from-56-billion-to-151-billion-in-20-years/2026-11-22?.tsrc=rss",
       "title": "How Did Dell Grow From $56 Billion To $151 Billion In 20 Years?",
       "url": "https://www.trefis.com/stock/dell/articles/624827/how-did-dell-grow-from-56-billion-to-151-billion-in-20-years/2026-11-22?.tsrc=rss",
@@ -4086,6 +4277,25 @@
       }
     },
     {
+      "id": "msn:221aa709b2854e0d56c6baf8a1e9640da29de6e3",
+      "title": "Stock Market News From Nov. 23, 2026: The Nasdaq’s 6.5% Gain Is a Red Flag",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0517a2252d4794a1bc30ca271a83ae&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today-112326&c=12493571658665667860&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Dow, S&P 500, and Nasdaq futures are rising in premarket trading as the stock market looks to recover from a brutal selloff.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T09:49:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-24T12:50:44.072255+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8797120",
       "title": "Australia shares set to slide at open, NZ falls - Reuters",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2JMdUwzSGRkYk1MUm5YajNwSHBXSnhSdWt4S0t3VnlrcTBZWlFxYVFfVEVXYkhuVjlwR203aHM2eHljWER5M2F5eVg5QXI5NnVnaXN3TG9OVkZrNXFUaTB4OUFHTmtWb0dzWDBlLWlGc0F3ZGd0QUd0aWdtR1lrUXBCMXF0RlBSVXl1SS12Z3ppaEpIMXJLYQ?oc=5",
@@ -4108,6 +4318,25 @@
         "related": "",
         "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
+    },
+    {
+      "id": "msn:9fc6e2821677b84cfb721ff7bb3b95f4d8c875a5",
+      "title": "Stock Market Today: Dow logs 1,450-point gain, S&P 500 and Nasdaq surge to best day since ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0517a2252d4794a1bc30ca271a83ae&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-slides-tech-rout-anthropic-ipo&c=15374805816448379949&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "It was a big turnaround Monday after Nvidia's board reinstated CEO Jensen Huang and a powerful tech rebound lifted the broader market.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:34:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-24T12:50:44.072255+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N473058:0",
@@ -6604,6 +6833,25 @@
       "published_date": "2026-11-23",
       "fetched_at": "2026-11-23T16:06:35.849828+08:00",
       "crawl_date": "2026-11-23",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:586cbd646d236cdab722f7d9a359611ab9e46012",
+      "title": "ONE Gas: Earnings Growth Comes At A Cost",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0517a29a714db6af96163e0d10380d&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4970980-one-gas-stock-earnings-growth-comes-at-a-cost&c=16076626658662403222&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "ONE Gas is growing earnings from gas distribution, but capital intensity and dilution make the price difficult to justify.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T02:04:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-24T12:50:44.072255+08:00",
+      "crawl_date": "2026-11-24",
       "lang": "en",
       "category": "english",
       "extra": {}
