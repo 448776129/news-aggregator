@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-24T12:50:45.007926+08:00",
-  "count": 337,
+  "generated_at": "2026-11-24T23:29:13.961156+08:00",
+  "count": 342,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 30,
+      "count": 5,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 8,
+      "count": 4,
       "error": ""
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 4,
+      "count": 0,
       "error": ""
     }
   ],
@@ -170,6 +170,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "finnhub:8803581",
+      "title": "Turkish pro-Kurdish party confirms improved conditions for militant who launched peace push - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ1Y1UnF0RE5BeUZFTDY3UFV2YUdacFI2X3d1a3c3MkFEb2RWWGY3MVpUQU1DVmp1NXcyMDZJMkY4VWJPank0Zk1sWWM4bDludURCSEZraHFrbXJza3FWVnBlajRhbmZ2OGhyZHZmdVZTUjRKcUpmRlZhRUhtWnhaQTFFLUdHaGNXVjZyYUtpRDVXVm5RMjVGbkNDbGs2LTdTZ1hFcU01Qm15ZzN5R190Z21NTVNCU2ZqcHlwSTA0TENnOFVYZlN4MmUwejZKNWk5?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Turkish pro-Kurdish party confirms improved conditions for militant who launched peace push Reuters",
+      "content": "Turkish pro-Kurdish party confirms improved conditions for militant who launched peace push Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T22:58:41+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-24T23:29:10.096149+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
     },
     {
       "id": "finnhub:8799856",
@@ -559,6 +583,25 @@
       "published_at": "2026-11-23T21:09:53+08:00",
       "published_date": "2026-11-23",
       "fetched_at": "2026-11-24T12:50:44.072255+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:e64f9b82eee17349a87b591c89e44a38cde3cb9a",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq post best day since April 2025 as Nvidia stock ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05ad45db3547548089726d99acab53&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2flive%2fstock-market-today-monday-november-23-dow-sp-500-nasdaq-surge-after-nvidia-reinstates-jensen-huang-182039397.html&c=7595639275492375338&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Buyers stepped back in for the holiday-shortened week after a bruising sell-off that left the S&P 500 and Dow in correction territory.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T21:04:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-24T23:29:11.859206+08:00",
       "crawl_date": "2026-11-24",
       "lang": "en",
       "category": "english",
@@ -3975,6 +4018,25 @@
       "extra": {}
     },
     {
+      "id": "msn:c079072761e36eae551978875e2d6fca82357f2e",
+      "title": "Is the stock market open on Thanksgiving, Black Friday?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05ad45db3547548089726d99acab53&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fmoney%2fis-the-stock-market-open-on-thanksgiving-black-friday%2far-AA2i27ez&c=5354299360325556885&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Thanksgiving falls on Thursday, Nov. 26, this year. Here's what to know about whether the stock market will be open or closed.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T11:04:15+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-24T23:29:11.859206+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.trefis.com/stock/dell/articles/624827/how-did-dell-grow-from-56-billion-to-151-billion-in-20-years/2026-11-22?.tsrc=rss",
       "title": "How Did Dell Grow From $56 Billion To $151 Billion In 20 Years?",
       "url": "https://www.trefis.com/stock/dell/articles/624827/how-did-dell-grow-from-56-billion-to-151-billion-in-20-years/2026-11-22?.tsrc=rss",
@@ -4296,6 +4358,25 @@
       "extra": {}
     },
     {
+      "id": "msn:205a75472962da6a6d84ad29aa05f9b8b092dc71",
+      "title": "Stock Market News From Nov. 23, 2026: The Nasdaq’s 6.5% Gain Is a Red Flag",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05ad45db3547548089726d99acab53&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today-112326&c=12493571658665667860&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Dow, S&P 500, and Nasdaq futures are rising in premarket trading as the stock market looks to recover from a brutal selloff.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T09:49:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-24T23:29:11.859206+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8797120",
       "title": "Australia shares set to slide at open, NZ falls - Reuters",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2JMdUwzSGRkYk1MUm5YajNwSHBXSnhSdWt4S0t3VnlrcTBZWlFxYVFfVEVXYkhuVjlwR203aHM2eHljWER5M2F5eVg5QXI5NnVnaXN3TG9OVkZrNXFUaTB4OUFHTmtWb0dzWDBlLWlGc0F3ZGd0QUd0aWdtR1lrUXBCMXF0RlBSVXl1SS12Z3ppaEpIMXJLYQ?oc=5",
@@ -4333,6 +4414,25 @@
       "published_at": "2026-11-23T08:34:00+08:00",
       "published_date": "2026-11-23",
       "fetched_at": "2026-11-24T12:50:44.072255+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:65f6affacfe4e2f81cfb2d92e6e40a08dfe18e7b",
+      "title": "Stock Market Today: Dow logs 1,450-point gain, S&P 500 and Nasdaq surge to best day since ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05ad45db3547548089726d99acab53&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-slides-tech-rout-anthropic-ipo&c=15374805816448379949&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "It was a big turnaround Monday after Nvidia's board reinstated CEO Jensen Huang and a powerful tech rebound lifted the broader market.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:34:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-24T23:29:11.859206+08:00",
       "crawl_date": "2026-11-24",
       "lang": "en",
       "category": "english",

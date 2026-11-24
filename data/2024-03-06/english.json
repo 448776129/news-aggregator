@@ -1,0 +1,61 @@
+{
+  "date": "2024-03-06",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-24T23:29:13.955048+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:712ec1907d5fef253d0fbcb787f0a310aaa95d1e",
+      "title": "Voters remember Trump's economy as being better than Biden's. Here's what the data shows.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05ad461d1a4f93a513f2f10b8c1cf3&url=https%3a%2f%2fwww.cbsnews.com%2fnews%2ftrump-biden-economy-gdp-wages-inflation%2f&c=16490982574298026910&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "As voters headed to the polls on Super Tuesday, many voted with one issue top of mind: the state of the U.S. economy. A recent CBS News poll found that 65% of Americans remember the economy under ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2024-03-06T16:42:00+08:00",
+      "published_date": "2024-03-06",
+      "fetched_at": "2026-11-24T23:29:11.859206+08:00",
+      "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-22T20:27:24.347969+08:00",
-  "count": 2,
+  "generated_at": "2026-11-24T23:29:13.956539+08:00",
+  "count": 3,
   "sources": [
     {
       "name": "alpaca",
@@ -72,6 +72,25 @@
       "published_date": "2026-07-01",
       "fetched_at": "2026-11-22T20:27:23.743455+08:00",
       "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:2f8a9c30c9be66ea6211b89ddd1b561fc7b0470b",
+      "title": "Fuel Economy and EV Range Testing",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05ad461d1a4f93a513f2f10b8c1cf3&url=https%3a%2f%2fwww.epa.gov%2fgreenvehicles%2ffuel-economy-and-ev-range-testing&c=12999575879048499613&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "EPA is responsible for defining the methods used to calculate the fuel economy estimates that are posted on the window stickers of new cars and light trucks. EPA confirms approximately 15% of all test ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-07-01T01:00:00+08:00",
+      "published_date": "2026-07-01",
+      "fetched_at": "2026-11-24T23:29:11.859206+08:00",
+      "crawl_date": "2026-11-24",
       "lang": "en",
       "category": "english",
       "extra": {}
