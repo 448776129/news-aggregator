@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T23:49:17.054629+08:00",
-  "count": 8,
+  "generated_at": "2026-11-26T00:04:25.445196+08:00",
+  "count": 9,
   "sources": [
     {
       "name": "alpaca",
@@ -186,6 +186,25 @@
       "published_date": "2026-07-23",
       "fetched_at": "2026-11-25T23:49:14.683136+08:00",
       "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:2b13acb151dc4584c49e4b38287865d09b1fa90f",
+      "title": "The world’s balance-sheet is out of kilter with its economy",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07070666404e16a46d014b9e120152&url=https%3a%2f%2fwww.economist.com%2ffinance-and-economics%2f2026%2f07%2f23%2fthe-worlds-balance-sheet-is-out-of-kilter-with-its-economy&c=16146310742358814998&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "How rich is the world economy? The conventional answer is about $120trn. That corresponds to global GDP, encompassing all the goods and services the world produced last year. It is, if you like, the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-07-23T10:42:00+08:00",
+      "published_date": "2026-07-23",
+      "fetched_at": "2026-11-26T00:04:24.006266+08:00",
+      "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
       "extra": {}

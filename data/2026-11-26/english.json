@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:01:30.276414+08:00",
-  "count": 9,
+  "generated_at": "2026-11-26T00:04:25.789065+08:00",
+  "count": 24,
   "sources": [
     {
       "name": "alpaca",
@@ -27,17 +27,226 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 9,
+      "count": 22,
       "error": ""
     },
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/why-nvidia-stock-continues-to-fall-after-the-jensen-huang-pop/?.tsrc=rss",
+      "title": "Why Nvidia Stock Continues to Fall After the Jensen Huang Pop",
+      "url": "https://www.fool.com/investing/2026/11/25/why-nvidia-stock-continues-to-fall-after-the-jensen-huang-pop/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "There are many moving parts to the Nvidia stock story. Here's how investors should think about it.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:02:25+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:04:20.959134+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760TU:0",
+      "title": "Basis mostly flat; futures set nine-month low",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760TU:0-basis-mostly-flat-futures-set-nine-month-low/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:02:07+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:04:21.916026+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOT:KE1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005177_20261125005218:0",
+      "title": "BioNexus Gene Lab Authorizes $2M Shr Repurchase Program >BGLC",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005177_20261125005218:0-bionexus-gene-lab-authorizes-2m-shr-repurchase-program-bglc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:02:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:04:21.916026+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:BGLC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005170_20261125005220:0",
+      "title": "FTC: Order Imposes Limits on Beretta When Nominating Independent Directors to Ruger's Board",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005170_20261125005220:0-ftc-order-imposes-limits-on-beretta-when-nominating-independent-directors-to-ruger-s-board/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:02:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:04:21.916026+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:RGR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0d94e66d02814:0",
+      "title": "Wedbush initiates coverage of Accenture at Outperform, sets price target at $266",
+      "url": "https://www.tradingview.com/news/tradingview:0d94e66d02814:0-wedbush-initiates-coverage-of-accenture-at-outperform-sets-price-target-at-266/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:01:30+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:04:21.916026+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:ACN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:4e95c5718094b:0",
+      "title": "Trump will decide on Lisa Cook 'next steps' after hearing, Hassett says - report",
+      "url": "https://seekingalpha.com/news/4676613-trump-will-decide-on-lisa-cook-next-steps-after-hearing-hassett-says---report?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:01:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:04:21.916026+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:moodys:09428266a3af9:0",
+      "title": "Bharti Airtel to invest ₹1,200 crore in three data centres in Assam",
+      "url": "https://www.tradingview.com/news/moodys:09428266a3af9:0-bharti-airtel-to-invest-1-200-crore-in-three-data-centres-in-assam/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:01:05+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:04:21.916026+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:BHARTIARTL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005170_20261125005214:0",
+      "title": "FTC: Final Consent Order Prohibits Beretta, a Subsidiary of Upifra S.A., From Appointing or Nominating Anyone to Ruger's Board Unless Person Is Independent of Beretta",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005170_20261125005214:0-ftc-final-consent-order-prohibits-beretta-a-subsidiary-of-upifra-s-a-from-appointing-or-nominating-anyone-to-ruger-s-board-unless-person-is-independent-of-beretta/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:04:21.916026+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:RGR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005207:0",
+      "title": "Figure Tech Solutions Initiated at Neutral by Wedbush",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005207:0-figure-tech-solutions-initiated-at-neutral-by-wedbush/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:04:21.916026+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:FIGR"
+        ]
+      }
+    },
     {
       "id": "tradingview:dpa_afx:024bfdf59e91a:0",
       "title": "Bureau Veritas Denies Discussions With Advent Amid Takeover Speculation",
@@ -239,6 +448,149 @@
       "published_at": "2026-11-26T00:00:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:the_block:a7aa03023094b:0",
+      "title": "Aave Labs publicly launches savings app as balances top $63 million",
+      "url": "https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674?utm_source=tradingview&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "The Block",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:04:21.916026+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:AAVEUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:bb04866ef094b:0",
+      "title": "BioNexus Authorizes $2 Million Share Repurchase Program",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410433/0/en/bionexus-authorizes-2-million-share-repurchase-program.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:04:21.916026+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:BGLC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:d356f03474fd2:0",
+      "title": "BioNexus Gene Lab Corp. (BGLC) Authorizes Up to $2M in Share Repurchases",
+      "url": "https://www.tradingview.com/news/tradingview:d356f03474fd2:0-bionexus-gene-lab-corp-bglc-authorizes-up-to-2m-in-share-repurchases/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:04:21.916026+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:BGLC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:5dbf38e6c094b:0",
+      "title": "Brookfield Property Partners Declares Quarterly Dividends on Listed Preferred Units",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410432/0/en/brookfield-property-partners-declares-quarterly-dividends-on-listed-preferred-units.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:04:21.916026+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:BPYP.PR.A",
+          "NYSE:BN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:b657bfb88094b:0",
+      "title": "Transcontinental Inc. – Release of Fourth Quarter and Fiscal Year 2026 Results, and Conference Call",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410427/0/en/transcontinental-inc-release-of-fourth-quarter-and-fiscal-year-2026-results-and-conference-call.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:04:21.916026+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:TCL.A"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005189:0",
+      "title": "US To Sell $82 Bln In 6-Month Bills Mon",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005189:0-us-to-sell-82-bln-in-6-month-bills-mon/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:04:21.916026+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",

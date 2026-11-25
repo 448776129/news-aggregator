@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T23:49:17.049828+08:00",
-  "count": 34,
+  "generated_at": "2026-11-26T00:04:25.437533+08:00",
+  "count": 35,
   "sources": [
     {
       "name": "alpaca",
@@ -680,6 +680,25 @@
       "published_date": "2025-02-22",
       "fetched_at": "2026-11-25T23:49:14.683136+08:00",
       "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:afb72cfe58e1ccd52b7535c5bcb9ce719b7d424e",
+      "title": "What Are Stock Market Corrections?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07070640324d189c7a09353e8cb008&url=https%3a%2f%2fwww.fool.com%2fterms%2fs%2fstock-market-corrections%2f&c=1804381131107304575&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Market corrections, defined as a 10-20% index drop, often present prime buying opportunities. It's impossible to predict market corrections; historically, they're a normal stock market behavior.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2025-02-22T14:16:00+08:00",
+      "published_date": "2025-02-22",
+      "fetched_at": "2026-11-26T00:04:24.006266+08:00",
+      "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
       "extra": {}
