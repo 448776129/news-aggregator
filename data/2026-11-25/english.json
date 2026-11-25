@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T21:10:14.266102+08:00",
-  "count": 3760,
+  "generated_at": "2026-11-25T21:13:21.893835+08:00",
+  "count": 3777,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 4,
       "error": ""
     },
     {
@@ -38,6 +38,184 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760HF:0",
+      "title": "Most Gulf stocks slide as Saudi strikes weigh on markets; Fed eyed",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760HF:0-most-gulf-stocks-slide-as-saudi-strikes-weigh-on-markets-fed-eyed/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:12:11+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:13:17.306245+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TADAWUL:TASI",
+          "TADAWUL:1120",
+          "TADAWUL:1180",
+          "TADAWUL:2222",
+          "DFM:DFMGI",
+          "DFM:EMAAR",
+          "ADX:FADGI",
+          "QSE:GNRI",
+          "QSE:QIBK",
+          "EGX:EGX30",
+          "EGX:EAST",
+          "BAHRAIN:BHBX",
+          "KSE:BOURSA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4817716:0",
+      "title": "BWO: BW Opal lifted Q3 EBITDA to $82.2 million and FY2026 guidance to $260 million-$280 million",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4817716:0-bwo-bw-opal-lifted-q3-ebitda-to-82-2-million-and-fy2026-guidance-to-260-million-280-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:12:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:13:17.306245+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:BWO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761DB:0",
+      "title": "Flipkart CEO Kalyan Krishnamurthy To Step Down Next Week, Last Day Will Be December 4- Techcrunch",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761DB:0-flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-last-day-will-be-december-4-techcrunch/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:11:59+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:13:17.306245+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "PRIVATE:FLIPKART"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:e4d30e4c2094b:0",
+      "title": "OpenAI says ChatGPT faces elevated conversation errors",
+      "url": "https://seekingalpha.com/news/4676545-openai-says-chatgpt-faces-elevated-conversation-errors?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:11:29+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:13:17.306245+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:OPENAI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:ef507811c3563:0",
+      "title": "Freedom Capital Markets maintains Applied Digital at Buy, keeps price target at $48",
+      "url": "https://www.tradingview.com/news/tradingview:ef507811c3563:0-freedom-capital-markets-maintains-applied-digital-at-buy-keeps-price-target-at-48/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:10:48+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:13:17.306245+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:APLD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6805Ea:0",
+      "title": "RCS - Molten Ventures PLC - Results analysis from Kepler Trust Intelligence",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6805Ea:0-rcs-molten-ventures-plc-results-analysis-from-kepler-trust-intelligence/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:10:33+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:13:17.306245+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:GROW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N475185:0",
+      "title": "US proposes new tariffs on 14 trading partners to fight excess factory capacity",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N475185:0-us-proposes-new-tariffs-on-14-trading-partners-to-fight-excess-factory-capacity/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:10:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:13:17.306245+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760M6:0",
       "title": "Canada's BuildDirect Q3 revenue rises on acquisitions",
@@ -59,6 +237,56 @@
         "urgency": 2,
         "symbols": [
           "TSXV:BILD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:2239b8859094b:0",
+      "title": "Amgen, Bristol settle Opdivo patent row, setting up biosimilar launch in 2028",
+      "url": "https://seekingalpha.com/news/4676557-amgen-bristol-myers-settle-opdivo-patent-row?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:09:26+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:13:17.306245+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMGN",
+          "NYSE:BMY",
+          "NYSE:ABBV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:24aaf1e04094b:0",
+      "title": "LG Electronics Block Deal: Promoter likely to sell 2% stake at ₹1,709 floor price to meet MPS norms",
+      "url": "https://www.tradingview.com/news/cnbctv:24aaf1e04094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:09:09+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:13:17.306245+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:066570"
         ]
       }
     },
@@ -155,6 +383,54 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:NNOX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4756535:0",
+      "title": "Ajwa Projects: H1 revenue and profit rose, but operating cash flow remained negative",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4756535:0-ajwa-projects-h1-revenue-and-profit-rose-but-operating-cash-flow-remained-negative/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:08:42+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:13:17.306245+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:7b36a2837094b:0",
+      "title": "Alibaba sells 25M ZTO shares, cutting the stake to 2.9%",
+      "url": "https://seekingalpha.com/news/4676552-alibaba-sells-25m-zto-shares-cutting-the-stake-to-29?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:08:33+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:13:17.306245+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BABA",
+          "NYSE:ZTO",
+          "HKEX:2057"
         ]
       }
     },
@@ -466,6 +742,30 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:LAB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:acceswire:a8d92e09e094b:0",
+      "title": "374Water Clears Second Factory Acceptance Test at 59% Above Accepted Capacity; AirSCWO(TM) System Ships to Orange County Sanitation District Next Week",
+      "url": "https://www.accessnewswire.com/newsroom/en/utilities/374water-clears-second-factory-acceptance-test-at-59-above-accepted-capacity-airscwotm-sy-1257080",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "ACCESS Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:05:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:13:17.306245+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SCWO"
         ]
       }
     },
@@ -1419,6 +1719,28 @@
         "symbols": [
           "SKHY"
         ]
+      }
+    },
+    {
+      "id": "tradingview:cointelegraph:bf3bb1195094b:0",
+      "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
+      "url": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Cointelegraph",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:02:09+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:13:17.306245+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -60940,6 +61262,25 @@
       "extra": {}
     },
     {
+      "id": "msn:f69f51e0d767f7e8887590a2f503bfbdc356875c",
+      "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06deedc62e4f12a516754f825b3fe3&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:01:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:13:19.121194+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN47528C:0",
       "title": "Al Rajhi Bank Appoints Abdullah Bin Sulaiman Al Rajhi As Chairman",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47528C:0-al-rajhi-bank-appoints-abdullah-bin-sulaiman-al-rajhi-as-chairman/",
@@ -64146,6 +64487,25 @@
       "published_at": "2026-11-25T11:49:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T21:10:11.892392+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:5b931df7fd98cfbc4fb1cf81ae02e57569a171f9",
+      "title": "Ten undervalued energy stocks after Q3 earnings, led by Par Pacific",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06deed21fe4ed8bbf692caa1583466&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4676519-ten-undervalued-energy-stocks-after-q3-earnings-led-by-par-pacific&c=2722455980253807025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Seeking Alpha's screen names 10 undervalued energy stocks, led by Par Pacific with an A+ valuation grade; four others earn A grades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:13:19.121194+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -73092,6 +73452,25 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T21:10:11.892392+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:def56adb92822fd6f36aa25b82f0abbb851cc70a",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06deed21fe4ed8bbf692caa1583466&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:13:19.121194+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -84695,6 +85074,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T21:10:11.892392+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:fd923caf0a4197797c19b834fe5d4183afca83b7",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06deedc62e4f12a516754f825b3fe3&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:13:19.121194+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
