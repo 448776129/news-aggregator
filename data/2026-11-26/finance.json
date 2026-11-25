@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T03:01:19.696093+08:00",
-  "count": 231,
+  "generated_at": "2026-11-26T03:04:24.116080+08:00",
+  "count": 232,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 13,
+      "count": 14,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/7x24/2026-11-26/doc-inizyvcu8347135.shtml",
+      "title": "城堡拟向客户返还约35亿美元 旗舰基金今年累计上涨15.3%",
+      "url": "https://finance.sina.com.cn/7x24/2026-11-26/doc-inizyvcu8347135.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "Ken Griffin旗下城堡投资将把今年获得的部分利润返还给客户，延续通过返还资本限制资产管理规模的传统。 知情人士称，这家对冲基金公司预计将返还约35亿美元...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:59:48+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:04:12.636046+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyvcr9208702.shtml",
       "title": "欧洲债市：英国国债表现出色 科技股重挫提振债市",

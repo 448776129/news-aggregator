@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T03:01:19.678027+08:00",
-  "count": 764,
+  "generated_at": "2026-11-26T03:04:24.097268+08:00",
+  "count": 773,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,170 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 28,
+      "count": 29,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:stocktwits:45a0ce033094b:0",
+      "title": "Nvidia Chip Sellers Reportedly Scramble For New Buyers As US Tightens China Export Loopholes",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-chip-sellers-reportedly-scramble-for-new-buyers-as-us-tightens-china-export-loopholes/cNbHoZSR9mv",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:02:23+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:04:10.829045+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006435:0",
+      "title": "Best Buy's Strong Results Powered by Slew of Tailwinds — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006435:0-best-buy-s-strong-results-powered-by-slew-of-tailwinds-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:02:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:04:10.829045+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BBY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762JW:0",
+      "title": "Pennsylvania Health Department Reports 1,679 Measles Cases As Of Nov 25",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762JW:0-pennsylvania-health-department-reports-1-679-measles-cases-as-of-nov-25/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:01:51+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:04:10.829045+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:de068f962a1de:0",
+      "title": "Target 4Q 2026: Revenue $27.07B, EPS $2.65 — 10-Q Summary",
+      "url": "https://www.tradingview.com/news/tradingview:de068f962a1de:0-target-4q-2026-revenue-27-07b-eps-2-65-10-q-summary/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:01:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:04:10.829045+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:TGT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:macenews:82250e1df094b:0",
+      "title": "FED'S BEIGE BK: EIGHT OF 12 DISTRICTS REPORT SLIGHT TO MODERATE GROWTH; FOUR REPORTED NO CHANGE",
+      "url": "https://www.tradingview.com/news/macenews:82250e1df094b:0-fed-s-beige-bk-eight-of-12-districts-report-slight-to-moderate-growth-four-reported-no-change/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:04:10.829045+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:FED30D",
+          "SP:SPX",
+          "FX:EURUSD",
+          "FX:USDOLLAR",
+          "TVC:DJI",
+          "STOXX:SX5E",
+          "NASDAQ:IXIC",
+          "TVC:DXY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:da3827380094b:0",
+      "title": "Small-cap utility stocks with best and worst quant ratings",
+      "url": "https://seekingalpha.com/news/4676638-small-cap-utility-stocks-with-best-and-worst-quant-ratings?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:00:47+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:04:10.829045+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:GNE",
+          "NASDAQ:MSEX",
+          "AMEX:HOLD",
+          "NASDAQ:YORW",
+          "NYSE:SPH",
+          "NASDAQ:RGCO",
+          "NASDAQ:HNRG",
+          "NASDAQ:CDZI",
+          "NYSE:HE",
+          "NASDAQ:MNTK",
+          "NASDAQ:GWRS"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261125006422:0",
       "title": "Canada Considering Offering Cash to Stellantis to Keep Auto Production at Toronto-Area Plant",
@@ -184,6 +343,30 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:CEPL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cointelegraph:b1be3292c094b:0",
+      "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Cointelegraph",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:54:51+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:04:10.829045+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:ETHUSD"
         ]
       }
     },
@@ -396,6 +579,25 @@
           "OTC:LICT"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/why-alphabet-stock-fell-today/?.tsrc=rss",
+      "title": "Why Alphabet Stock Fell Today (Hint: It's AI-Related)",
+      "url": "https://www.fool.com/investing/2026/11/25/why-alphabet-stock-fell-today/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The AI enterprise sector came under pressure as investors worried about the rising costs of building frontier AI models in a highly competitive market.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:52:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:04:10.740803+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N4761KK:0",
@@ -17585,6 +17787,25 @@
           "NYSE:RGR"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/qualcomm-cmo-reshaping-team-post-160155309.html?.tsrc=rss",
+      "title": "How Qualcomm’s CMO is reshaping his team for its post-Apple era",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-cmo-reshaping-team-post-160155309.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "After losing a key partnership with Apple, U.S. chipmaker Qualcomm is shifting its focus to data centers and laptops. Its CMO, Don McGuire, is reshaping the company's marketing strategy to support the transition.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:01:55+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:04:10.740803+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:0d94e66d02814:0",
