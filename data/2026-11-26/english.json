@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T04:13:16.195685+08:00",
-  "count": 894,
+  "generated_at": "2026-11-26T04:16:22.869057+08:00",
+  "count": 895,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 11,
+      "count": 12,
       "error": ""
     },
     {
@@ -202,6 +202,30 @@
         "symbols": [
           "NZX:FPH"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8809601",
+      "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "CNBC",
+      "summary": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
+      "content": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:07:57+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:16:17.368490+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "CNBC",
+        "category": "top news",
+        "related": "",
+        "image": "https://image.cnbcfm.com/api/v1/image/108433967-1792440076573-gettyimages-2297619001-TRUMPWHITEHOUSE.jpeg?v=1792519423&w=1920&h=1080"
       }
     },
     {

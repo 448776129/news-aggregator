@@ -1,0 +1,61 @@
+{
+  "date": "2021-07-26",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-26T04:16:22.531152+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:cf8d9703e8d969038aa51b5693fe6e96d57a0a2f",
+      "title": "10 Cars with the Worst Fuel Economy",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b074211b9f64b409a4a088601562837&url=https%3a%2f%2fwww.caranddriver.com%2ffeatures%2fg30256394%2fworst-fuel-economy-cars%2f&c=4004221634990462906&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Most people scrolling through official government fuel economy numbers are looking for the big numbers that represent the most efficient vehicles. But once you've measured the best, you can also ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2021-07-26T18:50:00+08:00",
+      "published_date": "2021-07-26",
+      "fetched_at": "2026-11-26T04:16:18.993081+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T04:13:16.011010+08:00",
-  "count": 3765,
+  "generated_at": "2026-11-26T04:16:22.609274+08:00",
+  "count": 3766,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 1,
       "error": ""
     },
     {
@@ -13691,6 +13691,25 @@
       "published_at": "2026-11-24T22:56:00+08:00",
       "published_date": "2026-11-24",
       "fetched_at": "2026-11-26T02:40:17.652396+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b62f1114dc607882a5e49f073a82e0aea259a97f",
+      "title": "Stock Market Today, Nov. 24: Bitmine Shares Sink 8.6% as Confidence Wanes",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07421172324ea09b02ae21a3749f9f&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fstock-market-today-nov-24-225612500.html&c=16546828636123680630&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Today, Nov. 24, 2026, Bitmine's drop came alongside a wider crypto treasury sell-off, with volume running well above its usual pace.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-24T22:56:00+08:00",
+      "published_date": "2026-11-24",
+      "fetched_at": "2026-11-26T04:16:18.993081+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
