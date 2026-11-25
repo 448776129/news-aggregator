@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-24T23:29:13.957480+08:00",
-  "count": 3,
+  "generated_at": "2026-11-25T10:55:47.166637+08:00",
+  "count": 4,
   "sources": [
     {
       "name": "alpaca",
@@ -72,6 +72,25 @@
       "published_date": "2026-07-22",
       "fetched_at": "2026-11-22T15:54:54.235462+08:00",
       "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:210b637aaade3e490442b202cffdcc0148bedb32",
+      "title": "Understanding Stock Market Crashes and Their Impact",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b064e2f9b2b4b5e96bbb52e0fd9ecdc&url=https%3a%2f%2fwww.investopedia.com%2fterms%2fs%2fstock-market-crash.asp&c=6781422329654654707&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "James Chen, CMT is an expert trader, investment adviser, and global market strategist. Andy Smith is a Certified Financial Planner (CFP®), licensed realtor and educator with over 35 years of diverse ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-07-22T15:55:00+08:00",
+      "published_date": "2026-07-22",
+      "fetched_at": "2026-11-25T10:55:45.533954+08:00",
+      "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
       "extra": {}
