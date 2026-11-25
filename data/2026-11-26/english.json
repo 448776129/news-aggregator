@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T03:04:24.097268+08:00",
-  "count": 773,
+  "generated_at": "2026-11-26T03:07:17.383319+08:00",
+  "count": 779,
   "sources": [
     {
       "name": "alpaca",
@@ -39,6 +39,62 @@
   ],
   "items": [
     {
+      "id": "tradingview:seekingalpha:c2e4ee09e094b:0",
+      "title": "U.S. economy chugs along, as most Fed districts report some rate of growth: Beige Book",
+      "url": "https://seekingalpha.com/news/4676671-us-economy-chugs-along-as-most-fed-districts-report-some-rate-of-growth-beige-book?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:06:08+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:07:13.223256+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:macenews:25c90076b094b:0",
+      "title": "MORE FED'S BEIGE BK: CONSUMERS 'LITTLE CHANGED;' CONSTRUCTION DECLINED; ENERGY INVESTMENT 'RESTRAINED;' HIRING 'ROSE SLIGHTLY;' PRICES UP 'MODERATELY'",
+      "url": "https://www.tradingview.com/news/macenews:25c90076b094b:0-more-fed-s-beige-bk-consumers-little-changed-construction-declined-energy-investment-restrained-hiring-rose-slightly-prices-up-moderately/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:04:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:07:13.223256+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:FED30D",
+          "SP:SPX",
+          "TVC:DJI",
+          "FX:EURUSD",
+          "CBOE:DJX",
+          "TVC:DXY",
+          "STOXX:SX5E",
+          "CBOE:VIX",
+          "ECONOMICS:USGDP",
+          "NASDAQ:IXIC",
+          "FX:USDOLLAR"
+        ]
+      }
+    },
+    {
       "id": "tradingview:stocktwits:45a0ce033094b:0",
       "title": "Nvidia Chip Sellers Reportedly Scramble For New Buyers As US Tightens China Export Loopholes",
       "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-chip-sellers-reportedly-scramble-for-new-buyers-as-us-tightens-china-export-loopholes/cNbHoZSR9mv",
@@ -61,6 +117,25 @@
           "NASDAQ:NVDA"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://stocktwits.com/news-articles/markets/equity/nvidia-chip-sellers-reportedly-scramble-for-new-buyers-as-us-tightens-china-export-loopholes/cNbHoZSR9mv?.tsrc=rss",
+      "title": "Nvidia Chip Sellers Reportedly Scramble For New Buyers As US Tightens China Export Loopholes",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-chip-sellers-reportedly-scramble-for-new-buyers-as-us-tightens-china-export-loopholes/cNbHoZSR9mv?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Chip vendors are offloading an unusually large supply of advanced Nvidia processors after Washington restricted Chinese companies' access to sensitive AI chips, CNBC reported.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:02:23+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:07:12.853040+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261125006435:0",
@@ -106,6 +181,31 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:0fd812573094b:0",
+      "title": "CoreWeave taps Meta chip deal to back $4.5B loan sale: report",
+      "url": "https://seekingalpha.com/news/4676672-coreweave-taps-meta-chip-deal-to-back-45b-loan-sale-report?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:01:51+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:07:13.223256+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CRWV",
+          "NASDAQ:META"
+        ]
       }
     },
     {
@@ -299,6 +399,25 @@
       }
     },
     {
+      "id": "yahoo:bf6525777c6ba18be768282d2628a654abe78e03",
+      "title": "Dan Ives Says Nvidia’s Jensen Huang Worth At Least $8 Trillion To US Economy, Calls Sell-Off A ‘Gut Check Moment’",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dan-ives-says-nvidia-s-jensen-huang-worth-at-least-8-trillion-to-us-economy-calls-sell-off-a-gut-check-moment/cNbH8KYR9mH?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "In an interview with Bloomberg, Ives said that the demand-to-supply ratio for Nvidia chips remains 10-to-1 even if China and other Asian markets were removed from the equation.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:59:57+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:07:12.853040+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:dpa_afx:81a9cf2662a1d:0",
       "title": "Gold Slides Amid Rising Fed Rate Hike Expectations, Fresh U.S. Tariff Concerns",
       "url": "https://www.tradingview.com/news/dpa_afx:81a9cf2662a1d:0-gold-slides-amid-rising-fed-rate-hike-expectations-fresh-u-s-tariff-concerns/",
@@ -345,6 +464,25 @@
           "NASDAQ:CEPL"
         ]
       }
+    },
+    {
+      "id": "yahoo:6e8a696d97d861595f07642f20a9e3d145b1c309",
+      "title": "How Nvidia's Jensen Huang Survived the Kind of Scandal That Ends CEO Careers",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63647697/jensen-huang-sex-scandal-ceo?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia (NASDAQ:NVDA) CEO Jensen Huang got his job back on Monday after resigning amid reports of undisclosed relationships with employees. Other CEOs haven’t been so fortunate. Similar scandals have ended careers at McDonald’s, BP and Intel, costing some executives tens...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:55:08+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:07:12.853040+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:cointelegraph:b1be3292c094b:0",
