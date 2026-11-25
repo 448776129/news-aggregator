@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T03:07:17.383319+08:00",
-  "count": 779,
+  "generated_at": "2026-11-26T03:13:16.228766+08:00",
+  "count": 781,
   "sources": [
     {
       "name": "alpaca",
@@ -59,6 +59,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/nuscale-earns-more-on-interest-than-it-does-on-developing-reactors-heres-the-math/?.tsrc=rss",
+      "title": "NuScale Earns More on Interest Than It Does on Developing Reactors. Here’s the Math.",
+      "url": "https://www.fool.com/investing/2026/11/25/nuscale-earns-more-on-interest-than-it-does-on-developing-reactors-heres-the-math/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "NuScale needs to get to the commercialization stage, pronto.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:05:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:13:13.207242+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:macenews:25c90076b094b:0",
@@ -464,6 +483,25 @@
           "NASDAQ:CEPL"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/is-the-anthropic-ipo-to-blame-for-bitcoins-recent-downturn-the-answer-might-surprise-you/?.tsrc=rss",
+      "title": "Is the Anthropic IPO to Blame for Bitcoin's Recent Downturn? The Answer Might Surprise You.",
+      "url": "https://www.fool.com/investing/2026/11/25/is-the-anthropic-ipo-to-blame-for-bitcoins-recent-downturn-the-answer-might-surprise-you/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "There's a finite amount of liquidity in the financial markets, and Bitcoin is often somewhat of a warehouse for it.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:57:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:13:13.207242+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:6e8a696d97d861595f07642f20a9e3d145b1c309",
