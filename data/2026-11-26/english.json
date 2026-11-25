@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:49:15.335273+08:00",
-  "count": 297,
+  "generated_at": "2026-11-26T00:52:19.985714+08:00",
+  "count": 313,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "error": ""
     },
     {
@@ -38,6 +38,292 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY7022Ea:0",
+      "title": "REG - Ashtead Tech Hldgs Morgan Stanley - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY7022Ea:0-reg-ashtead-tech-hldgs-morgan-stanley-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:13+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:52:15.195958+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:AT.",
+          "NYSE:MS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762MH:0",
+      "title": "Virbac Announces Agreement To Buy Axiota Animal Health",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762MH:0-virbac-announces-agreement-to-buy-axiota-animal-health/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:52:15.195958+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:VIRP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
+      "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
+      "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:50:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:52:15.195958+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ADSK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:ce5a214e4e27e:0",
+      "title": "Raymond James downgrades Insmed to Market Perform from Outperform",
+      "url": "https://www.tradingview.com/news/tradingview:ce5a214e4e27e:0-raymond-james-downgrades-insmed-to-market-perform-from-outperform/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:50:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:52:15.195958+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:INSM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:f067617b3a6e2:0",
+      "title": "Williams Director Purchased Shares Worth Over $978K",
+      "url": "https://www.tradingview.com/news/tradingview:f067617b3a6e2:0-williams-director-purchased-shares-worth-over-978k/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:50:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:52:15.195958+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:WMB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005550:0",
+      "title": "ICE Canola Hurt by Soyoil Losses, Firmer Canadian Dollar",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005550:0-ice-canola-hurt-by-soyoil-losses-firmer-canadian-dollar/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:50:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:52:15.195958+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ICEUS:RS1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:fe8af12c91014:0",
+      "title": "IQM Quantum Computers (IQMX) to Deliver 54-Qubit System to Korean Data Center",
+      "url": "https://www.tradingview.com/news/tradingview:fe8af12c91014:0-iqm-quantum-computers-iqmx-to-deliver-54-qubit-system-to-korean-data-center/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:50:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:52:15.195958+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXHEX:IQMX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:business_wire:eae0dcd2abd7e:0",
+      "title": "IQM Quantum Computers Partners with QAI, a South Korean Quantum-AI company to Deploy a Quantum Computer in Their Private AI Data Center in Korea",
+      "url": "https://www.tradingview.com/news/business_wire:eae0dcd2abd7e:0-iqm-quantum-computers-partners-with-qai-a-south-korean-quantum-ai-company-to-deploy-a-quantum-computer-in-their-private-ai-data-center-in-korea/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:50:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:52:15.195958+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:IQMX",
+          "OMXHEX:IQMX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005552:0",
+      "title": "Why Are AI Stocks Down Again Today? — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005552:0-why-are-ai-stocks-down-again-today-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:50:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:52:15.195958+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:36931586c7372:0",
+      "title": "Guggenheim maintains Workday at Buy, keeps price target at $275",
+      "url": "https://www.tradingview.com/news/tradingview:36931586c7372:0-guggenheim-maintains-workday-at-buy-keeps-price-target-at-275/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:49:31+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:52:15.195958+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:WDAY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:87f9d5c216173:0",
+      "title": "Mizuho maintains XPLR Infrastructure at Neutral, lowers price target to $7 from $11",
+      "url": "https://www.tradingview.com/news/tradingview:87f9d5c216173:0-mizuho-maintains-xplr-infrastructure-at-neutral-lowers-price-target-to-7-from-11/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:48:59+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:52:15.195958+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:XIFR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:7df8f16276f2c:0",
+      "title": "U.S. Consumer Prices Rise 0.3% In October, In Line With Estimates",
+      "url": "https://www.tradingview.com/news/dpa_afx:7df8f16276f2c:0-u-s-consumer-prices-rise-0-3-in-october-in-line-with-estimates/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:48:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:52:15.195958+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:tradingview:976d62cd7902a:0",
       "title": "Mizuho maintains Workday at Outperform, lowers price target to $200 from $210",
@@ -154,6 +440,30 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005480_20261125005537:0",
+      "title": "Galp Sees 2026 Oper Cash Flow of Roughly EUR3.9B",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005480_20261125005537:0-galp-sees-2026-oper-cash-flow-of-roughly-eur3-9b/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:48:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:52:15.195958+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:GALP"
+        ]
       }
     },
     {
@@ -759,6 +1069,25 @@
       }
     },
     {
+      "id": "yahoo:https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow-falls.html?.tsrc=rss",
+      "title": "Stock Market Today: Dow Falls 700 Points, Nasdaq Off 4%; Nutanix Dives On CEO Exit (Live Coverage)",
+      "url": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow-falls.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The Dow Jones index dives 800 points Wednesday on surprise inflation data. Nvidia and Anthropic plunge.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:58+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:52:14.718737+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:c5a2b14543f02:0",
       "title": "Guggenheim maintains Best Buy Co at Buy, raises price target to $110 from $95",
       "url": "https://www.tradingview.com/news/tradingview:c5a2b14543f02:0-guggenheim-maintains-best-buy-co-at-buy-raises-price-target-to-110-from-95/",
@@ -1349,6 +1678,25 @@
           "GPW:SKA"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.cryptoprowl.com/releases/nvidia-agrees-to-pay-290m-to-settle-investor-lawsuit-over-crypto-mining-sales-8072?.tsrc=rss",
+      "title": "Nvidia Agrees to Pay $290M to Settle Investor Lawsuit Over Crypto Mining Sales",
+      "url": "https://www.cryptoprowl.com/releases/nvidia-agrees-to-pay-290m-to-settle-investor-lawsuit-over-crypto-mining-sales-8072?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia (NASDAQ: $NVDA) has agreed to pay $290 million to settle a long-running US investor lawsuit accusing the chi...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:39:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:52:14.718737+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:cryptobriefing:a288873c0094b:0",
@@ -2217,6 +2565,30 @@
         "symbols": [
           "OMXSTO:YUBICO"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8808974",
+      "title": "There are 5,100 newly minted Anthropic millionaires—here’s all the stuff they don’t tell you about when you suddenly get rich",
+      "url": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "CNBC",
+      "summary": "Anthropic’s IPO made about 5,100 employees paper millionaires. Experts explain the risks of sudden wealth.",
+      "content": "Anthropic’s IPO made about 5,100 employees paper millionaires. Experts explain the risks of sudden wealth.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:32:55+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:52:15.674774+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "CNBC",
+        "category": "top news",
+        "related": "",
+        "image": "https://image.cnbcfm.com/api/v1/image/108555440-1795105864195-gettyimages-2305334311-ANTHROPIC_IPO.jpeg?v=1795105887&w=1920&h=1080"
       }
     },
     {
