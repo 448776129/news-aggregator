@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T07:52:21.636613+08:00",
-  "count": 1546,
+  "generated_at": "2026-11-26T07:58:14.434145+08:00",
+  "count": 1552,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,83 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 46,
+      "count": 47,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261125008344:0",
+      "title": "Nikkei May Rise After Wednesday's Selloff — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008344:0-nikkei-may-rise-after-wednesday-s-selloff-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:53:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:58:10.680875+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:NI225"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4256844:0",
+      "title": "FINV: China reset weighed on results as overseas adjusted EBITDA rose 113% YoY",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4256844:0-finv-china-reset-weighed-on-results-as-overseas-adjusted-ebitda-rose-113-yoy/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:52:24+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:58:10.680875+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:FINV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4365925:0",
+      "title": "AQZ: Turnaround targets FY27 recovery through cost cuts, asset sales and fleet optimisation",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4365925:0-aqz-turnaround-targets-fy27-recovery-through-cost-cuts-asset-sales-and-fleet-optimisation/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:52:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:58:10.680875+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:AQZ"
+        ]
+      }
+    },
     {
       "id": "tradingview:moodys:ce6e6ce4f133e:0",
       "title": "Wall Street rebounds from day’s lows as bargain hunters step in; Dow gains, Nasdaq falls",
@@ -112,6 +184,25 @@
           "BCBA:BMA.5"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.ibtimes.com/microsoft-green-card-filings-after-2025-layoffs-3810211?.tsrc=rss",
+      "title": "Microsoft's Green Card Filings Reveal A Striking Pattern After Mass Layoffs. Trump's New Rule Could Freeze Sponsorships For Two Years.",
+      "url": "https://www.ibtimes.com/microsoft-green-card-filings-after-2025-layoffs-3810211?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "An analysis of federal labor records shows Microsoft sharply reduced PERM filings after its 2025 layoffs, as proposed rules could impose longer restrictions on sponsoring foreign workers.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:48:07+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:58:10.499518+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:urn:summary_document_slides:quartr.com:4828883:0",
@@ -234,6 +325,25 @@
       }
     },
     {
+      "id": "yahoo:1603956342444c486761ab2399027f6e1b17ffa0",
+      "title": "Altimeter’s Brad Gerstner Says Nvidia Was Priced for “Negative Growth for 2028 and 2029.” Wall Street Expects 29%",
+      "url": "https://www.tikr.com/blog/altimeters-brad-gerstner-says-nvidia-was-priced-for-negative-growth-for-2028-and-2029-wall-street-expects-29?ref=yahoofinance&tlnk=yf-261125-3qj6vf95&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysNVIDIA (NVDA:NASDAQ) jumped 31. 5% on Monday after its board reinstated Jensen Huang as CEO, but it still traded at about 11x forward earnings at the close.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:39:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:58:10.499518+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261125008324_20261125008326:0",
       "title": "Caribbean Utilities Co, Ltd. Welcomes Franz Manderson to Bd of Directors",
       "url": "https://www.tradingview.com/news/DJN_DN20261125008324_20261125008326:0-caribbean-utilities-co-ltd-welcomes-franz-manderson-to-bd-of-directors/",
@@ -326,6 +436,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://www.tikr.com/blog/applied-digital-dropped-14-in-a-week-despite-a-5-4-billion-lease-lucid-still-sees-227-upside?ref=yahoofinance&tlnk=yf-261125-mhcw2483&.tsrc=rss",
+      "title": "Applied Digital Dropped 14% in a Week Despite a $5.4 Billion Lease. Lucid Still Sees 227% Upside",
+      "url": "https://www.tikr.com/blog/applied-digital-dropped-14-in-a-week-despite-a-5-4-billion-lease-lucid-still-sees-227-upside?ref=yahoofinance&tlnk=yf-261125-mhcw2483&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysApplied Digital stock fell 14% in the past week alongside its tenant CoreWeave, even after signing a new $5. 4 billion hyperscaler lease.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:37:44+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:58:10.499518+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N4761UL:0",
