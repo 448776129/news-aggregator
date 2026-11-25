@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T05:52:16.601373+08:00",
-  "count": 354,
+  "generated_at": "2026-11-26T05:55:24.450218+08:00",
+  "count": 357,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,72 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 26,
+      "count": 27,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyzmr1516453.shtml",
+      "title": "11月24日热门中概股多数上涨 网易涨超3% 京东涨超2% 老虎证券涨超8%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyzmr1516453.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "11月24日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收涨1.87%。 上涨个股（按市值从高到低）：阿里巴巴涨1.65%，网易涨3.81%，京东涨2.53%，携程涨0.37%...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:53:16+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:55:21.045485+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261126055225028800",
+      "title": "【美强化金融制裁 伊警告海峡通航风险 双方陷消耗战】金十数据11月26日讯，当地时间25日，霍尔木兹海峡连续发生多起船只触雷起火事件。近日公布的统计数据显示，在",
+      "url": "https://www.jin10.com/#/flash/20261126055225028800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "央视",
+      "summary": "【美强化金融制裁 伊警告海峡通航风险 双方陷消耗战】金十数据11月26日讯，当地时间25日，霍尔木兹海峡连续发生多起船只触雷起火事件。近日公布的统计数据显示，在该海峡遭袭的船舶数量正处于美以伊冲突爆发以来的最高位置。此外，美国继续加强对伊朗的金融制裁，伊朗则回应称不惧怕美国封锁。分析指出，未来一段时间，美伊大概率将继续维持“不战不和”的高消耗状态，双方将在避免发生全面战争的前提下，寻找对方的结构性弱点。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:52:25+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:55:19.909306+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126054835779800",
+      "title": "Anthropic Becomes Wall Street BUZZ as Analysts at Same Firm Split",
+      "url": "https://www.jin10.com/#/flash/20261126054835779800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Two analysts at Hedgeye Risk Management have sharply diverging views on Anthropic. Communications and software analyst Andrew Freedman said Wednesday that the stock was at an attractive level for long-term investors, citing its potential to become a new operating system for businesses and strong near-term demand. Global technology analyst Felix Wang recommended shorting the stock in a report to clients Tuesday, citing mounting difficulty financing data centers needed to secure computing capacity and concerns about long-term demand for Anthropic’s AI models. Wang sees the stock falling to $59; Freedman’s fair-value target is $92.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:48:35+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:55:19.909306+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "jin10:20261126054830756800",
       "title": "【同一家机构给出相反评级 Anthropic成华尔街多空分歧焦点】金十数据11月26日讯，华尔街同一家研究机构的两名股票分析师罕见地对当前市场最热门的股票之一—",
