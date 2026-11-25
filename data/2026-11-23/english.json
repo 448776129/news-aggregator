@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T23:49:17.061209+08:00",
-  "count": 1040,
+  "generated_at": "2026-11-26T00:01:30.035812+08:00",
+  "count": 1042,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 2,
       "error": ""
     },
     {
@@ -1832,6 +1832,25 @@
       "published_date": "2026-11-23",
       "fetched_at": "2026-11-25T23:40:14.353660+08:00",
       "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:9d50947382e75971bfd4b615cb991529a79d6f1a",
+      "title": "Jensen Huang’s return to Nvidia saved the stock market — for now. Will the rebound last?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07065621c64d3fa2a0d782692f5d90&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fthe-return-of-jensen-huang-has-saved-the-us-stock-market-for-now-why-the-rebound-may-not-last%2far-AA2i3KRS&c=12818134572325291664&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Investors still have plenty of other problems to worry about.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:44:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-26T00:01:27.977567+08:00",
+      "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
       "extra": {}
@@ -11005,6 +11024,25 @@
       "published_date": "2026-11-23",
       "fetched_at": "2026-11-25T23:49:14.683136+08:00",
       "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:44a17b418210a7ebce822e7bef9bd218ef7bbe66",
+      "title": "Is the stock market open on Thanksgiving, Black Friday?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07065621c64d3fa2a0d782692f5d90&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fmoney%2fis-the-stock-market-open-on-thanksgiving-black-friday%2far-AA2i27ez&c=5354299360325556885&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Thanksgiving falls on Thursday, Nov. 26, this year. Here's what to know about whether the stock market will be open or closed.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T11:04:15+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-26T00:01:27.977567+08:00",
+      "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
       "extra": {}

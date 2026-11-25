@@ -3,31 +3,31 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T23:49:17.158673+08:00",
-  "count": 5269,
+  "generated_at": "2026-11-26T00:01:30.146281+08:00",
+  "count": 5323,
   "sources": [
     {
       "name": "alpaca",
       "status": "ok",
-      "count": 50,
+      "count": 0,
       "error": ""
     },
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 50,
+      "count": 0,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 9,
       "error": ""
     },
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 50,
+      "count": 41,
       "error": ""
     },
     {
@@ -38,6 +38,1017 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760WG:0",
+      "title": "US yields drop in safe-haven play as AI selloff accelerates",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760WG:0-us-yields-drop-in-safe-haven-play-as-ai-selloff-accelerates/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:59:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA",
+          "SP:S5INFT",
+          "TVC:IXIC",
+          "TVC:US10Y",
+          "CBOT:ZB1!",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005170_20261125005170:0",
+      "title": "FTC Finalizes Order Resolving Antitrust Concerns Stemming From Beretta, Ruger Stock Purchase Deal",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005170_20261125005170:0-ftc-finalizes-order-resolving-antitrust-concerns-stemming-from-beretta-ruger-stock-purchase-deal/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:59:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:RGR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005175:0",
+      "title": "U.S. AI Companies Expected to Issue More Euro-Denominated Debt in 2027 — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005175:0-u-s-ai-companies-expected-to-issue-more-euro-denominated-debt-in-2027-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:59:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:c4ecd3785e800:0",
+      "title": "Wedbush assumes coverage of Paymentus Holdings at Outperform, sets price target at $39",
+      "url": "https://www.tradingview.com/news/tradingview:c4ecd3785e800:0-wedbush-assumes-coverage-of-paymentus-holdings-at-outperform-sets-price-target-at-39/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:57:19+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PAY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:683867:0",
+      "title": "Blue Ant Media Q4 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:683867:0-blue-ant-media-q4-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:57:04+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:BAMI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:737890:0",
+      "title": "Grupo Financiero Galicia Q3 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:737890:0-grupo-financiero-galicia-q3-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:57:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BCBA:GGAL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005160:0",
+      "title": "Block Initiated at Neutral by Wedbush",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005160:0-block-initiated-at-neutral-by-wedbush/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:57:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:XYZ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761RQ:0",
+      "title": "Molecure Signs Term Sheet With MS Galleon For PLN 50 Million Financing To Develop OATD-01 Program",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761RQ:0-molecure-signs-term-sheet-with-ms-galleon-for-pln-50-million-financing-to-develop-oatd-01-program/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:56:56+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:MOC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:7689a6cc5094b:0",
+      "title": "KSS Stock Draws Price Target Hikes Following Q3 Report – Analyst Remains Cautious About Margins",
+      "url": "https://stocktwits.com/news-articles/markets/equity/kss-stock-draws-price-target-hikes-following-q3-report-analyst-remains-cautious-about-margins/cNbHkZ9R9mF",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:56:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:KSS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6983Ea:0",
+      "title": "REG - Team Internet Group - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6983Ea:0-reg-team-internet-group-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:56:12+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TIG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4701FM:0",
+      "title": "Claude will meet its match in medicine",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4701FM:0-claude-will-meet-its-match-in-medicine/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:56:10+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ANT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760XJ:0",
+      "title": "Bruised S&P 500 seen gaining more than 12% by end-2027",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760XJ:0-bruised-s-p-500-seen-gaining-more-than-12-by-end-2027/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:55:59+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "DJ:DJI",
+          "TVC:IXIC",
+          "NASDAQ:NVDA",
+          "SP:SPX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4266044:0",
+      "title": "TUNE: Crescendo targets profitable growth through shared platforms, customer reach and operating leverage",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4266044:0-tune-crescendo-targets-profitable-growth-through-shared-platforms-customer-reach-and-operating-leverage/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:55:19+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TUNE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005153:0",
+      "title": "Economy's Running Faster, But in Narrow Slices — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005153:0-economy-s-running-faster-but-in-narrow-slices-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:55:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:TFC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760XB:0",
+      "title": "US crude stocks rise on higher imports, EIA says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760XB:0-us-crude-stocks-rise-on-higher-imports-eia-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:54:29+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ICEEUR:UHO1!",
+          "TOCOM:THU1!",
+          "NYMEX:CL1!",
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762E4:0",
+      "title": "Kri-Kri Milk Industry 9-Month Net Profit Up At €46.3 Million",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762E4:0-kri-kri-milk-industry-9-month-net-profit-up-at-46-3-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:54:27+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ATHEX:KRI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:dbfe9de47418b:0",
+      "title": "INDEXO’s voluntary takeover bid for DelfinGroup shareholders to begin on 27 November",
+      "url": "https://www.tradingview.com/news/modular_finance:dbfe9de47418b:0-indexo-s-voluntary-takeover-bid-for-delfingroup-shareholders-to-begin-on-27-november/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:54:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXRSE:IDX1R",
+          "OMXRSE:DGR1R"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:5c8aaac060f94:0",
+      "title": "IPAS INDEXO (IDX1R) Offers €1.90 Per DelfinGroup Share in Takeover Bid",
+      "url": "https://www.tradingview.com/news/tradingview:5c8aaac060f94:0-ipas-indexo-idx1r-offers-1-90-per-delfingroup-share-in-takeover-bid/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:54:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXRSE:IDX1R"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:d3356600d6a7c:0",
+      "title": "Wedbush assumes coverage of Klarna at Neutral, sets price target at $14",
+      "url": "https://www.tradingview.com/news/tradingview:d3356600d6a7c:0-wedbush-assumes-coverage-of-klarna-at-neutral-sets-price-target-at-14/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:53:04+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:KLAR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:0da09027f094b:0",
+      "title": "AMBA Stock Hits 8-Year Low As AI Memory Crunch Guts Guidance, Sparks Downgrades",
+      "url": "https://stocktwits.com/news-articles/markets/equity/amba-stock-hits-8-year-low-as-ai-memory-crunch-guts-guidance-sparks-downgrades/cNbHkSJR9mn",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:53:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMBA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005130:0",
+      "title": "Sezzle Initiated at Outperform by Wedbush",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005130:0-sezzle-initiated-at-outperform-by-wedbush/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:53:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SEZL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:business_wire:766d071f5ad1a:0",
+      "title": "UBS Brings Los Angeles to Art Basel Miami Beach with LA in MIA, Anchored by Alex Israel’s Monumental New Commission Traffic",
+      "url": "https://www.tradingview.com/news/business_wire:766d071f5ad1a:0-ubs-brings-los-angeles-to-art-basel-miami-beach-with-la-in-mia-anchored-by-alex-israel-s-monumental-new-commission-traffic/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:53:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BX:0UB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760SI:0",
+      "title": "LME approves listing of Tsingshan's Indonesian aluminium brand",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760SI:0-lme-approves-listing-of-tsingshan-s-indonesian-aluminium-brand/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:52:39+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LME:AH1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:85c84fe844c13:0",
+      "title": "Endava (DAVA) Achieves Anthropic Select Partner Status",
+      "url": "https://www.tradingview.com/news/tradingview:85c84fe844c13:0-endava-dava-achieves-anthropic-select-partner-status/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:52:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DAVA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:business_wire:220b5ee054165:0",
+      "title": "Endava Becomes Anthropic Select Partner to Accelerate AI-Native Engineering and Business AI Value",
+      "url": "https://www.tradingview.com/news/business_wire:220b5ee054165:0-endava-becomes-anthropic-select-partner-to-accelerate-ai-native-engineering-and-business-ai-value/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:52:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DAVA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:9562a9da72378:0",
+      "title": "Morgan Stanley maintains YETI Holdings at Equal-Weight, lowers price target to $44 from $48",
+      "url": "https://www.tradingview.com/news/tradingview:9562a9da72378:0-morgan-stanley-maintains-yeti-holdings-at-equal-weight-lowers-price-target-to-44-from-48/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:51:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:YETI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:e4b93fc084ff5:0",
+      "title": "UBS maintains Urban Outfitters at Neutral, lowers price target to $76 from $82",
+      "url": "https://www.tradingview.com/news/tradingview:e4b93fc084ff5:0-ubs-maintains-urban-outfitters-at-neutral-lowers-price-target-to-76-from-82/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:51:27+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:URBN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:ebe13c2a573e6:0",
+      "title": "Morgan Stanley maintains Workday at Underweight, lowers price target to $175 from $180",
+      "url": "https://www.tradingview.com/news/tradingview:ebe13c2a573e6:0-morgan-stanley-maintains-workday-at-underweight-lowers-price-target-to-175-from-180/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:51:04+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:WDAY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:f10a21e5227d7:0",
+      "title": "Wedbush initiates coverage of Figure Technology at Neutral, sets price target at $28",
+      "url": "https://www.tradingview.com/news/tradingview:f10a21e5227d7:0-wedbush-initiates-coverage-of-figure-technology-at-neutral-sets-price-target-at-28/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:50:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:FIGR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:a116c84c0094b:0",
+      "title": "Anthropologie's prolonged recovery continues to weigh on Urban Outfitters—Morgan Stanley",
+      "url": "https://seekingalpha.com/news/4676594-anthropologies-prolonged-recovery-continues-to-weigh-on-urban-outfittersmorgan-stanley?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:50:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:URBN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:fe692011c094b:0",
+      "title": "Undervalued healthcare stocks as Q3 earnings season winds down",
+      "url": "https://seekingalpha.com/news/4676602-undervalued-healthcare-stocks-as-q3-earnings-season-winds-down?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:50:14+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:CNC",
+          "NASDAQ:HRMY",
+          "NYSE:CVS",
+          "NYSE:DVA",
+          "NYSE:PFE"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/not-a-bubble-2-numbers-that-show-nvidias-demand-is-real/?.tsrc=rss",
+      "title": "Not a Bubble: 2 Numbers That Show Nvidia’s Demand Is Real",
+      "url": "https://www.fool.com/investing/2026/11/25/not-a-bubble-2-numbers-that-show-nvidias-demand-is-real/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Even with leadership turmoil, Nvidia’s customers are still buying AI compute at a staggering pace.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:50:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:25.580960+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:tradingview:ff1e16bdc1414:0",
+      "title": "Morgan Stanley downgrades Urban Outfitters to Equal-Weight from Overweight, lowers price target to $80",
+      "url": "https://www.tradingview.com/news/tradingview:ff1e16bdc1414:0-morgan-stanley-downgrades-urban-outfitters-to-equal-weight-from-overweight-lowers-price-target-to-80/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:50:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:URBN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6976Ea:0",
+      "title": "REG - Bunzl PLC - Director/PDMR Shareholding",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6976Ea:0-reg-bunzl-plc-director-pdmr-shareholding/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:50:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:BNZL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005115:0",
+      "title": "Coinbase Initiated at Outperform by Wedbush",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005115:0-coinbase-initiated-at-outperform-by-wedbush/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:50:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:COIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:38562ba91a3f7:0",
+      "title": "Goldman Sachs, Societe Generale Buy Rs 921 Cr Stake In Lenskart",
+      "url": "https://www.tradingview.com/news/moodys:38562ba91a3f7:0-goldman-sachs-societe-generale-buy-rs-921-cr-stake-in-lenskart/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:49:50+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:LENSKART",
+          "NYSE:GS",
+          "EURONEXT:GLE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:68af6b3e709c2:0",
+      "title": "Omnicom Media India Wins L’Oréal India’s Influencer Marketing Mandate",
+      "url": "https://www.tradingview.com/news/moodys:68af6b3e709c2:0-omnicom-media-india-wins-l-or-al-india-s-influencer-marketing-mandate/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:49:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760V4:0",
+      "title": "Where Weil’s lawyers are landing after law firm’s collapse",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760V4:0-where-weil-s-lawyers-are-landing-after-law-firm-s-collapse/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:49:23+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:moodys:735e94fe5f9c7:0",
+      "title": "Luxury's New Gear",
+      "url": "https://www.tradingview.com/news/moodys:735e94fe5f9c7:0-luxury-s-new-gear/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:49:16+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:MBG",
+          "XETR:BMW",
+          "NSE:TMPV",
+          "XETR:P911"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:6e317edd44f00:0",
+      "title": "Hyundai Cars to Get Costlier by Up to Rs 8,000",
+      "url": "https://www.tradingview.com/news/moodys:6e317edd44f00:0-hyundai-cars-to-get-costlier-by-up-to-rs-8-000/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:49:15+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:HYUNDAI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:9c6124b02c41c:0",
+      "title": "JioStar To Lay Off 150 Employees In Fresh Cost-Cutting Drive",
+      "url": "https://www.tradingview.com/news/moodys:9c6124b02c41c:0-jiostar-to-lay-off-150-employees-in-fresh-cost-cutting-drive/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:49:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:26.067586+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/economy/policy/articles/consumer-prices-highest-since-may-135406011.html?.tsrc=rss",
+      "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
+      "url": "https://finance.yahoo.com/economy/policy/articles/consumer-prices-highest-since-may-135406011.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:46:15+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:25.580960+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:moodys:85530e8336ca5:0",
       "title": "UBS: MGM CHINA Special Div. Positive Surprise; Mgmt Confident in Balance Sheet",
@@ -85,6 +1096,44 @@
           "NASDAQ:CRWV"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://247wallst.com/personal-finance/2026/11/25/what-happens-to-a-900000-401k-by-the-end-of-2027-1062300-in-wall-streets-best-case-824900-in-its-worst/?.tsrc=rss",
+      "title": "What Happens to a $900,000 401(k) by the End of 2027? $1,062,300 in Wall Street’s Best Case, $824,900 in Its Worst",
+      "url": "https://247wallst.com/personal-finance/2026/11/25/what-happens-to-a-900000-401k-by-the-end-of-2027-1062300-in-wall-streets-best-case-824900-in-its-worst/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Bank of America sees the S&P 500 climbing through 2027, yet one retiree's withdrawals could turn a rosy forecast into a lasting loss. The real damage may come from taxes, Medicare premiums, and the timing of the first sale.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:45:17+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:25.580960+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/25/im-buying-spacex-because-theres-a-reasonable-case-for-200-by-january/?.tsrc=rss",
+      "title": "I’m Buying SpaceX Because There’s a Reasonable Case for $200 by January",
+      "url": "https://247wallst.com/investing/2026/11/25/im-buying-spacex-because-theres-a-reasonable-case-for-200-by-january/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "SpaceX just posted a massive profit swing, yet its shares keep sliding as a December lockup expiration looms. Can a business this strong outrun the wave of supply, or will dilution and valuation win first?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:45:07+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:25.580960+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:dpa_afx:3dfa0a17ad94a:0",
@@ -230,6 +1279,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/agnc-yields-about-18-and-main-street-capital-about-6-only-1-of-them-covered-its-dividend-with-room-to-spare/?.tsrc=rss",
+      "title": "AGNC Yields About 18%, and Main Street Capital about 6%. Only 1 of Them Covered Its Dividend With Room to Spare.",
+      "url": "https://www.fool.com/investing/2026/11/25/agnc-yields-about-18-and-main-street-capital-about-6-only-1-of-them-covered-its-dividend-with-room-to-spare/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Too much of a good thing can result in bad outcomes when you are a dividend investor.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:45:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:25.580960+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:0d4fe63916276:0",
@@ -72866,6 +73934,25 @@
       }
     },
     {
+      "id": "msn:b78e06f13d4b27b66ff628bb89cd215346aa6d30",
+      "title": "Stock Market Today: Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07065621c64d3fa2a0d782692f5d90&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:43:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:27.977567+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_TUCF49BW:0",
       "title": "Amigo Resources Appoints Vinay Sheoran As CFO",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUCF49BW:0-amigo-resources-appoints-vinay-sheoran-as-cfo/",
@@ -89179,6 +90266,25 @@
       "extra": {}
     },
     {
+      "id": "msn:feddf8f5fcfcd974ad9a344517f3c790697d5e24",
+      "title": "Stock Market Today: Futures Plunge as AI Rout Resumes; Nvidia Leads Chip Stocks Lower ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07065621c64d3fa2a0d782692f5d90&url=https%3a%2f%2fwww.investopedia.com%2fstock-market-today-dow-jones-s-and-p-500-nasdaq-11252026-12279355&c=14548726542868548574&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stocks are under pressure again Wednesday morning as the volatility that has gripped the AI trade in recent weeks intensifies.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:27.977567+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N476080:0",
       "title": "Palm oil falls on weaker soyoil, crude; Dalian gains limit losses",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N476080:0-palm-oil-falls-on-weaker-soyoil-crude-dalian-gains-limit-losses/",
@@ -91526,6 +92632,25 @@
       "extra": {}
     },
     {
+      "id": "msn:0834309e1b731fdec00df0adde101886b06b3bc2",
+      "title": "Palo Alto Networks: Great Earnings, Premium Valuation",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b070656b761463fb9952a483fbc3992&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4971765-palo-alto-networks-stock-great-earnings-premium-valuation&c=11951635624774278076&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Analyst rates Palo Alto Networks a Hold: its $335 target trails shares near $353, and nearly 80x forward earnings plus dilution limit the entry case.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:45:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:27.977567+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_ACN111840:0",
       "title": "3D-Gold Jewellery Enters Australia with Three-Shop Rollout, Accelerating Overseas Expansion",
       "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_ACN111840:0-3d-gold-jewellery-enters-australia-with-three-shop-rollout-accelerating-overseas-expansion/",
@@ -92635,6 +93760,25 @@
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T23:31:13.818569+08:00",
       "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b7cfcf1c2c0d02040462167ce5ebfd894a827a8f",
+      "title": "Celestica: Nine Times Next Year's Earnings Is Cheap",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b070656b761463fb9952a483fbc3992&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4971827-celestica-nine-times-next-years-earnings-is-cheap&c=757309997248780644&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "(CLS) stock is a buy with a 12-month $258 target at 12x 2027 EPS of $21.50; shares trade at 9.4x, with cash-use risks.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:23:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:27.977567+08:00",
+      "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
       "extra": {}
@@ -101245,6 +102389,25 @@
       "extra": {}
     },
     {
+      "id": "msn:0cc124333328a1fb4219265e06bc6ba1b80fce1c",
+      "title": "Del Monte (DMC) Stock May Trade At A Discount To Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b070656b761463fb9952a483fbc3992&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fdel-monte-dmc-stock-may-090835196.html&c=778897497562070235&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Del Monte shares have fallen sharply this year, and the slide is prompting a basic question for anyone looking at the stock today: Is the current price in line with what the company is actually ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:08:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:27.977567+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.fool.com/investing/2026/11/24/what-a-usd5-000-investment-in-shopify-stock-today-could-grow-into-by-2030/?.tsrc=rss",
       "title": "What a $5,000 Investment in Shopify Stock Today Could Grow Into by 2030",
       "url": "https://www.fool.com/investing/2026/11/24/what-a-usd5-000-investment-in-shopify-stock-today-could-grow-into-by-2030/?.tsrc=rss",
@@ -105841,6 +107004,25 @@
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T23:49:14.683136+08:00",
       "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:7e568d11100f603aecd15868b807797ecbeb48f2",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b070656b761463fb9952a483fbc3992&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:27.977567+08:00",
+      "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
       "extra": {}
@@ -114333,6 +115515,25 @@
       "extra": {}
     },
     {
+      "id": "msn:81cb1bc5bad235af27fcd8f11f7fe8667ba0c132",
+      "title": "Stock Market News From Nov. 24, 2026: AI Stocks Sink. The Rest of the Market Is Doing Just ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07065621c64d3fa2a0d782692f5d90&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today-112426&c=16104040240120877104&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Dow, Nasdaq, and S&P 500 futures are falling in premarket trading as the stock market rally sparked by Jensen Huang's Nvidia return fades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:39:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:27.977567+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:b3e533b215059019733b3084f955c26e609e0363",
       "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b064d9a6cb74171970c0fae23d59d9e&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
@@ -118608,6 +119809,25 @@
       "extra": {}
     },
     {
+      "id": "msn:653a1849325e1d71993fbd65c144a98a776ec2e1",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07065621c64d3fa2a0d782692f5d90&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:27.977567+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8805055",
       "title": "Congo mining forum announces $965 million in sector financing - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGdrZjdudnB3N1RtMDR5dXlRWm8zMnA0b1NXQ3JNWGFhQ3BMSWNPOWpBU1hVT2hMRkl2THlRc3JDY1BmYk5jTF85d2pxUGt2Z2ptTmhTZDFET28xWVd3MDJzZUMzN3Q5bDgzQnp0eDdSck1rLVdVV0M2bGF0ODRIWEp6Z18wcS15TzlBMl82RUd3Mjlrc2Q2SDdnSkZVMVE1dHdIMFkxSmtZZw?oc=5",
@@ -120038,6 +121258,25 @@
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T23:49:14.683136+08:00",
       "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:ca2d9de28b7d596541e31169ef209dd5e0199325",
+      "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b070656b761463fb9952a483fbc3992&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fjim-cramer-sizes-up-six-retail-stocks-after-earnings-and-names-his-two-favorites%2far-AA2i9onk&c=18106407342616312095&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here's where Jim Cramer stands on six retailers that rallied after reporting earnings Tuesday, and his two favorites.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:04:08+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:01:27.977567+08:00",
+      "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
       "extra": {}
