@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T21:25:16.538492+08:00",
-  "count": 3861,
+  "generated_at": "2026-11-25T21:28:23.824170+08:00",
+  "count": 3897,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 7,
       "error": ""
     },
     {
@@ -38,6 +38,534 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:moodys:f13b72c0edd3f:0",
+      "title": "TVS Jupiter Crosses One Crore Production Mark After 13 Years",
+      "url": "https://www.tradingview.com/news/moodys:f13b72c0edd3f:0-tvs-jupiter-crosses-one-crore-production-mark-after-13-years/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:27:46+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TVSMOTOR",
+          "NSE:TVSHLTD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:40f7d22b26009:0",
+      "title": "Tata Motors Car Prices To Increase By 0.5% From December 2026",
+      "url": "https://www.tradingview.com/news/moodys:40f7d22b26009:0-tata-motors-car-prices-to-increase-by-0-5-from-december-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:27:45+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TMPV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6821Ea:0",
+      "title": "REG - Seraphim Space I.T. Seraphim Space SSIC - Result of AGM",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6821Ea:0-reg-seraphim-space-i-t-seraphim-space-ssic-result-of-agm/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:27:36+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:SSIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:730594:0",
+      "title": "Strauss Group Q3 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:730594:0-strauss-group-q3-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:27:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TASE:STRS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:747182:0",
+      "title": "Nano-X Imaging Q3 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:747182:0-nano-x-imaging-q3-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:27:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NNOX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003547_20261125003562:0",
+      "title": "PHINIA Expects Transaction to Contribute About $120 M of Annual Rev >PHIN",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003547_20261125003562:0-phinia-expects-transaction-to-contribute-about-120-m-of-annual-rev-phin/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:27:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PHIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003547_20261125003566:0",
+      "title": "PHINIA Expects to Fund the Transaction With Available Liquidity >PHIN",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003547_20261125003566:0-phinia-expects-to-fund-the-transaction-with-available-liquidity-phin/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:27:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PHIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003547_20261125003563:0",
+      "title": "PHINIA Sees Deal Accretive to Earnings >PHIN",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003547_20261125003563:0-phinia-sees-deal-accretive-to-earnings-phin/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:27:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PHIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003547_20261125003565:0",
+      "title": "PHINIA: Deal Expands Presence in Asia-Pacific Aftermarket >PHIN",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003547_20261125003565:0-phinia-deal-expands-presence-in-asia-pacific-aftermarket-phin/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:27:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PHIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762BD:0",
+      "title": "Ortelius International’S Auditor Has Resigned Prematurely",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762BD:0-ortelius-international-s-auditor-has-resigned-prematurely/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:26:37+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:ORTIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003547_20261125003560:0",
+      "title": "PHINIA Will Acquire FMP Assets, Brand Rights, and Capabilities for About $160 M >PHIN",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003547_20261125003560:0-phinia-will-acquire-fmp-assets-brand-rights-and-capabilities-for-about-160-m-phin/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:26:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PHIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003547_20261125003559:0",
+      "title": "PHINIA to Acquire Core Operating Business Assets, Brand Rights, and Capabilities of FMP Group >PHIN",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003547_20261125003559:0-phinia-to-acquire-core-operating-business-assets-brand-rights-and-capabilities-of-fmp-group-phin/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:26:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PHIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:6abe6ea950fe4:0",
+      "title": "BMO Capital maintains Workday at Outperform, lowers price target to $215 from $230",
+      "url": "https://www.tradingview.com/news/tradingview:6abe6ea950fe4:0-bmo-capital-maintains-workday-at-outperform-lowers-price-target-to-215-from-230/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:25:59+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:WDAY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:df94048910610:0",
+      "title": "JP Morgan maintains Okta at Overweight, raises price target to $214 from $190",
+      "url": "https://www.tradingview.com/news/tradingview:df94048910610:0-jp-morgan-maintains-okta-at-overweight-raises-price-target-to-214-from-190/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:25:59+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:OKTA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_ACN111854:0",
+      "title": "Digital Asset Clearing Center Establishes Digital Asset Distribution Alliance",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_ACN111854:0-digital-asset-clearing-center-establishes-digital-asset-distribution-alliance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Asian Corporate Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:25:30+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:e7ea3bf6eb53d:0",
+      "title": "BMO Capital maintains Urban Outfitters at Market Perform, lowers price target to $75 from $85",
+      "url": "https://www.tradingview.com/news/tradingview:e7ea3bf6eb53d:0-bmo-capital-maintains-urban-outfitters-at-market-perform-lowers-price-target-to-75-from-85/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:25:04+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:URBN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:841d8a2ab094b:0",
+      "title": "ALUULA Composites Appoints Gary Smith to Board and Announces Board Leadership Transition",
+      "url": "https://www.newsfilecorp.com/release/325823/ALUULA-Composites-Appoints-Gary-Smith-to-Board-and-Announces-Board-Leadership-Transition",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:25:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:AUUA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:7d688c8842afd:0",
+      "title": "ALUULA Composites Inc. (AUUA) Names Gary Smith Director and Christophe Dardel Chair",
+      "url": "https://www.tradingview.com/news/tradingview:7d688c8842afd:0-aluula-composites-inc-auua-names-gary-smith-director-and-christophe-dardel-chair/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:25:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:AUUA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:acceswire:f7643b8af094b:0",
+      "title": "NextSource Materials Completes Shareholders' Agreement with Japan's Hanwa and JOGMEC and Receives US$30M Investment for UAE Battery Anode Facility",
+      "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/nextsource-materials-completes-shareholders-agreement-with-japans-hanwa-and-jogme-1257190",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "ACCESS Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:25:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:NEXT",
+          "OTC:NSRCF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:9b99455d582ad:0",
+      "title": "PHINIA Inc. (PHIN) to Acquire FMP Group Business in Three Asia-Pacific Markets",
+      "url": "https://www.tradingview.com/news/tradingview:9b99455d582ad:0-phinia-inc-phin-to-acquire-fmp-group-business-in-three-asia-pacific-markets/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:25:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PHIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003547_20261125003547:0",
+      "title": "PHINIA To Acquire The Business Of The FMP Group With Operations In Australia, Thailand And Malaysia, A Leading Asia-Pacific Aftermarket Company >PHIN",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003547_20261125003547:0-phinia-to-acquire-the-business-of-the-fmp-group-with-operations-in-australia-thailand-and-malaysia-a-leading-asia-pacific-aftermarket-company-phin/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:25:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PHIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:business_wire:0a4ec0cf13d85:0",
+      "title": "PHINIA to Acquire the Business of the FMP Group with Operations in Australia, Thailand and Malaysia, a Leading Asia-Pacific Aftermarket Company",
+      "url": "https://www.tradingview.com/news/business_wire:0a4ec0cf13d85:0-phinia-to-acquire-the-business-of-the-fmp-group-with-operations-in-australia-thailand-and-malaysia-a-leading-asia-pacific-aftermarket-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:25:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PHIN"
+        ]
+      }
+    },
     {
       "id": "tradingview:moodys:968ed32018866:0",
       "title": "Suzlon to build 1-GW smart blade factory in Tamil Nadu",
@@ -131,6 +659,78 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4398467:0",
+      "title": "AED: Early-2027 integration and €16m+ synergies pair with €1.5–2.5bn recycling optionality",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4398467:0-aed-early-2027-integration-and-16m-synergies-pair-with-1-5-2-5bn-recycling-optionality/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:23:58+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:AED"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:70f1ff13a094b:0",
+      "title": "SEBI closes proceedings against Lloyds Enterprises, executives after settlement",
+      "url": "https://www.tradingview.com/news/cnbctv:70f1ff13a094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:23:35+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:LLOYDSENT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:3a037f540094b:0",
+      "title": "Infrastructure Capital Bond Income ETF raises monthly dividend by 0.7% to $0.3425 /share",
+      "url": "https://seekingalpha.com/news/4676562-infrastructure-capital-bond-income-etf-raises-monthly-dividend-by-07-to-03425-share?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:23:19+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:BNDS"
         ]
       }
     },
@@ -275,6 +875,87 @@
         "urgency": 2,
         "symbols": [
           "OMXSTO:HPOL_B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:d43575ca57007:0",
+      "title": "Diversified Royalty Corp. (DIV) Closes $50M Debenture Offering to Redeem 2027 Debt",
+      "url": "https://www.tradingview.com/news/tradingview:d43575ca57007:0-diversified-royalty-corp-div-closes-50m-debenture-offering-to-redeem-2027-debt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:22:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:DIV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:4fadc890e094b:0",
+      "title": "Diversified Royalty Corp. Announces Closing of $50 Million Bought Deal Public Offering of 6.00% Convertible Unsecured Subordinated Debentures",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410178/0/en/diversified-royalty-corp-announces-closing-of-50-million-bought-deal-public-offering-of-6-00-convertible-unsecured-subordinated-debentures.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:22:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:DIV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:macenews:33d0827b4094b:0",
+      "title": "USTR OPENS PUBLIC COMMENT PERIOD ON SECTION 301 TARIFF FOR BRAZIL, UNVEILS NEW 301 REPLACEMENT TARIFF RATES FOR 14 OTHER COUNTRIES",
+      "url": "https://www.tradingview.com/news/macenews:33d0827b4094b:0-ustr-opens-public-comment-period-on-section-301-tariff-for-brazil-unveils-new-301-replacement-tariff-rates-for-14-other-countries/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:22:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:21.004986+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:FED30D",
+          "SP:SPX",
+          "TVC:DJI",
+          "FX:EURUSD",
+          "CBOE:DJX",
+          "TVC:DXY",
+          "STOXX:SX5E",
+          "CBOE:VIX",
+          "ECONOMICS:USGDP",
+          "NASDAQ:IXIC"
         ]
       }
     },
@@ -800,6 +1481,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/nvidia-chipmakers-slide-premarket-dell-131630827.html?.tsrc=rss",
+      "title": "Nvidia, chipmakers slide premarket; Dell falls despite upbeat outlook",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-chipmakers-slide-premarket-dell-131630827.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Investing.com - A tech-fueled selloff that has pushed up haven demand for Treasuries appeared poised to extend into a new session on Wednesday, while reports of new U.S. tariffs on several countries further weighed on sentiment.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:16:30+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:20.929867+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761QU:0",
@@ -61888,6 +62588,25 @@
       }
     },
     {
+      "id": "msn:6fc1bed237346711f47c58e6d89148507adc6f38",
+      "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e275d2324ef1bf36944ce36cf085&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:19:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:22.687439+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261125000027_20261125000037:0",
       "title": "CIMB: Geopolitical Developments and Oil Price Fluctuations Continue to Cloud Operating Outlook",
       "url": "https://www.tradingview.com/news/DJN_DN20261125000027_20261125000037:0-cimb-geopolitical-developments-and-oil-price-fluctuations-continue-to-cloud-operating-outlook/",
@@ -62140,6 +62859,25 @@
       "published_at": "2026-11-25T13:14:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T21:16:09.632636+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:5e093a4aa5f9b462b549758b95b64f3a43cb88d5",
+      "title": "Stock Market Today: Dow Dives Ahead Of Fed Inflation Data; Nvidia, Anthropic Plunge (Live ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e275d2324ef1bf36944ce36cf085&url=https%3a%2f%2fwww.investors.com%2fmarket-trend%2fstock-market-today%2fdow-jones-sp500-nasdaq-fed-inflation-data-nvidia-anthropic%2f&c=31771772116510464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Futures for the Dow Jones Industrial Average and the other major stock indexes traded sharply lower Wednesday ahead of key inflation data, and ahead of Thursday's Thanksgiving holiday break Meanwhile, ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:14:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:22.687439+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -63146,6 +63884,25 @@
       "published_at": "2026-11-25T12:45:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T21:19:15.050836+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:c54b4b0a8749d28c69ce33f40c6138d3d92509ae",
+      "title": "Palo Alto Networks: Great Earnings, Premium Valuation",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e2752bc04066a1de0877da5ce28f&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4971765-palo-alto-networks-stock-great-earnings-premium-valuation&c=11951635624774278076&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Analyst rates Palo Alto Networks a Hold: its $335 target trails shares near $353, and nearly 80x forward earnings plus dilution limit the entry case.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:45:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:22.687439+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -66037,6 +66794,25 @@
       "extra": {}
     },
     {
+      "id": "msn:7926ce6349017272e82416c277d429cdc586a136",
+      "title": "Ten undervalued energy stocks after Q3 earnings, led by Par Pacific",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e2752bc04066a1de0877da5ce28f&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4676519-ten-undervalued-energy-stocks-after-q3-earnings-led-by-par-pacific&c=2722455980253807025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Seeking Alpha's screen names 10 undervalued energy stocks, led by Par Pacific with an A+ valuation grade; four others earn A grades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:22.687439+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:stocktwits:79fb107c8094b:0",
       "title": "ANT Slips Further After Closing Below IPO Price: Retail Traders Wait For A Better Entry, But Cathie Wood Buys The Dip",
       "url": "https://stocktwits.com/news-articles/markets/equity/ant-slips-further-after-closing-below-ipo-price-retail-traders-wait-for-a-better-entry-but-cathie-wood-buys-the-dip/cNbHR3zR9lf",
@@ -66899,6 +67675,25 @@
       "published_at": "2026-11-25T11:26:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T21:25:14.376309+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:e9082ef62021602d4008c789da5f796b95fff274",
+      "title": "KANZHUN LIMITED Sponsored ADR (BZ) Beats Q3 Earnings Estimates",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e2752bc04066a1de0877da5ce28f&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fkanzhun-limited-sponsored-adr-bz-112502949.html&c=14238375677866091443&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Kanzhun (BZ) delivered earnings and revenue surprises of +9.38% and -0.63%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:26:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:22.687439+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -75205,6 +76000,25 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T21:19:15.050836+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:de88c4b8f45a489a59d587d52ac350ba054e818d",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e2752bc04066a1de0877da5ce28f&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:22.687439+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -86941,6 +87755,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T21:25:14.376309+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:c0026ebe1224eb4c0cecddf6b9c6574b74181c35",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e275d2324ef1bf36944ce36cf085&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:28:22.687439+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
