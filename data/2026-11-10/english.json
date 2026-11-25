@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-10",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-26T01:40:17.288623+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:9d12c80c2d10ee23b0d2c85bd6cf9eaca9d54114",
+      "title": "finance.yahoo.com",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b071d7c2f8646fdab866beb7c62d97f&url=https%3a%2f%2ffinance.yahoo.com%2fpersonal-finance%2finvesting%2farticle%2fis-the-stock-market-open-on-veterans-day-153919156.html&c=6826927571609816071&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "finance.yahoo.com ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-10T13:11:00+08:00",
+      "published_date": "2026-11-10",
+      "fetched_at": "2026-11-26T01:40:14.397204+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

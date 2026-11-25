@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T01:37:28.550654+08:00",
-  "count": 537,
+  "generated_at": "2026-11-26T01:40:17.583892+08:00",
+  "count": 539,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 19,
+      "count": 20,
       "error": ""
     }
   ],
@@ -322,6 +322,25 @@
           "NASDAQ:KRYS"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/doubleline-cohen-turns-bullish-hyperscaler-173352564.html?.tsrc=rss",
+      "title": "DoubleLine’s Cohen turns bullish on hyperscaler bonds after selloff - Bloomberg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/doubleline-cohen-turns-bullish-hyperscaler-173352564.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Investing.com -- DoubleLine Capital has reversed its cautious stance on artificial intelligence debt, pivoting to become an active buyer following a steep selloff that widened corporate bond spreads to multi-year highs. Robert Cohen, director of corporate credit at the $90 billion-plus asset manager, noted in a Nov. 20 Bloomberg Intelligence Credit Edge podcast that prevailing prices and yields now adequately compensate investors for underlying sector risks.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:33:52+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:40:12.577443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762MK:0",
@@ -1371,6 +1390,25 @@
           "NASDAQ:KLAC"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.tikr.com/blog/nvidia-sinks-9-as-huang-rally-fades-stephanie-link-sees-a-cloud-over-it?ref=yahoofinance&tlnk=yf-261125-q8ch658v&.tsrc=rss",
+      "title": "Nvidia Sinks 9% as Huang Rally Fades: Stephanie Link Sees “A Cloud Over It”",
+      "url": "https://www.tikr.com/blog/nvidia-sinks-9-as-huang-rally-fades-stephanie-link-sees-a-cloud-over-it?ref=yahoofinance&tlnk=yf-261125-q8ch658v&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysNVIDIA fell 7% today as Monday’s Huang rally faded, with Arm and Credo hit by the same AI spending worries. The selloff looks overdone: analysts’ estimates have held up while the forward P/E sits near its five-year low.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:24:16+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:40:12.577443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N4761FI:0",
