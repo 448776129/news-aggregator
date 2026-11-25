@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T20:22:17.175575+08:00",
-  "count": 3302,
+  "generated_at": "2026-11-25T20:25:19.807936+08:00",
+  "count": 3313,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 5,
       "error": ""
     },
     {
@@ -266,6 +266,25 @@
       }
     },
     {
+      "id": "yahoo:https://finance.yahoo.com/news/record-132-billion-ai-backlog-121500023.html?.tsrc=rss",
+      "title": "A Record $132 Billion AI Backlog Lands as Chip Stocks Whipsaw",
+      "url": "https://finance.yahoo.com/news/record-132-billion-ai-backlog-121500023.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Fly on Wall Street News Commentary - Artificial intelligence stocks have taken investors on a two-day ride. The Nasdaq composite surged 6.5% on Monday after NVIDIA announced that its board had reinstated Jensen Huang as President and Chief Executive Officer, then gave back 1.48% on Tuesday as the rally cooled. Through it all, the demand numbers kept coming in strong, including a record AI backlog reported on Tuesday. Active companies from around the markets with current developments this week in",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:15:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:25:16.406054+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:stocktwits:9a7668f44094b:0",
       "title": "Tesla’s FSD Push In Europe Hits Another Snag As EU Reportedly Delays Approval Talks Yet Again – TSLA Stock Falls Premarket",
       "url": "https://stocktwits.com/news-articles/markets/equity/tesla-fsd-push-in-europe-hits-snag-eu-delays-approval-talks-tsla-stock-falls/cNbHWoCR9m3",
@@ -288,6 +307,25 @@
           "NASDAQ:TSLA"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://stocktwits.com/news-articles/markets/equity/tesla-fsd-push-in-europe-hits-snag-eu-delays-approval-talks-tsla-stock-falls/cNbHWoCR9m3?.tsrc=rss",
+      "title": "Tesla’s FSD Push In Europe Hits Another Snag As EU Reportedly Delays Approval Talks Yet Again – TSLA Stock Falls Premarket",
+      "url": "https://stocktwits.com/news-articles/markets/equity/tesla-fsd-push-in-europe-hits-snag-eu-delays-approval-talks-tsla-stock-falls/cNbHWoCR9m3?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "A European Commission spokesperson told Reuters that the meeting would take place on December 15, two weeks after the scheduled meeting date.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:14:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:25:16.406054+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:cryptobriefing:8b25fd26e094b:0",
@@ -903,6 +941,25 @@
       }
     },
     {
+      "id": "yahoo:https://www.trefis.com/stock/aapl/articles/628917/does-apple-s-new-silence-mean-you-should-worry/2026-11-25?.tsrc=rss",
+      "title": "Does Apple's New Silence Mean You Should Worry?",
+      "url": "https://www.trefis.com/stock/aapl/articles/628917/does-apple-s-new-silence-mean-you-should-worry/2026-11-25?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:07:53+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:25:16.406054+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:stocktwits:9a30dd94b094b:0",
       "title": "Why Is URBN Stock Falling In Pre-Market?",
       "url": "https://stocktwits.com/news-articles/markets/equity/why-is-urbn-stock-falling-in-pre-market/cNbHW1ER9md",
@@ -997,6 +1054,25 @@
           "TSXV:NXH"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.trefis.com/stock/amd/articles/628978/is-amd-stock-falling-on-its-own/2026-11-25?.tsrc=rss",
+      "title": "Is AMD Stock Falling On Its Own?",
+      "url": "https://www.trefis.com/stock/amd/articles/628978/is-amd-stock-falling-on-its-own/2026-11-25?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:05:46+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:25:16.406054+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:urn:summary_document_report:quartr.com:4816177:0",
@@ -1244,6 +1320,25 @@
           "NYSE:SGOV"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.trefis.com/stock/crwv/articles/628973/what-just-happened-to-coreweave-stock/2026-11-25?.tsrc=rss",
+      "title": "What Just Happened To CoreWeave Stock?",
+      "url": "https://www.trefis.com/stock/crwv/articles/628973/what-just-happened-to-coreweave-stock/2026-11-25?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:03:39+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:25:16.406054+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/one-wall-st-strategist-predicted-120330633.html?.tsrc=rss",
@@ -1842,6 +1937,25 @@
           "HINDUNILVR"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.trefis.com/stock/mu/articles/628971/what-pulled-micron-stock-down/2026-11-25?.tsrc=rss",
+      "title": "What Pulled Micron Stock Down?",
+      "url": "https://www.trefis.com/stock/mu/articles/628971/what-pulled-micron-stock-down/2026-11-25?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:01:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:25:16.406054+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:seekingalpha:138ab5be4094b:0",
@@ -54567,6 +54681,44 @@
       "extra": {}
     },
     {
+      "id": "msn:32d114fe0421041d982c413efc608a3059818db3",
+      "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d3ad16814514b7bc35d24b87cded&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:25:19.661482+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:647889560ee23db792b1b327c1db25f63d68fcb7",
+      "title": "Ten undervalued energy stocks after Q3 earnings, led by Par Pacific",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d3ae5a5d492b8e13b8008a62bede&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4676519-ten-undervalued-energy-stocks-after-q3-earnings-led-by-par-pacific&c=2722455980253807025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Seeking Alpha's screen names 10 undervalued energy stocks, led by Par Pacific with an A+ valuation grade; four others earn A grades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:25:19.661482+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:stocktwits:79fb107c8094b:0",
       "title": "ANT Slips Further After Closing Below IPO Price: Retail Traders Wait For A Better Entry, But Cathie Wood Buys The Dip",
       "url": "https://stocktwits.com/news-articles/markets/equity/ant-slips-further-after-closing-below-ipo-price-retail-traders-wait-for-a-better-entry-but-cathie-wood-buys-the-dip/cNbHR3zR9lf",
@@ -63057,6 +63209,25 @@
       "extra": {}
     },
     {
+      "id": "msn:077547558200224e2c37f0ec3ba238bdc811c0f7",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d3ae5a5d492b8e13b8008a62bede&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:25:19.661482+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:69d0af11a288ba114dbf4c01f229aef05a9d4698",
       "title": "Stock Market Live Updates: Sensex sheds 800 pts from day’s high, Nifty holds 25,650 ...",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069d83c3a14cd8b29e8d5f1f91f20d&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026%2fliveblog%2f136145716.cms&c=2500710713444335276&mkt=en-us",
@@ -63830,6 +64001,25 @@
       "published_at": "2026-11-25T08:15:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T20:19:11.830443+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0af86a2eb1fa550f858c3124e013d5b90beac9df",
+      "title": "Visible Alpha Breakdown Of U.S. Airlines' Q4 2026 Earnings Expectations",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d3ae5a5d492b8e13b8008a62bede&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4971756-visible-alpha-breakdown-of-us-airlines-q4-2026-earnings-expectations&c=318486121220102849&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Visible Alpha consensus shows US airlines are heading into Q4 2026 with strong top-line growth expectations, supported by continued capacity expansion, higher passenger traffic, and robust revenue per ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:15:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:25:19.661482+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -74217,6 +74407,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T20:22:14.684529+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:870df7937c17761b34ebedec02a4ffbe3da29408",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d3ad16814514b7bc35d24b87cded&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:25:19.661482+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
