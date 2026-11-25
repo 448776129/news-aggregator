@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T17:28:24.166619+08:00",
-  "count": 2023,
+  "generated_at": "2026-11-25T17:31:18.560282+08:00",
+  "count": 2055,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 44,
+      "count": 46,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,598 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760AX:0",
+      "title": "India's RBI steps up checks on importer trades amid surge in smaller deals, bankers say",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760AX:0-india-s-rbi-steps-up-checks-on-importer-trades-amid-surge-in-smaller-deals-bankers-say/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:30:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX_IDC:USDINR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001833:0",
+      "title": "Berjaya Food Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001833:0-berjaya-food-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:BJFOOD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001816_20261125001846:0",
+      "title": "Kingsoft: Rev From Cloud Business Rose 40%",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001816_20261125001846:0-kingsoft-rev-from-cloud-business-rose-40/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:3888"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001816_20261125001831:0",
+      "title": "Kingsoft: Rev From Online Games Fell 25%",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001816_20261125001831:0-kingsoft-rev-from-online-games-fell-25/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:3888"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001834:0",
+      "title": "Mycron Steel Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001834:0-mycron-steel-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:MYCRON"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001816_20261125001824:0",
+      "title": "Kingsoft: Rev From Office Business Rose 16%",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001816_20261125001824:0-kingsoft-rev-from-office-business-rose-16/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:29:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:3888"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001822:0",
+      "title": "Nasdaq Futures Slide as AI Growth Fears Return to Center Stage",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001822:0-nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:29:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6258Ea:0",
+      "title": "REG - South32 Limited - Daily Buy-Back Notification",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6258Ea:0-reg-south32-limited-daily-buy-back-notification/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:28:12+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:S32"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:3ef0a4c77c696:0",
+      "title": "Lianlian DigiTech Launches AI-Powered Business Card",
+      "url": "https://www.tradingview.com/news/tradingview:3ef0a4c77c696:0-lianlian-digitech-launches-ai-powered-business-card/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:28:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:2598"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:9f4c110e8f05d:0",
+      "title": "Lianlian DigiTech Launches LianLian XCard, Closing the Loop Between AI Task Execution and Agentic Payments",
+      "url": "https://www.tradingview.com/news/prnewswire:9f4c110e8f05d:0-lianlian-digitech-launches-lianlian-xcard-closing-the-loop-between-ai-task-execution-and-agentic-payments/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:28:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:2598"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4032598:0",
+      "title": "Kingsoft: Office and AI cloud growth lifted adjusted profit, offset by investment losses and weaker games revenue",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4032598:0-kingsoft-office-and-ai-cloud-growth-lifted-adjusted-profit-offset-by-investment-losses-and-weaker-games-revenue/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:27:58+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:3888"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:681807:0",
+      "title": "HBX Group International Q4 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:681807:0-hbx-group-international-q4-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:27:04+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BME:HBX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:722221:0",
+      "title": "Pets at Home Group H1 2027 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:722221:0-pets-at-home-group-h1-2027-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:27:04+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:PETS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001816_20261125001819:0",
+      "title": "Kingsoft 3Q Loss CNY204.1M Vs. Net CNY213.05M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001816_20261125001819:0-kingsoft-3q-loss-cny204-1m-vs-net-cny213-05m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:27:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:3888"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760HS:0",
+      "title": "Prices fall on milder temperature forecasts, stronger Norwegian supply",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760HS:0-prices-fall-on-milder-temperature-forecasts-stronger-norwegian-supply/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:26:55+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6256Ea:0",
+      "title": "REG - BP Capital Markets - Tender Offer Indicative Results",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6256Ea:0-reg-bp-capital-markets-tender-offer-indicative-results/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:26:53+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001814:0",
+      "title": "Itmax System Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001814:0-itmax-system-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:26:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:ITMAX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:7061e26140431:0",
+      "title": "KalVista Pharmaceuticals (KALV) Gets NICE Recommendation for Sebetralstat in England and Wales",
+      "url": "https://www.tradingview.com/news/tradingview:7061e26140431:0-kalvista-pharmaceuticals-kalv-gets-nice-recommendation-for-sebetralstat-in-england-and-wales/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:26:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001816_20261125001816:0",
+      "title": "Kingsoft 3Q Rev CNY2.44B Vs. CNY2.42B",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001816_20261125001816:0-kingsoft-3q-rev-cny2-44b-vs-cny2-42b/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:26:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:3888"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:business_wire:caa0636203dcd:0",
+      "title": "NICE Recommends EKTERLY®▼ (sebetralstat) the First Oral, On-Demand Treatment Option for Hereditary Angioedema (HAE) Attacks",
+      "url": "https://www.tradingview.com/news/business_wire:caa0636203dcd:0-nice-recommends-ekterly-sebetralstat-the-first-oral-on-demand-treatment-option-for-hereditary-angioedema-hae-attacks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:26:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4813893:0",
+      "title": "2G Energy : Order momentum and diversification support expanded capacity and revenue ambitions",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4813893:0-2g-energy-order-momentum-and-diversification-support-expanded-capacity-and-revenue-ambitions/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:25:56+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:2GB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:745b7657b094b:0",
+      "title": "ASML Dips Premarket Amid Chip Rout: Dutch Lawmakers Push Back On Proposed US Curbs On Sales To China",
+      "url": "https://stocktwits.com/news-articles/markets/equity/asml-dips-premarket-amid-chip-rout-dutch-lawmakers-push-back-on-proposed-us-curbs-on-sales-to-china/cNbH9EDR9ls",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:25:35+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:ASML"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4760R5:0",
+      "title": "PFC accepts bids for multiple-tenor bonds, bankers say",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4760R5:0-pfc-accepts-bids-for-multiple-tenor-bonds-bankers-say/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:25:11+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:PFC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:9fe76add812f9:0",
+      "title": "HBX GROUP ANNOUNCES FULL YEAR 2026 FINANCIAL RESULTS",
+      "url": "https://www.tradingview.com/news/prnewswire:9fe76add812f9:0-hbx-group-announces-full-year-2026-financial-results/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:25:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BME:HBX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:c6dd857382062:0",
+      "title": "HBX Group International plc (HBX) Announces FY2026 Results; Figures Not Included",
+      "url": "https://www.tradingview.com/news/tradingview:c6dd857382062:0-hbx-group-international-plc-hbx-announces-fy2026-results-figures-not-included/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:25:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BME:HBX"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6252Ea:0",
       "title": "REG - Zenith Energy Ltd - Strong Profitability from Italian Gas Production",
@@ -60,6 +652,30 @@
         "symbols": [
           "LSE:ZEN",
           "OSL:ZENA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4760R8:0",
+      "title": "Suzhou Lvkon Transmission Technology To Invest In New Energy Electric Drive System Project",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4760R8:0-suzhou-lvkon-transmission-technology-to-invest-in-new-energy-electric-drive-system-project/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:24:33+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SZSE:301655"
         ]
       }
     },
@@ -227,6 +843,30 @@
       }
     },
     {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4760R7:0",
+      "title": "Gabriel Holding Proposes Dividend Of DKK 7.00 Per Share",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4760R7:0-gabriel-holding-proposes-dividend-of-dkk-7-00-per-share/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:23:34+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:GABR"
+        ]
+      }
+    },
+    {
       "id": "tradingview:DJN_DN20261125001789:0",
       "title": "Australia's Inflation Keeps RBA on Alert While Case for Hold Remains Intact — Market Talk",
       "url": "https://www.tradingview.com/news/DJN_DN20261125001789:0-australia-s-inflation-keeps-rba-on-alert-while-case-for-hold-remains-intact-market-talk/",
@@ -248,6 +888,28 @@
         "symbols": [
           "TVC:UKOIL"
         ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001790:0",
+      "title": "Australia's Inflation Keeps RBA on Alert While Case for Hold Remains Intact — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001790:0-australia-s-inflation-keeps-rba-on-alert-while-case-for-hold-remains-intact-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:23:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:14.614912+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -7683,6 +8345,30 @@
         "symbols": [
           "LSE:TUNE"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8807615",
+      "title": "Iran says it is prepared to withstand US blockade, seeks to curb price rises - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUtreFI1ZkdfaWRTMFJZWElnOFJtM2E1ZlZ6OVhiSDlVTnFOLVQtZTExQWZjbWRvRjR0SFJ3ZUotcEV5Z3RFaE5Wb1RsUEFSdUVoVUhvaXU1bFFNckhHcHdDZjdkRTNMUVlzR0ZVcUx1VWRLeV9DSnFtQjJrOUU1NjJSM1VyTEc3QUltV2p6bFpvSGVLd3dKMXRkaXpnVEJrUWcycHI5UVBNOTAwWTIzTTloYlZSeXpiUjJIcS1HOWQ?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Iran says it is prepared to withstand US blockade, seeks to curb price rises Reuters",
+      "content": "Iran says it is prepared to withstand US blockade, seeks to curb price rises Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:29:22+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:15.009718+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -34808,6 +35494,30 @@
       "extra": {}
     },
     {
+      "id": "finnhub:8807616",
+      "title": "Russian strike kills two people in Ukraine's Odesa region, governor says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVJGWmhSeU5uWXkwNElJa0F4SFVNaGFObjNhWThIblk0dTkzeW9wVUhwZS0yVzYtQjY3NHd5V3A1MUQ4c1hzQm5WTGhmMXBoQ2R3aDNweHUwalV2bFZJNkZHWGI1akhWMW5sY0VoUVE0SXRDOXN4NWpNRTFyQmFyLUx2b1lhaG9NNWJRTkhjVHV4Z0d6NFliQklkel9SVzhUbGJGY0h0Vzg5czZaYmc?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Russian strike kills two people in Ukraine's Odesa region, governor says Reuters",
+      "content": "Russian strike kills two people in Ukraine's Odesa region, governor says Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:26:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:15.009718+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "yahoo:https://www.thestreet.com/investing/why-nvidias-rebound-may-not-mean-the-sp-500-has-bottomed?.tsrc=rss",
       "title": "Why Nvidia's rebound may not mean the S&P 500 has bottomed",
       "url": "https://www.thestreet.com/investing/why-nvidias-rebound-may-not-mean-the-sp-500-has-bottomed?.tsrc=rss",
@@ -36539,6 +37249,25 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T17:28:23.108738+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:e83549238b4bbbd9e8efdd56f21acdd48d48e529",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to slump as investors await PCE inflation ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06aae3e6094cd7b98c4700466efccd&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia&c=9558319776707145456&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Wednesday here ahead of October's personal consumption expenditures price index.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:16.748262+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -45505,6 +46234,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T17:28:23.108738+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0723f9adb38893d9b37bddef516115308fe2e6f4",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06aae3e6094cd7b98c4700466efccd&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:31:16.748262+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
