@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T20:01:19.956158+08:00",
-  "count": 3161,
+  "generated_at": "2026-11-25T20:04:23.860632+08:00",
+  "count": 3206,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 10,
+      "count": 5,
       "error": ""
     },
     {
@@ -38,6 +38,796 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760NL:0",
+      "title": "Sterling dips as traders await US inflation data",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760NL:0-sterling-dips-as-traders-await-us-inflation-data/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:03:27+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:GBPUSD",
+          "FX:EURGBP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002986:0",
+      "title": "Couche-Tard's 2Q Beat Driven by Fuel Margins, but Core Store Trends Hold Up — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002986:0-couche-tard-s-2q-beat-driven-by-fuel-margins-but-core-store-trends-hold-up-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:03:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:ATD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:be513fe7cc4d5:0",
+      "title": "Imperial Oil names Jim Burgess finance chief as Dan Lyons retires",
+      "url": "https://www.tradingview.com/news/tradingview:be513fe7cc4d5:0-imperial-oil-names-jim-burgess-finance-chief-as-dan-lyons-retires/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:03:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:IMO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:6e97a461f8e44:0",
+      "title": "Tariff Threats And Tech Slide Cause Market Tremors",
+      "url": "https://www.tradingview.com/news/dpa_afx:6e97a461f8e44:0-tariff-threats-and-tech-slide-cause-market-tremors/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:02:50+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "STOXX:SX5E",
+          "TVC:UKX",
+          "XETR:DAX",
+          "TVC:CAC40"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N47615W:0",
+      "title": "GDS Holdings Limited reports results for the quarter ended September 30 - Earnings Summary",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N47615W:0-gds-holdings-limited-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:02:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:9698"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130395146",
+      "title": "Bravo Mining Reports Latest Assay Results from Luanga Deposit",
+      "url": "https://www.newswire.ca/news-releases/bravo-intercepts-38-0m-at-2-6-g-t-pgm-au-0-29-ni-and-29-0m-at-3-2-g-t-pgm-au-0-21-ni-at-luanga-803453342.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Bravo Mining Corp. announced assay results from 22 infill and step-out drill holes at its Luanga PGM+Au+Ni deposit in Brazil.",
+      "content": "Bravo Mining Corp. has released assay results from twenty-two infill and step-out drill holes conducted at its 100% owned Luanga deposit in the Carajás Mineral Province, Brazil. The drilling program included ten holes from the Central Sector, five from the North Sector, and seven from the Southwest Sector. According to the company, these results demonstrate the potential to expand and upgrade the project's mineral resources, with some areas showing mineralization extensions up to twice the length of previous intercepts. Additionally, the company reported evidence of high-grade gold mineralization, which management suggests indicates remobilized mineralization within the deposit. Concurrently, the company's Copper-Gold Team has initiated a maiden drill program at the property targeting iron oxide copper gold and massive sulphide style mineralization.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:02:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.773867+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BRVO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6631Ea:0",
+      "title": "REG - Societe Generale SA Intertek Group Plc - Form 8.3 - Intertek Group plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6631Ea:0-reg-societe-generale-sa-intertek-group-plc-form-8-3-intertek-group-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:02:14+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:ITRK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6630Ea:0",
+      "title": "REG - FIL Limited DCC Energy PLC - Form 8.3 - DCC ENERGY PLC",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6630Ea:0-reg-fil-limited-dcc-energy-plc-form-8-3-dcc-energy-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:02:11+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:DCC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC3X9VSJ:0",
+      "title": "Sandvik To Acquire Brazilian Mining Wear And Spare Parts Manufacturer Del Rey Minerals",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC3X9VSJ:0-sandvik-to-acquire-brazilian-mining-wear-and-spare-parts-manufacturer-del-rey-minerals/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:02:08+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:SAND"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130395145",
+      "title": "Barclays Maintains Equal-Weight on ZIM Integrated Shipping and Raises Price Target",
+      "url": "https://www.moomoo.com/stock/ZIM-US?chain_id=Name1K9-3FXPhg.1lgd5c0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FNTR-CA%22%7D",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Barclays analyst Marco Limite has maintained an Equal-Weight rating on ZIM Integrated Shipping Services Ltd. while increasing the price target from $30.00 to $32.50.",
+      "content": "Barclays analyst Marco Limite has updated his outlook on ZIM Integrated Shipping Services Ltd., maintaining an Equal-Weight rating while raising the price target for the company's shares from $30.00 to $32.50. This adjustment reflects the analyst's current assessment of the company's market position and valuation. The update was reported on November 25, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:02:08+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.773867+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ZIM"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130395144",
+      "title": "Wärtsilä Lands Engine Order for New Cargo Vessels in Netherlands",
+      "url": "https://www.marketscreener.com/news/wartsila-lands-engine-order-for-new-cargo-vessels-in-netherlands-ce7851dbd089f226",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Wärtsilä has secured a new order to supply engines for cargo vessels being built in the Netherlands.",
+      "content": "Wärtsilä has been awarded a contract to provide engine technology for new cargo vessels in the Netherlands. The announcement, reported on November 25, 2026, confirms the company's continued role in supplying power and propulsion equipment for the maritime sector. This order represents a specific commercial win for the company's marine business unit.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:02:05+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.773867+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "WRT1V"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002966:0",
+      "title": "Gilts Outperform Eurozone Peers as Risk-Off Sentiment Takes Over — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002966:0-gilts-outperform-eurozone-peers-as-risk-off-sentiment-takes-over-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:02:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "alpaca:130394712",
+      "title": "BofA Securities Lowers Price Target on Companhia Siderúrgica Nacional",
+      "url": "https://www.streetinsider.com/news.php?id=27397730&classic=1",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "BofA Securities has adjusted its price target for Companhia Siderúrgica Nacional (SID) to R$3.80.",
+      "content": "BofA Securities has lowered its price target for Companhia Siderúrgica Nacional (CSNA3:BZ / SID) to R$3.80. This adjustment reflects the firm's updated valuation of the company. The change was reported on November 25, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:01:53+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.773867+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SID"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130394711",
+      "title": "Metlen Enters Partnership with Leonardo for Military Vehicle Production",
+      "url": "https://www.euro2day.gr/news/enterprises/122/list.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Metlen Energy & Metals PLC has reached an agreement with Leonardo S.p.A. to produce and assemble specialized military vehicles in Greece.",
+      "content": "Metlen Energy & Metals PLC has announced a new partnership with the aerospace and defense company Leonardo S.p.A. The agreement focuses on the production and assembly of specialized military vehicles within Greece. This collaboration is intended to contribute to the development of domestic industrial value. The initiative marks an expansion of Metlen's industrial activities into the defense sector.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:01:45+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.773867+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MTLN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:3b7c0876da3b2:0",
+      "title": "JP Morgan downgrades Anheuser-Busch InBev to Neutral from Overweight, lowers price target to $82 from $93.83",
+      "url": "https://www.tradingview.com/news/tradingview:3b7c0876da3b2:0-jp-morgan-downgrades-anheuser-busch-inbev-to-neutral-from-overweight-lowers-price-target-to-82-from-93-83/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:01:41+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:ABI"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130394710",
+      "title": "INTERBETON, a Titan Group subsidiary, acquires Aggelos V. Peppas A.B.E.E.",
+      "url": "https://www.euro2day.gr/news/enterprises/article/2381814/diplh-exagora-apo-thn-interbeton-toy-omiloy-titan.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "INTERBETON, a member of the Titan Group, has signed an agreement to acquire the Greek company Aggelos V. Peppas A.B.E.E. and its subsidiary Peppas Beton A.B.E.E.",
+      "content": "INTERBETON, a subsidiary of Titan Group, has announced the signing of an agreement to acquire Aggelos V. Peppas A.B.E.E. and its subsidiary, Peppas Beton A.B.E.E. This acquisition is set to expand the company's ready-mix concrete network in the Attica region by adding three production units. The move is part of the Group's broader strategy to foster growth and further vertical integration within its key markets. Titan noted that this agreement complements its ongoing investments in vertical integration over the past three years, aimed at strengthening its national supply chain and supporting major infrastructure, commercial, and residential projects.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:01:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.773867+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "TITC"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130394709",
+      "title": "BBVA Argentina Announces Third Quarter 2026 Financial Results",
+      "url": "https://www.businesswire.com/newsroom/subject/earnings",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Banco BBVA Argentina S.A. reported its consolidated financial results for the third quarter of 2026, highlighting key performance metrics including net income, return on equity, and asset quality.",
+      "content": "Banco BBVA Argentina S.A. released its consolidated financial results for the third quarter ended September 30, 2026. The bank reported an inflation-adjusted net income of $58.9 billion for the period. Key performance indicators included an average return on equity (ROE) of 4.9% and an average return on assets (ROA) of 0.7%. The bank's net interest margin (NIM) was 15.1%, while the non-performing loan (NPL) ratio reached 5.55% with a coverage ratio of 82.26%. Additionally, the bank maintained a regulatory capital ratio of 17.9%, exceeding minimum requirements.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:01:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.773867+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BBAR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130394708",
+      "title": "Marimaca Copper Secures Investment Committee Approval for US$450 Million Financing Package",
+      "url": "https://www.newswire.com/news/marimaca-copper-secures-investment-committee-approval-for-us-450-million",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Marimaca Copper Corp. announced that its subsidiary has received investment committee approval from Sprott Resource Lending Corp. for a US$450 million financing package to support the construction of the Marimaca Oxide Deposit in Chile.",
+      "content": "Marimaca Copper Corp. has secured investment committee approval from Sprott Resource Lending Corp. for a US$450 million financing package, consisting of a US$425 million project finance facility and a US$25 million equity investment. The funds are intended to support the construction of the Marimaca Oxide Deposit (MOD) located in the Antofagasta region of Chile. The financing remains subject to the completion of due diligence, the negotiation and execution of definitive documentation, and the satisfaction of customary conditions precedent. The project finance facility does not require hedging, cash sweeps, or production-linked payments.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:01:39+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.773867+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MARI"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130394707",
+      "title": "UBS Group AG Discloses 5.17% Stake in Sibanye-Stillwater",
+      "url": "https://irw-press.com/de/mitteilung-ueber-den-erwerb-einer-wirtschaftlichen-beteiligung-an-wertpapieren-durch-die-ubs-group-ag-5/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Sibanye-Stillwater has received formal notification that UBS Group AG has increased its beneficial interest in the company's common shares to 5.17%.",
+      "content": "Sibanye-Stillwater announced on November 25, 2026, that it received a formal notification regarding a change in the beneficial ownership of its securities. UBS Group AG has acquired a stake in the company, resulting in a total holding of 5.17% of Sibanye-Stillwater's issued common shares. In accordance with the South African Companies Act and JSE Limited Listings Requirements, the company has filed the necessary disclosure with the Takeover Regulation Panel. The board of Sibanye-Stillwater has confirmed the accuracy of the information received via the TRP121.1 forms.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:01:38+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.773867+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SBSW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760I8:0",
+      "title": "China Ecological Land Management H1 revenue falls on weak market demand",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760I8:0-china-ecological-land-management-h1-revenue-falls-on-weak-market-demand/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:01:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:8507"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130394706",
+      "title": "Hindustan Unilever Shares Surge Following Investor Meeting Announcement",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/indian-shares-stage-strong-recovery-1036799275",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Hindustan Unilever Limited shares rose nearly 6% on Wednesday after the company scheduled an investor group meeting.",
+      "content": "Hindustan Unilever Limited saw its stock price climb by nearly 6% during Wednesday's trading session. The rally followed the company's announcement that it has scheduled an investor group meeting. This movement occurred amidst a broader recovery in Indian equity markets, where benchmark indices Sensex and Nifty posted significant gains.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:01:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.773867+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "HINDUNILVR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:138ab5be4094b:0",
+      "title": "Mortgage demand jumps even as rates rise moderately",
+      "url": "https://seekingalpha.com/news/4676518-mortgage-demand-jumps-even-as-rates-rise-moderately?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:01:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "alpaca:130394705",
+      "title": "Wedbush Securities Initiates Bullish Rating on Globant",
+      "url": "https://www.moomoo.com/ja/news/post/1005673558/wedbush-initiates-globant-globus-with-buy-rating-announces-target-price",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Wedbush Securities analyst Moshe Katri has initiated coverage on Globant with a bullish rating and a price target of $49.",
+      "content": "Wedbush Securities analyst Moshe Katri has assigned a bullish rating to Globant (GLOB) with a price target of $49. The analyst's assessment is based on recent performance data and market positioning. This action reflects a positive outlook from the firm regarding the company's future prospects.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:01:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.773867+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GLOB"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130394704",
+      "title": "Sun Yu of Bank of China (Hong Kong) Discusses Renminbi Internationalization",
+      "url": "https://www.chinadailyasia.com/article/643237",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Sun Yu, vice-chairman and chief executive of Bank of China (Hong Kong) Ltd, highlighted the growing role of the renminbi in the global monetary system at the Financial Street Forum 2026.",
+      "content": "Speaking at the Annual Conference of Financial Street Forum 2026, Sun Yu, vice-chairman and chief executive of Bank of China (Hong Kong) Ltd, addressed the shifting landscape of global trade and supply chains. He noted that an increasingly complex and volatile international environment is driving demand for a more diversified, stable, and secure monetary system. Sun emphasized that these global changes are creating new opportunities for the renminbi to expand its international role.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:01:24+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.773867+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "601988"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_PLX9PX1GS:0",
+      "title": "BRIEF-Polestar Automotive Holding Q3 Net Income USD -403 Million",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_PLX9PX1GS:0-brief-polestar-automotive-holding-q3-net-income-usd-403-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:01:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:PSNY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:299212e33f231:0",
+      "title": "Better Collective (BETCO_DKK) Launches Playbook App in the U.S.",
+      "url": "https://www.tradingview.com/news/tradingview:299212e33f231:0-better-collective-betco_dkk-launches-playbook-app-in-the-u-s/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:01:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:BETCO_DKK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:130a25a223d7e:0",
+      "title": "Better Collective launches Playbook app, advancing ambition to become the go-to destination for sports bettors",
+      "url": "https://www.tradingview.com/news/modular_finance:130a25a223d7e:0-better-collective-launches-playbook-app-advancing-ambition-to-become-the-go-to-destination-for-sports-bettors/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:01:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:BETCO_DKK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002913:0",
+      "title": "Tight Spanish Election Might Threaten Domestic Bank Stock Rally — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002913:0-tight-spanish-election-might-threaten-domestic-bank-stock-rally-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:01:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4815766:0",
+      "title": "KAL: Recurring EPS rose 12.9% as high fuel prices pressured consumers and farmers",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4815766:0-kal-recurring-eps-rose-12-9-as-high-fuel-prices-pressured-consumers-and-farmers/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:00:42+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "JSE:KAL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6629Ea:0",
+      "title": "REG - Societe Generale SA easyJet PLC - Form 8.3 - easyJet plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6629Ea:0-reg-societe-generale-sa-easyjet-plc-form-8-3-easyjet-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:00:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:EZJ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:ec7117851094b:0",
+      "title": "io.net: IO Cloud launches on AWS Marketplace - 25 Nov 2026",
+      "url": "https://coinmarketcal.com/event/aws-marketplace-launch-72965554-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:00:36+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BINANCE:TUSDT.P"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:160544fee094b:0",
+      "title": "Orbs: OIP-10 weekly burns begin - 01 Dec 2026",
+      "url": "https://coinmarketcal.com/event/first-oip-10-burn-10659026-2",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:00:22+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BINANCE:TUSDT.P"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:827039757094b:0",
+      "title": "Solana: SBI Solana Global goes live in Japan - 25 Nov 2026",
+      "url": "https://coinmarketcal.com/event/sbi-and-smfg-launch-45321742-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:00:08+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:SOLUSD"
+        ]
+      }
+    },
     {
       "id": "tradingview:tradingview:aa0f684a2c670:0",
       "title": "BBLG Q3'26 Earnings: revenue estimate is 0 USD",
@@ -203,6 +993,31 @@
         "urgency": 2,
         "symbols": [
           "NYSE:TLYS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_Tnw7G4nJn:0",
+      "title": "Inverite Welcomes Federal Designation of Standards and Complaints Bodies as Canada Advances Consumer-Driven Banking Framework",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_Tnw7G4nJn:0-inverite-welcomes-federal-designation-of-standards-and-complaints-bodies-as-canada-advances-consumer-driven-banking-framework/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TheNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:00:04+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:INVR",
+          "OTC:INVRF"
         ]
       }
     },
@@ -1161,6 +1976,104 @@
       }
     },
     {
+      "id": "tradingview:globenewswire:8ee5e6eba094b:0",
+      "title": "Alvotech to Present at Upcoming Investor Conferences in December",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410111/0/en/alvotech-to-present-at-upcoming-investor-conferences-in-december.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:00:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ALVO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:acceswire:1013bb8d8094b:0",
+      "title": "Aston Bay Announces Exploration Targets Outside the Current Mineral Resources at the Storm Copper Project, Nunavut",
+      "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/aston-bay-announces-exploration-targets-outside-the-current-mineral-resources-at-1256991",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "ACCESS Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:00:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:BAY",
+          "OTC:ATBHF",
+          "LSE:BAY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:3ffdaf195094b:0",
+      "title": "Athena Completes SkyTEM Survey on Forester Project, Provides Update on Flagship Laird Lake Project",
+      "url": "https://www.newsfilecorp.com/release/325764/Athena-Completes-SkyTEM-Survey-on-Forester-Project-Provides-Update-on-Flagship-Laird-Lake-Project",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:00:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:ATHA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:b11c2f71b15f9:0",
+      "title": "Athena Gold Corporation (ATHA) Plans Scooby Zone Drilling Before Year-End",
+      "url": "https://www.tradingview.com/news/tradingview:b11c2f71b15f9:0-athena-gold-corporation-atha-plans-scooby-zone-drilling-before-year-end/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:00:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.681643+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:ATHA"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6624Ea:0",
       "title": "REG - Societe Generale SA MITIE Group PLC - Form 8.3 - Mitie Group plc",
       "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6624Ea:0-reg-societe-generale-sa-mitie-group-plc-form-8-3-mitie-group-plc/",
@@ -1611,6 +2524,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://www.verdict.co.uk/ibm-microsoft-azure-compute-fleet-integration/?.tsrc=rss",
+      "title": "IBM and Microsoft expand Azure Compute Fleet integration",
+      "url": "https://www.verdict.co.uk/ibm-microsoft-azure-compute-fleet-integration/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The plug-ins connect IBM’s workload orchestration software with Azure Compute Fleet for compute-intensive workloads across hybrid environments.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:43:37+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:19.626759+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:b5066026cb4b7:0",
@@ -4757,6 +5689,30 @@
         "symbols": [
           "NASDAQ:MMED"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8808030",
+      "title": "Nasdaq futures slide over 2% as AI losses deepen; inflation data in focus - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Nasdaq futures slide over 2% as AI losses deepen; inflation data in focus Reuters",
+      "content": "Nasdaq futures slide over 2% as AI losses deepen; inflation data in focus Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:22:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:21.655329+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -51957,6 +52913,25 @@
       "extra": {}
     },
     {
+      "id": "msn:8715c32784a7f85cdc2da57f420d117c365f6300",
+      "title": "Ten undervalued energy stocks after Q3 earnings, led by Par Pacific",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06cec402ea49079dd76416a7aa3b91&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4676519-ten-undervalued-energy-stocks-after-q3-earnings-led-by-par-pacific&c=2722455980253807025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Seeking Alpha's screen names 10 undervalued energy stocks, led by Par Pacific with an A+ valuation grade; four others earn A grades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:21.572767+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:stocktwits:79fb107c8094b:0",
       "title": "ANT Slips Further After Closing Below IPO Price: Retail Traders Wait For A Better Entry, But Cathie Wood Buys The Dip",
       "url": "https://stocktwits.com/news-articles/markets/equity/ant-slips-further-after-closing-below-ipo-price-retail-traders-wait-for-a-better-entry-but-cathie-wood-buys-the-dip/cNbHR3zR9lf",
@@ -56796,6 +57771,25 @@
       "extra": {}
     },
     {
+      "id": "msn:6486e38e0b787d5047563fcb9ceef8e8f2e38223",
+      "title": "Del Monte (DMC) Stock May Trade At A Discount To Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06cec402ea49079dd76416a7aa3b91&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fdel-monte-dmc-stock-may-090835196.html&c=778897497562070235&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Del Monte shares have fallen sharply this year, and the slide is prompting a basic question for anyone looking at the stock today: Is the current price in line with what the company is actually ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:08:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:21.572767+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.fool.com/investing/2026/11/24/what-a-usd5-000-investment-in-shopify-stock-today-could-grow-into-by-2030/?.tsrc=rss",
       "title": "What a $5,000 Investment in Shopify Stock Today Could Grow Into by 2030",
       "url": "https://www.fool.com/investing/2026/11/24/what-a-usd5-000-investment-in-shopify-stock-today-could-grow-into-by-2030/?.tsrc=rss",
@@ -60118,6 +61112,44 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T20:01:18.500909+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:3ab11dcbcb63de9667decb57a711c9603c91c84a",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to slump as investors await PCE inflation ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06cec3c2244102a2208455cc89a79c&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia&c=9558319776707145456&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Wednesday here ahead of October's personal consumption expenditures price index.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:21.572767+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6d2534da13167e878c8a7c238d3da8cdf3dc0c0d",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06cec402ea49079dd76416a7aa3b91&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:21.572767+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -71037,6 +72069,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T19:52:17.606306+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:accb380d4e7f2e57b05909f29f06846ccdd35542",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06cec3c2244102a2208455cc89a79c&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:04:21.572767+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
