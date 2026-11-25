@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T06:37:22.980876+08:00",
-  "count": 390,
+  "generated_at": "2026-11-26T06:40:19.242408+08:00",
+  "count": 393,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 37,
+      "count": 38,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzftt3816138.shtml",
+      "title": "穆迪：英伟达CEO复职降低了近期风险",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzftt3816138.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "穆迪维持英伟达Aa1高级无担保评级不变，评级展望仍为稳定。 穆迪表示，黄仁勋回归公司后，英伟达在公司治理和监管方面的不确定性依然存在，监管和政府审查力度依然较高...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:39:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.868225+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/7x24/2026-11-26/doc-inizzftq8187585.shtml",
       "title": "爱奇艺：收到纳斯达克不合规通知，暂不停牌，180日内整改",
@@ -46,6 +65,27 @@
       "extra": {}
     },
     {
+      "id": "jin10:20261126063421931800",
+      "title": "市场消息：委内瑞拉国家石油公司与西门子能源签署了一项“战略联盟”协议。",
+      "url": "https://www.jin10.com/#/flash/20261126063421931800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "市场消息：委内瑞拉国家石油公司与西门子能源签署了一项“战略联盟”协议。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:34:21+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:14.820325+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzftm9033916.shtml",
       "title": "安大略省教师退休金CEO：漫长的AI基础设施建设危及投资",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzftm9033916.shtml",
@@ -63,6 +103,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261126063243917800",
+      "title": "The Saudi-led coalition said it intercepted and destroyed two drones over easter",
+      "url": "https://www.jin10.com/#/flash/20261126063243917800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "The Saudi-led coalition said it intercepted and destroyed two drones over eastern Saudi Arabia.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:32:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:14.820325+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261126063242570800",

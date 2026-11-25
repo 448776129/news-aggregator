@@ -1,0 +1,61 @@
+{
+  "date": "2023-12-22",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-26T06:40:18.823019+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:dce26cfc826220423742645f7711e3e3a549cb84",
+      "title": "Why The 1929 Stock Market Crash Could Happen Again",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0763cf556141c3820fc3feeb4ff178&url=https%3a%2f%2fwww.investopedia.com%2finvesting%2f1929-stock-market-crash-could-happen-again%2f&c=13106235204537257229&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Somer G. Anderson is CPA, doctor of accounting, and an accounting and finance professor who has been working in the accounting and finance industries for more than 20 years. Her expertise covers a ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2023-12-22T19:11:00+08:00",
+      "published_date": "2023-12-22",
+      "fetched_at": "2026-11-26T06:40:17.715028+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

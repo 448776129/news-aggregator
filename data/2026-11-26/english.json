@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T06:37:22.957961+08:00",
-  "count": 1421,
+  "generated_at": "2026-11-26T06:40:19.210012+08:00",
+  "count": 1449,
   "sources": [
     {
       "name": "alpaca",
@@ -39,6 +39,475 @@
   ],
   "items": [
     {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N476179:0",
+      "title": "Canada's Nanalysis Scientific Q3 revenue rises on higher product sales",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N476179:0-canada-s-nanalysis-scientific-q3-revenue-rises-on-higher-product-sales/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:40:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:NSCI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4827830:0",
+      "title": "MGRO: TerraSante growth advances, with 2027 scale and cash-flow targets hinging on execution",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4827830:0-mgro-terrasante-growth-advances-with-2027-scale-and-cash-flow-targets-hinging-on-execution/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:38:32+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:MGRO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008068:0",
+      "title": "Exchange Traded Funds Top 10 Percentage Gainers",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008068:0-exchange-traded-funds-top-10-percentage-gainers/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:38:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008086:0",
+      "title": "Exchange Traded Funds Top 10 Percentage Losers",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008086:0-exchange-traded-funds-top-10-percentage-losers/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:38:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008085:0",
+      "title": "Exchange Traded Funds Top 10 Volume Leaders",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008085:0-exchange-traded-funds-top-10-volume-leaders/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:38:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008077_20261125008077:0",
+      "title": "Indrocorp Technologies Files for IPO",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008077_20261125008077:0-indrocorp-technologies-files-for-ipo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:38:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008070:0",
+      "title": "WebBeds Loses Bull on Spanish Tax Audit — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008070:0-webbeds-loses-bull-on-spanish-tax-audit-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:38:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:WEB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4827827:0",
+      "title": "TER: FY27 recovery depends on a Blair Athol ramp-up, cost control and conditional prepayment funding",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4827827:0-ter-fy27-recovery-depends-on-a-blair-athol-ramp-up-cost-control-and-conditional-prepayment-funding/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:37:52+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:TER"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:6e2c2f2b1cccc:0",
+      "title": "Indrotek, Robotics, UAV and Counter-UAS Solutions, Files for U.S. National Exchange IPO",
+      "url": "https://www.tradingview.com/news/tradingview:6e2c2f2b1cccc:0-indrotek-robotics-uav-and-counter-uas-solutions-files-for-u-s-national-exchange-ipo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:37:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008049:0",
+      "title": "Canada Considering Offering Cash to Stellantis to Keep Auto Production at Toronto-Area Plant — Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008049:0-canada-considering-offering-cash-to-stellantis-to-keep-auto-production-at-toronto-area-plant-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:35:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MIL:STLAM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:28e184c4c094b:0",
+      "title": "VRTX Tumbles After-Hours As FDA Delays Kidney Drug Decision; Rival VERA Surges",
+      "url": "https://stocktwits.com/news-articles/markets/equity/vrtx-tumbles-after-hours-as-fda-delays-kidney-drug-decision-rival-vera-surges/cNbHueUR9mU",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:34:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:VRTX",
+          "NASDAQ:VERA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:8f56527dc674e:0",
+      "title": "Personalis Merger Election Includes Approximately $600 Million in Cash",
+      "url": "https://www.tradingview.com/news/tradingview:8f56527dc674e:0-personalis-merger-election-includes-approximately-600-million-in-cash/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:PSNL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:140bd01fa81f0:0",
+      "title": "Scilex Holding Received Notice of Noncompliance",
+      "url": "https://www.tradingview.com/news/tradingview:140bd01fa81f0:0-scilex-holding-received-notice-of-noncompliance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SCLX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008042_20261125008045:0",
+      "title": "Extrawell Pharmaceutical 1H 2025 Loss Was HK$460.0M >0858.HK",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008042_20261125008045:0-extrawell-pharmaceutical-1h-2025-loss-was-hk-460-0m-0858-hk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:32:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:858"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008042_20261125008042:0",
+      "title": "Extrawell Pharmaceutical Expects 1H Ended September Loss to Narrow Substantially >0858.HK",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008042_20261125008042:0-extrawell-pharmaceutical-expects-1h-ended-september-loss-to-narrow-substantially-0858-hk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:32:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:858"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008042_20261125008043:0",
+      "title": "Extrawell Pharmaceutical Sees 1H Loss HK$80.0M-Loss HK$85.0M >0858.HK",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008042_20261125008043:0-extrawell-pharmaceutical-sees-1h-loss-hk-80-0m-loss-hk-85-0m-0858-hk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:32:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:858"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008042_20261125008044:0",
+      "title": "Extrawell Pharmaceutical: Significant Year-on-Year Reduction in Fair Value Loss Supports Results >0858.HK",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008042_20261125008044:0-extrawell-pharmaceutical-significant-year-on-year-reduction-in-fair-value-loss-supports-results-0858-hk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:32:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:858"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008037:0",
+      "title": "Harvey Norman's Consumer Exposure Could Delay Recovery — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008037:0-harvey-norman-s-consumer-exposure-could-delay-recovery-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:32:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:HVN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4093604:0",
+      "title": "Charbone: Gas income rose 21% QoQ as margins and customer reach expanded",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4093604:0-charbone-gas-income-rose-21-qoq-as-margins-and-customer-reach-expanded/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:31:59+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:8247a55621782:0",
+      "title": "PTC Therapeutics Director Sold Shares Worth Over $711K",
+      "url": "https://www.tradingview.com/news/tradingview:8247a55621782:0-ptc-therapeutics-director-sold-shares-worth-over-711k/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:30:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:PTCT"
+        ]
+      }
+    },
+    {
       "id": "yahoo:https://www.thestreet.com/crypto/artificial-intelligence/nvidia-settles-8-year-old-investor-suit-for-290m?.tsrc=rss",
       "title": "Nvidia settles 8-year-old investor suit for $290M",
       "url": "https://www.thestreet.com/crypto/artificial-intelligence/nvidia-settles-8-year-old-investor-suit-for-290m?.tsrc=rss",
@@ -56,6 +525,174 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "tradingview:prnewswire:fc7659f04d314:0",
+      "title": "Nanalysis Announces Third Quarter 2026 Results",
+      "url": "https://www.tradingview.com/news/prnewswire:fc7659f04d314:0-nanalysis-announces-third-quarter-2026-results/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:NSCI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:4cd83385f081b:0",
+      "title": "Nanalysis Scientific Corp. (NSCI) Reports $0.4M Net Income in Q3",
+      "url": "https://www.tradingview.com/news/tradingview:4cd83385f081b:0-nanalysis-scientific-corp-nsci-reports-0-4m-net-income-in-q3/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:NSCI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:ea1b0d0c0094b:0",
+      "title": "Cathay General Bancorp increases share repurchase limit by $50M",
+      "url": "https://seekingalpha.com/news/4676722-cathay-general-bancorp-increases-share-repurchase-limit-by-50m?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:29:42+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CATY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4088774:0",
+      "title": "ICGH: Revenue and Adjusted EBITDA grew, but IC Mobile costs weighed on margins ahead of migration and restructuring",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4088774:0-icgh-revenue-and-adjusted-ebitda-grew-but-ic-mobile-costs-weighed-on-margins-ahead-of-migration-and-restructuring/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:27:24+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:ICGH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4084000:0",
+      "title": "MENE: Revenue edged up, but weaker orders and customer acquisition pressured Q3 performance",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4084000:0-mene-revenue-edged-up-but-weaker-orders-and-customer-acquisition-pressured-q3-performance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:27:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:MENE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:d857f0b8a094b:0",
+      "title": "Military Metals Announces Closing of Upsized Non-Brokered Private Placement of Units",
+      "url": "https://www.newsfilecorp.com/release/325994/Military-Metals-Announces-Closing-of-Upsized-NonBrokered-Private-Placement-of-Units",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:27:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:MILI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:15e32faf44af2:0",
+      "title": "Military Metals Corp. (MILI) Closes $2.4M Private Placement",
+      "url": "https://www.tradingview.com/news/tradingview:15e32faf44af2:0-military-metals-corp-mili-closes-2-4m-private-placement/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:27:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.763885+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:MILI"
+        ]
+      }
     },
     {
       "id": "tradingview:stocktwits:ca3e1a953094b:0",
@@ -80,6 +717,25 @@
           "NASDAQ:NVDA"
         ]
       }
+    },
+    {
+      "id": "yahoo:09d8e2332cc296e94d7f4cba1f866365fe54bdb8",
+      "title": "Nvidia May Get A Credit Rating Cut Amid Governance Issues, While US Officials Reportedly Say No Chinese Interference in Huang’s Affair",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-may-get-a-credit-rating-cut-amid-governance-issues-while-us-officials-reportedly-say-no-chinese-interference-in-huang-s-affair/cNbHubZR9mx?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "S&P Global Ratings placed Nvidia on ‘CreditWatch’ with negative implications over governance concerns sparked by Chief Executive Officer Jensen Huang’s rapid exit and return.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:26:54+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:40:15.584477+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N47618D:0",
