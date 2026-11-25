@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T13:25:15.315146+08:00",
-  "count": 578,
+  "generated_at": "2026-11-25T13:28:14.934478+08:00",
+  "count": 583,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -38,6 +38,54 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:dpa_afx:d870d66b05005:0",
+      "title": "HII Bags $186 Mln UK Royal Navy Contract To Supply REMUS 620",
+      "url": "https://www.tradingview.com/news/dpa_afx:d870d66b05005:0-hii-bags-186-mln-uk-royal-navy-contract-to-supply-remus-620/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:25:45+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T13:28:12.467277+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:HII"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752DB:0",
+      "title": "Hyundai Engineering & Construction Co - Announces Single Sales And Supply Contract Signing",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752DB:0-hyundai-engineering-construction-co-announces-single-sales-and-supply-contract-signing/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:25:43+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T13:28:12.467277+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:000720"
+        ]
+      }
+    },
     {
       "id": "tradingview:dpa_afx:725fe0a0d49cb:0",
       "title": "Ramsay Health Care Shareholders Approve Ramsay Santé Stake Distribution",
@@ -60,6 +108,30 @@
         "symbols": [
           "ASX:RHC",
           "EURONEXT:GDS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:70b7667b0094b:0",
+      "title": "Australia's October inflation tops forecasts at 4.9% as energy costs surge",
+      "url": "https://seekingalpha.com/news/4676435-australias-october-inflation-tops-forecasts-at-49-as-energy-costs-surge?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:22:43+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T13:28:12.467277+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SP:XJO"
         ]
       }
     },
@@ -175,6 +247,31 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:ac2e09743094b:0",
+      "title": "Buy TATA Steel; target of Rs 190: Motilal Oswal",
+      "url": "https://www.tradingview.com/news/moneycontrol:ac2e09743094b:0-buy-tata-steel-target-of-rs-190-motilal-oswal/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:20:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T13:28:12.467277+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TATASTEEL",
+          "NSE:APLAPOLLO"
         ]
       }
     },
@@ -13051,6 +13148,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T13:22:12.322998+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:ab8aa2754a8e1d6faa249dbe3a3b00f0f55994c0",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0671ecef204ec89880935b71fe9233&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T13:28:14.217570+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
