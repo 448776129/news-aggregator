@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:22:15.424512+08:00",
-  "count": 138,
+  "generated_at": "2026-11-26T00:28:16.223524+08:00",
+  "count": 164,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,501 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 8,
+      "count": 9,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tradingview:109a0b9e31454:0",
+      "title": "Wedbush initiates coverage of Grid Dynamics Holdings at Outperform, sets price target at $15",
+      "url": "https://www.tradingview.com/news/tradingview:109a0b9e31454:0-wedbush-initiates-coverage-of-grid-dynamics-holdings-at-outperform-sets-price-target-at-15/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:26:31+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:GDYN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761QA:0",
+      "title": "MediNet Group Expects HY Net Loss Attributable Of HK$5.9 Million",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761QA:0-medinet-group-expects-hy-net-loss-attributable-of-hk-5-9-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:26:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:8161"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005356:0",
+      "title": "Quanta Services Initiated at Outperform by Wedbush",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005356:0-quanta-services-initiated-at-outperform-by-wedbush/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:26:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PWR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005354:0",
+      "title": "U.S. Ethanol Stocks, Production Rise on Week",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005354:0-u-s-ethanol-stocks-production-rise-on-week/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:26:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:726bbd54ff29b:0",
+      "title": "Wedbush assumes coverage of Globant at Outperform, sets price target at $49",
+      "url": "https://www.tradingview.com/news/tradingview:726bbd54ff29b:0-wedbush-assumes-coverage-of-globant-at-outperform-sets-price-target-at-49/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:25:27+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:GLOB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:d06d7d473094b:0",
+      "title": "Top and bottom quant-rated mid-cap consumer staples stocks after earnings",
+      "url": "https://seekingalpha.com/news/4676521-top-and-bottom-quant-rated-mid-cap-consumer-staples-stocks-after-earnings?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:25:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OTC:OCDDY",
+          "NYSE:COTY",
+          "OTC:ASAIY",
+          "NASDAQ:IPAR",
+          "NASDAQ:FRPT",
+          "OTC:RADLY",
+          "NASDAQ:SFM",
+          "NASDAQ:CALM",
+          "NASDAQ:MZTI",
+          "NASDAQ:PPC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760WM:0",
+      "title": "Nvidia faces questions from top Senate antitrust Democrat",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760WM:0-nvidia-faces-questions-from-top-senate-antitrust-democrat/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:25:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761Q8:0",
+      "title": "Oasis Home Holding Posts Q1 2027 Profit Attributable Of 4.4 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761Q8:0-oasis-home-holding-posts-q1-2027-profit-attributable-of-4-4-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:25:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:OHM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005350:0",
+      "title": "U.S. Crude Oil Stockpiles Rise for Third Straight Week",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005350:0-u-s-crude-oil-stockpiles-rise-for-third-straight-week/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:25:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:CL1!",
+          "NYMEX:RB1!",
+          "NYMEX:HO1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:712bf2017094b:0",
+      "title": "Temasek subsidiary sells Rs 930 crore worth of Medanta shares; Carlyle offloads over 7% stake in Piramal Pharma",
+      "url": "https://www.tradingview.com/news/moneycontrol:712bf2017094b:0-temasek-subsidiary-sells-rs-930-crore-worth-of-medanta-shares-carlyle-offloads-over-7-stake-in-piramal-pharma/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:24:48+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:MEDANTA",
+          "NSE:PPLPHARMA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761CQ:0",
+      "title": "Shenzhen Investment Says Unit To Contribute RMB50 Mln To RMB200 Mln Partnership Fund",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761CQ:0-shenzhen-investment-says-unit-to-contribute-rmb50-mln-to-rmb200-mln-partnership-fund/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:24:40+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:604"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:9c7f10a68fe81:0",
+      "title": "Wedbush assumes coverage of EPAM Systems at Outperform, sets price target at $181",
+      "url": "https://www.tradingview.com/news/tradingview:9c7f10a68fe81:0-wedbush-assumes-coverage-of-epam-systems-at-outperform-sets-price-target-at-181/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:24:28+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:EPAM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4034320:0",
+      "title": "TLSY: Strong sales and earnings growth met rising memory costs and future margin risks",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4034320:0-tlsy-strong-sales-and-earnings-growth-met-rising-memory-costs-and-future-margin-risks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:24:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TASE:TLSY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4760WT:0",
+      "title": "Catcha Digital Posts Q3 2026 Profit Attributable Of 6.9 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4760WT:0-catcha-digital-posts-q3-2026-profit-attributable-of-6-9-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:23:40+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:CATCHA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761Q1:0",
+      "title": "Careplus Group Posts Q1 Revenue Of 18.34 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761Q1:0-careplus-group-posts-q1-revenue-of-18-34-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:23:05+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:CAREPLS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:business_wire:72158165ec3bf:0",
+      "title": "AM Best Affirms Credit Ratings of Markel Group Inc. and Its Subsidiaries",
+      "url": "https://www.tradingview.com/news/business_wire:72158165ec3bf:0-am-best-affirms-credit-ratings-of-markel-group-inc-and-its-subsidiaries/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:23:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:MKL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:9c9cbfef0d0af:0",
+      "title": "Markel Group Inc. (MKL) Ratings Affirmed With Stable Outlook",
+      "url": "https://www.tradingview.com/news/tradingview:9c9cbfef0d0af:0-markel-group-inc-mkl-ratings-affirmed-with-stable-outlook/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:23:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:MKL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761NP:0",
+      "title": "Kumpulan Jetson Posts Q1 Loss Attributable Of 1.74 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761NP:0-kumpulan-jetson-posts-q1-loss-attributable-of-1-74-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:22:28+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:JETSON"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005333:0",
+      "title": "ExlService Initiated at Outperform by Wedbush",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005333:0-exlservice-initiated-at-outperform-by-wedbush/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:22:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:EXLS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761PY:0",
+      "title": "Orkim Posts Q3 Profit Attributable Of 18.9 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761PY:0-orkim-posts-q3-profit-attributable-of-18-9-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:21:56+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:ORKIM"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6996Ea:0",
       "title": "REG - Schroder Br.Opps.Tst - Block listing Interim Review",
@@ -107,6 +597,126 @@
         "urgency": 2,
         "symbols": [
           "LSE:LUCE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005332:0",
+      "title": "Canadian Technology Shares Retreat Alongside U.S. Peers — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005332:0-canadian-technology-shares-retreat-alongside-u-s-peers-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:21:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:TSX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stockstory:adf9395f2094b:0",
+      "title": "SK hynix stock trades down, here is why",
+      "url": "https://stockstory.org/us/stocks/nasdaq/skhy/news/why-up-down/sk-hynix-stock-trades-down-here-is-why",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stock Story",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:47+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:000660"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stockstory:186e7f76d094b:0",
+      "title": "Ciena, Nokia, Infleqtion, BigBear.ai, and Fabrinet shares plummet, what you need to know",
+      "url": "https://stockstory.org/us/stocks/nyse/cien/news/why-up-down/ciena-nokia-infleqtion-bigbearai-and-fabrinet-shares-plummet-what-you-need-to-know",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stock Story",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:41+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:CIEN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stockstory:96744dfff094b:0",
+      "title": "Innodata, Lumentum, Quantum Computing, and Xanadu Quantum Technologies stocks trade down, what you need to know",
+      "url": "https://stockstory.org/us/stocks/nasdaq/inod/news/why-up-down/innodata-lumentum-quantum-computing-and-xanadu-quantum-technologies-stocks-trade-down-what-you-need-to-know",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stock Story",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:39+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:LITE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stockstory:f848c034c094b:0",
+      "title": "Dell, Coherent, Arista Networks, IonQ, and Everpure stocks trade down, what you need to know",
+      "url": "https://stockstory.org/us/stocks/nyse/dell/news/why-up-down/dell-coherent-arista-networks-ionq-and-everpure-stocks-trade-down-what-you-need-to-know",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stock Story",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.660689+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:COHR"
         ]
       }
     },
@@ -2950,6 +3560,25 @@
           "NASDAQ:FIGR"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/billions-data-center-deals-grind-160100809.html?.tsrc=rss",
+      "title": "Billions in Data Center Deals Grind to Halt After AI Chip Curbs",
+      "url": "https://finance.yahoo.com/technology/ai/articles/billions-data-center-deals-grind-160100809.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Lenders have hit the brakes on billions of dollars in loans tied to Chinese firms ByteDance, Alibaba and Tencent, as new US curbs on chip access threaten to upend Asia’s burgeoning AI debt financing market.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.523912+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "finnhub:8808871",

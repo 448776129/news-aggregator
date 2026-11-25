@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T19:25:13.263013+08:00",
-  "count": 7,
+  "generated_at": "2026-11-26T00:28:15.902401+08:00",
+  "count": 8,
   "sources": [
     {
       "name": "alpaca",
@@ -53,6 +53,25 @@
       "published_date": "2026-10-14",
       "fetched_at": "2026-11-25T19:25:12.185958+08:00",
       "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:36930cbed2eeec87f2fddf7973f4e0fd44083a2d",
+      "title": "What Is the Stock Market & How Does It Work?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b070c9ddfb143f49ab82017afe75301&url=https%3a%2f%2fwww.fool.com%2finvesting%2fstock-market%2f&c=6634644505315273159&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stock markets enable the trade of stocks, connecting buyers with sellers, not directly with companies. Stock prices are determined by demand, bid being the maximum buyers pay, ask being the minimum ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-10-14T23:51:00+08:00",
+      "published_date": "2026-10-14",
+      "fetched_at": "2026-11-26T00:28:15.524758+08:00",
+      "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
       "extra": {}

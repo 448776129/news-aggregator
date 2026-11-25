@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:25:17.352353+08:00",
-  "count": 26,
+  "generated_at": "2026-11-26T00:28:16.227147+08:00",
+  "count": 28,
   "sources": [
     {
       "name": "cls",
@@ -15,17 +15,55 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 25,
+      "count": 22,
       "error": ""
     },
     {
       "name": "sina",
       "status": "ok",
-      "count": 1,
+      "count": 3,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvv1636704.shtml",
+      "title": "白宫经济顾问称当前通胀并未加速 美联储应重视供给侧因素",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvv1636704.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "白宫国家经济委员会主任哈塞特接受采访时表示，在美联储主席沃什推动重新评估央行经济模型之际，“人们会希望美联储开始考虑供给和需求之间的区别”。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:27:37+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.812568+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvz4064415.shtml",
+      "title": "AI安全倡导者对Anthropic渐生不满",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvz4064415.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "Anthropic 的品牌很大程度上建立在人工智能安全之上，一直将自己塑造为审慎稳重、与 OpenAI 形成对照的企业。但这家 Claude 开发公司近来正在失去部分安全倡导者的信任。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:26:22+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:28:13.812568+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261126002300519800",
       "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：英国前首相约翰逊是一个罕见的挑衅者，如果俄罗斯与北约爆发直接战争，他应因煽动罪在特拉法加广场被绞死。",
