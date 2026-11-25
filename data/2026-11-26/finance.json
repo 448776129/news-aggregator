@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T07:01:15.796168+08:00",
-  "count": 403,
+  "generated_at": "2026-11-26T07:04:20.063319+08:00",
+  "count": 404,
   "sources": [
     {
       "name": "cls",
@@ -21,7 +21,7 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 39,
+      "count": 40,
       "error": ""
     }
   ],
@@ -870,6 +870,25 @@
       "extra": {
         "important": 0
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/jjxw/2026-11-26/doc-inizyzmp9144581.shtml",
+      "title": "生猪价格现短期反弹",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-26/doc-inizyzmp9144581.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "证券日报",
+      "summary": "本报记者贺王娟 近期，国内猪价短期反弹。农业农村部最新数据显示，11月第三周全国生猪价格为每公斤9.95元，环比上涨1.4%，结束了10月份以来连续6周下降的走势。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:53:37+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:04:11.712003+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyzmr1516453.shtml",

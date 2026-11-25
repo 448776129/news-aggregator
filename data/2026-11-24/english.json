@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T07:01:15.529012+08:00",
-  "count": 3937,
+  "generated_at": "2026-11-26T07:04:19.781673+08:00",
+  "count": 3938,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 1,
       "error": ""
     },
     {
@@ -74636,6 +74636,25 @@
       "published_at": "2026-11-24T01:12:00+08:00",
       "published_date": "2026-11-24",
       "fetched_at": "2026-11-26T07:01:12.532896+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:4a49889aa66333f0d83d6b94c0b8d9a40c09bfc3",
+      "title": "Stock market jumps after Jensen Huang reinstated as Nvidia CEO",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07696b8a504993920e2b631906ddc3&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fstock-market-jumps-after-jensen-huang-reinstated-as-nvidia-ceo%2far-AA2i35iU&c=7003994447742714880&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The Nasdaq soared 6% after the opening bell, erasing all of its losses from Friday, when the index suffered its second-worst day of 2026.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-24T01:12:00+08:00",
+      "published_date": "2026-11-24",
+      "fetched_at": "2026-11-26T07:04:13.438814+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",

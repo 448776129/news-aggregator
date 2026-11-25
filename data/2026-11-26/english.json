@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T07:01:15.769797+08:00",
-  "count": 1483,
+  "generated_at": "2026-11-26T07:04:20.036666+08:00",
+  "count": 1484,
   "sources": [
     {
       "name": "alpaca",
@@ -207,6 +207,25 @@
           "ASX:TNC"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/articles/trump-heads-arizona-next-week-225636899.html?.tsrc=rss",
+      "title": "Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories",
+      "url": "https://finance.yahoo.com/technology/articles/trump-heads-arizona-next-week-225636899.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "WEST PALM BEACH, Florida (AP) — President Donald Trump, who has staked his economic policy on growth in the artificial intelligence sector, will travel to Arizona on Dec. 4 to speak at the groundbreaking for a new Taiwan Semiconductor Manufacturing Co.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:56:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:04:11.422021+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261125008189:0",
