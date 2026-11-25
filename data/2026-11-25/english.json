@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T18:46:16.476098+08:00",
-  "count": 2555,
+  "generated_at": "2026-11-25T18:49:24.454785+08:00",
+  "count": 2594,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 11,
+      "count": 5,
       "error": ""
     },
     {
@@ -38,6 +38,692 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6494Ea:0",
+      "title": "REG - Oddo BHF AIF PLC First Tin PLC - Form 8.3 \"FIRST TIN PLC\"",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6494Ea:0-reg-oddo-bhf-aif-plc-first-tin-plc-form-8-3-first-tin-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:48:14+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:1SN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002325:0",
+      "title": "Catcha Digital Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002325:0-catcha-digital-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:48:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:CATCHA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002327:0",
+      "title": "EPB Group Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002327:0-epb-group-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:48:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:EPB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:153d9dbc3584f:0",
+      "title": "Justice Department Announces Largest-Ever Crackdown On Scammers",
+      "url": "https://www.tradingview.com/news/dpa_afx:153d9dbc3584f:0-justice-department-announces-largest-ever-crackdown-on-scammers/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:48:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:e18b715dc7b46:0",
+      "title": "DAX Roughly Flat As Investors Await U.S. PCE Data",
+      "url": "https://www.tradingview.com/news/dpa_afx:e18b715dc7b46:0-dax-roughly-flat-as-investors-await-u-s-pce-data/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:47:41+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:DAX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3670809:0",
+      "title": "RTX: Revenue grew 15%, EBITDA more than doubled, and component supply remains the key risk",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3670809:0-rtx-revenue-grew-15-ebitda-more-than-doubled-and-component-supply-remains-the-key-risk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:47:22+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:RTX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4760V9:0",
+      "title": "India's Wipro and UK's BP sign partnership to take over some finance ops",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4760V9:0-india-s-wipro-and-uk-s-bp-sign-partnership-to-take-over-some-finance-ops/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:47:20+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:WIPRO",
+          "LSE:BP."
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002320:0",
+      "title": "Nvidia Shares Slide Premarket as Chip Restriction Concerns Weigh — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002320:0-nvidia-shares-slide-premarket-as-chip-restriction-concerns-weigh-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:47:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760FW:0",
+      "title": "Hong Kong's Kwoon Chung Bus Holdings interim profit rises on higher passenger demand",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760FW:0-hong-kong-s-kwoon-chung-bus-holdings-interim-profit-rises-on-higher-passenger-demand/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:46:46+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:306"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4760RY:0",
+      "title": "Private capital investment in emerging markets jumps 19% on China tech, infrastructure",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4760RY:0-private-capital-investment-in-emerging-markets-jumps-19-on-china-tech-infrastructure/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:46:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:cdecd5393094b:0",
+      "title": "Duluth Holdings Inc. to Report Third Quarter 2026 Financial Results on December 10, 2026",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410059/37060/en/duluth-holdings-inc-to-report-third-quarter-2026-financial-results-on-december-10-2026.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:45:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:DLTH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002311:0",
+      "title": "Norse Atlantic Shares Plunge as Airline Warns of Critical Financial Situation",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002311:0-norse-atlantic-shares-plunge-as-airline-warns-of-critical-financial-situation/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:45:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:NORSE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:9f6562bed094b:0",
+      "title": "Salazar Resources Shares El Domo Construction Photos; 25% Interest Remains Fully Carried to Commercial Production",
+      "url": "https://www.newsfilecorp.com/release/325749/Salazar-Resources-Shares-El-Domo-Construction-Photos-25-Interest-Remains-Fully-Carried-to-Commercial-Production",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:45:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:SRL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002282:0",
+      "title": "Careplus Group Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002282:0-careplus-group-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:44:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:CAREPLS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002279:0",
+      "title": "Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002279:0-copper-slumps-amid-ai-roller-coaster-but-physical-supply-remains-tight/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:44:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:HG1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002289:0",
+      "title": "U.K.'s Energy Price Cap Jumps 26%, Posing Fresh Inflationary Concerns",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002289:0-u-k-s-energy-price-cap-jumps-26-posing-fresh-inflationary-concerns/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:44:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:NG1!",
+          "TVC:UKOIL",
+          "NYMEX:CL1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6491Ea:0",
+      "title": "REG - Societe Generale SA DCC Energy PLC - Form 8.3 - DCC Energy plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6491Ea:0-reg-societe-generale-sa-dcc-energy-plc-form-8-3-dcc-energy-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:43:48+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:DCC"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/nvidia-scandal-reveals-cracks-us-104339315.html?.tsrc=rss",
+      "title": "Nvidia scandal reveals cracks in US corporate governance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-scandal-reveals-cracks-us-104339315.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "After criticism over its initial response to the Jenson Huang scandal, Nvidia's board seemed to click into gear, taking actions familiar in the US corporate governance playbook.That approach went out the door Monday when the board reversed itself and reinstated Huang, prompting widespread criticism of the company and calls for board resignations, exacerbating questions about the state of US corporate governance.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:43:39+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.141828+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002279_20261125002279:0",
+      "title": "Copper Increasingly Sensitive to Financial Market Swings Despite Tight Supplies, Analysts Say",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002279_20261125002279:0-copper-increasingly-sensitive-to-financial-market-swings-despite-tight-supplies-analysts-say/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:43:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002279_20261125002280:0",
+      "title": "LME Copper Prices at Lowest Since December 2025",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002279_20261125002280:0-lme-copper-prices-at-lowest-since-december-2025/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:43:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUABQ7XK4:0",
+      "title": "Vesicor Therapeutics Holdings Inc. Targets Start Of Clinical Trials In Late 2027 For Brain Cancer Drug",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUABQ7XK4:0-vesicor-therapeutics-holdings-inc-targets-start-of-clinical-trials-in-late-2027-for-brain-cancer-drug/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:42:11+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:VESI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:682806:0",
+      "title": "NewRiver Reit H1 2027 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:682806:0-newriver-reit-h1-2027-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:42:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:NRR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002273:0",
+      "title": "Kumpulan Jetson Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002273:0-kumpulan-jetson-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:42:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:JETSON"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:4daaf5c1a094b:0",
+      "title": "Rupee scales 8-month high after holiday as foreign flows to Indian equities persist",
+      "url": "https://www.tradingview.com/news/moneycontrol:4daaf5c1a094b:0-rupee-scales-8-month-high-after-holiday-as-foreign-flows-to-indian-equities-persist/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:41:21+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:927b77ce2094b:0",
+      "title": "Form 8.3 - Gresham House Energy Storage Fund Plc",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410058/0/en/form-8-3-gresham-house-energy-storage-fund-plc.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:41:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:RAT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:e905fdb4a094b:0",
+      "title": "Wipro to take over UK-based BP's finance operations, 3,000 employees to move under deal",
+      "url": "https://www.tradingview.com/news/cnbctv:e905fdb4a094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:40:54+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:WIPRO",
+          "LSE:BP."
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:8dcb426bd094b:0",
+      "title": "Norse Atlantic crashes 74% as funding uncertainty threatens airline’s survival",
+      "url": "https://seekingalpha.com/news/4676504-norse-atlantic-crashes-74-percent-as-funding-uncertainty-threatens-airline-s-survival?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:40:15+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OTC:NRSAF",
+          "NYSE:BA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002270:0",
+      "title": "Li Auto Stuck in Red Despite Sales Growth — Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002270:0-li-auto-stuck-in-red-despite-sales-growth-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:40:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:2015"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002269:0",
+      "title": "Magna Prima Bhd Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002269:0-magna-prima-bhd-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:40:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:MAGNA"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761CD:0",
       "title": "Moody's Says 2027 Outlook For EU, UK Credit Fundamentals Is Stable",
@@ -83,6 +769,30 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:TSLA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:c37daa924094b:0",
+      "title": "PhonePe revives IPO plans, targets ₹13,000-15,000 crore via OFS: Sources",
+      "url": "https://www.tradingview.com/news/cnbctv:c37daa924094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:38:39+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "PRIVATE:PHONEPE"
         ]
       }
     },
@@ -160,6 +870,28 @@
       }
     },
     {
+      "id": "tradingview:tag:reuters.com,2026:newsml_S8N45N06D:0",
+      "title": "Greece raises €500.0 million from six-month T-bills, yield rises",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N45N06D:0-greece-raises-500-0-million-from-six-month-t-bills-yield-rises/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:37:30+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
       "id": "tradingview:urn:summary_document_slides:quartr.com:4265171:0",
       "title": "VP.: Brandon’s turnaround and diverse-market momentum underpin the consensus-range outlook",
       "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4265171:0-vp-brandon-s-turnaround-and-diverse-market-momentum-underpin-the-consensus-range-outlook/",
@@ -180,6 +912,32 @@
         "urgency": 2,
         "symbols": [
           "LSE:VP."
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:0b6a09032094b:0",
+      "title": "Banks to lead next market rally as credit growth stays strong: AlfAccurate's Rajesh Kothari",
+      "url": "https://www.tradingview.com/news/cnbctv:0b6a09032094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:36:47+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TATASTEEL",
+          "NSE:APLAPOLLO",
+          "NSE:RELIANCE"
         ]
       }
     },
@@ -307,6 +1065,25 @@
       }
     },
     {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/realty-income-has-paid-677-consecutive-monthly-dividends-heres-why-id-buy-it-in-december/?.tsrc=rss",
+      "title": "Realty Income Has Paid 677 Consecutive Monthly Dividends. Here's Why I'd Buy It in December.",
+      "url": "https://www.fool.com/investing/2026/11/25/realty-income-has-paid-677-consecutive-monthly-dividends-heres-why-id-buy-it-in-december/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Realty Income offers generous, rising cash returns to income investors.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:35:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.141828+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N4760VC:0",
       "title": "BAIC BluePark New Energy Technology's Unit To Invest In Smart Vehicle Production Line Technical Upgrading Project",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4760VC:0-baic-bluepark-new-energy-technology-s-unit-to-invest-in-smart-vehicle-production-line-technical-upgrading-project/",
@@ -344,6 +1121,28 @@
       "published_at": "2026-11-25T18:34:07+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T18:37:12.292930+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_S8N3ZU0FF:0",
+      "title": "Slovakia picks Beretta rifles, submachine guns for police force",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N3ZU0FF:0-slovakia-picks-beretta-rifles-submachine-guns-for-police-force/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:34:05+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:21.229477+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -47565,6 +48364,44 @@
       "extra": {}
     },
     {
+      "id": "msn:ad70db9b62838990ead9e8d26bc6bb792453ace5",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to slump as investors await PCE inflation ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06bd31686e4d40bb98f043cd10cc0d&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia&c=9558319776707145456&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Wednesday here ahead of October's personal consumption expenditures price index.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:23.054947+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:203fb142a8e57a1b540b4724e46efabb70d27323",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06bd31e0e540a8ab895fca522d28bf&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:23.054947+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:69d0af11a288ba114dbf4c01f229aef05a9d4698",
       "title": "Stock Market Live Updates: Sensex sheds 800 pts from day’s high, Nifty holds 25,650 ...",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069d83c3a14cd8b29e8d5f1f91f20d&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026%2fliveblog%2f136145716.cms&c=2500710713444335276&mkt=en-us",
@@ -50814,6 +51651,25 @@
       "extra": {}
     },
     {
+      "id": "msn:dd0f85f79282116c56c54a26c56100ab6d999bb1",
+      "title": "Safestore (LSE:SAFE) Stock Looks Reasonable As Earnings Support Holds",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06bd31e0e540a8ab895fca522d28bf&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fsafestore-lse-safe-stock-looks-061247963.html&c=15124277717301942279&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Safestore Holdings has seen its share price slide in recent years, which naturally puts the spotlight on whether the current valuation lines up with the earnings investors are paying for. With the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T06:12:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:23.054947+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8806075",
       "title": "Saudi-led coalition issues evacuation warning for Yemen's Hodeidah port - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVG1zbDJSYngzOXYyX0pnWnBSUFB6Q0FYVzBkUzNtSVpRQm9ZZEY1S3VtMFJFWHVVbjFqQ29aeXhILVNwekVkX0Y1SUp1T3lUZXFCY2hOVWd1YWhVZVBVRFhoeWF2Y01jUkFGQTl0LWRsWUVNZU0xSGJsTE5hVjlOMm1KOVBOVlJtSGcwYm1zV3d2OE52VHJ1ZEFNeXdQRjhPTGhLMmRDNk14QVo4UHg1THdEQ2xMekJ2ZzJxXw?oc=5",
@@ -53941,6 +54797,25 @@
       "published_at": "2026-11-25T00:41:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T18:37:14.159465+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:27410826664246d82b3f7247d500012e2457bdea",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty trades more than 420 points; HUL jumps 5%",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06bd31686e4d40bb98f043cd10cc0d&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-ai-tariffs-it-nifty-bank-tata-steel-apl-apollo-zee-ril-adani-share-price-liveblog-20040632.htm&c=1104828012116773145&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The Nifty bulls enter the mid-week session starting a new F&O series on the back of mixed cues. They would have not liked the ferocity of the fall seen on Monday and the fact that both Nifty and the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:41:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:23.054947+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -57537,6 +58412,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T18:46:14.827425+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:08cc93bc18548cd9b9733f83f95244f43e019247",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06bd31686e4d40bb98f043cd10cc0d&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:49:23.054947+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
