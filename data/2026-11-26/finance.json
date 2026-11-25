@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:31:15.101168+08:00",
-  "count": 29,
+  "generated_at": "2026-11-26T00:34:16.333070+08:00",
+  "count": 30,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 4,
+      "count": 5,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvz4066885.shtml",
+      "title": "合并传闻持续发酵，特斯拉与SpaceX股价双双下挫",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvz4066885.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "受市场对两家企业潜在合并的抵触情绪加剧，叠加特斯拉全自动驾驶（FSD）软件的欧盟审批再度延期的双重影响，在周三股市行情中，特斯拉（TSLA）与...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:53+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:34:12.677060+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvw8413863.shtml",
       "title": "Nutanix股价暴跌18%，首席执行官宣布计划卸任",
