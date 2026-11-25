@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T04:52:17.432848+08:00",
-  "count": 980,
+  "generated_at": "2026-11-26T04:55:14.504348+08:00",
+  "count": 982,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,55 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261125006878:0",
+      "title": "ICE Canada Weekly Outlook: Conflicting Forces Keep Market Sideways",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006878:0-ice-canada-weekly-outlook-conflicting-forces-keep-market-sideways/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:54:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:55:10.093972+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ICEUS:RS1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006872:0",
+      "title": "Nymex Platinum, Palladium Warehouse Stocks - Nov 25",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006872:0-nymex-platinum-palladium-warehouse-stocks-nov-25/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:52:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:55:10.093972+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:PL1!",
+          "NYMEX:PA1!"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760XZ:0",
       "title": "Volatility-weary investors side swiped as tariff mayhem adds to tech pain",
