@@ -1,0 +1,61 @@
+{
+  "date": "2026-04-23",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-26T01:37:28.387738+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:0871dd1575be9127fc6116b9674a4e566574d80c",
+      "title": "These charts show how Iran's economy is in freefall",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b071cd41b1a4ad19e9f4d3ffd322917&url=https%3a%2f%2fwww.cnbc.com%2f2026%2f04%2f23%2firan-economy-war-charts-rial-oil-strait-hormuz-blockade.html&c=6709312345475392389&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The conflict in the Middle East is plunging an already fragile Iranian economy into freefall. The International Monetary Fund estimates that the Iranian economy will shrink by 6.1% in 2026. The regime ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-04-23T10:32:00+08:00",
+      "published_date": "2026-04-23",
+      "fetched_at": "2026-11-26T01:37:26.259351+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
