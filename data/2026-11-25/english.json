@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T12:13:16.774928+08:00",
-  "count": 420,
+  "generated_at": "2026-11-25T12:16:16.826127+08:00",
+  "count": 423,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47609Y:0",
+      "title": "Bajaj Finance accepts bids for bond reissue, bankers say",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47609Y:0-bajaj-finance-accepts-bids-for-bond-reissue-bankers-say/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:13:54+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:16:12.719291+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:BAJFINANCE"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261124009620:0",
       "title": "Bitcoin Weakens Further Beneath $60,000 — Market Talk",
@@ -2522,6 +2546,25 @@
       "published_at": "2026-11-25T11:01:26+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T11:13:31.925101+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/jensen-huang-reportedly-says-succession-030126613.html?.tsrc=rss",
+      "title": "Jensen Huang Reportedly Says Succession Plan Risks ‘Unnecessary Hierarchy’ At Nvidia — Crypto Bettors Wager on Another Exit",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-reportedly-says-succession-030126613.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "NVIDIA Corp. (NASDAQ:NVDA) CEO Jensen Huang addressed succession planning during his first employee meeting on Tuesday since being reinstated. Huang Warns of ‘Unnecessary Hierarchy’ During the meeting, Huang apologized for disappointing employees and acknowledged the effect of his actions, CNBC reported, citing people inside the room. Huang reportedly said Nvidia doesn’t need a traditional succession plan, as the company’s distinctive operating model places different parts of the business under",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:26+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:16:12.185437+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -9509,6 +9552,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T12:13:14.633544+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:f5af5443a0b8382aa87fceadb32fd1e21a54effb",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06610c7ceb495b94d241ece180ab6d&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:16:14.532189+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
