@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T02:55:20.653288+08:00",
-  "count": 739,
+  "generated_at": "2026-11-26T02:58:33.282945+08:00",
+  "count": 742,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 25,
+      "count": 27,
       "error": ""
     }
   ],
@@ -52,6 +52,25 @@
       "published_at": "2026-11-26T02:53:34+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T02:55:14.352264+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/jim-cramer-5-long-term-184914882.html?.tsrc=rss",
+      "title": "Jim Cramer’s 5 Long-Term Stock Picks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-5-long-term-184914882.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "A caller asked CNBC Mad Money’s Jim Cramer in November whether to buy a stock near $140 or wait. Cramer thought the difference between paying $130 and $150 would look small on a chart 10 or 15 years later. Warren Buffett made a similar point in his 1996 shareholder letter. He looked for businesses he […]",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:49:14+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:58:24.736337+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -104,6 +123,25 @@
           "MIL:STLAM"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/hop-otcid-hpnn-demonstrates-ai-184500066.html?.tsrc=rss",
+      "title": "Hop-on (OTCID: HPNN) Demonstrates AI Verification Infrastructure as Digitalage News Surpasses 300 Published Articles in Public Beta",
+      "url": "https://finance.yahoo.com/technology/ai/articles/hop-otcid-hpnn-demonstrates-ai-184500066.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Coverage of Nvidia's leadership reversal and the economic impact of artificial intelligence demonstrates Digitalage's approach to evidence-based reporting, with potential applications across the global media and enterprise information industries.TEMECULA, CA / ACCESS Newswire / November 25, 2026 / (OTCID:HPNN) today announced continued operational progress following the public beta launch of Digitalage News, as its subsidiary, Digitalage, Inc.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:45:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:58:24.736337+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261125006384:0",
@@ -1895,6 +1933,25 @@
           "JSE:NPN"
         ]
       }
+    },
+    {
+      "id": "yahoo:dea5522769f81c5889c145efcffe395e40b392de",
+      "title": "Satya Nadella Says “the Floor of Cyber Attacks Has Fallen.” Microsoft Just Declared Code Red After a 24-Hour Outage",
+      "url": "https://www.tikr.com/blog/satya-nadella-says-the-floor-of-cyber-attacks-has-fallen-microsoft-just-declared-code-red-after-a-24-hour-outage?ref=yahoofinance&tlnk=yf-261125-gxp284g5&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysMicrosoft declared a code red after a 24-hour outage hit Outlook, Teams and Copilot, and it wants to fix future global problems within an hour. Satya Nadella says AI has made cyberattacks easier and fixes must go live instantly, making reliability an ongoing cost.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:03:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:58:24.736337+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:moodys:a6db0657144d2:0",
