@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T22:49:22.357085+08:00",
-  "count": 4742,
+  "generated_at": "2026-11-25T22:52:16.950857+08:00",
+  "count": 4755,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 7,
       "error": ""
     },
     {
@@ -38,6 +38,151 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6945Ea:0",
+      "title": "REG - T.Rowe Price Assoc BAWAG Group AG - Form 8.3 - Bawag Group AG",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6945Ea:0-reg-t-rowe-price-assoc-bawag-group-ag-form-8-3-bawag-group-ag/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:51:29+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:52:12.375324+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "VIE:BG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:640e50dcaf4cd:0",
+      "title": "Deere Q4 Profit, Revenue Edge Lower",
+      "url": "https://www.tradingview.com/news/dpa_afx:640e50dcaf4cd:0-deere-q4-profit-revenue-edge-lower/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:51:26+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:52:12.375324+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6947Ea:0",
+      "title": "REG - T.Rowe Price Assoc Prologis, Inc. - Form 8.3 - Prologis Inc.",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6947Ea:0-reg-t-rowe-price-assoc-prologis-inc-form-8-3-prologis-inc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:51:16+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:52:12.375324+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PLD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004595:0",
+      "title": "AI Stocks Slide as Credit Concerns Prompt Fresh Selloff",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004595:0-ai-stocks-slide-as-credit-concerns-prompt-fresh-selloff/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:50:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:52:12.375324+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:IXIC",
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6943Ea:0",
+      "title": "REG - Northern Trust Corp SEGRO PLC Prologis, Inc. - Form 8.3-Prologis, Inc.",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6943Ea:0-reg-northern-trust-corp-segro-plc-prologis-inc-form-8-3-prologis-inc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:49:14+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:52:12.375324+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PLD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:20b8bfad7b8d4:0",
+      "title": "Nomination Committee appointed for the 2027 Annual General Meeting of Svenska Aerogel Holding AB (publ)",
+      "url": "https://www.tradingview.com/news/modular_finance:20b8bfad7b8d4:0-nomination-committee-appointed-for-the-2027-annual-general-meeting-of-svenska-aerogel-holding-ab-publ/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:52:12.375324+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:AERO"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761NQ:0",
       "title": "Axteria Group Reports Quarterly Profit Attributable 2.11 Mln RGT",
@@ -72474,6 +72619,25 @@
       }
     },
     {
+      "id": "msn:a287881e0f0f2c6113ba850a8236e4665b2c7e1d",
+      "title": "Stock Market Today: Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f61c0c0c425e9b0e71ebc939f6f6&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:40:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:52:14.416803+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261125000574_20261125000669:0",
       "title": "Remy Cointreau: Forward Plan Aims to Deliver EUR100M in Gross Gains for Current Oper Pft by FY29",
       "url": "https://www.tradingview.com/news/DJN_DN20261125000574_20261125000669:0-remy-cointreau-forward-plan-aims-to-deliver-eur100m-in-gross-gains-for-current-oper-pft-by-fy29/",
@@ -78915,6 +79079,25 @@
       "extra": {}
     },
     {
+      "id": "msn:d02823488977658fbe5e259f9230d51cf9769872",
+      "title": "Stock Market Today: Futures Plunge as AI Rout Resumes; Nvidia Leads Chip Stocks Lower ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f61c0c0c425e9b0e71ebc939f6f6&url=https%3a%2f%2fwww.investopedia.com%2fstock-market-today-dow-jones-s-and-p-500-nasdaq-11252026-12279355&c=14548726542868548574&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stocks are under pressure again Wednesday morning as the volatility that has gripped the AI trade in recent weeks intensifies.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:52:14.416803+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N476080:0",
       "title": "Palm oil falls on weaker soyoil, crude; Dalian gains limit losses",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N476080:0-palm-oil-falls-on-weaker-soyoil-crude-dalian-gains-limit-losses/",
@@ -84565,6 +84748,25 @@
       "extra": {}
     },
     {
+      "id": "msn:d35ec6461119a3def39ec44055b54144a6991043",
+      "title": "Ten undervalued energy stocks after Q3 earnings, led by Par Pacific",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f61c23fd47e6b9dfa7a09a3328e4&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4676519-ten-undervalued-energy-stocks-after-q3-earnings-led-by-par-pacific&c=2722455980253807025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Seeking Alpha's screen names 10 undervalued energy stocks, led by Par Pacific with an A+ valuation grade; four others earn A grades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:52:14.416803+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:stocktwits:79fb107c8094b:0",
       "title": "ANT Slips Further After Closing Below IPO Price: Retail Traders Wait For A Better Entry, But Cathie Wood Buys The Dip",
       "url": "https://stocktwits.com/news-articles/markets/equity/ant-slips-further-after-closing-below-ipo-price-retail-traders-wait-for-a-better-entry-but-cathie-wood-buys-the-dip/cNbHR3zR9lf",
@@ -89650,6 +89852,25 @@
       "extra": {}
     },
     {
+      "id": "msn:d11a1a875f4c8f0bebe22f2ff6cae8e38106d120",
+      "title": "Nvidia is crucial to the economy. An AI wipeout could unleash unexpected consequences",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f61cec3c426a826f6b932643ada4&url=https%3a%2f%2fwww.cnn.com%2f2026%2f11%2f25%2feconomy%2fstock-market-ai-gdp&c=11431870174890467752&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "In the two weeks without Jensen Huang at the helm of Nvidia, Wall Street turned its back on AI. A deep and prolonged stock market sell-off exposed risks to an economy that is increasingly reliant on ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:00:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:52:14.416803+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8806592",
       "title": "Oil prices fall as supply glut concerns offset Middle East disruption fears - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGl4Nzdfc01ReTB5TnAxUkVLTXlaRVFvbGM5aTZDOEtVUXlrVDQtMHJwcWh2WldoMnVyb0QxU1pEQUoyN09sNU1SZXR3NVUzdTZXeWpkdGNTZW95MUtmdjV3dWFxTEZsRW5WUlF1djVTTWZxUGVxcHhPNEptMnBEcmZ0MURhX0JxTDFqc19HblpWd2hLSEs5SXRYTXB6bzFwNzZqOUFTc1ZOM3ItVDFZWmM2a0R5YkxsdnlsMTZWQ1ZEUQ?oc=5",
@@ -94683,6 +94904,25 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T22:46:12.754057+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:f95d5937ab4a2dd019ad9613c2abeb4edf74ea56",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f61c23fd47e6b9dfa7a09a3328e4&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:52:14.416803+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -107052,6 +107292,25 @@
       "extra": {}
     },
     {
+      "id": "msn:107e79a1268bf5ed0261552577b5c1a739da2fc4",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f61c0c0c425e9b0e71ebc939f6f6&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:52:14.416803+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8805055",
       "title": "Congo mining forum announces $965 million in sector financing - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGdrZjdudnB3N1RtMDR5dXlRWm8zMnA0b1NXQ3JNWGFhQ3BMSWNPOWpBU1hVT2hMRkl2THlRc3JDY1BmYk5jTF85d2pxUGt2Z2ptTmhTZDFET28xWVd3MDJzZUMzN3Q5bDgzQnp0eDdSck1rLVdVV0M2bGF0ODRIWEp6Z18wcS15TzlBMl82RUd3Mjlrc2Q2SDdnSkZVMVE1dHdIMFkxSmtZZw?oc=5",
@@ -108177,6 +108436,25 @@
       "published_at": "2026-11-25T00:04:08+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T22:46:12.754057+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:796b51ddae5a88b011789e78fdb124a3eff483b8",
+      "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f61c23fd47e6b9dfa7a09a3328e4&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fjim-cramer-sizes-up-six-retail-stocks-after-earnings-and-names-his-two-favorites%2far-AA2i9onk&c=18106407342616312095&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here's where Jim Cramer stands on six retailers that rallied after reporting earnings Tuesday, and his two favorites.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:04:08+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:52:14.416803+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
