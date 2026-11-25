@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T20:28:12.741208+08:00",
-  "count": 3342,
+  "generated_at": "2026-11-25T20:32:14.130724+08:00",
+  "count": 3352,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 5,
       "error": ""
     },
     {
@@ -130,6 +130,30 @@
         "symbols": [
           "LSE:GAMA"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8808237",
+      "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "CNBC",
+      "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
+      "content": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:26:41+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:32:13.913203+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "CNBC",
+        "category": "top news",
+        "related": "",
+        "image": "https://image.cnbcfm.com/api/v1/image/108363966-17895850832026-09-16t184440z_1480461473_rc2iknalvbnr_rtrmadp_0_usa-fed.jpeg?v=1789585109&w=1920&h=1080"
       }
     },
     {
@@ -252,6 +276,25 @@
           "LSE:ROR"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/nvidia-loses-nearly-3-trillion-122447848.html?.tsrc=rss",
+      "title": "Nvidia Loses Nearly $3 Trillion as Governance Crisis Deepens",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-loses-nearly-3-trillion-122447848.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Jensen Huang's return fails to sustain a recovery as volatility remains elevated.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:24:47+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:31:12.970722+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:the_block:91eed3714094b:0",
@@ -1004,6 +1047,25 @@
       }
     },
     {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/microsoft-stock-2-ai-software-121419292.html?.tsrc=rss",
+      "title": "Microsoft Stock And 2 AI Software Leaders For Productivity Focused Investors",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-stock-2-ai-software-121419292.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "AI is pulling huge amounts of capital into chips, data centers and automation, yet bond yields near 5% and fresh Fed uncertainty are forcing investors to choose carefully instead of simply chasing the next Nvidia. That tension creates both openings and hazards for anyone focused on productivity and cost control. This article walks through three U.S. AI-driven productivity and automation stocks exposed to these headlines, and explains why each one may warrant a closer look. The stocks...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:14:19+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:31:12.970722+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:d069237d95399:0",
       "title": "Jones Trading initiates coverage of SAB Biotherapeutics at Buy, sets price target at $14",
       "url": "https://www.tradingview.com/news/tradingview:d069237d95399:0-jones-trading-initiates-coverage-of-sab-biotherapeutics-at-buy-sets-price-target-at-14/",
@@ -1048,6 +1110,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/articles/microsoft-declares-code-red-24-121215829.html?.tsrc=rss",
+      "title": "Microsoft Declares Code Red After 24-Hour Global Outage",
+      "url": "https://finance.yahoo.com/technology/articles/microsoft-declares-code-red-24-121215829.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The technology company targets worldwide service recovery within one hour following a major Microsoft 365 disruption.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:12:15+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:31:12.970722+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760EX:0",
@@ -1160,6 +1241,25 @@
       "published_at": "2026-11-25T20:11:30+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T20:22:12.418521+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-could-36-undervalued-121112133.html?.tsrc=rss",
+      "title": "Tesla (TSLA) Could Be 36% Undervalued Following SpaceX Merger Talks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-could-36-undervalued-121112133.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Tesla (TSLA) is back in the spotlight after reports that it is advancing a potential US$3.5 trillion all stock merger with SpaceX. The talks focus on deal structure, valuation and governance. Tesla’s share price has been choppy this year, with the stock down 12.19% on a year to date share price return basis despite an 11.24% 3 month share price gain and a 55.92% 3 year total shareholder return, which suggests long term momentum is still intact. Recent swings have been closely tied to autonomy...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:11:12+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:31:12.970722+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -55361,6 +55461,44 @@
       "extra": {}
     },
     {
+      "id": "msn:612fd1af9d9597cd0e7388c94932d9f1f8c822ea",
+      "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d511e571409683b6bad521b0868b&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:31:15.451735+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:719107fded38329dfcb9cc50b690c917aa4a8435",
+      "title": "Ten undervalued energy stocks after Q3 earnings, led by Par Pacific",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d51287b04a559738adf06db2c774&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4676519-ten-undervalued-energy-stocks-after-q3-earnings-led-by-par-pacific&c=2722455980253807025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Seeking Alpha's screen names 10 undervalued energy stocks, led by Par Pacific with an A+ valuation grade; four others earn A grades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:31:15.451735+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:stocktwits:79fb107c8094b:0",
       "title": "ANT Slips Further After Closing Below IPO Price: Retail Traders Wait For A Better Entry, But Cathie Wood Buys The Dip",
       "url": "https://stocktwits.com/news-articles/markets/equity/ant-slips-further-after-closing-below-ipo-price-retail-traders-wait-for-a-better-entry-but-cathie-wood-buys-the-dip/cNbHR3zR9lf",
@@ -59686,6 +59824,25 @@
       }
     },
     {
+      "id": "msn:229152af1440961494d54089a668ba6a1be3e701",
+      "title": "Nvidia is crucial to the economy. An AI wipeout could unleash unexpected consequences",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d511e90e493d9e8a5974bbcc5947&url=https%3a%2f%2fwww.cnn.com%2f2026%2f11%2f25%2feconomy%2fstock-market-ai-gdp&c=11431870174890467752&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "In the two weeks without Jensen Huang at the helm of Nvidia, Wall Street turned its back on AI. A deep and prolonged stock market sell-off exposed risks to an economy that is increasingly reliant on ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:00:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:31:15.451735+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8806592",
       "title": "Oil prices fall as supply glut concerns offset Middle East disruption fears - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGl4Nzdfc01ReTB5TnAxUkVLTXlaRVFvbGM5aTZDOEtVUXlrVDQtMHJwcWh2WldoMnVyb0QxU1pEQUoyN09sNU1SZXR3NVUzdTZXeWpkdGNTZW95MUtmdjV3dWFxTEZsRW5WUlF1djVTTWZxUGVxcHhPNEptMnBEcmZ0MURhX0JxTDFqc19HblpWd2hLSEs5SXRYTXB6bzFwNzZqOUFTc1ZOM3ItVDFZWmM2a0R5YkxsdnlsMTZWQ1ZEUQ?oc=5",
@@ -63883,6 +64040,25 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T20:28:10.784360+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:ac2f6bdf77b5e27fc36b65b7c566042741467c86",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d51287b04a559738adf06db2c774&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:31:15.451735+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -75106,6 +75282,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T20:28:10.784360+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:380a828735c77ab203d7bf030f16ae8a38bfcafe",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d511e571409683b6bad521b0868b&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:31:15.451735+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
