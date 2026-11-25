@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T06:34:21.943095+08:00",
-  "count": 389,
+  "generated_at": "2026-11-26T06:37:22.980876+08:00",
+  "count": 390,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 36,
+      "count": 37,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/7x24/2026-11-26/doc-inizzftq8187585.shtml",
+      "title": "爱奇艺：收到纳斯达克不合规通知，暂不停牌，180日内整改",
+      "url": "https://finance.sina.com.cn/7x24/2026-11-26/doc-inizzftq8187585.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "滚动播报",
+      "summary": "爱奇艺发文称，已收到纳斯达克的书面通知。该通知属于纳斯达克上市规则下的常规程序性沟通，仅为不合规通知，不会导致公司的美国存托票据（ADS）被立即退市或暂停交易。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:35:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:37:20.311041+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzftm9033916.shtml",
       "title": "安大略省教师退休金CEO：漫长的AI基础设施建设危及投资",
