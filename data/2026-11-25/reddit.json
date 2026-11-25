@@ -3,13 +3,13 @@
   "category": "reddit",
   "category_name": "Reddit 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T21:28:23.890670+08:00",
-  "count": 163,
+  "generated_at": "2026-11-25T21:31:14.099354+08:00",
+  "count": 165,
   "sources": [
     {
       "name": "reddit",
       "status": "ok",
-      "count": 43,
+      "count": 50,
       "error": ""
     }
   ],
@@ -33,6 +33,52 @@
       "category": "reddit",
       "extra": {
         "subreddit": "wallstreetbets",
+        "score": 1,
+        "num_comments": 0
+      }
+    },
+    {
+      "id": "reddit:1y57bgr",
+      "title": "Retest this morning still in high volatility environment",
+      "url": "https://www.reddit.com/r/stocks/comments/1y57bgr/retest_this_morning_still_in_high_volatility/",
+      "source": "reddit",
+      "source_name": "Reddit",
+      "author": "VolatilityAi",
+      "summary": "[removed]",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:26:51+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:31:13.072378+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "reddit",
+      "extra": {
+        "subreddit": "stocks",
+        "score": 1,
+        "num_comments": 0
+      }
+    },
+    {
+      "id": "reddit:1y57bc2",
+      "title": "How do you all feel about $SMR and $GEV",
+      "url": "https://www.reddit.com/r/stocks/comments/1y57bc2/how_do_you_all_feel_about_smr_and_gev/",
+      "source": "reddit",
+      "source_name": "Reddit",
+      "author": "Difficult-Map-3263",
+      "summary": "[removed]",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:26:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:31:13.072378+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "reddit",
+      "extra": {
+        "subreddit": "stocks",
         "score": 1,
         "num_comments": 0
       }
