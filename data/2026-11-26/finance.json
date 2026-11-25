@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T03:25:19.747767+08:00",
-  "count": 256,
+  "generated_at": "2026-11-26T03:31:16.203125+08:00",
+  "count": 257,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 16,
+      "count": 17,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyvcu8358058.shtml",
+      "title": "SpaceX 官宣赠股计划，马斯克个人等额匹配",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyvcu8358058.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "SpaceX 作出承诺，将向每一个当前处于激活状态的特朗普账户配发 1 股新发行的 A 类普通股。特朗普账户是享有税收优惠的投资账户，用于帮助美国儿童积累长期储蓄。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:28:37+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:31:13.488409+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyvcu8356613.shtml",
       "title": "欧洲股市续跌 关税担忧叠加科技股抛售",

@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T03:28:14.822102+08:00",
-  "count": 808,
+  "generated_at": "2026-11-26T03:31:16.185841+08:00",
+  "count": 819,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,269 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47611I:0",
+      "title": "Corn, soy basis rise at some Iowa grain facilities",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47611I:0-corn-soy-basis-rise-at-some-iowa-grain-facilities/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:30:32+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:31:12.204533+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4750S2:0",
+      "title": "How China got access to Nvidia's AI chips despite rules to stop them",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4750S2:0-how-china-got-access-to-nvidia-s-ai-chips-despite-rules-to-stop-them/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:31:12.204533+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA",
+          "NASDAQ:SMCI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762EK:0",
+      "title": "SpaceX Commits To Contribute One Newly Issued Share Of Its Class A Common Stock To Every Currently Active Trump Account",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762EK:0-spacex-commits-to-contribute-one-newly-issued-share-of-its-class-a-common-stock-to-every-currently-active-trump-account/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:29:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:31:12.204533+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SPCX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:b34ae65edc172:0",
+      "title": "Europe Shares Finish Under Water On Wednesday",
+      "url": "https://www.tradingview.com/news/dpa_afx:b34ae65edc172:0-europe-shares-finish-under-water-on-wednesday/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:29:33+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:31:12.204533+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:DAX",
+          "TVC:UKX",
+          "TVC:CAC40"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47611D:0",
+      "title": "Gold falls to more than one-year low after data shows US inflation rose further",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47611D:0-gold-falls-to-more-than-one-year-low-after-data-shows-us-inflation-rose-further/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:27:58+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:31:12.204533+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:GC1!",
+          "COMEX:SI1!",
+          "NYMEX:PL1!",
+          "NYMEX:PA1!",
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/p-puts-nvidia-creditwatch-over-192625970.html?.tsrc=rss",
+      "title": "S&P puts NVIDIA on CreditWatch over governance concerns",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-puts-nvidia-creditwatch-over-192625970.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Investing.com -- S&P Global Ratings placed NVIDIA on CreditWatch with negative implications Wednesday, citing concerns about the company's management and governance framework following recent news about its chief executive and potential export control violations.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:26:25+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:31:12.244434+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006547:0",
+      "title": "Gold Futures Settle Off Day's Lows as Yields, U.S. Dollar Slip — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006547:0-gold-futures-settle-off-day-s-lows-as-yields-u-s-dollar-slip-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:25:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:31:12.204533+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006548:0",
+      "title": "Lululemon Inventory Levels Look High Ahead of Black Friday — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006548:0-lululemon-inventory-levels-look-high-ahead-of-black-friday-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:25:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:31:12.204533+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:LULU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006552:0",
+      "title": "Tech-Led Slide Deepens as Confidence in AI Trade Weakens — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006552:0-tech-led-slide-deepens-as-confidence-in-ai-trade-weakens-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:25:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:31:12.204533+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006543:0",
+      "title": "Canada Imposes Tariff-Rate Quota on Imported Canned Vegetables",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006543:0-canada-imposes-tariff-rate-quota-on-imported-canned-vegetables/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:31:12.204533+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4761LC:0",
+      "title": "Pakistan's PIA to shift UK flights to own fleet after Norse Atlantic suspension",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4761LC:0-pakistan-s-pia-to-shift-uk-flights-to-own-fleet-after-norse-atlantic-suspension/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:22:22+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:31:12.204533+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:NORSE",
+          "NYSE:BA"
+        ]
+      }
+    },
     {
       "id": "tradingview:invezz:e70276a23094b:0",
       "title": "Top 4 reasons the S&P 500 Index and ETFs like VOO, SPY, IVV are set to rebound",
