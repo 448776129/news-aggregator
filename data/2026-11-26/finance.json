@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T01:25:14.565692+08:00",
-  "count": 103,
+  "generated_at": "2026-11-26T01:32:15.792877+08:00",
+  "count": 105,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 46,
+      "count": 47,
       "error": ""
     },
     {
@@ -26,6 +26,27 @@
     }
   ],
   "items": [
+    {
+      "id": "jin10:20261126012126689800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261126012126689800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:21:26+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:31:13.923682+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvv1659883.shtml",
       "title": "AI债券已跌到够便宜 DoubleLine的Cohen由看空转为买入",
@@ -44,6 +65,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261126011701673800",
+      "title": "U.S. stocks pared losses. The S&P 500 fell 1.45%, the Nasdaq 2.41% and the Dow 0",
+      "url": "https://www.jin10.com/#/flash/20261126011701673800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "U.S. stocks pared losses. The S&P 500 fell 1.45%, the Nasdaq 2.41% and the Dow 0.37%.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:17:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:31:13.923682+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261126011659499800",
