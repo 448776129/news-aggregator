@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T17:22:26.324965+08:00",
-  "count": 1997,
+  "generated_at": "2026-11-25T17:25:15.989953+08:00",
+  "count": 2016,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 3,
       "error": ""
     },
     {
@@ -38,6 +38,365 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6252Ea:0",
+      "title": "REG - Zenith Energy Ltd - Strong Profitability from Italian Gas Production",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6252Ea:0-reg-zenith-energy-ltd-strong-profitability-from-italian-gas-production/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:24:33+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:11.391441+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:ZEN",
+          "OSL:ZENA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001805:0",
+      "title": "Gabungan AQRS Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001805:0-gabungan-aqrs-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:24:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:11.391441+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:GBGAQRS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001802:0",
+      "title": "George Kent (Malaysia) Malaysia 2nd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001802:0-george-kent-malaysia-malaysia-2nd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:24:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:11.391441+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:GKENT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001806:0",
+      "title": "Inta Bina Group Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001806:0-inta-bina-group-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:24:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:11.391441+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:INTA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001803:0",
+      "title": "Optimax Holdings Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001803:0-optimax-holdings-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:24:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:11.391441+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:OPTIMAX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001804:0",
+      "title": "Perusahaan Sadur Timah Malaysia 2nd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001804:0-perusahaan-sadur-timah-malaysia-2nd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:24:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:11.391441+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:PERSTIM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6250Ea:0",
+      "title": "REG - Jardine Matheson Hdg - Director/PDMR Shareholding",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6250Ea:0-reg-jardine-matheson-hdg-director-pdmr-shareholding/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:23:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:11.391441+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SGX:J36"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001789:0",
+      "title": "Australia's Inflation Keeps RBA on Alert While Case for Hold Remains Intact — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001789:0-australia-s-inflation-keeps-rba-on-alert-while-case-for-hold-remains-intact-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:23:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:11.391441+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001778:0",
+      "title": "ECM Libra Group Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001778:0-ecm-libra-group-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:22:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:11.391441+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:ECM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001783:0",
+      "title": "Encorp Bhd Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001783:0-encorp-bhd-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:22:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:11.391441+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:ENCORP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001779_20261125001781:0",
+      "title": "WCT Holdings 3Q Loss MYR85.7M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001779_20261125001781:0-wct-holdings-3q-loss-myr85-7m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:22:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:11.391441+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:WCT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001779_20261125001779:0",
+      "title": "WCT Holdings 3Q Loss/Shr MYR0.0550",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001779_20261125001779:0-wct-holdings-3q-loss-shr-myr0-0550/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:22:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:11.391441+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:WCT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001779_20261125001780:0",
+      "title": "WCT Holdings 3Q Rev MYR427M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001779_20261125001780:0-wct-holdings-3q-rev-myr427m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:22:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:11.391441+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:WCT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001779:0",
+      "title": "WCT Holdings Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001779:0-wct-holdings-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:22:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:11.391441+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:WCT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_S8N44O043:0",
+      "title": "Russia's Siluanov says country to revise down Q4 borrowing plan, Ifax reports",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N44O043:0-russia-s-siluanov-says-country-to-revise-down-q4-borrowing-plan-ifax-reports/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:20:54+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:11.391441+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:dpa_afx:338ab028122f9:0",
       "title": "German Economy Expands Less Than Estimate",
@@ -130,6 +489,30 @@
         "symbols": [
           "NASDAQ:NVDA",
           "NASDAQ:GOOG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:ee778c6a1094b:0",
+      "title": "Form 8.5 (EPT/RI)-Advanced Medical Solutions Group Plc",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410034/0/en/form-8-5-ept-ri-advanced-medical-solutions-group-plc.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:19:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:11.391441+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:INVP"
         ]
       }
     },
@@ -36485,6 +36868,25 @@
       "extra": {}
     },
     {
+      "id": "msn:ca17b941c2a3c388380d10804dca810858bf1978",
+      "title": "Visible Alpha Breakdown Of U.S. Airlines' Q4 2026 Earnings Expectations",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a977780a425eb97b07e3aea9997c&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4971756-visible-alpha-breakdown-of-us-airlines-q4-2026-earnings-expectations&c=318486121220102849&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Visible Alpha consensus shows US airlines are heading into Q4 2026 with strong top-line growth expectations, supported by continued capacity expansion, higher passenger traffic, and robust revenue per ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:15:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:13.331099+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:55c0b0df1d99a2e5c9dd3ef98c85c40ca1e04f2d",
       "title": "Stock Market Live Updates: Rupee pares all FY27 losses, hits 8-month high of 92.29/USD ...",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069ab66462485b8bbf1c040921be94&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026%2fliveblog%2f136145716.cms&c=2500710713444335276&mkt=en-us",
@@ -41969,6 +42371,25 @@
       "extra": {}
     },
     {
+      "id": "msn:3a659fe92d9604f5fbaa9ff9c8d884ed532b1c6b",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty attempts to hold above 25,700; Brent climbs ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a9776e974256bf083d899209f06a&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-ai-tariffs-it-nifty-bank-tata-steel-apl-apollo-zee-ril-adani-share-price-liveblog-20040632.htm&c=1104828012116773145&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The Nifty bulls enter the mid-week session starting a new F&O series on the back of mixed cues. They would have not liked the ferocity of the fall seen on Monday and the fact that both Nifty and the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:41:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:13.331099+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8805359",
       "title": "US farm secretary pledges to fight court order halting her religious emails - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2lqUENSMVI4YnVLV3ROcmZhNEE0M1Rvcm41d21paGoyVEFmTlVYUFY4aXFCOTdYU1Z0Yi01eXNWeXh4X3NybTM1SUVSdjZXbDM2VERKY1JpWXRMdTJuUGp1cXVDSEdVazJBOEtEZ2tCTUhOdDBuNkEyMllTbG9ISThNS3dnNTFQUl9US3lZUmg1QzVRQVYtOVJkb0VOd2x2RkhuX1l2ZlBZRGNLY2tZaF9iWGtITWlu?oc=5",
@@ -44932,6 +45353,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T17:22:24.340654+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:3fb96741a8aea8501972116fe28702eeefafda93",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a9776e974256bf083d899209f06a&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:25:13.331099+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",

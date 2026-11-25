@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T16:28:14.560132+08:00",
-  "count": 93,
+  "generated_at": "2026-11-25T17:25:15.903184+08:00",
+  "count": 94,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -1124,6 +1124,25 @@
       "published_at": "2026-11-20T11:40:00+08:00",
       "published_date": "2026-11-20",
       "fetched_at": "2026-11-25T16:28:13.810585+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:2820065967372be8b3536e45de75eefc528c964f",
+      "title": "Walmart’s third-quarter earnings exceeded expectations as e-commerce sales dominated",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a977780a425eb97b07e3aea9997c&url=https%3a%2f%2fwww.nj.com%2fnews%2f2026%2f11%2fwalmarts-third-quarter-earnings-exceeded-expectations-as-e-commerce-sales-dominated.html&c=16041449380811483491&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The retailer’s Q3 earnings report exceeded expectations Walmart posted revenue of $188.8 billion, just above the $187.2 billion expected. The strong third-quarter results for Walmart come as ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-20T11:40:00+08:00",
+      "published_date": "2026-11-20",
+      "fetched_at": "2026-11-25T17:25:13.331099+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
