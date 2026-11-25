@@ -162,7 +162,7 @@ for item in result["items"]:
 | 手动验证 | `GET https://news-cron-trigger.<workers-subdomain>.workers.dev/run`（返回 204 表示已受理） |
 | Worker 密钥 | `DISPATCH_TOKEN`（GitHub PAT，`Actions: write` + `Contents: write`） |
 
-GitHub 侧的 `schedule` 仍保留作为兜底，两边同时触发也不会产生重复数据（按 `id` 去重），并发 push 冲突已由重试 + rebase 兜住。
+GitHub 侧的 `schedule` 仍保留作为兜底，两边同时触发也不会产生重复数据（按 `id` 去重），并发 push 冲突由“重置到远端 + 按 id 重新合并”（`scripts/merge_data_files.py`）兜住。
 
 采集本身按 `id` 去重、按 `published_date` 归档，重复触发不会产生重复数据。
 

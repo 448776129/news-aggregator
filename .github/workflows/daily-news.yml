@@ -63,15 +63,25 @@ jobs:
             exit 0
           fi
           git commit -m "chore: 更新新闻归档 $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          # 并发触发时远端可能已被别的 run 推进，push 失败则 rebase 后重试。
-          # 归档按 id 去重，rebase 合并不会产生重复数据。
+          # 并发触发时远端可能已被别的 run 推进。两个 run 改的是同一批 JSON，
+          # rebase 必然冲突，因此失败后重置到远端最新，再用脚本按 id 把自己的
+          # 数据合并回来（幂等，不会产生重复条目）。
           for i in 1 2 3 4 5; do
             if git push; then
               echo "推送成功（第 $i 次尝试）"
               exit 0
             fi
-            echo "推送失败，第 $i 次重试：先 rebase 到最新 main"
-            git pull --rebase --autostash origin main || true
+            echo "推送被拒（第 $i 次）：改为按 id 合并远端最新数据"
+            rm -rf /tmp/mine && cp -r data /tmp/mine
+            git fetch origin main
+            git reset --hard origin/main
+            python scripts/merge_data_files.py /tmp/mine data
+            git add data/
+            if git diff --cached --quiet; then
+              echo "合并后与远端一致，无需提交"
+              exit 0
+            fi
+            git commit -m "chore: 更新新闻归档 $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             sleep 3
           done
           echo "多次推送失败，放弃本轮提交"
