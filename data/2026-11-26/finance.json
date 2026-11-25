@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T07:04:20.063319+08:00",
-  "count": 404,
+  "generated_at": "2026-11-26T07:10:16.422148+08:00",
+  "count": 405,
   "sources": [
     {
       "name": "cls",
@@ -21,7 +21,7 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 40,
+      "count": 41,
       "error": ""
     }
   ],
@@ -4652,6 +4652,25 @@
       "extra": {
         "important": 0
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/relnews/cn/2026-11-26/doc-inizyvcx3984144.shtml",
+      "title": "氢氧化锂期货期权上市 锂产业再添风险管理工具",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-26/doc-inizyvcx3984144.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "上海证券报",
+      "summary": "◎记者周亮 11月26日、27日，广州期货交易所（以下简称“广期所”）氢氧化锂期货和期权将相继挂牌上市。氢氧化锂期货将成为广期所挂牌交易的第六个品种，这意味着磷酸铁锂...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:13:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:10:13.476626+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "jin10:20261126020918981800",
