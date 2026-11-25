@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T02:25:14.817914+08:00",
-  "count": 692,
+  "generated_at": "2026-11-26T02:28:15.010858+08:00",
+  "count": 694,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 22,
+      "count": 24,
       "error": ""
     }
   ],
@@ -85,6 +85,25 @@
           "NYSE:JPM"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/25/lee-ainslies-maverick-capital-held-844-million-in-nvidia-its-largest-position-at-6-8-of-its-stocks/?.tsrc=rss",
+      "title": "Lee Ainslie’s Maverick Capital Held $844 Million in Nvidia, Its Largest Position at 6.8% of Its Stocks",
+      "url": "https://247wallst.com/investing/2026/11/25/lee-ainslies-maverick-capital-held-844-million-in-nvidia-its-largest-position-at-6-8-of-its-stocks/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "A star hedge fund manager bought more of the AI market's biggest name, yet he still refused to let it dominate his portfolio. The reason matters more than the trade, especially as leadership turmoil rattles the stock.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:23:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:28:10.334296+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:69635babda2ab:0",
@@ -256,6 +275,25 @@
           "HKEX:1999"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/amdocs-dox-stock-4-6-181513799.html?.tsrc=rss",
+      "title": "Amdocs (DOX) Stock Is Up 4.6% Today Without Company News",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amdocs-dox-stock-4-6-181513799.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Amdocs shares rose 4.6% on Wednesday, Nov. 25, without company-specific news, while the S&P 500 and software stocks fell.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:15:13+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:28:10.334296+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:moodys:4d326adc0bb0b:0",
