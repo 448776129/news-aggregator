@@ -3,8 +3,8 @@
   "category": "community",
   "category_name": "社区新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T11:43:15.524265+08:00",
-  "count": 109,
+  "generated_at": "2026-11-25T11:46:15.204390+08:00",
+  "count": 111,
   "sources": [
     {
       "name": "reddit",
@@ -26,6 +26,54 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670131949",
+      "title": "$AAPL gap down open at 3333",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "Shaodong",
+      "summary": "$AAPL gap down open at 3333",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:44:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:46:11.669403+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "community",
+      "extra": {
+        "sentiment": "Bearish",
+        "symbols": [
+          "AAPL"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670131897",
+      "title": "$TSLA Elon must be losing a fortune on each one 👏🤡",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "trumpdisasterprez",
+      "summary": "$TSLA Elon must be losing a fortune on each one 👏🤡",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:43:12+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:46:11.669403+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "community",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "TSLA"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670131884",
       "title": "$SPCX $TSLA spacex better buy Tesla with its stock currency before it tanks making the deal more expensive",
