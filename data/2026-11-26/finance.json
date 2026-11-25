@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T07:10:16.422148+08:00",
-  "count": 405,
+  "generated_at": "2026-11-26T07:13:18.796852+08:00",
+  "count": 414,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,156 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 41,
+      "count": 44,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzftp1433218.shtml",
+      "title": "英伟达因治理问题面临标普下调评级风险",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzftp1433218.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "标普全球评级（S&P Global Ratings）正考虑将英伟达公司的信用评级下调一个级别，原因是首席执行官黄仁勋离职后又回归，引发了市场对公司管理层及公司治理的担忧。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:10:30+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:13:13.019080+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261126070551656800",
+      "title": "Madagascar’s National Assembly said on the 25th that Marco Tsaradia was elected ",
+      "url": "https://www.jin10.com/#/flash/20261126070551656800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Madagascar’s National Assembly said on the 25th that Marco Tsaradia was elected its new speaker.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:05:51+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:13:12.670912+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126070548900800",
+      "title": "马达加斯加国民议会25日发布消息称，马尔科·查拉迪亚当选新一任国民议会议长。",
+      "url": "https://www.jin10.com/#/flash/20261126070548900800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "新华社",
+      "summary": "马达加斯加国民议会25日发布消息称，马尔科·查拉迪亚当选新一任国民议会议长。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:05:48+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:13:12.670912+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126070153541800",
+      "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少21.05吨，当前持仓量为15643.82吨。欢迎点击查看数据中心……",
+      "url": "https://www.jin10.com/#/flash/20261126070153541800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "全球最大白银ETF--iShares Silver Trust持仓较上日减少21.05吨，当前持仓量为15643.82吨。欢迎点击查看数据中心……",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:01:53+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:13:12.670912+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261126070121157800",
+      "title": "New York gold futures rose to $3,600/oz.",
+      "url": "https://www.jin10.com/#/flash/20261126070121157800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "New York gold futures rose to $3,600/oz.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:01:21+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:13:12.670912+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126070119483800",
+      "title": "纽约期金向上触及3600美元/盎司。",
+      "url": "https://www.jin10.com/#/flash/20261126070119483800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "纽约期金向上触及3600美元/盎司。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:01:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:13:12.670912+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126070053965800",
+      "title": "The UK Maritime Trade Operations agency received a report of a maritime incident",
+      "url": "https://www.jin10.com/#/flash/20261126070053965800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "The UK Maritime Trade Operations agency received a report of a maritime incident about 50 nautical miles west of Dubai, UAE. A tanker master reported an explosion caused by an unidentified projectile near the vessel. All crew are safe and accounted for; no damage or environmental impact was reported.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:00:53+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:13:12.670912+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "jin10:20261126070051261800",
       "title": "英国海上贸易行动办公室：接获一起海上事件报告，事发地点位于阿联酋迪拜以西约50海里处。一艘油轮船长报告称，油轮附近发生由不明发射物引发的爆炸。船员安全且全员清点",
@@ -8448,6 +8593,44 @@
       "extra": {
         "important": 1
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/jjxw/2026-11-26/doc-inizzftm9048584.shtml",
+      "title": "中国经济将保持稳健增长 出口韧性有望延续",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-26/doc-inizzftm9048584.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "中国证券报-中证网",
+      "summary": "日前，高盛发布2027年中国经济及股票市场展望。高盛预计，2027年中国经济将保持稳健增长，出口韧性有望延续。在资本市场方面，高盛将港股在亚太市场配置中的评级由中性上调...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:13:13.019080+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/jjxw/2026-11-26/doc-inizzftt3828610.shtml",
+      "title": "铝价下行侵蚀电解铝利润 加工企业“锁价”避险",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-26/doc-inizzftt3828610.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "中国证券报-中证网",
+      "summary": "● 本报记者 董添 受美元加息预期及海外流动性收紧影响，国际铝价近期出现明显下跌。Wind数据显示，截至11月25日19时，11月以来，LME铝累计跌幅已超过10%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:13:13.019080+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     }
   ]
 }
