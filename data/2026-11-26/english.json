@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:10:23.498763+08:00",
-  "count": 41,
+  "generated_at": "2026-11-26T00:16:28.654336+08:00",
+  "count": 89,
   "sources": [
     {
       "name": "alpaca",
@@ -27,17 +27,1102 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 22,
+      "count": 50,
       "error": ""
     },
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_APNBJ2GTB:0",
+      "title": "POLONIA Rate rises 0.04 pp.",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_APNBJ2GTB:0-polonia-rate-rises-0-04-pp/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:15:52+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4822209:0",
+      "title": "PHOE: Asset management growth led results as Q3 investment volatility reduced comprehensive income",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4822209:0-phoe-asset-management-growth-led-results-as-q3-investment-volatility-reduced-comprehensive-income/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:15:27+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TASE:PHOE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4822206:0",
+      "title": "GASS: Zero debt and record liquidity underpin a proposed four-vessel, $255 million fleet renewal",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4822206:0-gass-zero-debt-and-record-liquidity-underpin-a-proposed-four-vessel-255-million-fleet-renewal/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:15:16+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:GASS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_AQN2MV676:0",
+      "title": "Table-Non-competitive bids for U.S. 17-week bills",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_AQN2MV676:0-table-non-competitive-bids-for-u-s-17-week-bills/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:15:15+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_AQN2MV678:0",
+      "title": "Table-Non-competitive bids for U.S. 7-year notes",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_AQN2MV678:0-table-non-competitive-bids-for-u-s-7-year-notes/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:15:14+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4822203:0",
+      "title": "Hannover Rück: Targets at least 18% RoE in 2027–2029, with diversified earnings growth and resilient capital",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4822203:0-hannover-r-ck-targets-at-least-18-roe-in-2027-2029-with-diversified-earnings-growth-and-resilient-capital/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:15:10+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:HNR1"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0e33cc3eb26c2:0",
+      "title": "Immunovia AB (publ) (IMMNOV) Raises SEK 50.0M in 43.4%-Subscribed Rights Issue",
+      "url": "https://www.tradingview.com/news/tradingview:0e33cc3eb26c2:0-immunovia-ab-publ-immnov-raises-sek-50-0m-in-43-4-subscribed-rights-issue/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:IMMNOV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:a6b1c5ea2b2a5:0",
+      "title": "Immunovia announces final outcome in rights issue",
+      "url": "https://www.tradingview.com/news/modular_finance:a6b1c5ea2b2a5:0-immunovia-announces-final-outcome-in-rights-issue/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:IMMNOV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6989Ea:0",
+      "title": "REG - Close Bros Grp PLC - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6989Ea:0-reg-close-bros-grp-plc-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:CBG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005285_20261125005285:0",
+      "title": "Statoil: Equinor updates 2026 production guidance following temporary shut-ins",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005285_20261125005285:0-statoil-equinor-updates-2026-production-guidance-following-temporary-shut-ins/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:EQNR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762E7:0",
+      "title": "Sanok Rubber Company Invites Shareholders To Submit Offers To Buy Back Up To 1,141,400 Shares At 20.00 Zlotys Per Share",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762E7:0-sanok-rubber-company-invites-shareholders-to-submit-offers-to-buy-back-up-to-1-141-400-shares-at-20-00-zlotys-per-share/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:13:13+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:SNK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:acbbecf3fe4cb:0",
+      "title": "Wedbush assumes coverage of Willdan Group at Outperform, sets price target at $83",
+      "url": "https://www.tradingview.com/news/tradingview:acbbecf3fe4cb:0-wedbush-assumes-coverage-of-willdan-group-at-outperform-sets-price-target-at-83/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:12:22+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:WLDN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760OY:0",
+      "title": "US third-quarter economic growth revised sharply higher; inflation broadening out",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760OY:0-us-third-quarter-economic-growth-revised-sharply-higher-inflation-broadening-out/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:12:15+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005244_20261125005267:0",
+      "title": "Assets Held by LIG Will Be Completely Severed From PJSC LUKOIL Ownership Upon Closing",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005244_20261125005267:0-assets-held-by-lig-will-be-completely-severed-from-pjsc-lukoil-ownership-upon-closing/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:12:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "RUS:LKOH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005244_20261125005264:0",
+      "title": "Consortium Will Exchange Restricted Russian Shrs of PJSC LUKOIL and Other Russian Cos for 100% of LIG's Equity",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005244_20261125005264:0-consortium-will-exchange-restricted-russian-shrs-of-pjsc-lukoil-and-other-russian-cos-for-100-of-lig-s-equity/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:12:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "RUS:LKOH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005244_20261125005265:0",
+      "title": "DFC, on Behalf of U.S., Will Receive Ownership Interest With No Upfront Cost to American Taxpayer",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005244_20261125005265:0-dfc-on-behalf-of-u-s-will-receive-ownership-interest-with-no-upfront-cost-to-american-taxpayer/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:12:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "RUS:LKOH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005244_20261125005263:0",
+      "title": "LUKOIL International's Global Energy Portfolio Will Be Acquired Via a Share Swap",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005244_20261125005263:0-lukoil-international-s-global-energy-portfolio-will-be-acquired-via-a-share-swap/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:12:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "RUS:LKOH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005244_20261125005266:0",
+      "title": "Sale Consideration Will Be Held in a Restricted Custodial Account for 5 Years or Until Sanctions Are Lifted",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005244_20261125005266:0-sale-consideration-will-be-held-in-a-restricted-custodial-account-for-5-years-or-until-sanctions-are-lifted/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:12:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "RUS:LKOH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760UJ:0",
+      "title": "Wall Street's tech wreck may be bargain hunters' paradise, HSBC says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760UJ:0-wall-street-s-tech-wreck-may-be-bargain-hunters-paradise-hsbc-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:11:33+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:HSBA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:a4104653748a7:0",
+      "title": "Rupee-led imports surge five-fold to ₹2.73 lakh crore in the H1FY27",
+      "url": "https://www.tradingview.com/news/moodys:a4104653748a7:0-rupee-led-imports-surge-five-fold-to-2-73-lakh-crore-in-the-h1fy27/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:11:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:39f36d11b094b:0",
+      "title": "Bayer licenses cancer drug from Hansoh in a deal worth up to $3.25B",
+      "url": "https://seekingalpha.com/news/4676630-bayer-licenses-cancer-drug-hansoh?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:11:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OTC:BAYRY",
+          "OTC:HNSPF",
+          "OTC:BAYZF",
+          "XETR:BAYN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762E6:0",
+      "title": "Sonic Lighting Files To Withdraw IPO Plans",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762E6:0-sonic-lighting-files-to-withdraw-ipo-plans/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:11:17+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:c2ba0210a04aa:0",
+      "title": "MGM Resorts To Receive About $200 Mln From MGM China",
+      "url": "https://www.tradingview.com/news/dpa_afx:c2ba0210a04aa:0-mgm-resorts-to-receive-about-200-mln-from-mgm-china/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:10:58+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:MGM",
+          "HKEX:2282"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:7c3cdf201094b:0",
+      "title": "Market Pulse: Key triggers to watch before the November 26 trading session",
+      "url": "https://www.tradingview.com/news/cnbctv:7c3cdf201094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:10:51+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:IXIC",
+          "SP:SPX",
+          "TVC:DJI",
+          "TVC:UKOIL",
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stockstory:5ddc41e27094b:0",
+      "title": "Kanzhun shares skyrocket, what you need to know",
+      "url": "https://stockstory.org/us/stocks/nasdaq/bz/news/why-up-down/kanzhun-shares-skyrocket-what-you-need-to-know",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stock Story",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:10:35+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:BZ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:f9251cf674174:0",
+      "title": "ZIM EVP, Countries and BD Sold Shares Worth Over $2M",
+      "url": "https://www.tradingview.com/news/tradingview:f9251cf674174:0-zim-evp-countries-and-bd-sold-shares-worth-over-2m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:10:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:ZIM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005259:0",
+      "title": "Paymentus Holdings Coverage Assumed by Wedbush at Outperform",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005259:0-paymentus-holdings-coverage-assumed-by-wedbush-at-outperform/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:10:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PAY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005244_20261125005252:0",
+      "title": "Portfolio Includes 3 Refineries Which Have Combined Refining Capacity of About 350,000 Barrels Per Day",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005244_20261125005252:0-portfolio-includes-3-refineries-which-have-combined-refining-capacity-of-about-350-000-barrels-per-day/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:10:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "RUS:LKOH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005261:0",
+      "title": "U.S. Crude Oil Stockpiles Rise for Third Straight Week",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005261:0-u-s-crude-oil-stockpiles-rise-for-third-straight-week/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:10:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:CL1!",
+          "NYMEX:RB1!",
+          "NYMEX:HO1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:77fb0d811094b:0",
+      "title": "Officials tell Congressional staffers no evidence China played role in Huang's affair: report",
+      "url": "https://seekingalpha.com/news/4676626-officials-tell-congressional-staffers-no-evidence-china-played-role-in-huangs-affair-report?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:09:55+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:1656401641487:0",
+      "title": "Wedbush initiates coverage of ExlService Hldgs at Outperform, sets price target at $50",
+      "url": "https://www.tradingview.com/news/tradingview:1656401641487:0-wedbush-initiates-coverage-of-exlservice-hldgs-at-outperform-sets-price-target-at-50/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:09:48+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:EXLS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:6c76bd706065b:0",
+      "title": "Namibia’s central bank gives conditional nod to Celsius’ $15mn Opuwo cobalt sale to Chinalco",
+      "url": "https://www.tradingview.com/news/moodys:6c76bd706065b:0-namibia-s-central-bank-gives-conditional-nod-to-celsius-15mn-opuwo-cobalt-sale-to-chinalco/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "bne Intellinews",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:09:23+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:CLA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6990Ea:0",
+      "title": "REG - Gamma Communications HSBC Holdings PLC - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6990Ea:0-reg-gamma-communications-hsbc-holdings-plc-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:09:22+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:GAMA",
+          "LSE:HSBA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:cb98ac850845d:0",
+      "title": "Qatar faces a buyers' market as half its LNG contract book expires by 2036",
+      "url": "https://www.tradingview.com/news/moodys:cb98ac850845d:0-qatar-faces-a-buyers-market-as-half-its-lng-contract-book-expires-by-2036/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "bne Intellinews",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:09:09+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005244_20261125005250:0",
+      "title": "Acquisition Would Transfer LUKOIL's Non-Russian Oil and Gas Assets From Russian Parent Co to U.S.-led Consortium",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005244_20261125005250:0-acquisition-would-transfer-lukoil-s-non-russian-oil-and-gas-assets-from-russian-parent-co-to-u-s-led-consortium/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:09:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "RUS:LKOH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005244_20261125005249:0",
+      "title": "Consortium, Led by Eldridge, Includes U.S. Intl Development Finance Corp, UAE-based Catena Investment Holding, and Xtellus Partners",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005244_20261125005249:0-consortium-led-by-eldridge-includes-u-s-intl-development-finance-corp-uae-based-catena-investment-holding-and-xtellus-partners/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:09:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "RUS:LKOH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:macenews:5b99d9920094b:0",
+      "title": "US ATLANTA FED SURVEY: US BUSINESSES SEE YEAR AHEAD EMPLOYMENT GROWTH AT 4.50% IN NOV. VS. 4.39% IN OCT., 4.37% YEAR AGO",
+      "url": "https://www.tradingview.com/news/macenews:5b99d9920094b:0-us-atlanta-fed-survey-us-businesses-see-year-ahead-employment-growth-at-4-50-in-nov-vs-4-39-in-oct-4-37-year-ago/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:09:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:FED30D",
+          "SP:SPX",
+          "TVC:DJI",
+          "FX:EURUSD",
+          "CBOE:DJX",
+          "TVC:DXY",
+          "STOXX:SX5E",
+          "CBOE:VIX",
+          "ECONOMICS:USGDP",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762E5:0",
+      "title": "American-Led Consortium Announces Agreement To Acquire Lukoil International’S Global Energy Portfolio",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762E5:0-american-led-consortium-announces-agreement-to-acquire-lukoil-international-s-global-energy-portfolio/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:08:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "RUS:LKOH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:8ed9b3ea0f951:0",
+      "title": "Expedia To Acquire Kiwi.com For Undisclosed Sum",
+      "url": "https://www.tradingview.com/news/dpa_afx:8ed9b3ea0f951:0-expedia-to-acquire-kiwi-com-for-undisclosed-sum/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:08:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:EXPE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6988Ea:0",
+      "title": "REG - Melrose Industries - TR-1: Standard Form-Notification of Major Holdings",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6988Ea:0-reg-melrose-industries-tr-1-standard-form-notification-of-major-holdings/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:08:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:MRO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005246:0",
+      "title": "Canadian Banks' Lofty Valuations Leave 4Q Vulnerable to Disappointments — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005246:0-canadian-banks-lofty-valuations-leave-4q-vulnerable-to-disappointments-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:08:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:BMO",
+          "TSX:BNS",
+          "TSX:CM",
+          "TSX:NA",
+          "TSX:RY",
+          "TSX:TD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760XZ:0",
+      "title": "EU wheat slips from one-month highs as tariff news rattles markets",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760XZ:0-eu-wheat-slips-from-one-month-highs-as-tariff-news-rattles-markets/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:07:41+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:EBM1!",
+          "CBOT:ZW1!",
+          "TVC:DXY",
+          "TVC:EXY",
+          "EURONEXT:EMA1!",
+          "EURONEXT:ECO1!",
+          "CBOT:ZC1!",
+          "CBOT:ZS1!",
+          "NYMEX:CL1!",
+          "FX:EURUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005244_20261125005244:0",
+      "title": "American-Led Consortium Announces Agreement to Acquire LUKOIL International's Global Energy Portfolio",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005244_20261125005244:0-american-led-consortium-announces-agreement-to-acquire-lukoil-international-s-global-energy-portfolio/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:07:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "RUS:LKOH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:macenews:81ff781c1094b:0",
+      "title": "US ATLANTA FED SURVEY: US BUSINESSES SEE YEAR AHEAD REVENUE GROWTH AT 3.62% IN NOV. VS. 3.56% IN OCT., 3.86% YEAR AGO",
+      "url": "https://www.tradingview.com/news/macenews:81ff781c1094b:0-us-atlanta-fed-survey-us-businesses-see-year-ahead-revenue-growth-at-3-62-in-nov-vs-3-56-in-oct-3-86-year-ago/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:07:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:FED30D",
+          "SP:SPX",
+          "TVC:DJI",
+          "FX:EURUSD",
+          "CBOE:DJX",
+          "TVC:DXY",
+          "STOXX:SX5E",
+          "CBOE:VIX",
+          "ECONOMICS:USGDP",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N47611G:0",
       "title": "Anthropic's slide tests Wall Street's lofty bets on future AI profits",
@@ -69,6 +1154,30 @@
           "NASDAQ:INTU",
           "NASDAQ:ADI",
           "NASDAQ:CRWV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:049b3a7a21d5b:0",
+      "title": "Wedbush initiates coverage of Huron Consulting Gr at Outperform, sets price target at $208",
+      "url": "https://www.tradingview.com/news/tradingview:049b3a7a21d5b:0-wedbush-initiates-coverage-of-huron-consulting-gr-at-outperform-sets-price-target-at-208/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:06:22+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:HURN"
         ]
       }
     },
@@ -116,6 +1225,54 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:stockstory:09bf9ece3094b:0",
+      "title": "Babcock & Wilcox Enterprises, nVent Electric, Powell, Sterling, and Bel Fuse shares plummet, what you need to know",
+      "url": "https://stockstory.org/us/stocks/nyse/bw/news/why-up-down/babcock-and-wilcox-enterprises-nvent-electric-powell-sterling-and-bel-fuse-shares-plummet-what-you-need-to-know",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stock Story",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:05:57+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stockstory:9c2ac74c7094b:0",
+      "title": "Dycom, nLIGHT, ChargePoint, Comfort Systems, and Vertiv shares are falling, what you need to know",
+      "url": "https://stockstory.org/us/stocks/nyse/dy/news/why-up-down/dycom-nlight-chargepoint-comfort-systems-and-vertiv-shares-are-falling-what-you-need-to-know",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stock Story",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:05:57+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:25.542064+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:CHPT"
+        ]
       }
     },
     {
@@ -428,6 +1585,25 @@
           "PSECZ:DSPW"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/this-iconic-growth-investor-can-t-stop-buying-anthropic-stock/?.tsrc=rss",
+      "title": "This Iconic Growth Investor Can't Stop Buying Anthropic Stock",
+      "url": "https://www.fool.com/investing/2026/11/25/this-iconic-growth-investor-can-t-stop-buying-anthropic-stock/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Did you buy shares of the popular AI IPO in three of its first four days on the market? I know someone who did.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:03:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:16:24.487224+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/25/why-nvidia-stock-continues-to-fall-after-the-jensen-huang-pop/?.tsrc=rss",
