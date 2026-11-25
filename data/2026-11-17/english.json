@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-22T20:27:24.350375+08:00",
-  "count": 1,
+  "generated_at": "2026-11-25T12:37:13.294707+08:00",
+  "count": 2,
   "sources": [
     {
       "name": "alpaca",
@@ -53,6 +53,25 @@
       "published_date": "2026-11-17",
       "fetched_at": "2026-11-22T20:27:23.743455+08:00",
       "crawl_date": "2026-11-22",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:cbaf4637886a35f5ffe803da554af729a64d46ce",
+      "title": "Nvidia earnings recap: No Jensen questions, please",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0665f775e64569830b597e03197db6&url=https%3a%2f%2fwww.businessinsider.com%2fnvidia-earnings-jensen-huang-departure-nvda-stock-2026-11&c=15733758772987576890&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nvidia's leadership looked to soothe rattled investors as the chip maker delivered its first earnings report without Jensen Huang. The company continued its run of topping Wall Street's estimates, ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-17T23:36:00+08:00",
+      "published_date": "2026-11-17",
+      "fetched_at": "2026-11-25T12:37:12.523876+08:00",
+      "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
       "extra": {}
