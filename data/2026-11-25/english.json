@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T12:43:17.889706+08:00",
-  "count": 485,
+  "generated_at": "2026-11-25T12:46:22.300340+08:00",
+  "count": 492,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,135 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47608U:0",
+      "title": "Indian benchmark shares rise as foreign inflows, lower oil prices aid sentiment",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47608U:0-indian-benchmark-shares-rise-as-foreign-inflows-lower-oil-prices-aid-sentiment/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:45:22+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:46:19.081878+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:NIFTY",
+          "BSE:SENSEX",
+          "NSE:CNXFINANCE",
+          "NSE:CNXIT",
+          "NSE:HDFCBANK",
+          "NSE:ICICIBANK",
+          "NSE:RELIANCE1!",
+          "NSE:CNXSMALLCAP",
+          "NSE:CNXMIDCAP",
+          "ICEEUR:BRN1!",
+          "NSE:APLAPOLLO",
+          "NSE:TATASTEEL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_ACN111840:0",
+      "title": "3D-Gold Jewellery Enters Australia with Three-Shop Rollout, Accelerating Overseas Expansion",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_ACN111840:0-3d-gold-jewellery-enters-australia-with-three-shop-rollout-accelerating-overseas-expansion/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Asian Corporate Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:44:41+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:46:19.081878+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0f7e7d9b151f7:0",
+      "title": "3DG Holdings (International) Limited Opens Two Australian Shops, Plans Third",
+      "url": "https://www.tradingview.com/news/tradingview:0f7e7d9b151f7:0-3dg-holdings-international-limited-opens-two-australian-shops-plans-third/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:44:41+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:46:19.081878+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:2882"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4810510:0",
+      "title": "BIO: Market-share gains and manufacturing progress anchor plans for FY2027 H2",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4810510:0-bio-market-share-gains-and-manufacturing-progress-anchor-plans-for-fy2027-h2/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:44:37+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:46:19.081878+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:BIO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:5ccf51d89094b:0",
+      "title": "S&P 500 Target: Wall Street Split On How The Benchmark Index Will Move In 2027",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-target-wall-street-split-on-how-the-benchmark-index-will-move-in-2027/cNbHcnER9lh",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:43:16+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:46:19.081878+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SP:SPX"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N476058:0",
       "title": "Stocks retreat as AI rebound stumbles, tariff threats loom",
@@ -10345,6 +10474,25 @@
       "extra": {}
     },
     {
+      "id": "msn:8b72f05d78893a23a0c14a165547720f4bc1a07a",
+      "title": "Stock Market News From Nov. 24, 2026: AI Stocks Sink. The Rest of the Market Is Doing Just ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06681b55a243cab884025ebac79b32&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today-112426&c=16104040240120877104&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Dow, Nasdaq, and S&P 500 futures are falling in premarket trading as the stock market rally sparked by Jensen Huang's Nvidia return fades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:39:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:46:20.972646+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:b3e533b215059019733b3084f955c26e609e0363",
       "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b064d9a6cb74171970c0fae23d59d9e&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
@@ -11004,6 +11152,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T12:43:14.647934+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:397bc6d0e8ed0fbc2572fbef95f895a2a668dcca",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06681b55a243cab884025ebac79b32&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:46:20.972646+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",

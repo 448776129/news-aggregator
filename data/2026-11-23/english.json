@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T12:43:17.848113+08:00",
-  "count": 415,
+  "generated_at": "2026-11-25T12:46:22.268629+08:00",
+  "count": 417,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "error": ""
     },
     {
@@ -3698,6 +3698,25 @@
       "extra": {}
     },
     {
+      "id": "msn:bb3d6f8851d906160dd49954eddbfbfd8ce7cc41",
+      "title": "Stock market rebounds sharply after selloff",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06681b55a243cab884025ebac79b32&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fstock-market-rebounds-sharply-after-selloff%2far-AA2i3kbT&c=1895450173659603273&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The major indexes climbed in early trading on Monday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T14:35:06+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-25T12:46:20.972646+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:7ffb50275ba9f3cade5820d35f988a4f8bdcdf30",
       "title": "Nvidia Just Reported Its First Quarter Without Jensen Huang. If the AI Trade Is Cracking, Warren Buffett’s Advice Comes Down to 1 Move.",
       "url": "https://www.fool.com/investing/2026/11/23/nvidia-just-reported-its-first-quarter-without-jensen-huang-if-the-ai-trade-is-cracking-warren-buffett-s-advice-comes-down-to-1-move/?.tsrc=rss",
@@ -4696,6 +4715,25 @@
       "published_at": "2026-11-23T11:04:15+08:00",
       "published_date": "2026-11-23",
       "fetched_at": "2026-11-25T12:43:14.647934+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d35ae0572798af02df984154d85c6396434e2523",
+      "title": "Is the stock market open on Thanksgiving, Black Friday?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06681b55a243cab884025ebac79b32&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fmoney%2fis-the-stock-market-open-on-thanksgiving-black-friday%2far-AA2i27ez&c=5354299360325556885&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Thanksgiving falls on Thursday, Nov. 26, this year. Here's what to know about whether the stock market will be open or closed.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T11:04:15+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-25T12:46:20.972646+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
