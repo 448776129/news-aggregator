@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T06:43:14.103473+08:00",
-  "count": 1455,
+  "generated_at": "2026-11-26T06:46:14.773598+08:00",
+  "count": 1457,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762K9:0",
+      "title": "Flight Centre Travel Investigates Cyber Security Incident",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762K9:0-flight-centre-travel-investigates-cyber-security-incident/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:42:32+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:46:10.070706+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:FLT"
+        ]
+      }
+    },
     {
       "id": "tradingview:urn:summary_document_report:quartr.com:4079222:0",
       "title": "NSCI: Q3 revenue rose 14% as both segments improved margins and returned to profitability",
@@ -148,6 +172,30 @@
       "published_at": "2026-11-26T06:40:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T06:43:09.737933+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:CH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:622b1c2229436:0",
+      "title": "CHARBONE CORPORATION CHARBONE Reports Q3 2026 Financial Results with Gas Income and Margin Growth",
+      "url": "https://www.tradingview.com/news/prnewswire:622b1c2229436:0-charbone-corporation-charbone-reports-q3-2026-financial-results-with-gas-income-and-margin-growth/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:40:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:46:10.070706+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
