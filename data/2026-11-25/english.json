@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T12:19:17.281032+08:00",
-  "count": 425,
+  "generated_at": "2026-11-25T12:22:14.635929+08:00",
+  "count": 429,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,52 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4750P0:0",
+      "title": "One year after Hong Kong fire, survivors mourn losses and question accountability",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4750P0:0-one-year-after-hong-kong-fire-survivors-mourn-losses-and-question-accountability/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:18:47+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:22:11.537076+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:cointelegraph:fab28d77b094b:0",
+      "title": "Trump willing to pardon Jensen Huang, says it won’t be necessary",
+      "url": "https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Cointelegraph",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:14:42+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:22:11.537076+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N47609Y:0",
       "title": "Bajaj Finance accepts bids for bond reissue, bankers say",
@@ -9102,6 +9148,25 @@
       "extra": {}
     },
     {
+      "id": "msn:df7e59d3f92f8554a278229b5a161a39eb4a04af",
+      "title": "Stock Market News From Nov. 24, 2026: AI Stocks Sink. The Rest of the Market Is Doing Just ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b066273a67c4093bfaabf2adf4a43e7&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today-112426&c=16104040240120877104&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Dow, Nasdaq, and S&P 500 futures are falling in premarket trading as the stock market rally sparked by Jensen Huang's Nvidia return fades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:39:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:22:13.549367+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:b3e533b215059019733b3084f955c26e609e0363",
       "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b064d9a6cb74171970c0fae23d59d9e&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
@@ -9609,6 +9674,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T12:19:15.649371+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6fa71c24c914472173105f11a41cbed873865431",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b066273a67c4093bfaabf2adf4a43e7&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:22:13.549367+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
