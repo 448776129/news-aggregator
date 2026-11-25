@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T02:31:14.364125+08:00",
-  "count": 696,
+  "generated_at": "2026-11-26T02:34:15.049761+08:00",
+  "count": 701,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 6,
+      "count": 8,
       "error": ""
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 24,
+      "count": 25,
       "error": ""
     }
   ],
@@ -291,6 +291,25 @@
       }
     },
     {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/does-dell-technologies-dell-25-181543009.html?.tsrc=rss",
+      "title": "What Does Dell Technologies (DELL) $25 Billion Buyback Mean After AI Demand Surged?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-dell-technologies-dell-25-181543009.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Dell Technologies (NYSE: DELL) reported fiscal Q3 AI server backlog of $132b, a 619% YoY increase in demand for these systems. Quarterly revenue more than doubled as management cited record AI server orders and broader adoption of its Dell AI Factory with NVIDIA offering. The board approved a US$25b share repurchase authorization alongside a raised outlook and new AI client deployments, including the University of Alabama HPC center and storage work with Kioxia. The record AI server backlog,...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:15:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:34:11.541887+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:moodys:8c5a8c04edefa:0",
       "title": "MAN WAH HLDGS Buys Back 9.6712M Shares for HKD19.81M+",
       "url": "https://www.tradingview.com/news/moodys:8c5a8c04edefa:0-man-wah-hldgs-buys-back-9-6712m-shares-for-hkd19-81m/",
@@ -432,6 +451,25 @@
       }
     },
     {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-stock-181236134.html?.tsrc=rss",
+      "title": "Super Micro Computer (SMCI) Stock Looks Reasonable After A Sharp Pullback",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-stock-181236134.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Super Micro Computer has swung from a very large 5 year gain to a sharp pullback over the past year. This puts the spotlight squarely on whether the current share price is still in line with what its earnings can support. With legal scrutiny around export controls now intersecting with its role in high end AI hardware, the key issue for you as an investor is how much of the past story the market can still reasonably expect the business to earn through its income statement. Over 5 years the...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:12:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:34:11.541887+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:seekingalpha:bbd6df86c094b:0",
       "title": "Airlines face fresh consumer protection push from US lawmakers",
       "url": "https://seekingalpha.com/news/4676655-airlines-face-fresh-consumer-protection-push-from-us-lawmakers?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
@@ -510,6 +548,25 @@
           "GPW:TXT"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/funding-gap-change-iren-stock-181042884.html?.tsrc=rss",
+      "title": "Will Funding Gap Change IREN Stock Narrative",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/funding-gap-change-iren-stock-181042884.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "IREN is pushing ahead with multi gigawatt AI data center projects in Texas and Australia while facing a roughly US$6b funding gap on a nearly US$15b near term build plan, tighter GPU lending terms, and regulatory reviews that affect large power approvals. The business has secured large, contracted AI cloud commitments with partners like Microsoft and Nvidia and has already brought its first Horizon site online. Investor focus has shifted to whether those agreements and existing assets can...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:10:42+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:34:11.541887+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47518D:0",
@@ -3723,6 +3780,30 @@
       }
     },
     {
+      "id": "finnhub:8806592",
+      "title": "Oil prices rise over 1% after Houthis say they attacked Saudi refinery - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGl4Nzdfc01ReTB5TnAxUkVLTXlaRVFvbGM5aTZDOEtVUXlrVDQtMHJwcWh2WldoMnVyb0QxU1pEQUoyN09sNU1SZXR3NVUzdTZXeWpkdGNTZW95MUtmdjV3dWFxTEZsRW5WUlF1djVTTWZxUGVxcHhPNEptMnBEcmZ0MURhX0JxTDFqc19HblpWd2hLSEs5SXRYTXB6bzFwNzZqOUFTc1ZOM3ItVDFZWmM2a0R5YkxsdnlsMTZWQ1ZEUQ?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Oil prices rise over 1% after Houthis say they attacked Saudi refinery Reuters",
+      "content": "Oil prices rise over 1% after Houthis say they attacked Saudi refinery Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:35:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:34:12.021424+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762EB:0",
       "title": "IQM Quantum Computers To Deliver 54-Qubit Quantum Computer To QAI By End Of 2027",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762EB:0-iqm-quantum-computers-to-deliver-54-qubit-quantum-computer-to-qai-by-end-of-2027/",
@@ -5815,6 +5896,30 @@
         "symbols": [
           "NASDAQ:BZ"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8808346",
+      "title": "Iraq's top court says Baghdad can deploy troops to secure borders in Kurdistan region - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGlKWlRMLUx5SDRZY3FLU3VLM19RX2JqVko0T3dBakVEVHVldFVtQ21MbGo2WEEzUXU1clEteTVvWWh3bkdkQzZPX3RSemt5eWlBVjJQZy1RdjNjNnlpT19ZZUd0ekFDc3JuVHZKVWJfX2VtTlBzU3ZTTHlBX3dkV1NNVXA4NmJMVlRGX3FidmJsa0VacW5fQ2E1ZHBZTnJrN2pVc1BkUk1aZVliX2lMdHJBcUFaYlh5WmY3a05aSVZYN1hKemFtTGFUMG0?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Iraq's top court says Baghdad can deploy troops to secure borders in Kurdistan region Reuters",
+      "content": "Iraq's top court says Baghdad can deploy troops to secure borders in Kurdistan region Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:18:58+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:34:12.021424+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
