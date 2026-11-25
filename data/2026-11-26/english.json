@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T02:19:14.999520+08:00",
-  "count": 666,
+  "generated_at": "2026-11-26T02:22:16.437733+08:00",
+  "count": 687,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,535 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tradingview:13421774d71d1:0",
+      "title": "Labcorp EVP, Chief Marketing Officer Sold Shares Worth Over $1.5M",
+      "url": "https://www.tradingview.com/news/tradingview:13421774d71d1:0-labcorp-evp-chief-marketing-officer-sold-shares-worth-over-1-5m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:LH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:686f1ba115292:0",
+      "title": "U.S. Stocks Regain Ground After Early Slump But Remain Mostly Lower",
+      "url": "https://www.tradingview.com/news/dpa_afx:686f1ba115292:0-u-s-stocks-regain-ground-after-early-slump-but-remain-mostly-lower/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:19:40+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:DJI",
+          "SP:SPX",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:7fa7b3049d13e:0",
+      "title": "MNI: BAKER HUGHES US RIG COUNT 607; OIL RIGS 470; GAS RIGS 127",
+      "url": "https://www.tradingview.com/news/dpa_afx:7fa7b3049d13e:0-mni-baker-hughes-us-rig-count-607-oil-rigs-470-gas-rigs-127/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:16:28+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:BKR",
+          "NYMEX:CL1!",
+          "NYMEX:NG1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:8c5a8c04edefa:0",
+      "title": "MAN WAH HLDGS Buys Back 9.6712M Shares for HKD19.81M+",
+      "url": "https://www.tradingview.com/news/moodys:8c5a8c04edefa:0-man-wah-hldgs-buys-back-9-6712m-shares-for-hkd19-81m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "AASTOCKS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:15:15+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1999"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:4d326adc0bb0b:0",
+      "title": "CLSA Keeps Outperform on XIAOMI-W after Quarterly Results Beat",
+      "url": "https://www.tradingview.com/news/moodys:4d326adc0bb0b:0-clsa-keeps-outperform-on-xiaomi-w-after-quarterly-results-beat/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "AASTOCKS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:15:10+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1810"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:b0285cd43cb29:0",
+      "title": "Report: Key Mainland Smartphone Makers Cut Shipment Targets for Next Yr; XIAOMI-W Axes Target by 25% to 90M Units",
+      "url": "https://www.tradingview.com/news/moodys:b0285cd43cb29:0-report-key-mainland-smartphone-makers-cut-shipment-targets-for-next-yr-xiaomi-w-axes-target-by-25-to-90m-units/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "AASTOCKS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:15:10+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1810",
+          "HKEX:992",
+          "NASDAQ:AAPL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:ab39ef6b0f703:0",
+      "title": "MNI: BAKER HUGHES US RIG COUNT 607; CANADA 229",
+      "url": "https://www.tradingview.com/news/dpa_afx:ab39ef6b0f703:0-mni-baker-hughes-us-rig-count-607-canada-229/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:15:09+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:BKR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4824287:0",
+      "title": "CHAR: Angola entry brings ~8,000 bpd exposure, 2027 cash flow prospects and major Block 14 upside",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4824287:0-char-angola-entry-brings-8-000-bpd-exposure-2027-cash-flow-prospects-and-major-block-14-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:14:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:CHAR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:bbd6df86c094b:0",
+      "title": "Airlines face fresh consumer protection push from US lawmakers",
+      "url": "https://seekingalpha.com/news/4676655-airlines-face-fresh-consumer-protection-push-from-us-lawmakers?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:12:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DAL",
+          "NASDAQ:AAL",
+          "NYSE:LUV",
+          "NASDAQ:UAL",
+          "NYSE:ALK",
+          "NASDAQ:JBLU",
+          "NASDAQ:SKYW",
+          "NASDAQ:ALGT",
+          "NASDAQ:ULCC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4248150:0",
+      "title": "TXT: Q2 EBIT rose 20.2% as revenue growth accelerated and MRR advanced 3.3% YoY",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4248150:0-txt-q2-ebit-rose-20-2-as-revenue-growth-accelerated-and-mrr-advanced-3-3-yoy/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:11:57+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:TXT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3669447:0",
+      "title": "TXT: H1 profit rose YoY and MRR grew 3.3%, alongside AI and currency risks",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3669447:0-txt-h1-profit-rose-yoy-and-mrr-grew-3-3-alongside-ai-and-currency-risks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:11:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:TXT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47518D:0",
+      "title": "New images reveal crater on asteroid struck by DART spacecraft",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47518D:0-new-images-reveal-crater-on-asteroid-struck-by-dart-spacecraft/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:10:24+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4824283:0",
+      "title": "EKTA_B: Q2 growth and margin gains continued, while H2 cash conversion remains a key test",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4824283:0-ekta_b-q2-growth-and-margin-gains-continued-while-h2-cash-conversion-remains-a-key-test/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:10:14+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:EKTA_B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:macenews:ed6fad4ec094b:0",
+      "title": "MKTS: DJIA TURNS POSITIVE MOMENTARILY, THAN NEGATIVE -32.-0.03%;NASDAQ -1.8%; S&P -1.1%; VIX 29.46, +11.72%",
+      "url": "https://www.tradingview.com/news/macenews:ed6fad4ec094b:0-mkts-djia-turns-positive-momentarily-than-negative-32-0-03-nasdaq-1-8-s-p-1-1-vix-29-46-11-72/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:10:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:FED30D",
+          "SP:SPX",
+          "TVC:DJI",
+          "FX:EURUSD",
+          "CBOE:DJX",
+          "TVC:DXY",
+          "STOXX:SX5E",
+          "CBOE:VIX",
+          "ECONOMICS:USGDP",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:acceswire:d8410c33f094b:0",
+      "title": "RUM Reports Quarterly Financial Results for September 30, 2026",
+      "url": "https://www.accessnewswire.com/newsroom/en/food-and-beverage-products/rum-reports-quarterly-financial-results-for-september-30-2026-1257362",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "ACCESS Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:10:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:RUM",
+          "NASDAQ:RUM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006258:0",
+      "title": "Stocks Soared on Huang's Return. AI Bond Investors Weren't Moved. — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006258:0-stocks-soared-on-huang-s-return-ai-bond-investors-weren-t-moved-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:10:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:313a5243a094b:0",
+      "title": "Retail’s dip-buying era is over—except for Nvidia, Anthropic - Vanda",
+      "url": "https://seekingalpha.com/news/4676660-retail-s-dip-buying-era-is-over-except-for-nvidia-anthropic-vanda?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:09:09+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:SPY",
+          "NASDAQ:NVDA",
+          "NASDAQ:ANT",
+          "NASDAQ:QQQ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4824277:0",
+      "title": "SDGR: Higher guidance, hosted adoption and ENPICOM broaden the discovery platform and growth path",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4824277:0-sdgr-higher-guidance-hosted-adoption-and-enpicom-broaden-the-discovery-platform-and-growth-path/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:08:58+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SDGR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4824276:0",
+      "title": "ARAI: A shared, secure handoff network aims to make autonomous last-mile delivery scalable",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4824276:0-arai-a-shared-secure-handoff-network-aims-to-make-autonomous-last-mile-delivery-scalable/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:08:53+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ARAI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4824274:0",
+      "title": "PRIM: FY 2026 Adjusted EBITDA guidance is $290M–$310M amid investment in infrastructure growth markets",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4824274:0-prim-fy-2026-adjusted-ebitda-guidance-is-290m-310m-amid-investment-in-infrastructure-growth-markets/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:08:51+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PRIM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4824272:0",
+      "title": "Positivo Tecnologia : A hardware-led business is evolving into an integrated IT infrastructure and services platform",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4824272:0-positivo-tecnologia-a-hardware-led-business-is-evolving-into-an-integrated-it-infrastructure-and-services-platform/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:08:45+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:22:11.138079+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BMFBOVESPA:POSI3"
+        ]
+      }
+    },
     {
       "id": "yahoo:https://247wallst.com/investing/2026/11/25/most-of-dells-new-ai-server-orders-are-now-for-nvidias-vera-rubin/?.tsrc=rss",
       "title": "Most of Dell’s New AI Server Orders Are Now for Nvidia’s Vera Rubin",
