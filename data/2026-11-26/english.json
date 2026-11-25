@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T02:01:14.523725+08:00",
-  "count": 627,
+  "generated_at": "2026-11-26T02:07:14.733319+08:00",
+  "count": 660,
   "sources": [
     {
       "name": "alpaca",
@@ -39,6 +39,757 @@
   ],
   "items": [
     {
+      "id": "tradingview:seekingalpha:ac51e77b0094b:0",
+      "title": "PolyPid down despite FDA approval of lead asset",
+      "url": "https://seekingalpha.com/news/4676658-polypid-stock-down-despite-fda-nod-lead-drug?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:05:49+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:PYPD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47611T:0",
+      "title": "Canadian dollar hits 2-week high as AI stock selloff deepens",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47611T:0-canadian-dollar-hits-2-week-high-as-ai-stock-selloff-deepens/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:05:39+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX_IDC:USDCAD",
+          "NYMEX:CL1!",
+          "FX:USDCAD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:the_block:21c5556db094b:0",
+      "title": "Justice Department takes aim at billions in crypto fraud proceeds in historic ‘largest ever crackdown’",
+      "url": "https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711?utm_source=tradingview&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "The Block",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:05:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006226_20261125006230:0",
+      "title": "Canadian Rig Count Down 2 from Last Week to 229 — Baker Hughes",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006226_20261125006230:0-canadian-rig-count-down-2-from-last-week-to-229-baker-hughes/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:05:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:BKR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006228:0",
+      "title": "OPEC+ Faces High-Stakes Quota Reset Test Headline — OPIS",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006228:0-opec-faces-high-stakes-quota-reset-test-headline-opis/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:05:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006226_20261125006229:0",
+      "title": "U.S. Rig Count Unchanged from Last Week at 607 — Baker Hughes",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006226_20261125006229:0-u-s-rig-count-unchanged-from-last-week-at-607-baker-hughes/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:05:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:BKR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4823957:0",
+      "title": "NPN: H2 improvement is expected as iFood economics strengthen and a $5 billion buyback proceeds",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4823957:0-npn-h2-improvement-is-expected-as-ifood-economics-strengthen-and-a-5-billion-buyback-proceeds/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:04:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "JSE:NPN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:a6db0657144d2:0",
+      "title": "Citi Says XIAOMI-W 3Q Results Largely In Line, Foresees EV Shipments at 450K This Yr",
+      "url": "https://www.tradingview.com/news/moodys:a6db0657144d2:0-citi-says-xiaomi-w-3q-results-largely-in-line-foresees-ev-shipments-at-450k-this-yr/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "AASTOCKS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:03:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1810"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:cc97a48e10bdd:0",
+      "title": "M Stanley Notes Xiaomi EV Shipment Growth Forecast to Drive 4Q Earnings, Reiterates Overweight on XIAOMI-W",
+      "url": "https://www.tradingview.com/news/moodys:cc97a48e10bdd:0-m-stanley-notes-xiaomi-ev-shipment-growth-forecast-to-drive-4q-earnings-reiterates-overweight-on-xiaomi-w/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "AASTOCKS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:03:16+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1810"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:49a0f6108d0b5:0",
+      "title": "BofAS: XIAOMI-W 3Q Results In Line; Core Biz Gradually Recovering",
+      "url": "https://www.tradingview.com/news/moodys:49a0f6108d0b5:0-bofas-xiaomi-w-3q-results-in-line-core-biz-gradually-recovering/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "AASTOCKS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:03:14+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1810"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY7117Ea:0",
+      "title": "REG - Banco Bil.Viz.Argent - HR - Delisting of BBVA Shares from the LSE",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY7117Ea:0-reg-banco-bil-viz-argent-hr-delisting-of-bbva-shares-from-the-lse/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:02:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BME:BBVA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762JR:0",
+      "title": "Kalypso Offshore Energy Awarded NYSERDA Grant To Develop Subsea Cable Hub In Brooklyn",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762JR:0-kalypso-offshore-energy-awarded-nyserda-grant-to-develop-subsea-cable-hub-in-brooklyn/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:02:17+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:macenews:cf40cf73d094b:0",
+      "title": "CANADA BAKER HUGHES OIL & GAS RIG COUNT -2 RIGS IN LATEST WEEK FROM PREVIOUS WEEK TO 229 RIGS",
+      "url": "https://www.tradingview.com/news/macenews:cf40cf73d094b:0-canada-baker-hughes-oil-gas-rig-count-2-rigs-in-latest-week-from-previous-week-to-229-rigs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:02:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:GBPCAD",
+          "TSX:TSX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006170_20261125006194:0",
+      "title": "Dynacor: Company Has No Relationship WithTG Offtakes, Doesn't Recommend nor Endorse Acceptance of Unsolicited Offer >DNG.T",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006170_20261125006194:0-dynacor-company-has-no-relationship-withtg-offtakes-doesn-t-recommend-nor-endorse-acceptance-of-unsolicited-offer-dng-t/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:02:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:DNG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006206:0",
+      "title": "U.S. Grain, Soybean Weekly Export Sales Estimates — Nov. 19",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006206:0-u-s-grain-soybean-weekly-export-sales-estimates-nov-19/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:02:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOT:ZS1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4823708:0",
+      "title": "MOH: Record refining earnings and lower debt fund a broader growth plan despite Q4 maintenance drag",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4823708:0-moh-record-refining-earnings-and-lower-debt-fund-a-broader-growth-plan-despite-q4-maintenance-drag/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:01:52+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ATHEX:MOH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47611B:0",
+      "title": "Virbac signs deal to buy Axiota Animal Health for $315 million",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47611B:0-virbac-signs-deal-to-buy-axiota-animal-health-for-315-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:01:27+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:VIRP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47610Z:0",
+      "title": "US holiday spending rises ahead of Black Friday",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47610Z:0-us-holiday-spending-rises-ahead-of-black-friday/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:01:07+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BAC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006170_20261125006170:0",
+      "title": "Dynacor: Received Notice of Unsolicited Offer From TG Offtakes to Buy Up to 4.3M Shares at C$5.75 a Share",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006170_20261125006170:0-dynacor-received-notice-of-unsolicited-offer-from-tg-offtakes-to-buy-up-to-4-3m-shares-at-c-5-75-a-share/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:DNG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:macenews:1bfcfa58b094b:0",
+      "title": "US BAKER HUGHES OIL & GAS RIG COUNT UNCHANGED IN LATEST WEEK FROM PREVIOUS WEEK AT 607 RIGS",
+      "url": "https://www.tradingview.com/news/macenews:1bfcfa58b094b:0-us-baker-hughes-oil-gas-rig-count-unchanged-in-latest-week-from-previous-week-at-607-rigs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:FED30D",
+          "SP:SPX",
+          "TVC:DJI",
+          "FX:EURUSD",
+          "CBOE:DJX",
+          "TVC:DXY",
+          "STOXX:SX5E",
+          "CBOE:VIX",
+          "ECONOMICS:USGDP",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:gurufocus:c4e11bba4094b:0",
+      "title": "Seagate Technology Stocks Fall 7.64%, Still Nearly Double GF Value",
+      "url": "https://www.gurufocus.com/news/9220396/seagate-technology-stocks-fall-764-still-nearly-double-gf-value",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:00:57+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:STX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:f0b4f1a13094b:0",
+      "title": "Aave: Aave App opens to everyone on iOS and Android - 25 Nov 2026",
+      "url": "https://coinmarketcal.com/event/public-app-launch-68615030-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:00:27+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:AAVEUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:6c010f564094b:0",
+      "title": "Canton: LayerZero opens a bridge to BSC through Stargate - 25 Nov 2026",
+      "url": "https://coinmarketcal.com/event/bridge-to-bsc-10131401-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:00:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:CCCAUSD",
+          "COINBASE:ZROUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:3107ba82b094b:0",
+      "title": "Injective: Community buyback ends with over 7.3 million INJ burned - 25 Nov 2026",
+      "url": "https://coinmarketcal.com/event/community-buyback-ends-17821433-2",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:00:13+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:INJUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:the_block:3c58be93b094b:0",
+      "title": "Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil",
+      "url": "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709?utm_source=tradingview&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "The Block",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:00:13+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:fe8ceff1f69a4:0",
+      "title": "Arrive Fueled, Not Famished at the Holiday Table, Plus Five Other Expert Tips from Life Time",
+      "url": "https://www.tradingview.com/news/prnewswire:fe8ceff1f69a4:0-arrive-fueled-not-famished-at-the-holiday-table-plus-five-other-expert-tips-from-life-time/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:LTH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:64a4ae86b094b:0",
+      "title": "BIGBEN ANNOUNCES THE POSTPONEMENT OF THE PUBLICATION OF ITS 2026/2027 HALF-YEAR RESULTS RESCHEDULED FOR 16 DECEMBER 2026 AFTER MARKET CLOSE",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410511/0/en/bigben-announces-the-postponement-of-the-publication-of-its-2026-2027-half-year-results-rescheduled-for-16-december-2026-after-market-close.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:BIG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0233eaad99e43:0",
+      "title": "Bigben (BIG) Delays Half-Year Results to 16 December",
+      "url": "https://www.tradingview.com/news/tradingview:0233eaad99e43:0-bigben-big-delays-half-year-results-to-16-december/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:BIG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:6e5ad6ee8094b:0",
+      "title": "NACON ANNOUNCES THE POSTPONEMENT OF THE PUBLICATION OF ITS 2026/2027 HALF-YEAR RESULTS RESCHEDULED FOR 16 DECEMBER 2026 AFTER MARKET CLOSE",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410517/0/en/nacon-announces-the-postponement-of-the-publication-of-its-2026-2027-half-year-results-rescheduled-for-16-december-2026-after-market-close.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:NACON"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:e85014d79e63c:0",
+      "title": "Nacon (NACON) Delays Half-Year Results Amid Additional Audit Procedures",
+      "url": "https://www.tradingview.com/news/tradingview:e85014d79e63c:0-nacon-nacon-delays-half-year-results-amid-additional-audit-procedures/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:NACON"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:e2f0cb549094b:0",
+      "title": "Argus issues double downgrade on HCA Healthcare on profit margin risk",
+      "url": "https://seekingalpha.com/news/4676564-argus-issues-double-downgrade-on-hca-healthcare-on-profit-margin-risk?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:59:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:HCA"
+        ]
+      }
+    },
+    {
       "id": "tradingview:DJN_DN20261125006153:0",
       "title": "U.S.-Led Consortium to Acquire Lukoil in Effort to Control More Oil Resources",
       "url": "https://www.tradingview.com/news/DJN_DN20261125006153:0-u-s-led-consortium-to-acquire-lukoil-in-effort-to-control-more-oil-resources/",
@@ -59,6 +810,54 @@
         "urgency": 2,
         "symbols": [
           "RUS:LKOH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:bed355dc1094b:0",
+      "title": "Dynacor Cautions Shareholders Regarding Unsolicited “Mini”-Tender Offer from TG Offtakes Corp.",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410509/0/en/dynacor-cautions-shareholders-regarding-unsolicited-mini-tender-offer-from-tg-offtakes-corp.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:59:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:DNG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:dc158de78d009:0",
+      "title": "Dynacor Group Inc. (DNG) Warns of Offer for 10.2% of Shares at C$5.75 Each",
+      "url": "https://www.tradingview.com/news/tradingview:dc158de78d009:0-dynacor-group-inc-dng-warns-of-offer-for-10-2-of-shares-at-c-5-75-each/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:59:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:07:11.664569+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:DNG"
         ]
       }
     },
