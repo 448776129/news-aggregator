@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T19:58:11.451869+08:00",
-  "count": 100,
+  "generated_at": "2026-11-25T20:46:15.964061+08:00",
+  "count": 102,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     },
     {
@@ -1434,6 +1434,25 @@
       "extra": {}
     },
     {
+      "id": "msn:d59fc1c5d46d74a8273c6e9d8e2b5720854244a1",
+      "title": "The post earnings slide in Nvidia stock is getting uglier by the day",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d8944e654da0be9d1b23af33052a&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fthe-post-earnings-slide-in-nvidia-stock-is-getting-uglier-by-the-day%2far-AA2hQUCT&c=6603191112528657845&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The Nvidia sell-off refuses to let up in the post Jensen Huang era.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-20T11:37:00+08:00",
+      "published_date": "2026-11-20",
+      "fetched_at": "2026-11-25T20:46:13.659480+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:fc9da61d78db8a3006208334b39eaf939cd02c49",
       "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to open lower in worst week since Trump's ...",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b029c247d4b4a3cbe221bf0c6d959c9&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-anthropic-ipo-second-day-trading&c=15228619960492611223&mkt=en-us",
@@ -1865,6 +1884,25 @@
       "published_at": "2026-11-20T08:45:00+08:00",
       "published_date": "2026-11-20",
       "fetched_at": "2026-11-25T13:58:14.463656+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:db5a4ed5846f59676753c451272cfa1436c1d901",
+      "title": "Intuit slides after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d8944e654da0be9d1b23af33052a&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-anthropic-ipo-second-day-trading%2fcard%2fintuit-slides-after-earnings-and-other-early-market-movers-wRBhCBcexB8twdpaSXSq&c=7789346088391484490&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Friday's early premarket action: Intuit stock is down nearly 10% after the maker of TurboTax software posted earnings and [cut its outlook for fisca ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-20T08:45:00+08:00",
+      "published_date": "2026-11-20",
+      "fetched_at": "2026-11-25T20:46:13.659480+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
