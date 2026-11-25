@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T12:55:14.672476+08:00",
+  "updated_at": "2026-11-25T12:56:08.559468+08:00",
   "dates": [
     "2026-11-25",
     "2026-11-24",
@@ -95,9 +95,9 @@
     "2012-01-30"
   ],
   "categories": [
-    "community",
     "english",
-    "finance"
+    "finance",
+    "stocktwits"
   ],
   "entries": {
     "2012-01-30": {
@@ -717,11 +717,6 @@
       }
     },
     "2026-11-22": {
-      "community": {
-        "count": 87,
-        "file": "data/2026-11-22/community.json",
-        "generated_at": "2026-11-23T03:29:13.017987+08:00"
-      },
       "english": {
         "count": 346,
         "file": "data/2026-11-22/english.json",
@@ -731,14 +726,14 @@
         "count": 198,
         "file": "data/2026-11-22/finance.json",
         "generated_at": "2026-11-23T08:27:58.787477+08:00"
+      },
+      "stocktwits": {
+        "count": 87,
+        "file": "data/2026-11-22/stocktwits.json",
+        "generated_at": "2026-11-25T12:56:06.972482+08:00"
       }
     },
     "2026-11-23": {
-      "community": {
-        "count": 138,
-        "file": "data/2026-11-23/community.json",
-        "generated_at": "2026-11-23T16:06:38.296897+08:00"
-      },
       "english": {
         "count": 421,
         "file": "data/2026-11-23/english.json",
@@ -748,14 +743,14 @@
         "count": 269,
         "file": "data/2026-11-23/finance.json",
         "generated_at": "2026-11-24T04:13:04.215855+08:00"
+      },
+      "stocktwits": {
+        "count": 138,
+        "file": "data/2026-11-23/stocktwits.json",
+        "generated_at": "2026-11-25T12:56:06.978433+08:00"
       }
     },
     "2026-11-24": {
-      "community": {
-        "count": 150,
-        "file": "data/2026-11-24/community.json",
-        "generated_at": "2026-11-24T23:29:13.969903+08:00"
-      },
       "english": {
         "count": 989,
         "file": "data/2026-11-24/english.json",
@@ -765,14 +760,14 @@
         "count": 278,
         "file": "data/2026-11-24/finance.json",
         "generated_at": "2026-11-24T23:29:13.990012+08:00"
+      },
+      "stocktwits": {
+        "count": 150,
+        "file": "data/2026-11-24/stocktwits.json",
+        "generated_at": "2026-11-25T12:56:06.985560+08:00"
       }
     },
     "2026-11-25": {
-      "community": {
-        "count": 123,
-        "file": "data/2026-11-25/community.json",
-        "generated_at": "2026-11-25T12:46:22.292950+08:00"
-      },
       "english": {
         "count": 507,
         "file": "data/2026-11-25/english.json",
@@ -782,6 +777,11 @@
         "count": 352,
         "file": "data/2026-11-25/finance.json",
         "generated_at": "2026-11-25T12:55:14.638484+08:00"
+      },
+      "stocktwits": {
+        "count": 123,
+        "file": "data/2026-11-25/stocktwits.json",
+        "generated_at": "2026-11-25T12:56:06.991945+08:00"
       }
     }
   }

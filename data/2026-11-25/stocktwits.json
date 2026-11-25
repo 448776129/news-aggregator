@@ -1,30 +1,11 @@
 {
   "date": "2026-11-25",
-  "category": "community",
-  "category_name": "社区新闻",
+  "category": "stocktwits",
+  "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T12:46:22.292950+08:00",
+  "generated_at": "2026-11-25T12:56:06.991945+08:00",
   "count": 123,
-  "sources": [
-    {
-      "name": "reddit",
-      "status": "ok",
-      "count": 0,
-      "error": ""
-    },
-    {
-      "name": "stocktwits",
-      "status": "ok",
-      "count": 50,
-      "error": ""
-    },
-    {
-      "name": "xueqiu",
-      "status": "ok",
-      "count": 0,
-      "error": ""
-    }
-  ],
+  "sources": [],
   "items": [
     {
       "id": "stocktwits:670133535",
@@ -42,7 +23,7 @@
       "fetched_at": "2026-11-25T12:46:18.685891+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -50,7 +31,8 @@
           "TSLA",
           "SPCX"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670133529",
@@ -68,13 +50,14 @@
       "fetched_at": "2026-11-25T12:46:18.685891+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670133352",
@@ -92,7 +75,7 @@
       "fetched_at": "2026-11-25T12:37:10.664569+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -102,7 +85,8 @@
           "AMD",
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670133019",
@@ -120,13 +104,14 @@
       "fetched_at": "2026-11-25T12:25:13.195100+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670132973",
@@ -144,13 +129,14 @@
       "fetched_at": "2026-11-25T12:22:11.895827+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670132942",
@@ -168,14 +154,15 @@
       "fetched_at": "2026-11-25T12:22:11.895827+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLL",
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670132902",
@@ -193,13 +180,14 @@
       "fetched_at": "2026-11-25T12:19:13.972495+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670132899",
@@ -217,13 +205,14 @@
       "fetched_at": "2026-11-25T12:19:13.972495+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670132725",
@@ -241,13 +230,14 @@
       "fetched_at": "2026-11-25T12:13:12.616303+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670132691",
@@ -265,13 +255,14 @@
       "fetched_at": "2026-11-25T12:13:12.616303+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670132601",
@@ -289,7 +280,7 @@
       "fetched_at": "2026-11-25T12:07:17.580153+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
@@ -299,7 +290,8 @@
           "LCID",
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670132460",
@@ -317,13 +309,14 @@
       "fetched_at": "2026-11-25T12:04:09.618905+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670131949",
@@ -341,13 +334,14 @@
       "fetched_at": "2026-11-25T11:46:11.669403+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670131897",
@@ -365,13 +359,14 @@
       "fetched_at": "2026-11-25T11:46:11.669403+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670131884",
@@ -389,14 +384,15 @@
       "fetched_at": "2026-11-25T11:43:12.320923+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "SPCX",
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670131729",
@@ -414,7 +410,7 @@
       "fetched_at": "2026-11-25T11:40:11.979068+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -423,7 +419,8 @@
           "TSLA",
           "BTC.X"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670131687",
@@ -441,13 +438,14 @@
       "fetched_at": "2026-11-25T11:40:11.979068+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670131591",
@@ -465,14 +463,15 @@
       "fetched_at": "2026-11-25T11:37:12.712760+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA",
           "SPCX"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670131588",
@@ -490,14 +489,15 @@
       "fetched_at": "2026-11-25T11:37:12.712760+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "SPCX",
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670131344",
@@ -515,14 +515,15 @@
       "fetched_at": "2026-11-25T11:28:13.089610+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "SPCX",
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670131176",
@@ -540,13 +541,14 @@
       "fetched_at": "2026-11-25T11:25:09.713167+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670131153",
@@ -564,13 +566,14 @@
       "fetched_at": "2026-11-25T11:25:09.713167+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670131126",
@@ -588,13 +591,14 @@
       "fetched_at": "2026-11-25T11:25:09.713167+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670131092",
@@ -612,7 +616,7 @@
       "fetched_at": "2026-11-25T11:25:09.713167+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -622,7 +626,8 @@
           "SPY",
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670131029",
@@ -640,7 +645,7 @@
       "fetched_at": "2026-11-25T11:25:09.713167+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -650,7 +655,8 @@
           "TSLA",
           "MU"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670130793",
@@ -668,14 +674,15 @@
       "fetched_at": "2026-11-25T11:15:47.192874+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
           "TSLA",
           "NVDA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670130476",
@@ -693,13 +700,14 @@
       "fetched_at": "2026-11-25T11:10:46.880444+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670130456",
@@ -717,13 +725,14 @@
       "fetched_at": "2026-11-25T11:10:46.880444+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670130200",
@@ -741,7 +750,7 @@
       "fetched_at": "2026-11-25T11:05:45.489758+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
@@ -751,7 +760,8 @@
           "NVDA",
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670129926",
@@ -769,14 +779,15 @@
       "fetched_at": "2026-11-25T11:00:45.381974+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA",
           "NVDA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670129776",
@@ -794,13 +805,14 @@
       "fetched_at": "2026-11-25T11:00:45.381974+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670129731",
@@ -818,13 +830,14 @@
       "fetched_at": "2026-11-25T10:55:43.562622+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670129627",
@@ -842,7 +855,7 @@
       "fetched_at": "2026-11-25T10:55:43.562622+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
@@ -850,7 +863,8 @@
           "AAPL",
           "MSFT"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670129344",
@@ -868,13 +882,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670129095",
@@ -892,13 +907,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670128999",
@@ -916,7 +932,7 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
@@ -926,7 +942,8 @@
           "AAPL",
           "BA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670128756",
@@ -944,7 +961,7 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -954,7 +971,8 @@
           "SPCX",
           "AMD"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670128679",
@@ -972,13 +990,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670128662",
@@ -996,13 +1015,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670128622",
@@ -1020,7 +1040,7 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -1028,7 +1048,8 @@
           "DJT",
           "SPY"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670128441",
@@ -1046,14 +1067,15 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "SPCX",
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670128267",
@@ -1071,7 +1093,7 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -1079,7 +1101,8 @@
           "SPCX",
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670128233",
@@ -1097,13 +1120,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670128044",
@@ -1121,13 +1145,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670128036",
@@ -1145,13 +1170,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670127968",
@@ -1169,13 +1195,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670127760",
@@ -1193,14 +1220,15 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "QQQ",
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670127664",
@@ -1218,7 +1246,7 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -1226,7 +1254,8 @@
           "SPY",
           "NVDA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670127650",
@@ -1244,13 +1273,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670127608",
@@ -1268,14 +1298,15 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "AAPL",
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670127441",
@@ -1293,7 +1324,7 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -1302,7 +1333,8 @@
           "QCOM",
           "SPY"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670127359",
@@ -1320,14 +1352,15 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "NVDA",
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670127290",
@@ -1345,13 +1378,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670126952",
@@ -1369,7 +1403,7 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -1379,7 +1413,8 @@
           "TSLA",
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670126711",
@@ -1397,13 +1432,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670126543",
@@ -1421,13 +1457,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670126480",
@@ -1445,13 +1482,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670126203",
@@ -1469,13 +1507,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670126119",
@@ -1493,13 +1532,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670126030",
@@ -1517,13 +1557,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670126026",
@@ -1541,13 +1582,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670125817",
@@ -1565,13 +1607,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670125720",
@@ -1589,13 +1632,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670125716",
@@ -1613,13 +1657,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670125523",
@@ -1637,13 +1682,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670125145",
@@ -1661,14 +1707,15 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "SPCX",
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670125042",
@@ -1686,7 +1733,7 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
@@ -1696,7 +1743,8 @@
           "AAPL",
           "BA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670124823",
@@ -1714,13 +1762,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670124729",
@@ -1738,7 +1787,7 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
@@ -1748,7 +1797,8 @@
           "AAPL",
           "BA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670123684",
@@ -1766,13 +1816,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670122310",
@@ -1790,13 +1841,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670122196",
@@ -1814,13 +1866,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670121653",
@@ -1838,13 +1891,14 @@
       "fetched_at": "2026-11-25T10:53:13.987499+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670121051",
@@ -1862,13 +1916,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670119846",
@@ -1886,7 +1941,7 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -1894,7 +1949,8 @@
           "SPY",
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670119845",
@@ -1912,13 +1968,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670119771",
@@ -1936,13 +1993,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670119468",
@@ -1960,7 +2018,7 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
@@ -1969,7 +2027,8 @@
           "TSLA",
           "NVDA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670119343",
@@ -1987,7 +2046,7 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -1996,7 +2055,8 @@
           "HP",
           "LNVGY"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670119311",
@@ -2014,7 +2074,7 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
@@ -2023,7 +2083,8 @@
           "SPY",
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670119086",
@@ -2041,7 +2102,7 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -2051,7 +2112,8 @@
           "SPCX",
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670119056",
@@ -2069,13 +2131,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670118983",
@@ -2093,7 +2156,7 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
@@ -2103,7 +2166,8 @@
           "MU",
           "NVDA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670118972",
@@ -2121,7 +2185,7 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
@@ -2130,7 +2194,8 @@
           "SPCX",
           "SPY"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670118918",
@@ -2148,7 +2213,7 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
@@ -2158,7 +2223,8 @@
           "AAPL",
           "INTC"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670118819",
@@ -2176,13 +2242,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670118558",
@@ -2200,13 +2267,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670118312",
@@ -2224,13 +2292,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670118248",
@@ -2248,13 +2317,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670118139",
@@ -2272,13 +2342,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670117608",
@@ -2296,7 +2367,7 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
@@ -2305,7 +2376,8 @@
           "TSLA",
           "SPY"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670117449",
@@ -2323,7 +2395,7 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
@@ -2332,7 +2404,8 @@
           "SPY",
           "NVDA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670117253",
@@ -2350,13 +2423,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670117023",
@@ -2374,13 +2448,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670116872",
@@ -2398,7 +2473,7 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -2408,7 +2483,8 @@
           "MU",
           "SPCX"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670116838",
@@ -2426,13 +2502,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670116723",
@@ -2450,14 +2527,15 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "SPCX",
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670116566",
@@ -2475,7 +2553,7 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
@@ -2484,7 +2562,8 @@
           "SPY",
           "DJT"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670116360",
@@ -2502,13 +2581,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670116289",
@@ -2526,13 +2606,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670116163",
@@ -2550,7 +2631,7 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -2559,7 +2640,8 @@
           "BTC.X",
           "DJT"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670115548",
@@ -2577,13 +2659,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670115290",
@@ -2601,13 +2684,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670115218",
@@ -2625,13 +2709,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670115146",
@@ -2649,13 +2734,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "TSLA"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670114888",
@@ -2673,13 +2759,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670114880",
@@ -2697,7 +2784,7 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -2705,7 +2792,8 @@
           "AAPL",
           "MSFT"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670113861",
@@ -2723,7 +2811,7 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -2731,7 +2819,8 @@
           "MSFT",
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670111770",
@@ -2749,13 +2838,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670110980",
@@ -2773,13 +2863,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670110578",
@@ -2797,13 +2888,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670108636",
@@ -2821,14 +2913,15 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "RUM",
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670108522",
@@ -2846,13 +2939,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670108324",
@@ -2870,7 +2964,7 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -2879,7 +2973,8 @@
           "GLD",
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670107165",
@@ -2897,13 +2992,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670106074",
@@ -2921,13 +3017,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670105486",
@@ -2945,13 +3042,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670104971",
@@ -2969,7 +3067,7 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -2978,7 +3076,8 @@
           "TGT",
           "MO"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670104957",
@@ -2996,13 +3095,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670104877",
@@ -3020,13 +3120,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670104152",
@@ -3044,13 +3145,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bearish",
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670104065",
@@ -3068,7 +3170,7 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": null,
         "symbols": [
@@ -3077,7 +3179,8 @@
           "TSLA",
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     },
     {
       "id": "stocktwits:670103856",
@@ -3095,13 +3198,14 @@
       "fetched_at": "2026-11-25T08:04:40.662244+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
-      "category": "community",
+      "category": "stocktwits",
       "extra": {
         "sentiment": "Bullish",
         "symbols": [
           "AAPL"
         ]
-      }
+      },
+      "category_name": "Stocktwits 社区"
     }
   ]
 }
