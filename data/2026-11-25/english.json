@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T15:34:12.323330+08:00",
-  "count": 1311,
+  "generated_at": "2026-11-25T15:37:17.383706+08:00",
+  "count": 1325,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 5,
       "error": ""
     },
     {
@@ -38,6 +38,172 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752DL:0",
+      "title": "Rejlers Signs Framework Agreement With ESS",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752DL:0-rejlers-signs-framework-agreement-with-ess/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:36:04+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:37:13.106994+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:REJL_B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752G9:0",
+      "title": "Acenta Group Q3 Revenue Down At Sek 5.1 Mln",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752G9:0-acenta-group-q3-revenue-down-at-sek-5-1-mln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:35:24+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:37:13.106994+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:PADEL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001174:0",
+      "title": "Hannover Re Forecasts Steady Earnings Growth Through 2029",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001174:0-hannover-re-forecasts-steady-earnings-growth-through-2029/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:35:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:37:13.106994+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:HNR1"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001172_20261125001172:0",
+      "title": "AmSpec: Malaysia Nov. 1-25 Palm Oil Exports 1,205,298 Tons",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001172_20261125001172:0-amspec-malaysia-nov-1-25-palm-oil-exports-1-205-298-tons/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:34:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:37:13.106994+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001172_20261125001173:0",
+      "title": "AmSpec: Malaysia Nov. 1-25 Palm Oil Exports Down 9.2% on Month",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001172_20261125001173:0-amspec-malaysia-nov-1-25-palm-oil-exports-down-9-2-on-month/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:34:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:37:13.106994+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001064_20261125001169:0",
+      "title": "EasyJet FY26 Headline Ebitda GBP938M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001064_20261125001169:0-easyjet-fy26-headline-ebitda-gbp938m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:34:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:37:13.106994+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:EZJ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760E4:0",
+      "title": "Indian stocks, rupee, bonds, swaps, call at 1:00 pm IST",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760E4:0-indian-stocks-rupee-bonds-swaps-call-at-1-00-pm-ist/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:33:53+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:37:13.106994+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BSE:SENSEX",
+          "NSE:NIFTY",
+          "FX_IDC:USDINR"
+        ]
+      }
+    },
     {
       "id": "tradingview:urn:summary_document_report:quartr.com:4812463:0",
       "title": "NRR: Earnings and rents grew, while H2 disposals target a return toward sub-40% LTV",
@@ -59,6 +225,30 @@
         "urgency": 2,
         "symbols": [
           "LSE:NRR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001064_20261125001151:0",
+      "title": "EasyJet FY26 Headline Ebitda Costs GBP9.80B",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001064_20261125001151:0-easyjet-fy26-headline-ebitda-costs-gbp9-80b/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:33:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:37:13.106994+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:EZJ"
         ]
       }
     },
@@ -206,6 +396,31 @@
         "urgency": 2,
         "symbols": [
           "OMXSTO:TALK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:55867f762094b:0",
+      "title": "Sensex falls 800 pts from day's high, but still up 1%; key reason behind market paring gains",
+      "url": "https://www.tradingview.com/news/moneycontrol:55867f762094b:0-sensex-falls-800-pts-from-day-s-high-but-still-up-1-key-reason-behind-market-paring-gains/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:31:11+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:37:13.106994+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BSE:SENSEX",
+          "NSE:NIFTY"
         ]
       }
     },
@@ -24727,6 +24942,25 @@
       "extra": {}
     },
     {
+      "id": "msn:f816a19bc0ae978f74f2984b8a0adf0ca0ab9958",
+      "title": "Safestore (LSE:SAFE) Stock Looks Reasonable As Earnings Support Holds",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06902a1ca94f20b8926930ed1ad1aa&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fsafestore-lse-safe-stock-looks-061247963.html&c=15124277717301942279&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Safestore Holdings has seen its share price slide in recent years, which naturally puts the spotlight on whether the current valuation lines up with the earnings investors are paying for. With the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T06:12:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:37:15.503163+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8806075",
       "title": "Saudi-led coalition issues evacuation warning for Yemen's Hodeidah port - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVG1zbDJSYngzOXYyX0pnWnBSUFB6Q0FYVzBkUzNtSVpRQm9ZZEY1S3VtMFJFWHVVbjFqQ29aeXhILVNwekVkX0Y1SUp1T3lUZXFCY2hOVWd1YWhVZVBVRFhoeWF2Y01jUkFGQTl0LWRsWUVNZU0xSGJsTE5hVjlOMm1KOVBOVlJtSGcwYm1zV3d2OE52VHJ1ZEFNeXdQRjhPTGhLMmRDNk14QVo4UHg1THdEQ2xMekJ2ZzJxXw?oc=5",
@@ -24783,6 +25017,25 @@
       "published_at": "2026-11-25T06:08:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T14:25:11.612161+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:1b65c547cc590799dbe81bac4c2fa9b268117adb",
+      "title": "Britain’s stock market is dying, Reeves’s former adviser claims",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069029cc274020b85cb7d6f7caed99&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fbritain-stock-market-dying-reeves-060000134.html&c=11492668020611581401&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Rachel Reeves's former entrepreneurship adviser has warned MPs that Britain's stock market is dying. Alexandra Depledge, who held the Treasury role between 2025 and 2026, has raised fresh concerns ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T06:00:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:37:15.503163+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -27727,6 +27980,25 @@
       "extra": {}
     },
     {
+      "id": "msn:895ec51815877c7c546b2f35a50878c252f4ad1b",
+      "title": "Stock Market News From Nov. 24, 2026: AI Stocks Sink. The Rest of the Market Is Doing Just ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069029cc274020b85cb7d6f7caed99&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today-112426&c=16104040240120877104&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Dow, Nasdaq, and S&P 500 futures are falling in premarket trading as the stock market rally sparked by Jensen Huang's Nvidia return fades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:39:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:37:15.503163+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:b3e533b215059019733b3084f955c26e609e0363",
       "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b064d9a6cb74171970c0fae23d59d9e&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
@@ -29380,6 +29652,25 @@
       "extra": {}
     },
     {
+      "id": "msn:88914da8fcbb460574a074d0aa6453eaa8ee0bcb",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069029cc274020b85cb7d6f7caed99&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:37:15.503163+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8805055",
       "title": "Congo mining forum announces $965 million in sector financing - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGdrZjdudnB3N1RtMDR5dXlRWm8zMnA0b1NXQ3JNWGFhQ3BMSWNPOWpBU1hVT2hMRkl2THlRc3JDY1BmYk5jTF85d2pxUGt2Z2ptTmhTZDFET28xWVd3MDJzZUMzN3Q5bDgzQnp0eDdSck1rLVdVV0M2bGF0ODRIWEp6Z18wcS15TzlBMl82RUd3Mjlrc2Q2SDdnSkZVMVE1dHdIMFkxSmtZZw?oc=5",
@@ -30030,6 +30321,25 @@
       "published_at": "2026-11-25T00:04:08+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T15:34:11.613280+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:98dcadfa336c2348cd1eaf0cba26cf5f34909929",
+      "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06902a1ca94f20b8926930ed1ad1aa&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fjim-cramer-sizes-up-six-retail-stocks-after-earnings-and-names-his-two-favorites%2far-AA2i9onk&c=18106407342616312095&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here's where Jim Cramer stands on six retailers that rallied after reporting earnings Tuesday, and his two favorites.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:04:08+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:37:15.503163+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
