@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T01:13:20.306017+08:00",
-  "count": 94,
+  "generated_at": "2026-11-26T01:19:16.773864+08:00",
+  "count": 103,
   "sources": [
     {
       "name": "cls",
@@ -15,17 +15,204 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 45,
+      "count": 46,
       "error": ""
     },
     {
       "name": "sina",
       "status": "ok",
-      "count": 10,
+      "count": 11,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvv1659883.shtml",
+      "title": "AI债券已跌到够便宜 DoubleLine的Cohen由看空转为买入",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvv1659883.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "人工智能（AI）债券的价格已跌至足够便宜的水平，吸引此前曾警告该领域可能存在泡沫的DoubleLine Capital企业信贷主管Robert Cohen出手。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:18:17+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:19:11.876591+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261126011659499800",
+      "title": "美国股指跌幅收窄。标普500指数下跌1.45%，纳斯达克指数下跌2.41%，道琼斯指数下跌0.37%。",
+      "url": "https://www.jin10.com/#/flash/20261126011659499800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "美国股指跌幅收窄。标普500指数下跌1.45%，纳斯达克指数下跌2.41%，道琼斯指数下跌0.37%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:16:59+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:19:10.573394+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126011541206800",
+      "title": "Trump said stocks fell sharply because of the Nov. 3 election result, adding tha",
+      "url": "https://www.jin10.com/#/flash/20261126011541206800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Trump said stocks fell sharply because of the Nov. 3 election result, adding that the outcome would have been very different had he been on the ballot and stocks and 401(k) accounts would be booming.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:15:41+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:19:10.573394+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261126011538003800",
+      "title": "美国总统特朗普：股市大幅下跌，是因为11月3日的选举结果。我本人不在选票上，但如果我在，结果就会和之前三次一样大不相同，股市和你们的401-k退休账户就会一片繁",
+      "url": "https://www.jin10.com/#/flash/20261126011538003800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "美国总统特朗普：股市大幅下跌，是因为11月3日的选举结果。我本人不在选票上，但如果我在，结果就会和之前三次一样大不相同，股市和你们的401-k退休账户就会一片繁荣。我早就告诉过你们！",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:15:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:19:10.573394+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261126011500047800",
+      "title": "USD/CAD fell below 1.42, down 0.48% on the day.",
+      "url": "https://www.jin10.com/#/flash/20261126011500047800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "USD/CAD fell below 1.42, down 0.48% on the day.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:19:10.573394+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126011458347800",
+      "title": "美元兑加元USD/CAD回落至1.42下方，日内跌0.48%。",
+      "url": "https://www.jin10.com/#/flash/20261126011458347800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "美元兑加元USD/CAD回落至1.42下方，日内跌0.48%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:14:58+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:19:10.573394+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126011445588800",
+      "title": "OpenAI CEO Sam Altman said the company is testing private inference with a small",
+      "url": "https://www.jin10.com/#/flash/20261126011445588800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "OpenAI CEO Sam Altman said the company is testing private inference with a small group of customers, its latest offering in OpenAI’s private intelligence services.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:14:45+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:19:10.573394+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126011443491800",
+      "title": "OpenAI首席执行官奥尔特曼：目前正在与一小部分客户测试私有推理，这是我们OpenAI私有智能服务的最新产品。",
+      "url": "https://www.jin10.com/#/flash/20261126011443491800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "OpenAI首席执行官奥尔特曼：目前正在与一小部分客户测试私有推理，这是我们OpenAI私有智能服务的最新产品。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:14:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:19:10.573394+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126011238577800",
+      "title": "Embraer said its products currently exported to the United States are not subjec",
+      "url": "https://www.jin10.com/#/flash/20261126011238577800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Embraer said its products currently exported to the United States are not subject to tariffs and strongly advocated a zero-tariff regime for the aerospace industry.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:12:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:19:10.573394+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "jin10:20261126011236495800",
       "title": "巴西航空工业公司：目前公司出口至美国的产品不适用关税，强烈主张航空航天行业实行零关税制度。",
