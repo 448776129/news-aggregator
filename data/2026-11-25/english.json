@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T14:22:26.314296+08:00",
-  "count": 811,
+  "generated_at": "2026-11-25T14:25:13.572876+08:00",
+  "count": 823,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 4,
       "error": ""
     },
     {
@@ -38,6 +38,210 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47406E:0",
+      "title": "Allianz turns tactically positive on Indian rupee, sees less need for RBI rate defence",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47406E:0-allianz-turns-tactically-positive-on-indian-rupee-sees-less-need-for-rbi-rate-defence/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:24:45+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:25:09.851421+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX_IDC:USDINR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4281442:0",
+      "title": "Chang Hwa Commercial Bank: 9M26 earnings rose strongly as lending and fee income grew, amid persistent macro risks",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4281442:0-chang-hwa-commercial-bank-9m26-earnings-rose-strongly-as-lending-and-fee-income-grew-amid-persistent-macro-risks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:24:09+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:25:09.851421+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TWSE:2801"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4760AZ:0",
+      "title": "Who's afraid of Jamieson Greer?",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4760AZ:0-who-s-afraid-of-jamieson-greer/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:23:04+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:25:09.851421+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA",
+          "KRX:KOSPI",
+          "TVC:NI225",
+          "CME_MINI:ES1!",
+          "ICEEUR:BRN1!",
+          "LME:CA1!",
+          "FX:AUDUSD",
+          "EUREX:FESX1!",
+          "BMFBOVESPA:DAX1!",
+          "ICEEUR:Z1!",
+          "NYSE:DE",
+          "TVC:UKOIL",
+          "COMEX:HG1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125000553_20261125000554:0",
+      "title": "Sanofi Target Raised to EUR105 From EUR80 by RBC",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125000553_20261125000554:0-sanofi-target-raised-to-eur105-from-eur80-by-rbc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:23:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:25:09.851421+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:SAN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4733454:0",
+      "title": "ADXN: GABAB PAM rights returned as YTD net loss reached CHF 5.351m",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4733454:0-adxn-gabab-pam-rights-returned-as-ytd-net-loss-reached-chf-5-351m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:22:35+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:25:09.851421+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SIX:ADXN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3701150:0",
+      "title": "PE: Renewables lifted 9M EBITDA, while 3Q power-price volatility pressured supply margins",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3701150:0-pe-renewables-lifted-9m-ebitda-while-3q-power-price-volatility-pressured-supply-margins/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:22:35+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:25:09.851421+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BVB:PE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125000525_20261125000526:0",
+      "title": "Ipsen Target Raised to EUR175 From EUR148 by RBC",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125000525_20261125000526:0-ipsen-target-raised-to-eur175-from-eur148-by-rbc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:22:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:25:09.851421+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:IPN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125000089:0",
+      "title": "Prosus Posts Lower Net Profit on Smaller Gain From Tencent Stock Sales",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125000089:0-prosus-posts-lower-net-profit-on-smaller-gain-from-tencent-stock-sales/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:22:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:25:09.851421+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:PRX"
+        ]
+      }
+    },
     {
       "id": "tradingview:stocktwits:ed4a7f080094b:0",
       "title": "Fundstrat's Tom Lee Sees Less Downside Into 2026 Year-End: Here's Why",
@@ -14438,6 +14642,25 @@
       "extra": {}
     },
     {
+      "id": "msn:56ddefc29040169a82e56a4cdc7ce5fc12f89327",
+      "title": "Stock Market Live Updates: Sensex zooms over 2,000 points, Nifty tops 25,900; HDFC, ICICI ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b067f45355b4eb6bde9e7e681441f04&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026%2fliveblog%2f136145716.cms&c=2500710713444335276&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "GIFT Nifty futures on the NSE IX were trading higher, indicating a strong gap-up opening for Dalal Street on Wednesday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T06:08:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:25:11.612161+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:5a97cc26089d3e8e4b36015e14f0b0b650825700",
       "title": "Stock Market Live Updates: Sensex zooms over 2,000 points, Nifty tops 25,900; HDFC, ICICI ...",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b067b0e34eb4c05b89e6a9288136704&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026%2fliveblog%2f136145716.cms&c=2500710713444335276&mkt=en-us",
@@ -16587,6 +16810,25 @@
       "extra": {}
     },
     {
+      "id": "msn:5ab33581ee67c4457d5cd33fcd071caebcc87e54",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty extends gains to 600 points, nears 26,000 mark",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b067f45355b4eb6bde9e7e681441f04&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-ai-tariffs-it-nifty-bank-tata-steel-apl-apollo-zee-ril-adani-share-price-liveblog-20040632.htm&c=1104828012116773145&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The Nifty bulls enter the mid-week session starting a new F&O series on the back of mixed cues. They would have not liked the ferocity of the fall seen on Monday and the fact that both Nifty and the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:41:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:25:11.612161+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8805359",
       "title": "US farm secretary pledges to fight court order halting her religious emails - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2lqUENSMVI4YnVLV3ROcmZhNEE0M1Rvcm41d21paGoyVEFmTlVYUFY4aXFCOTdYU1Z0Yi01eXNWeXh4X3NybTM1SUVSdjZXbDM2VERKY1JpWXRMdTJuUGp1cXVDSEdVazJBOEtEZ2tCTUhOdDBuNkEyMllTbG9ISThNS3dnNTFQUl9US3lZUmg1QzVRQVYtOVJkb0VOd2x2RkhuX1l2ZlBZRGNLY2tZaF9iWGtITWlu?oc=5",
@@ -18245,6 +18487,25 @@
       "extra": {}
     },
     {
+      "id": "msn:6bc8bbcf52ec3fda0234e12f7c9bf3e1ed495744",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b067f45355b4eb6bde9e7e681441f04&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:25:11.612161+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8805055",
       "title": "Congo mining forum announces $965 million in sector financing - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGdrZjdudnB3N1RtMDR5dXlRWm8zMnA0b1NXQ3JNWGFhQ3BMSWNPOWpBU1hVT2hMRkl2THlRc3JDY1BmYk5jTF85d2pxUGt2Z2ptTmhTZDFET28xWVd3MDJzZUMzN3Q5bDgzQnp0eDdSck1rLVdVV0M2bGF0ODRIWEp6Z18wcS15TzlBMl82RUd3Mjlrc2Q2SDdnSkZVMVE1dHdIMFkxSmtZZw?oc=5",
@@ -18439,6 +18700,25 @@
       "published_at": "2026-11-25T00:04:08+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T14:22:24.583464+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6975494e4e20561461b077947181c935ad3b42e9",
+      "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b067f464a964f2e9af3b3fbcb4531e5&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fjim-cramer-sizes-up-six-retail-stocks-after-earnings-and-names-his-two-favorites%2far-AA2i9onk&c=18106407342616312095&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here's where Jim Cramer stands on six retailers that rallied after reporting earnings Tuesday, and his two favorites.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:04:08+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:25:11.612161+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
