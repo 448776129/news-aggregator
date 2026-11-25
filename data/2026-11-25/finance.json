@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T12:37:13.329237+08:00",
-  "count": 334,
+  "generated_at": "2026-11-25T12:40:15.587655+08:00",
+  "count": 340,
   "sources": [
     {
       "name": "cls",
@@ -26,6 +26,25 @@
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/money/fund/2026-11-25/doc-inizxpkp4298060.shtml",
+      "title": "希音披露美国FTC调查最新进展：将向美国财政部支付1亿美元",
+      "url": "https://finance.sina.com.cn/money/fund/2026-11-25/doc-inizxpkp4298060.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "新浪科技",
+      "summary": "新浪科技讯 11月25日午间消息，今日，希音在港交所公告《关于美国联邦贸易委员会调查的最新进展》。公告显示，诚如公司日期为2026年8月24日的招股章程及2026年9月28日的202...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:38:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:40:12.100187+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/hkgg/2026-11-25/doc-inizxpkp4296152.shtml",
       "title": "交银国际：中创新航维持“买入”评级 目标价下调至21.68港元",
@@ -63,6 +82,111 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261125123216076800",
+      "title": "A Russian attack in Ukraine's Kyiv region killed one person, the regional govern",
+      "url": "https://www.jin10.com/#/flash/20261125123216076800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "A Russian attack in Ukraine's Kyiv region killed one person, the regional governor said.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:32:16+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:40:11.058027+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261125123214648800",
+      "title": "当地州长：俄罗斯袭击在乌克兰基辅地区造成一人死亡。",
+      "url": "https://www.jin10.com/#/flash/20261125123214648800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "当地州长：俄罗斯袭击在乌克兰基辅地区造成一人死亡。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:32:14+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:40:11.058027+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261125123157553800",
+      "title": "Bank Indonesia is committed to implementing measures to stabilize Indonesia’s ru",
+      "url": "https://www.jin10.com/#/flash/20261125123157553800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Bank Indonesia is committed to implementing measures to stabilize Indonesia’s rupiah in 2027, the central bank governor said.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:31:57+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:40:11.058027+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261125123155193800",
+      "title": "印尼央行行长：印尼央行承诺于2027年实施稳定印尼盾的措施。",
+      "url": "https://www.jin10.com/#/flash/20261125123155193800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "印尼央行行长：印尼央行承诺于2027年实施稳定印尼盾的措施。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:31:55+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:40:11.058027+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261125123036643800",
+      "title": "Bank Indonesia’s budget proposal to parliament projects Indonesia’s rupiah at 17",
+      "url": "https://www.jin10.com/#/flash/20261125123036643800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Bank Indonesia’s budget proposal to parliament projects Indonesia’s rupiah at 17,800-18,200 per dollar in 2027.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:30:36+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:40:11.058027+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261125123034569800",
