@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:37:15.755056+08:00",
-  "count": 1799,
+  "generated_at": "2026-11-26T00:40:24.375191+08:00",
+  "count": 1800,
   "sources": [
     {
       "name": "cls",
@@ -15,17 +15,36 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "error": ""
     },
     {
       "name": "sina",
       "status": "ok",
-      "count": 44,
+      "count": 43,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizyqvt9288497.shtml",
+      "title": "AI之忧加剧科技股抛售 纳斯达克100指数迈向熊市",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizyqvt9288497.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "投资者出于对人工智能前景的担心纷纷抛售美国科技股，纳斯达克100指数周三可能收在熊市区域。 该指数周三早盘下跌4.7%，收盘料较10月触及的纪录高点下跌20%...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:58:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:40:21.067390+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizyqvv1622639.shtml",
       "title": "纳斯达克100指数进入“先卖再说”模式 AI和加息之忧刺激抛售",

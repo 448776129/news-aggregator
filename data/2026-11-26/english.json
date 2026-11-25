@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:37:15.792363+08:00",
-  "count": 222,
+  "generated_at": "2026-11-26T00:40:24.412631+08:00",
+  "count": 236,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,228 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 14,
+      "count": 16,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:stocktwits:ff7827016094b:0",
+      "title": "Gold Hits Near 15-Month Lows, Silver Crashes Below $40 Amid Fed Hike Fears – All Eyes On The Fed Rate Decision",
+      "url": "https://stocktwits.com/news-articles/markets/equity/gold-hits-near-15-month-lows-silver-crashes-below-40-amid-fed-hike-fears-all-eyes-on-the-fed-rate-decision/cNbHmqcR9mo",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:38:46+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:40:20.156874+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD",
+          "COMEX:SI1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:6c18d8157ca06:0",
+      "title": "Citigroup maintains Analog Devices at Buy, lowers price target to $400 from $460",
+      "url": "https://www.tradingview.com/news/tradingview:6c18d8157ca06:0-citigroup-maintains-analog-devices-at-buy-lowers-price-target-to-400-from-460/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:38:44+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:40:20.156874+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ADI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4822644:0",
+      "title": "11 Bit Studios : Lower 9M revenue and earnings, with DLC and publishing launches ahead",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4822644:0-11-bit-studios-lower-9m-revenue-and-earnings-with-dlc-and-publishing-launches-ahead/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:38:09+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:40:20.156874+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:11B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:95ea85c595635:0",
+      "title": "U.S. Jobless Claims Pull Back More Than Expected, Matching Multi-Decade Low",
+      "url": "https://www.tradingview.com/news/dpa_afx:95ea85c595635:0-u-s-jobless-claims-pull-back-more-than-expected-matching-multi-decade-low/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:37:59+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:40:20.156874+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761RU:0",
+      "title": "11 Bit Studios Q3 Net Profit At 1.4 Million Zlotys",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761RU:0-11-bit-studios-q3-net-profit-at-1-4-million-zlotys/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:37:28+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:40:20.156874+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:11B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:2f87a8d1baad3:0",
+      "title": "Wedbush maintains Best Buy Co at Neutral, raises price target to $100 from $85",
+      "url": "https://www.tradingview.com/news/tradingview:2f87a8d1baad3:0-wedbush-maintains-best-buy-co-at-neutral-raises-price-target-to-100-from-85/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:37:25+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:40:20.156874+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BBY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:7ab2fec949d81:0",
+      "title": "Citigroup maintains Bilibili at Buy, lowers price target to $20 from $26.50",
+      "url": "https://www.tradingview.com/news/tradingview:7ab2fec949d81:0-citigroup-maintains-bilibili-at-buy-lowers-price-target-to-20-from-26-50/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:37:24+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:40:20.156874+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:BILI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005432:0",
+      "title": "Fragrance Giants Handed $630 Million in EU, U.K. Antitrust Fines — Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005432:0-fragrance-giants-handed-630-million-in-eu-u-k-antitrust-fines-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:37:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:40:20.156874+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:DSFIR",
+          "BX:GIN",
+          "NYSE:IFF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005430:0",
+      "title": "Grid Dynamics Initiated at Outperform by Wedbush",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005430:0-grid-dynamics-initiated-at-outperform-by-wedbush/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:37:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:40:20.156874+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:GDYN"
+        ]
+      }
+    },
     {
       "id": "tradingview:moodys:acda3c4f96fac:0",
       "title": "Lu Weibing Foresees Spike in Xiaomi Auto Deliveries in 4Q; Smartphone Biz Gradually Stabilizing",
@@ -182,6 +399,43 @@
         "urgency": 2,
         "symbols": [
           "NYSE:DAVA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:6fe7e9d08094b:0",
+      "title": "Dollar Tree, Tesco lead large-cap consumer staples stocks on quant ratings",
+      "url": "https://seekingalpha.com/news/4676525-dollar-tree-tesco-lead-large-cap-consumer-staples-stocks-on-quant-ratings?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:35:37+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:40:20.156874+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:DLTR",
+          "OTC:TSCDY",
+          "NASDAQ:KDP",
+          "NYSE:ADM",
+          "NASDAQ:CART",
+          "OTC:BDRFY",
+          "OTC:PRNDY",
+          "OTC:WMMVY",
+          "NYSE:BG",
+          "OTC:CCHGY",
+          "LSE:TSCO",
+          "XETR:BEI",
+          "EURONEXT:RI",
+          "LSE:CCH"
         ]
       }
     },
@@ -618,6 +872,44 @@
       }
     },
     {
+      "id": "yahoo:4c200423d19029f6ab521d2cee331a8c6e6c6024",
+      "title": "Nvidia’s Biggest Advantage Could Become Its Biggest Weakness, Says Former Intel AI Chief",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63635370/nvidia-ai-chip-advantage-rao?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Artificial intelligence has helped make Nvidia Corp. (NASDAQ:NVDA) one of the world’s most valuable companies, but could eventually undermine one of its biggest competitive advantages. Naveen Rao, the former head of Intel’s AI chip division, argues that Nvidia’s chips sacrifice...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:32:07+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:40:19.558606+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/nvidia-s-jensen-huang-should-do-this-1-thing-now/?.tsrc=rss",
+      "title": "Nvidia’s Jensen Huang Should Do This 1 Thing Now",
+      "url": "https://www.fool.com/investing/2026/11/25/nvidia-s-jensen-huang-should-do-this-1-thing-now/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "This one move could reassure investors.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:32:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:40:19.558606+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:modular_finance:06b76ecb60b76:0",
       "title": "Gapwaves to host an online company presentation and Q&A session",
       "url": "https://www.tradingview.com/news/modular_finance:06b76ecb60b76:0-gapwaves-to-host-an-online-company-presentation-and-q-a-session/",
@@ -957,6 +1249,31 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:acceswire:5f9869bdf094b:0",
+      "title": "Impauer Technologies Launches PauerOne V3 With Integrated V1 Payment Onboarding Gateway for Consumer Access",
+      "url": "https://www.accessnewswire.com/newsroom/en/blockchain-and-cryptocurrency/impauer-technologies-launches-pauerone-v3-with-integrated-v1-payment-1255581",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "ACCESS Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:31:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:40:20.156874+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:IMPR",
+          "OTC:IMPTF"
+        ]
       }
     },
     {
@@ -1707,6 +2024,25 @@
           "TASE:TLSY"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/why-spacex-stock-keeps-going-down/?.tsrc=rss",
+      "title": "Why SpaceX Stock Keeps Going Down",
+      "url": "https://www.fool.com/investing/2026/11/25/why-spacex-stock-keeps-going-down/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "SpaceX stock is now a broken IPO -- and Tesla may be to blame.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:23:59+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:40:19.558606+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4760WT:0",

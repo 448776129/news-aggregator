@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:37:15.796388+08:00",
-  "count": 61,
+  "generated_at": "2026-11-26T00:40:24.417295+08:00",
+  "count": 62,
   "sources": [
     {
       "name": "cls",
@@ -15,17 +15,36 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 44,
+      "count": 46,
       "error": ""
     },
     {
       "name": "sina",
       "status": "ok",
-      "count": 6,
+      "count": 7,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvv1642418.shtml",
+      "title": "高盛策略师称美股还未到抄底时机 AI投资回报仍是市场焦点",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvv1642418.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "高盛资产配置研究主管Christian Mueller-Glissmann警告称，现在还不是买入股票的时候，投资者需要看到企业对AI数以十亿美元计的资金投入带来实际利润。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:40:10+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:40:21.067390+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261126003637843800",
       "title": "美国至11月25日7年期国债竞拍-投标倍数 2.43，前值2.46。",
