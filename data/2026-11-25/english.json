@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T23:28:17.333369+08:00",
-  "count": 5045,
+  "generated_at": "2026-11-25T23:31:18.553590+08:00",
+  "count": 5106,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 9,
       "error": ""
     },
     {
@@ -38,6 +38,1211 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6969Ea:0",
+      "title": "REG - PCI-PAL PLC - Director/PDMR Shareholding",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6969Ea:0-reg-pci-pal-plc-director-pdmr-shareholding/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:26+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:PCIP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:ce8771d0bcdc8:0",
+      "title": "Morgan Stanley downgrades Ambarella to Equal-Weight from Overweight, lowers price target to $42 from $70",
+      "url": "https://www.tradingview.com/news/tradingview:ce8771d0bcdc8:0-morgan-stanley-downgrades-ambarella-to-equal-weight-from-overweight-lowers-price-target-to-42-from-70/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:16+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMBA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004936:0",
+      "title": "DOE Oil Data: US Petroleum Stocks",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004936:0-doe-oil-data-us-petroleum-stocks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004907_20261125004915:0",
+      "title": "DOE: Cushing Crude Stocks -0.534 Mln Bbl At 25.613 Mln Bbl",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004907_20261125004915:0-doe-cushing-crude-stocks-0-534-mln-bbl-at-25-613-mln-bbl/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004907_20261125004927:0",
+      "title": "DOE: Distillate Demand +0.132 Mln B/D At 3.917 Mln B/D",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004907_20261125004927:0-doe-distillate-demand-0-132-mln-b-d-at-3-917-mln-b-d/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004907_20261125004919:0",
+      "title": "DOE: Distillate Output -0.012 Mln B/D At 5.219 Mln B/D",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004907_20261125004919:0-doe-distillate-output-0-012-mln-b-d-at-5-219-mln-b-d/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004907_20261125004923:0",
+      "title": "DOE: E Coast Heating Oil Stocks +0.061M Bbl At 0.381M Bbl",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004907_20261125004923:0-doe-e-coast-heating-oil-stocks-0-061m-bbl-at-0-381m-bbl/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004907_20261125004925:0",
+      "title": "DOE: Gasoline Imports -0.219 Mln B/D At 0.314 Mln B/D",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004907_20261125004925:0-doe-gasoline-imports-0-219-mln-b-d-at-0-314-mln-b-d/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004907_20261125004918:0",
+      "title": "DOE: Gasoline Output +0.258 Mln B/D At 9.682 Mln B/D",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004907_20261125004918:0-doe-gasoline-output-0-258-mln-b-d-at-9-682-mln-b-d/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004907_20261125004921:0",
+      "title": "DOE: Gulf Coast Crude Stocks +1.484M Bbl At 234.684M Bbl",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004907_20261125004921:0-doe-gulf-coast-crude-stocks-1-484m-bbl-at-234-684m-bbl/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004907_20261125004924:0",
+      "title": "DOE: US Crude Imports +0.674 Mln B/D At 6.25 Mln B/D",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004907_20261125004924:0-doe-us-crude-imports-0-674-mln-b-d-at-6-25-mln-b-d/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004907_20261125004917:0",
+      "title": "DOE: US Crude Inputs +0.428 Mln B/D At 17.346 Mln B/D",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004907_20261125004917:0-doe-us-crude-inputs-0-428-mln-b-d-at-17-346-mln-b-d/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004907_20261125004907:0",
+      "title": "DOE: US Crude Oil Stocks +1.109 Mln Bbl At 418.906 Mln Bbl",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004907_20261125004907:0-doe-us-crude-oil-stocks-1-109-mln-bbl-at-418-906-mln-bbl/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 1,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004908_20261125004908:0",
+      "title": "DOE: US Crude Oil Stocks +1.109M Bbl In Wk; Seen +1.1M Bbl",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004908_20261125004908:0-doe-us-crude-oil-stocks-1-109m-bbl-in-wk-seen-1-1m-bbl/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 1,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004907_20261125004911:0",
+      "title": "DOE: US Distillate Stocks +0.715 Mln Bbl At 105.616 Mln Bbl",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004907_20261125004911:0-doe-us-distillate-stocks-0-715-mln-bbl-at-105-616-mln-bbl/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004908_20261125004912:0",
+      "title": "DOE: US Distillate Stocks +0.715M Bbl In Wk; Seen +0.8M Bbl",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004908_20261125004912:0-doe-us-distillate-stocks-0-715m-bbl-in-wk-seen-0-8m-bbl/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004907_20261125004926:0",
+      "title": "DOE: US Gasoline Demand -0.076 Mln B/D At 8.714 Mln B/D",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004907_20261125004926:0-doe-us-gasoline-demand-0-076-mln-b-d-at-8-714-mln-b-d/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004907_20261125004909:0",
+      "title": "DOE: US Gasoline Stocks +1.733 Mln Bbl At 217.682 Mln Bbl",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004907_20261125004909:0-doe-us-gasoline-stocks-1-733-mln-bbl-at-217-682-mln-bbl/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004908_20261125004910:0",
+      "title": "DOE: US Gasoline Stocks +1.733M Bbl In Wk; Seen +1.2M Bbl",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004908_20261125004910:0-doe-us-gasoline-stocks-1-733m-bbl-in-wk-seen-1-2m-bbl/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004907_20261125004916:0",
+      "title": "DOE: US Heating Oil Stocks +0.219 Mln Bbl At 6.907 Mln Bbl",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004907_20261125004916:0-doe-us-heating-oil-stocks-0-219-mln-bbl-at-6-907-mln-bbl/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004907_20261125004920:0",
+      "title": "DOE: US Midwest Crude Stocks -0.336M Bbl At 107.343M Bbl",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004907_20261125004920:0-doe-us-midwest-crude-stocks-0-336m-bbl-at-107-343m-bbl/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004907_20261125004913:0",
+      "title": "DOE: US Refineries Ran At 97.5% Vs 95.7% Week Ago",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004907_20261125004913:0-doe-us-refineries-ran-at-97-5-vs-95-7-week-ago/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004908_20261125004914:0",
+      "title": "DOE: US Refineries Ran At 97.5%; Seen 95.70%",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004908_20261125004914:0-doe-us-refineries-ran-at-97-5-seen-95-70/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004907_20261125004928:0",
+      "title": "DOE: US SPR -2.896 Mln Bbl At 273.465 Mln Bbl",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004907_20261125004928:0-doe-us-spr-2-896-mln-bbl-at-273-465-mln-bbl/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004907_20261125004922:0",
+      "title": "DOE: US West Coast Crude Stocks -0.742M Bbl At 43.63M Bbl",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004907_20261125004922:0-doe-us-west-coast-crude-stocks-0-742m-bbl-at-43-63m-bbl/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6951Ea:0",
+      "title": "REG - Centrica PLC - Director/PDMR Shareholding",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6951Ea:0-reg-centrica-plc-director-pdmr-shareholding/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:CNA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6880Ea:0",
+      "title": "REG - Supermarket Inc REIT - Result of Annual General Meeting",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6880Ea:0-reg-supermarket-inc-reit-result-of-annual-general-meeting/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:SUPR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6502Ea:0",
+      "title": "REG - Syquant Capital Ashtead Tech Hldgs - Form 8.3: AT/ LN",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6502Ea:0-reg-syquant-capital-ashtead-tech-hldgs-form-8-3-at-ln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:AT."
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6504Ea:0",
+      "title": "REG - Syquant Capital Prologis, Inc. SEGRO PLC - Form 8.3: PLD US",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6504Ea:0-reg-syquant-capital-prologis-inc-segro-plc-form-8-3-pld-us/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PLD",
+          "LSE:SGRO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6503Ea:0",
+      "title": "REG - Syquant Capital SEGRO PLC Prologis, Inc. - Form 8.3: SGRO LN",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6503Ea:0-reg-syquant-capital-segro-plc-prologis-inc-form-8-3-sgro-ln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:SGRO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6506Ea:0",
+      "title": "REG - Syquant Capital Spire Healthcare Grp - Form 8.3: SPI LN",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6506Ea:0-reg-syquant-capital-spire-healthcare-grp-form-8-3-spi-ln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:SPI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:159ce4ff425c6:0",
+      "title": "Xbrane and Yongtao enter into exclusive agreement for Ximluci® in Greater China",
+      "url": "https://www.tradingview.com/news/modular_finance:159ce4ff425c6:0-xbrane-and-yongtao-enter-into-exclusive-agreement-for-ximluci-in-greater-china/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:XBRANE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:76b1db8cdd5f2:0",
+      "title": "Keybanc maintains Symbotic at Overweight, lowers price target to $58 from $70",
+      "url": "https://www.tradingview.com/news/tradingview:76b1db8cdd5f2:0-keybanc-maintains-symbotic-at-overweight-lowers-price-target-to-58-from-70/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:29:31+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SYM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004901:0",
+      "title": "Galderma Could Pursue More Deals — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004901:0-galderma-could-pursue-more-deals-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:29:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SIX:GALD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760NG:0",
+      "title": "Dollar boosted by safety bid as stocks tumble",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760NG:0-dollar-boosted-by-safety-bid-as-stocks-tumble/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:28:49+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:DXY",
+          "FX:EURUSD",
+          "FX_IDC:USDJPY",
+          "FX_IDC:USDCHF",
+          "FX:AUDUSD",
+          "BITSTAMP:BTCUSD",
+          "BITSTAMP:ETHUSD",
+          "FX:EURCHF",
+          "FX:EURJPY",
+          "FX:GBPUSD",
+          "FX:NZDUSD",
+          "FX:USDCNH",
+          "FX:USDCAD",
+          "FX:USDCHF",
+          "FX:USDJPY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:54ae4c5432411:0",
+      "title": "Goldman Sachs maintains Dollar Tree at Neutral, raises price target to $149 from $131",
+      "url": "https://www.tradingview.com/news/tradingview:54ae4c5432411:0-goldman-sachs-maintains-dollar-tree-at-neutral-raises-price-target-to-149-from-131/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:28:07+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:DLTR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6968Ea:0",
+      "title": "REG - Cranswick PLC - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6968Ea:0-reg-cranswick-plc-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:28:07+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:CWK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761DX:0",
+      "title": "Alpha Bank Total Interim Dividend Amount For 2026 At €124.2 Million",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761DX:0-alpha-bank-total-interim-dividend-amount-for-2026-at-124-2-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:28:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ATHEX:ALPHA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004899:0",
+      "title": "Ipsen Is Diversifying, But Not Fast Enough — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004899:0-ipsen-is-diversifying-but-not-fast-enough-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:28:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:IPN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004898:0",
+      "title": "New Home Sales Surged in October",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004898:0-new-home-sales-surged-in-october/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:28:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ECONOMICS:USEHS",
+          "ECONOMICS:USEHSMM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:d0d273d6d15ba:0",
+      "title": "Options Now Available on ANUU, ANDD & ANSS: Leverage Shares by Themes 2X Long, 2X Short and 1X Short Anthropic (ANT) ETFs",
+      "url": "https://www.tradingview.com/news/prnewswire:d0d273d6d15ba:0-options-now-available-on-anuu-andd-anss-leverage-shares-by-themes-2x-long-2x-short-and-1x-short-anthropic-ant-etfs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:28:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOE:ANDD",
+          "CBOE:ANSS",
+          "CBOE:ANUU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0b09af4ce6c81:0",
+      "title": "Themes ETFs Adds Options on Three Anthropic ETFs",
+      "url": "https://www.tradingview.com/news/tradingview:0b09af4ce6c81:0-themes-etfs-adds-options-on-three-anthropic-etfs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:28:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47616C:0",
+      "title": "Nasdaq slides 4% as AI selloff, tariff proposals rattle Wall St",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47616C:0-nasdaq-slides-4-as-ai-selloff-tariff-proposals-rattle-wall-st/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:27:57+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA",
+          "NASDAQ:SOX",
+          "NASDAQ:GOOG",
+          "NASDAQ:AMZN",
+          "NASDAQ:MSFT",
+          "NASDAQ:AAPL",
+          "NASDAQ:ANT",
+          "NASDAQ:NDX",
+          "DJ:DJI",
+          "TVC:IXIC",
+          "SP:S5INFT",
+          "NYSE:DELL",
+          "NYSE:HPQ",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:738407:0",
+      "title": "Motor Oil (Hellas) Corinth Refineries Q3 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:738407:0-motor-oil-hellas-corinth-refineries-q3-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:27:33+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ATHEX:MOH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6967Ea:0",
+      "title": "REG - Barclays PLC Tate & Lyle PLC - Form 8.3 TATE & LYLE PLC",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6967Ea:0-reg-barclays-plc-tate-lyle-plc-form-8-3-tate-lyle-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:27:18+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TATE",
+          "LSE:BARC"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/25/alphabet-is-most-beat-down-ai-company/?.tsrc=rss",
+      "title": "Alphabet Is Most Beat Down AI Company",
+      "url": "https://247wallst.com/investing/2026/11/25/alphabet-is-most-beat-down-ai-company/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "A lot of the big megatech companies in the AI space have taken a major beating. None, however, has done worse than Alphabet (NASDAQ: GOOG). It seems every significant move it has made has done poorly. The market has begun to realize that its own AI business has undermined its core Google search business. But […]",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:27:15+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:11.526432+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4761KC:0",
+      "title": "Del Vecchio heir: Delfin pact could let family cut stake, retain control",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4761KC:0-del-vecchio-heir-delfin-pact-could-let-family-cut-stake-retain-control/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:27:14+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:EL",
+          "MIL:BMPS",
+          "MIL:G"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:a7e5d615c080c:0",
+      "title": "Goldman Sachs maintains Fluence Energy at Neutral, lowers price target to $5 from $7",
+      "url": "https://www.tradingview.com/news/tradingview:a7e5d615c080c:0-goldman-sachs-maintains-fluence-energy-at-neutral-lowers-price-target-to-5-from-7/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:27:14+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:FLNC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:502bccba304d7:0",
+      "title": "Keybanc maintains Dycom Industries at Overweight, lowers price target to $304 from $429",
+      "url": "https://www.tradingview.com/news/tradingview:502bccba304d7:0-keybanc-maintains-dycom-industries-at-overweight-lowers-price-target-to-304-from-429/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:27:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761DE:0",
+      "title": "JLogo To Issue 11.4 MLN Shares At HK$0.25 Per Share",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761DE:0-jlogo-to-issue-11-4-mln-shares-at-hk-0-25-per-share/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:27:07+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:8527"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6368Ea:0",
+      "title": "REG - Alantra EQMC Mgmt CAB Payments Hldgs - Form 8.3- CAB Payments Holdings plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6368Ea:0-reg-alantra-eqmc-mgmt-cab-payments-hldgs-form-8-3-cab-payments-holdings-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:27:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:12.052232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:CABA"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761D1:0",
       "title": "China Carbon Neutral Development Enters Six Subscription Agreements For 196.1 MLN Subscription Shares",
@@ -1579,6 +2784,25 @@
           "NASDAQ:FLY"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/corning-glw-rides-ai-optimism-151209714.html?.tsrc=rss",
+      "title": "Corning (GLW) Rides AI Optimism On A Narrative That Still Sees It Undervalued",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-rides-ai-optimism-151209714.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Corning (GLW) jumped into focus after Nvidia’s board reinstated Jensen Huang as CEO. This decision sent Nvidia shares sharply higher and pulled AI infrastructure related stocks, including Corning, up alongside. That surge sits against a choppy backdrop, with Corning’s share price down 17.6% over the past month and 33.3% over 90 days, even as the year-to-date share price return is 12.4% and the 1-year total shareholder return is 23.8%. Expand your AI hardware watchlist by comparing Corning’s...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:12:09+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:11.526432+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:business_wire:4426c15021d51:0",
@@ -73151,6 +74375,25 @@
       "extra": {}
     },
     {
+      "id": "msn:560a5806d63232abbcc61f27b106527de949b8af",
+      "title": "Stock Market Today: Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ff40a8e24beab57c308a0645611e&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:09:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:13.818569+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760C2:0",
       "title": "Dollar rallies before key inflation reading; Aussie and sterling slump",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760C2:0-dollar-rallies-before-key-inflation-reading-aussie-and-sterling-slump/",
@@ -84620,6 +85863,25 @@
       "extra": {}
     },
     {
+      "id": "msn:eb848718aa7b31ef01c473ad455ffb2ff84ca4b1",
+      "title": "Stock Market Today: Futures Plunge as AI Rout Resumes; Nvidia Leads Chip Stocks Lower ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ff40a8e24beab57c308a0645611e&url=https%3a%2f%2fwww.investopedia.com%2fstock-market-today-dow-jones-s-and-p-500-nasdaq-11252026-12279355&c=14548726542868548574&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stocks are under pressure again Wednesday morning as the volatility that has gripped the AI trade in recent weeks intensifies.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:13.818569+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N476080:0",
       "title": "Palm oil falls on weaker soyoil, crude; Dalian gains limit losses",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N476080:0-palm-oil-falls-on-weaker-soyoil-crude-dalian-gains-limit-losses/",
@@ -88024,6 +89286,25 @@
       "extra": {}
     },
     {
+      "id": "msn:368535a652a5178e58e33ed919ffffca615ae60b",
+      "title": "Celestica: Nine Times Next Year's Earnings Is Cheap",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ff40f8b247e5b93a9ef4f08eb71f&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4971827-celestica-nine-times-next-years-earnings-is-cheap&c=757309997248780644&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "(CLS) stock is a buy with a 12-month $258 target at 12x 2027 EPS of $21.50; shares trade at 9.4x, with cash-use risks.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:23:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:13.818569+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_P8N46N03U:0",
       "title": "Japan not considering issuing new deficit-financing bonds for extra budget, TBS says",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46N03U:0-japan-not-considering-issuing-new-deficit-financing-bonds-for-extra-budget-tbs-says/",
@@ -90549,6 +91830,25 @@
       "published_at": "2026-11-25T11:49:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T23:22:14.832543+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d9a0153539fdf521dfa6922c76a21e47d64834e7",
+      "title": "Ten undervalued energy stocks after Q3 earnings, led by Par Pacific",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ff40f8b247e5b93a9ef4f08eb71f&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4676519-ten-undervalued-energy-stocks-after-q3-earnings-led-by-par-pacific&c=2722455980253807025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Seeking Alpha's screen names 10 undervalued energy stocks, led by Par Pacific with an A+ valuation grade; four others earn A grades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:13.818569+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -94366,6 +95666,25 @@
       "extra": {}
     },
     {
+      "id": "msn:75492c3ff00d2debe75a305e78c1e63832bf9fd6",
+      "title": "Dell stock tanks after blowout earnings. Wall Street Just Isn't Impressed.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ff40f8b247e5b93a9ef4f08eb71f&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticle%2fdell-stock-tanks-after-blowout-earnings-wall-street-just-isnt-impressed-103036530.html&c=9166844148941319656&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The company raised its full-year revenue outlook to $202 billion, well above Wall Street's roughly $195 billion forecast. Its earnings guidance also came in ahead of expectations, with adjusted EPS ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:31:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:13.818569+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:cnbctv:dccf57702094b:0",
       "title": "Nvidia doesn’t need a succession plan, says Jensen Huang after returning to company",
       "url": "https://www.tradingview.com/news/cnbctv:dccf57702094b:0/",
@@ -95767,6 +97086,25 @@
       "published_at": "2026-11-25T10:00:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T23:22:14.832543+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d4d40317fc63fadc94f5fd076b8c2d342da143d1",
+      "title": "Nvidia is crucial to the economy. An AI wipeout could unleash unexpected consequences",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ff40401c4be081bc3161047a4517&url=https%3a%2f%2fwww.cnn.com%2f2026%2f11%2f25%2feconomy%2fstock-market-ai-gdp&c=11431870174890467752&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "In the two weeks without Jensen Huang at the helm of Nvidia, Wall Street turned its back on AI. A deep and prolonged stock market sell-off exposed risks to an economy that is increasingly reliant on ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:00:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:13.818569+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -101034,6 +102372,25 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T23:22:14.832543+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b665d189bda5a9e65b88667d1cb43d07dbbb0b42",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ff40f8b247e5b93a9ef4f08eb71f&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:13.818569+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -113650,6 +115007,25 @@
       "extra": {}
     },
     {
+      "id": "msn:3363d7ef1dce703f37dd1e84a004c5cf46653bb0",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ff40a8e24beab57c308a0645611e&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:13.818569+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8805055",
       "title": "Congo mining forum announces $965 million in sector financing - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGdrZjdudnB3N1RtMDR5dXlRWm8zMnA0b1NXQ3JNWGFhQ3BMSWNPOWpBU1hVT2hMRkl2THlRc3JDY1BmYk5jTF85d2pxUGt2Z2ptTmhTZDFET28xWVd3MDJzZUMzN3Q5bDgzQnp0eDdSck1rLVdVV0M2bGF0ODRIWEp6Z18wcS15TzlBMl82RUd3Mjlrc2Q2SDdnSkZVMVE1dHdIMFkxSmtZZw?oc=5",
@@ -114965,6 +116341,25 @@
       "published_at": "2026-11-25T00:04:08+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T23:22:14.832543+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:f92953053773b51ca17c5ef5e7d1ace53c4060ed",
+      "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ff40f8b247e5b93a9ef4f08eb71f&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fjim-cramer-sizes-up-six-retail-stocks-after-earnings-and-names-his-two-favorites%2far-AA2i9onk&c=18106407342616312095&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here's where Jim Cramer stands on six retailers that rallied after reporting earnings Tuesday, and his two favorites.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:04:08+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:31:13.818569+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
