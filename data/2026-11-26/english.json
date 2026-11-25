@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T02:07:14.733319+08:00",
-  "count": 660,
+  "generated_at": "2026-11-26T02:10:16.735335+08:00",
+  "count": 662,
   "sources": [
     {
       "name": "alpaca",
@@ -277,6 +277,30 @@
       }
     },
     {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760V8:0",
+      "title": "US energy firms left total rig count unchanged for the week, Baker Hughes says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760V8:0-us-energy-firms-left-total-rig-count-unchanged-for-the-week-baker-hughes-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:02:55+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:10:12.086023+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:BKR"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY7117Ea:0",
       "title": "REG - Banco Bil.Viz.Argent - HR - Delisting of BBVA Shares from the LSE",
       "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY7117Ea:0-reg-banco-bil-viz-argent-hr-delisting-of-bbva-shares-from-the-lse/",
@@ -321,6 +345,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/nasdaq-heads-bear-market-sellers-180214921.html?.tsrc=rss",
+      "title": "Update: Nasdaq Heads for Bear Market as Sellers Descend on AI Trade",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-heads-bear-market-sellers-180214921.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:02:14+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:10:12.183166+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:macenews:cf40cf73d094b:0",
