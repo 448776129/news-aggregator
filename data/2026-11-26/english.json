@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T04:28:17.662744+08:00",
-  "count": 943,
+  "generated_at": "2026-11-26T04:31:21.947751+08:00",
+  "count": 946,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 12,
+      "count": 13,
       "error": ""
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 31,
+      "count": 32,
       "error": ""
     }
   ],
@@ -487,6 +487,25 @@
       }
     },
     {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/25/billionaire-brad-gerstners-altimeter-opened-a-680-million-tesla-stake-and-exited-qualcomm-and-applied-materials/?.tsrc=rss",
+      "title": "Billionaire Brad Gerstner’s Altimeter Opened a $680 Million Tesla Stake and Exited Qualcomm and Applied Materials",
+      "url": "https://247wallst.com/investing/2026/11/25/billionaire-brad-gerstners-altimeter-opened-a-680-million-tesla-stake-and-exited-qualcomm-and-applied-materials/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Altimeter dumped two chip-equipment names, bought a put on the semiconductor sector, and bet big on Elon Musk's robots and robotaxis. Gerstner stays silent on why, but Tesla's own numbers and a steep valuation hint at the real tension.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:22:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:31:16.748751+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:urn:summary_document_report:quartr.com:3709779:0",
       "title": "PYS: Revenue and ARR grew, but expansion and platform investment drove a $1.59m H1 loss",
       "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3709779:0-pys-revenue-and-arr-grew-but-expansion-and-platform-investment-drove-a-1-59m-h1-loss/",
@@ -629,6 +648,25 @@
           "NZX:TWR"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/tech-stock-sell-off-here-s-why-apple-has-been-immune/?.tsrc=rss",
+      "title": "Tech Stock Sell-Off: Here's Why Apple Has Been Immune",
+      "url": "https://www.fool.com/investing/2026/11/25/tech-stock-sell-off-here-s-why-apple-has-been-immune/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "While rivals pour billions into data centers, Apple is putting AI into the devices people already own, and its cash flow shows the difference.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:20:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:31:16.748751+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261125006748_20261125006754:0",
@@ -1741,6 +1779,30 @@
         "symbols": [
           "NASDAQ:XP"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8809703",
+      "title": "We're buying more of a stock down big from its July highs",
+      "url": "https://www.cnbc.com/investingclub/2026/11/25/were-buying-more-of-a-stock-down-big-from-its-july-highs.html",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "CNBC",
+      "summary": "We're dipping into our large cash position as the market remains oversold.",
+      "content": "We're dipping into our large cash position as the market remains oversold.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:55:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:31:17.222000+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "CNBC",
+        "category": "top news",
+        "related": "",
+        "image": "https://image.cnbcfm.com/api/v1/image/108549228-1794422029822-CNBC_INVSTNG_CLB_BB_110626_1515.JPG?v=1794423061&w=1920&h=1080"
       }
     },
     {
