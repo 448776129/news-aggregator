@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T05:40:15.213916+08:00",
-  "count": 347,
+  "generated_at": "2026-11-26T05:46:22.556432+08:00",
+  "count": 350,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 24,
+      "count": 26,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyzmv3920990.shtml",
+      "title": "11月26日美股成交额前20：英伟达跌近4% 标普或下调其评级",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyzmv3920990.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "周二美股成交额第1名英伟达收跌3.91%，成交519.71亿。 标普全球评级将英伟达的发行人信用评级及其高级无抵押债务评级列入负面信用观察名单，两项评级目前均为AA。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:45:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:46:19.669357+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyzms8283739.shtml",
       "title": "大宗商品综述：油价上涨 铜价跌入熊市区间 金价反弹",
@@ -63,6 +82,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261126052927852800",
+      "title": "JP Morgan: AI capex to approach $1.4 tln next year, with growth inflection possible in 2028",
+      "url": "https://www.jin10.com/#/flash/20261126052927852800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "JP Morgan analysts said companies will issue $450 bln of investment-grade bonds in public markets next year to fund AI-related capex, even as the booming sector may eventually see growth peak. AI-focused companies issued $368 bln of investment-grade bonds globally this year, the bank estimated. AI-related capex is expected to nearly double to $1.4 tln in 2027, then stabilize in 2028, with growth slowing sharply as the industry matures. In a quarter in late 2027 or early 2028, market expectations for capex in the following quarter could be broadly flat as sector growth slows, the strategists said. The market reaction is difficult to predict, they added.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:29:27+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:46:18.464671+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261126052922582800",
@@ -2645,6 +2685,25 @@
       "extra": {
         "important": 0
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/7x24/2026-11-26/doc-inizyvcx3985178.shtml",
+      "title": "标普可能下调英伟达评级",
+      "url": "https://finance.sina.com.cn/7x24/2026-11-26/doc-inizyvcx3985178.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "标普将英伟达评级由稳定展望调整为负面信用观察。标普表示，近期事件动摇了对英伟达管理与治理框架的判断。 有关首席执行官的消息，以及潜在出口管制违规相关疑问...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:41:42+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:46:19.669357+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "jin10:20261126024131454800",

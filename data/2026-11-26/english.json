@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T05:43:14.523091+08:00",
-  "count": 1231,
+  "generated_at": "2026-11-26T05:46:22.536430+08:00",
+  "count": 1232,
   "sources": [
     {
       "name": "alpaca",
@@ -5770,6 +5770,25 @@
           "COINBASE:BNKRUSD"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/video/jensen-huangs-return-neocloud-risk-210000087.html?.tsrc=rss",
+      "title": "Jensen Huang's return, neocloud risk, and a holiday retail rally",
+      "url": "https://finance.yahoo.com/video/jensen-huangs-return-neocloud-risk-210000087.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "In this special edition of Sozzi Unleashed: At The Close, Brian Sozzi warns that investors can be right about a tech revolution and still lose a fortune, lays out three reasons Nvidia may deserve another look after Jensen Huang's return, and explains why the debt-fueled neoclouds like CoreWeave and Nebius still make him nervous. Former federal prosecutor Gil Soffer, head of corporate investigations at Katten, joins to discuss how Nvidia's board probe proceeds with Huang back in charge and whether he could be fired again. Brian also connects the dots on the AI build-out and inflation with a clip from Chicago Fed President Austan Goolsbee, and makes the case for a strong holiday season for retailers with comments from Walmart CFO John David Rainey and Gap CEO Richard Dickson.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:46:19.211195+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-treasury-205803677.html?.tsrc=rss",
