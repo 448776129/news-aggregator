@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T13:19:17.040534+08:00",
-  "count": 394,
+  "generated_at": "2026-11-25T13:22:14.950564+08:00",
+  "count": 398,
   "sources": [
     {
       "name": "cls",
@@ -27,6 +27,25 @@
   ],
   "items": [
     {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxpki1825302.shtml",
+      "title": "韩国今年前九月出生人口同比增长14.3%，创有记录以来最大增幅",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxpki1825302.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "韩国政府周三发布的数据显示，9月份韩国新生儿数量较去年同期增长了12.2%；今年前9个月的累计新生儿数量也创下了有记录以来的最大增幅。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:19:22+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T13:22:12.140884+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxpki1823617.shtml",
       "title": "比特币基金即将创下史上最差单月表现，资金流出规模逼近50亿美元",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxpki1823617.shtml",
@@ -46,6 +65,48 @@
       "extra": {}
     },
     {
+      "id": "jin10:20261125131540629800",
+      "title": "【英媒：欧盟拟筹资500亿欧元设立新基金 投资人工智能和量子计算】金十数据11月25日讯，据英国《金融时报》，欧盟正在制定计划，拟为一项新基金筹集最高500亿欧",
+      "url": "https://www.jin10.com/#/flash/20261125131540629800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【英媒：欧盟拟筹资500亿欧元设立新基金 投资人工智能和量子计算】金十数据11月25日讯，据英国《金融时报》，欧盟正在制定计划，拟为一项新基金筹集最高500亿欧元，用于对欧洲人工智能和量子计算企业进行长期、高风险投资。据两名参与相关讨论的官员透露，拟议中的主权科技股权基金将比欧盟现有融资计划进行规模更大、风险更高、投资期限更长的投资。官员表示：“这些都是针对高风险领域的长期稳定投资。这与欧盟通常的做法恰恰相反，而这正是我们需要设立该基金的原因。”基金投资将主要集中在人工智能和量子计算领域。欧盟委员会计划于周三公布一项量子战略，希望借此增强欧盟在这一新兴产业中的地位。相关官员表示，欧盟计划于明年2月公布新基金的具体运作细节。新基金的具体融资安排仍在讨论之中。欧盟委员会计划将欧盟资金作为启动资金，吸引私营部门追加投资，目标是每投入1欧元撬动最高6欧元的额外资金。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:15:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T13:22:09.401433+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261125131444262800",
+      "title": "【深势科技材料科研智能体MatMaster接入Qwen4-Max】金十数据11月25日讯，近日，深势科技玻尔科学空间推出的材料科研智能体MatMaster接入Q",
+      "url": "https://www.jin10.com/#/flash/20261125131444262800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【深势科技材料科研智能体MatMaster接入Qwen4-Max】金十数据11月25日讯，近日，深势科技玻尔科学空间推出的材料科研智能体MatMaster接入Qwen4-Max，并围绕晶体缺陷计算、团簇生长模拟和光纤分析开展科研实践。三项任务展示了模型将科研问题转化为可执行计算流程的能力，也为后续实验验证与材料设计提供了计算参考。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:14:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T13:22:09.401433+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxpkp4318031.shtml",
       "title": "欧盟拟设立500亿欧元主权科技股权基金，投资AI与量子技术",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxpkp4318031.shtml",
@@ -63,6 +124,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261125131228981800",
+      "title": "Deutsche Bank approved for pilot in China's onshore interbank RMB FX market",
+      "url": "https://www.jin10.com/#/flash/20261125131228981800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "The People's Bank of China has designated Deutsche Bank to participate in a pilot allowing offshore RMB clearing banks to conduct RMB foreign-exchange transactions in China's onshore interbank market. Participants may trade within approved quotas, subject to regulatory requirements and in line with international market practices.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:12:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T13:22:09.401433+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261125131226432800",
