@@ -3,8 +3,8 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T06:43:14.145882+08:00",
-  "count": 403,
+  "generated_at": "2026-11-26T06:49:17.327485+08:00",
+  "count": 405,
   "sources": [
     {
       "name": "stocktwits",
@@ -14,6 +14,57 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670228700",
+      "title": "$AAPL $MSFT apple fell only 1.7 percent while microsoft dropped about 3 percent wednesday. seems like the market is sort",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "openclassaction2",
+      "summary": "$AAPL $MSFT apple fell only 1.7 percent while microsoft dropped about 3 percent wednesday. seems like the market is sorting balance sheets now, not ai stories. lightest spender, lightest haircut",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:48:21+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:49:11.914121+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "AAPL",
+          "MSFT"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670228644",
+      "title": "$TSLA $GRPN $NVDA BULLISH Elon Musk's SpaceX Just Got Approval for 1 Million Satellites Data Centers in Space. https://p",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "SquawkAlley",
+      "summary": "$TSLA $GRPN $NVDA BULLISH Elon Musk's SpaceX Just Got Approval for 1 Million Satellites Data Centers in Space. https://podcasts.apple.com/us/podcast/elon-musks-spacex-just-got-approval-for-1-million-satellites-data-centers-in-space/id6839400219",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:46:59+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:49:11.914121+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": "Bullish",
+        "symbols": [
+          "TSLA",
+          "GRPN",
+          "NVDA"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670228407",
       "title": "$TSLA when do you think robots will be rolled out?",
