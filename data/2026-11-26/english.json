@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T01:10:18.778168+08:00",
-  "count": 403,
+  "generated_at": "2026-11-26T01:13:20.298901+08:00",
+  "count": 407,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 0,
+      "count": 5,
       "error": ""
     },
     {
@@ -249,6 +249,25 @@
           "NASDAQ:WDAY"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/world-indices/articles/tech-firms-back-crosshairs-huang-024219799.html?.tsrc=rss",
+      "title": "Tech stocks suffer sell-off on AI angst, US inflation",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/tech-firms-back-crosshairs-huang-024219799.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Global technology stocks were in sell-off mode Wednesday as renewed concerns over the AI boom washed away the euphoria that greeted the return of Jensen Huang to scandal-hit chip giant Nvidia.In company news, Chinese electronics giant Xiaomi rose in Hong Kong on optimism for the performance of the company's higher-end smartphones, even as an AI-driven memory chip supply crunch hits profits.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:05:53+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:13:18.164663+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:urn:summary_document_report:quartr.com:3693928:0",
@@ -539,6 +558,25 @@
       }
     },
     {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/the-largest-ipo-in-stock-market-history-is-here-what-it-means-for-your-portfolio/?.tsrc=rss",
+      "title": "The Largest IPO in Stock Market History Is Here. What It Means for Your Portfolio",
+      "url": "https://www.fool.com/investing/2026/11/25/the-largest-ipo-in-stock-market-history-is-here-what-it-means-for-your-portfolio/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "You may be investing in the company soon, like it or not.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:03:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:13:18.164663+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY7048Ea:0",
       "title": "REG - American Century Inv RHI Magnesita N.V. - Form 8.3 - RHI Magnesita N.V.",
       "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY7048Ea:0-reg-american-century-inv-rhi-magnesita-n-v-form-8-3-rhi-magnesita-n-v/",
@@ -583,6 +621,44 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/the-nasdaq-is-approaching-bear-market-territory-2-stocks-down-22-and-37-to-buy-right-now/?.tsrc=rss",
+      "title": "The Nasdaq Is Approaching Bear Market Territory: 2 Stocks Down 22% and 37% to Buy Right Now",
+      "url": "https://www.fool.com/investing/2026/11/25/the-nasdaq-is-approaching-bear-market-territory-2-stocks-down-22-and-37-to-buy-right-now/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Investors continued to sell stocks leading into the Thanksgiving holiday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:02:48+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:13:18.164663+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-extend-brutal-170236621.html?.tsrc=rss",
+      "title": "AI Chip Stocks Extend Brutal Selloff as Nvidia, AMD and Broadcom Tumble Again",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-extend-brutal-170236621.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia, AMD Shares Sink as Wall Street's AI Rally Loses Steam",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:02:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:13:18.164663+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:e7326a96c55dc:0",
