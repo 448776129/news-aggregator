@@ -3,8 +3,8 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T06:01:20.853326+08:00",
-  "count": 395,
+  "generated_at": "2026-11-26T06:16:29.546051+08:00",
+  "count": 396,
   "sources": [
     {
       "name": "stocktwits",
@@ -14,6 +14,30 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670227056",
+      "title": "$TSLA",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "CPTIchimoku",
+      "summary": "$TSLA",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:15:32+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:16:23.468939+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": "Bearish",
+        "symbols": [
+          "TSLA"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670226248",
       "title": "Be very scared bears, your god father Michael Burry just become long. $MU $TSLA $NVDA $QQQ $NBIS",
