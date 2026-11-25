@@ -3,13 +3,13 @@
   "category": "reddit",
   "category_name": "Reddit 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T05:31:15.199822+08:00",
-  "count": 146,
+  "generated_at": "2026-11-26T05:34:16.933684+08:00",
+  "count": 147,
   "sources": [
     {
       "name": "reddit",
       "status": "ok",
-      "count": 33,
+      "count": 40,
       "error": ""
     }
   ],
@@ -33,6 +33,29 @@
       "category": "reddit",
       "extra": {
         "subreddit": "wallstreetbets",
+        "score": 1,
+        "num_comments": 0
+      }
+    },
+    {
+      "id": "reddit:1y5jb05",
+      "title": "Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound",
+      "url": "https://www.reddit.com/r/stocks/comments/1y5jb05/dow_closes_higher_wednesday_wiping_out_1100point/",
+      "source": "reddit",
+      "source_name": "Reddit",
+      "author": "TorukMaktoM",
+      "summary": "The Dow Jones Industrial Average erased an 1,100-point plunge on Wednesday as Wall Street tried to recover from steep declines led by artificial intelligence-linked stocks. The blue-chip Dow advanced 164.25 points, or 0.33%, to end at 50,182.95. The Nasdaq Composite, however, fell 0.62% to 23,585.80, while the S&P 500 shed 0.25% to close at 7,182.78. Stocks came well off their lows as the session went on. The blue-chip Dow lost more than 1,100 points, or 2.2% at its low of the day. The tech-heavy Nasdaq was down 4.6%, and the broad market S&P 500 shed 3.2% at their respective lows. Traders chalked up part of the rebound to light trading ahead of the Thanksgiving holiday as well as the circulation of a blog post by Michael Burry, in which he said that his portfolio is “temporarily almost entirely long.” The Dow was boosted by gains in stocks such as International Business Machines, Salesforce and Sherwin-Williams. S&P 500 sectors such as materials, energy and real estate were all higher, bolstering the index.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:27:45+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:16.416740+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "reddit",
+      "extra": {
+        "subreddit": "stocks",
         "score": 1,
         "num_comments": 0
       }

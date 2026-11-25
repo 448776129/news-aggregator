@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T05:31:15.165650+08:00",
-  "count": 1163,
+  "generated_at": "2026-11-26T05:34:16.904533+08:00",
+  "count": 1203,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 13,
+      "count": 14,
       "error": ""
     },
     {
@@ -33,11 +33,908 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 40,
+      "count": 41,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tradingview:c7f2e07d8e8f7:0",
+      "title": "Cayson Acquisition Deposits $60,000 for Third Extension Month",
+      "url": "https://www.tradingview.com/news/tradingview:c7f2e07d8e8f7:0-cayson-acquisition-deposits-60-000-for-third-extension-month/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CAPN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:cfc8abce68d33:0",
+      "title": "Daré Bioscience Received Notice of Delisting",
+      "url": "https://www.tradingview.com/news/tradingview:cfc8abce68d33:0-dar-bioscience-received-notice-of-delisting/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:DARE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:ecc9766b3f15f:0",
+      "title": "Michael J. Angelakis to Resign from American Express Board",
+      "url": "https://www.tradingview.com/news/tradingview:ecc9766b3f15f:0-michael-j-angelakis-to-resign-from-american-express-board/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:AXP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:f24641f3108e1:0",
+      "title": "Morningstar Q&A: Q3 Adjusted Margin Rises; PitchBook Growth Slows",
+      "url": "https://www.tradingview.com/news/tradingview:f24641f3108e1:0-morningstar-q-a-q3-adjusted-margin-rises-pitchbook-growth-slows/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:MORN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:483fa5d8e122a:0",
+      "title": "PJT Partners CEO Elects to Exchange 36,000 Units",
+      "url": "https://www.tradingview.com/news/tradingview:483fa5d8e122a:0-pjt-partners-ceo-elects-to-exchange-36-000-units/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PJT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:cf66f065cedfc:0",
+      "title": "Retension Pharmaceuticals raises Paul Sweetnam's pay and grants 75,000 stock options",
+      "url": "https://www.tradingview.com/news/tradingview:cf66f065cedfc:0-retension-pharmaceuticals-raises-paul-sweetnam-s-pay-and-grants-75-000-stock-options/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:RTSN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:6a96f775fb4a6:0",
+      "title": "Tempus AI Secures $500 Million Five-Year Credit Facilities for Personalis Acquisition",
+      "url": "https://www.tradingview.com/news/tradingview:6a96f775fb4a6:0-tempus-ai-secures-500-million-five-year-credit-facilities-for-personalis-acquisition/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:TEM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:93c5169edeba4:0",
+      "title": "Vesicor Therapeutics Holdings names Michael Tolentino CEO as Black Hawk officers and directors resign",
+      "url": "https://www.tradingview.com/news/tradingview:93c5169edeba4:0-vesicor-therapeutics-holdings-names-michael-tolentino-ceo-as-black-hawk-officers-and-directors-resign/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:VESI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4761Q8:0",
+      "title": "Targa Resources in talks to acquire Kinetik, Bloomberg News reports",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4761Q8:0-targa-resources-in-talks-to-acquire-kinetik-bloomberg-news-reports/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:47+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:TRGP",
+          "NYSE:KNTK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:d098ed1b3094b:0",
+      "title": "Palo Alto Networks falls after former exec sues, alleging accounting fraud",
+      "url": "https://seekingalpha.com/news/4676702-palo-alto-networks-falls-after-former-exec-sues-alleging-accounting-fraud?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:35+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:PANW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47611W:0",
+      "title": "Tech drags, but the market finds its footing",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47611W:0-tech-drags-but-the-market-finds-its-footing/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:IXIC",
+          "DJ:DJI",
+          "SP:S5MATR",
+          "SP:S5COND",
+          "DJ:DJT",
+          "NASDAQ:HGX",
+          "NASDAQ:SOX",
+          "NASDAQ:AAPL",
+          "SP:SPX",
+          "NASDAQ:IXIC",
+          "TVC:DJI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:2d150d338996d:0",
+      "title": "Corpay CEO and Chairman of BOD Sold Shares Worth Over $85M",
+      "url": "https://www.tradingview.com/news/tradingview:2d150d338996d:0-corpay-ceo-and-chairman-of-bod-sold-shares-worth-over-85m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:CPAY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:b5f967fd82851:0",
+      "title": "Target Executive Officer Sold Shares Worth Over $4.3M",
+      "url": "https://www.tradingview.com/news/tradingview:b5f967fd82851:0-target-executive-officer-sold-shares-worth-over-4-3m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:TGT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:7902ba19c5b08:0",
+      "title": "Walmart SVP and Controller Sold Shares Worth Over $999K",
+      "url": "https://www.tradingview.com/news/tradingview:7902ba19c5b08:0-walmart-svp-and-controller-sold-shares-worth-over-999k/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:WMT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:dfc4e39f0094b:0",
+      "title": "Atacama Resources International Announces Leadership Changes",
+      "url": "https://www.newsfilecorp.com/release/325975/Atacama-Resources-International-Announces-Leadership-Changes",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OTC:ACRL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:d328fd4a59d22:0",
+      "title": "Atacama Resources International, Inc. (ACRL) Loses Director and Chief Operating Officer",
+      "url": "https://www.tradingview.com/news/tradingview:d328fd4a59d22:0-atacama-resources-international-inc-acrl-loses-director-and-chief-operating-officer/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OTC:ACRL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:business_wire:e14b658281e2c:0",
+      "title": "Coeur to Participate in Upcoming Conferences",
+      "url": "https://www.tradingview.com/news/business_wire:e14b658281e2c:0-coeur-to-participate-in-upcoming-conferences/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:CDE",
+          "NYSE:CDE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:business_wire:caede7c589249:0",
+      "title": "Constellation Completes Divestiture of Legacy Calpine PJM Generation Assets to LS Power",
+      "url": "https://www.tradingview.com/news/business_wire:caede7c589249:0-constellation-completes-divestiture-of-legacy-calpine-pjm-generation-assets-to-ls-power/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CEG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:71529b5d38688:0",
+      "title": "DGEN TECHNOLOGIES ANNOUNCES DIRECTOR CHANGE",
+      "url": "https://www.tradingview.com/news/prnewswire:71529b5d38688:0-dgen-technologies-announces-director-change/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:DGEN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:69fe901cc74cc:0",
+      "title": "DGEN Technologies Corp. (DGEN) Replaces a Board Director",
+      "url": "https://www.tradingview.com/news/tradingview:69fe901cc74cc:0-dgen-technologies-corp-dgen-replaces-a-board-director/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:DGEN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:business_wire:da5c86d993887:0",
+      "title": "Deluxe to Webcast Upcoming Investor Day Activities",
+      "url": "https://www.tradingview.com/news/business_wire:da5c86d993887:0-deluxe-to-webcast-upcoming-investor-day-activities/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DLX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:10049ec29094b:0",
+      "title": "Entrada Therapeutics to Present at the Evercore Healthcare Conference",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410591/0/en/entrada-therapeutics-to-present-at-the-evercore-healthcare-conference.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:TRDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:b9d47fee4094b:0",
+      "title": "Japan Smaller Capitalization Fund, Inc. Announces Monthly Distributions for January, February, and March 2027 Under Its Level Distribution Plan",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410589/0/en/japan-smaller-capitalization-fund-inc-announces-monthly-distributions-for-january-february-and-march-2027-under-its-level-distribution-plan.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:JOF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125007452:0",
+      "title": "Macy's Postpones Its Thanksgiving Day Parade Until Saturday — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007452:0-macy-s-postpones-its-thanksgiving-day-parade-until-saturday-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:M"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125007451:0",
+      "title": "New York Late Money Rates from The Wall Street Journal",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007451:0-new-york-late-money-rates-from-the-wall-street-journal/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ECONOMICS:USINTR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:b531e3cf0094b:0",
+      "title": "Quest PharmaTech Announces Results from AGM",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410592/0/en/quest-pharmatech-announces-results-from-agm.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:QPT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:f09c1e315615d:0",
+      "title": "Quest PharmaTech Inc. (QPT) Elects Director and Grants 775,000 Options",
+      "url": "https://www.tradingview.com/news/tradingview:f09c1e315615d:0-quest-pharmatech-inc-qpt-elects-director-and-grants-775-000-options/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:QPT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:6d6b3f3a8a97b:0",
+      "title": "USCB Financial Holdings, Inc. (USCB) Sees $0.03 EPS Accretion After Portfolio Sale",
+      "url": "https://www.tradingview.com/news/tradingview:6d6b3f3a8a97b:0-uscb-financial-holdings-inc-uscb-sees-0-03-eps-accretion-after-portfolio-sale/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:USCB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:f0e29d715094b:0",
+      "title": "USCB Financial Holdings, Inc. Announces Securities Portfolio Repositioning",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410590/0/en/uscb-financial-holdings-inc-announces-securities-portfolio-repositioning.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:USCB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:d1113e2ad8cf1:0",
+      "title": "Viking (VIK) Takes Delivery of New Ocean Ship",
+      "url": "https://www.tradingview.com/news/tradingview:d1113e2ad8cf1:0-viking-vik-takes-delivery-of-new-ocean-ship/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:VIK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:business_wire:dc1304d76d9e1:0",
+      "title": "Viking Takes Delivery of Newest Ocean Ship",
+      "url": "https://www.tradingview.com/news/business_wire:dc1304d76d9e1:0-viking-takes-delivery-of-newest-ocean-ship/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:VIK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:31a9ef99810da:0",
+      "title": "U.S. Stocks Close Mixed Following Early Sell-Off",
+      "url": "https://www.tradingview.com/news/dpa_afx:31a9ef99810da:0-u-s-stocks-close-mixed-following-early-sell-off/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:29:50+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:DJI",
+          "SP:SPX",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.ibtimes.com/us-stocks-recover-ai-inflation-tariff-selloff-3810199?.tsrc=rss",
+      "title": "Nasdaq Plunges 4.6% Before Dramatic Rebound. Wall Street Faces A Triple Threat From AI, Inflation And Trump Tariffs.",
+      "url": "https://www.ibtimes.com/us-stocks-recover-ai-inflation-tariff-selloff-3810199?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The Nasdaq and S&P 500 trimmed steep morning declines, while stronger economic growth and elevated inflation reinforced expectations of higher interest rates.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:29:34+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.827884+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:seekingalpha:87c56318c094b:0",
+      "title": "Blink Charging announces 1-for-30 reverse stock split",
+      "url": "https://seekingalpha.com/news/4676706-blink-charging-announces-1-forminus-30-reverse-stock-split?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:29:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:BLNK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4761JE:0",
+      "title": "Australia shares set to rise at open, NZ gains",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4761JE:0-australia-shares-set-to-rise-at-open-nz-gains/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:29:17+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:XJO",
+          "NZX:NZ50G",
+          "SP:XJO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:9f659c57a9b95:0",
+      "title": "GenScript Convenes AI, Biotech and Investment Leaders in London as Faster AI-Enabled Drug Design Raises the Stakes for Biological Evidence",
+      "url": "https://www.tradingview.com/news/prnewswire:9f659c57a9b95:0-genscript-convenes-ai-biotech-and-investment-leaders-in-london-as-faster-ai-enabled-drug-design-raises-the-stakes-for-biological-evidence/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:29:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47615H:0",
+      "title": "Denmark's TCM Group Q3 net profit declines on gross margin pressure; lowers FY outlook",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47615H:0-denmark-s-tcm-group-q3-net-profit-declines-on-gross-margin-pressure-lowers-fy-outlook/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:28:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:TCM"
+        ]
+      }
+    },
     {
       "id": "yahoo:https://finance.yahoo.com/video/jensen-huang-reclaims-throne-at-nvidia-heres-the-bottom-line-for-investors-212803135.html?.tsrc=rss",
       "title": "Jensen Huang reclaims throne at Nvidia: Here's the bottom line for investors",
@@ -149,6 +1046,30 @@
       "extra": {}
     },
     {
+      "id": "tradingview:seekingalpha:0ac34abcb094b:0",
+      "title": "Henry Schein names Albert Ko Executive Chair, CEO of Henry Schein One",
+      "url": "https://seekingalpha.com/news/4676701-henry-schein-names-albert-ko-executive-chair-ceo-of-henry-schein-one?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:26:59+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.913395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:HSIC"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N47613J:0",
       "title": "TSX notches one-week high as commodities rally",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47613J:0-tsx-notches-one-week-high-as-commodities-rally/",
@@ -175,6 +1096,30 @@
           "TSX:TTEN",
           "TSX:CLS"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8809914",
+      "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+      "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "CNBC",
+      "summary": "Macy's announced on Wednesday that the annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather.",
+      "content": "Macy's announced on Wednesday that the annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:26:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:13.441078+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "CNBC",
+        "category": "business",
+        "related": "",
+        "image": "https://image.cnbcfm.com/api/v1/image/108231283-17640201792025-11-24t213315z_1538790581_rc253iad2162_rtrmadp_0_usa-christmas-season-new-york.jpeg?v=1764020242&w=1920&h=1080"
       }
     },
     {
@@ -4340,6 +5285,25 @@
       "published_at": "2026-11-26T04:49:36+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T04:58:10.227468+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/video/megadeals-defy-selloff-head-toward-204909645.html?.tsrc=rss",
+      "title": "Megadeals Defy Selloff, Head Toward Record",
+      "url": "https://finance.yahoo.com/video/megadeals-defy-selloff-head-toward-204909645.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Wall Street is taking a big step toward a record year for mergers and acquisitions as some of the world's largest companies defy a tech-induced selloff in global stocks to pursue major takeovers. Bloomberg's Scarlet Fu reports on \"Bloomberg Deals.\"",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:49:09+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:34:12.827884+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
