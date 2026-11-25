@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T02:58:33.282945+08:00",
-  "count": 742,
+  "generated_at": "2026-11-26T03:01:19.678027+08:00",
+  "count": 764,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,232 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 27,
+      "count": 28,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261125006422:0",
+      "title": "Canada Considering Offering Cash to Stellantis to Keep Auto Production at Toronto-Area Plant",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006422:0-canada-considering-offering-cash-to-stellantis-to-keep-auto-production-at-toronto-area-plant/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSE:7267",
+          "MIL:STLAM",
+          "NYSE:F"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006423:0",
+      "title": "Dynacor Cautions Shareholders Against Unsolicited 'Mini-Tender' Offer",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006423:0-dynacor-cautions-shareholders-against-unsolicited-mini-tender-offer/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:DNG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006418:0",
+      "title": "Gift Guide: The Hunt for the Perfect Luxury Present Is On — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006418:0-gift-guide-the-hunt-for-the-perfect-luxury-present-is-on-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:RMS",
+          "MIL:BC",
+          "MIL:MONC",
+          "NYSE:RL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:f79537331094b:0",
+      "title": "Dan Ives Says Nvidia’s Jensen Huang Worth At Least $8 Trillion To US Economy, Calls Sell-Off A ‘Gut Check Moment’",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dan-ives-says-nvidia-s-jensen-huang-worth-at-least-8-trillion-to-us-economy-calls-sell-off-a-gut-check-moment/cNbH8KYR9mH",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:59:57+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:81a9cf2662a1d:0",
+      "title": "Gold Slides Amid Rising Fed Rate Hike Expectations, Fresh U.S. Tariff Concerns",
+      "url": "https://www.tradingview.com/news/dpa_afx:81a9cf2662a1d:0-gold-slides-amid-rising-fed-rate-hike-expectations-fresh-u-s-tariff-concerns/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:58:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:5f1f01f2d4923:0",
+      "title": "BWS Financial maintains Capstone Energy+ at Buy, keeps price target at $20",
+      "url": "https://www.tradingview.com/news/tradingview:5f1f01f2d4923:0-bws-financial-maintains-capstone-energy-at-buy-keeps-price-target-at-20/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:57:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CEPL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762JV:0",
+      "title": "S&P Says Nvidia 'AA' Ratings Placed On Creditwatch Negative On Rising M&G Risk",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762JV:0-s-p-says-nvidia-aa-ratings-placed-on-creditwatch-negative-on-rising-m-g-risk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:54:15+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:59bec6828094b:0",
+      "title": "Pinnacle Bancshares declares $0.27 dividend",
+      "url": "https://seekingalpha.com/news/4676674-pinnacle-bancshares-declares-0_27-dividend?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:54:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OTC:PCLB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:70a34a0b918e3:0",
+      "title": "Tigress Financial maintains Mastercard at Strong Buy, raises price target to $770 from $735",
+      "url": "https://www.tradingview.com/news/tradingview:70a34a0b918e3:0-tigress-financial-maintains-mastercard-at-strong-buy-raises-price-target-to-770-from-735/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:53:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:MA"
+        ]
+      }
+    },
     {
       "id": "yahoo:https://finance.yahoo.com/markets/article/why-nvidias-jensen-put-did-little-to-ease-the-ai-trade-meltdown-185334279.html?.tsrc=rss",
       "title": "Why Nvidia's 'Jensen put' failed to stop the AI trade meltdown",
@@ -58,6 +279,232 @@
       "extra": {}
     },
     {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/why-nvidia-stock-is-falling-again/?.tsrc=rss",
+      "title": "Why Nvidia Stock Is Falling Again",
+      "url": "https://www.fool.com/investing/2026/11/25/why-nvidia-stock-is-falling-again/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The cost of insuring debt across the AI trade just hit record highs.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:53:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:14.866085+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/billionaire-david-tepper-just-loaded-up-on-spacex-stock-should-you-follow-his-lead/?.tsrc=rss",
+      "title": "Billionaire David Tepper Just Loaded Up on SpaceX Stock. Should You Follow His Lead?",
+      "url": "https://www.fool.com/investing/2026/11/25/billionaire-david-tepper-just-loaded-up-on-spacex-stock-should-you-follow-his-lead/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "SpaceX looks like a bargain buy right now.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:53:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:14.866085+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006401:0",
+      "title": "Deere's Guidance Disappoints on Small Agriculture, Construction Businesses — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006401:0-deere-s-guidance-disappoints-on-small-agriculture-construction-businesses-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:53:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:macenews:4a8186798094b:0",
+      "title": "READOUT OF US-CHINA AG WORKING GROUP: NO AGREEMENT AFTER FIRST MEETING; TALKS 'IN DEPTH AND CONSTRUCTIVE' BUT NO DEAL; AGREED TO KEEP MEETING",
+      "url": "https://www.tradingview.com/news/macenews:4a8186798094b:0-readout-of-us-china-ag-working-group-no-agreement-after-first-meeting-talks-in-depth-and-constructive-but-no-deal-agreed-to-keep-meeting/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:53:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:FED30D",
+          "SP:SPX",
+          "TVC:DJI",
+          "FX:EURUSD",
+          "CBOE:DJX",
+          "TVC:DXY",
+          "STOXX:SX5E",
+          "CBOE:VIX",
+          "ECONOMICS:USGDP",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47610O:0",
+      "title": "LICT Q3 net income falls on lower fiber project contribution, higher costs",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47610O:0-lict-q3-net-income-falls-on-lower-fiber-project-contribution-higher-costs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:52:41+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OTC:LICT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4761KK:0",
+      "title": "S&P Global places Nvidia rating on 'CreditWatch Negative' on rising management and governance risks",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4761KK:0-s-p-global-places-nvidia-rating-on-creditwatch-negative-on-rising-management-and-governance-risks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:51:34+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:18663c21e094b:0",
+      "title": "Large-cap utility stocks with best and worst quant ratings",
+      "url": "https://seekingalpha.com/news/4676601-large-cap-utility-stocks-with-best-and-worst-quant-ratings?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:50:50+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:SO",
+          "NASDAQ:AEP",
+          "NYSE:WEC",
+          "NASDAQ:XEL",
+          "NYSE:ED",
+          "NYSE:NRG",
+          "NYSE:BEPC",
+          "AMEX:HOLD",
+          "NYSE:EIX",
+          "NYSE:VST",
+          "NASDAQ:TLN",
+          "NYSE:T",
+          "LSE:BP.",
+          "TSX:BEP.UN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4824394:0",
+      "title": "BILD: Acquisitions lifted Q3 revenue, while same-store demand and e-commerce profitability remained weak",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4824394:0-bild-acquisitions-lifted-q3-revenue-while-same-store-demand-and-e-commerce-profitability-remained-weak/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:49:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:BILD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47612D:0",
+      "title": "Venezuela data deluge cheers investors, but $237 billion debt test lies ahead",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47612D:0-venezuela-data-deluge-cheers-investors-but-237-billion-debt-test-lies-ahead/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:49:16+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
       "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/jim-cramer-5-long-term-184914882.html?.tsrc=rss",
       "title": "Jim Cramer’s 5 Long-Term Stock Picks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-5-long-term-184914882.html?.tsrc=rss",
@@ -71,6 +518,25 @@
       "published_at": "2026-11-26T02:49:14+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T02:58:24.736337+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/why-nutanix-plunged-today/?.tsrc=rss",
+      "title": "Why Nutanix Plunged Today",
+      "url": "https://www.fool.com/investing/2026/11/25/why-nutanix-plunged-today/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "A solid headline earnings beat wasn't enough to offset other uncertainties, including a CEO transition.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:48:24+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:14.866085+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -142,6 +608,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "tradingview:acceswire:49f080e25094b:0",
+      "title": "Hop-on (OTCID: HPNN) Demonstrates AI Verification Infrastructure as Digitalage News Surpasses 300 Published Articles in Public Beta",
+      "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/hop-on-otcid-hpnn-demonstrates-ai-verification-infrastructure-as-1257367",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "ACCESS Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:45:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OTC:HPNN"
+        ]
+      }
     },
     {
       "id": "tradingview:DJN_DN20261125006384:0",
@@ -327,6 +817,30 @@
           "CBOT:ZS1!",
           "CBOT:ZC1!",
           "CBOT:ZW1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:invezz:95760e39d094b:0",
+      "title": "Michael Burry plans next Nvidia short near $200",
+      "url": "https://invezz.com/news/2026/11/25/michael-burry-plans-next-nvidia-short-near-200/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Invezz",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:36:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
         ]
       }
     },
@@ -806,6 +1320,30 @@
         "urgency": 2,
         "symbols": [
           "RUS:LKOH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:invezz:acba5cfd4094b:0",
+      "title": "Disney shares climb to hit fresh 52-week high amid broader market weakness",
+      "url": "https://invezz.com/news/2026/11/25/disney-shares-climb-to-hit-fresh-52-week-high-amid-broader-market-weakness/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Invezz",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:25:50+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:01:15.019414+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DIS"
         ]
       }
     },
