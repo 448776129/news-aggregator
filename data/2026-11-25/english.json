@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T12:40:15.573259+08:00",
-  "count": 471,
+  "generated_at": "2026-11-25T12:43:17.889706+08:00",
+  "count": 485,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 3,
       "error": ""
     },
     {
@@ -38,6 +38,206 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N476058:0",
+      "title": "Stocks retreat as AI rebound stumbles, tariff threats loom",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N476058:0-stocks-retreat-as-ai-rebound-stumbles-tariff-threats-loom/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:41:56+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:43:12.791027+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:KOSPI",
+          "TVC:NI225",
+          "CME_MINI:ES1!",
+          "TVC:IXIC",
+          "TVC:RUT",
+          "DJ:DJI",
+          "NYSE:DELL",
+          "NASDAQ:NVDA",
+          "NASDAQ:ANT",
+          "ASX:XJO",
+          "FX:AUDUSD",
+          "ICEEUR:BRN1!",
+          "LME:CA1!",
+          "LME:AH1!",
+          "BITSTAMP:BTCUSD",
+          "BITSTAMP:ETHUSD",
+          "SP:SPX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:1b0a59d85094b:0",
+      "title": "Cathie Wood’s ARK Sees ‘Excellent Entry Points’ In AI — ‘Big Short’ Steve Eisman Warns Of Recession If Anthropic Or OpenAI Fails",
+      "url": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-excellent-entry-points-ai-steve-eisman-recession-anthropic-openai-fails/cNbHcZ4R9lW",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:41:31+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:43:12.791027+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ANT",
+          "NASDAQ:OPENAI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:741f5e2de094b:0",
+      "title": "COHR Stock Swings After Nvidia-Led AI Rally: $15M Insider Buy Draws Attention",
+      "url": "https://stocktwits.com/news-articles/markets/equity/cohr-stock-swings-after-nvidia-led-ai-rally-15-m-insider-buy-draws-attention/cNbHcl8R9lg",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:40:37+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:43:12.791027+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:COHR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47606H:0",
+      "title": "Dollar takes breather before key inflation reading; Aussie slumps",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47606H:0-dollar-takes-breather-before-key-inflation-reading-aussie-slumps/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:40:29+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:43:12.791027+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:DXY",
+          "FX:EURUSD",
+          "FX_IDC:USDJPY",
+          "FX:GBPUSD",
+          "FX:AUDUSD",
+          "FX:NZDUSD",
+          "BITSTAMP:BTCUSD",
+          "BITSTAMP:ETHUSD",
+          "FX:EURCHF",
+          "FX:EURJPY",
+          "FX:USDCNH",
+          "FX:USDCAD",
+          "FX:USDJPY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:7c9f69db2094b:0",
+      "title": "BlackRock, IFM may cut offer for Stack's Asia-Pacific data centers - report",
+      "url": "https://seekingalpha.com/news/4676429-blackrock-ifm-may-cut-offer-for-stacks-asia-pacific-data-centers---report?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:40:05+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:43:12.791027+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BLK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009654:0",
+      "title": "UMS-Neiken Group Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009654:0-ums-neiken-group-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:38:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:43:12.791027+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:UMSNGB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:7ec3455b0094b:0",
+      "title": "Burry says Nvidia's 'short thesis' still valid; adds to JD.com, Tencent, BYD",
+      "url": "https://seekingalpha.com/news/4676427-burry-says-nvidias-short-thesis-still-valid-adds-to-jdcom-tencent-byd?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:37:07+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:43:12.791027+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA",
+          "NASDAQ:JD",
+          "OTC:TCEHY",
+          "OTC:BYDDF"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752D6:0",
       "title": "Union Coop Board Seeks Shareholders Nod On Conversion Of Union Coop Into Public Joint Stock Co",
@@ -59,6 +259,54 @@
         "urgency": 2,
         "symbols": [
           "DFM:UNIONCOOP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:3e96d5cc34bed:0",
+      "title": "Sunlife Asia launches free financial education series as research finds family pressures leave Asia's sandwich generation struggling for financial control",
+      "url": "https://www.tradingview.com/news/prnewswire:3e96d5cc34bed:0-sunlife-asia-launches-free-financial-education-series-as-research-finds-family-pressures-leave-asia-s-sandwich-generation-struggling-for-financial-control/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:36:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:43:12.791027+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:SLF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:62b5d2dd8094b:0",
+      "title": "Narayana Hrudayalaya shares rise after HSBC upgrades rating, raises target price by 29%",
+      "url": "https://www.tradingview.com/news/cnbctv:62b5d2dd8094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:35:54+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:43:12.791027+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:NH"
         ]
       }
     },
@@ -298,6 +546,30 @@
         "symbols": [
           "BCBA:GGACB",
           "BCBA:GGAL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N40504U:0",
+      "title": "Indonesia central bank expects to keep benchmark rate at 6% in 2027, governor says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N40504U:0-indonesia-central-bank-expects-to-keep-benchmark-rate-at-6-in-2027-governor-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:31:12+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:43:12.791027+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX_IDC:USDIDR"
         ]
       }
     },
@@ -1025,6 +1297,28 @@
           "MYX:FTIN1!",
           "COMEX:HG1!"
         ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N476093:0",
+      "title": "China's Shenzhou-24 flight docks at space station",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N476093:0-china-s-shenzhou-24-flight-docks-at-space-station/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:07:18+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:43:12.791027+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -8748,6 +9042,25 @@
       }
     },
     {
+      "id": "msn:da4157d88c51117ecf15ec525383f41ec86bb09a",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty extends gains to 400 points; ICICI Bk at 52 ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0667607cb045d0932c8cce46da4ce9&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-ai-tariffs-it-nifty-bank-tata-steel-apl-apollo-zee-ril-adani-share-price-liveblog-20040632.htm&c=1104828012116773145&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The Nifty bulls enter the mid-week session starting a new F&O series on the back of mixed cues. They would have not liked the ferocity of the fall seen on Monday and the fact that both Nifty and the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T04:43:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:43:14.647934+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8804840",
       "title": "Houthis hit Riyadh's tallest tower, 11 wounded, Saudi Civil defense says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT2lRbHFjYmphSTFEMlhhRmVYd0dzWklmWmxFZFhMVG41LTJWdEZpNW9oYU5JUy1NS1ZORl80Wml6clJ6UnJOenN2TDBjSUpDbHRlVTdWNWpkdXZGejZwdTM4U1J3UWZyYnUzMzhMSGRKZWFwdjZUSFVLdTlRSWlMVVFtQ05kUDlQVGtEY1FXTHRXQmVfSmgzSndIWGxqZ2NRWXM4WjluTTgyallieG9JOXdISmlacFRUUDFiOUplaUZmNC1vUkJLSzZn?oc=5",
@@ -8837,6 +9150,25 @@
         "related": "",
         "image": "https://image.cnbcfm.com/api/v1/image/108372027-1790964949550-gettyimages-2296314757-META_CONNECT.jpeg?v=1790964985&w=1920&h=1080"
       }
+    },
+    {
+      "id": "msn:e96f9c429ab58f335b26bccfa62a06af373c56a2",
+      "title": "Stock Market Live Updates: Sensex rockets over 1,400 pts, Nifty above 25,700; IT index jumps 2%",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0667607cb045d0932c8cce46da4ce9&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026%2fliveblog%2f136145716.cms&c=2500710713444335276&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "GIFT Nifty futures on the NSE IX were trading higher, indicating a strong gap-up opening for Dalal Street on Wednesday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T04:37:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:43:14.647934+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/dropbox-dbx-stock-5-8-203052038.html?.tsrc=rss",
@@ -10653,6 +10985,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T12:40:13.902724+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:22d8291a0f574d47f620bcf688fa4562fe482c77",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0667607cb045d0932c8cce46da4ce9&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:43:14.647934+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
