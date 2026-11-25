@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T07:43:17.818667+08:00",
-  "count": 1540,
+  "generated_at": "2026-11-26T07:46:17.189445+08:00",
+  "count": 1542,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,35 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 45,
+      "count": 46,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762CT:0",
+      "title": "Allstate Says Some Access Has Been Restricted Over The Last 48 Hours, Continue To Settle Claims",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762CT:0-allstate-says-some-access-has-been-restricted-over-the-last-48-hours-continue-to-settle-claims/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:41:55+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:46:11.708545+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:ALL"
+        ]
+      }
+    },
     {
       "id": "tradingview:urn:summary_document_transcript:quartr.com:4828873:0",
       "title": "FPH: Hospital-led growth lifted H1 profit as tariffs and inflation pressured margins",
@@ -396,6 +420,25 @@
           "ASX:TTT"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.trefis.com/stock/pltr/articles/628772/are-you-overpaying-for-palantir-stock-versus-its-rivals/2026-11-25?.tsrc=rss",
+      "title": "Are You Overpaying For Palantir Stock Versus Its Rivals?",
+      "url": "https://www.trefis.com/stock/pltr/articles/628772/are-you-overpaying-for-palantir-stock-versus-its-rivals/2026-11-25?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:31:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:46:11.513320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:urn:summary_document_slides:quartr.com:4828807:0",
