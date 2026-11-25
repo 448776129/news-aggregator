@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T03:22:16.282509+08:00",
-  "count": 255,
+  "generated_at": "2026-11-26T03:25:19.747767+08:00",
+  "count": 256,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 15,
+      "count": 16,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyvcu8356613.shtml",
+      "title": "欧洲股市续跌 关税担忧叠加科技股抛售",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyvcu8356613.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "欧洲股市连续第二天下跌，受到美国最新关税计划以及科技板块再遭抛售的拖累。 斯托克欧洲600指数收跌1.1%，盘中早些时候一度上涨0.7%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:24:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:25:14.677515+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261126031827647800",
       "title": "【也门胡塞武装称袭击沙特吉达港和吉赞港】金十数据11月26日讯，当地时间25日晚，也门胡塞武装发表声明称，该组织对沙特吉达港和吉赞港发动了两次军事行动，以作为对",

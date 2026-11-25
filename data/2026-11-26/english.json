@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T03:22:16.263945+08:00",
-  "count": 806,
+  "generated_at": "2026-11-26T03:25:19.730486+08:00",
+  "count": 807,
   "sources": [
     {
       "name": "alpaca",
@@ -107,6 +107,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/david-tepper-sold-all-of-his-amd-stock-his-biggest-position-is-micron/?.tsrc=rss",
+      "title": "David Tepper Sold All of His AMD Stock. His Biggest Position Is Micron.",
+      "url": "https://www.fool.com/investing/2026/11/25/david-tepper-sold-all-of-his-amd-stock-his-biggest-position-is-micron/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "AMD is pricey, while Micron is dirt cheap.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:20:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:25:13.166888+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:9aac99bf6ab0f:0",
