@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T04:58:15.073179+08:00",
-  "count": 983,
+  "generated_at": "2026-11-26T05:01:15.715328+08:00",
+  "count": 985,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 32,
+      "count": 33,
       "error": ""
     }
   ],
@@ -61,6 +61,25 @@
           "ICEUS:RS1!"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/salesforce-stock-crm-looks-mispriced-205300259.html?.tsrc=rss",
+      "title": "Salesforce Stock (CRM) Looks Mispriced After the AI Sell-Off",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-stock-crm-looks-mispriced-205300259.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Salesforce (CRM) stock looks mispriced after the recent software sell-off, driven by fears that artificial intelligence (AI) will disrupt traditional enterprise software. The customer relationship management software provider enters this stretch from a position of financial strength, having generated $14.4 billion in free cash flow in Fiscal 2026. In the company’s second-quarter Fiscal 2027 earnings release in August 2026, Chair and CEO Marc Benioff addressed the AI opportunity and pushed back a",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:53:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:01:10.262709+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261125006872:0",
@@ -1517,6 +1536,25 @@
           "NZX:TWR"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.tikr.com/blog/dells-jeff-clarke-weve-had-no-customers-reschedule-business-thats-good-news-for-nvidia?ref=yahoofinance&tlnk=yf-261125-pm9r283x&.tsrc=rss",
+      "title": "Dell’s Jeff Clarke: “We’ve Had No Customers Reschedule Business.” That’s Good News for Nvidia",
+      "url": "https://www.tikr.com/blog/dells-jeff-clarke-weve-had-no-customers-reschedule-business-thats-good-news-for-nvidia?ref=yahoofinance&tlnk=yf-261125-pm9r283x&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysDell ended its third quarter with a record $132. 3 billion AI server backlog, and Vice Chairman Jeff Clarke said no customers have rescheduled business.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:20:27+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:01:10.262709+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/25/tech-stock-sell-off-here-s-why-apple-has-been-immune/?.tsrc=rss",
