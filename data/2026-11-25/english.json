@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T16:31:13.301326+08:00",
-  "count": 1594,
+  "generated_at": "2026-11-25T16:34:14.972682+08:00",
+  "count": 1659,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 38,
+      "count": 42,
       "error": ""
     },
     {
@@ -39,6 +39,1207 @@
   ],
   "items": [
     {
+      "id": "alpaca:130318649",
+      "title": "Bernstein Raises Inditex Price Target",
+      "url": "https://es.marketscreener.com/noticias/bernstein-considera-que-inditex-ya-descuenta-en-bolsa-la-cautela-previa-al-tercer-trimestre-y-elev-ce7851dbd18afe23",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Bernstein analysts have increased their price target for Inditex, noting that the company's stock price already accounts for market caution ahead of its third-quarter results.",
+      "content": "Bernstein has updated its outlook on Inditex, raising its price target for the company's shares. The firm suggests that the market has already priced in a degree of caution regarding the upcoming third-quarter performance. This analyst action reflects a reassessment of the company's valuation in the lead-up to its nine-month financial reporting.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:33:27+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ITX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4760V1:0",
+      "title": "Kazatomprom Announces Investigation Into Former COO Kuanysh Omarbekov For Alleged Corruption",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4760V1:0-kazatomprom-announces-investigation-into-former-coo-kuanysh-omarbekov-for-alleged-corruption/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:32:59+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FWB:0ZQ"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318374",
+      "title": "Schaeffler Receives Analyst Upgrade from JPMorgan",
+      "url": "https://www.finanzen.net/nachricht/aktien/heute-im-fokus-25-11-2026-16085386",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "JPMorgan has upgraded the Schaeffler stock, despite setting a lower price target for the company.",
+      "content": "JPMorgan has issued an upgrade for Schaeffler AG shares. The analyst action includes a revision to the company's price target, which has been lowered. The report was noted in market news on November 25, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:32:48+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SHA0"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318373",
+      "title": "Aroundtown Raises 2026 Profit Expectations and Appoints New Dual Leadership",
+      "url": "https://www.finanzen.net/nachricht/aktien/heute-im-fokus-25-11-2026-16085386",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Aroundtown SA has increased its profit expectations for the 2026 fiscal year and announced the appointment of a new dual leadership team.",
+      "content": "Following an investment in LEG Immobilien, the real estate company Aroundtown SA has raised its earnings guidance for the 2026 fiscal year. In addition to the updated financial outlook, the company has appointed a new dual leadership team. These developments were reported on November 25, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:32:29+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "AT1"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318372",
+      "title": "Equinor to Swap Norwegian Continental Shelf Interests with JAPEX",
+      "url": "https://www.marketscreener.com/news/equinor-to-swap-norwegian-shelf-interests-with-japex-ce7851dbd18af325",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Equinor has announced an agreement to swap interests in assets on the Norwegian Continental Shelf with Japan Petroleum Exploration Co., Ltd. (JAPEX).",
+      "content": "Equinor has entered into an agreement to exchange interests in its Norwegian Continental Shelf assets with JAPEX. This transaction involves a strategic swap of interests between the two energy companies. The move reflects Equinor's ongoing portfolio management activities in the region. Further details regarding the specific assets involved in the exchange were not immediately disclosed in the report.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:32:27+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "EQNR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318371",
+      "title": "Tokyo Electron Device to Exhibit at Microwave Workshop 2026",
+      "url": "https://www.inrevium.com/news-event/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Tokyo Electron Device will showcase its millimeter-wave evaluation board and FPGA-based FFT calculation solutions at the Microwave Workshop 2026 in Yokohama.",
+      "content": "Tokyo Electron Device announced its participation in the Microwave Workshop 2026, held at Pacifico Yokohama from November 25 to November 27, 2026. The company will exhibit within the booth of PTM Co., Ltd. (Booth P-10). The showcase will feature a real-time high-speed transfer solution for millimeter-wave evaluation boards and an introduction to its FFT FPGA calculation development solutions.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:32:23+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "2760"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760BM:0",
+      "title": "Australia passes law forcing internet platforms to take down harmful content",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760BM:0-australia-passes-law-forcing-internet-platforms-to-take-down-harmful-content/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:32:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:META",
+          "NASDAQ:GOOG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318370",
+      "title": "Advent International Reportedly Exploring Potential Acquisition of Bureau Veritas",
+      "url": "https://www.marketscreener.com/news/advent-reportedly-explores-potential-bureau-veritas-deal-ce7851dbd18af026",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Private equity firm Advent International is reportedly exploring a potential acquisition of the French testing, inspection, and certification company Bureau Veritas.",
+      "content": "Reports indicate that private equity firm Advent International is evaluating a potential deal to acquire Bureau Veritas, a global leader in testing, inspection, and certification services. The development, which surfaced in late November 2026, highlights interest from the private equity sector in the French company. As of the reporting date, the potential acquisition remains in the exploratory stage. No formal agreement or offer has been confirmed by either party.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:32:12+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BVI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001493:0",
+      "title": "European Stock Indexes Mostly Higher as Industrials, Luxuries Gain — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001493:0-european-stock-indexes-mostly-higher-as-industrials-luxuries-gain-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "STOXX:SXXP",
+          "TVC:UKX",
+          "XETR:DAX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001491_20261125001491:0",
+      "title": "Li Auto 3Q Vehicle Margin 15.3% Vs. 15.5% >LI",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001491_20261125001491:0-li-auto-3q-vehicle-margin-15-3-vs-15-5-li/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:2015"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC8D34TC:0",
+      "title": "Sylvania Platinum Says FY2027 PGM Production Guidance Remains Unchanged",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC8D34TC:0-sylvania-platinum-says-fy2027-pgm-production-guidance-remains-unchanged/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:58+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:SLP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4760ML:0",
+      "title": "Ams OSRAM soars as Samsung Display agrees to buy 9% stake under microLED partnership",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4760ML:0-ams-osram-soars-as-samsung-display-agrees-to-buy-9-stake-under-microled-partnership/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:57+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BX:AMS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318100",
+      "title": "Xiaomi President Highlights Positive European Interest in Electric Vehicles",
+      "url": "https://www.marketscreener.com/news/xiaomi-president-touts-positive-european-interest-for-its-vehicles-in-expansion-effort-ce7851dbd18df52d",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Xiaomi's president reported strong interest from the European market regarding the company's electric vehicle lineup as part of its ongoing international expansion strategy.",
+      "content": "Xiaomi's leadership has publicly noted positive reception and interest from European consumers regarding the company's electric vehicle offerings. This development is framed as a key component of Xiaomi's broader international expansion efforts to diversify its hardware portfolio beyond consumer electronics. The company continues to focus on scaling its smart EV business, leveraging its existing IoT ecosystem to support its automotive ambitions in new geographic markets.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:55+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "1810"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318099",
+      "title": "UK Competition and Markets Authority Accepts Remedies in AkzoNobel-Axalta Merger",
+      "url": "https://www.morningstar.com/news/globe-newswire/9884840/uk-competition-and-markets-authority-in-principle-accepts-remedies-in-akzonobel-axalta-merger",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "The UK's Competition and Markets Authority (CMA) has confirmed that the remedy package proposed by AkzoNobel and Axalta Coating Systems addresses competition concerns regarding vehicle refinish coatings in the UK.",
+      "content": "The UK Competition and Markets Authority (CMA) has accepted in principle the remedy package offered by Akzo Nobel N.V. and Axalta Coating Systems Ltd. to address competition concerns related to their proposed merger. The concerns, initially raised by the regulator on November 11, 2026, specifically focused on the market for vehicle refinish coatings in the UK. The agreed-upon remedy involves the divestment of AkzoNobel's European vehicle refinish coatings business, a measure that aligns with commitments already made to the European Commission. Both companies continue to work with the CMA toward a final conditional clearance decision and maintain their expectation that the merger will be completed by early 2027.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:51+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "AKZA"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318098",
+      "title": "RBC Capital Markets Downgrades Ipsen to 'Sector Perform'",
+      "url": "https://www.abcbourse.com/marches/ipsen-degrade-de-de-surperformance-a-performance-en-ligne-avec-le-secteur-pa_706648",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "RBC Capital Markets has downgraded its rating on Ipsen from \"outperform\" to \"sector perform\" while increasing the price target to 175 euros from 148 euros.",
+      "content": "RBC Capital Markets downgraded Ipsen's stock rating to \"sector perform\" from \"outperform\" while simultaneously raising its price target from 148 to 175 euros. The firm cited short-term headwinds, including rising operational expenses and increased generic competition for Somatuline, as factors that may limit earnings per share growth until 2030. Additionally, the firm noted the upcoming loss of exclusivity for Cabometyx in 2029 as a long-term consideration. RBC concluded that the company's medium-term growth prospects are appropriately reflected at the current valuation of 11 times estimated 2027 earnings.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:48+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "IPN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318097",
+      "title": "Avolta Secures Ten-Year Contract for Nashville Airport Food and Beverage Operations",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/avolta-aktie-im-plus-zehnjahriger-vertrag-starkt-gastronomiegeschaft-in-nashville-1036796775",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Avolta has entered into a ten-year agreement to expand and strengthen its food and beverage operations at Nashville International Airport.",
+      "content": "Avolta has announced a new ten-year contract to manage and operate food and beverage services at Nashville International Airport. This agreement is intended to bolster the company's catering and hospitality footprint in the region. The long-term nature of the contract reflects the company's ongoing strategy to secure and expand its presence in major travel hubs. No specific financial terms were disclosed in the initial report.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:47+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "AVOL"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318096",
+      "title": "UNIQA Insurance Group AG Hosts Capital Markets Update in London",
+      "url": "https://www.finanzen.at/nachrichten/aktien/apa-ots-news-uniqa-capital-markets-update-wachstum-schafft-wert-1036798805",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "UNIQA Insurance Group AG held a Capital Markets Update on November 25, 2026, to detail the progress and future direction of its 'UNIQA 3.0 - Growing Impact' strategy.",
+      "content": "On November 25, 2026, UNIQA Insurance Group AG executives, including CEO Andreas Brandstetter, presented a strategic update in London. The event focused on the 'UNIQA 3.0 - Growing Impact' strategy, highlighting the group's diversified structure and future growth opportunities. Management emphasized the company's commitment to achieving sustainable increases in earnings and dividends. Additionally, the company announced plans to accelerate the implementation of its strategy through the increased integration of artificial intelligence.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:45+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "UQA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC9PRWPM:0",
+      "title": "Seraphim Space Investment Trust Reports NAV £734.2 Mln For Period Ended Sept 30, 2026",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC9PRWPM:0-seraphim-space-investment-trust-reports-nav-734-2-mln-for-period-ended-sept-30-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:42+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:SSIC"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318095",
+      "title": "Aurubis CEO Questions Feasibility of 2040 Climate Targets",
+      "url": "https://www.finanzen.net/nachricht/aktien/heute-im-fokus-25-11-2026-16085386",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Aurubis AG's CEO has expressed skepticism regarding the company's ability to meet its 2040 climate goals, labeling them as unrealistic.",
+      "content": "The CEO of Aurubis AG has publicly stated that the company's climate targets for 2040 are currently considered unrealistic. This assessment reflects a significant update on the company's strategic environmental outlook. The statement was reported in the context of broader market updates on November 25, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:42+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "NDA"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318094",
+      "title": "JPMorgan Adjusts Price Target for Henkel",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70223188-jpmorgan-stuft-henkel-vorzuege-auf-underweight-322.htm",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "JPMorgan has raised its price target for Henkel shares from 65 to 70 euros while maintaining an 'Underweight' rating.",
+      "content": "On November 25, 2026, the US bank JPMorgan updated its outlook on Henkel, increasing the price target for the company's preferred shares from 65 euros to 70 euros. Despite this adjustment, the bank maintained its 'Underweight' rating on the stock. The report follows the company's recent business and share price performance.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "HEN3"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318093",
+      "title": "Sectra Reports Strong Six-Month Interim Results",
+      "url": "https://www.prnewswire.com/news-releases/health-latest-news/health-care-hospitals-list/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Sectra AB announced its six-month interim report, highlighting increased sales and profitability driven by strong performance in the North American market.",
+      "content": "Sectra AB has released its interim report for the first six months of the fiscal year, reporting growth in both sales and profitability. The company specifically noted strong performance within its North American operations as a key driver for these results. The report covers the financial performance of the international medical imaging IT and cybersecurity firm for the first half of the period.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SECT.B"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318092",
+      "title": "Rémy Cointreau Raises Operating Margin Growth Outlook",
+      "url": "https://www.abcbourse.com/marches/cac-40-la-bourse-de-paris-monte-avant-l-inflation-americaine-remy-cointreau-en_706651",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Rémy Cointreau has increased its operating margin growth target for the current fiscal year, signaling progress in its turnaround efforts.",
+      "content": "Rémy Cointreau announced an upward revision to its growth outlook for the current fiscal year, specifically targeting an improvement in its current operating margin. The company anticipates a return to sustainable organic sales growth as its strategic turnaround initiatives gain traction. Following the announcement, the company's stock experienced a significant positive market reaction, reflecting investor confidence in the updated guidance.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:37+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "RCO"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318091",
+      "title": "BioArctic Reports Interim Results for July–September 2026",
+      "url": "https://www.prnewswire.com/news-releases/bioarctic-interim-report-for-the-period-july--september-2026-302950292.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "BioArctic AB has released its interim financial report covering the third quarter of 2026.",
+      "content": "BioArctic AB published its interim report for the period of July through September 2026. The report details the company's financial performance and operational progress during the third quarter. As a biopharmaceutical company focused on neurodegenerative diseases, these results provide insight into the company's ongoing research and development activities, including its work on lecanemab. The disclosure serves as a standard periodic update for investors and stakeholders regarding the company's fiscal status.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:37+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BIOA.B"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318090",
+      "title": "Wendel Identified as Key Stakeholder in Potential Bureau Veritas Acquisition",
+      "url": "https://www.abcbourse.com/marches/bureau-veritas-bondit-alors-que-le-fonds-advent-etudierait-son-rachat_706649",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Wendel, which holds a 21.4% stake in Bureau Veritas, is noted as a critical party for any potential acquisition of the company by Advent International.",
+      "content": "Reports indicate that the investment firm Advent International is exploring a potential acquisition of Bureau Veritas, a global leader in testing, inspection, and certification. According to sources, any successful transaction would require the support of Wendel, which currently maintains a 21.4% equity stake in Bureau Veritas. The discussions are described as being at an early stage, with no certainty that an agreement will be reached. The news follows market reports that Advent is working with advisors to evaluate a potential offer, which may include the divestiture of certain Bureau Veritas assets.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MF"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318089",
+      "title": "Hannover Re Announces Earnings Growth Targets and Capital Market Day Outlook",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/hannover-rueck-aktie-fester-rueckversicherer-plant-weiteres-gewinnwachstum-1036798703",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Hannover Re has announced its financial targets for the coming years, projecting a profit of at least 2.9 billion euros for 2027.",
+      "content": "During its capital market day, Hannover Re announced a target to increase its annual profit to at least 2.9 billion euros by 2027. The company also reaffirmed its profit target of 2.7 billion euros for the current year, following a profit of 2.64 billion euros in the previous year. Additionally, the reinsurer aims to achieve a combined ratio of under 85 percent in 2027. These projections reflect the company's ongoing strategy for steady earnings growth through 2029, with expectations for at least 5% annual EBIT growth and a return on investment of approximately 3.8% in 2027.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:29+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "HNR1"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318088",
+      "title": "Bureau Veritas Integrates Dassault Systèmes' 3DEXPERIENCE Platform",
+      "url": "https://procurementmag.com/news/bureau-veritas-adds-topo-to-its-procurement-tech-portfolio",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Bureau Veritas has partnered with Dassault Systèmes to integrate the 3DEXPERIENCE platform into its marine, offshore, and industrial asset integrity workflows.",
+      "content": "Bureau Veritas is incorporating Dassault Systèmes' 3DEXPERIENCE platform into its operational workflows for marine, offshore, and industrial asset integrity. This strategic partnership aims to streamline digital classification and compliance verification processes for these sectors. By leveraging the platform's capabilities, Bureau Veritas intends to enhance its efficiency in managing asset integrity and regulatory compliance.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "DSY"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130318087",
+      "title": "ITC Limited's Savlon Swasth India Mission Launches #WeLoveAntibiotics Campaign",
+      "url": "https://en.prnasia.com/releases/apac/savlon-swasth-india-mission-s-weloveantibiotics-campaign-brings-a-creative-twist-to-spark-a-conversation-on-antibiotic-misuse-558044.shtml",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "ITC Limited has introduced a new public health campaign under its Savlon Swasth India Mission to raise awareness about responsible antibiotic use and the importance of hand hygiene.",
+      "content": "ITC Limited, through its Savlon Swasth India Mission, has launched the #WeLoveAntibiotics campaign to address the growing public health challenge of Antimicrobial Resistance (AMR). The initiative, conceptualized by Ogilvy India, emphasizes the connection between frequent handwashing and the reduction of AMR by preventing infections. The company aims to spark conversations regarding responsible antibiotic consumption while reinforcing the role of hand hygiene in both home and hospital settings. Sameer Satpathy, Divisional Chief Executive of ITC's Personal Care Products Business, stated that the campaign is part of the company's ongoing commitment to encouraging behavioral change around hygiene.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:27+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.252649+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ITC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:a14748a894f94:0",
+      "title": "Sweden Producer Price Inflation Highest Since Early 2023",
+      "url": "https://www.tradingview.com/news/dpa_afx:a14748a894f94:0-sweden-producer-price-inflation-highest-since-early-2023/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:25+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_PLXB7J21R:0",
+      "title": "BRIEF-Li Auto Q3 Revenue RMB 28,800 Million",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_PLXB7J21R:0-brief-li-auto-q3-revenue-rmb-28-800-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:31:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:2015"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752B7:0",
+      "title": "Sequoia Economic Infrastructure Income Fund Reports NAV Per Ordinary Share 90.43P As At 30 Sept 2026",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752B7:0-sequoia-economic-infrastructure-income-fund-reports-nav-per-ordinary-share-90-43p-as-at-30-sept-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:30:48+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:SEQI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC4JXQ12:0",
+      "title": "Nanoco Group Says On Track To Achieve Break-Even & Financial Viability In About Two Years",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC4JXQ12:0-nanoco-group-says-on-track-to-achieve-break-even-financial-viability-in-about-two-years/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:30:07+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:NANO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:125ec60032601:0",
+      "title": "Wolftank Group AG (WOLF) Sales Rose 15.2%; EBITDA Reached €6.8M",
+      "url": "https://www.tradingview.com/news/tradingview:125ec60032601:0-wolftank-group-ag-wolf-sales-rose-15-2-ebitda-reached-6-8m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:30:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "VIE:WOLF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:eqs:2e0172691094b:0",
+      "title": "Wolftank Group confirms operational recovery after nine months: Sales up 15%, EBITDA at EUR 6.8m",
+      "url": "https://www.eqs-news.com/news/corporate-news/wolftank-group-confirms-operational-recovery-after-nine-months-sales-up-15-ebitda-at-eur-6-8m/aee0f072-b3f6-4825-a5a6-b25d32caa6e9_en",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "EQS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:30:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "VIE:WOLF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4813192:0",
+      "title": "MPCC: A $2.2bn backlog and tight tonnage support outlook, tempered by fleet growth from 2027",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4813192:0-mpcc-a-2-2bn-backlog-and-tight-tonnage-support-outlook-tempered-by-fleet-growth-from-2027/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:30:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:MPCC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:bbd7dfce7094b:0",
+      "title": "Li Auto Inc. Announces Unaudited Third Quarter 2026 Financial Results",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410023/0/en/li-auto-inc-announces-unaudited-third-quarter-2026-financial-results.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:2015"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752G5:0",
+      "title": "Focusrite Expects Low To Mid-Teens Operating Margin In Medium Term",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752G5:0-focusrite-expects-low-to-mid-teens-operating-margin-in-medium-term/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:29:49+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TUNE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC56MP9Q:0",
+      "title": "Genedrive Announces Direct Subscription To Raise Up To £1.23 Million",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC56MP9Q:0-genedrive-announces-direct-subscription-to-raise-up-to-1-23-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:29:07+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:GDR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760G0:0",
+      "title": "Ratos To Divest Plantasjen Group For SEK 280 Mln",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760G0:0-ratos-to-divest-plantasjen-group-for-sek-280-mln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:28:34+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:RATO_A"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4760V5:0",
+      "title": "Axalta Says Co & Akzonobel Will Continue Working With CMA Towards Final Conditional Clearance Decision",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4760V5:0-axalta-says-co-akzonobel-will-continue-working-with-cma-towards-final-conditional-clearance-decision/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:28:24+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:AXTA",
+          "EURONEXT:AKZA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:541336:0",
+      "title": "BioArctic Q3 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:541336:0-bioarctic-q3-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:27:55+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:BIOA_B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC7TCQPH:0",
+      "title": "Impax Environmental Markets Says EWIT Will Adopt A New Investment Policy",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC7TCQPH:0-impax-environmental-markets-says-ewit-will-adopt-a-new-investment-policy/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:27:43+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:IEM",
+          "LSE:IPX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752B8:0",
+      "title": "Rentguarantor Signs Partnership Agreements With Moda, Apache, And Zenith",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752B8:0-rentguarantor-signs-partnership-agreements-with-moda-apache-and-zenith/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:27:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:RGG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4246747:0",
+      "title": "EKTA_B: Sales growth lifted adjusted EBIT margin; higher working capital weighed on cash flow",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4246747:0-ekta_b-sales-growth-lifted-adjusted-ebit-margin-higher-working-capital-weighed-on-cash-flow/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:27:11+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:EKTA_B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:93140fcda094b:0",
+      "title": "MU, SKHY, SNDK Stocks In Focus After TrendForce Lowers DRAM Pricing Forecast",
+      "url": "https://stocktwits.com/news-articles/markets/equity/mu-skhy-sndk-stocks-in-focus-after-trend-force-lowers-dram-pricing-forecast/cNbH7VLR9l8",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:27:10+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:MU",
+          "KRX:000660",
+          "NASDAQ:SNDK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4170279:0",
+      "title": "GRE: Net profit rose 58% as storage and renewable project execution expanded",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4170279:0-gre-net-profit-rose-58-as-storage-and-renewable-project-execution-expanded/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:27:09+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BME:GRE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC1Y95Z0:0",
+      "title": "Xaar Announces Placing Of 9.4 Mln Shares To Raise £12.60 Mln",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC1Y95Z0:0-xaar-announces-placing-of-9-4-mln-shares-to-raise-12-60-mln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:27:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:XAR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001418:0",
+      "title": "Gilt Yields Fall on Lower Oil Prices, Safe Haven Demand — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001418:0-gilt-yields-fall-on-lower-oil-prices-safe-haven-demand-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:27:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coindar:d180fad96094b:0",
+      "title": "Injective to Be Listed on Aero on November 25th",
+      "url": "https://www.tradingview.com/news/coindar:d180fad96094b:0-injective-to-be-listed-on-aero-on-november-25th/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Coindar",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:26:30+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:INJUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4760N3:0",
+      "title": "Finland's OL3 nuclear reactor will halt output to investigate valve defect",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4760N3:0-finland-s-ol3-nuclear-reactor-will-halt-output-to-investigate-valve-defect/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:26:23+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_SPN47500Y:0",
+      "title": "South Africa's Ramaphosa wins court case to overturn 'Farmgate' panel report",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_SPN47500Y:0-south-africa-s-ramaphosa-wins-court-case-to-overturn-farmgate-panel-report/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:26:16+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
       "id": "yahoo:https://www.fool.com/investing/2026/11/25/1-reason-to-buy-amd-stock-before-2027/?.tsrc=rss",
       "title": "1 Reason to Buy AMD Stock Before 2027",
       "url": "https://www.fool.com/investing/2026/11/25/1-reason-to-buy-amd-stock-before-2027/?.tsrc=rss",
@@ -56,6 +1257,54 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC99JPVD:0",
+      "title": "EasyJet Posts FY26 Headline Profit Before Tax Of £71 Million",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC99JPVD:0-easyjet-posts-fy26-headline-profit-before-tax-of-71-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:25:34+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:EZJ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:f21135d2d094b:0",
+      "title": "Citi in talks with U.S. officials on possible return to Venezuela - report",
+      "url": "https://seekingalpha.com/news/4676465-citi-eyes-possible-return-to-venezuela?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:24:34+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:C"
+        ]
+      }
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN47528H:0",
@@ -78,6 +1327,30 @@
         "urgency": 2,
         "symbols": [
           "MYX:PEKAT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coindar:7317e4333094b:0",
+      "title": "PancakeSwap to Open Pancake App Early Access on November 25th",
+      "url": "https://www.tradingview.com/news/coindar:7317e4333094b:0-pancakeswap-to-open-pancake-app-early-access-on-november-25th/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Coindar",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:24:20+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:CAKEUSD"
         ]
       }
     },
@@ -202,6 +1475,30 @@
       }
     },
     {
+      "id": "tradingview:moneycontrol:9056dfc5d094b:0",
+      "title": "Two in five Indian family offices, UHNIs have invested in cryptocurrencies: BitDelta report",
+      "url": "https://www.tradingview.com/news/moneycontrol:9056dfc5d094b:0-two-in-five-indian-family-offices-uhnis-have-invested-in-cryptocurrencies-bitdelta-report/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:22:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BINANCE:BTCUSDT"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_TUC816TD9:0",
       "title": "Crimson Tide Expects FY Outcome To Be In Line With Market Expectations",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC816TD9:0-crimson-tide-expects-fy-outcome-to-be-in-line-with-market-expectations/",
@@ -226,6 +1523,54 @@
       }
     },
     {
+      "id": "tradingview:eqs:f7d608910094b:0",
+      "title": "Original-Research: Verve Group SE (von First Berlin Equity Research GmbH): Kaufen",
+      "url": "https://www.eqs-news.com/news/research-channel/original-research-verve-group-se-von-first-berlin-equity-research-gmbh-kaufen/46ce11e7-6486-4ac6-a4d6-90355ae2ba73_en",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "EQS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:21:04+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:VER"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:2c5c50a2f88e1:0",
+      "title": "Verve Group SE (VER) Maintains 2026 Guidance, Expects Lower-End Results",
+      "url": "https://www.tradingview.com/news/tradingview:2c5c50a2f88e1:0-verve-group-se-ver-maintains-2026-guidance-expects-lower-end-results/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:21:04+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:VER"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_TUC27GW9J:0",
       "title": "Cake Box Holdings Says Full Year Expectations Unchanged",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC27GW9J:0-cake-box-holdings-says-full-year-expectations-unchanged/",
@@ -246,6 +1591,30 @@
         "urgency": 2,
         "symbols": [
           "LSE:CBOX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:eqs:33be19790094b:0",
+      "title": "Global Health Care AG: Shareholders may submit questions on the Extraordinary General Meeting on 14 December 2026 in advance – questions and answers to be published on 7 December 2026",
+      "url": "https://www.eqs-news.com/news/corporate-news/global-health-care-ag-shareholders-may-submit-questions-on-the-extraordinary-general-meeting-on-14-december-2026-in-advance-questions-and-answers-to-be-published-on-7-december-2026/0086837c-8ed1-4e11-a342-1707a67ba364_en",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "EQS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:20:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MUN:EFIT"
         ]
       }
     },
@@ -340,6 +1709,30 @@
         "urgency": 2,
         "symbols": [
           "LSE:CVSG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:d1031d5e4395d:0",
+      "title": "Hugo Boss AG (BOSS) Reports Goldman Sachs Voting-Rights Threshold Event",
+      "url": "https://www.tradingview.com/news/tradingview:d1031d5e4395d:0-hugo-boss-ag-boss-reports-goldman-sachs-voting-rights-threshold-event/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:18:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:11.200901+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:BOSS"
         ]
       }
     },
@@ -19764,6 +21157,30 @@
       }
     },
     {
+      "id": "finnhub:8807411",
+      "title": "EU plans €50 billion tech fund to challenge US and China, FT reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUNwSjZLMGhnbjRUT3dCanR4NUNvbFlkOHpleklINGJuU3p4X1dqQlpTZHYtYm85OTBLSlQ2ZjVudXJrQ2xvazBWN3lydjZXOUdzdjJ0amJ0Ulh5X3dXVEszdTM5QTdlMU9PbkszRmd4djFaLWh1M0FxQ1E5NzJQeDY5QTdSN2lvSGJpNUlUTGlSeVJjeGFzX0xpdlFzbS1GNzlfdDZLMTIwY0E?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "EU plans €50 billion tech fund to challenge US and China, FT reports Reuters",
+      "content": "EU plans €50 billion tech fund to challenge US and China, FT reports Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:19:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:12.034420+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "tradingview:DJN_DN20261125000027_20261125000037:0",
       "title": "CIMB: Geopolitical Developments and Oil Price Fluctuations Continue to Cloud Operating Outlook",
       "url": "https://www.tradingview.com/news/DJN_DN20261125000027_20261125000037:0-cimb-geopolitical-developments-and-oil-price-fluctuations-continue-to-cloud-operating-outlook/",
@@ -22001,6 +23418,30 @@
         "symbols": [
           "NSE:APLAPOLLO"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8807412",
+      "title": "Russia sends home Chinese suspected of illegally raising $2.3 billion in deposits - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQnZkRzN6LS1BVWpiaGRocklGcmJDdmlXMHQycEZmeTlqVTBNX3BadHNGUlpBTW81NzlaTHNMVzdzT2NmMW02YXBuamZROFBHM0dZQVYyZk1qZTl4cktNWU5nUEZwOHItX1JRZFR1QjdJSDZ5TnFoejV6SXpfemlxYzJseVJ0V08xNHdLMFJpR2xFRjBzaTU4TFVERUMtZ2MtQXRUMC1OWl9LVXhQdlR1ekFhU0tPVzBMd01Pb3JB?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Russia sends home Chinese suspected of illegally raising $2.3 billion in deposits Reuters",
+      "content": "Russia sends home Chinese suspected of illegally raising $2.3 billion in deposits Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:16:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:12.034420+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -26585,6 +28026,30 @@
       "extra": {}
     },
     {
+      "id": "finnhub:8807414",
+      "title": "Dollar rallies before key inflation reading; Aussie and sterling slump - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUUFucHFRbGxzR3laOUhHVU5fQ215SV82VkdMcExqZy1DMmpLalE4RHkyUDgyaEVLQmhVQ3l1VFZXcUV2ZV9UQmlqX1p2X09UbjlfbzlTY1EwUld2Z2dFV0d3cTI0bDlUejkxbFRsczJ5Q2ZmdXVaTkNNTXNKLUZkYkxLVVhFejU1VjdVTXp4d3ctRmc2NWhDbFdJV1NDRTE4UFQzOGQ4eXI4bXdjLWJB?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Dollar rallies before key inflation reading; Aussie and sterling slump Reuters",
+      "content": "Dollar rallies before key inflation reading; Aussie and sterling slump Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:19:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:12.034420+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/just-tell-truth-trump-says-011417145.html?.tsrc=rss",
       "title": "‘Just Tell the Truth’: Trump Says Pardon ‘Always an Option’ for Jensen Huang, Urges Nvidia CEO Not to Plead the Fifth Before Congress",
       "url": "https://finance.yahoo.com/markets/stocks/articles/just-tell-truth-trump-says-011417145.html?.tsrc=rss",
@@ -27856,6 +29321,30 @@
       "extra": {}
     },
     {
+      "id": "finnhub:8807413",
+      "title": "Gold slips on stronger dollar, US inflation data in focus - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1p3ZkduX2FrdGJhMEMtbmNXNTgxN05HeDFsX2xxNDBkWXZQVkFWS3NzNFpITzZ2RnRyYXVZQ1k5bmthekYzdG9aSDVxcGZGS1RxMnNTTHNRRkQyQWFoWm1zNXVfd2hVQW96VHQ1ZFd4eU04cXNTRWk0cFJ4LS1PLUd1eUFmN3Y4ZjJQbXZpVkd3UQ?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Gold slips on stronger dollar, US inflation data in focus Reuters",
+      "content": "Gold slips on stronger dollar, US inflation data in focus Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:12.034420+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "yahoo:https://www.fool.com/investing/2026/11/24/nvidia-is-down-31-from-its-peak-history-says-this-happens-next/?.tsrc=rss",
       "title": "Nvidia Is Down 31% From Its Peak. History Says This Happens Next",
       "url": "https://www.fool.com/investing/2026/11/24/nvidia-is-down-31-from-its-peak-history-says-this-happens-next/?.tsrc=rss",
@@ -27907,6 +29396,25 @@
       "published_at": "2026-11-25T08:33:07+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T10:53:13.244381+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:69d0af11a288ba114dbf4c01f229aef05a9d4698",
+      "title": "Stock Market Live Updates: Sensex sheds 800 pts from day’s high, Nifty holds 25,650 ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069d83c3a14cd8b29e8d5f1f91f20d&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026%2fliveblog%2f136145716.cms&c=2500710713444335276&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "GIFT Nifty futures on the NSE IX were trading higher, indicating a strong gap-up opening for Dalal Street on Wednesday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:29:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:12.927095+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -33126,6 +34634,25 @@
       "extra": {}
     },
     {
+      "id": "msn:273b959a80a9bbece1e39c5b6b693b374ff74900",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty back above 25,700; market makes recovery ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069d83c3a14cd8b29e8d5f1f91f20d&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-ai-tariffs-it-nifty-bank-tata-steel-apl-apollo-zee-ril-adani-share-price-liveblog-20040632.htm&c=1104828012116773145&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The Nifty bulls enter the mid-week session starting a new F&O series on the back of mixed cues. They would have not liked the ferocity of the fall seen on Monday and the fact that both Nifty and the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:41:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:12.927095+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8805359",
       "title": "US farm secretary pledges to fight court order halting her religious emails - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2lqUENSMVI4YnVLV3ROcmZhNEE0M1Rvcm41d21paGoyVEFmTlVYUFY4aXFCOTdYU1Z0Yi01eXNWeXh4X3NybTM1SUVSdjZXbDM2VERKY1JpWXRMdTJuUGp1cXVDSEdVazJBOEtEZ2tCTUhOdDBuNkEyMllTbG9ISThNS3dnNTFQUl9US3lZUmg1QzVRQVYtOVJkb0VOd2x2RkhuX1l2ZlBZRGNLY2tZaF9iWGtITWlu?oc=5",
@@ -35671,6 +37198,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T16:31:12.111759+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:9c8ac90713ed6470f1763960550460c7c74d8266",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069d83c3a14cd8b29e8d5f1f91f20d&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:34:12.927095+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
