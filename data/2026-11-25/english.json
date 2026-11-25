@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T17:10:14.560656+08:00",
-  "count": 1904,
+  "generated_at": "2026-11-25T17:13:16.023040+08:00",
+  "count": 1940,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 3,
       "error": ""
     },
     {
@@ -38,6 +38,751 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:stocktwits:53c014640094b:0",
+      "title": "Bitcoin’s Next Bull Run Depends On An AI Bubble Bailout? Hayes Sees A 2027 Crash Coming",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-bull-run-depends-on-ai-bubble-bailout-hayes-2027-crash-coming/cNbHBupR9lr",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:12:22+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001684:0",
+      "title": "EU's Hybrid-Vehicle Quota Could Drive Automakers' Recovery — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001684:0-eu-s-hybrid-vehicle-quota-could-drive-automakers-recovery-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:12:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001688:0",
+      "title": "Global Oriental Malaysia 2nd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001688:0-global-oriental-malaysia-2nd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:12:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:GOB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001685:0",
+      "title": "IGB Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001685:0-igb-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:12:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:IGBB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001686:0",
+      "title": "Kia Lim Bhd Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001686:0-kia-lim-bhd-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:12:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:KIALIM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001687:0",
+      "title": "SHL Consolidated Malaysia 2nd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001687:0-shl-consolidated-malaysia-2nd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:12:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SHL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4760VJ:0",
+      "title": "Fimna - Finma Has Approved Recovery Plan Submitted By UBS In 2025",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4760VJ:0-fimna-finma-has-approved-recovery-plan-submitted-by-ubs-in-2025/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:11:52+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BX:0UB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4760VI:0",
+      "title": "Wartsila To Supply Engines For Royal Wagenborg Vessels",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4760VI:0-wartsila-to-supply-engines-for-royal-wagenborg-vessels/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:11:04+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXHEX:WRT1V"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:a97675d3d094b:0",
+      "title": "Nasdaq futures extend losses as tech stocks face renewed pressure",
+      "url": "https://seekingalpha.com/news/4676487-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:10:54+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:DJI",
+          "TVC:SPX",
+          "TVC:US02Y",
+          "TVC:US10Y",
+          "TVC:US30Y",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4760QS:0",
+      "title": "FINMA Considers UBS' Preferred Resolution Strategy To Be Executable",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4760QS:0-finma-considers-ubs-preferred-resolution-strategy-to-be-executable/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:10:31+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BX:0UB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001678:0",
+      "title": "Dominant Enterprise Malaysia 2nd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001678:0-dominant-enterprise-malaysia-2nd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:10:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:DOMINAN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001679:0",
+      "title": "DutaLand Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001679:0-dutaland-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:10:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:DUTALND"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001672:0",
+      "title": "Farlim Group Malaysia Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001672:0-farlim-group-malaysia-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:10:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:FARLIM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001677:0",
+      "title": "GFM Services Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001677:0-gfm-services-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:10:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:GFM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001673:0",
+      "title": "Landmarks Bhd Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001673:0-landmarks-bhd-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:10:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:LANDMRK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6236Ea:0",
+      "title": "REG - ABC arbitrage A.M. Mobico Group PLC - Form 8.3 - MOBICO GROUP PLC",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6236Ea:0-reg-abc-arbitrage-a-m-mobico-group-plc-form-8-3-mobico-group-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:10:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:MCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761MD:0",
+      "title": "Alzinova Enters Into Collaboration With Cellectricon",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761MD:0-alzinova-enters-into-collaboration-with-cellectricon/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:09:58+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:ALZ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4542756:0",
+      "title": "QLTU: Higher 9M revenue, lower earnings and uncertain cost pressures define the period",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4542756:0-qltu-higher-9m-revenue-lower-earnings-and-uncertain-cost-pressures-define-the-period/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:09:52+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TASE:QLTU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4760VH:0",
+      "title": "MOBA Gives Unconditional Notice Of Partial Redemption Of Its Outstanding Bonds",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4760VH:0-moba-gives-unconditional-notice-of-partial-redemption-of-its-outstanding-bonds/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:09:27+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:MOBA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001670:0",
+      "title": "Li Auto Narrows Loss on Higher Revenue",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001670:0-li-auto-narrows-loss-on-higher-revenue/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:09:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:2015"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001663_20261125001665:0",
+      "title": "Petra Diamonds: Vivek's Resignation Effective Immediately",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001663_20261125001665:0-petra-diamonds-vivek-s-resignation-effective-immediately/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:09:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:PDL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4268438:0",
+      "title": "KAL: RHEPS rose 12.9% as H2 fuel and agricultural pressures intensified",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4268438:0-kal-rheps-rose-12-9-as-h2-fuel-and-agricultural-pressures-intensified/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:08:50+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "JSE:KAL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6235Ea:0",
+      "title": "REG - APG Asset Management Prologis, Inc. SEGRO PLC - Form 8.3 - SEGRO PLC",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6235Ea:0-reg-apg-asset-management-prologis-inc-segro-plc-form-8-3-segro-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:08:27+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:SGRO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001657:0",
+      "title": "CCK Consolidated Holdings Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001657:0-cck-consolidated-holdings-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:08:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:CCK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001663_20261125001663:0",
+      "title": "Petra Diamonds CEO Vivek Gadodia Resigns",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001663_20261125001663:0-petra-diamonds-ceo-vivek-gadodia-resigns/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:08:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:PDL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001658:0",
+      "title": "Powerwell Holdings Malaysia 2nd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001658:0-powerwell-holdings-malaysia-2nd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:08:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:PWRWELL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001659:0",
+      "title": "Yomiuri: Pre-owned Condo Prices Fall in Central Tokyo",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001659:0-yomiuri-pre-owned-condo-prices-fall-in-central-tokyo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:08:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4760LR:0",
+      "title": "Spain's HBX misses annual profit estimates, shares fall",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4760LR:0-spain-s-hbx-misses-annual-profit-estimates-shares-fall/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:07:42+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BME:HBX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6233Ea:0",
+      "title": "REG - APG Asset Management SEGRO PLC Prologis, Inc. - Form 8.3 - Prologis INC",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6233Ea:0-reg-apg-asset-management-segro-plc-prologis-inc-form-8-3-prologis-inc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:07:12+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PLD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L8N43T0ON:0",
+      "title": "Stellantis to cut production at Sochaux plant in France",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N43T0ON:0-stellantis-to-cut-production-at-sochaux-plant-in-france/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:07:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MIL:STLAM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4038388:0",
+      "title": "TM: Revenue growth held, but lower PATAMI and reduced FY2026 CAPEX guidance shaped the quarter",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4038388:0-tm-revenue-growth-held-but-lower-patami-and-reduced-fy2026-capex-guidance-shaped-the-quarter/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:06:49+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:TM"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261125001623:0",
       "title": "FoundPac Group Malaysia 1st-Quarter 2026 Earnings Summary Table",
@@ -467,6 +1212,54 @@
         "urgency": 2,
         "symbols": [
           "MYX:YXPM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001642:0",
+      "title": "Malaysia Kenny Rogers Operator to Transfer Chain to JV Led by UAE Firms",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001642:0-malaysia-kenny-rogers-operator-to-transfer-chain-to-jv-led-by-uae-firms/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:06:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:BJFOOD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001636:0",
+      "title": "Media Prima Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001636:0-media-prima-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:06:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:11.551744+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:MEDIA"
         ]
       }
     },
@@ -34150,6 +34943,25 @@
       "extra": {}
     },
     {
+      "id": "msn:88b17d001cbf3837ebffb839b9361252729b5a87",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to slump as investors await PCE inflation ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a6a8c26e44508c7a78d6e790290b&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia&c=9558319776707145456&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Wednesday here ahead of October's personal consumption expenditures price index.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:13.744116+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:69d0af11a288ba114dbf4c01f229aef05a9d4698",
       "title": "Stock Market Live Updates: Sensex sheds 800 pts from day’s high, Nifty holds 25,650 ...",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069d83c3a14cd8b29e8d5f1f91f20d&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026%2fliveblog%2f136145716.cms&c=2500710713444335276&mkt=en-us",
@@ -34448,6 +35260,25 @@
       "published_at": "2026-11-25T08:15:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T17:10:13.977563+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d9b0838222539cf37e444b8b5563b80949de6b9e",
+      "title": "Visible Alpha Breakdown Of U.S. Airlines' Q4 2026 Earnings Expectations",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a6a84f2b4b699fd840c94c7630a1&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4971756-visible-alpha-breakdown-of-us-airlines-q4-2026-earnings-expectations&c=318486121220102849&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Visible Alpha consensus shows US airlines are heading into Q4 2026 with strong top-line growth expectations, supported by continued capacity expansion, higher passenger traffic, and robust revenue per ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:15:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:13.744116+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -42787,6 +43618,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T17:07:15.949149+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:3628cd5b080bb79ac36951e4e2f865ef6eb5f026",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a6a8c26e44508c7a78d6e790290b&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:13:13.744116+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
