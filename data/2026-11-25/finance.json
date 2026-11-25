@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T11:31:14.560686+08:00",
-  "count": 255,
+  "generated_at": "2026-11-25T11:34:13.889912+08:00",
+  "count": 256,
   "sources": [
     {
       "name": "cls",
@@ -26,6 +26,25 @@
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-25/doc-inizxiam1876837.shtml",
+      "title": "山东新华制药股份H股午前涨超7% 公司A股今早涨停",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-25/doc-inizxiam1876837.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "新浪港股",
+      "summary": "山东新华制药股份（00719）H股盘中涨超7%，公司A股今早涨停。截至发稿，股价上涨6.46%，现报5.03港元，成交额2465.23万港元。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:32:35+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:34:11.716858+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-25/doc-inizxiar4381471.shtml",
       "title": "联邦制药盘中涨超3% 近日UBT48128片(超重或肥胖)获中国新药临床试验默示许可",
