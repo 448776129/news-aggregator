@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T12:10:16.235258+08:00",
-  "count": 401,
+  "generated_at": "2026-11-25T12:13:16.774928+08:00",
+  "count": 420,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 0,
+      "count": 35,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,275 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261124009620:0",
+      "title": "Bitcoin Weakens Further Beneath $60,000 — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009620:0-bitcoin-weakens-further-beneath-60-000-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:11:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:12.711216+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0607d507bb7d3:0",
+      "title": "Revolve Renewable Power Corp. (REVV) Shareholders Approve $0.23-Per-Share Acquisition",
+      "url": "https://www.tradingview.com/news/tradingview:0607d507bb7d3:0-revolve-renewable-power-corp-revv-shareholders-approve-0-23-per-share-acquisition/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:10:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:12.711216+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:REVV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:c506a61c6282c:0",
+      "title": "Revolve Reports Quarterly Financial Results and Provides Corporate Update",
+      "url": "https://www.tradingview.com/news/prnewswire:c506a61c6282c:0-revolve-reports-quarterly-financial-results-and-provides-corporate-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:10:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:12.711216+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:REVV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N476047:0",
+      "title": "AI credit default swap spreads widen on unease over cash flow",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N476047:0-ai-credit-default-swap-spreads-widen-on-unease-over-cash-flow/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:08:51+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:12.711216+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA",
+          "TSE:9984",
+          "NYSE:ORCL",
+          "NASDAQ:GOOG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752D2:0",
+      "title": "Blackrock, IFM Said To Mull Lowering Bid For Stack Data Centers - Bloomberg News",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752D2:0-blackrock-ifm-said-to-mull-lowering-bid-for-stack-data-centers-bloomberg-news/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:08:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:12.711216+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BLK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009613:0",
+      "title": "Shein Likely to Face Near-Term Headwinds Before 2028 Recovery — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009613:0-shein-likely-to-face-near-term-headwinds-before-2028-recovery-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:08:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:12.711216+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:625"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47604R:0",
+      "title": "London copper steadies after overnight rout as AI relief rally fizzles",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47604R:0-london-copper-steadies-after-overnight-rout-as-ai-relief-rally-fizzles/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:07:56+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:12.711216+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LME:CA1!",
+          "NASDAQ:NVDA",
+          "LME:AH1!",
+          "COMEX:ZNC1!",
+          "MCX:NICKEL1!",
+          "MCX:LEAD1!",
+          "MYX:FTIN1!",
+          "COMEX:HG1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N476091:0",
+      "title": "NIIF Infra Finance accepts bids for bond reissue, bankers say",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N476091:0-niif-infra-finance-accepts-bids-for-bond-reissue-bankers-say/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:06:59+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:12.711216+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/asian-stocks-mostly-decline-ai-040526833.html?.tsrc=rss",
+      "title": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-mostly-decline-ai-040526833.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "HONG KONG (AP) — Asian stocks mostly declined on Wednesday after heavy selling of stocks linked to artificial intelligence once again hit Wall Street. futures slipped and oil prices also fell.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:05:26+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:12.135898+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47606Q:0",
+      "title": "China's yuan touches 3-week high but trade tension worries cap gains",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47606Q:0-china-s-yuan-touches-3-week-high-but-trade-tension-worries-cap-gains/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:01:43+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:12.711216+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX_IDC:USDCNY",
+          "FX:USDCNH",
+          "FX_IDC:CNYUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009607:0",
+      "title": "Indonesian Stocks Face Reset if MSCI Downgrades Status — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009607:0-indonesian-stocks-face-reset-if-msci-downgrades-status-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:01:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:12.711216+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "IDX:COMPOSITE"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N476089:0",
       "title": "Indian shares open higher as foreign inflows, lower oil prices aid sentiment",
@@ -69,6 +338,54 @@
       }
     },
     {
+      "id": "tradingview:moneycontrol:5ef8dd8b6094b:0",
+      "title": "Bank Nifty jumps nearly 1,300 pts as HDFC Bank, ICICI Bank rally over 3% each; private lenders lead gains",
+      "url": "https://www.tradingview.com/news/moneycontrol:5ef8dd8b6094b:0-bank-nifty-jumps-nearly-1-300-pts-as-hdfc-bank-icici-bank-rally-over-3-each-private-lenders-lead-gains/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:00:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:12.711216+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:BANKNIFTY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:the_block:4fb0b4730094b:0",
+      "title": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
+      "url": "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090?utm_source=tradingview&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "The Block",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:59:52+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:12.711216+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:KALSHI"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47604M:0",
       "title": "Soybeans ease from four-week top, Brazilian planting weighs",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47604M:0-soybeans-ease-from-four-week-top-brazilian-planting-weighs/",
@@ -92,6 +409,28 @@
           "CBOT:ZW1!",
           "CBOT:ZC1!"
         ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N45201T:0",
+      "title": "China's Shenzhou-24 flight docks at space station",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45201T:0-china-s-shenzhou-24-flight-docks-at-space-station/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:58:57+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:12.711216+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -120,6 +459,30 @@
       }
     },
     {
+      "id": "tradingview:cnbctv:92e06f864094b:0",
+      "title": "APL Apollo shares fall another 15% to 52-week low after at least four downgrades on Tata Steel deal",
+      "url": "https://www.tradingview.com/news/cnbctv:92e06f864094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:56:25+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:12.711216+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:APLAPOLLO"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752D1:0",
       "title": "Hyundai Rotem Company To Divest 8.4 Billion Won Worth Of Own Shares",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752D1:0-hyundai-rotem-company-to-divest-8-4-billion-won-worth-of-own-shares/",
@@ -141,6 +504,28 @@
         "symbols": [
           "KRX:064350"
         ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:0188dbe49094b:0",
+      "title": "Rupee strengthens to 92.74 against dollar: How does it affect your overseas payments",
+      "url": "https://www.tradingview.com/news/cnbctv:0188dbe49094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:55:06+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:12.711216+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -1506,6 +1891,25 @@
           "NSE:NIFTY"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/video/nvidia-still-faces-key-man-030814447.html?.tsrc=rss",
+      "title": "NVidia Still Faces 'Key-Man Risk' in Huang: Professor",
+      "url": "https://finance.yahoo.com/video/nvidia-still-faces-key-man-030814447.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Jensen Huang has been known for his exacting management style at Nvidia. In his previous role as CEO, Huang had about 60 people reporting to him, far more than the average tech leader. University of Colorado Professor of Law Ann Lipton says Nvidia's lack of a succession plan for Huang remains a concern.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:08:14+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:12.135898+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:e4b2e17490e14:0",
@@ -7633,6 +8037,25 @@
       "extra": {}
     },
     {
+      "id": "msn:5e7b23b981281faaace74c2b630976df251e90da",
+      "title": "Stock Market Today Live Updates: Sensex, Nifty set for higher opening as crude eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0660580fd64607b8c6ab56ad6be3ed&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fbusiness%2findia-business%2fsensex-stock-market-today-23-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news%2fliveblog%2f136147030.cms&c=3237786143847060473&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Asian markets fell sharply on Wednesday as renewed US tariff threats and fading momentum in the AI-led rally weighed on investor sentiment. Chip-heav ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T03:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:14.633544+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://finance.yahoo.com/video/why-the-jensen-huang-rally-faded-so-quickly-194511286.html?.tsrc=rss",
       "title": "Why the Jensen Huang rally faded so quickly",
       "url": "https://finance.yahoo.com/video/why-the-jensen-huang-rally-faded-so-quickly-194511286.html?.tsrc=rss",
@@ -9067,6 +9490,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T12:10:14.690185+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:32e4bb27ca1fef1fd4b3db598a15ae32dc7371be",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0660580fd64607b8c6ab56ad6be3ed&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:13:14.633544+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
