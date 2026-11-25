@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T01:55:13.322076+08:00",
-  "count": 586,
+  "generated_at": "2026-11-26T01:58:12.209967+08:00",
+  "count": 591,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,68 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 21,
+      "count": 22,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://247wallst.com/investing/etf/2026/11/25/every-dollar-of-your-retirement-income-comes-from-one-fund-at-73-these-3-etfs-spread-the-load/?.tsrc=rss",
+      "title": "Every Dollar of Your Retirement Income Comes From One Fund at 73. These 3 ETFs Spread the Load",
+      "url": "https://247wallst.com/investing/etf/2026/11/25/every-dollar-of-your-retirement-income-comes-from-one-fund-at-73-these-3-etfs-spread-the-load/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Your paycheck feels simple with one fund, one deposit, and one statement. But a single payout cut or manager change would hit every dollar at once. Three very different income engines could keep that from happening, though each has a catch.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:52:57+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:58:09.193015+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://247wallst.com/investing/etf/2026/11/25/spyd-and-schd-hold-no-nvidia-heres-what-you-give-up-and-what-you-get/?.tsrc=rss",
+      "title": "SPYD and SCHD Hold No Nvidia. Here’s What You Give Up and What You Get",
+      "url": "https://247wallst.com/investing/etf/2026/11/25/spyd-and-schd-hold-no-nvidia-heres-what-you-give-up-and-what-you-get/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Two dividend ETFs skipped the AI trade entirely and still left the S&P 500 behind this year. The reason has less to do with luck than with where the market quietly shifted, and the trade-offs may surprise income investors.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:51:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:58:09.193015+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/m/7af7a923-fdfa-3a68-abd6-acc160a02011/nvidia-stock-keeps-falling..html?.tsrc=rss",
+      "title": "Nvidia Stock Keeps Falling. It’s Obvious Jensen Was Not the Only Problem.",
+      "url": "https://finance.yahoo.com/m/7af7a923-fdfa-3a68-abd6-acc160a02011/nvidia-stock-keeps-falling..html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The record-breaking rally sparked by CEO Jensen Huang’s return Monday increasingly looks like an outlier.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:50:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:58:09.193015+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "yahoo:https://finance.yahoo.com/technology/article/china-added-nearly-10-times-more-power-capacity-than-the-us-in-2025-as-the-ai-race-heats-up-174910324.html?.tsrc=rss",
       "title": "China added nearly 10 times more power capacity than the US in 2025 as the AI race heats up",
@@ -312,6 +369,25 @@
       "extra": {}
     },
     {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/25/amd-is-actually-on-sale-at-a-52-discount-now-based-on-this-number-and-im-buying-it/?.tsrc=rss",
+      "title": "AMD is Actually on Sale at a 52% Discount Now Based on This Number and I’m Buying It",
+      "url": "https://247wallst.com/investing/2026/11/25/amd-is-actually-on-sale-at-a-52-discount-now-based-on-this-number-and-im-buying-it/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "AMD stock just plunged nearly 18% in a week, and one investor responded by buying more. A single valuation metric explains the move, along with one inventory warning that could still wreck the thesis.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:45:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:58:09.193015+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261125006065_20261125006065:0",
       "title": "DJIA Falls 39.00 Points (0.08%)",
       "url": "https://www.tradingview.com/news/DJN_DN20261125006065_20261125006065:0-djia-falls-39-00-points-0-08/",
@@ -492,6 +568,25 @@
           "NASDAQ:NVDA"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/m/97a2ae60-8b24-38d0-ac03-3173b543f91f/colette-kress-scored-a-win.html?.tsrc=rss",
+      "title": "Colette Kress Scored a Win Worth Millions From Huang’s Return to Nvidia",
+      "url": "https://finance.yahoo.com/m/97a2ae60-8b24-38d0-ac03-3173b543f91f/colette-kress-scored-a-win.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia’s interim CEO lasted only 11 days before her old boss resurfaced—and she went back to being CFO. But the stock’s comeback padded a trust that her kids will inherit.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:58:09.193015+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:dpa_afx:e114cf245094b:0",
