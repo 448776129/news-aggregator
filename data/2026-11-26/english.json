@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T02:46:14.860613+08:00",
-  "count": 732,
+  "generated_at": "2026-11-26T02:49:27.502149+08:00",
+  "count": 735,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 8,
+      "count": 9,
       "error": ""
     },
     {
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tradingview:c5f6e01cef939:0",
+      "title": "Central Garden & Pet FY 2026: Revenue $2.94B, EPS $3.03 — 10-K Summary",
+      "url": "https://www.tradingview.com/news/tradingview:c5f6e01cef939:0-central-garden-pet-fy-2026-revenue-2-94b-eps-3-03-10-k-summary/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:45:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:49:23.850008+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CENT"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261125006386:0",
       "title": "Canada Considering Offering Cash to Stellantis to Keep Auto Production at Toronto-Area Plant",
@@ -82,6 +106,30 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:59a569b62094b:0",
+      "title": "Eversource Energy resumed at Equal Weight at Morgan Stanley on overhangs",
+      "url": "https://seekingalpha.com/news/4676666-eversource-energy-resumed-equal-weight-morgan-stanley-overhangs?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:43:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:49:23.850008+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:ES"
+        ]
       }
     },
     {
@@ -823,6 +871,30 @@
         "symbols": [
           "NASDAQ:XTIA"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8809295",
+      "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "CNBC",
+      "summary": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+      "content": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:22:59+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:49:24.008413+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "CNBC",
+        "category": "top news",
+        "related": "",
+        "image": "https://image.cnbcfm.com/api/v1/image/108368728-1790601399956-Screenshot_2026-09-28_at_91434_AM.png?v=1790601411&w=1920&h=1080"
       }
     },
     {
