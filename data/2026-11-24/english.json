@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T23:07:13.579228+08:00",
-  "count": 3284,
+  "generated_at": "2026-11-25T23:10:29.426230+08:00",
+  "count": 3285,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 9,
+      "count": 1,
       "error": ""
     },
     {
@@ -19552,6 +19552,25 @@
       "published_at": "2026-11-24T21:53:00+08:00",
       "published_date": "2026-11-24",
       "fetched_at": "2026-11-25T23:07:11.765915+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:279e7b54249d1a826db43318757a1c201d128660",
+      "title": "Is Jensen Huang the AI 'spirit animal' who will save the stock market?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fa61c5bc405c9e7b9ea12fddafef&url=https%3a%2f%2fwww.usatoday.com%2fstory%2fmoney%2fpersonal-finance%2f2026%2f11%2f24%2fwhat-jensen-huangs-return-to-nvidia-means-for-your-401k%2f92947391007%2f&c=10751522810179122991&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nvidia optimists say Jensen Huang's return will lift the stock market from its doldrums. Pessimists say his ouster was the right move all along.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-24T21:53:00+08:00",
+      "published_date": "2026-11-24",
+      "fetched_at": "2026-11-25T23:10:27.599615+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
