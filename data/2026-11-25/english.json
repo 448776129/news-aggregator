@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T19:28:18.053390+08:00",
-  "count": 2921,
+  "generated_at": "2026-11-25T19:31:14.378105+08:00",
+  "count": 2936,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 4,
       "error": ""
     },
     {
@@ -38,6 +38,248 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760L1:0",
+      "title": "Tariff fear compounds AI recoil",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760L1:0-tariff-fear-compounds-ai-recoil/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:30:58+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:31:10.274232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:IXIC",
+          "SP:SPX",
+          "KRX:KOSPI",
+          "TVC:NI225"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:45482bb6a8722:0",
+      "title": "CGI Inc. (GIB.A) Expands Utility Platform Globally, Serving 6M Consumers",
+      "url": "https://www.tradingview.com/news/tradingview:45482bb6a8722:0-cgi-inc-gib-a-expands-utility-platform-globally-serving-6m-consumers/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:31:10.274232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:GIB.A"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:50c66581d4096:0",
+      "title": "CGI expands its u@Cloud platform globally to help utilities modernize customer and commercial operations",
+      "url": "https://www.tradingview.com/news/prnewswire:50c66581d4096:0-cgi-expands-its-u-cloud-platform-globally-to-help-utilities-modernize-customer-and-commercial-operations/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:31:10.274232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:GIB",
+          "TSX:GIB.A"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:business_wire:63012c05a94b2:0",
+      "title": "Teleflex to Present at the 38th Annual Piper Sandler Healthcare Conference",
+      "url": "https://www.tradingview.com/news/business_wire:63012c05a94b2:0-teleflex-to-present-at-the-38th-annual-piper-sandler-healthcare-conference/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:31:10.274232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:TFX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002657:0",
+      "title": "US Political, Economic Calendar - Week Ahead",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002657:0-us-political-economic-calendar-week-ahead/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:31:10.274232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760HI:0",
+      "title": "Noah Holdings Q3 revenue falls on lower commissions",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760HI:0-noah-holdings-q3-revenue-falls-on-lower-commissions/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:29:52+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:31:10.274232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:NOAH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:8c67330084868:0",
+      "title": "Ascendiant Capital maintains Myomo at Buy, lowers price target to $10 from $10.50",
+      "url": "https://www.tradingview.com/news/tradingview:8c67330084868:0-ascendiant-capital-maintains-myomo-at-buy-lowers-price-target-to-10-from-10-50/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:29:33+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:31:10.274232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:MYO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760HF:0",
+      "title": "Hong Kong's Kong Shum Smart H1 revenue falls 2%, loss narrows",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760HF:0-hong-kong-s-kong-shum-smart-h1-revenue-falls-2-loss-narrows/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:29:24+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:31:10.274232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:8181"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4253618:0",
+      "title": "DE: FY26 revenue rose as earnings eased; FY27 outlook reflects divergent segment trends",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4253618:0-de-fy26-revenue-rose-as-earnings-eased-fy27-outlook-reflects-divergent-segment-trends/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:28:37+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:31:10.274232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002645:0",
+      "title": "Trustpilot Can Turn Low North American Market Share Into Profitable Growth — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002645:0-trustpilot-can-turn-low-north-american-market-share-into-profitable-growth-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:28:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:31:10.274232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TRST"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6540Ea:0",
       "title": "REG - BkofA Merrill Lynch Irish Res Prop REIT - 20261124_Irish Residential_38.5 (b)_IE_BOFASE",
@@ -116,6 +358,30 @@
         "urgency": 2,
         "symbols": [
           "NYSE:DKS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_SN20261125003946:0",
+      "title": "The S&P 500 is headed to 8,200 - and downturns like this one are actually part of the reason why, says JPMorgan",
+      "url": "https://www.tradingview.com/news/DJN_SN20261125003946:0-the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MarketWatch",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:27:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:31:10.274232+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SP:SPX"
         ]
       }
     },
@@ -50237,6 +50503,25 @@
       "extra": {}
     },
     {
+      "id": "msn:35cc558f980326198f852eb187be5833b9f94b4a",
+      "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c6fe364a4d598d45fd49e8c8e128&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:44:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:31:12.441073+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:smallcaps:ffd662f9b094b:0",
       "title": "Emyria Selected for Participation in Compass Pathways’ Global Psilocybin PTSD Trial",
       "url": "https://smallcaps.com.au/article/emyria-selected-for-participation-in-compass-pathways-global-psilocybin-ptsd-trial",
@@ -55074,6 +55359,44 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T19:28:14.886204+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:fa8bac101d7bb440bfa76e1721a93c0bb6388669",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to slump as investors await PCE inflation ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c6fe364a4d598d45fd49e8c8e128&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia&c=9558319776707145456&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Wednesday here ahead of October's personal consumption expenditures price index.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:31:12.441073+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:3ab10fc8c5bd291d1bd532a4fcce11312ca058f3",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c6febb6f4da7865c1a33cebc5622&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:31:12.441073+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -65660,6 +65983,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T19:28:14.886204+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:f01b5502b72e00a68bd06341a647eb7b72f113b7",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06c6fe364a4d598d45fd49e8c8e128&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:31:12.441073+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
