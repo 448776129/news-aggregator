@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T06:58:18.971068+08:00",
-  "count": 1479,
+  "generated_at": "2026-11-26T07:01:15.769797+08:00",
+  "count": 1483,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,106 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4084190:0",
+      "title": "FINV: China retrenchment cut earnings, while overseas growth supported unchanged FY revenue guidance",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4084190:0-finv-china-retrenchment-cut-earnings-while-overseas-growth-supported-unchanged-fy-revenue-guidance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:00:15+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:01:10.446571+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:FINV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:61b42e38ce8cb:0",
+      "title": "HSI Gives Up Gains in PM Trade, Ends Down 253 pts; Chip Stocks Hit Hard",
+      "url": "https://www.tradingview.com/news/moodys:61b42e38ce8cb:0-hsi-gives-up-gains-in-pm-trade-ends-down-253-pts-chip-stocks-hit-hard/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "AASTOCKS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:59:59+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:01:10.446571+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1810",
+          "HKEX:9626",
+          "HKEX:9618",
+          "HKEX:9999",
+          "HKEX:3690",
+          "HKEX:9888",
+          "HKEX:700",
+          "HKEX:9988",
+          "HKEX:1024",
+          "HKEX:1347",
+          "HKEX:992",
+          "HKEX:981",
+          "HKEX:6082",
+          "HKEX:9903",
+          "HKEX:3986",
+          "HKEX:522",
+          "HKEX:6809",
+          "HKEX:7747",
+          "HKEX:7709",
+          "HKEX:7772",
+          "HKEX:9880",
+          "HKEX:1304",
+          "HKEX:6600",
+          "HKEX:2050",
+          "HKEX:2590",
+          "HKEX:179",
+          "HKEX:2513",
+          "HKEX:100",
+          "HSI:HSI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47617G:0",
+      "title": "International Paper names insider Nicholls CEO of DS Smith spinoff",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47617G:0-international-paper-names-insider-nicholls-ceo-of-ds-smith-spinoff/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:58:44+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:01:10.446571+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:IP"
+        ]
+      }
+    },
     {
       "id": "tradingview:urn:summary_document_transcript:quartr.com:4827973:0",
       "title": "TWL: Revenue grew 16%, EBITDA neared break-even, and FreightAI remained on track",
@@ -13805,6 +13905,25 @@
           "NZX:FPH"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-spcx-cheap-201121157.html?.tsrc=rss",
+      "title": "Is Space Exploration Technologies (SPCX) Cheap As Tesla Merger Talks Raise Valuation Questions?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-spcx-cheap-201121157.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Tesla and Space Exploration Technologies (NasdaqGS:SPCX) are reportedly deepening talks on a potential all stock merger valued above US$3.5 trillion. Investors are watching how deal structure, governance and exchange ratios might influence SPCX’s trading profile. Space Exploration Technologies has seen momentum cool in recent weeks, with the share price down 11.2% over the last seven sessions and 21.8% year to date, as merger headlines, heavy AI chip financing, and shifting ETF flows reset...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:11:21+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:01:10.007345+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261125006704_20261125006718:0",
