@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T04:25:17.446747+08:00",
-  "count": 942,
+  "generated_at": "2026-11-26T04:28:17.662744+08:00",
+  "count": 943,
   "sources": [
     {
       "name": "alpaca",
@@ -1817,6 +1817,25 @@
           "TSX:ATD"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/video/nvidia-u-turn-bad-news-195302644.html?.tsrc=rss",
+      "title": "Nvidia U-Turn Is Bad News For Anthropic, Says Parmy Olson",
+      "url": "https://finance.yahoo.com/video/nvidia-u-turn-bad-news-195302644.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Bloomberg Opinion columnist Parmy Olson said that the tumult surrounding Nvidia CEO Jensen Huang's resignation and subsequent reinstatement isn't good news for Anthropic given how the companies' ethos and leaders differ in relation to AI development and government ties.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:53:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:28:10.912742+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:02fced54be83c:0",
