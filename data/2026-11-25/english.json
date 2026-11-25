@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T11:15:51.150300+08:00",
-  "count": 312,
+  "generated_at": "2026-11-25T11:22:17.465123+08:00",
+  "count": 332,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -38,6 +38,411 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261124009550_20261124009550:0",
+      "title": "Tongcheng Travel Target Price Cut to HK$17 From HK$22 by Citi Research >0780.HK",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009550_20261124009550:0-tongcheng-travel-target-price-cut-to-hk-17-from-hk-22-by-citi-research-0780-hk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:21:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.980591+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:780"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752FM:0",
+      "title": "Starbucks Is Said To Engage Banks For Sale Of Japan Business - Bloomberg News",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752FM:0-starbucks-is-said-to-engage-banks-for-sale-of-japan-business-bloomberg-news/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:20:38+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.980591+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SBUX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:d7eb7386c094b:0",
+      "title": "Dow, S&P 500, Nasdaq Futures Edge Lower Amid Tech Selloff Ahead Of Key Inflation Data: DELL, AMBA, SOXL, MSTR In Focus",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-lower-amid-tech-selloff-ahead-of-key-inflation-data-dell-amba-soxl-mstr-in-focus/cNbHbLoR9lJ",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:20:10+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.980591+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:DJI",
+          "SP:SPX",
+          "NASDAQ:NDX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009546:0",
+      "title": "Singapore Dollar Weakens as Focus Turns to U.S. Econ Data — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009546:0-singapore-dollar-weakens-as-focus-turns-to-u-s-econ-data-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:20:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.980591+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:b53ab3dbebd23:0",
+      "title": "Asian Markets Trade Mostly Lower On Tech Rout",
+      "url": "https://www.tradingview.com/news/dpa_afx:b53ab3dbebd23:0-asian-markets-trade-mostly-lower-on-tech-rout/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:19:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.980591+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SP:XJO",
+          "TVC:NI225"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN475288:0",
+      "title": "Cipla Says US FDA Approves First ANDA Generic Flovent HFA In 110 mcg And 220 mcg Strengths",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN475288:0-cipla-says-us-fda-approves-first-anda-generic-flovent-hfa-in-110-mcg-and-220-mcg-strengths/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:18:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.980591+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:CIPLA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N46W00D:0",
+      "title": "Taiwan Government: In Close Contact With US Ahead Of Expected Tariff Announcement",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46W00D:0-taiwan-government-in-close-contact-with-us-ahead-of-expected-tariff-announcement/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:17:19+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.980591+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:smallcaps:934cb8da0094b:0",
+      "title": "Aurora Labs Receives First Order for European Defence Studies from MBDA",
+      "url": "https://smallcaps.com.au/article/aurora-labs-receives-first-order-for-european-defence-studies-from-mbda",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Small Caps",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:17:05+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.980591+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:A3D"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47604V:0",
+      "title": "Goldman says US data center boom through 2028 will lift power and gas demand",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47604V:0-goldman-says-us-data-center-boom-through-2028-will-lift-power-and-gas-demand/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:16:57+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.980591+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:NG1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752CY:0",
+      "title": "Shukra Pharmaceuticals Says Board To Consider Fund Raising Up To 6.48 Billion Rupees Via Preferential Issue",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752CY:0-shukra-pharmaceuticals-says-board-to-consider-fund-raising-up-to-6-48-billion-rupees-via-preferential-issue/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:16:45+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.980591+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:SHUKRAMED"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009542_20261124009542:0",
+      "title": "Tongcheng Travel Target Price Cut to HK$14.00 From HK$18.00 by Jefferies >0780.HK",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009542_20261124009542:0-tongcheng-travel-target-price-cut-to-hk-14-00-from-hk-18-00-by-jefferies-0780-hk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:16:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.980591+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:780"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:5c44558c7094b:0",
+      "title": "Ethereum Could Crash Below $500, Peter Brandt Warns – Why Another Analyst Still Sees A Bounce Toward $2,000",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-price-prediction-peter-brandt-500-poppe-2000/cNbHbBDR9l7",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:14:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.980591+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:ETHUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009539:0",
+      "title": "Xiaomi's Shares Jump After Earnings as Smartphone Margins Hold Up",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009539:0-xiaomi-s-shares-jump-after-earnings-as-smartphone-margins-hold-up/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:14:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.980591+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1810"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:2b7567d69094b:0",
+      "title": "Why Is AMBA Stock Crashing 37% Overnight Today?",
+      "url": "https://stocktwits.com/news-articles/markets/equity/why-is-amba-stock-crashing-37-overnight-today/cNbHbe8R9le",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:12:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.980591+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMBA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752CX:0",
+      "title": "Valueact Capital Publishes Presentation Detailing Case For Its Proposals To Strengthen Oversight Capability Of Takara Holdings' Board",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752CX:0-valueact-capital-publishes-presentation-detailing-case-for-its-proposals-to-strengthen-oversight-capability-of-takara-holdings-board/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:11:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.980591+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSE:2531"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:7caac16c18b46:0",
+      "title": "Yutong's Net Zero Forest Puts \"One Bus, One Tree\" Into Action in Greece and the Netherlands",
+      "url": "https://www.tradingview.com/news/prnewswire:7caac16c18b46:0-yutong-s-net-zero-forest-puts-one-bus-one-tree-into-action-in-greece-and-the-netherlands/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:10:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.980591+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:72146cc8d094b:0",
+      "title": "December F&O Setup: FII long exposure at start of series highest since 2025",
+      "url": "https://www.tradingview.com/news/cnbctv:72146cc8d094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:08:52+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.980591+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:NIFTY"
+        ]
+      }
+    },
     {
       "id": "tradingview:tradingview:e4b2e17490e14:0",
       "title": "Takara Holdings Faces ValueAct Board Challenge",
@@ -84,6 +489,28 @@
         "symbols": [
           "TSE:2531"
         ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:c827d2205094b:0",
+      "title": "IRDAI sets up expert committee to review distribution reforms - Keep these insurance stocks in focus",
+      "url": "https://www.tradingview.com/news/cnbctv:c827d2205094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:05:58+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.980591+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -1493,6 +1920,25 @@
           "TWSE:IX0001"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.cnn.com/2026/11/24/business/video/we-were-wrong-bid-vod-hrzn?cid=external-feeds_iluminar_yahoo&.tsrc=rss",
+      "title": "Never say never: how Jensen Huang got his job back at Nvidia​‌",
+      "url": "https://www.cnn.com/2026/11/24/business/video/we-were-wrong-bid-vod-hrzn?cid=external-feeds_iluminar_yahoo&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "“Full admission: We were wrong.” On this week’s “CNN Breaks It Down,” AI Correspondent Hadas Gold discusses Jensen Huang’s reinstatement as Nvidia CEO with Phil Mattingly and Matt Egan. Go to cnn.com/BreaksItDown to watch.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:39:47+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:11.119977+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752CV:0",
@@ -7082,6 +7528,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T11:15:49.611923+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:390dd8c151bf94bc968fcc9f26cd46f991c7a291",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b065464079d40f88574bc46eabfd7ce&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:22:13.739813+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
