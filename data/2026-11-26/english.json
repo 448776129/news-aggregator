@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T04:49:20.423965+08:00",
-  "count": 977,
+  "generated_at": "2026-11-26T04:52:17.432848+08:00",
+  "count": 980,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,63 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760XZ:0",
+      "title": "Volatility-weary investors side swiped as tariff mayhem adds to tech pain",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760XZ:0-volatility-weary-investors-side-swiped-as-tariff-mayhem-adds-to-tech-pain/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:49:50+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:52:13.822031+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:IXIC",
+          "NASDAQ:NVDA",
+          "TVC:US10Y",
+          "FX_IDC:USDCHF",
+          "TVC:VIX",
+          "NASDAQ:ANT",
+          "NASDAQ:SOX",
+          "CBOE:MAGS",
+          "NASDAQ:IXIC",
+          "CBOE:VIX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cryptobriefing:deac82b03094b:0",
+      "title": "Solo miner claims 3.178 BTC block reward using an Avalon Nano 3S",
+      "url": "https://cryptobriefing.com/solo-miner-avalon-nano-3s-bitcoin-block/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:47:55+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:52:13.822031+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261125006851:0",
       "title": "ICE Review: Canola Falls, but Recovers From Session Lows",
@@ -133,6 +190,25 @@
           "CBOT:ZW1!"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/why-oracle-stock-slumped-today/?.tsrc=rss",
+      "title": "Why Oracle Stock Slumped Today",
+      "url": "https://www.fool.com/investing/2026/11/25/why-oracle-stock-slumped-today/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "There are growing doubts about the balance sheets of weaker players in the hyperscaler market.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:40:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:52:13.504130+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47611S:0",

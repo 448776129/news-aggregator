@@ -3,8 +3,8 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T04:49:20.444650+08:00",
-  "count": 359,
+  "generated_at": "2026-11-26T04:52:17.461425+08:00",
+  "count": 361,
   "sources": [
     {
       "name": "stocktwits",
@@ -14,6 +14,57 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670220202",
+      "title": "$SPY $TSLA $NVDA $AAPL Something about these bears legs just ain't right @PierceC 🦵🤣🤣🙌",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "OldFngMagicTape",
+      "summary": "$SPY $TSLA $NVDA $AAPL Something about these bears legs just ain't right @PierceC 🦵🤣🤣🙌",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:50:31+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:52:13.146314+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "SPY",
+          "TSLA",
+          "NVDA",
+          "AAPL"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670220141",
+      "title": "$TSLA sold my puts at noon and bought calls!!! Can’t wait to short this at 430x earnings and $1.5 trillion",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "AlphaTrader30000",
+      "summary": "$TSLA sold my puts at noon and bought calls!!! Can’t wait to short this at 430x earnings and $1.5 trillion",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:49:53+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:52:13.146314+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": "Bearish",
+        "symbols": [
+          "TSLA"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670219932",
       "title": "$AAPL ...so the China tariff don't affect Apple anymore after Tim Cook gave that gold award to Trump?",
