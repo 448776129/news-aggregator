@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T02:52:16.819466+08:00",
-  "count": 737,
+  "generated_at": "2026-11-26T02:55:20.653288+08:00",
+  "count": 739,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,25 @@
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/article/why-nvidias-jensen-put-did-little-to-ease-the-ai-trade-meltdown-185334279.html?.tsrc=rss",
+      "title": "Why Nvidia's 'Jensen put' failed to stop the AI trade meltdown",
+      "url": "https://finance.yahoo.com/markets/article/why-nvidias-jensen-put-did-little-to-ease-the-ai-trade-meltdown-185334279.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Jensen Huang's return as CEO on Monday may have temporarily stabilized the AI trade, but it did little to fix the broader financial pressures weighing on markets.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:53:34+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:55:14.352264+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:tradingview:c5f6e01cef939:0",
       "title": "Central Garden & Pet FY 2026: Revenue $2.94B, EPS $3.03 — 10-K Summary",
@@ -1098,6 +1117,25 @@
           "NASDAQ:IXIC"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow-cuts.html?.tsrc=rss",
+      "title": "Stock Market Today: Dow Cuts Loss Of 1,100 Points, Equal-Weighted S&P 500 Fund Up (Live Coverage)",
+      "url": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow-cuts.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The Dow Jones index dives 800 points Wednesday on surprise inflation data. Nvidia and Anthropic plunge.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:17:37+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:55:14.352264+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:dpa_afx:7fa7b3049d13e:0",

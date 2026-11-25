@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T02:49:27.514467+08:00",
-  "count": 225,
+  "generated_at": "2026-11-26T02:55:20.666836+08:00",
+  "count": 227,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,49 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 11,
+      "count": 13,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyvcr9208702.shtml",
+      "title": "欧洲债市：英国国债表现出色 科技股重挫提振债市",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyvcr9208702.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "随着科技股跌势加剧，纳斯达克100指数一度跌入熊市区域，英国和欧洲债券跟随美国国债上涨。 英国国债表现优于地区同类债券，中段领涨，5年期收益率下跌8个基点，至4.79%...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:53:57+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:55:14.504262+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyvct1568694.shtml",
+      "title": "英伟达信评可能被标普下调",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyvct1568694.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "标普将英伟达信用评级从展望稳定调整为负面观察。 评论与背景：“近期发生的事件损害了我们对英伟达管理与治理框架的看法。有关首席执行官的消息...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:53:25+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T02:55:14.504262+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261126024433146800",
       "title": "S&P Global Ratings plans to meet with NVIDIA’s board and management to discuss a",
