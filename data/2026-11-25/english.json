@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T23:16:13.967928+08:00",
-  "count": 4956,
+  "generated_at": "2026-11-25T23:17:23.749367+08:00",
+  "count": 4966,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,75 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:seekingalpha:e428f586c094b:0",
+      "title": "Mid-cap healthcare stocks ranked by quant ratings after earnings season",
+      "url": "https://seekingalpha.com/news/4676042-mid-cap-healthcare-stocks-ranked-by-quant-ratings-after-earnings-season?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:15:45+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:17:18.896884+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:XLV",
+          "NYSE:HNGE",
+          "NASDAQ:XNCR",
+          "NASDAQ:ABCL",
+          "NASDAQ:PLSE",
+          "NASDAQ:IOVA",
+          "NASDAQ:CELC",
+          "NASDAQ:ABVX",
+          "NASDAQ:ARWR",
+          "NYSE:HIMS",
+          "NASDAQ:IONS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47618E:0",
+      "title": "Mergers and acquisitions",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47618E:0-mergers-and-acquisitions/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:15:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:17:18.896884+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:MKC",
+          "LSE:ULVR",
+          "EURONEXT:AKZA",
+          "NYSE:AXTA",
+          "NASDAQ:SBUX",
+          "XETR:DBK",
+          "NSE:PNB",
+          "KRX:066570",
+          "NSE:LGEINDIA",
+          "TSE:1662",
+          "OSL:EQNR",
+          "PRIVATE:HELSING"
+        ]
+      }
+    },
     {
       "id": "tradingview:dpa_afx:fb90d471f9045:0",
       "title": "US PRIOR SEP NEW HOME SALES 0.614M SAAR",
@@ -175,6 +244,30 @@
       }
     },
     {
+      "id": "tradingview:tmx_newsfile:2928667f7094b:0",
+      "title": "CEO.CA's Inside the Boardroom: Dryden Gold Hits Gold in Every Hole at Mud Lake",
+      "url": "https://www.newsfilecorp.com/release/325835/CEO.CAs-Inside-the-Boardroom-Dryden-Gold-Hits-Gold-in-Every-Hole-at-Mud-Lake",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:13:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:17:18.896884+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:DRY"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760RI:0",
       "title": "Corn, soy basis bids mixed following harvests",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760RI:0-corn-soy-basis-bids-mixed-following-harvests/",
@@ -295,6 +388,39 @@
         "urgency": 2,
         "symbols": [
           "NYSE:BE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:macenews:e98c153ad094b:0",
+      "title": "US OCT NEW HOME SALES: LEVEL OF SA EST OF NEW HOUSES FOR SALE, AT 470,000, 8.0 MOS SUPPLY AT CURRENT SALES RATE, -14.0% BELOW SEPT; Y/Y -11.1%",
+      "url": "https://www.tradingview.com/news/macenews:e98c153ad094b:0-us-oct-new-home-sales-level-of-sa-est-of-new-houses-for-sale-at-470-000-8-0-mos-supply-at-current-sales-rate-14-0-below-sept-y-y-11-1/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:12:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:17:18.896884+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:FED30D",
+          "SP:SPX",
+          "TVC:DJI",
+          "FX:EURUSD",
+          "CBOE:DJX",
+          "TVC:DXY",
+          "STOXX:SX5E",
+          "CBOE:VIX",
+          "ECONOMICS:USGDP",
+          "NASDAQ:IXIC"
         ]
       }
     },
@@ -75375,6 +75501,25 @@
       "extra": {}
     },
     {
+      "id": "msn:77d2909d1330d00187ddf0d104ccb4685dba59ee",
+      "title": "Stock Market Today: Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fbffc96940a197d5baa26eadf96a&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:51:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:17:21.128204+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:moodys:c0b7879e03f56:0",
       "title": "PB Fintech, HDFC Life, Turtlemint shares surge up to 8% as IRDAI sets up expert committee on distribution reforms",
       "url": "https://www.tradingview.com/news/moodys:c0b7879e03f56:0-pb-fintech-hdfc-life-turtlemint-shares-surge-up-to-8-as-irdai-sets-up-expert-committee-on-distribution-reforms/",
@@ -82991,6 +83136,25 @@
       "extra": {}
     },
     {
+      "id": "msn:52ee5ba8c1f79daf1a963f54ebc5239518e99d39",
+      "title": "Stock Market Today: Futures Plunge as AI Rout Resumes; Nvidia Leads Chip Stocks Lower ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fbffc96940a197d5baa26eadf96a&url=https%3a%2f%2fwww.investopedia.com%2fstock-market-today-dow-jones-s-and-p-500-nasdaq-11252026-12279355&c=14548726542868548574&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stocks are under pressure again Wednesday morning as the volatility that has gripped the AI trade in recent weeks intensifies.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:17:21.128204+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N476080:0",
       "title": "Palm oil falls on weaker soyoil, crude; Dalian gains limit losses",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N476080:0-palm-oil-falls-on-weaker-soyoil-crude-dalian-gains-limit-losses/",
@@ -88806,6 +88970,25 @@
       "published_at": "2026-11-25T11:49:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T23:16:11.141210+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:da4dea7c6d79f88a99b97eb2dbd227a10f665c5d",
+      "title": "Ten undervalued energy stocks after Q3 earnings, led by Par Pacific",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fbff39d24a2da9255d9fa86c58af&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4676519-ten-undervalued-energy-stocks-after-q3-earnings-led-by-par-pacific&c=2722455980253807025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Seeking Alpha's screen names 10 undervalued energy stocks, led by Par Pacific with an A+ valuation grade; four others earn A grades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:17:21.128204+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -99158,6 +99341,25 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T23:16:11.141210+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:69a853b4ab2cbb9f67810dc40e4889f4296df01c",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fbff39d24a2da9255d9fa86c58af&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:17:21.128204+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -111717,6 +111919,25 @@
       "extra": {}
     },
     {
+      "id": "msn:0a24e1bab41bbf35ce5e820f78ee7d025471cfa0",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fbffc96940a197d5baa26eadf96a&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:17:21.128204+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8805055",
       "title": "Congo mining forum announces $965 million in sector financing - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGdrZjdudnB3N1RtMDR5dXlRWm8zMnA0b1NXQ3JNWGFhQ3BMSWNPOWpBU1hVT2hMRkl2THlRc3JDY1BmYk5jTF85d2pxUGt2Z2ptTmhTZDFET28xWVd3MDJzZUMzN3Q5bDgzQnp0eDdSck1rLVdVV0M2bGF0ODRIWEp6Z18wcS15TzlBMl82RUd3Mjlrc2Q2SDdnSkZVMVE1dHdIMFkxSmtZZw?oc=5",
@@ -112975,6 +113196,25 @@
       "published_at": "2026-11-25T00:04:08+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T23:16:11.141210+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:512e6aca0d3c8d5380c486a2e42e6c100ccc30ec",
+      "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fbff39d24a2da9255d9fa86c58af&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fjim-cramer-sizes-up-six-retail-stocks-after-earnings-and-names-his-two-favorites%2far-AA2i9onk&c=18106407342616312095&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here's where Jim Cramer stands on six retailers that rallied after reporting earnings Tuesday, and his two favorites.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:04:08+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:17:21.128204+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
