@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T04:22:17.796313+08:00",
-  "count": 913,
+  "generated_at": "2026-11-26T04:25:17.446747+08:00",
+  "count": 942,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,579 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 30,
+      "count": 31,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261125006783_20261125006784:0",
+      "title": "AFT Pharmaceuticals Ltd. 1H Net NZD6.8M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006783_20261125006784:0-aft-pharmaceuticals-ltd-1h-net-nzd6-8m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006783_20261125006783:0",
+      "title": "AFT Pharmaceuticals Ltd. 1H Rev NZD143.6M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006783_20261125006783:0-aft-pharmaceuticals-ltd-1h-rev-nzd143-6m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:a9ee8a5086cac:0",
+      "title": "Exchange Bank (EXSR) Declares $1.35 Per-Share Dividend",
+      "url": "https://www.tradingview.com/news/tradingview:a9ee8a5086cac:0-exchange-bank-exsr-declares-1-35-per-share-dividend/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OTC:EXSR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:business_wire:337d4939d3171:0",
+      "title": "Exchange Bank Declares Fourth Quarter Cash Dividend",
+      "url": "https://www.tradingview.com/news/business_wire:337d4939d3171:0-exchange-bank-declares-fourth-quarter-cash-dividend/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OTC:EXSR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006629:0",
+      "title": "Tandem Devices Mobi Insulin Pumps Recalled Due to Insulin Delivery Issue",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006629:0-tandem-devices-mobi-insulin-pumps-recalled-due-to-insulin-delivery-issue/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:TNDM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4272649:0",
+      "title": "AFT: Revenue rose 25%; adjusted earnings more than doubled as growth investment continued",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4272649:0-aft-revenue-rose-25-adjusted-earnings-more-than-doubled-as-growth-investment-continued/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:23:28+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:AFT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3695296:0",
+      "title": "AFT: Revenue grew 25% as earnings surged; FY27 targets remain on track",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3695296:0-aft-revenue-grew-25-as-earnings-surged-fy27-targets-remain-on-track/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:23:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:AFT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3692524:0",
+      "title": "AFT: Revenue rose 25% as adjusted operating profit reached $13.3m; FY27 guidance reaffirmed",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3692524:0-aft-revenue-rose-25-as-adjusted-operating-profit-reached-13-3m-fy27-guidance-reaffirmed/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:23:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:AFT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4675910:0",
+      "title": "TWL: Revenue rose 16% as losses narrowed; FY27 guidance remains on track",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4675910:0-twl-revenue-rose-16-as-losses-narrowed-fy27-guidance-remains-on-track/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:23:13+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:TWL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006779:0",
+      "title": "Grains Futures Mixed in Pre-Holiday Trade — Daily Grain Highlights",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006779:0-grains-futures-mixed-in-pre-holiday-trade-daily-grain-highlights/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:23:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006778_20261125006778:0",
+      "title": "Kalohexis Files Form S-1 for IPO, Previously Filed Confidentially",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006778_20261125006778:0-kalohexis-files-form-s-1-for-ipo-previously-filed-confidentially/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:23:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3692523:0",
+      "title": "TWR: Customer growth and digital partnerships underpin a FY28 GWP target above $750m amid lower FY26 earnings",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3692523:0-twr-customer-growth-and-digital-partnerships-underpin-a-fy28-gwp-target-above-750m-amid-lower-fy26-earnings/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:22:54+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:TWR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4268511:0",
+      "title": "FPH: Revenue rose 15%, with Hospital growth and stronger underlying margins lifting profit",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4268511:0-fph-revenue-rose-15-with-hospital-growth-and-stronger-underlying-margins-lifting-profit/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:22:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:FPH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4272685:0",
+      "title": "TWR: FY26 earnings fell; FY27 guidance targets stronger growth amid higher claims costs",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4272685:0-twr-fy26-earnings-fell-fy27-guidance-targets-stronger-growth-amid-higher-claims-costs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:22:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:TWR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4675909:0",
+      "title": "TWL: Revenue rose 16% as losses narrowed, but Freight.Al delivery remains a liquidity risk",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4675909:0-twl-revenue-rose-16-as-losses-narrowed-but-freight-al-delivery-remains-a-liquidity-risk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:22:41+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:TWL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4675908:0",
+      "title": "TWL: Revenue rose 16%, gross margin reached 65%, and FY27 guidance remained on track",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4675908:0-twl-revenue-rose-16-gross-margin-reached-65-and-fy27-guidance-remained-on-track/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:22:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:TWL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3693135:0",
+      "title": "FPH: Hospital-led growth lifted H1 revenue 15%; gross margin was 64.6% excluding tariff refunds",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3693135:0-fph-hospital-led-growth-lifted-h1-revenue-15-gross-margin-was-64-6-excluding-tariff-refunds/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:22:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:FPH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3692629:0",
+      "title": "TWR: Customer and premium growth underpin FY27 guidance for higher earnings excluding large events",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3692629:0-twr-customer-and-premium-growth-underpin-fy27-guidance-for-higher-earnings-excluding-large-events/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:22:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:TWR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3693136:0",
+      "title": "FPH: Strong 1H growth drove higher FY27 guidance, with underlying gross margin at 64.6%",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3693136:0-fph-strong-1h-growth-drove-higher-fy27-guidance-with-underlying-gross-margin-at-64-6/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:22:08+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:FPH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3709779:0",
+      "title": "PYS: Revenue and ARR grew, but expansion and platform investment drove a $1.59m H1 loss",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3709779:0-pys-revenue-and-arr-grew-but-expansion-and-platform-investment-drove-a-1-59m-h1-loss/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:21:51+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:PYS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3709780:0",
+      "title": "PYS: ARR topped $10m as Australian expansion investment weighed on cash flow",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3709780:0-pys-arr-topped-10m-as-australian-expansion-investment-weighed-on-cash-flow/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:21:46+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:PYS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3692747:0",
+      "title": "BLT: Revenue rose 16%, led by B2B, with double-digit FY27 growth still expected",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3692747:0-blt-revenue-rose-16-led-by-b2b-with-double-digit-fy27-growth-still-expected/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:21:42+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:BLT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3693979:0",
+      "title": "CCC: H1 growth returned continuing operations to profit as UK and Ireland sales advanced",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3693979:0-ccc-h1-growth-returned-continuing-operations-to-profit-as-uk-and-ireland-sales-advanced/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:21:33+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:CCC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3696562:0",
+      "title": "BLT: Record revenue and stronger earnings, with double-digit FY growth still expected",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3696562:0-blt-record-revenue-and-stronger-earnings-with-double-digit-fy-growth-still-expected/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:21:10+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:BLT"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261125006748_20261125006766:0",
       "title": "Tower Ltd.: Expect GWP Growth of 8% to 12% in FY27",
@@ -227,6 +795,30 @@
       }
     },
     {
+      "id": "tradingview:stockstory:4f0a9138b094b:0",
+      "title": "Why are Whirlpool shares soaring today",
+      "url": "https://stockstory.org/us/stocks/nyse/whr/news/why-up-down/why-are-whirlpool-shares-soaring-today",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stock Story",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:48+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:WHR"
+        ]
+      }
+    },
+    {
       "id": "tradingview:moodys:0471c08e96495:0",
       "title": "PL Capital Raises Nifty Target to 28,561; Sees Potential for Double-digit Market Returns",
       "url": "https://www.tradingview.com/news/moodys:0471c08e96495:0-pl-capital-raises-nifty-target-to-28-561-sees-potential-for-double-digit-market-returns/",
@@ -270,6 +862,78 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:stockstory:699f6e40e094b:0",
+      "title": "Blink Charging, Advanced Drainage, Avery Dennison, MYR Group, and Carlisle shares are soaring, what you need to know",
+      "url": "https://stockstory.org/us/stocks/nasdaq/blnk/news/why-up-down/blink-charging-advanced-drainage-avery-dennison-myr-group-and-carlisle-shares-are-soaring-what-you-need-to-know",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stock Story",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:BLNK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stockstory:8881ab7bc094b:0",
+      "title": "Joby Aviation, Nextpower, Axon, First Solar, and Titan International stocks trade up, what you need to know",
+      "url": "https://stockstory.org/us/stocks/nyse/joby/news/why-up-down/joby-aviation-nextpower-axon-first-solar-and-titan-international-stocks-trade-up-what-you-need-to-know",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stock Story",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:JOBY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stockstory:f4995a844094b:0",
+      "title": "Methode Electronics, Gibraltar, FTAI Infrastructure, Graphic Packaging Holding, and Armstrong World shares are soaring, what you need to know",
+      "url": "https://stockstory.org/us/stocks/nyse/mei/news/why-up-down/methode-electronics-gibraltar-ftai-infrastructure-graphic-packaging-holding-and-armstrong-world-shares-are-soaring-what-you-need-to-know",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stock Story",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.931502+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:FIP"
+        ]
       }
     },
     {
@@ -657,6 +1321,25 @@
         "related": "",
         "image": "https://image.cnbcfm.com/api/v1/image/108433967-1792440076573-gettyimages-2297619001-TRUMPWHITEHOUSE.jpeg?v=1792519423&w=1920&h=1080"
       }
+    },
+    {
+      "id": "yahoo:https://www.trefis.com/stock/dell/articles/628977/what-s-behind-dell-stock-s-fall/2026-11-25?.tsrc=rss",
+      "title": "What's Behind Dell Stock's Fall?",
+      "url": "https://www.trefis.com/stock/dell/articles/628977/what-s-behind-dell-stock-s-fall/2026-11-25?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:06:53+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:25:12.983063+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261125006700_20261125006701:0",
