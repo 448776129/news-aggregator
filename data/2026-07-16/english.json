@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-16",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-25T12:01:15.029459+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:51a046aa8e69beef3c0971284fa5f2e7e400b31f",
+      "title": "What Is an Earnings Call? Understanding Key Financial Conferences",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b065d8832ec4d0ba0ce1ed4143b1776&url=https%3a%2f%2fwww.investopedia.com%2fterms%2fe%2fearnings-call.asp&c=18294624131795716262&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "James Chen, CMT is an expert trader, investment adviser, and global market strategist. David Kindness is a Certified Public Accountant (CPA) and an expert in the fields of financial accounting, ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-07-16T19:20:00+08:00",
+      "published_date": "2026-07-16",
+      "fetched_at": "2026-11-25T12:01:13.499651+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

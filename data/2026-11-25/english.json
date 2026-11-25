@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T11:58:23.027122+08:00",
-  "count": 390,
+  "generated_at": "2026-11-25T12:01:15.075473+08:00",
+  "count": 397,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -38,6 +38,159 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N476089:0",
+      "title": "Indian shares open higher as foreign inflows, lower oil prices aid sentiment",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N476089:0-indian-shares-open-higher-as-foreign-inflows-lower-oil-prices-aid-sentiment/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:00:42+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:01:11.660772+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:NIFTY",
+          "BSE:SENSEX",
+          "NSE:CNXFINANCE",
+          "NSE:CNXIT",
+          "NSE:CNXSMALLCAP",
+          "NSE:CNXMIDCAP",
+          "ICEEUR:BRN1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47604M:0",
+      "title": "Soybeans ease from four-week top, Brazilian planting weighs",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47604M:0-soybeans-ease-from-four-week-top-brazilian-planting-weighs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:59:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:01:11.660772+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOT:ZS1!",
+          "CBOT:ZW1!",
+          "CBOT:ZC1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009602:0",
+      "title": "StarHub's M1 Deal Doesn't Quite Meet Expectations — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009602:0-starhub-s-m1-deal-doesn-t-quite-meet-expectations-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:58:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:01:11.660772+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SGX:CC3",
+          "XETR:M12"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752D1:0",
+      "title": "Hyundai Rotem Company To Divest 8.4 Billion Won Worth Of Own Shares",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752D1:0-hyundai-rotem-company-to-divest-8-4-billion-won-worth-of-own-shares/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:55:09+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:01:11.660772+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:064350"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009600:0",
+      "title": "Tongcheng Travel's Shares Fall as Quarterly Results Signal Headwinds",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009600:0-tongcheng-travel-s-shares-fall-as-quarterly-results-signal-headwinds/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:55:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:01:11.660772+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:780"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:0e25abc8b094b:0",
+      "title": "BE Stock Slumps After AI-Driven Gains: This Analyst Sees ‘An Attractive Entry Point’",
+      "url": "https://stocktwits.com/news-articles/markets/equity/be-stock-slumps-after-ai-driven-gains-this-analyst-sees-an-attractive-entry-point/cNbHRamR9lQ",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:53:51+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:01:11.660772+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BE"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752FO:0",
       "title": "Highway Infrastructure Receives Work Order For 120 Million Rupees",
@@ -8819,6 +8972,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T11:58:20.871253+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:29692e47ed5532894d0387fe10b6616c3d0dec12",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b065d874bcf428d9571afa58aa4156b&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:01:13.499651+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
