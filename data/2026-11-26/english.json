@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T03:31:16.185841+08:00",
-  "count": 819,
+  "generated_at": "2026-11-26T03:34:17.981313+08:00",
+  "count": 825,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 9,
+      "count": 10,
       "error": ""
     },
     {
@@ -38,6 +38,130 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N476146:0",
+      "title": "CBOT corn rises on short covering, pre-holiday bargain buying",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N476146:0-cbot-corn-rises-on-short-covering-pre-holiday-bargain-buying/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:33:55+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:34:13.840085+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOT:ZC1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006578_20261125006579:0",
+      "title": "Dan Loeb Told Investors the Firm Made Missteps in Past Private Investments, Letter Says — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006578_20261125006579:0-dan-loeb-told-investors-the-firm-made-missteps-in-past-private-investments-letter-says-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:34:13.840085+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:S",
+          "NASDAQ:UPST"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006578:0",
+      "title": "Dan Loeb's Hedge Fund Returns to Startup Investing Years After FTX Loss — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006578:0-dan-loeb-s-hedge-fund-returns-to-startup-investing-years-after-ftx-loss-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:34:13.840085+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:S",
+          "NASDAQ:UPST"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006578_20261125006580:0",
+      "title": "Other Third Point Portfolios Invested in Anthropic Before Its IPO, Letter Says — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006578_20261125006580:0-other-third-point-portfolios-invested-in-anthropic-before-its-ipo-letter-says-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:34:13.840085+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:S",
+          "NASDAQ:UPST"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006578_20261125006578:0",
+      "title": "Third Point's Hedge Fund Resumes Investing in Private Companies, Letter Says — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006578_20261125006578:0-third-point-s-hedge-fund-resumes-investing-in-private-companies-letter-says-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:34:13.840085+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:S",
+          "NASDAQ:UPST"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47611I:0",
       "title": "Corn, soy basis rise at some Iowa grain facilities",
@@ -663,6 +787,30 @@
         "symbols": [
           "NSE:LUPIN"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8809500",
+      "title": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
+      "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "CNBC",
+      "summary": "With stocks mounting a comeback Wednesday, options trading across a few key volatility products suggests big swings in stocks may dampen in the near term.",
+      "content": "With stocks mounting a comeback Wednesday, options trading across a few key volatility products suggests big swings in stocks may dampen in the near term.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:12:45+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:34:13.976350+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "CNBC",
+        "category": "top news",
+        "related": "",
+        "image": "https://image.cnbcfm.com/api/v1/image/108273730-1772650267944-gettyimages-2264789557-6e6a3473_copy_nnciksci.jpeg?v=1772650329&w=1920&h=1080"
       }
     },
     {
