@@ -18,7 +18,7 @@ load_dotenv(os.path.join(_PROJECT_ROOT, ".env"))
 CATEGORIES: dict[str, str] = {
     "finance": "财经新闻",
     "english": "英文新闻",
-    "community": "社区新闻",
+    "xueqiu": "雪球社区",
     "stocktwits": "Stocktwits 社区",
     "reddit": "Reddit 社区",
 }
@@ -29,7 +29,7 @@ SOURCE_CATEGORY: dict[str, str] = {
     "sina": "finance",        # 新浪财经
     "jin10": "finance",       # 金十数据
     "cls": "finance",         # 财联社
-    "xueqiu": "community",    # 雪球
+    "xueqiu": "xueqiu",      # 雪球（独立社区分类）
     "stocktwits": "stocktwits",  # Stocktwits（独立社区分类）
     "reddit": "reddit",      # Reddit（独立社区分类）
     "tradingview": "english",  # TradingView

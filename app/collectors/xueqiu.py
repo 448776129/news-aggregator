@@ -1,5 +1,7 @@
-"""雪球：先访问首页拿匿名 Cookie，再抓取热门话题/最新帖子。"""
+"""雪球：需登录态 Cookie（匿名 token 会被 WAF 拦截），抓取热门/最新帖子。"""
 from __future__ import annotations
+
+import logging
 
 import requests
 
@@ -9,6 +11,8 @@ from ..models import NewsItem
 from ..utils import clean_html, iso, parse_datetime, pick, stable_id
 from .base import BaseCollector
 
+logger = logging.getLogger("newsagg.xueqiu")
+
 
 class XueqiuCollector(BaseCollector):
     key = "xueqiu"
@@ -17,6 +21,11 @@ class XueqiuCollector(BaseCollector):
         "https://xueqiu.com/statuses/hot/list.json",
         "https://xueqiu.com/statuses/latest.json",
     )
+
+    @property
+    def available(self) -> bool:
+        """雪球接口必须登录态 Cookie（匿名 token 会触发 WAF 或返回 10022 未登录）。"""
+        return bool(XUEQIU_COOKIE)
 
     def _session(self) -> requests.Session:
         session = requests.Session()
@@ -41,6 +50,8 @@ class XueqiuCollector(BaseCollector):
             rows = list(self._iter_statuses(data))
             if rows:
                 break
+        if not rows:
+            logger.warning("雪球未取到数据：Cookie 可能已过期或未配置（需要登录态 xq_a_token）")
         items: list[NewsItem] = []
         for row in rows:
             title = clean_html(pick(row, "title", "text", "description", default=""), 300)

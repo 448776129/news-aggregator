@@ -10,7 +10,7 @@ from .config import CATEGORIES
 _CATEGORY_LABEL = {
     "finance": "财经新闻",
     "english": "英文新闻",
-    "community": "社区新闻",
+    "xueqiu": "雪球社区",
     "stocktwits": "Stocktwits 社区",
     "reddit": "Reddit 社区",
 }

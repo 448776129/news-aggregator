@@ -1,6 +1,6 @@
 # 多源新闻自动化归档与查询
 
-从雅虎新闻、新浪财经、金十数据、财联社、雪球、Stocktwits、Reddit、TradingView、Alpaca News、微软 MSN 抓取资讯，按 **财经新闻 / 英文新闻 / 社区新闻 / Stocktwits 社区 / Reddit 社区** 分类，以 **天** 为单位归档为 JSON，并通过 GitHub Actions 定时自动提交。提供命令行、Python 与 HTTP API 三种查询方式，可按 **日期 + 分类** 精确取数。
+从雅虎新闻、新浪财经、金十数据、财联社、雪球、Stocktwits、Reddit、TradingView、Alpaca News、微软 MSN 抓取资讯，按 **财经新闻 / 英文新闻 / 雪球社区 / Stocktwits 社区 / Reddit 社区** 分类，以 **天** 为单位归档为 JSON，并通过 GitHub Actions 定时自动提交。提供命令行、Python 与 HTTP API 三种查询方式，可按 **日期 + 分类** 精确取数。
 
 ## 在线地址
 
@@ -18,7 +18,7 @@
 | 新浪财经 | `finance` | 财经新闻 | 滚动新闻 API + RSS 兜底 | 无 |
 | 金十数据 | `finance` | 财经新闻 | 开放平台 API / 公开快讯脚本 | 可选 |
 | 财联社 | `finance` | 财经新闻 | 电报 nodeapi | 无 |
-| 雪球 | `community` | 社区新闻 | 热帖 JSON（匿名 Cookie） | 可选 |
+| 雪球 | `xueqiu` | 雪球社区 | 热帖 JSON（需登录态 Cookie） | `XUEQIU_COOKIE` |
 | Stocktwits | `stocktwits` | Stocktwits 社区 | 个股消息流 JSON | 无 |
 | Reddit | `reddit` | Reddit 社区 | 官方 `.json`，被 403 时用 Arctic Shift 镜像 | 无 |
 | TradingView | `english` | 英文新闻 | 头条 JSON | 无 |
@@ -52,7 +52,7 @@ news-aggregator/
 │   └── 2026-11-22/
 │       ├── finance.json
 │       ├── english.json
-│       ├── community.json
+│       ├── xueqiu.json
 │       ├── stocktwits.json
 │       └── reddit.json
 ├── run.py                 # CLI 入口
@@ -74,7 +74,7 @@ python run.py fetch --date 2026-11-22 --source sina,cls --category finance
 
 # 查询
 python run.py query --date 2026-11-22 --category finance --limit 20
-python run.py query --date latest --category community --source reddit --keyword AAPL
+python run.py query --date latest --category reddit --source reddit --keyword AAPL
 python run.py dates
 python run.py categories --date 2026-11-22
 python run.py sources --date 2026-11-22
