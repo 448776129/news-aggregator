@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T03:58:14.934011+08:00",
-  "count": 864,
+  "generated_at": "2026-11-26T04:01:14.621960+08:00",
+  "count": 869,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,109 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 29,
+      "count": 30,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47611M:0",
+      "title": "Robusta coffee sets three-year low, sugar prices jump",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47611M:0-robusta-coffee-sets-three-year-low-sugar-prices-jump/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:00:05+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:01:10.639834+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ICEEUR:RC2!",
+          "ICEUS:KC1!",
+          "ICEUS:SF1!",
+          "ICEEUR:C2!",
+          "ICEUS:CC1!",
+          "ICEEUR:RC1!",
+          "ICEUS:SB1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:9d6db5c204d77:0",
+      "title": "Coming Soon: First Horizon Bank to Open New Nashville Banking Center in The Gulch",
+      "url": "https://www.tradingview.com/news/prnewswire:9d6db5c204d77:0-coming-soon-first-horizon-bank-to-open-new-nashville-banking-center-in-the-gulch/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:01:10.639834+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:FHN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N47625C:0",
+      "title": "Poland's PZU and Pekao scrap merger plan over legal uncertainty",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N47625C:0-poland-s-pzu-and-pekao-scrap-merger-plan-over-legal-uncertainty/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:59:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:01:10.639834+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:PZU",
+          "GPW:PEO"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow.html?.tsrc=rss",
+      "title": "Stock Market Today: Dow Reverses For 275-Point Gain; This Ad Firm Breaks Out (Live Coverage)",
+      "url": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "IPO stock Anthropic is turning higher. Dell reverses losses after strong results.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:57:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:01:10.029395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N476145:0",
       "title": "'I'm going to drive': FAA outage and high fares reshape Thanksgiving travel plans",
@@ -2002,6 +2100,25 @@
       "published_at": "2026-11-26T03:07:03+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T03:28:09.978710+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.cnn.com/2026/11/25/business/ai-sell-off-despite-huang-nvidia-return?.tsrc=rss",
+      "title": "Tech stock sell-off persists as AI fears outweigh Huang’s Nvidia return",
+      "url": "https://www.cnn.com/2026/11/25/business/ai-sell-off-despite-huang-nvidia-return?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The once popular AI trade continued to unwind Wednesday, sending industry darlings including Nvidia falling again while investors looked for safety in other corners of the market.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:06:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:01:10.029395+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
