@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T04:01:14.621960+08:00",
-  "count": 869,
+  "generated_at": "2026-11-26T04:07:17.829481+08:00",
+  "count": 872,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 10,
+      "count": 11,
       "error": ""
     },
     {
@@ -1437,6 +1437,25 @@
       }
     },
     {
+      "id": "yahoo:https://finance.yahoo.com/video/nvidia-is-cheap-on-paper-so-why-wont-the-market-buy-it-192215326.html?.tsrc=rss",
+      "title": "Nvidia is cheap on paper, so why won't the market buy it?",
+      "url": "https://finance.yahoo.com/video/nvidia-is-cheap-on-paper-so-why-wont-the-market-buy-it-192215326.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Market Hang tackles the top stories of the day. Including Nvidia giving back about half of its Jensen Huang rally and why a stock growing sales 60% to 70% can trade at 10 times earnings, whether the Alice Wong affair was a \"hit job,\" and what next week's Senate testimony means for the stock.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:22:15+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:07:12.293386+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:invezz:e70276a23094b:0",
       "title": "Top 4 reasons the S&P 500 Index and ETFs like VOO, SPY, IVV are set to rebound",
       "url": "https://invezz.com/news/2026/11/25/top-4-reasons-the-sp-500-index-and-etfs-like-voo-spy-ivv-are-set-to-rebound/",
@@ -1659,6 +1678,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/why-alphabet-stock-is-down-today/?.tsrc=rss",
+      "title": "Why Alphabet Stock Is Down Today",
+      "url": "https://www.fool.com/investing/2026/11/25/why-alphabet-stock-is-down-today/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "It's never cost more to insure Alphabet's debt.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:15:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:07:12.293386+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:globenewswire:d5199340e094b:0",
@@ -5102,6 +5140,30 @@
         "symbols": [
           "NASDAQ:BKR"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8809501",
+      "title": "EXCLUSIVE: Boehly signs US-backed share swap deal to buy Lukoil global assets - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM05VWXNudnhTWW1BY2VFUHpZRzdNSjU4TG1Ob3NYZTRKM0tNUWNGQmxyNEp6NW0yTEJWaTZabF9UNW9CUUZTclBhaGpnQmZ6WVRZTVhqS3dpOTBsZEtaOGZnMzFPQlR5MDRpZThJNmU0cXc5Q0trMDNhdWtxVjV4V1lMYzYyR1RHU0lBNDdWZDlzOWxBN1J1Wm0xWlJkNEVMaVNXUXdQcTRuUHlvczlnMTd1VGRWQQ?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "EXCLUSIVE: Boehly signs US-backed share swap deal to buy Lukoil global assets Reuters",
+      "content": "EXCLUSIVE: Boehly signs US-backed share swap deal to buy Lukoil global assets Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:02:40+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:07:12.796563+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
