@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T07:34:26.402315+08:00",
-  "count": 1524,
+  "generated_at": "2026-11-26T07:37:13.034119+08:00",
+  "count": 1530,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,131 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 44,
+      "count": 45,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4761UL:0",
+      "title": "Australia's Flight Centre probes data breach in third-party system",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4761UL:0-australia-s-flight-centre-probes-data-breach-in-third-party-system/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:35:57+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:37:09.406274+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:FLT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:7fbb445bcebbc:0",
+      "title": "Japan Stock Market May Extend Wednesday's Losses",
+      "url": "https://www.tradingview.com/news/dpa_afx:7fbb445bcebbc:0-japan-stock-market-may-extend-wednesday-s-losses/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:35:41+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:37:09.406274+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:NI225"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_Tnw3VwsjD:0",
+      "title": "St-Georges Announces Shares-for-Services Issuance",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_Tnw3VwsjD:0-st-georges-announces-shares-for-services-issuance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TheNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:35:07+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:37:09.406274+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:SX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:2bdd8db879bb8:0",
+      "title": "St-Georges Eco-Mining Corp. (SX) Plans $32.3K Share Issuance for Rent",
+      "url": "https://www.tradingview.com/news/tradingview:2bdd8db879bb8:0-st-georges-eco-mining-corp-sx-plans-32-3k-share-issuance-for-rent/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:35:07+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:37:09.406274+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:SX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:6b036afba094b:0",
+      "title": "ReconAfrica Announces Third Quarter 2026 Results",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410634/0/en/reconafrica-announces-third-quarter-2026-results.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:35:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:37:09.406274+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:RECO"
+        ]
+      }
+    },
     {
       "id": "tradingview:urn:summary_document_report:quartr.com:4826853:0",
       "title": "TTT: A USD 250 million IDIQ framework expands access to U.S. defense programs through 2031",
@@ -229,6 +349,25 @@
           "ASX:SVL"
         ]
       }
+    },
+    {
+      "id": "yahoo:86841b0958ba5cc97752156ac93e0e5780c94b18",
+      "title": "If SpaceX and Tesla Merge Next Year, Here's What a $5,000 Investment in the Combined Company Could Be Worth by the End of 2028",
+      "url": "https://www.fool.com/investing/2026/11/25/if-spacex-and-tesla-merge-next-year-here-s-what-a-usd5-000-investment-in-the-combined-company-could-be-worth-by-the-end-of-2027/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "An investment in Tesla could double in the event of a Space Exploration Technologies merger.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:24:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:37:09.319491+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:ee745bfb983a2:0",
