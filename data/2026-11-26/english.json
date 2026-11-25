@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T04:43:15.520735+08:00",
-  "count": 971,
+  "generated_at": "2026-11-26T04:46:26.025737+08:00",
+  "count": 974,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,54 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261125006778:0",
+      "title": "Kalohexis Makes IPO Filing Public",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006778:0-kalohexis-makes-ipo-filing-public/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:42:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:46:21.406455+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N476152:0",
+      "title": "Soybeans rebound ahead of holiday as soymeal futures climb",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N476152:0-soybeans-rebound-ahead-of-holiday-as-soymeal-futures-climb/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:41:34+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:46:21.406455+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOT:ZS1!",
+          "CBOT:ZC1!",
+          "CBOT:ZW1!"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47611S:0",
       "title": "Fed survey shows continued economic growth, sticky inflation in recent weeks",
@@ -739,6 +787,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
+      "title": "What Sent Qualcomm Stock Higher?",
+      "url": "https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:23:30+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T04:46:21.163343+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:urn:summary_document_slides:quartr.com:4272649:0",
