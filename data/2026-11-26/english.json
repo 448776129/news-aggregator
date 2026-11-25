@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T06:04:16.500329+08:00",
-  "count": 1322,
+  "generated_at": "2026-11-26T06:10:14.965653+08:00",
+  "count": 1323,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 44,
+      "count": 45,
       "error": ""
     }
   ],
@@ -1092,6 +1092,25 @@
           "NASDAQ:IQ"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/nvidia-engineer-quit-protest-jensen-220000936.html?.tsrc=rss",
+      "title": "Nvidia engineer who quit in protest of Jensen Huang's ouster says he 'may have moved too quickly,' is open to returning",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-engineer-quit-protest-jensen-220000936.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Darrell Dai, however, doesn't have President Trump backing his return.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:10:09.892018+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N476157:0",
