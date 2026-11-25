@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T01:07:18.733886+08:00",
-  "count": 394,
+  "generated_at": "2026-11-26T01:10:18.778168+08:00",
+  "count": 403,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 5,
+      "count": 0,
       "error": ""
     },
     {
@@ -38,6 +38,194 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY7066Ea:0",
+      "title": "REG - EcofinGlobal U&I Tst - Sale of Shares from Treasury",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY7066Ea:0-reg-ecofinglobal-u-i-tst-sale-of-shares-from-treasury/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:09:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:10:13.616868+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:EGL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:d344be379da4b:0",
+      "title": "U.S. Durable Goods Orders Rise 0.2% In October, Less Than Expected",
+      "url": "https://www.tradingview.com/news/dpa_afx:d344be379da4b:0-u-s-durable-goods-orders-rise-0-2-in-october-less-than-expected/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:09:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:10:13.616868+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4823546:0",
+      "title": "GIVN: CHF 375 million in settlements and provisions; financial ambitions and outlook remain unchanged",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4823546:0-givn-chf-375-million-in-settlements-and-provisions-financial-ambitions-and-outlook-remain-unchanged/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:09:08+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:10:13.616868+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BX:GIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_PLXND0GDR:0",
+      "title": "CA Immobilien Reports 9M EBITDA EUR 109.6 Mln",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_PLXND0GDR:0-ca-immobilien-reports-9m-ebitda-eur-109-6-mln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:08:28+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:10:13.616868+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "VIE:CAI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760WS:0",
+      "title": "France's Aramis Group FY revenue falls on operational transitions",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760WS:0-france-s-aramis-group-fy-revenue-falls-on-operational-transitions/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:08:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:10:13.616868+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:ARAMI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:c1345b7d7cae1:0",
+      "title": "Bernstein maintains Analog Devices at Outperform, lowers price target to $410 from $465",
+      "url": "https://www.tradingview.com/news/tradingview:c1345b7d7cae1:0-bernstein-maintains-analog-devices-at-outperform-lowers-price-target-to-410-from-465/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:07:26+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:10:13.616868+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ADI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY7059Ea:0",
+      "title": "REG - Morgan Stanley B.V. - ISM_MSBV_RETIREMENT_25-11-2026",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY7059Ea:0-reg-morgan-stanley-b-v-ism_msbv_retirement_25-11-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:07:23+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:10:13.616868+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4719883:0",
+      "title": "CHAR: Angola acquisitions establish ~8,000 bopd exposure, with development upside and renewable sales progressing",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4719883:0-char-angola-acquisitions-establish-8-000-bopd-exposure-with-development-upside-and-renewable-sales-progressing/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:06:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:10:13.616868+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:CHAR"
+        ]
+      }
+    },
     {
       "id": "tradingview:tradingview:7ccd1597a9177:0",
       "title": "Bernstein maintains Workday at Outperform, raises price target to $239 from $238",
@@ -268,6 +456,30 @@
       "published_at": "2026-11-26T01:04:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T01:07:14.102876+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AZIO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:fbb7a6ab4c62a:0",
+      "title": "AZIO AI Holdings, Inc. (AZIO) Says Atlas One Is Built, Awaits GPU Delivery",
+      "url": "https://www.tradingview.com/news/tradingview:fbb7a6ab4c62a:0-azio-ai-holdings-inc-azio-says-atlas-one-is-built-awaits-gpu-delivery/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:04:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:10:13.616868+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",

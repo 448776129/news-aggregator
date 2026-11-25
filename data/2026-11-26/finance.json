@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T01:04:16.874434+08:00",
-  "count": 85,
+  "generated_at": "2026-11-26T01:10:18.785892+08:00",
+  "count": 86,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 9,
+      "count": 10,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvt9299412.shtml",
+      "title": "Michael Burry清仓纳指100看跌头寸 拟待英伟达接近200美元时再次做空",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvt9299412.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "知名投资者Michael Burry周三清晨在Substack发帖称，随着科技股普遍走弱，他已卖出剩余的纳斯达克100指数看跌期权头寸。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:08:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:10:13.600863+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261126010342364800",
       "title": "美国农业部长：美国陆军今天上午在爱荷华州米德尔敦成功实施受控引爆。污染缓解措施的效果超出预期，初步检测未发现空气中存在铅。",
