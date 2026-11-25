@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T21:49:14.983855+08:00",
-  "count": 4051,
+  "generated_at": "2026-11-25T21:52:13.086261+08:00",
+  "count": 4090,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 7,
+      "count": 5,
       "error": ""
     },
     {
@@ -38,6 +38,752 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47510H:0",
+      "title": "US core capital goods orders beat expectations in October",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47510H:0-us-core-capital-goods-orders-beat-expectations-in-october/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:51:42+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0cab83a18b9b3:0",
+      "title": "Barclays maintains Fluence Energy at Underweight, lowers price target to $5 from $10",
+      "url": "https://www.tradingview.com/news/tradingview:0cab83a18b9b3:0-barclays-maintains-fluence-energy-at-underweight-lowers-price-target-to-5-from-10/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:51:23+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:FLNC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:62b93e009e394:0",
+      "title": "Truist Securities maintains Pennant Park Investment at Buy, lowers price target to $4 from $5",
+      "url": "https://www.tradingview.com/news/tradingview:62b93e009e394:0-truist-securities-maintains-pennant-park-investment-at-buy-lowers-price-target-to-4-from-5/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:51:15+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PNNT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_AQN2MV7IQ:0",
+      "title": "U.S. prelim Q3 GDP data",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_AQN2MV7IQ:0-u-s-prelim-q3-gdp-data/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:51:10+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_APNBIX9U9:0",
+      "title": "US October personal income data",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_APNBIX9U9:0-us-october-personal-income-data/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:51:04+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003921:0",
+      "title": "Phinia to Acquire Assets of Brake Manufacturer FMP Group for $160M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003921:0-phinia-to-acquire-assets-of-brake-manufacturer-fmp-group-for-160m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:51:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PHIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762BN:0",
+      "title": "KPI Green Energy Incorporates KP Renewable Assets As Wholly Owned Subsidiary",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762BN:0-kpi-green-energy-incorporates-kp-renewable-assets-as-wholly-owned-subsidiary/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:50:42+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:KPIGREEN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:c8142d82be240:0",
+      "title": "Truist Securities maintains Jacobs Solutions at Hold, raises price target to $168 from $160",
+      "url": "https://www.tradingview.com/news/tradingview:c8142d82be240:0-truist-securities-maintains-jacobs-solutions-at-hold-raises-price-target-to-168-from-160/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:50:26+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:J"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:d828066da094b:0",
+      "title": "American Airlines tops undervalued industrials stocks ahead of holiday travel rush",
+      "url": "https://seekingalpha.com/news/4676569-american-airlines-tops-undervalued-industrials-stocks-ahead-of-holiday-travel-rush?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:50:12+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AAL",
+          "NASDAQ:ALGT",
+          "NYSE:LUV",
+          "NYSE:SARO",
+          "NYSE:ALK",
+          "NYSE:KRMN",
+          "NYSE:MAN",
+          "NASDAQ:STRL",
+          "NYSE:CTRI",
+          "NYSE:CXW",
+          "NYSE:DY",
+          "NYSE:HNI",
+          "NYSE:MMS",
+          "NYSE:MTZ",
+          "NASDAQ:UAL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:c072ac66397ae:0",
+      "title": "Borr Drilling Director Purchased Shares Worth Over $3.9M",
+      "url": "https://www.tradingview.com/news/tradingview:c072ac66397ae:0-borr-drilling-director-purchased-shares-worth-over-3-9m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:50:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BORR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003911:0",
+      "title": "U.S. October Core PCE Rises 3.3% On Year, Falling Inside Historical WSJ Forecasting Range",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003911:0-u-s-october-core-pce-rises-3-3-on-year-falling-inside-historical-wsj-forecasting-range/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:50:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FRED:PI",
+          "ECONOMICS:USPI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:macenews:d50e136f1094b:0",
+      "title": "USTR GREER Q&A/CNBC: LUTNICK, BESSENT, OTHER ADVISERS ALL GIVE PRESIDENT VIEWS ON NVIDIA AND PRESIDENT TRUMP MAKES FINAL DECISION",
+      "url": "https://www.tradingview.com/news/macenews:d50e136f1094b:0-ustr-greer-q-a-cnbc-lutnick-bessent-other-advisers-all-give-president-views-on-nvidia-and-president-trump-makes-final-decision/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:50:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:FED30D",
+          "SP:SPX",
+          "TVC:DJI",
+          "FX:EURUSD",
+          "CBOE:DJX",
+          "TVC:DXY",
+          "STOXX:SX5E",
+          "CBOE:VIX",
+          "ECONOMICS:USGDP",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:d8c00bfb94a20:0",
+      "title": "Truist Securities maintains Hewlett Packard at Buy, lowers price target to $66 from $75",
+      "url": "https://www.tradingview.com/news/tradingview:d8c00bfb94a20:0-truist-securities-maintains-hewlett-packard-at-buy-lowers-price-target-to-66-from-75/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:49:37+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:HPE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_AQN2MV7AE:0",
+      "title": "US October durable goods orders data",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_AQN2MV7AE:0-us-october-durable-goods-orders-data/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:49:30+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:e9ca2e069221a:0",
+      "title": "Barclays maintains Burlington Stores at Overweight, lowers price target to $299 from $391",
+      "url": "https://www.tradingview.com/news/tradingview:e9ca2e069221a:0-barclays-maintains-burlington-stores-at-overweight-lowers-price-target-to-299-from-391/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:49:24+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BURL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:9fe1c31a40838:0",
+      "title": "Hong Kong launches task group for green marine fuel trading",
+      "url": "https://www.tradingview.com/news/moodys:9fe1c31a40838:0-hong-kong-launches-task-group-for-green-marine-fuel-trading/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "bne Intellinews",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:49:17+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:3"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003637:0",
+      "title": "Canada Wholesale Transactions Likely Fell 1.8% in October",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003637:0-canada-wholesale-transactions-likely-fell-1-8-in-october/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ECONOMICS:CAWS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:699472da9c939:0",
+      "title": "Truist Securities maintains Fluence Energy at Hold, lowers price target to $5 from $8",
+      "url": "https://www.tradingview.com/news/tradingview:699472da9c939:0-truist-securities-maintains-fluence-energy-at-hold-lowers-price-target-to-5-from-8/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:48:51+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:FLNC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761R8:0",
+      "title": "Torrent Power Buys 100% Equity Shares Of Torrent Urja 42 Private",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761R8:0-torrent-power-buys-100-equity-shares-of-torrent-urja-42-private/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:48:38+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TORNTPOWER"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_APNBIX7J8:0",
+      "title": "US jobless claims data",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_APNBIX7J8:0-us-jobless-claims-data/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:48:14+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:e27aabb573929:0",
+      "title": "Truist Securities maintains Duke Energy at Buy, raises price target to $142 from $130",
+      "url": "https://www.tradingview.com/news/tradingview:e27aabb573929:0-truist-securities-maintains-duke-energy-at-buy-raises-price-target-to-142-from-130/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:48:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DUK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:macenews:4fb5e679e094b:0",
+      "title": "USTR GREER Q&A/CNBC: USA OPPOSED TO CANADA'S PROPOSED TARIFF EXEMPTIONS FOR CHINA STEEL, ALUMINUM; BALANCING NAT'L SECURITY, ECONOMY RE NVIDIA",
+      "url": "https://www.tradingview.com/news/macenews:4fb5e679e094b:0-ustr-greer-q-a-cnbc-usa-opposed-to-canada-s-proposed-tariff-exemptions-for-china-steel-aluminum-balancing-nat-l-security-economy-re-nvidia/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:48:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:FED30D",
+          "SP:SPX",
+          "TVC:DJI",
+          "FX:EURUSD",
+          "CBOE:DJX",
+          "TVC:DXY",
+          "STOXX:SX5E",
+          "CBOE:VIX",
+          "ECONOMICS:USGDP",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:fd1891b58df76:0",
+      "title": "Truist Securities maintains Dollar Tree at Buy, raises price target to $169 from $147",
+      "url": "https://www.tradingview.com/news/tradingview:fd1891b58df76:0-truist-securities-maintains-dollar-tree-at-buy-raises-price-target-to-169-from-147/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:47:12+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:DLTR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003841_20261125003867:0",
+      "title": "Diana Shipping: Zafirakis Remain a Member of the Board >DSX",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003841_20261125003867:0-diana-shipping-zafirakis-remain-a-member-of-the-board-dsx/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:47:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DSX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6840Ea:0",
+      "title": "REG - Geode Capital Mgmnt Prologis, Inc. SEGRO PLC - Form 8.3 - SEGRO plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6840Ea:0-reg-geode-capital-mgmnt-prologis-inc-segro-plc-form-8-3-segro-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:46:48+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:SGRO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:f8a311ea5349c:0",
+      "title": "Truist Securities maintains Dick's Sporting Goods at Hold, raises price target to $150 from $128",
+      "url": "https://www.tradingview.com/news/tradingview:f8a311ea5349c:0-truist-securities-maintains-dick-s-sporting-goods-at-hold-raises-price-target-to-150-from-128/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:46:16+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DKS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003841_20261125003863:0",
+      "title": "Diana Shipping : Ioannis Zafirakis Will Step Down as Pres and Transition to Advisory Role, Effective March 1 >DSX",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003841_20261125003863:0-diana-shipping-ioannis-zafirakis-will-step-down-as-pres-and-transition-to-advisory-role-effective-march-1-dsx/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:46:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DSX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003615:0",
+      "title": "The Fed's Inflation Problem Worsened Last Month — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003615:0-the-fed-s-inflation-problem-worsened-last-month-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:46:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 1,
+        "symbols": [
+          "FRED:PI",
+          "ECONOMICS:USPI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003610:0",
+      "title": "U.S. Jobless Claims Sink More than Expected",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003610:0-u-s-jobless-claims-sink-more-than-expected/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:46:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 1,
+        "symbols": [
+          "ECONOMICS:USIJC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47614G:0",
+      "title": "Jiangsu Leili Motor's Unit Probed By Securities Regulator Over Suspected Disclosure Violations",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47614G:0-jiangsu-leili-motor-s-unit-probed-by-securities-regulator-over-suspected-disclosure-violations/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:45:38+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:10.024071+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SZSE:300660"
+        ]
+      }
+    },
     {
       "id": "tradingview:urn:summary_document_transcript:quartr.com:4818271:0",
       "title": "NHY: Integrated strengths underpin selective growth and NOK 43–46 billion 2030 EBITDA potential",
@@ -342,6 +1088,25 @@
       "published_at": "2026-11-25T21:45:18+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T21:46:11.740975+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/25/sk-hynix-sheds-20-in-30-days-two-wall-street-pros-agree-that-260-gains-are-coming/?.tsrc=rss",
+      "title": "SK Hynix Sheds 20% in 30 Days: Two Wall Street Pros Agree That 260% Gains Are Coming",
+      "url": "https://247wallst.com/investing/2026/11/25/sk-hynix-sheds-20-in-30-days-two-wall-street-pros-agree-that-260-gains-are-coming/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "SK hynix posted record revenue and profit, yet its shares keep sinking while the AI trade unravels. Two analysts still see a path to $400, but a hidden flaw in the quarter and a brutal cycle could derail it.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:45:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:09.874806+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -788,6 +1553,25 @@
           "NSE:PTC"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/in-a-sell-off-how-much-in-one-stock-is-too-much/?.tsrc=rss",
+      "title": "In a Sell-Off, How Much in One Stock Is Too Much?",
+      "url": "https://www.fool.com/investing/2026/11/25/in-a-sell-off-how-much-in-one-stock-is-too-much/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "What matters is that you pick a limit on purpose, based on how steady the stock is and how much a big drop would hurt.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:43:23+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:09.874806+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:74d12c157e9ca:0",
@@ -1446,6 +2230,25 @@
           "LSE:EEE"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/25/nvidias-top-lawyer-sold-4-5-million-of-nvidia-stock-the-day-before-its-14-plunge/?.tsrc=rss",
+      "title": "Nvidia’s Top Lawyer Sold $4.5 Million of Nvidia Stock the Day Before Its 14% Plunge",
+      "url": "https://247wallst.com/investing/2026/11/25/nvidias-top-lawyer-sold-4-5-million-of-nvidia-stock-the-day-before-its-14-plunge/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia's general counsel unloaded stock hours before a brutal selloff, yet a plan he signed six months earlier tells a different story. The filing has drawn little attention, and the timing hides a detail investors should weigh.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:37:45+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:09.874806+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761NS:0",
@@ -3655,6 +4458,25 @@
           "GPW:HUG"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.tikr.com/blog/jensen-huangs-return-is-not-great-for-amd-and-its-obvious-why?ref=yahoofinance&tlnk=yf-261125-qv64gggm&.tsrc=rss",
+      "title": "Nvidia Author Stephen Witt Says Huang’s Return Is “Not Great for AMD.” Here’s What AMD Loses",
+      "url": "https://www.tikr.com/blog/jensen-huangs-return-is-not-great-for-amd-and-its-obvious-why?ref=yahoofinance&tlnk=yf-261125-qv64gggm&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysAMD shares fell 10% on Tuesday after Nvidia reinstated Jensen Huang as CEO, 12 days after he resigned. Author Stephen Witt says Huang’s return is “not great for AMD,” since rivals had hoped to hire away Nvidia’s engineers.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:20:26+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:09.874806+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760MP:0",
@@ -64840,6 +65662,25 @@
       "extra": {}
     },
     {
+      "id": "msn:4e0d2a2763ab039d4f551946906f6f0cd0e2d6d2",
+      "title": "Stock Market Today: Futures Plunge as AI Rout Resumes; Nvidia Leads Chip Stocks Lower ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e80abf03448cb19f8b3d320bcc0b&url=https%3a%2f%2fwww.investopedia.com%2fstock-market-today-dow-jones-s-and-p-500-nasdaq-11252026-12279355&c=14548726542868548574&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stocks are under pressure again Wednesday morning as the volatility that has gripped the AI trade in recent weeks intensifies.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:12.085922+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N476080:0",
       "title": "Palm oil falls on weaker soyoil, crude; Dalian gains limit losses",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N476080:0-palm-oil-falls-on-weaker-soyoil-crude-dalian-gains-limit-losses/",
@@ -65461,6 +66302,25 @@
       "published_at": "2026-11-25T13:19:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T21:43:11.649158+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:cd9dbcbfcde1d9f4beee2305bafe5221166c9129",
+      "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e80abf03448cb19f8b3d320bcc0b&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:19:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:12.085922+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -69933,6 +70793,25 @@
       "published_at": "2026-11-25T11:49:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T21:49:13.165917+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:44a34fd48c1851a9fe67ef4e2b9e83b1e97d1870",
+      "title": "Ten undervalued energy stocks after Q3 earnings, led by Par Pacific",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e80a647d40758a51f3459b9052cb&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4676519-ten-undervalued-energy-stocks-after-q3-earnings-led-by-par-pacific&c=2722455980253807025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Seeking Alpha's screen names 10 undervalued energy stocks, led by Par Pacific with an A+ valuation grade; four others earn A grades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:12.085922+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -79449,6 +80328,25 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T21:49:13.165917+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:960c909ca50ac47c5fbd0e11409ae9b993ccf70d",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e80a647d40758a51f3459b9052cb&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:12.085922+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -91299,6 +92197,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T21:49:13.165917+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:a30e5072131c2c150b15423854fc2cf11714ad63",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e80abf03448cb19f8b3d320bcc0b&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:52:12.085922+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
