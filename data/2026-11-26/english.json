@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T07:46:17.189445+08:00",
-  "count": 1542,
+  "generated_at": "2026-11-26T07:52:21.636613+08:00",
+  "count": 1546,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,105 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:moodys:ce6e6ce4f133e:0",
+      "title": "Wall Street rebounds from day’s lows as bargain hunters step in; Dow gains, Nasdaq falls",
+      "url": "https://www.tradingview.com/news/moodys:ce6e6ce4f133e:0-wall-street-rebounds-from-day-s-lows-as-bargain-hunters-step-in-dow-gains-nasdaq-falls/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:51:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:52:17.588178+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:DJI",
+          "SP:SPX",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:ec73c5abf5cd8:0",
+      "title": "Banco Macro Announces Results for the Third Quarter of 2026",
+      "url": "https://www.tradingview.com/news/prnewswire:ec73c5abf5cd8:0-banco-macro-announces-results-for-the-third-quarter-of-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:50:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:52:17.588178+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BMA",
+          "BCBA:BMA.5"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0bbf45c1b0d1b:0",
+      "title": "Banco Macro S.A. (BMA) Announces Third-Quarter 2026 Results",
+      "url": "https://www.tradingview.com/news/tradingview:0bbf45c1b0d1b:0-banco-macro-s-a-bma-announces-third-quarter-2026-results/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:50:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:52:17.588178+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BCBA:BMA.5"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4828883:0",
+      "title": "FAL: Blue Moon confirms high-grade Bendigo-style gold, while Olsen Well delivers a maiden bedrock discovery",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4828883:0-fal-blue-moon-confirms-high-grade-bendigo-style-gold-while-olsen-well-delivers-a-maiden-bedrock-discovery/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:45:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:52:17.588178+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:FAL"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762CT:0",
       "title": "Allstate Says Some Access Has Been Restricted Over The Last 48 Hours, Continue To Settle Claims",
