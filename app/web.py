@@ -39,8 +39,11 @@ def home_html() -> str:
 
     total = sum(len(items) for items in buckets.values())
     cards = []
+    # 只展示当天有数据的分类，避免出现 0 条的空卡片
     for key, label in _CATEGORY_LABEL.items():
         count = len(buckets.get(key, []))
+        if count == 0:
+            continue
         cards.append(
             f'<a class="card" href="/api/news?date={_esc(date)}&category={key}">'
             f'<span class="card-label">{_esc(label)}</span>'
