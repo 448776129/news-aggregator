@@ -1,0 +1,61 @@
+{
+  "date": "2025-03-16",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-25T11:25:13.132042+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:642ab28ab12c8a12fc7bd2d34ce9c017e278844d",
+      "title": "Trump says the economy ‘went to hell’ under Biden. The opposite is true",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b065516d99f4648b638c9538909c9ee&url=https%3a%2f%2fwww.theguardian.com%2fbusiness%2f2025%2fmar%2f16%2ftrump-biden-economy&c=4949230337739278252&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Donald Trump keeps saying he inherited a terrible economy from Joe Biden and many Americans believe him, even though that’s not true. During his White House marketing event for Tesla on Tuesday, Trump ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2025-03-16T15:03:00+08:00",
+      "published_date": "2025-03-16",
+      "fetched_at": "2026-11-25T11:25:11.800715+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
