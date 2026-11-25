@@ -1,0 +1,61 @@
+{
+  "date": "2025-01-29",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-25T20:22:17.078553+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:2bb938313fea9cae1929b8886fd19297cef2a9e7",
+      "title": "Tesla earnings recap: Elon Musk talks paid robotaxi rides in June, Optimus 'uncertainty ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d2f56121448b9703d3910ec07796&url=https%3a%2f%2fwww.businessinsider.com%2ftesla-earnings-call-report-tsla-stock-live-updates-2025-1&c=4549928348416437526&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "You're currently following this author! Click to unsubscribe from email alerts. Tesla reported fourth-quarter earnings on Wednesday after the closing bell, delivering results that missed Wall Street's ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2025-01-29T23:59:00+08:00",
+      "published_date": "2025-01-29",
+      "fetched_at": "2026-11-25T20:22:14.684529+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
