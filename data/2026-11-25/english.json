@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T17:43:16.180090+08:00",
-  "count": 2120,
+  "generated_at": "2026-11-25T17:46:12.442993+08:00",
+  "count": 2162,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,955 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4760L3:0",
+      "title": "J.P. Morgan sets MSCI eurozone's 2027 target at 415 on resilient earnings",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4760L3:0-j-p-morgan-sets-msci-eurozone-s-2027-target-at-415-on-resilient-earnings/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:45:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:UKX",
+          "STOXX:SXXP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6276Ea:0",
+      "title": "RCS - Pacific Horizon - Overview note from QuotedData",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6276Ea:0-rcs-pacific-horizon-overview-note-from-quoteddata/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:44:10+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:PHI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:2999d10309bd8:0",
+      "title": "European Shares Edge Higher Ahead Of US PCE Inflation Data",
+      "url": "https://www.tradingview.com/news/dpa_afx:2999d10309bd8:0-european-shares-edge-higher-ahead-of-us-pce-inflation-data/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:44:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "STOXX:SXXP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001936:0",
+      "title": "Nasdaq Futures Slide as AI Growth Fears Return to Center Stage",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001936:0-nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:44:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AAPL",
+          "NASDAQ:META",
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4760K3:0",
+      "title": "Cargo markets steady, bunker premiums elevated",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4760K3:0-cargo-markets-steady-bunker-premiums-elevated/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:43:09+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001931:0",
+      "title": "German Economy Shows Warning Signs on Private Investment — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001931:0-german-economy-shows-warning-signs-on-private-investment-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:43:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ECONOMICS:DEGDP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4760SA:0",
+      "title": "PhonePe back in talks with bankers to revive IPO, eyes $12-14 billion valuation- ET",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4760SA:0-phonepe-back-in-talks-with-bankers-to-revive-ipo-eyes-12-14-billion-valuation-et/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:42:21+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "PRIVATE:PHONEPE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001852_20261125001923:0",
+      "title": "Capital A: Continues to Maintain Cost Controls Across Digital and Non-Aviation Businesses",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001852_20261125001923:0-capital-a-continues-to-maintain-cost-controls-across-digital-and-non-aviation-businesses/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:42:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:CAPITALA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001924:0",
+      "title": "K-One Technology Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001924:0-k-one-technology-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:42:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:K1"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4813824:0",
+      "title": "ENRIN: Record FY26 results underpin a 20–22% margin ambition by FY30",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4813824:0-enrin-record-fy26-results-underpin-a-20-22-margin-ambition-by-fy30/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:41:11+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:ENRIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001917:0",
+      "title": "Germany's GDP Growth Could Recover Before End of Year — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001917:0-germany-s-gdp-growth-could-recover-before-end-of-year-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:41:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ECONOMICS:DEGDP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4366625:0",
+      "title": "EcoSys (Malaysia) Berhad: Q3 earnings fell QoQ on lower Abatement deliveries; UHP and India expansion underpin growth plans",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4366625:0-ecosys-malaysia-berhad-q3-earnings-fell-qoq-on-lower-abatement-deliveries-uhp-and-india-expansion-underpin-growth-plans/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:40:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760E3:0",
+      "title": "Israel's Strauss Group Q3 revenue falls on lower coffee prices",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760E3:0-israel-s-strauss-group-q3-revenue-falls-on-lower-coffee-prices/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:40:18+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TASE:STRS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001906:0",
+      "title": "HCK Capital Group Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001906:0-hck-capital-group-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:40:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:HCK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001901:0",
+      "title": "Northern Solar Holdings Malaysia 2nd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001901:0-northern-solar-holdings-malaysia-2nd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:40:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:NORTHERN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001902_20261125001902:0",
+      "title": "PPB Group Bhd 3Q EPS MYR0.1908",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001902_20261125001902:0-ppb-group-bhd-3q-eps-myr0-1908/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:40:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:PPB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001902_20261125001903:0",
+      "title": "PPB Group Bhd 3Q Net MYR271.2M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001902_20261125001903:0-ppb-group-bhd-3q-net-myr271-2m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:40:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:PPB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001902_20261125001904:0",
+      "title": "PPB Group Bhd 3Q Rev MYR1.41B",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001902_20261125001904:0-ppb-group-bhd-3q-rev-myr1-41b/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:40:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:PPB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001902:0",
+      "title": "PPB Group Bhd Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001902:0-ppb-group-bhd-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:40:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:PPB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001913:0",
+      "title": "Sterling Could Struggle as BOE Governor Presents Before Lawmakers — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001913:0-sterling-could-struggle-as-boe-governor-presents-before-lawmakers-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:40:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6270Ea:0",
+      "title": "REG - Mony Group PLC - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6270Ea:0-reg-mony-group-plc-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:39:34+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:MONY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4760SB:0",
+      "title": "Swiss regulator FINMA sees progress by UBS on crisis readiness",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4760SB:0-swiss-regulator-finma-sees-progress-by-ubs-on-crisis-readiness/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:39:05+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BX:0UB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001852_20261125001897:0",
+      "title": "Capital A: 3Q Net Profit Weighed by Higher Logistic Expenses",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001852_20261125001897:0-capital-a-3q-net-profit-weighed-by-higher-logistic-expenses/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:39:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:CAPITALA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001852_20261125001900:0",
+      "title": "Capital A: Stronger 4Q Performance Expected",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001852_20261125001900:0-capital-a-stronger-4q-performance-expected/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:39:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:CAPITALA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:6c7f5ecc49786:0",
+      "title": "Hannover Re Expects Group Net Income Not Less Than EUR 2.9 Bln In FY27",
+      "url": "https://www.tradingview.com/news/dpa_afx:6c7f5ecc49786:0-hannover-re-expects-group-net-income-not-less-than-eur-2-9-bln-in-fy27/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:38:39+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:HNR1"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001887_20261125001887:0",
+      "title": "Genting Plantations 3Q EPS MYR0.1040",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001887_20261125001887:0-genting-plantations-3q-eps-myr0-1040/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:38:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:GENP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001887_20261125001889:0",
+      "title": "Genting Plantations 3Q Net MYR93.3M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001887_20261125001889:0-genting-plantations-3q-net-myr93-3m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:38:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:GENP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001887_20261125001888:0",
+      "title": "Genting Plantations 3Q Rev MYR938.5M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001887_20261125001888:0-genting-plantations-3q-rev-myr938-5m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:38:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:GENP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001887:0",
+      "title": "Genting Plantations Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001887:0-genting-plantations-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:38:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:GENP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001893:0",
+      "title": "Menang Corp Malaysia Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001893:0-menang-corp-malaysia-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:38:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:MENANG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001891:0",
+      "title": "Spring Art Holdings Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001891:0-spring-art-holdings-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:38:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SPRING"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001892:0",
+      "title": "TCS Group Holdings Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001892:0-tcs-group-holdings-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:38:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:TCS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001885:0",
+      "title": "Treasury and European Government Bond Yields Fall Ahead of PCE Inflation Data — Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001885:0-treasury-and-european-government-bond-yields-fall-ahead-of-pce-inflation-data-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:38:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001894:0",
+      "title": "UPA Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001894:0-upa-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:38:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:UPA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6237Ea:0",
+      "title": "REG - KraneShares ICAV - KraneShares ICAV 24.11.26",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6237Ea:0-reg-kraneshares-icav-kraneshares-icav-24-11-26/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:37:14+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001852_20261125001883:0",
+      "title": "Capital A: 3Q Net Profit Partly Weighed by Higher Tax Expense, Deferred Taxation",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001852_20261125001883:0-capital-a-3q-net-profit-partly-weighed-by-higher-tax-expense-deferred-taxation/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:37:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:CAPITALA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:74e1a993d094b:0",
+      "title": "Director/PDMR Shareholding",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410036/0/en/director-pdmr-shareholding.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:37:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:MICC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0d8288c03a354:0",
+      "title": "The Magnum Ice Cream Company (MICC) Reports PDMR Share Acquisitions",
+      "url": "https://www.tradingview.com/news/tradingview:0d8288c03a354:0-the-magnum-ice-cream-company-micc-reports-pdmr-share-acquisitions/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:37:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:MICC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6245Ea:0",
+      "title": "REG - Mirae Asset ETF ICAV - Dividend Declaration GlobalX ETF ICAV-IE0002L5QB31",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6245Ea:0-reg-mirae-asset-etf-icav-dividend-declaration-globalx-etf-icav-ie0002l5qb31/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:36:49+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6239Ea:0",
+      "title": "REG - Mirae Asset ETF ICAV - Global X ETF ICAV 24.11.26",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6239Ea:0-reg-mirae-asset-etf-icav-global-x-etf-icav-24-11-26/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:36:48+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:09.604462+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4760W8:0",
       "title": "Al-Rajih Islamic Bank For Investment And Finance Q3 Net Profit 1.57 Billion Dinars",
@@ -38631,6 +39580,25 @@
       "extra": {}
     },
     {
+      "id": "msn:93bd5cfe4fb47894c4b4b260522818dd63e54de1",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to slump as investors await PCE inflation ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ae616e2145828ace6d27f9ce2fcf&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia&c=9558319776707145456&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Wednesday here ahead of October's personal consumption expenditures price index.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:11.367067+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:69d0af11a288ba114dbf4c01f229aef05a9d4698",
       "title": "Stock Market Live Updates: Sensex sheds 800 pts from day’s high, Nifty holds 25,650 ...",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069d83c3a14cd8b29e8d5f1f91f20d&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026%2fliveblog%2f136145716.cms&c=2500710713444335276&mkt=en-us",
@@ -47762,6 +48730,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T17:43:12.732011+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:61be571f3068fd5708fa2d386c5f03be2e90f153",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ae616e2145828ace6d27f9ce2fcf&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:46:11.367067+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
