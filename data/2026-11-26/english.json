@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T05:19:15.527570+08:00",
-  "count": 1096,
+  "generated_at": "2026-11-26T05:22:14.938485+08:00",
+  "count": 1098,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 36,
+      "count": 37,
       "error": ""
     }
   ],
@@ -61,6 +61,25 @@
           "OMXCOP:TCM"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-211718440.html?.tsrc=rss",
+      "title": "How major US stock indexes fared Wednesday 11/25/2026",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-211718440.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Stocks on Wall Street recovered most of their steep early losses as a pullback in AI stocks eased.3% after being down as much as 3.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:17:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:22:11.773176+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261125007254_20261125007254:0",
@@ -2727,6 +2746,25 @@
           "NYMEX:PA1!"
         ]
       }
+    },
+    {
+      "id": "yahoo:107a203f0e81c914cf5d77e4049d511b32059d00",
+      "title": "Bill Ackman, George Soros and 5 Other Famous Investors Own Microsoft. Here’s Who Bought and Sold Recently",
+      "url": "https://www.tikr.com/blog/bill-ackman-george-soros-and-5-other-famous-investors-own-microsoft-heres-who-bought-and-sold-recently?ref=yahoofinance&tlnk=yf-261125-hv5wfr5m&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysSeven famous investors held Microsoft on Sept. 30.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:50:22+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:22:11.773176+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760XZ:0",
