@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T07:19:18.905158+08:00",
-  "count": 1503,
+  "generated_at": "2026-11-26T07:22:18.207426+08:00",
+  "count": 1511,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,176 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:cnbctv:fc327f00f094b:0",
+      "title": "Dow Jones recovers 1,250 points from the lows to end higher as buyers hunt for bargains",
+      "url": "https://www.tradingview.com/news/cnbctv:fc327f00f094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:20:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:22:14.848762+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:DJI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:479d971b680d2:0",
+      "title": "Life360 Director Sold Shares Worth Over $7.2M",
+      "url": "https://www.tradingview.com/news/tradingview:479d971b680d2:0-life360-director-sold-shares-worth-over-7-2m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:20:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:22:14.848762+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:LIF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:8c78064b7bc6d:0",
+      "title": "Stryker Group President Sold Shares Worth Over $1.9M",
+      "url": "https://www.tradingview.com/news/tradingview:8c78064b7bc6d:0-stryker-group-president-sold-shares-worth-over-1-9m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:20:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:22:14.848762+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:SYK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:3a9d83c5f094b:0",
+      "title": "Fed Beige Book Shows Hot US Economy With Modest Price Growth And Rising Wage Pressure",
+      "url": "https://stocktwits.com/news-articles/markets/equity/fed-beige-book-shows-hot-us-economy-with-modest-price-growth-and-rising-wage-pressure/cNbHvifR9my",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:19:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:22:14.848762+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:QQQ",
+          "NASDAQ:TLT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:a11370d3b63b8:0",
+      "title": "RFA Financial Announces Disposition of Units of Dream Office REIT",
+      "url": "https://www.tradingview.com/news/prnewswire:a11370d3b63b8:0-rfa-financial-announces-disposition-of-units-of-dream-office-reit/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:19:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:22:14.848762+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:RFA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:903337d81cde2:0",
+      "title": "RFA Financial Inc. (RFA) Cuts Dream Office Stake to 14.5%",
+      "url": "https://www.tradingview.com/news/tradingview:903337d81cde2:0-rfa-financial-inc-rfa-cuts-dream-office-stake-to-14-5/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:19:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:22:14.848762+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:RFA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:smallcaps:e5e481080094b:0",
+      "title": "AFT Pharmaceuticals Declares Maiden Interim Dividend after 25% Lift in 1H27 Revenue",
+      "url": "https://smallcaps.com.au/article/aft-pharmaceuticals-declares-maiden-interim-dividend-after-25percent-lift-in-1h27-revenue",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Small Caps",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:18:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:22:14.848762+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:AFP",
+          "NZX:AFT"
+        ]
+      }
+    },
     {
       "id": "tradingview:urn:summary_document_transcript:quartr.com:4828657:0",
       "title": "AFT: Revenue rose 25% to $143.6m; adjusted operating profit climbed to $13.3m",
@@ -1021,6 +1191,25 @@
       "published_at": "2026-11-26T06:45:09+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T06:55:12.282125+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/p-considers-nvidia-credit-downgrade-224432360.html?.tsrc=rss",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-considers-nvidia-credit-downgrade-224432360.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:44:32+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:22:15.137688+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
