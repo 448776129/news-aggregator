@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T06:10:14.965653+08:00",
-  "count": 1323,
+  "generated_at": "2026-11-26T06:13:20.097984+08:00",
+  "count": 1356,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,688 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47613O:0",
+      "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47613O:0-world-stocks-tumble-as-trump-tariffs-rattle-markets-ai-rally-fades/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:12:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:IXIC",
+          "DJ:DJI",
+          "TVC:SXXP",
+          "TVC:US10Y",
+          "NASDAQ:NVDA",
+          "TVC:DXY",
+          "FX:EURUSD",
+          "NASDAQ:IXIC",
+          "SP:SPX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47616D:0",
+      "title": "Canada's Menē Q3 gross margin falls as orders decline; announces CEO transition",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47616D:0-canada-s-men-q3-gross-margin-falls-as-orders-decline-announces-ceo-transition/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:11:30+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:MENE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4050952:0",
+      "title": "IPT: Zacualpan growth lifted revenue as cash funded exploration and the planned Capire restart",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4050952:0-ipt-zacualpan-growth-lifted-revenue-as-cash-funded-exploration-and-the-planned-capire-restart/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:10:07+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:IPT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:e35b69345837b:0",
+      "title": "AngloGold Ashanti Chief Development Officer Sold Shares Worth Over $1M",
+      "url": "https://www.tradingview.com/news/tradingview:e35b69345837b:0-anglogold-ashanti-chief-development-officer-sold-shares-worth-over-1m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:10:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:AU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:c43b24557c315:0",
+      "title": "Danaher Insiders Sold Shares Worth Over $2.5M",
+      "url": "https://www.tradingview.com/news/tradingview:c43b24557c315:0-danaher-insiders-sold-shares-worth-over-2-5m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:10:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DHR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:6cad4f9585962:0",
+      "title": "Riskified Director Sold Shares Worth Over $1.2M",
+      "url": "https://www.tradingview.com/news/tradingview:6cad4f9585962:0-riskified-director-sold-shares-worth-over-1-2m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:10:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:RSKD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:fb66fda8ea988:0",
+      "title": "Ross Stores President, CMO Ross Dress for Less Sold Shares Worth Over $697K",
+      "url": "https://www.tradingview.com/news/tradingview:fb66fda8ea988:0-ross-stores-president-cmo-ross-dress-for-less-sold-shares-worth-over-697k/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:10:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ROST"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125007885_20261125007885:0",
+      "title": "Ryman Heathcare Target Price Cut 36% to NZ$2.25/Share by UBS>RYM.NZ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007885_20261125007885:0-ryman-heathcare-target-price-cut-36-to-nz-2-25-share-by-ubs-rym-nz/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:10:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:RYM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4827522:0",
+      "title": "AUMB: Permitted True North pairs strong PEA economics with active development and district-scale upside",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4827522:0-aumb-permitted-true-north-pairs-strong-pea-economics-with-active-development-and-district-scale-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:09:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:AUMB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762F3:0",
+      "title": "Lac Gold Requests Trading Halt",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762F3:0-lac-gold-requests-trading-halt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:08:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:LAC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125007873_20261125007873:0",
+      "title": "Cathay General Bancorp Receives Regulatory Approval for $50M Buyback Increase",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007873_20261125007873:0-cathay-general-bancorp-receives-regulatory-approval-for-50m-buyback-increase/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:08:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CATY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125007866_20261125007866:0",
+      "title": "Harvey Norman Target Price Cut 11% to A$4.25/Share by UBS>HVN.AU",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007866_20261125007866:0-harvey-norman-target-price-cut-11-to-a-4-25-share-by-ubs-hvn-au/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:08:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:HVN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125007869_20261125007869:0",
+      "title": "News On FingerMotion Inc. (FNGR) Now Under BFLR",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007869_20261125007869:0-news-on-fingermotion-inc-fngr-now-under-bflr/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:08:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:BFLR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125007867_20261125007867:0",
+      "title": "News On Passage Bio Inc. (PASG) Now Under RMTX",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007867_20261125007867:0-news-on-passage-bio-inc-pasg-now-under-rmtx/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:08:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:RMTX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125007872_20261125007872:0",
+      "title": "Symbol for Clean Air Metals Inc. (AIR.V) Now DNTE.V",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007872_20261125007872:0-symbol-for-clean-air-metals-inc-air-v-now-dnte-v/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:08:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FWB:V4G"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125007876_20261125007876:0",
+      "title": "Symbol for Gujarat State Petronet Ltd. (532702.BY) Now 539336.BY",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007876_20261125007876:0-symbol-for-gujarat-state-petronet-ltd-532702-by-now-539336-by/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:08:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:GUJENERGY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125007874_20261125007874:0",
+      "title": "Symbol for IOIPG Malaysia REIT (???,UZTQYS) Now 5359.KU",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007874_20261125007874:0-symbol-for-ioipg-malaysia-reit-uztqys-now-5359-ku/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:08:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:IOIREIT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125007875_20261125007875:0",
+      "title": "Symbol for ImpediMed Ltd. (IPD.AU) Now SZH.AU",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007875_20261125007875:0-symbol-for-impedimed-ltd-ipd-au-now-szh-au/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:08:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:SZH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125007865:0",
+      "title": "Judge Dismisses Amazon Challenge to Consumer Product Safety Commission Orders",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007865:0-judge-dismisses-amazon-challenge-to-consumer-product-safety-commission-orders/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:07:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMZN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125007863_20261125007863:0",
+      "title": "WebBeds Target Price Cut 8.9% to A$4.10/Share by Morgans>WEB.AU",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007863_20261125007863:0-webbeds-target-price-cut-8-9-to-a-4-10-share-by-morgans-web-au/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:07:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:WEB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4761QQ:0",
+      "title": "Australia's Northern Star appoints de Bruin CFO amid turnaround push",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4761QQ:0-australia-s-northern-star-appoints-de-bruin-cfo-amid-turnaround-push/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:06:37+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:PRU",
+          "JSE:GFI",
+          "ASX:NST"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125007856:0",
+      "title": "Australia Shares Poised to Rise at the Open — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007856:0-australia-shares-poised-to-rise-at-the-open-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:06:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SP:XJO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125007858_20261125007858:0",
+      "title": "True North Copper Target Price Cut 41% to A$0.77/Share by Morgans>TNC.AU",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007858_20261125007858:0-true-north-copper-target-price-cut-41-to-a-0-77-share-by-morgans-tnc-au/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:06:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:TNC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762F0:0",
+      "title": "Barkly Rare Earths Seeks Trading Halt",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762F0:0-barkly-rare-earths-seeks-trading-halt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:05:34+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:BAK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:4865ee514094b:0",
+      "title": "Kane Announces Third Quarter 2026 Financial Results",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410611/0/en/kane-announces-third-quarter-2026-financial-results.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:05:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:KNE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:aad2ccd014db7:0",
+      "title": "Kane Biotech Inc. (KNE) Reports Positive Gross Profit in Q3",
+      "url": "https://www.tradingview.com/news/tradingview:aad2ccd014db7:0-kane-biotech-inc-kne-reports-positive-gross-profit-in-q3/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:05:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:KNE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:9f181775b094b:0",
+      "title": "Monteoro Minerals Commences High-Resolution Drone Magnetic, Radiometric and LiDAR Survey at the Nudillales Copper-Gold-Molybdenum-Silver Project in Colombia",
+      "url": "https://www.newsfilecorp.com/release/325973/Monteoro-Minerals-Commences-HighResolution-Drone-Magnetic-Radiometric-and-LiDAR-Survey-at-the-Nudillales-CopperGoldMolybdenumSilver-Project-in-Colombia",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:05:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:MTAU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:c4348ea318438:0",
+      "title": "Monteoro Minerals Ltd. (MTAU) Begins Survey to Refine Targets Ahead of Nudillales Drilling",
+      "url": "https://www.tradingview.com/news/tradingview:c4348ea318438:0-monteoro-minerals-ltd-mtau-begins-survey-to-refine-targets-ahead-of-nudillales-drilling/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:05:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:MTAU"
+        ]
+      }
+    },
     {
       "id": "tradingview:tradingview:89995edc51b4d:0",
       "title": "Dermata Therapeutics Disclosed Failure to Satisfy a Continued Listing Rule or Standard",
@@ -347,6 +1029,126 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:VTIX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:541e5125089ff:0",
+      "title": "Actinium Pharmaceuticals re-elects David Nicholson and Richard I. Steinhart to board",
+      "url": "https://www.tradingview.com/news/tradingview:541e5125089ff:0-actinium-pharmaceuticals-re-elects-david-nicholson-and-richard-i-steinhart-to-board/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:03:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:ATNM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:10ceecca63bdf:0",
+      "title": "Cantor Equity Partners I Secures Sponsor Support for Business Combination Extension",
+      "url": "https://www.tradingview.com/news/tradingview:10ceecca63bdf:0-cantor-equity-partners-i-secures-sponsor-support-for-business-combination-extension/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:03:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CEPO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:03ccef956b15d:0",
+      "title": "Hadron Energy Disclosed Failure to Satisfy a Continued Listing Rule or Standard",
+      "url": "https://www.tradingview.com/news/tradingview:03ccef956b15d:0-hadron-energy-disclosed-failure-to-satisfy-a-continued-listing-rule-or-standard/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:03:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:HDRN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:3fe2bdaf3055b:0",
+      "title": "PowerCompute Received Notice of Delisting",
+      "url": "https://www.tradingview.com/news/tradingview:3fe2bdaf3055b:0-powercompute-received-notice-of-delisting/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:03:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:PWCM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4827273:0",
+      "title": "COL: Own Brand, digital and automation underpin unchanged growth priorities and higher returns",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4827273:0-col-own-brand-digital-and-automation-underpin-unchanged-growth-priorities-and-higher-returns/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:02:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:13:12.257648+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:COL"
         ]
       }
     },
