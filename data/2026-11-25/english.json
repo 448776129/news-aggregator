@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T22:34:16.378132+08:00",
-  "count": 4620,
+  "generated_at": "2026-11-25T22:37:17.004290+08:00",
+  "count": 4635,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 7,
       "error": ""
     },
     {
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "alpaca:130488839",
+      "title": "Stifel Adjusts Price Targets for Best Buy and Dollar Tree",
+      "url": "https://www.marketscreener.com/news/stifel-adjusts-price-target-on-best-buy-to-103-from-100-ce7851d8d98ef021",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Stifel analysts have updated their price targets for Best Buy and Dollar Tree as part of ongoing equity research coverage.",
+      "content": "Stifel has issued updated price targets for retail companies, adjusting the target for Best Buy to $103 from $100 and for Dollar Tree to $180 from $160. These adjustments reflect the firm's latest equity research and analysis of the respective companies. The updates are part of Stifel's routine research coverage and do not represent a structural change to the firm's own business operations.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:34:26+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:37:12.479743+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SF"
+        ]
+      }
+    },
     {
       "id": "alpaca:130487752",
       "title": "Raymond James Adjusts Dell Technologies Price Target",
@@ -85,6 +109,25 @@
           "RJF"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/m/b4f63126-4e27-302c-9cbc-fcd664adac36/the-tech-selloff-is-bleeding.html?.tsrc=rss",
+      "title": "The Tech Selloff Is Bleeding Back Into the Rest of the Market",
+      "url": "https://finance.yahoo.com/m/b4f63126-4e27-302c-9cbc-fcd664adac36/the-tech-selloff-is-bleeding.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "It looks like we’ll have another stock market selloff to talk about at Thanksgiving dinner.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:33:34+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:37:12.590763+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "alpaca:130487750",
@@ -1978,6 +2021,44 @@
       }
     },
     {
+      "id": "yahoo:https://finance.yahoo.com/technology/articles/software-defined-networking-network-function-142900844.html?.tsrc=rss",
+      "title": "Software-Defined Networking and Network Function Virtualization Market Report 2026 | Secure $172.49B as Cisco, Microsoft, Huawei, HPE and Nokia Drive Cloud Automation by 2030",
+      "url": "https://finance.yahoo.com/technology/articles/software-defined-networking-network-function-142900844.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Boost ROI with cloud-based SDN/NFV, centralized automation and scalable virtualized services to cut IT costs, optimize resources and improve application performance.Dublin, Nov. 25, 2026 (GLOBE NEWSWIRE) -- \"Software-Defined Networking And Network Function Virtualization Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global software-defined networking (SDN) and network function virtualization (NFV) market is experiencing exponential growth as enterprises mode",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:29:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:37:12.590763+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/25/trump-floats-an-intel-style-nvidia-stake-10-would-cost-the-government-375-billion/?.tsrc=rss",
+      "title": "Trump Floats an Intel-Style Nvidia Stake. 10% Would Cost the Government $375 Billion",
+      "url": "https://247wallst.com/investing/2026/11/25/trump-floats-an-intel-style-nvidia-stake-10-would-cost-the-government-375-billion/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Trump says it is \"probably not too late\" for Washington to buy into Nvidia, borrowing the playbook from Intel. But the Intel deal worked because the company needed help, and Nvidia's books tell a very different story.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:28:53+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:37:12.590763+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760KJ:0",
       "title": "Gold sinks to more than one-year low after data shows US inflation rose further",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760KJ:0-gold-sinks-to-more-than-one-year-low-after-data-shows-us-inflation-rose-further/",
@@ -2004,6 +2085,25 @@
           "OANDA:XAUUSD"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/this-happens-to-sp-500-twice-year-what-history-says-happens-next/?.tsrc=rss",
+      "title": "This Happens to the S&P 500 About Twice a Year. Here's What History Says Happens Next.",
+      "url": "https://www.fool.com/investing/2026/11/25/this-happens-to-sp-500-twice-year-what-history-says-happens-next/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Short-term declines have often been followed by periods of positive returns.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:28:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:37:12.590763+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261125004388_20261125004388:0",
@@ -2448,6 +2548,25 @@
           "HKEX:2350"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/anthropic-broken-3-ipos-that-bounced-back-with-wealth-altering-returns/?.tsrc=rss",
+      "title": "Anthropic Broken? 3 IPOs That Bounced Back With Wealth-Altering Returns",
+      "url": "https://www.fool.com/investing/2026/11/25/anthropic-broken-3-ipos-that-bounced-back-with-wealth-altering-returns/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Anthropic closed below $83 on Tuesday. Misery loves company, and sometimes it loves some really good companies.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:23:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:37:12.590763+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261125004101:0",
@@ -5172,6 +5291,25 @@
       }
     },
     {
+      "id": "yahoo:https://www.tikr.com/blog/qualcomm-top-auto-chipmaker-2027-semianalysis-prediction?ref=yahoofinance&tlnk=yf-261125-96xwhg7w&.tsrc=rss",
+      "title": "Prediction: Qualcomm Becomes the Top Auto Chipmaker in 2027, “a Story the Market Has Quietly Ignored,” per SemiAnalysis",
+      "url": "https://www.tikr.com/blog/qualcomm-top-auto-chipmaker-2027-semianalysis-prediction?ref=yahoofinance&tlnk=yf-261125-96xwhg7w&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysQualcomm’s (QCOM:NASDAQ) auto revenue reached $2 billion in its September quarter, up 89%, and SemiAnalysis predicts it will pass Infineon (IFNNY) and NXP Semiconductors (NXPI:NASDAQ) in 2027 to become the largest auto chipmaker. The growth comes from more Qualcomm content in each car, so it doesn’t depend on car sales.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:05:57+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:37:12.590763+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6878Ea:0",
       "title": "REG - Taylor Maritime Ltd Taylor Maritime -TMI - Result of AGM",
       "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6878Ea:0-reg-taylor-maritime-ltd-taylor-maritime-tmi-result-of-agm/",
@@ -5266,6 +5404,25 @@
           "CENN"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.tikr.com/blog/scott-galloway-nvidia-stock-prediction-end-of-year?ref=yahoofinance&tlnk=yf-261125-58jqq649&.tsrc=rss",
+      "title": "Scott Galloway Predicts Nvidia Stock Will Be “Up at the End of the Year.” Six Weeks Left",
+      "url": "https://www.tikr.com/blog/scott-galloway-nvidia-stock-prediction-end-of-year?ref=yahoofinance&tlnk=yf-261125-58jqq649&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysNvidia (NVDA:NASDAQ) stock is down 48% from its early October peak, even though the company beat estimates with $115. 8 billion of quarterly revenue.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:05:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:37:12.590763+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6876Ea:0",
@@ -75983,6 +76140,25 @@
       "extra": {}
     },
     {
+      "id": "msn:29ee1ed80a262e050b92a9259717d67a2be60827",
+      "title": "Stock Market Today: Dow Dives On Surprise Inflation Data; Nvidia, Anthropic Plunge (Live Coverage)",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f2984dfc4ad1a64f5dedd4de5280&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fstock-market-today-dow-dives-on-surprise-inflation-data-nvidia-anthropic-plunge-live-coverage%2far-AA2icpnU&c=15605509054138719502&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The Dow Jones index dives 675 points Wednesday on surprise inflation data. Nvidia and Anthropic plunge.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:39:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:37:13.997485+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N47609B:0",
       "title": "Vietnam raises $198 million in government bond auction",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47609B:0-vietnam-raises-198-million-in-government-bond-auction/",
@@ -76627,6 +76803,25 @@
       "published_at": "2026-11-25T13:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T22:31:13.815403+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:942d5dd1d627ba0619c9a9b76c404ed5f43e1171",
+      "title": "Stock Market Today: Futures Plunge as AI Rout Resumes; Nvidia Leads Chip Stocks Lower ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f2984dfc4ad1a64f5dedd4de5280&url=https%3a%2f%2fwww.investopedia.com%2fstock-market-today-dow-jones-s-and-p-500-nasdaq-11252026-12279355&c=14548726542868548574&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stocks are under pressure again Wednesday morning as the volatility that has gripped the AI trade in recent weeks intensifies.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:37:13.997485+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -82169,6 +82364,25 @@
       "extra": {}
     },
     {
+      "id": "msn:195340456b1544aa3d805685c4e2910f25f0c937",
+      "title": "Ten undervalued energy stocks after Q3 earnings, led by Par Pacific",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f298bff045dbb99069742c5415c0&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4676519-ten-undervalued-energy-stocks-after-q3-earnings-led-by-par-pacific&c=2722455980253807025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Seeking Alpha's screen names 10 undervalued energy stocks, led by Par Pacific with an A+ valuation grade; four others earn A grades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:37:13.997485+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:stocktwits:79fb107c8094b:0",
       "title": "ANT Slips Further After Closing Below IPO Price: Retail Traders Wait For A Better Entry, But Cathie Wood Buys The Dip",
       "url": "https://stocktwits.com/news-articles/markets/equity/ant-slips-further-after-closing-below-ipo-price-retail-traders-wait-for-a-better-entry-but-cathie-wood-buys-the-dip/cNbHR3zR9lf",
@@ -87216,6 +87430,25 @@
       "extra": {}
     },
     {
+      "id": "msn:1e1122ec72fb5246af1c5a3d3ed5474eaca8d4db",
+      "title": "Nvidia is crucial to the economy. An AI wipeout could unleash unexpected consequences",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f298674f4c1cab95b3376bc274e6&url=https%3a%2f%2fwww.cnn.com%2f2026%2f11%2f25%2feconomy%2fstock-market-ai-gdp&c=11431870174890467752&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "In the two weeks without Jensen Huang at the helm of Nvidia, Wall Street turned its back on AI. A deep and prolonged stock market sell-off exposed risks to an economy that is increasingly reliant on ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:00:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:37:13.997485+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8806592",
       "title": "Oil prices fall as supply glut concerns offset Middle East disruption fears - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGl4Nzdfc01ReTB5TnAxUkVLTXlaRVFvbGM5aTZDOEtVUXlrVDQtMHJwcWh2WldoMnVyb0QxU1pEQUoyN09sNU1SZXR3NVUzdTZXeWpkdGNTZW95MUtmdjV3dWFxTEZsRW5WUlF1djVTTWZxUGVxcHhPNEptMnBEcmZ0MURhX0JxTDFqc19HblpWd2hLSEs5SXRYTXB6bzFwNzZqOUFTc1ZOM3ItVDFZWmM2a0R5YkxsdnlsMTZWQ1ZEUQ?oc=5",
@@ -92173,6 +92406,25 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T22:34:12.509726+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:36a7abe3b8643530229322dfbafd78137d08fa9b",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f298bff045dbb99069742c5415c0&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:37:13.997485+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -104447,6 +104699,25 @@
       "extra": {}
     },
     {
+      "id": "msn:e15b8661e8b8b89412b11b94aefc13de1d9c43c9",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f2984dfc4ad1a64f5dedd4de5280&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:37:13.997485+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8805055",
       "title": "Congo mining forum announces $965 million in sector financing - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGdrZjdudnB3N1RtMDR5dXlRWm8zMnA0b1NXQ3JNWGFhQ3BMSWNPOWpBU1hVT2hMRkl2THlRc3JDY1BmYk5jTF85d2pxUGt2Z2ptTmhTZDFET28xWVd3MDJzZUMzN3Q5bDgzQnp0eDdSck1rLVdVV0M2bGF0ODRIWEp6Z18wcS15TzlBMl82RUd3Mjlrc2Q2SDdnSkZVMVE1dHdIMFkxSmtZZw?oc=5",
@@ -105496,6 +105767,25 @@
       "published_at": "2026-11-25T00:04:08+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T20:01:18.500909+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:3555645d12f971bc72166b6db9ffb3ab04639880",
+      "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f298bff045dbb99069742c5415c0&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fjim-cramer-sizes-up-six-retail-stocks-after-earnings-and-names-his-two-favorites%2far-AA2i9onk&c=18106407342616312095&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here's where Jim Cramer stands on six retailers that rallied after reporting earnings Tuesday, and his two favorites.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:04:08+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:37:13.997485+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
