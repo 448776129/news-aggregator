@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T15:16:16.113558+08:00",
-  "count": 1173,
+  "generated_at": "2026-11-25T15:19:22.688896+08:00",
+  "count": 1203,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 4,
       "error": ""
     },
     {
@@ -38,6 +38,591 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760CY:0",
+      "title": "Iron ore rangebound; coal hits one-month high on supply concerns",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760CY:0-iron-ore-rangebound-coal-hits-one-month-high-on-supply-concerns/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:18:39+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:TIO1!",
+          "BMFBOVESPA:VALE3",
+          "SGX:RBF1!",
+          "COMEX:EHR1!",
+          "COMEX:HRC1!",
+          "SGX:FEF1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4812417:0",
+      "title": "ATRAV: TOGETHER 2030 pairs >€2bn sales ambitions with growth investment and decarbonization",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4812417:0-atrav-together-2030-pairs-2bn-sales-ambitions-with-growth-investment-and-decarbonization/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:18:15+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXHEX:ATRAV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4157203:0",
+      "title": "TUNE: Crescendo targets faster organic growth and low to mid-teens medium-term operating margins",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4157203:0-tune-crescendo-targets-faster-organic-growth-and-low-to-mid-teens-medium-term-operating-margins/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:18:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TUNE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125000968:0",
+      "title": "U.S. PCE Data Could Stir Bond Market Moves — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125000968:0-u-s-pce-data-could-stir-bond-market-moves-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:18:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760CW:0",
+      "title": "UK watchdog says Colman's sale could address Unilever-McCormick deal concerns",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760CW:0-uk-watchdog-says-colman-s-sale-could-address-unilever-mccormick-deal-concerns/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:17:59+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:ULVR",
+          "NYSE:MKC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4760EE:0",
+      "title": "German economy grows by 0.1% in Q3, stats office says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4760EE:0-german-economy-grows-by-0-1-in-q3-stats-office-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:17:47+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4760BX:0",
+      "title": "Scanway Estimates 9-Month Net Loss At About 11.26 Mln Zlotys",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4760BX:0-scanway-estimates-9-month-net-loss-at-about-11-26-mln-zlotys/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:17:42+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:SCW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4760D4:0",
+      "title": "Heimar Executes Buyback Program Of ISK 500 Mln",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4760D4:0-heimar-executes-buyback-program-of-isk-500-mln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:17:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXICE:HEIMAR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125000949_20261125000964:0",
+      "title": "Empyrean Energy: Anticipated Drilling Time Is Approximately 14 Days",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125000949_20261125000964:0-empyrean-energy-anticipated-drilling-time-is-approximately-14-days/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:17:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:EME"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125000949_20261125000961:0",
+      "title": "Empyrean Energy: Rig Mobilization for Drilling Gold-1 Gas Well in Austria Scheduled for Jan. 4",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125000949_20261125000961:0-empyrean-energy-rig-mobilization-for-drilling-gold-1-gas-well-in-austria-scheduled-for-jan-4/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:17:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:EME"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125000941_20261125000965:0",
+      "title": "Kazatomprom: Early Termination Won't Affect Operational, Commercial Activities",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125000941_20261125000965:0-kazatomprom-early-termination-won-t-affect-operational-commercial-activities/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:17:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FWB:0ZQ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125000813_20261125000962:0",
+      "title": "Mobico Group Business Remains Challenging Ahead of 2027 Maturities",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125000813_20261125000962:0-mobico-group-business-remains-challenging-ahead-of-2027-maturities/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:17:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:MCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125000813_20261125000963:0",
+      "title": "Mobico: Legacy Liabilities Constraining Cashflows, Capacity to Reduce Net Debt",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125000813_20261125000963:0-mobico-legacy-liabilities-constraining-cashflows-capacity-to-reduce-net-debt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:17:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:MCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3692999:0",
+      "title": "SECT_B: Cloud-led growth lifted sales and profit as bookings normalized against a record comparison",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3692999:0-sect_b-cloud-led-growth-lifted-sales-and-profit-as-bookings-normalized-against-a-record-comparison/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:16:58+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:SECT_B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4760IH:0",
+      "title": "Renserv Global Private to issue 3-year bonds, bankers say",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4760IH:0-renserv-global-private-to-issue-3-year-bonds-bankers-say/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:16:54+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6095Ea:0",
+      "title": "REG - Amigo Resources PLC - Appointment of Chief Financial Officer",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6095Ea:0-reg-amigo-resources-plc-appointment-of-chief-financial-officer/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:16:12+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:AMGO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4760AR:0",
+      "title": "India's Tamil Nadu state signs pacts for $6.27 billion in proposed investments",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4760AR:0-india-s-tamil-nadu-state-signs-pacts-for-6-27-billion-in-proposed-investments/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:16:11+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BMFBOVESPA:WEGE3",
+          "NSE:HYUNDAI",
+          "NASDAQ:AAPL",
+          "TWSE:2317",
+          "NSE:TVSMOTOR",
+          "NSE:TITAN",
+          "NSE:KPRMILL",
+          "NSE:SEKURITIND",
+          "NASDAQ:SMCI",
+          "NSE:EICHERMOT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125000955:0",
+      "title": "Amazon Autos Plans to Launch Services in UK in Early 2027",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125000955:0-amazon-autos-plans-to-launch-services-in-uk-in-early-2027/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:16:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMZN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125000949_20261125000949:0",
+      "title": "Empyrean Energy Says Gold-1 Drilling Preparations Near Completion",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125000949_20261125000949:0-empyrean-energy-says-gold-1-drilling-preparations-near-completion/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:16:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:EME"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125000941_20261125000951:0",
+      "title": "Kazatomprom Terminates COO Kuanysh Omarbekov's Powers Early",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125000941_20261125000951:0-kazatomprom-terminates-coo-kuanysh-omarbekov-s-powers-early/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:16:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FWB:0ZQ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125000954:0",
+      "title": "Meituan's Third-Quarter Profit Likely to Decline Sequentially — Earnings Preview",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125000954:0-meituan-s-third-quarter-profit-likely-to-decline-sequentially-earnings-preview/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:16:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:3690"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125000813_20261125000953:0",
+      "title": "Mobico Group Free Cash Outflow GBP39.0M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125000813_20261125000953:0-mobico-group-free-cash-outflow-gbp39-0m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:16:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:MCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125000813_20261125000952:0",
+      "title": "Mobico Group Had Liquidity of GBP0.6B at Sept 30",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125000813_20261125000952:0-mobico-group-had-liquidity-of-gbp0-6b-at-sept-30/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:16:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:MCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47609D:0",
+      "title": "Netherlands' Prosus H1 adjusted profit rises on Tencent investment",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47609D:0-netherlands-prosus-h1-adjusted-profit-rises-on-tencent-investment/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:15:45+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:PRX"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N4760HL:0",
       "title": "Millions set for soaring energy bills in Britain after 26% price cap hike",
@@ -107,6 +692,28 @@
       }
     },
     {
+      "id": "tradingview:dpa_afx:df323274233f8:0",
+      "title": "GERMANY Q3 FINAL GDP 1.1% Y/Y (1.2% FIRST RELEASE)",
+      "url": "https://www.tradingview.com/news/dpa_afx:df323274233f8:0-germany-q3-final-gdp-1-1-y-y-1-2-first-release/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:15:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
       "id": "tradingview:dpa_afx:3c3ea1c6d4e96:0",
       "title": "MNI CHINA MMI NOV CURRENT LQDTY CONDITIONS 44.2 VS SEPT 40.4",
       "url": "https://www.tradingview.com/news/dpa_afx:3c3ea1c6d4e96:0-mni-china-mmi-nov-current-lqdty-conditions-44-2-vs-sept-40-4/",
@@ -126,6 +733,30 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125000941_20261125000941:0",
+      "title": "Kazatomprom Terminates CCO Vladislav Baiguzhin's Powers Early",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125000941_20261125000941:0-kazatomprom-terminates-cco-vladislav-baiguzhin-s-powers-early/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:15:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:20.610023+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FWB:0ZQ"
+        ]
       }
     },
     {
@@ -21810,6 +22441,25 @@
       "extra": {}
     },
     {
+      "id": "msn:23f433a0c69b68b88c4d62078a26ea95a3f7f95a",
+      "title": "Safestore (LSE:SAFE) Stock Looks Reasonable As Earnings Support Holds",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068bf9955e43398ac7853b065bd70d&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fsafestore-lse-safe-stock-looks-061247963.html&c=15124277717301942279&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Safestore Holdings has seen its share price slide in recent years, which naturally puts the spotlight on whether the current valuation lines up with the earnings investors are paying for. With the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T06:12:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:22.458539+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8806075",
       "title": "Saudi-led coalition issues evacuation warning for Yemen's Hodeidah port - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVG1zbDJSYngzOXYyX0pnWnBSUFB6Q0FYVzBkUzNtSVpRQm9ZZEY1S3VtMFJFWHVVbjFqQ29aeXhILVNwekVkX0Y1SUp1T3lUZXFCY2hOVWd1YWhVZVBVRFhoeWF2Y01jUkFGQTl0LWRsWUVNZU0xSGJsTE5hVjlOMm1KOVBOVlJtSGcwYm1zV3d2OE52VHJ1ZEFNeXdQRjhPTGhLMmRDNk14QVo4UHg1THdEQ2xMekJ2ZzJxXw?oc=5",
@@ -24715,6 +25365,25 @@
       "extra": {}
     },
     {
+      "id": "msn:a13da0acdb6540412fe256e4c1f0205db8747c74",
+      "title": "Stock Market News From Nov. 24, 2026: AI Stocks Sink. The Rest of the Market Is Doing Just ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068bf8a5ac49b1a62a6860832461be&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today-112426&c=16104040240120877104&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Dow, Nasdaq, and S&P 500 futures are falling in premarket trading as the stock market rally sparked by Jensen Huang's Nvidia return fades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:39:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:22.458539+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:b3e533b215059019733b3084f955c26e609e0363",
       "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b064d9a6cb74171970c0fae23d59d9e&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
@@ -26273,6 +26942,25 @@
       "extra": {}
     },
     {
+      "id": "msn:acbdc716528b48602709f70d16e58cb91e31f500",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068bf8a5ac49b1a62a6860832461be&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:22.458539+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8805055",
       "title": "Congo mining forum announces $965 million in sector financing - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGdrZjdudnB3N1RtMDR5dXlRWm8zMnA0b1NXQ3JNWGFhQ3BMSWNPOWpBU1hVT2hMRkl2THlRc3JDY1BmYk5jTF85d2pxUGt2Z2ptTmhTZDFET28xWVd3MDJzZUMzN3Q5bDgzQnp0eDdSck1rLVdVV0M2bGF0ODRIWEp6Z18wcS15TzlBMl82RUd3Mjlrc2Q2SDdnSkZVMVE1dHdIMFkxSmtZZw?oc=5",
@@ -26809,6 +27497,25 @@
       "published_at": "2026-11-25T00:04:08+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T15:16:14.196875+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:a04b685ddb1d6551696b00ade37febfc21542bb2",
+      "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068bf9955e43398ac7853b065bd70d&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fjim-cramer-sizes-up-six-retail-stocks-after-earnings-and-names-his-two-favorites%2far-AA2i9onk&c=18106407342616312095&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here's where Jim Cramer stands on six retailers that rallied after reporting earnings Tuesday, and his two favorites.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:04:08+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T15:19:22.458539+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
