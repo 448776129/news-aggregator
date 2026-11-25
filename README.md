@@ -1,6 +1,6 @@
 # 多源新闻自动化归档与查询
 
-从雅虎新闻、新浪财经、金十数据、财联社、雪球、Stocktwits、Reddit、TradingView、Alpaca News、微软 MSN 抓取资讯，按 **财经新闻 / 英文新闻 / 社区新闻 / Stocktwits 社区** 分类，以 **天** 为单位归档为 JSON，并通过 GitHub Actions 定时自动提交。提供命令行、Python 与 HTTP API 三种查询方式，可按 **日期 + 分类** 精确取数。
+从雅虎新闻、新浪财经、金十数据、财联社、雪球、Stocktwits、Reddit、TradingView、Alpaca News、微软 MSN 抓取资讯，按 **财经新闻 / 英文新闻 / 社区新闻 / Stocktwits 社区 / Reddit 社区** 分类，以 **天** 为单位归档为 JSON，并通过 GitHub Actions 定时自动提交。提供命令行、Python 与 HTTP API 三种查询方式，可按 **日期 + 分类** 精确取数。
 
 ## 在线地址
 
@@ -20,7 +20,7 @@
 | 财联社 | `finance` | 财经新闻 | 电报 nodeapi | 无 |
 | 雪球 | `community` | 社区新闻 | 热帖 JSON（匿名 Cookie） | 可选 |
 | Stocktwits | `stocktwits` | Stocktwits 社区 | 个股消息流 JSON | 无 |
-| Reddit | `community` | 社区新闻 | `.json` 公开接口 | 无 |
+| Reddit | `reddit` | Reddit 社区 | 官方 `.json`，被 403 时用 Arctic Shift 镜像 | 无 |
 | TradingView | `english` | 英文新闻 | 头条 JSON | 无 |
 | Alpaca News | `english` | 英文新闻 | `v1beta1/news` | 需要 |
 | 微软 MSN | `english` | 英文新闻 | Bing News RSS（微软新闻源） | 无 |
@@ -53,7 +53,8 @@ news-aggregator/
 │       ├── finance.json
 │       ├── english.json
 │       ├── community.json
-│       └── stocktwits.json
+│       ├── stocktwits.json
+│       └── reddit.json
 ├── run.py                 # CLI 入口
 └── requirements.txt
 ```

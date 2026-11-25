@@ -12,6 +12,7 @@ _CATEGORY_LABEL = {
     "english": "英文新闻",
     "community": "社区新闻",
     "stocktwits": "Stocktwits 社区",
+    "reddit": "Reddit 社区",
 }
 
 

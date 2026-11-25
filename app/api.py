@@ -55,7 +55,7 @@ def sources(date: str | None = None):
 @app.get("/api/news")
 def news(
     date: str | None = Query(default=None, description="YYYY-MM-DD，默认最新一天"),
-    category: str | None = Query(default=None, description="finance / english / community / stocktwits，默认全部"),
+    category: str | None = Query(default=None, description="finance / english / community / stocktwits / reddit，默认全部"),
     source: str | None = Query(default=None, description="数据源代码，如 cls、reddit"),
     keyword: str | None = Query(default=None, description="标题或摘要关键词"),
     limit: int | None = Query(default=None, ge=1, le=1000, description="返回条数上限"),

@@ -20,6 +20,7 @@ CATEGORIES: dict[str, str] = {
     "english": "英文新闻",
     "community": "社区新闻",
     "stocktwits": "Stocktwits 社区",
+    "reddit": "Reddit 社区",
 }
 
 # 数据源 -> 分类。用户可通过 NEWS_SOURCE_CATEGORY_MAP 覆盖。
@@ -30,7 +31,7 @@ SOURCE_CATEGORY: dict[str, str] = {
     "cls": "finance",         # 财联社
     "xueqiu": "community",    # 雪球
     "stocktwits": "stocktwits",  # Stocktwits（独立社区分类）
-    "reddit": "community",    # Reddit
+    "reddit": "reddit",      # Reddit（独立社区分类）
     "tradingview": "english",  # TradingView
     "alpaca": "english",      # Alpaca News
     "msn": "english",         # 微软 MSN / Bing News
