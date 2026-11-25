@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T15:34:12.248059+08:00",
-  "count": 91,
+  "generated_at": "2026-11-25T16:28:14.560132+08:00",
+  "count": 93,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     },
     {
@@ -1111,6 +1111,25 @@
       "extra": {}
     },
     {
+      "id": "msn:46d16e8deef31fec3ccbbdc836a9c335d32925dc",
+      "title": "Walmart’s third-quarter earnings exceeded expectations as e-commerce sales dominated",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069c1ce08e4b9a8672974a7e962dbc&url=https%3a%2f%2fwww.nj.com%2fnews%2f2026%2f11%2fwalmarts-third-quarter-earnings-exceeded-expectations-as-e-commerce-sales-dominated.html&c=16041449380811483491&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The retailer’s Q3 earnings report exceeded expectations Walmart posted revenue of $188.8 billion, just above the $187.2 billion expected. The strong third-quarter results for Walmart come as ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-20T11:40:00+08:00",
+      "published_date": "2026-11-20",
+      "fetched_at": "2026-11-25T16:28:13.810585+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:99de5700b08ef0d49a94409fef615d394eb96867",
       "title": "The post earnings slide in Nvidia stock is getting uglier by the day",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b034285f043455ba84842e83a8333b0&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fthe-post-earnings-slide-in-nvidia-stock-is-getting-uglier-by-the-day%2far-AA2hQUCT&c=6603191112528657845&mkt=en-us",
@@ -1257,6 +1276,25 @@
       "published_at": "2026-11-20T11:37:00+08:00",
       "published_date": "2026-11-20",
       "fetched_at": "2026-11-25T15:34:11.613280+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:29eb7921dac4f6911067bddfc9ce3637a67613de",
+      "title": "The post earnings slide in Nvidia stock is getting uglier by the day",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069c1ce08e4b9a8672974a7e962dbc&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fthe-post-earnings-slide-in-nvidia-stock-is-getting-uglier-by-the-day%2far-AA2hQUCT&c=6603191112528657845&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The Nvidia sell-off refuses to let up in the post Jensen Huang era.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-20T11:37:00+08:00",
+      "published_date": "2026-11-20",
+      "fetched_at": "2026-11-25T16:28:13.810585+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
