@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T23:31:18.553590+08:00",
-  "count": 5106,
+  "generated_at": "2026-11-25T23:34:18.606879+08:00",
+  "count": 5159,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 9,
+      "count": 6,
       "error": ""
     },
     {
@@ -38,6 +38,1026 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC67XYST:0",
+      "title": "SBO Extends Contract Of CEO Klaus Mader Through End Of 2031",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC67XYST:0-sbo-extends-contract-of-ceo-klaus-mader-through-end-of-2031/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:33:52+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "VIE:SBO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:accfea443f792:0",
+      "title": "Morgan Stanley maintains Brunswick at Equal-Weight, raises price target to $75 from $74",
+      "url": "https://www.tradingview.com/news/tradingview:accfea443f792:0-morgan-stanley-maintains-brunswick-at-equal-weight-raises-price-target-to-75-from-74/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:33:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:241ee752a64f9:0",
+      "title": "Wedbush initiates coverage of Mastercard at Outperform, sets price target at $751",
+      "url": "https://www.tradingview.com/news/tradingview:241ee752a64f9:0-wedbush-initiates-coverage-of-mastercard-at-outperform-sets-price-target-at-751/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:33:16+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:MA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUA3FPZWS:0",
+      "title": "IQM Quantum Computers Gets Order In South Korea",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA3FPZWS:0-iqm-quantum-computers-gets-order-in-south-korea/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:33:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXHEX:IQMX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4820532:0",
+      "title": "KTCG: Revenue rose 8%; operating gains and disposals underpin higher FY EBIT",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4820532:0-ktcg-revenue-rose-8-operating-gains-and-disposals-underpin-higher-fy-ebit/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:32:59+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "VIE:KTCG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130552015",
+      "title": "Deutsche Bank Lowers Price Target on Workday",
+      "url": "https://www.marketscreener.com/news/deutsche-bank-lowers-price-target-on-workday-to-195-from-220-keeps-hold-rating-ce7851d8d98efe24",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Deutsche Bank analysts have adjusted their price target for Workday Inc., lowering it from $220 to $195 while maintaining a 'Hold' rating.",
+      "content": "Deutsche Bank has updated its financial outlook for Workday Inc., reducing the price target on the stock to $195 from the previous $220. The firm continues to maintain a 'Hold' rating on the company's shares. This adjustment reflects the bank's latest equity research and valuation assessment for the software provider.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:32:53+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "DB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:d3962ad40aad5:0",
+      "title": "Cyril Amarchand Mangaldas Advised Adani Ports and Special Economic Zone Limited on its proposed acquisition of 100% of Evos B.V. through a competitive global auction process",
+      "url": "https://www.tradingview.com/news/moodys:d3962ad40aad5:0-cyril-amarchand-mangaldas-advised-adani-ports-and-special-economic-zone-limited-on-its-proposed-acquisition-of-100-of-evos-b-v-through-a-competitive-global-auction-process/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:32:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:ADANIPORTS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130552014",
+      "title": "Instalco Unit to Supply Industrial Scaffolding for Metsä Board's Swedish Mill",
+      "url": "https://www.marketscreener.com/news/instalco-unit-to-supply-industrial-scaffolding-for-metsa-board-s-swedish-mill-ce7851dbd188f024",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "A subsidiary of the installation and service company Instalco has been contracted to provide industrial scaffolding services for a Metsä Board facility in Sweden.",
+      "content": "An Instalco unit has secured a contract to supply industrial scaffolding services for a Metsä Board mill located in Sweden. The agreement involves the provision of specialized scaffolding support for the facility's operations. This development represents a routine operational service agreement for the company's Swedish manufacturing site.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:32:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "METSB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:fee1e139118b1:0",
+      "title": "India Is Designing Luxury In Its Own Accent",
+      "url": "https://www.tradingview.com/news/moodys:fee1e139118b1:0-india-is-designing-luxury-in-its-own-accent/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:32:30+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TITAN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:162d1f1bd8bf3:0",
+      "title": "Porsche’s First Electric Boxster Nears Production, Global Debut Set For Q1 2027",
+      "url": "https://www.tradingview.com/news/moodys:162d1f1bd8bf3:0-porsche-s-first-electric-boxster-nears-production-global-debut-set-for-q1-2027/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:32:29+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:P911"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:222eedeefe8da:0",
+      "title": "Morgan Stanley maintains Best Buy Co at Equal-Weight, raises price target to $100 from $90",
+      "url": "https://www.tradingview.com/news/tradingview:222eedeefe8da:0-morgan-stanley-maintains-best-buy-co-at-equal-weight-raises-price-target-to-100-from-90/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:32:26+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BBY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:2ec611da4a55d:0",
+      "title": "Statiq Crosses 1.3 Million App Downloads, Expands EV Charging Network To 1,000 Cities",
+      "url": "https://www.tradingview.com/news/moodys:2ec611da4a55d:0-statiq-crosses-1-3-million-app-downloads-expands-ev-charging-network-to-1-000-cities/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:32:25+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:e3b5ea0bb8a0c:0",
+      "title": "Wedbush initiates coverage of Visa at Outperform, sets price target at $487",
+      "url": "https://www.tradingview.com/news/tradingview:e3b5ea0bb8a0c:0-wedbush-initiates-coverage-of-visa-at-outperform-sets-price-target-at-487/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:32:18+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:V"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761DY:0",
+      "title": "Xbrane, Yongtao Enter Into Exclusive Agreement For Ximluci® In Greater China",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761DY:0-xbrane-yongtao-enter-into-exclusive-agreement-for-ximluci-in-greater-china/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:32:14+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:XBRANE"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130552013",
+      "title": "Nexxen Expands TV Home Screen Advertising to Southeast Asia via Coolita Partnership",
+      "url": "https://martechseries.com/tv-advertising/nexxen-tv-home-screen-expands-across-southeast-asia-with-coolita/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Nexxen has partnered with Smart TV operating system Coolita to expand its TV Home Screen advertising inventory across Southeast Asia.",
+      "content": "Nexxen announced the expansion of its \"Nexxen TV Home Screen\" advertising solution into Southeast Asia through a new partnership with Coolita, a Smart TV operating system. This integration allows advertisers to programmatically access native ad placements across more than 350 TV brands, including COOCAA, Skyworth, Panasonic, and Polytron. The move is designed to help advertisers reach viewers directly within the TV experience as Connected TV (CTV) usage grows in the region. By leveraging Nexxen's supply-side platform (SSP), the company aims to provide a more efficient, unified way for brands to manage their Smart TV reach.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:32:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "NEXN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130552012",
+      "title": "Nexxen International Ltd. Insider Executes Stock Sale",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/insider-von-nexxen-international-verkaufte-laut-aktueller-sec-meldung-aktien-im-wert-von-458-188-usd-ce7851dbdd8eff2d",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "An insider at Nexxen International Ltd. sold company shares valued at approximately $458,188, according to a recent SEC filing.",
+      "content": "A regulatory filing indicates that an insider at Nexxen International Ltd. completed a sale of company shares totaling $458,188. The transaction was reported on November 24, 2026. This event represents a standard disclosure of insider trading activity.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:32:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "NEXN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004969:0",
+      "title": "Bitcoin Tumbles After Inflation Data Cements December Rate Hike — Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004969:0-bitcoin-tumbles-after-inflation-data-cements-december-rate-hike-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:28ff9bcadfeba:0",
+      "title": "Firstsource named a Leader in BFS Agentic Business Operations and a Major Contender and Star Performer in FCC Operations Services by Everest Group",
+      "url": "https://www.tradingview.com/news/prnewswire:28ff9bcadfeba:0-firstsource-named-a-leader-in-bfs-agentic-business-operations-and-a-major-contender-and-star-performer-in-fcc-operations-services-by-everest-group/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:FSL"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130550906",
+      "title": "UBS Updates EssilorLuxottica Price Target and Estimates for FY27",
+      "url": "https://www.marketscreener.com/news/ubs-sees-fewer-overhangs-for-essilorluxottica-in-fy27-price-target-estimates-updated-ce7851d8d981f426",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "UBS has updated its price target and financial estimates for EssilorLuxottica, citing expectations for fewer overhangs in the 2027 fiscal year.",
+      "content": "UBS has revised its outlook for EssilorLuxottica, adjusting both its price target and financial estimates for the 2027 fiscal year. The update reflects the firm's view that the company will face fewer overhangs in the coming year. This analyst action provides new, actionable information regarding the company's projected financial performance and market positioning.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:59+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "EL"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130550905",
+      "title": "RBC Capital Markets Upgrades Galderma Group to Outperform",
+      "url": "https://www.marketscreener.com/news/rbc-capital-markets-upgrades-galderma-group-to-outperform-boosts-pt-ce7851d8d889fe23",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "RBC Capital Markets has upgraded its rating for Galderma Group to 'Outperform' and increased its price target for the company's shares.",
+      "content": "On November 25, 2026, RBC Capital Markets announced an upgrade for Galderma Group, moving the stock rating to 'Outperform' and raising the associated price target. This analyst action reflects a positive shift in the firm's outlook for the dermatology company. The update was reported by financial news services on the same day.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:57+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GALD"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130550904",
+      "title": "UBS Adjusts Ferrari Price Target to $465 From $450",
+      "url": "https://www.marketscreener.com/news/ubs-adjusts-ferrari-price-target-to-465-from-450-maintains-buy-rating-ce7851d8d88ff025",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "UBS has raised its price target for Ferrari N.V. from $450 to $465 while maintaining a Buy rating on the stock.",
+      "content": "Investment bank UBS has updated its outlook on Ferrari N.V., increasing the price target for the company's shares to $465 from the previous $450. The firm continues to maintain a Buy rating on the stock. This adjustment was reported on November 25, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:56+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "RACE"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130550903",
+      "title": "Marimekko Launches Limited-Edition Shopper Bag Capsule with Comme des Garçons",
+      "url": "https://www.milanofinanza.it/fashion/marimekko-lancia-una-capsule-di-borse-shopper-con-comme-des-garcons-202611251221147113",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Marimekko has partnered with the Japanese fashion brand Comme des Garçons to release a limited-edition collection of shopper bags featuring iconic Marimekko prints.",
+      "content": "The collaboration features four shopper bag models in two sizes, each adorned with historical Marimekko patterns created by various designers between 1963 and 2022. The selected prints include 'Petrooli' by Annika Rimala (1963), 'Ryijy' by Maija Louekari (2011), 'Vatruska' by Aino-Maija Metsola (2012), and 'Seppel' by Antti Kekki (2022). The collection is scheduled to be available for purchase starting December 1, 2026, in select international boutiques across Asia and Europe.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:55+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MEKKO"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130550902",
+      "title": "Diana Shipping Inc. Announces Leadership Changes",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410198/10065/en/diana-shipping-inc-announces-key-leadership-appointment-and-organizational-changes-to-support-its-long-term-strategy.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Diana Shipping Inc. appointed Christos Tsakonas as Chief Investments and Strategy Officer and announced that President Ioannis Zafirakis will transition to an advisory role.",
+      "content": "Diana Shipping Inc. has appointed Christos Tsakonas as its new Chief Investments and Strategy Officer, effective November 23, 2026. In this capacity, Mr. Tsakonas will oversee the company's investment strategy and financing activities, reporting directly to CEO Semiramis Paliou. Additionally, the company announced that President Ioannis Zafirakis will transition to an advisory role starting March 1, 2027.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:45+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "DSX"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130550901",
+      "title": "Diana Shipping Inc. Reports Financial Results for the Third Quarter and Nine Months Ended September 30, 2026",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410182/10065/en/diana-shipping-inc-reports-financial-results-for-the-third-quarter-and-nine-months-ended-september-30-2026-declares-cash-dividend-of-0-05-per-common-share-for-the-third-quarter-202.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Diana Shipping Inc. reported a net loss for the third quarter of 2026, primarily driven by $12.3 million in transaction-related costs from a withdrawn acquisition proposal, and declared a quarterly cash dividend of $0.05 per share.",
+      "content": "Diana Shipping Inc. reported a net loss of $0.5 million and a net loss attributable to common stockholders of $1.9 million for the third quarter of 2026, compared to a net income of $7.2 million in the same period of 2025. The quarterly results were significantly impacted by $12.3 million in transaction-related expenses, including loan and commitment fees, which were expensed following the company's withdrawal of its acquisition proposal for Genco Shipping & Trading Limited. Despite the net loss, time charter revenues for the quarter rose to $61.1 million from $51.9 million in the prior-year period. Additionally, the company declared a cash dividend of $0.05 per common share, payable on December 16, 2026, to shareholders of record as of December 9, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:45+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "DSX"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130550900",
+      "title": "UB Corporate Finance and UB Asset Management Act as Advisors in Herantis Pharma Directed Issue",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410088/0/en/herantis-pharma-announces-the-results-of-its-directed-share-issue-raising-eur-15-million.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "United Bankers Plc subsidiaries, UB Corporate Finance Ltd and UB Asset Management Ltd, are serving as financial advisor and placing agent, respectively, for a directed share issue by Herantis Pharma.",
+      "content": "UB Corporate Finance Ltd is acting as the financial advisor and UB Asset Management Ltd is acting as the placing agent for a directed share issue announced by Herantis Pharma on November 24, 2026. The transaction involves the issuance of 12,500,000 offer shares at a subscription price of EUR 1.20 per share. The involvement of these United Bankers subsidiaries facilitates the capital raise, which Herantis Pharma intends to use for the Phase 2 clinical trial of its drug candidate HER-096, as well as for general corporate purposes.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:43+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "UNITED"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130550899",
+      "title": "StealthGas Inc. Reports Third Quarter and Nine Months 2026 Financial and Operating Results",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410228/9952/en/stealthgas-inc-reports-third-quarter-and-nine-months-2026-financial-and-operating-results.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "StealthGas Inc. announced its unaudited financial and operating results for the third quarter and nine months ended September 30, 2026, reporting strong profitability.",
+      "content": "StealthGas Inc. (NASDAQ: GASS) released its financial and operating results for the third quarter and nine months ending September 30, 2026. The company reported net income of $24.5 million for the third quarter, which corresponds to a basic earnings per share (EPS) of $0.65. This performance represents a 41.6% increase compared to the previous quarter. As a ship-owning company, StealthGas continues to serve the liquefied petroleum gas (LPG) sector of the international shipping industry.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GASS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130550898",
+      "title": "Bayer Licenses Cancer Drug From China's Hansoh for Up to $3.25 Billion",
+      "url": "https://www.marketscreener.com/news/bayer-licenses-cancer-drug-from-china-s-hansoh-for-up-to-3-25-billion-ce7851d8d881f724",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Bayer has entered into a global licensing agreement with Hansoh Pharmaceutical Group to develop and commercialize the cancer drug candidate HS-20122.",
+      "content": "Bayer has secured a licensing deal with China's Hansoh Pharmaceutical Group for the experimental cancer drug HS-20122, an antibody-drug conjugate targeting solid tumors. Under the terms of the agreement, Bayer will pay $150 million upfront, with potential additional payments of up to $3.1 billion contingent upon development, regulatory, and commercial milestones, alongside future royalties. The deal grants Bayer exclusive rights to develop, manufacture, and commercialize the drug candidate in markets outside of China and Taiwan. This partnership is part of a broader trend of Western pharmaceutical companies collaborating with Chinese firms to access new drug pipelines.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:39+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BAYN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130550897",
+      "title": "Christian Dior SE Increases Chairman Age Limit",
+      "url": "https://www.milanofinanza.it/fashion/lvmh-bernard-arnault-potra-guidare-il-gruppo-fino-a-95-anni-202611251532057968",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Christian Dior SE has extended the age limit for its chairman position by ten years, allowing for a potential tenure extension.",
+      "content": "The board of Christian Dior SE has approved an increase in the age limit for the chairman of the company by ten years. This governance change allows the current chairman, who is 77 years old, to potentially remain in his leadership role for an additional 18 years. The decision reflects a strategic adjustment to the company's leadership structure and succession planning.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:36+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "CDI"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130550896",
+      "title": "L'Oréal Paris Launches 'Stand Up' Initiative with Ariana Greenblatt",
+      "url": "https://www.morningstar.com/news/pr-newswire/20261125ny06385/loral-paris-and-ariana-greenblatt-spotlight-the-impact-of-street-harassment-during-the-16-days-of-activism-against-gender-based-violence",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "L'Oréal Paris has partnered with brand ambassador Ariana Greenblatt to highlight the impact of street harassment during the 16 Days of Activism Against Gender-Based Violence.",
+      "content": "To coincide with the 16 Days of Activism Against Gender-Based Violence, L'Oréal Paris has launched a campaign featuring its youngest-ever brand ambassador, 19-year-old Ariana Greenblatt. The initiative aims to spotlight the impact of street harassment and encourage younger generations to participate in the company's 'Stand Up' movement. This effort is part of the brand's ongoing commitment to addressing gender-based violence and promoting social awareness.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:34+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "OR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:86762a7e09c4e:0",
+      "title": "Morgan Stanley maintains Analog Devices at Overweight, lowers price target to $403 from $458",
+      "url": "https://www.tradingview.com/news/tradingview:86762a7e09c4e:0-morgan-stanley-maintains-analog-devices-at-overweight-lowers-price-target-to-403-from-458/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:33+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ADI"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130550895",
+      "title": "German Consortium Including Airbus to Develop 'Satcom BW 4' Military Satellite System",
+      "url": "https://www.milanofinanza.it/news/l-esercito-tedesco-avra-il-suo-starlink-rheinmetall-ohb-e-airbus-vicini-alla-firma-202611251252451129",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "A consortium comprising Rheinmetall, OHB, and Airbus is set to develop a 15-billion-euro military satellite communications system for the German Bundeswehr.",
+      "content": "A consortium including Airbus, Rheinmetall, and OHB is expected to sign a contract in the coming weeks for the development of 'Satcom BW 4,' a military satellite communications system for the German Bundeswehr. The project, valued at approximately 15 billion euros including VAT and ten years of operational costs, involves the creation of a constellation of over 100 satellites in low Earth orbit. The system is intended to be fully operational by 2030, with a transitional phase utilizing Telesat satellites beginning in 2027. The project aims to provide real-time communication capabilities for military aircraft and drones.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "AIR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130550894",
+      "title": "BNP Paribas Financial Markets Discloses Trading Activity in DCC Energy plc Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-38-5a-ept-ri-dcc-energy-plc-bnpp-fm/9893572",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "BNP Paribas Financial Markets, acting as an exempt principal trader, disclosed recent trading activity in DCC Energy plc shares in a client-serving capacity.",
+      "content": "BNP Paribas Financial Markets, serving as an exempt principal trader connected to Energy Capital Partners and KKR, reported trading activity in DCC Energy plc shares for November 24, 2026. The firm disclosed the purchase of 77,393 shares and the sale of 10,422 shares, resulting in a net increase of 66,971 shares. These transactions were conducted in a client-serving capacity under Rule 38.5(a) of the Irish Takeover Rules. The disclosure was made to provide transparency regarding dealings by parties linked to potential bidders for the company.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BNP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4820411:0",
+      "title": "GIVN: Antitrust settlements total ~CHF 375m; 2030 ambitions remain unchanged",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4820411:0-givn-antitrust-settlements-total-chf-375m-2030-ambitions-remain-unchanged/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:31+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BX:GIN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130550893",
+      "title": "Bulgari to Open New High Jewelry Laboratory in Rome",
+      "url": "https://www.milanofinanza.it/fashion/bulgari-aprira-un-nuovo-laboratorio-di-alta-gioielleria-a-roma-entro-il-2028-202611251311314027",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "LVMH's Bulgari maison is redeveloping a historic building in Rome's Eur district to house a new high jewelry laboratory, expected to open by 2028.",
+      "content": "Bulgari, a maison under the LVMH group, has announced plans to establish a new high jewelry laboratory in Rome. The project involves the redevelopment of a historic building in the Eur district, originally designed by architect Ettore Rossi, which will be transformed into a hub for designers, artisans, and archives. The facility is expected to accommodate over 300 people, including approximately 80 new artisans, and will feature specialized production technologies and LEED Gold-certified sustainable infrastructure. This investment aims to consolidate the brand's high jewelry manufacturing capabilities and support the transfer of artisanal skills to new generations. The new site will replace the current high jewelry atelier in Rome, complementing the brand's existing Italian manufacturing network.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:30+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760RQ:0",
+      "title": "Brazil officials have not yet proposed a constitutional amendment for fiscal adjustment",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760RQ:0-brazil-officials-have-not-yet-proposed-a-constitutional-amendment-for-fiscal-adjustment/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "alpaca:130550892",
+      "title": "Formula Systems Announces Third Quarter 2026 Financial Results",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410350/0/en/formula-systems-reports-third-quarter-and-nine-month-period-ended-september-30-2026-financial-results.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Formula Systems (1985) Ltd. reported its financial results for the third quarter and nine-month period ended September 30, 2026.",
+      "content": "Formula Systems (1985) Ltd. released its financial performance data for the third quarter and the nine-month period ending September 30, 2026. As a global information technology group, the company provides software, proprietary technology solutions, and professional services through its various subsidiaries and affiliates. The announcement covers the company's operational results for the specified reporting periods. This disclosure provides investors and stakeholders with updated financial information regarding the company's performance.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:19+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.604082+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "FORTY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004962:0",
+      "title": "BOE Bailey Sees Lower Peak for Inflation if Energy Prices Stay Where They Are — Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004962:0-boe-bailey-sees-lower-peak-for-inflation-if-energy-prices-stay-where-they-are-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:977970880094b:0",
+      "title": "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting",
+      "url": "https://www.newsfilecorp.com/release/325840/SEC-Investor-Advisory-Committee-to-Host-Dec.-3-Virtual-Meeting",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:macenews:ea07a560d094b:0",
+      "title": "US EIA DISTILLATES INVENTORIES + 0.7 MLN BARRELS IN LATEST WEEK FROM PREVIOUS WEEK",
+      "url": "https://www.tradingview.com/news/macenews:ea07a560d094b:0-us-eia-distillates-inventories-0-7-mln-barrels-in-latest-week-from-previous-week/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:31:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:FED30D",
+          "SP:SPX",
+          "TVC:DJI",
+          "FX:EURUSD",
+          "CBOE:DJX",
+          "TVC:DXY",
+          "STOXX:SX5E",
+          "CBOE:VIX",
+          "ECONOMICS:USGDP",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:05a572467f4cd:0",
+      "title": "Morgan Stanley maintains Amentum Holdings at Equal-Weight, raises price target to $27 from $24",
+      "url": "https://www.tradingview.com/news/tradingview:05a572467f4cd:0-morgan-stanley-maintains-amentum-holdings-at-equal-weight-raises-price-target-to-27-from-24/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:57+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:AMTM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:d21e58fc2094b:0",
+      "title": "Crude inventory rises by 1.1M barrels for the week ended November 20 – EIA",
+      "url": "https://seekingalpha.com/news/4676497-crude-inventory-rises-by-11m-barrels-for-the-week-ended-november-20-eia?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:50+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:CL1!",
+          "AMEX:USO",
+          "AMEX:BNO",
+          "AMEX:UCO",
+          "AMEX:SCO",
+          "AMEX:USL",
+          "AMEX:DBO",
+          "AMEX:DRIP",
+          "AMEX:GUSH",
+          "NASDAQ:USOI",
+          "AMEX:XLE",
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:773492:0",
+      "title": "Ibc Advanced Alloys Q1 2027 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:773492:0-ibc-advanced-alloys-q1-2027-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:38+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:IB"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6969Ea:0",
       "title": "REG - PCI-PAL PLC - Director/PDMR Shareholding",
@@ -83,6 +1103,30 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:AMBA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:abbd7167ab866:0",
+      "title": "UBS maintains Groupe Dynamite at Buy, lowers price target to $83 from $112",
+      "url": "https://www.tradingview.com/news/tradingview:abbd7167ab866:0-ubs-maintains-groupe-dynamite-at-buy-lowers-price-target-to-83-from-112/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:09+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:GRGD"
         ]
       }
     },
@@ -762,6 +1806,30 @@
       }
     },
     {
+      "id": "tradingview:tradingview:ead74dd4340ce:0",
+      "title": "IQM Quantum Computers Plc (IQMX) Receives €8M–€10M Order",
+      "url": "https://www.tradingview.com/news/tradingview:ead74dd4340ce:0-iqm-quantum-computers-plc-iqmx-receives-8m-10m-order/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:30:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.431527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXHEX:IQMX"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tradingview:76b1db8cdd5f2:0",
       "title": "Keybanc maintains Symbotic at Overweight, lowers price target to $58 from $70",
       "url": "https://www.tradingview.com/news/tradingview:76b1db8cdd5f2:0-keybanc-maintains-symbotic-at-overweight-lowers-price-target-to-58-from-70/",
@@ -1218,6 +2286,25 @@
           "HKEX:8527"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/the-next-big-healthcare-revolution-is-already-here-this-stock-could-cash-in/?.tsrc=rss",
+      "title": "The Next Big Healthcare Revolution Is Already Here. This Stock Could Cash In.",
+      "url": "https://www.fool.com/investing/2026/11/25/the-next-big-healthcare-revolution-is-already-here-this-stock-could-cash-in/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Quest Diagnostics runs the labs behind some of the hottest consumer health brands.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:27:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.625140+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6368Ea:0",
@@ -2438,6 +3525,25 @@
       }
     },
     {
+      "id": "yahoo:https://www.cryptoprowl.com/releases/arthur-hayes-predicts-ai-crash-will-trigger-bailout-and-bitcoin-boom-but-not-yet-8071?.tsrc=rss",
+      "title": "Arthur Hayes Predicts AI Crash Will Trigger Bailout and Bitcoin Boom, but Not Yet",
+      "url": "https://www.cryptoprowl.com/releases/arthur-hayes-predicts-ai-crash-will-trigger-bailout-and-bitcoin-boom-but-not-yet-8071?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "BitMEX co-founder Arthur Hayes says a crash in artificial intelligence stocks will eventually force governments int...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:16:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.625140+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:seekingalpha:e428f586c094b:0",
       "title": "Mid-cap healthcare stocks ranked by quant ratings after earnings season",
       "url": "https://seekingalpha.com/news/4676042-mid-cap-healthcare-stocks-ranked-by-quant-ratings-after-earnings-season?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
@@ -3386,6 +4492,25 @@
       "published_at": "2026-11-25T23:08:40+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T23:25:21.578593+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/articles/allstate-suffers-multi-day-tech-150837653.html?.tsrc=rss",
+      "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
+      "url": "https://finance.yahoo.com/technology/articles/allstate-suffers-multi-day-tech-150837653.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:08:37+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:12.625140+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -74394,6 +75519,25 @@
       "extra": {}
     },
     {
+      "id": "msn:9fc944b5a086bcd6897a1c5e238a5dd423f10e8a",
+      "title": "Stock Market Today: Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fff472de4568ab33cef75b6ca02d&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T15:09:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:14.298104+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760C2:0",
       "title": "Dollar rallies before key inflation reading; Aussie and sterling slump",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760C2:0-dollar-rallies-before-key-inflation-reading-aussie-and-sterling-slump/",
@@ -85882,6 +87026,25 @@
       "extra": {}
     },
     {
+      "id": "msn:1803810a342705a153ba65df1f086230c81fe8a2",
+      "title": "Stock Market Today: Futures Plunge as AI Rout Resumes; Nvidia Leads Chip Stocks Lower ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fff472de4568ab33cef75b6ca02d&url=https%3a%2f%2fwww.investopedia.com%2fstock-market-today-dow-jones-s-and-p-500-nasdaq-11252026-12279355&c=14548726542868548574&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stocks are under pressure again Wednesday morning as the volatility that has gripped the AI trade in recent weeks intensifies.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:14.298104+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N476080:0",
       "title": "Palm oil falls on weaker soyoil, crude; Dalian gains limit losses",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N476080:0-palm-oil-falls-on-weaker-soyoil-crude-dalian-gains-limit-losses/",
@@ -86932,6 +88095,25 @@
       "published_at": "2026-11-25T13:15:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T23:28:14.237125+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:94f703a29664ec556c2e1441686f2e6af810b20c",
+      "title": "Gear Up for HealthEquity (HQY) Q3 Earnings: Wall Street Estimates for Key Metrics",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fff45c7b45ea9d020728c5769200&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fgear-healthequity-hqy-q3-earnings-131503463.html&c=3565351001565800331&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Looking beyond Wall Street's top-and-bottom-line estimate forecasts for HealthEquity (HQY), delve into some of its key metrics to gain a deeper insight into the company's potential performance for the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:15:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:14.298104+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -97467,6 +98649,25 @@
       "published_at": "2026-11-25T09:14:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T23:28:14.237125+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:99cb0fb5a9341702ed97b47875176414e1b32fb5",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq sink on hot inflation, new Trump tariffs as chip ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fff472de4568ab33cef75b6ca02d&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2flive%2fstock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html&c=12116861693774392603&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The Dow Jones Industrial Average ( ^DJI) dropped 2%, while the S&P 500 ( ^GSPC) sank 2.7%. The tech-heavy Nasdaq Composite ( ^IXIC) tumbled 4.1% as Wall Street's anxiety over inflation and the AI ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:14:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:14.298104+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -110865,6 +112066,25 @@
       "extra": {}
     },
     {
+      "id": "msn:8397a0a8ff87c0bb3ae57b02cb1f0878fc345438",
+      "title": "Stock Market News From Nov. 24, 2026: AI Stocks Sink. The Rest of the Market Is Doing Just ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fff472de4568ab33cef75b6ca02d&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today-112426&c=16104040240120877104&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Dow, Nasdaq, and S&P 500 futures are falling in premarket trading as the stock market rally sparked by Jensen Huang's Nvidia return fades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:39:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:14.298104+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:b3e533b215059019733b3084f955c26e609e0363",
       "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b064d9a6cb74171970c0fae23d59d9e&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
@@ -115020,6 +116240,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T23:31:13.818569+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:255132551ed9bbd136b8d1068ccfc1f629ee527d",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fff472de4568ab33cef75b6ca02d&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:34:14.298104+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
