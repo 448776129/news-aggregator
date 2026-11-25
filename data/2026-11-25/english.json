@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T22:07:28.357759+08:00",
-  "count": 4349,
+  "generated_at": "2026-11-25T22:11:28.771793+08:00",
+  "count": 4374,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 7,
+      "count": 6,
       "error": ""
     },
     {
@@ -38,6 +38,411 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760P6:0",
+      "title": "Vivakor's Q3 revenue surges on crude oil trading expansion",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760P6:0-vivakor-s-q3-revenue-surges-on-crude-oil-trading-expansion/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:09:53+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:VIVK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4819047:0",
+      "title": "The Gunma Bank: Higher H1 earnings and upgraded guidance meet deposit and securities risks",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4819047:0-the-gunma-bank-higher-h1-earnings-and-upgraded-guidance-meet-deposit-and-securities-risks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:09:51+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSE:8334"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761O1:0",
+      "title": "ACME Solar Says ACME Sigma Urja Commissions Discharge Capacity Of 17.91 MW / 74.323 Mwh",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761O1:0-acme-solar-says-acme-sigma-urja-commissions-discharge-capacity-of-17-91-mw-74-323-mwh/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:09:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:ACMESOLAR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004216:0",
+      "title": "Comex Gold Delivery Intentions Breakdown - Nov 25",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004216:0-comex-gold-delivery-intentions-breakdown-nov-25/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:09:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004217:0",
+      "title": "MGM Resorts to Receive $200 Million Special Dividend From MGM China",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004217:0-mgm-resorts-to-receive-200-million-special-dividend-from-mgm-china/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:09:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:MGM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6881Ea:0",
+      "title": "REG - Bank of Nova Scotia Intertek Group Plc - Form 8.3 - Intertek",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6881Ea:0-reg-bank-of-nova-scotia-intertek-group-plc-form-8-3-intertek/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:09:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:ITRK",
+          "TSX:BNS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:2cfbb3378da84:0",
+      "title": "Piper Sandler maintains Nutanix at Overweight, lowers price target to $67 from $75",
+      "url": "https://www.tradingview.com/news/tradingview:2cfbb3378da84:0-piper-sandler-maintains-nutanix-at-overweight-lowers-price-target-to-67-from-75/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:08:36+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NTNX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761O0:0",
+      "title": "Allcargo Global Says October LCL Volume Down 3% Year-On-Year",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761O0:0-allcargo-global-says-october-lcl-volume-down-3-year-on-year/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:08:20+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:AGL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:f437f7eba6fa1:0",
+      "title": "U.S. Durable Goods Orders Rise Less Than Expected In October",
+      "url": "https://www.tradingview.com/news/dpa_afx:f437f7eba6fa1:0-u-s-durable-goods-orders-rise-less-than-expected-in-october/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:08:20+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47612Z:0",
+      "title": "Baltic index reaches nearly two-month high as rates rise across vessel categories",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47612Z:0-baltic-index-reaches-nearly-two-month-high-as-rates-rise-across-vessel-categories/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:07:53+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "INDEX:BDI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761NW:0",
+      "title": "Regency Fincorp To Consider Issuance Of Non-Convertible Debentures On Private Placement",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761NW:0-regency-fincorp-to-consider-issuance-of-non-convertible-debentures-on-private-placement/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:07:50+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BSE:REGENCY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4819074:0",
+      "title": "ELN: 9M growth and margin gains underpin 2026 guidance for €90m EBIT",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4819074:0-eln-9m-growth-and-margin-gains-underpin-2026-guidance-for-90m-ebit/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:07:45+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MIL:ELN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:26562fc2f4227:0",
+      "title": "Wells Fargo maintains Analog Devices at Overweight, lowers price target to $420 from $500",
+      "url": "https://www.tradingview.com/news/tradingview:26562fc2f4227:0-wells-fargo-maintains-analog-devices-at-overweight-lowers-price-target-to-420-from-500/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:07:30+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ADI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761Q3:0",
+      "title": "Vibhor Steel Tubes Receives Employee Complaint From Deputy Commissioner Of Labour, Raigad",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761Q3:0-vibhor-steel-tubes-receives-employee-complaint-from-deputy-commissioner-of-labour-raigad/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:07:22+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:VSTL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:5bc2323eeb307:0",
+      "title": "Piper Sandler maintains Dell Technologies at Overweight, lowers price target to $555 from $558",
+      "url": "https://www.tradingview.com/news/tradingview:5bc2323eeb307:0-piper-sandler-maintains-dell-technologies-at-overweight-lowers-price-target-to-555-from-558/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:07:10+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DELL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:325f671ab4a45:0",
+      "title": "Goodyear Eagle F1 Tires Win Multiple Honors at Prestigious 2026 CATARC Top 10 Tire Awards",
+      "url": "https://www.tradingview.com/news/prnewswire:325f671ab4a45:0-goodyear-eagle-f1-tires-win-multiple-honors-at-prestigious-2026-catarc-top-10-tire-awards/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:07:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:GT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004199:0",
+      "title": "U.S., European High-Yield Debt Defaults Expected to Rise in 2027 — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004199:0-u-s-european-high-yield-debt-defaults-expected-to-rise-in-2027-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:07:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6879Ea:0",
       "title": "REG - Trifast PLC - Director/PDMR Shareholding",
@@ -83,6 +488,54 @@
         "urgency": 2,
         "symbols": [
           "NSE:RATEGAIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761OO:0",
+      "title": "Chinese AI Model Development Faces Severe Delays, Widening Gap With US - The Information",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761OO:0-chinese-ai-model-development-faces-severe-delays-widening-gap-with-us-the-information/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:06:53+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4819038:0",
+      "title": "OMSE: Margin gains and record cash cushion lower revenue as Saudi call-offs slow",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4819038:0-omse-margin-gains-and-record-cash-cushion-lower-revenue-as-saudi-call-offs-slow/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T22:06:53+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:14.327056+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:OMSE"
         ]
       }
     },
@@ -70705,6 +71158,25 @@
       }
     },
     {
+      "id": "msn:067623cbd1495c6111ad130b3c75322fef114bd4",
+      "title": "Stock Market Today: Dow Dives On Surprise Inflation Data; Nvidia, Anthropic Plunge (Live Coverage)",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ec46c14d4b3b90457e79142c027a&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fstock-market-today-dow-dives-on-surprise-inflation-data-nvidia-anthropic-plunge-live-coverage%2far-AA2icpnU&c=15605509054138719502&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The Dow Jones index dives 675 points Wednesday on surprise inflation data. Nvidia and Anthropic plunge.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:39:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:16.386854+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N47609B:0",
       "title": "Vietnam raises $198 million in government bond auction",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47609B:0-vietnam-raises-198-million-in-government-bond-auction/",
@@ -71197,6 +71669,25 @@
       "published_at": "2026-11-25T13:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T22:07:26.429641+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:657b306fc33e871fdebfc4cb02199ab77280ef70",
+      "title": "Stock Market Today: Futures Plunge as AI Rout Resumes; Nvidia Leads Chip Stocks Lower ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ec46c14d4b3b90457e79142c027a&url=https%3a%2f%2fwww.investopedia.com%2fstock-market-today-dow-jones-s-and-p-500-nasdaq-11252026-12279355&c=14548726542868548574&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stocks are under pressure again Wednesday morning as the volatility that has gripped the AI trade in recent weeks intensifies.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:16.386854+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -71900,6 +72391,25 @@
       "published_at": "2026-11-25T13:19:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T22:07:26.429641+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:9ede3217a139e82ef9a7349346890d5b39eeb81e",
+      "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ec46c14d4b3b90457e79142c027a&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:19:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:16.386854+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -76505,6 +77015,25 @@
       "published_at": "2026-11-25T11:49:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T22:01:15.943010+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:69e61f0596183880489466d57c640c20c513d49f",
+      "title": "Ten undervalued energy stocks after Q3 earnings, led by Par Pacific",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ec46c7b24747b5293df15b67bdfc&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4676519-ten-undervalued-energy-stocks-after-q3-earnings-led-by-par-pacific&c=2722455980253807025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Seeking Alpha's screen names 10 undervalued energy stocks, led by Par Pacific with an A+ valuation grade; four others earn A grades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:16.386854+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -86249,6 +86778,25 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T22:04:15.283968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:cae2855ae6a61599aabda0ceffbda54d7f5ee3ce",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ec46c7b24747b5293df15b67bdfc&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:16.386854+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -98251,6 +98799,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T22:04:15.283968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:89ba07fab9aa33747d9b6e20aa8ff6de56d90488",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06ec46c14d4b3b90457e79142c027a&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T22:10:16.386854+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
