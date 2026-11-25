@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T20:37:19.158263+08:00",
-  "count": 3467,
+  "generated_at": "2026-11-25T20:40:13.544981+08:00",
+  "count": 3501,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 0,
+      "count": 50,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 7,
       "error": ""
     },
     {
@@ -38,6 +38,539 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760OT:0",
+      "title": "Air India, Air India Express to work more closely to cut costs, sources say",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760OT:0-air-india-air-india-express-to-work-more-closely-to-cut-costs-sources-say/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:39:43+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TATATECH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6757Ea:0",
+      "title": "REG - Nomura Intl. PLC Gamma Communications - Form 8.3 - GAMMA COMMUNICATIONS PLC",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6757Ea:0-reg-nomura-intl-plc-gamma-communications-form-8-3-gamma-communications-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:39:18+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:GAMA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003171:0",
+      "title": "Bristol Myers Squibb Posts Mixed Phase 3 Lupus Results for Sotyktu",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003171:0-bristol-myers-squibb-posts-mixed-phase-3-lupus-results-for-sotyktu/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:39:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BMY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003172:0",
+      "title": "Deere 4Q Profit Falls as Large Agricultural Equipment Sales Decline — Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003172:0-deere-4q-profit-falls-as-large-agricultural-equipment-sales-decline-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:39:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760KQ:0",
+      "title": "Ingles Markets Q4 profit falls as higher costs weigh",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760KQ:0-ingles-markets-q4-profit-falls-as-higher-costs-weigh/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:39:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:IMKTA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N47613H:0",
+      "title": "Germany's Uniper to invest $131 million in Bierwang gas cavern",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N47613H:0-germany-s-uniper-to-invest-131-million-in-bierwang-gas-cavern/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:38:49+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:UN0"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3977088:0",
+      "title": "IMKTA: FY gains and stronger gross margin contrasted with lower Q4 earnings",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3977088:0-imkta-fy-gains-and-stronger-gross-margin-contrasted-with-lower-q4-earnings/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:38:19+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:IMKTA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4760X3:0",
+      "title": "Netum Appoints Laura Leinonen As CFO",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4760X3:0-netum-appoints-laura-leinonen-as-cfo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:37:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXHEX:NETUM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6748Ea:0",
+      "title": "REG - Seneca Growth Cap. Seneca Growth-SVCT - Second Interim Dividend on B Shares",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6748Ea:0-reg-seneca-growth-cap-seneca-growth-svct-second-interim-dividend-on-b-shares/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:37:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:HYG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:8eec82364fdcb:0",
+      "title": "Morning Market Movers: DKI, AMBA, BNAI, APUS, JAGX See Big Swings",
+      "url": "https://www.tradingview.com/news/dpa_afx:8eec82364fdcb:0-morning-market-movers-dki-amba-bnai-apus-jagx-see-big-swings/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:37:23+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA",
+          "NASDAQ:URBN",
+          "NASDAQ:NTNX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4816516:0",
+      "title": "NRR: Earnings, rents and values grew as acquisitions temporarily lifted LTV above guidance",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4816516:0-nrr-earnings-rents-and-values-grew-as-acquisitions-temporarily-lifted-ltv-above-guidance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:37:20+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:NRR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:97441bd94dcc8:0",
+      "title": "Cantor Fitzgerald maintains Burlington Stores at Neutral, lowers price target to $269 from $270",
+      "url": "https://www.tradingview.com/news/tradingview:97441bd94dcc8:0-cantor-fitzgerald-maintains-burlington-stores-at-neutral-lowers-price-target-to-269-from-270/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:36:50+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BURL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6750Ea:0",
+      "title": "REG - L&G – Asset Mgmt. Ld Tate & Lyle PLC - Form 8.3 - Tate & Lyle plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6750Ea:0-reg-l-g-asset-mgmt-ld-tate-lyle-plc-form-8-3-tate-lyle-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:36:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TATE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6752Ea:0",
+      "title": "REG - Squarepoint Ops LLC Bodycote PLC - Form 8.3 - Bodycote PLC",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6752Ea:0-reg-squarepoint-ops-llc-bodycote-plc-form-8-3-bodycote-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:36:43+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:BOY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6751Ea:0",
+      "title": "REG - F&C Investment Trust - Director/PDMR Shareholding",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6751Ea:0-reg-f-c-investment-trust-director-pdmr-shareholding/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:36:26+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:FCIT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:0df8688d0094b:0",
+      "title": "Nasdaq futures plunge nearly 3% as AI trade comes under pressure; gold extends decline",
+      "url": "https://www.tradingview.com/news/cnbctv:0df8688d0094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:36:22+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NDX",
+          "TVC:UKOIL",
+          "NYMEX:CL1!",
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:615f35585094b:0",
+      "title": "Bristol Myers announces mixed outcomes in late-stage program for Sotyktu in SLE",
+      "url": "https://seekingalpha.com/news/4676542-bristol-myers-posts-mixed-trial-outcomes-sle-drug?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:35:58+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BMY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6749Ea:0",
+      "title": "REG - L&G – Asset Mgmt. Ld SEGRO PLC - Form 8.3 - SEGRO plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6749Ea:0-reg-l-g-asset-mgmt-ld-segro-plc-form-8-3-segro-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:35:57+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:SGRO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stockstory:8edaeeed0094b:0",
+      "title": "Deere’s Q3 CY2026 earnings results: Revenue in line with expectations",
+      "url": "https://stockstory.org/us/stocks/nyse/de/news/earnings/deeres-q3-cy2026-earnings-results-revenue-in-line-with-expectations",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stock Story",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:35:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUA1YYQYQ:0",
+      "title": "Stallion Uranium Announces Private Placement of Up to $4 Million to Fund Athabasca Basin Exploration",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA1YYQYQ:0-stallion-uranium-announces-private-placement-of-up-to-4-million-to-fund-athabasca-basin-exploration/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:35:25+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:STUD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6745Ea:0",
+      "title": "REG - Empire Metals Ltd - Prospectus Lodged with ASIC and ASX",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6745Ea:0-reg-empire-metals-ltd-prospectus-lodged-with-asic-and-asx/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:35:10+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:EEE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:business_wire:f138f17187e67:0",
+      "title": "Smurfit Westrock plc Form 8-K",
+      "url": "https://www.tradingview.com/news/business_wire:f138f17187e67:0-smurfit-westrock-plc-form-8-k/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:35:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:SW"
+        ]
+      }
+    },
     {
       "id": "alpaca:130409189",
       "title": "BNP Paribas Adjusts Price Target on Kimberly-Clark to $116 From $112",
@@ -83,6 +616,30 @@
         "source": "fiscal.ai",
         "symbols": [
           "AMTM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUA8SVYJR:0",
+      "title": "Beyond Oil Receives Initial $75,000 Container Order From Netherlands Partner Fryflow",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA8SVYJR:0-beyond-oil-receives-initial-75-000-container-order-from-netherlands-partner-fryflow/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:34:09+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:BOIL"
         ]
       }
     },
@@ -379,6 +936,30 @@
         "urgency": 2,
         "symbols": [
           "NYSE:DFIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:cf15ca2251096:0",
+      "title": "VVT Med Inc. (VVTM) Reports $18K Cash and $1.81M Working Capital Deficiency",
+      "url": "https://www.tradingview.com/news/tradingview:cf15ca2251096:0-vvt-med-inc-vvtm-reports-18k-cash-and-1-81m-working-capital-deficiency/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:33:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:VVTM"
         ]
       }
     },
@@ -791,6 +1372,30 @@
       }
     },
     {
+      "id": "tradingview:tradingview:d023181b0d5dd:0",
+      "title": "Cantor Fitzgerald maintains Dick's Sporting Goods at Neutral, raises price target to $151 from $146",
+      "url": "https://www.tradingview.com/news/tradingview:d023181b0d5dd:0-cantor-fitzgerald-maintains-dick-s-sporting-goods-at-neutral-raises-price-target-to-151-from-146/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:32:18+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DKS"
+        ]
+      }
+    },
+    {
       "id": "alpaca:130408199",
       "title": "Nutanix CEO Rajiv Ramaswami to Step Down",
       "url": "https://www.streetinsider.com/Globe+Newswire?before_id=27001169",
@@ -931,6 +1536,34 @@
         "source": "fiscal.ai",
         "symbols": [
           "NXE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:4b7b4da31094b:0",
+      "title": "Five materials stocks with attractive valuations following Q3 earnings",
+      "url": "https://seekingalpha.com/news/4676526-five-materials-stocks-with-attractive-valuations-following-q3-earnings?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:32:09+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CENX",
+          "NYSE:LYB",
+          "NYSE:AA",
+          "NYSE:AU",
+          "NYSE:IP"
         ]
       }
     },
@@ -1556,6 +2189,28 @@
         "symbols": [
           "HKEX:2288"
         ]
+      }
+    },
+    {
+      "id": "tradingview:newsbtc:71d841e95094b:0",
+      "title": "HyroTrader Adds Hyro Core From $9 and No-Evaluation Hyro Instant to Rebuilt Crypto Prop Platform",
+      "url": "https://www.newsbtc.com/news/hyrotrader-adds-hyro-core-from-9-and-no-evaluation-hyro-instant-to-rebuilt-crypto-prop-platform-2/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "NewsBTC",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:31:10+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:09.749077+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -56725,6 +57380,25 @@
       }
     },
     {
+      "id": "msn:e0d7ed0c349633ce656492b644ee4d5a909ff407",
+      "title": "Celestica: Nine Times Next Year's Earnings Is Cheap",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d72a2c5b41d8a0be2358f2c6e118&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4971827-celestica-nine-times-next-years-earnings-is-cheap&c=757309997248780644&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "(CLS) stock is a buy with a 12-month $258 target at 12x 2027 EPS of $21.50; shares trade at 9.4x, with cash-use risks.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:23:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:12.039442+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_P8N46N03U:0",
       "title": "Japan not considering issuing new deficit-financing bonds for extra budget, TBS says",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46N03U:0-japan-not-considering-issuing-new-deficit-financing-bonds-for-extra-budget-tbs-says/",
@@ -56978,6 +57652,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "msn:57a192d8972e0b6737740641a0629e0d076ef292",
+      "title": "Southern (SO) Stock Looks About Right On Current Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d72a2c5b41d8a0be2358f2c6e118&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fsouthern-stock-looks-current-earnings-121406821.html&c=10189680166814319307&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Southern has delivered steady gains for long term holders. With fresh spending plans and funding moves in the headlines, the live question is whether the current share price is still supported by its ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:14:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:12.039442+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N47609Y:0",
@@ -58129,6 +58822,44 @@
       "published_at": "2026-11-25T11:49:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T20:37:15.961393+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:8ee98263570c23b8ce7538f1184a39e884ec1b12",
+      "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d72a37f24c798c49edf0f6f324d7&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:12.039442+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:038ab4069afb609aac580f85992a08e427c84699",
+      "title": "Ten undervalued energy stocks after Q3 earnings, led by Par Pacific",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d72a2c5b41d8a0be2358f2c6e118&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4676519-ten-undervalued-energy-stocks-after-q3-earnings-led-by-par-pacific&c=2722455980253807025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Seeking Alpha's screen names 10 undervalued energy stocks, led by Par Pacific with an A+ valuation grade; four others earn A grades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:12.039442+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -63107,6 +63838,25 @@
       "extra": {}
     },
     {
+      "id": "msn:8b66f9043ba4eabf99b53c79da8c542f52be79f9",
+      "title": "Del Monte (DMC) Stock May Trade At A Discount To Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d72a2c5b41d8a0be2358f2c6e118&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fdel-monte-dmc-stock-may-090835196.html&c=778897497562070235&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Del Monte shares have fallen sharply this year, and the slide is prompting a basic question for anyone looking at the stock today: Is the current price in line with what the company is actually ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:08:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:12.039442+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.fool.com/investing/2026/11/24/what-a-usd5-000-investment-in-shopify-stock-today-could-grow-into-by-2030/?.tsrc=rss",
       "title": "What a $5,000 Investment in Shopify Stock Today Could Grow Into by 2030",
       "url": "https://www.fool.com/investing/2026/11/24/what-a-usd5-000-investment-in-shopify-stock-today-could-grow-into-by-2030/?.tsrc=rss",
@@ -66714,6 +67464,25 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T20:37:15.961393+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:fd318cbbd6e20079187fa1bfb5e8337d00b56566",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d72a2c5b41d8a0be2358f2c6e118&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:12.039442+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -78013,6 +78782,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T20:37:15.961393+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:19da97a5c88b2c3217a7284a44f502ca2a85412b",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d72a37f24c798c49edf0f6f324d7&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:40:12.039442+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
