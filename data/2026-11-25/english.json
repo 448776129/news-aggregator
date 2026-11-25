@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T19:46:19.523319+08:00",
-  "count": 3069,
+  "generated_at": "2026-11-25T19:49:14.286733+08:00",
+  "count": 3086,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 7,
+      "count": 5,
       "error": ""
     },
     {
@@ -38,6 +38,148 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6587Ea:0",
+      "title": "REG - Finseta PLC - Result of General Meeting",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6587Ea:0-reg-finseta-plc-result-of-general-meeting/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:47:55+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:49:11.557701+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:FIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002764:0",
+      "title": "AXA's Revenue Growth Plan Signals Strategy Change — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002764:0-axa-s-revenue-growth-plan-signals-strategy-change-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:47:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:49:11.557701+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:CS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002767:0",
+      "title": "World Trade Flows Surge as AI Boost Overwhelms Barriers — Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002767:0-world-trade-flows-surge-as-ai-boost-overwhelms-barriers-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:47:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:49:11.557701+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002758:0",
+      "title": "All-In Yields in Emerging-Market Debt Seen as Attractive — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002758:0-all-in-yields-in-emerging-market-debt-seen-as-attractive-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:46:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:49:11.557701+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002762:0",
+      "title": "Nasdaq-100 Erases Jensen Bounce — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002762:0-nasdaq-100-erases-jensen-bounce-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:46:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:49:11.557701+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NDX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:5f68ad16d30d1:0",
+      "title": "Tradr to Launch Six New Leveraged ETFs",
+      "url": "https://www.tradingview.com/news/prnewswire:5f68ad16d30d1:0-tradr-to-launch-six-new-leveraged-etfs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:46:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:49:11.557701+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:VLO",
+          "NASDAQ:FCEL",
+          "NASDAQ:MRVL"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760IS:0",
       "title": "Chicago grains ease as risk-off mood weighs",
@@ -187,6 +329,30 @@
       }
     },
     {
+      "id": "tradingview:tradingview:ae819543f90e2:0",
+      "title": "Needham maintains Ambarella at Buy, sets price target at $45",
+      "url": "https://www.tradingview.com/news/tradingview:ae819543f90e2:0-needham-maintains-ambarella-at-buy-sets-price-target-at-45/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:44:48+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:49:11.557701+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMBA"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4760WZ:0",
       "title": "Apator Unit Metrix Fined PLN 23.07 Million In Antitrust Proceedings By Polish Office Of Competition And Consumer Protection (UOKIK)",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4760WZ:0-apator-unit-metrix-fined-pln-23-07-million-in-antitrust-proceedings-by-polish-office-of-competition-and-consumer-protection-uokik/",
@@ -253,6 +419,31 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:URBN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cryptobriefing:42b1979bb094b:0",
+      "title": "Gold loses its safe-haven edge over Bitcoin as the Fed turns hawkish",
+      "url": "https://cryptobriefing.com/gold-loses-safe-haven-edge-bitcoin-fed/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:43:06+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:49:11.557701+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD",
+          "BITSTAMP:BTCUSD"
         ]
       }
     },
@@ -1765,6 +1956,25 @@
       }
     },
     {
+      "id": "yahoo:https://www.trefis.com/stock/crwv/articles/627489/coreweave-stock-at-43-what-if-it-just-stops-building/2026-11-25?.tsrc=rss",
+      "title": "CoreWeave Stock At $43: What If It Just Stops Building?",
+      "url": "https://www.trefis.com/stock/crwv/articles/627489/coreweave-stock-at-43-what-if-it-just-stops-building/2026-11-25?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:31:52+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:49:11.584455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:b1c150787ddae:0",
       "title": "BTIG maintains Workday at Neutral",
       "url": "https://www.tradingview.com/news/tradingview:b1c150787ddae:0-btig-maintains-workday-at-neutral/",
@@ -2646,6 +2856,25 @@
       }
     },
     {
+      "id": "yahoo:https://www.trefis.com/stock/tsla/articles/628207/is-elon-musk-more-systemically-important-than-jensen-huang/2026-11-25?.tsrc=rss",
+      "title": "Is Elon Musk More Systemically Important Than Jensen Huang?",
+      "url": "https://www.trefis.com/stock/tsla/articles/628207/is-elon-musk-more-systemically-important-than-jensen-huang/2026-11-25?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:27:22+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:49:11.584455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6540Ea:0",
       "title": "REG - BkofA Merrill Lynch Irish Res Prop REIT - 20261124_Irish Residential_38.5 (b)_IE_BOFASE",
       "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6540Ea:0-reg-bkofa-merrill-lynch-irish-res-prop-reit-20261124_irish-residential_38-5-b-_ie_bofase/",
@@ -2890,6 +3119,25 @@
       }
     },
     {
+      "id": "yahoo:https://www.trefis.com/stock/nvda/articles/628206/can-congress-rein-in-jensen-huang-and-elon-musk-3-rules-the-constitution-allows/2026-11-25?.tsrc=rss",
+      "title": "Can Congress Rein In Jensen Huang And Elon Musk? 3 Rules The Constitution Allows",
+      "url": "https://www.trefis.com/stock/nvda/articles/628206/can-congress-rein-in-jensen-huang-and-elon-musk-3-rules-the-constitution-allows/2026-11-25?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:25:18+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:49:11.584455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6536Ea:0",
       "title": "REG - BkofA Merrill Lynch easyJet PLC - 20261124_EASYJET PLC_8.3_UK_BAC",
       "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6536Ea:0-reg-bkofa-merrill-lynch-easyjet-plc-20261124_easyjet-plc_8-3_uk_bac/",
@@ -3034,6 +3282,25 @@
           "PRIVATE:PHONEPE"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.trefis.com/stock/nvda/articles/628686/buy-sell-or-hold-nvidia-stock-after-a-31-5-day/2026-11-25?.tsrc=rss",
+      "title": "Buy, Sell Or Hold Nvidia Stock After A 31.5% Day?",
+      "url": "https://www.trefis.com/stock/nvda/articles/628686/buy-sell-or-hold-nvidia-stock-after-a-31-5-day/2026-11-25?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T19:23:14+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:49:11.584455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261125002623:0",
@@ -50878,6 +51145,25 @@
       "extra": {}
     },
     {
+      "id": "msn:5e53f5ec127a5f3351281a5be2347871632a6077",
+      "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06cb37d126429aa827d00909faf4ec&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:34:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:49:13.291382+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:cnbctv:1f60732ca094b:0",
       "title": "Shadowfax Tech shares in focus on WeFast acquisition to enter intra-city logistics market",
       "url": "https://www.tradingview.com/news/cnbctv:1f60732ca094b:0/",
@@ -58263,6 +58549,44 @@
       "extra": {}
     },
     {
+      "id": "msn:e4ff02f88b8fa8f229e693e4b69a4b70db66325b",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to slump as investors await PCE inflation ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06cb37d126429aa827d00909faf4ec&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia&c=9558319776707145456&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Wednesday here ahead of October's personal consumption expenditures price index.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:49:13.291382+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:31e1cf50bdd99859cc1b54b7c9edb9739d7875e4",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06cb373cbb424cb01335e0886c9e63&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:49:13.291382+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:69d0af11a288ba114dbf4c01f229aef05a9d4698",
       "title": "Stock Market Live Updates: Sensex sheds 800 pts from day’s high, Nifty holds 25,650 ...",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069d83c3a14cd8b29e8d5f1f91f20d&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026%2fliveblog%2f136145716.cms&c=2500710713444335276&mkt=en-us",
@@ -58941,6 +59265,25 @@
       "published_at": "2026-11-25T08:15:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T19:46:17.657713+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:56c58036a31bcc6a097e3ca4d994a4dbfdc03e0b",
+      "title": "Visible Alpha Breakdown Of U.S. Airlines' Q4 2026 Earnings Expectations",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06cb373cbb424cb01335e0886c9e63&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4971756-visible-alpha-breakdown-of-us-airlines-q4-2026-earnings-expectations&c=318486121220102849&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Visible Alpha consensus shows US airlines are heading into Q4 2026 with strong top-line growth expectations, supported by continued capacity expansion, higher passenger traffic, and robust revenue per ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:15:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:49:13.291382+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -69024,6 +69367,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T19:40:12.010174+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d737cf3f5ef978f80eb255e8e15b9b37398e5fad",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06cb37d126429aa827d00909faf4ec&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T19:49:13.291382+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
