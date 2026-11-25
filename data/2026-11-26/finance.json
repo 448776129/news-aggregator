@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:52:19.991499+08:00",
-  "count": 74,
+  "generated_at": "2026-11-26T00:55:10.889492+08:00",
+  "count": 75,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 8,
+      "count": 9,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvz4073559.shtml",
+      "title": "德银：市场避险情绪再度回归",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvz4073559.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "此前一轮行情过去没多久，投资者就再度变得谨慎。 标普 500 指数与纳斯达克综合指数周二收盘便已出现回落，而周三交易时段，两大指数进一步扩大跌幅。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:53:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:55:09.631472+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvz4072939.shtml",
       "title": "道指大跌700点、纳指下挫4%，英伟达带动AI板块再度遭抛售",
