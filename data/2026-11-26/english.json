@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:04:25.789065+08:00",
-  "count": 24,
+  "generated_at": "2026-11-26T00:07:16.149136+08:00",
+  "count": 41,
   "sources": [
     {
       "name": "alpaca",
@@ -27,17 +27,408 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 22,
+      "count": 37,
       "error": ""
     },
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47611G:0",
+      "title": "Anthropic's slide tests Wall Street's lofty bets on future AI profits",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47611G:0-anthropic-s-slide-tests-wall-street-s-lofty-bets-on-future-ai-profits/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:06:27+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:07:13.026948+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ANT",
+          "NASDAQ:NDX",
+          "NASDAQ:NVDA",
+          "NASDAQ:MRVL",
+          "NASDAQ:LITE",
+          "NASDAQ:FTNT",
+          "NASDAQ:PANW",
+          "NASDAQ:SNDK",
+          "NASDAQ:INTU",
+          "NASDAQ:ADI",
+          "NASDAQ:CRWV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761RR:0",
+      "title": "Sniezka Q3 Net Profit 35.8 Million Zlotys",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761RR:0-sniezka-q3-net-profit-35-8-million-zlotys/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:06:15+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:07:13.026948+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:SKA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:business_wire:b0a619a7389b6:0",
+      "title": "JSB Financial Inc. Appoints Sandra M. Murphy to Board of Directors",
+      "url": "https://www.tradingview.com/news/business_wire:b0a619a7389b6:0-jsb-financial-inc-appoints-sandra-m-murphy-to-board-of-directors/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:06:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:07:13.026948+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUA657DF6:0",
+      "title": "Bionexus Authorizes $2 Million Share Repurchase Program",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA657DF6:0-bionexus-authorizes-2-million-share-repurchase-program/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:05:55+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:07:13.026948+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:BGLC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6982Ea:0",
+      "title": "REG - Autotrader Grp - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6982Ea:0-reg-autotrader-grp-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:05:54+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:07:13.026948+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:AUTO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761RS:0",
+      "title": "Prysmian Receives Notice To Proceed For Greek Island Project Valued Up To €910 Million",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761RS:0-prysmian-receives-notice-to-proceed-for-greek-island-project-valued-up-to-910-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:05:41+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:07:13.026948+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MIL:PRY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6984Ea:0",
+      "title": "REG - Melrose Industries - TR-1: Standard Form-Notification of Major Holdings",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6984Ea:0-reg-melrose-industries-tr-1-standard-form-notification-of-major-holdings/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:05:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:07:13.026948+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:MRO"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/video/tariffs-are-back-as-anthropic-sinks-further-below-its-ipo-price-160524926.html?.tsrc=rss",
+      "title": "Tariffs are back as Anthropic sinks further below its IPO price",
+      "url": "https://finance.yahoo.com/video/tariffs-are-back-as-anthropic-sinks-further-below-its-ipo-price-160524926.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The 8:30 hosts Julie Hyman and Jake Conley, joined on the couch by BD8 Capital Partners CEO and CIO Barbara Doran, tackle the top stories of the day. Including the Trump administration's sweeping new Section 301 tariffs of 20% on China and dozens of other economies, in-line PCE inflation and a third-quarter GDP revision up to 4.3% that keep a December Fed hike in play, Anthropic sliding toward $78 and well below its $83 IPO price, and whether Jensen Huang is the right leader for Nvidia in a new regulatory era.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:05:24+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:07:12.837540+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005233:0",
+      "title": "FTC Finalizes Order Resolving Antitrust Concerns Stemming from Beretta, Ruger Stock Purchase Deal",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005233:0-ftc-finalizes-order-resolving-antitrust-concerns-stemming-from-beretta-ruger-stock-purchase-deal/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:05:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:07:13.026948+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:RGR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6985Ea:0",
+      "title": "REG - City of London IT - Issue of Equity",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6985Ea:0-reg-city-of-london-it-issue-of-equity/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:04:56+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:07:13.026948+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:CTY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005170_20261125005230:0",
+      "title": "FTC: Beretta May Not Hire Director or Enter Financial or Other Relationship With Director if Relationship Would Cause Violation of Fiduciary Duty to Ruger",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005170_20261125005230:0-ftc-beretta-may-not-hire-director-or-enter-financial-or-other-relationship-with-director-if-relationship-would-cause-violation-of-fiduciary-duty-to-ruger/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:04:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:07:13.026948+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:RGR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:baystreet:3ad7148a3094b:0",
+      "title": "Weston, Canadian Tire, Empire at 52-Week High on News",
+      "url": "https://www.baystreet.ca/articles/breakoutstocks/125664/weston-canadian-tire-empire-at-52-week-high-on-news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BayStreet",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:04:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:07:13.026948+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:CTC",
+          "TSX:EMP.A",
+          "TSX:GIL",
+          "TSX:GUD",
+          "TSX:L",
+          "TSX:NWC",
+          "TSX:WN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:d2e81813e094b:0",
+      "title": "Nutanix CEO transition overshadows quarterly beat as analysts flag uncertainty",
+      "url": "https://seekingalpha.com/news/4676609-nutanix-ceo-transition-overshadows-quarterly-beat-as-analysts-flag-uncertainty?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:03:35+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:07:13.026948+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NTNX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:3ba85c15c21d5:0",
+      "title": "Wedbush initiates coverage of IBM at Outperform, sets price target at $276",
+      "url": "https://www.tradingview.com/news/tradingview:3ba85c15c21d5:0-wedbush-initiates-coverage-of-ibm-at-outperform-sets-price-target-at-276/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:03:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:07:13.026948+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:IBM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:68f9a2e43094b:0",
+      "title": "Business uncertainty on revenue growth rises in November",
+      "url": "https://seekingalpha.com/news/4676595-business-uncertainty-on-revenue-growth-rises-in-november?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:03:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:07:13.026948+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4761FU:0",
+      "title": "Doosan Skoda Power Q3 Order Backlog Up 31% y/y to CZK 17 Billion",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4761FU:0-doosan-skoda-power-q3-order-backlog-up-31-y-y-to-czk-17-billion/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:03:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:07:13.026948+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "PSECZ:DSPW"
+        ]
+      }
+    },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/25/why-nvidia-stock-continues-to-fall-after-the-jensen-huang-pop/?.tsrc=rss",
       "title": "Why Nvidia Stock Continues to Fall After the Jensen Huang Pop",
@@ -591,6 +982,28 @@
       "published_at": "2026-11-26T00:00:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T00:04:21.916026+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005185:0",
+      "title": "US To Sell $90 Bln In Reopened 6-Week Bills Tue",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005185:0-us-to-sell-90-bln-in-reopened-6-week-bills-tue/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:07:13.026948+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
