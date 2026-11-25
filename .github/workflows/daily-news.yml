@@ -1,4 +1,4 @@
-name: 新闻抓取与归档（每 5 分钟）
+name: 新闻抓取与归档（每 3 分钟）
 
 on:
   schedule:
@@ -22,7 +22,7 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    # 定时粒度 5 分钟：单次运行限时 5 分钟，避免任务堆积 overlapping。
+    # 3 分钟一轮（由 Cloudflare Worker 触发），单次实测约 20 秒，留足余量。
     timeout-minutes: 5
     steps:
       - name: 检出仓库
@@ -76,3 +76,9 @@ jobs:
           done
           echo "多次推送失败，放弃本轮提交"
           exit 1
+
+      - name: 去重体检（不阻断）
+        continue-on-error: true
+        run: |
+          TODAY=$(TZ=Asia/Shanghai date +%Y-%m-%d)
+          python scripts/check_duplicates.py "$TODAY"

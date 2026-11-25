@@ -8,7 +8,7 @@
 - 接口示例：`https://news.365200.xyz/api/news?date=2026-11-22&category=finance`
 - 原始数据：`https://raw.githubusercontent.com/448776129/news-aggregator/main/data/index.json`
 
-归档日期取新闻站点发布时间，而非采集时间；每 5 分钟采集，重复 id 自动去重。
+归档日期取新闻站点发布时间，而非采集时间；每 3 分钟采集，重复 id 自动去重。
 
 ## 数据源与分类
 
@@ -146,25 +146,44 @@ for item in result["items"]:
 
 1. 把项目推送到 GitHub 仓库。
 2. 在 **Settings → Secrets and variables → Actions** 添加需要的密钥：`JIN10_SECRET_KEY`、`ALPACA_API_KEY`、`ALPACA_SECRET_KEY`、`FINNHUB_API_KEY`、`XUEQIU_COOKIE`（均为可选）。
-3. `daily-news.yml` 每 5 分钟采集一次，实际由 Cloudflare Worker 触发（见下表），GitHub 侧 `schedule` 仅作兜底；也可在 Actions 页面手动触发并指定日期回填。
+3. `daily-news.yml` 每 3 分钟采集一次，实际由 Cloudflare Worker 触发（见下表），GitHub 侧 `schedule` 仅作兜底；也可在 Actions 页面手动触发并指定日期回填。
 4. 仓库需允许 Actions 写入：`Settings → Actions → General → Workflow permissions` 选择 **Read and write permissions**。
 
 ### 定时触发说明（重要）
 
-**GitHub 自身的 cron 不可靠**：本仓库的 `schedule` 实测间隔在 5～12 小时之间（409 / 458 / 726 分钟…），账号下老仓库同样被限流到 48～127 分钟一次，新建仓库甚至连 `schedule` 都不注册。因此 5 分钟采集**不依赖 GitHub cron**。
+**GitHub 自身的 cron 不可靠**：本仓库的 `schedule` 实测间隔在 5～12 小时之间（409 / 458 / 726 分钟…），账号下老仓库同样被限流到 48～127 分钟一次，新建仓库甚至连 `schedule` 都不注册。因此 3 分钟采集**不依赖 GitHub cron**。
 
 实际触发源是 Cloudflare Worker `news-cron-trigger`：
 
 | 项 | 值 |
 | --- | --- |
 | 源码 | `deploy/cloudflare_worker.mjs` |
-| 触发 | Worker cron `*/5 * * * *` → `POST /repos/448776129/news-aggregator/actions/workflows/daily-news.yml/dispatches` |
+| 触发 | Worker cron `*/3 * * * *` → `POST /repos/448776129/news-aggregator/actions/workflows/daily-news.yml/dispatches` |
 | 手动验证 | `GET https://news-cron-trigger.<workers-subdomain>.workers.dev/run`（返回 204 表示已受理） |
 | Worker 密钥 | `DISPATCH_TOKEN`（GitHub PAT，`Actions: write` + `Contents: write`） |
 
 GitHub 侧的 `schedule` 仍保留作为兜底，两边同时触发也不会产生重复数据（按 `id` 去重），并发 push 冲突已由重试 + rebase 兜住。
 
 采集本身按 `id` 去重、按 `published_date` 归档，重复触发不会产生重复数据。
+
+### 入库去重机制
+
+3 分钟一轮意味着同一条新闻会被反复抓取十几次，去重靠三层：
+
+1. **单源内去重**：`BaseCollector.run()` 用 `seen` 集合丢掉同一批里的重复 `id`。
+2. **落库去重**：`storage.merge_items()` 以 `id` 为键合并旧文件与新抓取结果；已存在的 `id` **保留原始记录**，不刷新 `fetched_at`，所以同一条新闻不会被反复改写。
+3. **归档日期过滤**：`save_day()` 丢弃 `published_date` 与目标日期不一致的条目，避免旧闻混进当天文件。
+
+`id` 形如 `<source>:<原始 id>`（`stable_id()` 生成），只依赖数据源的天然主键，不含抓取时间，因此跨轮次稳定。文件内容无变化时 `save_day()` / `rebuild_index()` 直接返回，不产生空提交。
+
+体检脚本（发现重复 id 时返回非 0）：
+
+```bash
+python scripts/check_duplicates.py            # 全量扫描
+python scripts/check_duplicates.py 2026-11-25 # 指定日期
+```
+
+采集 workflow 每轮都会跑一次当日体检（`continue-on-error`，只报告不阻断）。
 
 ## 可调参数
 
