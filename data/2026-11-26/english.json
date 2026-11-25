@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T05:07:22.834830+08:00",
-  "count": 1036,
+  "generated_at": "2026-11-26T05:10:38.942297+08:00",
+  "count": 1044,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,103 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 33,
+      "count": 36,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261125007116:0",
+      "title": "ICE Canada Weekly Outlook: Conflicting Forces Keep Market Sideways",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007116:0-ice-canada-weekly-outlook-conflicting-forces-keep-market-sideways/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:09:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:10:25.022018+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ICEUS:RS1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47614D:0",
+      "title": "Macy's Thanksgiving Day Parade postponed due to storm projections, US media reports",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47614D:0-macy-s-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:07:14+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:10:25.022018+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:M"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/nvidia-put-creditwatch-negative-p-210636240.html?.tsrc=rss",
+      "title": "Nvidia Put on CreditWatch Negative by S&P Global Ratings Amid Governance Concerns",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-put-creditwatch-negative-p-210636240.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia's (NVDA) credit rating could be downgraded by S&P Global Ratings within the next three months",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:06:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:10:24.179074+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762CD:0",
+      "title": "Targa In Talks To Buy Kinetik - Bloomberg News",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762CD:0-targa-in-talks-to-buy-kinetik-bloomberg-news/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:06:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:10:25.022018+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:TRGP",
+          "NYSE:KNTK"
+        ]
+      }
+    },
     {
       "id": "tradingview:business_wire:d18778cc8c8b2:0",
       "title": "AbCellera Announces Presentation of Phase 1/2 Data for ABCL635 at SABCS® 2026",
@@ -540,6 +632,30 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:INVA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cryptobriefing:d1f510d7e094b:0",
+      "title": "Bitcoin reclaims $60,000 as $90M in leveraged shorts get liquidated",
+      "url": "https://cryptobriefing.com/bitcoin-reclaims-60000-short-liquidations/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:04:40+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:10:25.022018+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
         ]
       }
     },
@@ -1268,6 +1384,25 @@
       }
     },
     {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-treasury-205803677.html?.tsrc=rss",
+      "title": "Update: US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-treasury-205803677.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:58:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:10:24.179074+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261125006878:0",
       "title": "ICE Canada Weekly Outlook: Conflicting Forces Keep Market Sideways",
       "url": "https://www.tradingview.com/news/DJN_DN20261125006878:0-ice-canada-weekly-outlook-conflicting-forces-keep-market-sideways/",
@@ -1429,6 +1564,25 @@
           "BITSTAMP:BTCUSD"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.trefis.com/stock/okta/articles/628590/what-did-holding-okta-stock-really-take/2026-11-25?.tsrc=rss",
+      "title": "What Did Holding Okta Stock Really Take?",
+      "url": "https://www.trefis.com/stock/okta/articles/628590/what-did-holding-okta-stock-really-take/2026-11-25?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:47:48+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:10:24.179074+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261125006851:0",
@@ -2846,6 +3000,25 @@
           "NZX:TWR"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://blockspace.media/short/iren-stock-price-is-down-80-over-six-months-heres-why/?.tsrc=rss",
+      "title": "IREN stock price is down 80% over six months. Here’s why",
+      "url": "https://blockspace.media/short/iren-stock-price-is-down-80-over-six-months-heres-why/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "IREN’s (IREN) shares have plunged nearly 80% over six months as financing uncertainty, execution risks and declining GPU rental prices undermine investor confidence in the bitcoin miner’s AI cloud transition.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:18:57+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:10:24.179074+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261125006746:0",

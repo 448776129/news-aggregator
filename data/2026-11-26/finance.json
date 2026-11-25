@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T05:07:22.852005+08:00",
-  "count": 313,
+  "generated_at": "2026-11-26T05:10:38.959322+08:00",
+  "count": 316,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 20,
+      "count": 21,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyzmp9125053.shtml",
+      "title": "美国债市：国债上涨 科技股反弹之际早间买盘消退",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyzmp9125053.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "美国国债在美国上午时段获得强劲买盘，收益率一度全线下跌逾10个基点。收盘时收益率仍明显下跌。随着纳斯达克100指数在短暂进入熊市区域后收窄跌幅...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:09:48+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:10:24.895634+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyzmp9120570.shtml",
       "title": "原油：油价上涨 中东袭击加剧供应不确定性",
@@ -44,6 +63,48 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261126050141009800",
+      "title": "【美股收盘：三大股指较低点大幅反弹 英伟达跌近4%】金十数据11月26日讯，美股周三收盘，道指初步收涨0.33%，标普500指数跌0.25%，纳指跌0.6%，三",
+      "url": "https://www.jin10.com/#/flash/20261126050141009800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【美股收盘：三大股指较低点大幅反弹 英伟达跌近4%】金十数据11月26日讯，美股周三收盘，道指初步收涨0.33%，标普500指数跌0.25%，纳指跌0.6%，三大股指盘中分别曾跌2%、3%和4.5%。费城半导体指数跌0.65%。英伟达(NVDA.O)跌3.9%，Anthropic(ANT.O)涨1%，闪迪(SNDK.O)跌5.5%，惠普(HPQ.N)涨11%。纳斯达克中国金龙指数涨1.87%，理想汽车(LI.O)涨11%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:01:41+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:10:24.081898+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261126045853855800",
+      "title": "Saudi Civil Defense issued a potential danger alert for Riyadh Province.",
+      "url": "https://www.jin10.com/#/flash/20261126045853855800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Saudi Civil Defense issued a potential danger alert for Riyadh Province.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:58:53+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:10:24.081898+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261126045852276800",
