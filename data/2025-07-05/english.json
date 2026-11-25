@@ -1,0 +1,61 @@
+{
+  "date": "2025-07-05",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-25T11:10:50.464116+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:da65b3bc503f1511952bb06c9fade54a47244dca",
+      "title": "What Is a Stock Market Bubble?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0651b6e8134f28b9594573f6c88299&url=https%3a%2f%2fwww.fool.com%2fterms%2fs%2fstock-market-bubble%2f&c=12539060961949617170&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stock market bubbles occur when asset prices inflate without solid business fundamentals. Speculative buying and euphoria among investors are typical drivers of such bubbles. Identifying and avoiding ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2025-07-05T23:11:00+08:00",
+      "published_date": "2025-07-05",
+      "fetched_at": "2026-11-25T11:10:48.666440+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

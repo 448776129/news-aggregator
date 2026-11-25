@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-15",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-25T11:10:50.466919+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:38948c4447a0188fc52a5c1ecbe7aa9db9b5b821",
+      "title": "Understanding the Sharing Economy: Definition, Criticisms, and Evolution",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0651b7733546e289cf27b0c079c1fb&url=https%3a%2f%2fwww.investopedia.com%2fterms%2fs%2fsharing-economy.asp&c=7874021632891105950&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Investopedia contributors come from a range of backgrounds, and over 25 years there have been thousands of expert writers and editors who have contributed. Gordon Scott has been an active investor and ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-07-15T20:05:00+08:00",
+      "published_date": "2026-07-15",
+      "fetched_at": "2026-11-25T11:10:48.666440+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
