@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T01:04:16.861825+08:00",
-  "count": 376,
+  "generated_at": "2026-11-26T01:07:18.733886+08:00",
+  "count": 394,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 3,
+      "count": 5,
       "error": ""
     },
     {
@@ -33,11 +33,299 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 17,
+      "count": 16,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tradingview:7ccd1597a9177:0",
+      "title": "Bernstein maintains Workday at Outperform, raises price target to $239 from $238",
+      "url": "https://www.tradingview.com/news/tradingview:7ccd1597a9177:0-bernstein-maintains-workday-at-outperform-raises-price-target-to-239-from-238/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:05:56+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:07:14.102876+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:WDAY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3693928:0",
+      "title": "ARAMI: Revenue fell 5.4%; adjusted EBITDA was €43.1m and FY27 guidance is €25m–€50m",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3693928:0-arami-revenue-fell-5-4-adjusted-ebitda-was-43-1m-and-fy27-guidance-is-25m-50m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:05:52+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:07:14.102876+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:ARAMI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N476101:0",
+      "title": "Virbac signs deal to buy Axiota Animal Health for $315 million",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N476101:0-virbac-signs-deal-to-buy-axiota-animal-health-for-315-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:05:47+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:07:14.102876+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:VIRP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3693997:0",
+      "title": "PAY: Profit declined, but backlog climbed 89% to $32.903M",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3693997:0-pay-profit-declined-but-backlog-climbed-89-to-32-903m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:05:27+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:07:14.102876+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:PAY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:c4a93d2f7094b:0",
+      "title": "Mohamed El-Erian Is Buying The Tech Dip ‘Very Slowly,’ Says Nvidia Is ‘Too Big to Wobble’",
+      "url": "https://stocktwits.com/news-articles/markets/equity/mohamed-el-erian-is-buying-the-tech-dip-very-slowly-says-nvidia-is-too-big-to-wobble/cNbHNilR9mp",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:04:48+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:07:14.102876+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:078eec0cb72a2:0",
+      "title": "Raymond James maintains Dycom Industries at Strong Buy, lowers price target to $225 from $375",
+      "url": "https://www.tradingview.com/news/tradingview:078eec0cb72a2:0-raymond-james-maintains-dycom-industries-at-strong-buy-lowers-price-target-to-225-from-375/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:04:48+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:07:14.102876+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:5eb52c17f094b:0",
+      "title": "FTC limits Beretta's board influence at Sturm, Ruger & Co.",
+      "url": "https://seekingalpha.com/news/4676636-ftc-limits-berettas-board-influence-at-sturm-ruger-co?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:04:26+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:07:14.102876+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:RGR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005761:0",
+      "title": "Dell's Strong 3Q Doesn't Settle 2028 Debates — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005761:0-dell-s-strong-3q-doesn-t-settle-2028-debates-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:04:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:07:14.102876+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DELL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005760:0",
+      "title": "Kanzhun Gains on $500M Stock-Buyback Program",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005760:0-kanzhun-gains-on-500m-stock-buyback-program/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:04:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:07:14.102876+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:BZ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:3ea28b83a094b:0",
+      "title": "Power Champion Infrastructure Is Up at Atlas One; AZIO AI Awaits GPU Delivery",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410492/0/en/power-champion-infrastructure-is-up-at-atlas-one-azio-ai-awaits-gpu-delivery.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:04:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:07:14.102876+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AZIO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:7319c1f8dd54f:0",
+      "title": "Bernstein maintains Dell Technologies at Outperform, lowers price target to $580 from $650",
+      "url": "https://www.tradingview.com/news/tradingview:7319c1f8dd54f:0-bernstein-maintains-dell-technologies-at-outperform-lowers-price-target-to-580-from-650/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:03:49+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:07:14.102876+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DELL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY7049Ea:0",
+      "title": "REG - Pebble Beach Sys Grp - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY7049Ea:0-reg-pebble-beach-sys-grp-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:03:41+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:07:14.102876+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:PEB"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY7048Ea:0",
       "title": "REG - American Century Inv RHI Magnesita N.V. - Form 8.3 - RHI Magnesita N.V.",
@@ -129,6 +417,118 @@
         "urgency": 2,
         "symbols": [
           "GPW:ECH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:macenews:4c5a321e8094b:0",
+      "title": "US EIA NATURAL GAS IN STORAGE -24 BLN CUBIC FEET IN LATEST WEEK FROM PREVIOUS WEEK AS WITHDRAWAL SEASON BEGINS",
+      "url": "https://www.tradingview.com/news/macenews:4c5a321e8094b:0-us-eia-natural-gas-in-storage-24-bln-cubic-feet-in-latest-week-from-previous-week-as-withdrawal-season-begins/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:02:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:07:14.102876+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:FED30D",
+          "SP:SPX",
+          "TVC:DJI",
+          "FX:EURUSD",
+          "CBOE:DJX",
+          "TVC:DXY",
+          "STOXX:SX5E",
+          "CBOE:VIX",
+          "ECONOMICS:USGDP",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:3f80bc0e2094b:0",
+      "title": "Weekly share repurchase program transaction details",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410490/0/en/weekly-share-repurchase-program-transaction-details.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:02:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:07:14.102876+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:SBMO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:30f1f7eec094b:0",
+      "title": "Autodesk produces smaller beat than usual; analysts remain positive on emerging opportunities",
+      "url": "https://seekingalpha.com/news/4676640-autodesk-produces-smaller-beat-than-usual-analysts-remain-positive-on-emerging-opportunities?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:01:58+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:07:14.102876+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ADSK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:0dbe0634c094b:0",
+      "title": "U.S. natural gas inventory net change of -24 Bcf for week ended November 20 – EIA",
+      "url": "https://seekingalpha.com/news/4676498-us-natural-gas-inventory-net-change-of--24-bcf-for-week-ended-november-20-eia?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:01:56+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:07:14.102876+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MCX:NATURALGAS1!",
+          "AMEX:UNG",
+          "AMEX:BOIL",
+          "AMEX:KOLD",
+          "AMEX:FCG",
+          "AMEX:UNL",
+          "TSX:HNU",
+          "NYMEX:NG1!"
         ]
       }
     },
@@ -3780,6 +4180,30 @@
       }
     },
     {
+      "id": "finnhub:8808666",
+      "title": "UK is moving military aircraft to hangars at night over possible drone threats, media reports say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNXk4cTJiN1hVeGlydEtUN2JpRTVCMF9CRFVBUkh3cUs2c0NJRHNnendsV1ZjWkxicDhPZUhESnlTNy1paWtzQlNHaHlSMkpLTVRvYXVGdFVDVEFGeVFGN2tQWElwRDZwREoyaXU2QUtNSm5oaGsyZ2VoSVNtT2c0aVlhbXlabU02Mm1menJtMGpNQXdzal9lM2dYeUtxZ0xFZ3lnc0FoODhBaklCa0M3eTQzbFF4dXVyNmc?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "UK is moving military aircraft to hangars at night over possible drone threats, media reports say Reuters",
+      "content": "UK is moving military aircraft to hangars at night over possible drone threats, media reports say Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:34:53+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:07:14.579621+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "yahoo:https://myfirstmillion.videonest.co/videos/2441410/how-sega-gave-nvidia-six-months-to-survive-8Q2-v_I9Vg?.tsrc=rss",
       "title": "How Sega gave Nvidia six months to survive",
       "url": "https://myfirstmillion.videonest.co/videos/2441410/how-sega-gave-nvidia-six-months-to-survive-8Q2-v_I9Vg?.tsrc=rss",
@@ -6623,6 +7047,30 @@
         "symbols": [
           "TASE:PHOE"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8808981",
+      "title": "US third-quarter economic growth revised sharply higher; inflation broadening out - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalBrRjhRWHdhRDduMzduLU1kN1lGVFpzNFllX0RzdjJXMjdtajRZS1l1dms2MFJFbkhJQmx3Qzgydi1nTTJnQ1JPLUtoa1R5LWZjWjItUXJhXzhoZG51NU9ENzVBQjVSZWFpdHlqbV9PSkVncWtjUlptdXhjd0ZKRXZ6d2Y1dw?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "US third-quarter economic growth revised sharply higher; inflation broadening out Reuters",
+      "content": "US third-quarter economic growth revised sharply higher; inflation broadening out Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:15:17+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:07:14.579621+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
