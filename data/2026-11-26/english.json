@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T05:01:15.715328+08:00",
-  "count": 985,
+  "generated_at": "2026-11-26T05:04:15.785657+08:00",
+  "count": 986,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 14,
+      "count": 13,
       "error": ""
     },
     {
@@ -61,6 +61,25 @@
           "ICEUS:RS1!"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/anthropic-s-chip-choices-could-change-the-nvidia-story-here-s-how/?.tsrc=rss",
+      "title": "Anthropic’s Chip Choices Could Change the Nvidia Story. Here’s How.",
+      "url": "https://www.fool.com/investing/2026/11/25/anthropic-s-chip-choices-could-change-the-nvidia-story-here-s-how/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Anthropic is spreading out its demand for AI accelerators across multiple companies.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:53:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:04:11.851583+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/salesforce-stock-crm-looks-mispriced-205300259.html?.tsrc=rss",

@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T04:55:14.517339+08:00",
-  "count": 307,
+  "generated_at": "2026-11-26T05:04:15.800551+08:00",
+  "count": 308,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 19,
+      "count": 20,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyzmp9120570.shtml",
+      "title": "原油：油价上涨 中东袭击加剧供应不确定性",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyzmp9120570.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "油价在清淡交投中上涨，中东地区袭击加剧，令该地区近几个月逐步恢复的原油运输前景蒙上阴影。 布伦特收于每桶95美元下方，触及逾一周高点。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:02:08+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:04:12.538711+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261126045326867800",
       "title": "特朗普高级顾问库什纳：俄罗斯与乌克兰将进行大规模战俘交换。此次交换将在今年年底前进行。",
