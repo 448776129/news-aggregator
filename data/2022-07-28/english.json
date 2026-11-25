@@ -1,0 +1,61 @@
+{
+  "date": "2022-07-28",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-25T14:52:17.414598+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:f68cf5959f0d94ccd62c0af7780c57e3ae28042f",
+      "title": "U.S. economy just had a 2nd quarter of negative growth. Is it in a recession?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06859d75004ac6bdde42f15be8c409&url=https%3a%2f%2fwww.npr.org%2f2022%2f07%2f28%2f1113649843%2fgdp-2q-economy-2022-recession-two-quarters&c=2912313955372202369&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The U.S. economy shrank in the last three months by 0.9%. This is the second consecutive quarter where the economy has contracted. In the first quarter, GDP, or gross domestic product, decreased at an ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2022-07-28T14:32:00+08:00",
+      "published_date": "2022-07-28",
+      "fetched_at": "2026-11-25T14:52:15.199579+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

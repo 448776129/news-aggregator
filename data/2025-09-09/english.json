@@ -1,0 +1,61 @@
+{
+  "date": "2025-09-09",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-25T14:52:17.417055+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:df8e3e5556106010e334392d7570276e927d0c77",
+      "title": "JPMorgan CEO Jamie Dimon says the economy 'is weakening'",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06859d75004ac6bdde42f15be8c409&url=https%3a%2f%2fwww.cnbc.com%2f2025%2f09%2f09%2fjpmorgan-jamie-dimon-economy.html&c=14151108288022806189&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "JPMorgan Chase CEO Jamie Dimon said that a Labor Department report released Tuesday confirmed that the U.S. economy is slowing down. The department revised lower its nonfarm payrolls data for the year ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2025-09-09T17:51:00+08:00",
+      "published_date": "2025-09-09",
+      "fetched_at": "2026-11-25T14:52:15.199579+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2024-01-28",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-25T14:52:17.414892+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:637466a461efd78303fcb2b75aaba1964b1ce9c1",
+      "title": "Care economy",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06859d75004ac6bdde42f15be8c409&url=https%3a%2f%2fwww.ilo.org%2ftopics-and-sectors%2fcare-economy&c=14497115186793129878&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The care economy encompasses care work — paid and unpaid, direct and indirect — delivered through the public and private sectors, including MSMEs, non-profit organizations, the social and solidarity ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2024-01-28T21:16:00+08:00",
+      "published_date": "2024-01-28",
+      "fetched_at": "2026-11-25T14:52:15.199579+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
