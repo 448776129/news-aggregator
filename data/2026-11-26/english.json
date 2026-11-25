@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T01:40:17.583892+08:00",
-  "count": 539,
+  "generated_at": "2026-11-26T01:46:16.223324+08:00",
+  "count": 569,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,589 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 20,
+      "count": 21,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261125006065_20261125006065:0",
+      "title": "DJIA Falls 39.00 Points (0.08%)",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006065_20261125006065:0-djia-falls-39-00-points-0-08/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:45:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006067_20261125006067:0",
+      "title": "Nasdaq Composite Falls 475.03 Points (2.00%)",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006067_20261125006067:0-nasdaq-composite-falls-475-03-points-2-00/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:45:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006066_20261125006066:0",
+      "title": "S&P 500 Falls 78.99 Points (1.10%)",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006066_20261125006066:0-s-p-500-falls-78-99-points-1-10/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:45:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SP:SPX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005306:0",
+      "title": "Sonic Lighting Abandons Initial Public Offering Plans",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005306:0-sonic-lighting-abandons-initial-public-offering-plans/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:45:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4761WS:0",
+      "title": "ECB And Sveriges Riksbank Conclude Agreement For Sweden To Join T2",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4761WS:0-ecb-and-sveriges-riksbank-conclude-agreement-for-sweden-to-join-t2/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:44:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006064:0",
+      "title": "Givaudan Can Recover From Antitrust Blow — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006064:0-givaudan-can-recover-from-antitrust-blow-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:44:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BX:GIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:e114cf245094b:0",
+      "title": "U.S. New Home Sales Spike From Downwardly Revised Level In October",
+      "url": "https://www.tradingview.com/news/dpa_afx:e114cf245094b:0-u-s-new-home-sales-spike-from-downwardly-revised-level-in-october/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:42:49+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:1195db2fb0568:0",
+      "title": "Rothschild & Co upgrades Icon to Buy from Neutral, raises price target to $256 from $227",
+      "url": "https://www.tradingview.com/news/tradingview:1195db2fb0568:0-rothschild-co-upgrades-icon-to-buy-from-neutral-raises-price-target-to-256-from-227/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:40:57+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ICLR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4761WK:0",
+      "title": "Text Q2 Net Profit At 34.0 Million Zlotys",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4761WK:0-text-q2-net-profit-at-34-0-million-zlotys/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:40:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:TXT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY7102Ea:0",
+      "title": "REG - Berry Street Capital Mobico Group PLC - Form 8.3 - Mobico Group PLC",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY7102Ea:0-reg-berry-street-capital-mobico-group-plc-form-8-3-mobico-group-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:40:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:MCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006043:0",
+      "title": "FCC Authorizes SpaceX to Build 1M Data Centers in Space",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006043:0-fcc-authorizes-spacex-to-build-1m-data-centers-in-space/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:40:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SPCX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006042:0",
+      "title": "Nymex Overview: Crude Futures Rebound as Middle East Tensions Offset Inventory Build — OPIS",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006042:0-nymex-overview-crude-futures-rebound-as-middle-east-tensions-offset-inventory-build-opis/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:40:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:CL1!",
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUAQ86QR:0",
+      "title": "Tcm Group A/S Revise Full Year Guidance For 2026",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUAQ86QR:0-tcm-group-a-s-revise-full-year-guidance-for-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:39:53+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:TCM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:1b7f56d1eb0c3:0",
+      "title": "B of A Securities maintains Kohl's at Underperform, raises price target to $19 from $16",
+      "url": "https://www.tradingview.com/news/tradingview:1b7f56d1eb0c3:0-b-of-a-securities-maintains-kohl-s-at-underperform-raises-price-target-to-19-from-16/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:39:45+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:KSS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3694000:0",
+      "title": "PAY: Profit declined, but backlog surged 89% to $32.9m",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3694000:0-pay-profit-declined-but-backlog-surged-89-to-32-9m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:39:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:PAY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:b5df7b2b16ba8:0",
+      "title": "RBC Capital maintains Amentum Holdings at Sector Perform, raises price target to $27 from $25",
+      "url": "https://www.tradingview.com/news/tradingview:b5df7b2b16ba8:0-rbc-capital-maintains-amentum-holdings-at-sector-perform-raises-price-target-to-27-from-25/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:39:07+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:AMTM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006031:0",
+      "title": "Tech-Led Slide Deepens as Confidence in AI Trade Weakens — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006031:0-tech-led-slide-deepens-as-confidence-in-ai-trade-weakens-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:39:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_SN20261125007200:0",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "https://www.tradingview.com/news/DJN_SN20261125007200:0-why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MarketWatch",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:39:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:IXIC",
+          "SP:SPX",
+          "TVC:DJI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760X5:0",
+      "title": "European stocks end lower as rate hike fears, AI doubts hammer banks and tech",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760X5:0-european-stocks-end-lower-as-rate-hike-fears-ai-doubts-hammer-banks-and-tech/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:38:49+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:SXXP",
+          "NASDAQ:NVDA",
+          "EURONEXT:PRX",
+          "XETR:VOW",
+          "XETR:BMW",
+          "EURONEXT:RCO",
+          "EURONEXT:BVI",
+          "OMXSTO:SECT_B",
+          "OMXCOP:ROCK_A",
+          "STOXX:SXXP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006028:0",
+      "title": "Maze Therapeutics Initiated at Sector Perform by RBC Capital",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006028:0-maze-therapeutics-initiated-at-sector-perform-by-rbc-capital/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:38:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:MAZE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:5bffe3a88e021:0",
+      "title": "TCM Group A/S (TCM) Cuts 2026 Adjusted EBITA Guidance to DKK 110–120M",
+      "url": "https://www.tradingview.com/news/tradingview:5bffe3a88e021:0-tcm-group-a-s-tcm-cuts-2026-adjusted-ebita-guidance-to-dkk-110-120m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:38:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:TCM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:bd4eabae0094b:0",
+      "title": "TCM Group A/S revise full year guidance for 2026",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410504/0/en/tcm-group-a-s-revise-full-year-guidance-for-2026.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:38:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:TCM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:3fb80d43d1e9d:0",
+      "title": "RBC Capital maintains Dell Technologies at Outperform, lowers price target to $550 from $640",
+      "url": "https://www.tradingview.com/news/tradingview:3fb80d43d1e9d:0-rbc-capital-maintains-dell-technologies-at-outperform-lowers-price-target-to-550-from-640/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:37:16+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DELL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N44H0HG:0",
+      "title": "Nvidia Sellers Seek New Buyers As US Curbs China AI Chip Access - CNBC",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44H0HG:0-nvidia-sellers-seek-new-buyers-as-us-curbs-china-ai-chip-access-cnbc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:36:39+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
     {
       "id": "tradingview:tradingview:1ba70ee88cdcf:0",
       "title": "RBC Capital maintains Fluence Energy at Sector Perform, raises price target to $6 from $4",
@@ -85,6 +663,30 @@
       }
     },
     {
+      "id": "tradingview:cnbctv:28290cf8a094b:0",
+      "title": "Juniper Green Energy arm signs 150 MW NTPC deal, expects ₹155 crore annual revenue",
+      "url": "https://www.tradingview.com/news/cnbctv:28290cf8a094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:35:17+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:NTPC"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761DQ:0",
       "title": "Far East Hotels And Entertainment Says Unit Announces Property Disposal For HK$65.7 Mln",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761DQ:0-far-east-hotels-and-entertainment-says-unit-announces-property-disposal-for-hk-65-7-mln/",
@@ -105,6 +707,54 @@
         "urgency": 2,
         "symbols": [
           "HKEX:37"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:48d4e0ef73cb7:0",
+      "title": "OHB SE (OHB)-Built Hera Reaches Asteroids and Returns First Images",
+      "url": "https://www.tradingview.com/news/tradingview:48d4e0ef73cb7:0-ohb-se-ohb-built-hera-reaches-asteroids-and-returns-first-images/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:35:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:OHB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:eqs:bfd274918094b:0",
+      "title": "OHB-built ESA spacecraft Hera delivers unprecedented close-up asteroid images",
+      "url": "https://www.eqs-news.com/news/corporate-news/ohb-built-esa-spacecraft-hera-delivers-unprecedented-close-up-asteroid-images/28024241-08ba-41b5-a85a-8985b8398221_en",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "EQS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:35:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:OHB"
         ]
       }
     },
@@ -367,6 +1017,53 @@
       }
     },
     {
+      "id": "tradingview:cointelegraph:c0f4c246f094b:0",
+      "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+      "url": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Cointelegraph",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:33:22+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:c96467e3b094b:0",
+      "title": "Medanta block deal: Dunearn Investments sells 2.4% stake for ₹930 crore; HDFC MF among buyers",
+      "url": "https://www.tradingview.com/news/cnbctv:c96467e3b094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:33:15+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.862575+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L5N4761UX:0",
       "title": "Galp says production suspended at its Brazilian Bacalhau field for five to eight weeks after \"incident\"",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4761UX:0-galp-says-production-suspended-at-its-brazilian-bacalhau-field-for-five-to-eight-weeks-after-incident/",
@@ -390,6 +1087,25 @@
           "OSL:EQNR"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/why-dell-technologies-stock-plunged-today/?.tsrc=rss",
+      "title": "Why Dell Technologies Stock Plunged Today",
+      "url": "https://www.fool.com/investing/2026/11/25/why-dell-technologies-stock-plunged-today/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Dell stock continues to fall even as the company reports record results.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:32:32+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T01:46:10.672100+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:f6684bd371959:0",
