@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T03:40:16.864592+08:00",
-  "count": 832,
+  "generated_at": "2026-11-26T03:46:15.529497+08:00",
+  "count": 852,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,496 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N476129:0",
+      "title": "New Zealand's Stride Property HY27 net rental income falls due to impact of prior asset sale",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N476129:0-new-zealand-s-stride-property-hy27-net-rental-income-falls-due-to-impact-of-prior-asset-sale/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:45:05+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.276443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:SPG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N476136:0",
+      "title": "BNP Paribas moves up global systemic bank list, capital buffer rises",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N476136:0-bnp-paribas-moves-up-global-systemic-bank-list-capital-buffer-rises/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:44:31+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.276443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:BNP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47614D:0",
+      "title": "CBOT soybeans rise to one-month high on exports, stronger soymeal",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47614D:0-cbot-soybeans-rise-to-one-month-high-on-exports-stronger-soymeal/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:44:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.276443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOT:ZS1!",
+          "CBOT:ZL1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4825296:0",
+      "title": "Aroundtown: Higher guidance pairs resilient operations with LEG-led FFO growth, despite rising finance costs",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4825296:0-aroundtown-higher-guidance-pairs-resilient-operations-with-leg-led-ffo-growth-despite-rising-finance-costs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:43:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.276443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:AT1"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_SN20261125007620:0",
+      "title": "Nvidia is heading for its first 'death cross' since March 2025 as stock continues to struggle",
+      "url": "https://www.tradingview.com/news/DJN_SN20261125007620:0-nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MarketWatch",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.276443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47614H:0",
+      "title": "CBOT wheat sinks on good US crop conditions, strong dollar",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47614H:0-cbot-wheat-sinks-on-good-us-crop-conditions-strong-dollar/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:42:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.276443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOT:ZW1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47613C:0",
+      "title": "US yields fall but move off lows as stocks pare sharp losses",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47613C:0-us-yields-fall-but-move-off-lows-as-stocks-pare-sharp-losses/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:41:46+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.276443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA",
+          "SP:S5INFT",
+          "TVC:IXIC",
+          "TVC:US10Y",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006601:0",
+      "title": "Flash Heard: The Yield Curve Gets Flatter. That Can Be a Bad Sign for Stocks. — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006601:0-flash-heard-the-yield-curve-gets-flatter-that-can-be-a-bad-sign-for-stocks-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:41:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.276443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N476123:0",
+      "title": "New Zealand's Tower annual profit falls on higher claims costs",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N476123:0-new-zealand-s-tower-annual-profit-falls-on-higher-claims-costs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:40:27+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.276443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:TWR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:58e95290d094b:0",
+      "title": "SpaceX commits to giving one share to every currently active Trump Account",
+      "url": "https://seekingalpha.com/news/4676679-spacex-commits-to-giving-one-share-to-every-currently-active-trump-account?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:40:08+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.276443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SPCX",
+          "NASDAQ:MU",
+          "NASDAQ:INTC",
+          "NASDAQ:AVGO",
+          "NYSE:IBM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N476125:0",
+      "title": "New Zealand's BLIS Technologies half-year revenue rises 16% on B2B growth",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N476125:0-new-zealand-s-blis-technologies-half-year-revenue-rises-16-on-b2b-growth/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:39:31+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.276443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:BLT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006595:0",
+      "title": "Canada Imposes Tariff-Rate Quota on Imported Canned Vegetables",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006595:0-canada-imposes-tariff-rate-quota-on-imported-canned-vegetables/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:39:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.276443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125006593:0",
+      "title": "SpaceX Gets U.S. Approval to Run One Million Orbital Data Centers — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125006593:0-spacex-gets-u-s-approval-to-run-one-million-orbital-data-centers-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:39:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.276443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SPCX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_SN20261125007614:0",
+      "title": "The Fed says inflation hasn't gotten any better ahead of its key December vote to raise rates",
+      "url": "https://www.tradingview.com/news/DJN_SN20261125007614:0-the-fed-says-inflation-hasn-t-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MarketWatch",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:39:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.276443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/why-lucid-stock-is-moving-in-reverse-today/?.tsrc=rss",
+      "title": "Why Lucid Stock Is Moving in Reverse Today",
+      "url": "https://www.fool.com/investing/2026/11/25/why-lucid-stock-is-moving-in-reverse-today/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Thought shares couldn't tumble any further? One firm says think again.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:38:59+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.124573+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N476124:0",
+      "title": "New Zealand's AFT Pharmaceuticals half-year net profit more than doubled; reaffirms annual forecast",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N476124:0-new-zealand-s-aft-pharmaceuticals-half-year-net-profit-more-than-doubled-reaffirms-annual-forecast/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:38:52+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.276443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:AFT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47614I:0",
+      "title": "Dan Loeb’s Hedge Fund Returns to Startup Investing Years After FTX Loss - WSJ",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47614I:0-dan-loeb-s-hedge-fund-returns-to-startup-investing-years-after-ftx-loss-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:38:35+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.276443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:fe4074312094b:0",
+      "title": "Micron, Sandisk lead technology stocks with attractive valuations after Q3 earnings",
+      "url": "https://seekingalpha.com/news/4676678-micron-sandisk-lead-technology-stocks-with-attractive-valuations-after-q3-earnings?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:37:23+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.276443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:ARW",
+          "NASDAQ:DIOD",
+          "NYSE:DXC",
+          "NASDAQ:FSLY",
+          "NASDAQ:MU",
+          "NASDAQ:MXL",
+          "NASDAQ:SMCI",
+          "NASDAQ:SNDK",
+          "NASDAQ:AVT",
+          "NASDAQ:DOX",
+          "NASDAQ:FLEX",
+          "NASDAQ:FSLR",
+          "NYSE:KD",
+          "NASDAQ:LITE",
+          "NASDAQ:SANM",
+          "NASDAQ:WDC",
+          "NYSE:HPE",
+          "NYSE:INGM",
+          "NASDAQ:PENG",
+          "NASDAQ:SITM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:the_block:676a93d58094b:0",
+      "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723?utm_source=tradingview&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "The Block",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:37:10+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.276443+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/abercrombie-fitch-grew-sales-for-the-16th-straight-quarter-as-earnings-jumped-62-heres-whats-behind-the-streak/?.tsrc=rss",
+      "title": "Abercrombie & Fitch Grew Sales for the 16th Straight Quarter as Earnings Jumped 62%. Here's What's Behind the Streak.",
+      "url": "https://www.fool.com/investing/2026/11/25/abercrombie-fitch-grew-sales-for-the-16th-straight-quarter-as-earnings-jumped-62-heres-whats-behind-the-streak/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The company effectively serves a key customer demographic.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:36:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T03:46:12.124573+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:seekingalpha:cb6983b49094b:0",
       "title": "Tandem Mobi insulin pumps recalled in U.S. over false positive alarm",
