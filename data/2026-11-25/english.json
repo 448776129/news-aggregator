@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T23:13:13.017889+08:00",
-  "count": 4923,
+  "generated_at": "2026-11-25T23:16:13.967928+08:00",
+  "count": 4956,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 7,
+      "count": 6,
       "error": ""
     },
     {
@@ -38,6 +38,577 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:dpa_afx:fb90d471f9045:0",
+      "title": "US PRIOR SEP NEW HOME SALES 0.614M SAAR",
+      "url": "https://www.tradingview.com/news/dpa_afx:fb90d471f9045:0-us-prior-sep-new-home-sales-0-614m-saar/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:15:12+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6950Ea:0",
+      "title": "REG - Pembroke VCT PLC - Half-year Financial Report",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6950Ea:0-reg-pembroke-vct-plc-half-year-financial-report/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:15:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:PEMB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4820051:0",
+      "title": "CANTA: Nadunolimab advances toward pivotal 2027 data milestones with funding expected into mid-2028",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4820051:0-canta-nadunolimab-advances-toward-pivotal-2027-data-milestones-with-funding-expected-into-mid-2028/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:14:08+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:CANTA"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/articles/stirlingshire-investments-appoints-daniel-gicklhorn-151300914.html?.tsrc=rss",
+      "title": "Stirlingshire Investments Appoints Daniel Gicklhorn as Chief Technology Officer",
+      "url": "https://finance.yahoo.com/technology/articles/stirlingshire-investments-appoints-daniel-gicklhorn-151300914.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Stirlingshire Investments today announced the appointment of Daniel Gicklhorn as Chief Technology Officer. Gicklhorn will lead technology strategy, architecture and engineering for Stirling ONE, the AI-native platform built to give independent advisors the technology of a large firm without giving up their independence.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:13:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.070100+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004641:0",
+      "title": "New Home Sales Surged in October",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004641:0-new-home-sales-surged-in-october/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:13:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ECONOMICS:USEHS",
+          "ECONOMICS:USEHSMM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125004801:0",
+      "title": "Treasury Yields Extend Fall After U.S. Data Flurry — 2nd Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125004801:0-treasury-yields-extend-fall-after-u-s-data-flurry-2nd-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:13:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760RI:0",
+      "title": "Corn, soy basis bids mixed following harvests",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760RI:0-corn-soy-basis-bids-mixed-following-harvests/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:12:48+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOT:ZS1!",
+          "CBOT:ZC1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4761FG:0",
+      "title": "Global fragrance makers hit with nearly $517 million EU fine for taking part in cartel",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4761FG:0-global-fragrance-makers-hit-with-nearly-517-million-eu-fine-for-taking-part-in-cartel/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:12:47+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BX:GIN",
+          "NYSE:IFF",
+          "LSE:ULVR",
+          "EURONEXT:DSFIR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUA7YHKX5:0",
+      "title": "Dsm-firmenich Reaches Settlement With European Commission And UK Competition And Markets Authority",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA7YHKX5:0-dsm-firmenich-reaches-settlement-with-european-commission-and-uk-competition-and-markets-authority/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:12:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:DSFIR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:27b5f9a43094b:0",
+      "title": "Firefly Could Fill ‘Large Supply Gaps’ In Launch Market, Says Needham – Analyst Sees Over 100% Upside Potential In FLY Stock",
+      "url": "https://stocktwits.com/news-articles/markets/equity/firefly-could-fill-large-supply-gaps-in-launch-market-says-needham-analyst-sees-over-100-upside-potential-in-fly-stock/cNbHjilR9mk",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:12:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:FLY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:business_wire:4426c15021d51:0",
+      "title": "Bloom Energy Joins Nashville Firefighters to Support Local Students and Families Ahead of Tennessee-Vanderbilt Matchup",
+      "url": "https://www.tradingview.com/news/business_wire:4426c15021d51:0-bloom-energy-joins-nashville-firefighters-to-support-local-students-and-families-ahead-of-tennessee-vanderbilt-matchup/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:12:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4820011:0",
+      "title": "NNOX: Revenue grew 29%, but execution, cost cuts and liquidity remain pivotal",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4820011:0-nnox-revenue-grew-29-but-execution-cost-cuts-and-liquidity-remain-pivotal/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:11:42+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NNOX"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/video/dan-ives-nvidia-sell-off-a-growth-scare-not-a-demand-problem-151140023.html?.tsrc=rss",
+      "title": "Dan Ives: Nvidia sell-off a 'growth scare,' not a demand problem",
+      "url": "https://finance.yahoo.com/video/dan-ives-nvidia-sell-off-a-growth-scare-not-a-demand-problem-151140023.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Dan Ives, Yorkville Ives & Co. Partner and Senior Managing Director, joins Yahoo Finance Executive Editor Brian Sozzi to break down the recent Nvidia (NVDA) sell-off and why it was a growth scare rather than a sign of weakening AI demand.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:11:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.070100+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4820007:0",
+      "title": "DSX: Higher charter rates lifted Q3 revenue, while Genco costs drove a reported loss",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4820007:0-dsx-higher-charter-rates-lifted-q3-revenue-while-genco-costs-drove-a-reported-loss/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:11:37+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DSX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760RU:0",
+      "title": "Israel's Formula Systems Q3 revenue hits record high on Michpal and TSG strength",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760RU:0-israel-s-formula-systems-q3-revenue-hits-record-high-on-michpal-and-tsg-strength/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:11:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TASE:FORTY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY5066Ea:0",
+      "title": "REG - Achilles Invest. Co. - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY5066Ea:0-reg-achilles-invest-co-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:11:22+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:AIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760V6:0",
+      "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760V6:0-huang-s-return-to-nvidia-brings-open-weight-ai-debate-to-forefront-in-washington/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:11:12+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA",
+          "NYSE:BABA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6959Ea:0",
+      "title": "REG - Trium Capital LLP Irish Res Prop REIT - Form 8.3 - Irish Residential Properties REIT plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6959Ea:0-reg-trium-capital-llp-irish-res-prop-reit-form-8-3-irish-residential-properties-reit-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:11:09+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:IRES"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:f98dec1e8094b:0",
+      "title": "Charles Schwab files mixed securities shelf",
+      "url": "https://seekingalpha.com/news/4676582-charles-schwab-files-mixed-securities-shelf?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:11:07+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:SCHW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4761I2:0",
+      "title": "Eni, Repsol pledge to invest $2 billion in Venezuela JVs",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4761I2:0-eni-repsol-pledge-to-invest-2-billion-in-venezuela-jvs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:11:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BME:REP",
+          "MIL:ENI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760RN:0",
+      "title": "Canada's Skyline Investments Q3 same asset revenue rises 5%, net loss narrows",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760RN:0-canada-s-skyline-investments-q3-same-asset-revenue-rises-5-net-loss-narrows/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:10:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TASE:SKLN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:1447a1cf43770:0",
+      "title": "UBS maintains JM Smucker at Buy, raises price target to $154 from $153",
+      "url": "https://www.tradingview.com/news/tradingview:1447a1cf43770:0-ubs-maintains-jm-smucker-at-buy-raises-price-target-to-154-from-153/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:10:39+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:SJM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:gurufocus:6c62c3d98094b:0",
+      "title": "Cathie Wood Makes a Stunning $61.6 Million Bet on a Beaten-Down AI Stock",
+      "url": "https://www.gurufocus.com/news/9219675/cathie-wood-makes-a-stunning-616-million-bet-on-a-beatendown-ai-stock",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:10:27+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ANT",
+          "NASDAQ:META",
+          "NASDAQ:PLTR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:eb189bcdd9d2a:0",
+      "title": "Similarweb Director Sold Shares Worth Over $3.3M",
+      "url": "https://www.tradingview.com/news/tradingview:eb189bcdd9d2a:0-similarweb-director-sold-shares-worth-over-3-3m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:10:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:SMWB"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6274Ea:0",
       "title": "REG - Castlebar Capital Ramsdens Holdings - Form 8.3 Ramsdens Holdings PLC",
@@ -244,6 +815,39 @@
       }
     },
     {
+      "id": "tradingview:macenews:4f30c3a16094b:0",
+      "title": "US OCT NEW HOME SALES: NEW HOUSES FOR SALE AT END OF OCT 470,000, -1.5% BELOW SEPT; Y/Y -4.1%",
+      "url": "https://www.tradingview.com/news/macenews:4f30c3a16094b:0-us-oct-new-home-sales-new-houses-for-sale-at-end-of-oct-470-000-1-5-below-sept-y-y-4-1/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:08:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:FED30D",
+          "SP:SPX",
+          "TVC:DJI",
+          "FX:EURUSD",
+          "CBOE:DJX",
+          "TVC:DXY",
+          "STOXX:SX5E",
+          "CBOE:VIX",
+          "ECONOMICS:USGDP",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tradingview:dd003a4ce8a45:0",
       "title": "UBS maintains Kohl's at Sell, raises price target to $13 from $9",
       "url": "https://www.tradingview.com/news/tradingview:dd003a4ce8a45:0-ubs-maintains-kohl-s-at-sell-raises-price-target-to-13-from-9/",
@@ -292,6 +896,30 @@
       }
     },
     {
+      "id": "tradingview:gurufocus:27df437bf094b:0",
+      "title": "Google Ends $75 Million News Deal Amid Regulatory Fight",
+      "url": "https://www.gurufocus.com/news/9219673/google-ends-75-million-news-deal-amid-regulatory-fight",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:07:06+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:GOOG"
+        ]
+      }
+    },
+    {
       "id": "tradingview:DJN_DN20261125004752:0",
       "title": "Corn Futures Gain Amid Shift to March Contract — Market Talk",
       "url": "https://www.tradingview.com/news/DJN_DN20261125004752:0-corn-futures-gain-amid-shift-to-march-contract-market-talk/",
@@ -336,6 +964,30 @@
         "urgency": 2,
         "symbols": [
           "OMXCOP:GMAB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:gurufocus:522c71722094b:0",
+      "title": "Gold Faces a Stunning November Not Seen in Nearly 50 Years",
+      "url": "https://www.gurufocus.com/news/9219665/gold-faces-a-stunning-november-not-seen-in-nearly-50-years",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:06:42+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:09.237793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD"
         ]
       }
     },
@@ -74704,6 +75356,25 @@
       "extra": {}
     },
     {
+      "id": "msn:79efc5f5cefb46655a61b3f991a5bc99897c716c",
+      "title": "Stock Market Today: Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fbb9eaa54d64844a1f8a9c667c27&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:51:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:11.141210+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:moodys:c0b7879e03f56:0",
       "title": "PB Fintech, HDFC Life, Turtlemint shares surge up to 8% as IRDAI sets up expert committee on distribution reforms",
       "url": "https://www.tradingview.com/news/moodys:c0b7879e03f56:0-pb-fintech-hdfc-life-turtlemint-shares-surge-up-to-8-as-irdai-sets-up-expert-committee-on-distribution-reforms/",
@@ -82301,6 +82972,25 @@
       "extra": {}
     },
     {
+      "id": "msn:e4eebc7290bd3d9c4d819f5b9f6b078efcac7516",
+      "title": "Stock Market Today: Futures Plunge as AI Rout Resumes; Nvidia Leads Chip Stocks Lower ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fbb9eaa54d64844a1f8a9c667c27&url=https%3a%2f%2fwww.investopedia.com%2fstock-market-today-dow-jones-s-and-p-500-nasdaq-11252026-12279355&c=14548726542868548574&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stocks are under pressure again Wednesday morning as the volatility that has gripped the AI trade in recent weeks intensifies.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:11.141210+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N476080:0",
       "title": "Palm oil falls on weaker soyoil, crude; Dalian gains limit losses",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N476080:0-palm-oil-falls-on-weaker-soyoil-crude-dalian-gains-limit-losses/",
@@ -88097,6 +88787,25 @@
       "published_at": "2026-11-25T11:49:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T23:13:11.494521+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:8ec47062627abf0f046d09595c574462d9596e04",
+      "title": "Ten undervalued energy stocks after Q3 earnings, led by Par Pacific",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fbb955634f83a3c931013511802f&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4676519-ten-undervalued-energy-stocks-after-q3-earnings-led-by-par-pacific&c=2722455980253807025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Seeking Alpha's screen names 10 undervalued energy stocks, led by Par Pacific with an A+ valuation grade; four others earn A grades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:11.141210+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -98430,6 +99139,25 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T23:13:11.494521+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:46fe7375232299bacc2332c520193c9951596d92",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fbb955634f83a3c931013511802f&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:11.141210+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -110970,6 +111698,25 @@
       "extra": {}
     },
     {
+      "id": "msn:9dab6dee216b99284452a1b0c159f4527e53f534",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fbb9eaa54d64844a1f8a9c667c27&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:11.141210+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8805055",
       "title": "Congo mining forum announces $965 million in sector financing - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGdrZjdudnB3N1RtMDR5dXlRWm8zMnA0b1NXQ3JNWGFhQ3BMSWNPOWpBU1hVT2hMRkl2THlRc3JDY1BmYk5jTF85d2pxUGt2Z2ptTmhTZDFET28xWVd3MDJzZUMzN3Q5bDgzQnp0eDdSck1rLVdVV0M2bGF0ODRIWEp6Z18wcS15TzlBMl82RUd3Mjlrc2Q2SDdnSkZVMVE1dHdIMFkxSmtZZw?oc=5",
@@ -112209,6 +112956,25 @@
       "published_at": "2026-11-25T00:04:08+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T23:13:11.494521+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:13621f25b7411f496d3f2e1e938fc63ea86bd5db",
+      "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06fbb955634f83a3c931013511802f&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fjim-cramer-sizes-up-six-retail-stocks-after-earnings-and-names-his-two-favorites%2far-AA2i9onk&c=18106407342616312095&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here's where Jim Cramer stands on six retailers that rallied after reporting earnings Tuesday, and his two favorites.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:04:08+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T23:16:11.141210+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
