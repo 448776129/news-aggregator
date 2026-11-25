@@ -146,12 +146,23 @@ for item in result["items"]:
 
 1. 把项目推送到 GitHub 仓库。
 2. 在 **Settings → Secrets and variables → Actions** 添加需要的密钥：`JIN10_SECRET_KEY`、`ALPACA_API_KEY`、`ALPACA_SECRET_KEY`、`FINNHUB_API_KEY`、`XUEQIU_COOKIE`（均为可选）。
-3. `daily-news.yml` 每 5 分钟采集一次（cron 已错峰到 `:03/:08/...`），也可在 Actions 页面手动触发并指定日期回填。
+3. `daily-news.yml` 每 5 分钟采集一次，实际由 Cloudflare Worker 触发（见下表），GitHub 侧 `schedule` 仅作兜底；也可在 Actions 页面手动触发并指定日期回填。
 4. 仓库需允许 Actions 写入：`Settings → Actions → General → Workflow permissions` 选择 **Read and write permissions**。
 
-### 定时触发说明
+### 定时触发说明（重要）
 
-新建仓库的 `schedule` 注册可能长时间不生效（实测本仓库与 `news-cron` 建仓 6 小时内 `event=schedule` 均为 0 次，而账号下老仓库正常）。因此保留了一个兜底「闹钟」仓库 **`news-cron`**：它每 5 分钟调用 `workflow_dispatch` 触发本仓库的采集工作流，密钥为 `DISPATCH_TOKEN`。
+**GitHub 自身的 cron 不可靠**：本仓库的 `schedule` 实测间隔在 5～12 小时之间（409 / 458 / 726 分钟…），账号下老仓库同样被限流到 48～127 分钟一次，新建仓库甚至连 `schedule` 都不注册。因此 5 分钟采集**不依赖 GitHub cron**。
+
+实际触发源是 Cloudflare Worker `news-cron-trigger`：
+
+| 项 | 值 |
+| --- | --- |
+| 源码 | `deploy/cloudflare_worker.mjs` |
+| 触发 | Worker cron `*/5 * * * *` → `POST /repos/448776129/news-aggregator/actions/workflows/daily-news.yml/dispatches` |
+| 手动验证 | `GET https://news-cron-trigger.<workers-subdomain>.workers.dev/run`（返回 204 表示已受理） |
+| Worker 密钥 | `DISPATCH_TOKEN`（GitHub PAT，`Actions: write` + `Contents: write`） |
+
+GitHub 侧的 `schedule` 仍保留作为兜底，两边同时触发也不会产生重复数据（按 `id` 去重），并发 push 冲突已由重试 + rebase 兜住。
 
 采集本身按 `id` 去重、按 `published_date` 归档，重复触发不会产生重复数据。
 

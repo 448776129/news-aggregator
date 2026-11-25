@@ -60,7 +60,19 @@ jobs:
           git add data/
           if git diff --cached --quiet; then
             echo "没有新增数据，跳过提交。"
-          else
-            git commit -m "chore: 更新新闻归档 $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git push
+            exit 0
           fi
+          git commit -m "chore: 更新新闻归档 $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          # 并发触发时远端可能已被别的 run 推进，push 失败则 rebase 后重试。
+          # 归档按 id 去重，rebase 合并不会产生重复数据。
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "推送成功（第 $i 次尝试）"
+              exit 0
+            fi
+            echo "推送失败，第 $i 次重试：先 rebase 到最新 main"
+            git pull --rebase --autostash origin main || true
+            sleep 3
+          done
+          echo "多次推送失败，放弃本轮提交"
+          exit 1
