@@ -1,0 +1,61 @@
+{
+  "date": "2010-09-08",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-25T22:55:17.573400+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:3b714dda3d8c833310d33c6342e5fe43159541a8",
+      "title": "The influence of corporate earnings on trading",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06f6d0e91f4ec1866637893487d269&url=https%3a%2f%2fwww.ig.com%2fen%2flearn-to-trade%2fig-academy%2fshorts%2fcorporate-earnings-reports&c=5212111176074762814&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Earnings reports reveal how much money a company made and spent over a quarter. They lay out the amount coming in from sales (that's the revenue) and where this income is going (cost). These quarterly ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2010-09-08T01:00:00+08:00",
+      "published_date": "2010-09-08",
+      "fetched_at": "2026-11-25T22:55:14.271531+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
