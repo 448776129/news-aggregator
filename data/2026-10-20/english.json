@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T12:40:15.527675+08:00",
-  "count": 4,
+  "generated_at": "2026-11-26T03:49:23.126447+08:00",
+  "count": 5,
   "sources": [
     {
       "name": "alpaca",
@@ -110,6 +110,25 @@
       "published_date": "2026-10-20",
       "fetched_at": "2026-11-25T12:40:13.902724+08:00",
       "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:112eae13ac25cf09c9e601d305d8453bdbaaa37f",
+      "title": "3M Lifts Earnings Outlook as Profit Jumps",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b073bb748c84b058b5f79c7ff043c11&url=https%3a%2f%2fwww.wsj.com%2fbusiness%2fearnings%2f3m-lifts-earnings-outlook-as-profit-jumps-5c5ac54a&c=11316698682687990463&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "3M raised its full-year earnings outlook after posting higher profit and revenue in the latest quarter. The maker of Post-It notes and Scotch Tape now expects adjusted earnings of $9.10 to $9.15 a ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-10-20T13:31:00+08:00",
+      "published_date": "2026-10-20",
+      "fetched_at": "2026-11-26T03:49:13.043320+08:00",
+      "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
       "extra": {}
