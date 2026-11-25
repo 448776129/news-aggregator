@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T21:55:15.831516+08:00",
-  "count": 4097,
+  "generated_at": "2026-11-25T21:58:13.895947+08:00",
+  "count": 4138,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 7,
+      "count": 5,
       "error": ""
     },
     {
@@ -38,6 +38,821 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6855Ea:0",
+      "title": "REG - Amundi SA Prologis, Inc. - Form 8.3 - Prologis, Inc.",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6855Ea:0-reg-amundi-sa-prologis-inc-form-8-3-prologis-inc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:57:23+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PLD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6856Ea:0",
+      "title": "REG - State Street Global Rotork PLC - Form 8.3 - Rotork plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6856Ea:0-reg-state-street-global-rotork-plc-form-8-3-rotork-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:57:22+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:ROR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:a42ff930acddc:0",
+      "title": "Barclays maintains Urban Outfitters at Overweight, lowers price target to $94 from $102",
+      "url": "https://www.tradingview.com/news/tradingview:a42ff930acddc:0-barclays-maintains-urban-outfitters-at-overweight-lowers-price-target-to-94-from-102/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:57:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:URBN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:739141:0",
+      "title": "EMERGE Commerce Q3 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:739141:0-emerge-commerce-q3-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:57:05+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:ECOM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:536430:0",
+      "title": "NorAm Drilling Q3 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:536430:0-noram-drilling-q3-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:57:05+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:NORAM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:719100:0",
+      "title": "Diana Shipping Q3 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:719100:0-diana-shipping-q3-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:57:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DSX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:681800:0",
+      "title": "Kapsch TrafficCom H1 2027 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:681800:0-kapsch-trafficcom-h1-2027-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:57:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "VIE:KTCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:7578199e52c7f:0",
+      "title": "Azrieli Q3 FFO Rises",
+      "url": "https://www.tradingview.com/news/dpa_afx:7578199e52c7f:0-azrieli-q3-ffo-rises/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:56:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TASE:AZRG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:9b3834c3bb0e5:0",
+      "title": "Stifel maintains Best Buy Co at Hold, raises price target to $103 from $100",
+      "url": "https://www.tradingview.com/news/tradingview:9b3834c3bb0e5:0-stifel-maintains-best-buy-co-at-hold-raises-price-target-to-103-from-100/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:56:22+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BBY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:7bf6c1c5dbeb3:0",
+      "title": "Barclays maintains Minimed Group at Equal-Weight, raises price target to $21 from $20",
+      "url": "https://www.tradingview.com/news/tradingview:7bf6c1c5dbeb3:0-barclays-maintains-minimed-group-at-equal-weight-raises-price-target-to-21-from-20/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:56:14+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:MMED"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6854Ea:0",
+      "title": "REG - State Street Global Gamma Communications - Form 8.3 - Gamma Communications plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6854Ea:0-reg-state-street-global-gamma-communications-form-8-3-gamma-communications-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:55:52+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:GAMA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6853Ea:0",
+      "title": "REG - Amundi SA SEGRO PLC - Form 8.3 - SEGRO plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6853Ea:0-reg-amundi-sa-segro-plc-form-8-3-segro-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:55:43+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:SGRO",
+          "EURONEXT:AMUN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0cf4b594fa18f:0",
+      "title": "Stifel maintains Ambarella at Buy, lowers price target to $50 from $80",
+      "url": "https://www.tradingview.com/news/tradingview:0cf4b594fa18f:0-stifel-maintains-ambarella-at-buy-lowers-price-target-to-50-from-80/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:55:06+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMBA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:1d8064fabd6ae:0",
+      "title": "Santa at NYSE Ahead of Macy's Thanksgiving Day Parade: NYSE Content Update",
+      "url": "https://www.tradingview.com/news/prnewswire:1d8064fabd6ae:0-santa-at-nyse-ahead-of-macy-s-thanksgiving-day-parade-nyse-content-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:55:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:M",
+          "NYSE:ICE",
+          "BMV:TLEVISA/A"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760LX:0",
+      "title": "Freight rates for Russian oil fall further in November, sources say",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760LX:0-freight-rates-for-russian-oil-fall-further-in-november-sources-say/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:54:58+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6852Ea:0",
+      "title": "REG - State Street Global Bodycote PLC - Form 8.3 - Bodycote plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6852Ea:0-reg-state-street-global-bodycote-plc-form-8-3-bodycote-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:54:55+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:BOY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:20d85f6945ee6:0",
+      "title": "Barclays maintains Medtronic at Equal-Weight, raises price target to $100 from $95",
+      "url": "https://www.tradingview.com/news/tradingview:20d85f6945ee6:0-barclays-maintains-medtronic-at-equal-weight-raises-price-target-to-100-from-95/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:54:51+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:MDT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_S0N46Y05E:0",
+      "title": "TABLE-US Oct durable goods orders data",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_S0N46Y05E:0-table-us-oct-durable-goods-orders-data/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:54:46+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6851Ea:0",
+      "title": "REG - Amundi SA Rotork PLC - Form 8.3 - Rotork plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6851Ea:0-reg-amundi-sa-rotork-plc-form-8-3-rotork-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:54:33+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:ROR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6850Ea:0",
+      "title": "REG - GENinCode PLC - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6850Ea:0-reg-genincode-plc-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:54:22+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:GENI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003948:0",
+      "title": "H&M Heading Into Tough End to Year — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003948:0-h-m-heading-into-tough-end-to-year-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:54:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:HM_B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:ffbae83febcfc:0",
+      "title": "Barclays maintains HP at Underweight, raises price target to $24 from $23",
+      "url": "https://www.tradingview.com/news/tradingview:ffbae83febcfc:0-barclays-maintains-hp-at-underweight-raises-price-target-to-24-from-23/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:53:48+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:HPQ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:cce217aff1dec:0",
+      "title": "Truist Securities maintains Southern at Hold, raises price target to $98 from $93",
+      "url": "https://www.tradingview.com/news/tradingview:cce217aff1dec:0-truist-securities-maintains-southern-at-hold-raises-price-target-to-98-from-93/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:53:23+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:SO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3697331:0",
+      "title": "Bosideng International: Profit rose 4.5% as operating margin improved, despite softer gross margin and ladieswear pressure",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3697331:0-bosideng-international-profit-rose-4-5-as-operating-margin-improved-despite-softer-gross-margin-and-ladieswear-pressure/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:53:06+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:3998"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:29321182bef6a:0",
+      "title": "Bitmine Immersion Technologies Declares $0.01 Per-Share Cash Dividend",
+      "url": "https://www.tradingview.com/news/tradingview:29321182bef6a:0-bitmine-immersion-technologies-declares-0-01-per-share-cash-dividend/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:53:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BMNR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:785e0f58e8a83:0",
+      "title": "Independence Realty Trust appoints John A. Schissel and Ola Oyinsan Hixon as directors",
+      "url": "https://www.tradingview.com/news/tradingview:785e0f58e8a83:0-independence-realty-trust-appoints-john-a-schissel-and-ola-oyinsan-hixon-as-directors/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:53:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:IRT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:investorplace:8f9aece49094b:0",
+      "title": "3 Growth Stocks to Buy While the AI Trade Finds Its Footing",
+      "url": "https://investorplace.com/hypergrowthinvesting/2026/11/3-growth-stocks-to-buy-while-the-ai-trade-finds-its-footing/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "InvestorPlace",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:53:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:TTWO",
+          "NASDAQ:BTSG",
+          "NASDAQ:SEZL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003945:0",
+      "title": "U.S. Natural Gas Steady as December Contract Set to Expire — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003945:0-u-s-natural-gas-steady-as-december-contract-set-to-expire-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:53:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:NG1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_AQN2MV77M:0",
+      "title": "US October durable goods orders data",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_AQN2MV77M:0-us-october-durable-goods-orders-data/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:52:46+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:94e334b735792:0",
+      "title": "Barclays maintains Hewlett Packard at Equal-Weight, lowers price target to $51 from $77",
+      "url": "https://www.tradingview.com/news/tradingview:94e334b735792:0-barclays-maintains-hewlett-packard-at-equal-weight-lowers-price-target-to-51-from-77/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:52:39+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:HPE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760LZ:0",
+      "title": "Eight dead, 18 trapped after Indonesia mine floods, agency says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760LZ:0-eight-dead-18-trapped-after-indonesia-mine-floods-agency-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:52:12+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "IDX:ANTM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:d0add8f57b97a:0",
+      "title": "Truist Securities maintains TTM Technologies at Buy, lowers price target to $122 from $170",
+      "url": "https://www.tradingview.com/news/tradingview:d0add8f57b97a:0-truist-securities-maintains-ttm-technologies-at-buy-lowers-price-target-to-122-from-170/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:52:12+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:TTMI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760O8:0",
+      "title": "Hong Kong's Far East Hotels and Entertainment Ltd swings to interim profit on compensation gain",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760O8:0-hong-kong-s-far-east-hotels-and-entertainment-ltd-swings-to-interim-profit-on-compensation-gain/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:52:09+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:37"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003927:0",
+      "title": "Third-Quarter GDP Revised Sharply Higher — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003927:0-third-quarter-gdp-revised-sharply-higher-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:52:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FRED:GDP"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47510H:0",
       "title": "US core capital goods orders beat expectations in October",
@@ -203,6 +1018,31 @@
       }
     },
     {
+      "id": "tradingview:cnbctv:5a647c492094b:0",
+      "title": "FIIs buy ₹4,479 crore as buying streak hits 17 sessions; equities, rupee rally",
+      "url": "https://www.tradingview.com/news/cnbctv:5a647c492094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:50:36+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BSE:SENSEX",
+          "NSE:NIFTY"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tradingview:c8142d82be240:0",
       "title": "Truist Securities maintains Jacobs Solutions at Hold, raises price target to $168 from $160",
       "url": "https://www.tradingview.com/news/tradingview:c8142d82be240:0-truist-securities-maintains-jacobs-solutions-at-hold-raises-price-target-to-168-from-160/",
@@ -344,6 +1184,28 @@
           "ECONOMICS:USGDP",
           "NASDAQ:IXIC"
         ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:b3864d9e2094b:0",
+      "title": "SEBI simplifies KYC process for investors; 6 major changes effective December 24",
+      "url": "https://www.tradingview.com/news/cnbctv:b3864d9e2094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T21:49:42+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:09.926455+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -65700,6 +66562,25 @@
       "extra": {}
     },
     {
+      "id": "msn:25760fec81e5ee7ff3b9d8a38bcbc0ffa1d5622c",
+      "title": "Stock Market Today: Futures Plunge as AI Rout Resumes; Nvidia Leads Chip Stocks Lower ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e971eba54593a87a8a909c2b7e6a&url=https%3a%2f%2fwww.investopedia.com%2fstock-market-today-dow-jones-s-and-p-500-nasdaq-11252026-12279355&c=14548726542868548574&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stocks are under pressure again Wednesday morning as the volatility that has gripped the AI trade in recent weeks intensifies.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:11.866758+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N476080:0",
       "title": "Palm oil falls on weaker soyoil, crude; Dalian gains limit losses",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N476080:0-palm-oil-falls-on-weaker-soyoil-crude-dalian-gains-limit-losses/",
@@ -70875,6 +71756,25 @@
       "extra": {}
     },
     {
+      "id": "msn:6df926212beaa5feee01c3c91fb4710388764653",
+      "title": "Ten undervalued energy stocks after Q3 earnings, led by Par Pacific",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e972a52c484894b68585cf744f6f&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4676519-ten-undervalued-energy-stocks-after-q3-earnings-led-by-par-pacific&c=2722455980253807025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Seeking Alpha's screen names 10 undervalued energy stocks, led by Par Pacific with an A+ valuation grade; four others earn A grades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:11.866758+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:stocktwits:79fb107c8094b:0",
       "title": "ANT Slips Further After Closing Below IPO Price: Retail Traders Wait For A Better Entry, But Cathie Wood Buys The Dip",
       "url": "https://stocktwits.com/news-articles/markets/equity/ant-slips-further-after-closing-below-ipo-price-retail-traders-wait-for-a-better-entry-but-cathie-wood-buys-the-dip/cNbHR3zR9lf",
@@ -75851,6 +76751,25 @@
       "extra": {}
     },
     {
+      "id": "msn:07d5e7a67a94edbcb702d58022165bd2a9d44e27",
+      "title": "Stock Market Today: Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e971eba54593a87a8a909c2b7e6a&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026%3fmod%3drss_markets_main&c=10858897053476573944&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:56:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:11.866758+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8807824",
       "title": "World stocks fall as new US tariffs loom, AI rebound fizzles - Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5",
@@ -80461,6 +81380,25 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T21:55:13.726793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:8f9899a2fd9dd1656fa0e81e92a344cede444668",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e972a52c484894b68585cf744f6f&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:11.866758+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -92349,6 +93287,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T21:55:13.726793+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:41a475630e44fc3ad84a0df0bca63bc486571943",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06e971eba54593a87a8a909c2b7e6a&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T21:58:11.866758+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
