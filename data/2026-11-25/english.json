@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T20:34:15.765561+08:00",
-  "count": 3461,
+  "generated_at": "2026-11-25T20:37:19.158263+08:00",
+  "count": 3467,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 50,
+      "count": 0,
       "error": ""
     },
     {
@@ -38,6 +38,54 @@
     }
   ],
   "items": [
+    {
+      "id": "alpaca:130409189",
+      "title": "BNP Paribas Adjusts Price Target on Kimberly-Clark to $116 From $112",
+      "url": "https://www.marketscreener.com/news/bnp-paribas-adjusts-price-target-on-kimberly-clark-to-116-from-112-ce7851d8d98bf127",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "BNP Paribas has updated its price target for Kimberly-Clark Corporation, increasing it to $116 from the previous $112.",
+      "content": "BNP Paribas has revised its price target for Kimberly-Clark Corporation, raising the target to $116 from $112. This adjustment reflects the firm's updated valuation outlook for the company. The change was reported on November 25, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:34:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:37:13.959472+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "KMB"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130409188",
+      "title": "RBC Raises Price Target on Amentum Holdings to $27 From $25",
+      "url": "https://www.marketscreener.com/news/rbc-raises-price-target-on-amentum-holdings-to-27-from-25-keeps-sector-perform-rating-ce7851d8d98af627",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "RBC Capital Markets has increased its price target for Amentum Holdings, Inc. while maintaining a Sector Perform rating.",
+      "content": "RBC Capital Markets updated its outlook on Amentum Holdings, Inc. by raising the price target from $25 to $27. The firm maintained its Sector Perform rating on the stock. This adjustment follows the company's recent fiscal fourth-quarter earnings report.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:34:23+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:37:13.959472+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "AMTM"
+        ]
+      }
+    },
     {
       "id": "alpaca:130408701",
       "title": "Guardian Pharmacy Services Joins S&P SmallCap 600",
@@ -58049,6 +58097,44 @@
       "extra": {}
     },
     {
+      "id": "msn:dec87dcb11c9675e72dcd810aebf1f9a5caa8f6f",
+      "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d67ac1dd422ab51922715502dcdc&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:37:15.961393+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:9135f9f708f50c38102514676bddef3ed6f7115a",
+      "title": "Ten undervalued energy stocks after Q3 earnings, led by Par Pacific",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d67afb5c4864a3303d2bacc564c4&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4676519-ten-undervalued-energy-stocks-after-q3-earnings-led-by-par-pacific&c=2722455980253807025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Seeking Alpha's screen names 10 undervalued energy stocks, led by Par Pacific with an A+ valuation grade; four others earn A grades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:37:15.961393+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:stocktwits:79fb107c8094b:0",
       "title": "ANT Slips Further After Closing Below IPO Price: Retail Traders Wait For A Better Entry, But Cathie Wood Buys The Dip",
       "url": "https://stocktwits.com/news-articles/markets/equity/ant-slips-further-after-closing-below-ipo-price-retail-traders-wait-for-a-better-entry-but-cathie-wood-buys-the-dip/cNbHR3zR9lf",
@@ -66609,6 +66695,25 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T20:31:15.451735+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:12da788a3f1ae214892b1d38c4e826d2aecd26ca",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d67afb5c4864a3303d2bacc564c4&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:37:15.961393+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -77889,6 +77994,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T20:31:15.451735+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b4d5e1d2e9b6755f94e463b107bffd467a65ed8f",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d67ac1dd422ab51922715502dcdc&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T20:37:15.961393+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
