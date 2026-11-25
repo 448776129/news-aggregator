@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T14:55:12.324361+08:00",
-  "count": 945,
+  "generated_at": "2026-11-25T14:58:17.117231+08:00",
+  "count": 984,
   "sources": [
     {
       "name": "alpaca",
@@ -39,6 +39,401 @@
   ],
   "items": [
     {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752B2:0",
+      "title": "HBX FY Net Profit €138 Mln",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752B2:0-hbx-fy-net-profit-138-mln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:57:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BME:HBX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4760AT:0",
+      "title": "Aroundtown CEO Bar-Hen to step down, two co-CEOs named",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4760AT:0-aroundtown-ceo-bar-hen-to-step-down-two-co-ceos-named/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:57:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:AT1"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:535555:0",
+      "title": "MPC Container Ships Q3 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:535555:0-mpc-container-ships-q3-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:57:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:MPCC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:49038ad8f094b:0",
+      "title": "AI Concerns Resurface? ORCL, GOOGL, SPCX, CRWV Credit Default Swap Spreads Hit Records As NVDA, ANT Tumble",
+      "url": "https://stocktwits.com/news-articles/markets/equity/ai-concerns-resurface-orcl-googl-spcx-crwv-credit-default-swap-spreads-hit-records-as-nvda-ant-tumble/cNbHEEAR9lZ",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:56:18+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CRWV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4811819:0",
+      "title": "ACA: €52.4bn in premiums underpins growth, resilience and ambitious 2028 targets",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4811819:0-aca-52-4bn-in-premiums-underpins-growth-resilience-and-ambitious-2028-targets/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:56:04+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:ACA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4703914:0",
+      "title": "KTCG: Revenue grew 8.3%; operational EBIT improved €22m excluding the prior-year settlement",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4703914:0-ktcg-revenue-grew-8-3-operational-ebit-improved-22m-excluding-the-prior-year-settlement/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:55:52+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "VIE:KTCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47606Y:0",
+      "title": "Indonesian company taking over tycoon's seized forest land is Danantara unit, document shows",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47606Y:0-indonesian-company-taking-over-tycoon-s-seized-forest-land-is-danantara-unit-document-shows/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:55:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3693960:0",
+      "title": "KTCG: Revenue recovered, while restructuring and asset sales reshape earnings and financing",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3693960:0-ktcg-revenue-recovered-while-restructuring-and-asset-sales-reshape-earnings-and-financing/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:55:37+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "VIE:KTCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cointelegraph:325f49743094b:0",
+      "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Cointelegraph",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:54:59+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4760C6:0",
+      "title": "SEB Explores Sale Of 1.3 Mln Enento Shares",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4760C6:0-seb-explores-sale-of-1-3-mln-enento-shares/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:54:46+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXHEX:ENENTO",
+          "OMXSTO:SEB_A"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4269641:0",
+      "title": "KTCG: Revenue grew 8.3%; FY EBIT is expected higher, with a Q3 tolltickets sale effect",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4269641:0-ktcg-revenue-grew-8-3-fy-ebit-is-expected-higher-with-a-q3-tolltickets-sale-effect/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:54:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "VIE:KTCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752B1:0",
+      "title": "Grenergy 9-Month Net Profit €72 Mln",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752B1:0-grenergy-9-month-net-profit-72-mln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:54:33+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BME:GRE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752DH:0",
+      "title": "Stenhus Fastigheter I Norden Buys Malax 4 Property In Stockholm",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752DH:0-stenhus-fastigheter-i-norden-buys-malax-4-property-in-stockholm/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:53:52+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:SFAST"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47608F:0",
+      "title": "Japan's Nikkei falls nearly 3% as AI stocks plunge",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47608F:0-japan-s-nikkei-falls-nearly-3-as-ai-stocks-plunge/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:53:10+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:NI225",
+          "TSE:TOPIX",
+          "NASDAQ:NVDA",
+          "TSE:6857",
+          "TSE:8035",
+          "TSE:9984",
+          "TSE:285A",
+          "TSE:4578",
+          "TSE:4503",
+          "TSE:4519",
+          "TSE:3697",
+          "TSE:6758",
+          "TSE:7203",
+          "TSE:7267"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752AZ:0",
+      "title": "Indra Sees 2030 Revenue Above €12 Bln",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752AZ:0-indra-sees-2030-revenue-above-12-bln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:53:07+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BME:IDR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752G0:0",
+      "title": "Instalco Company Signs Framework Agreement With Metsä Board",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752G0:0-instalco-company-signs-framework-agreement-with-mets-board/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:52:41+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:INSTAL",
+          "OMXHEX:METSA"
+        ]
+      }
+    },
+    {
       "id": "yahoo:https://stocktwits.com/news-articles/markets/equity/nvda-dip-buyers-still-fighting-break-even-after-huang-return-analyst-says/cNbHEckR9lm?.tsrc=rss",
       "title": "NVDA Eyes Worst Month Since 2022 — Dip Buyers Are ‘Still Fighting To Break Even’ After Huang’s Return, Analyst Says",
       "url": "https://stocktwits.com/news-articles/markets/equity/nvda-dip-buyers-still-fighting-break-even-after-huang-return-analyst-says/cNbHEckR9lm?.tsrc=rss",
@@ -56,6 +451,369 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "tradingview:stocktwits:25ffc75ff094b:0",
+      "title": "NVDA Eyes Worst Month Since 2022 — Dip Buyers Are ‘Still Fighting To Break Even’ After Huang’s Return, Analyst Says",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvda-dip-buyers-still-fighting-break-even-after-huang-return-analyst-says/cNbHEckR9lm",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:52:33+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752FZ:0",
+      "title": "Blincvision Resolves On Rights Issue",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752FZ:0-blincvision-resolves-on-rights-issue/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:52:21+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:BLINC_B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4760UV:0",
+      "title": "Multiconsult Terminates Existing Share Buyback Programme, Initiates New Share Buyback Programme",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4760UV:0-multiconsult-terminates-existing-share-buyback-programme-initiates-new-share-buyback-programme/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:52:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:MULTI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752B0:0",
+      "title": "Jtekt Corporation - To Launch Tender Offer For Own Shares Prices At 1,733 Yen Per Share",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752B0:0-jtekt-corporation-to-launch-tender-offer-for-own-shares-prices-at-1-733-yen-per-share/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:51:53+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSE:6473",
+          "TSE:7203"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4760DK:0",
+      "title": "Rupee resumes rally as equity inflows push currency to seven-month high",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4760DK:0-rupee-resumes-rally-as-equity-inflows-push-currency-to-seven-month-high/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:51:46+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX_IDC:USDINR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:efb9c03d5fe10:0",
+      "title": "Instalco (INSTAL) Signs Three-Year Agreement to Supply Mill Scaffolding",
+      "url": "https://www.tradingview.com/news/tradingview:efb9c03d5fe10:0-instalco-instal-signs-three-year-agreement-to-supply-mill-scaffolding/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:51:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:INSTAL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:be3c59fdceafc:0",
+      "title": "Instalco company signs framework agreement with Metsä Board",
+      "url": "https://www.tradingview.com/news/modular_finance:be3c59fdceafc:0-instalco-company-signs-framework-agreement-with-mets-board/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:51:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:INSTAL",
+          "OMXHEX:METSA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:c0b7879e03f56:0",
+      "title": "PB Fintech, HDFC Life, Turtlemint shares surge up to 8% as IRDAI sets up expert committee on distribution reforms",
+      "url": "https://www.tradingview.com/news/moodys:c0b7879e03f56:0-pb-fintech-hdfc-life-turtlemint-shares-surge-up-to-8-as-irdai-sets-up-expert-committee-on-distribution-reforms/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:50:54+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:POLICYBZR",
+          "NSE:HDFCLIFE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47607W:0",
+      "title": "Naspers earnings boosted by Tencent despite drag from food delivery investments",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47607W:0-naspers-earnings-boosted-by-tencent-despite-drag-from-food-delivery-investments/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:50:15+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "JSE:NPN",
+          "HKEX:700",
+          "EURONEXT:PRX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:94d8744d07a45:0",
+      "title": "BlincVision AB (BLINC_B) Plans SEK 80M Rights Issue, 70% Covered",
+      "url": "https://www.tradingview.com/news/tradingview:94d8744d07a45:0-blincvision-ab-blinc_b-plans-sek-80m-rights-issue-70-covered/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:50:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:BLINC_B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:b776716f8ba24:0",
+      "title": "BlincVision resolves on a rights issue of up to approximately SEK 80 million to accelerate commercialisation in defence and confined areas",
+      "url": "https://www.tradingview.com/news/modular_finance:b776716f8ba24:0-blincvision-resolves-on-a-rights-issue-of-up-to-approximately-sek-80-million-to-accelerate-commercialisation-in-defence-and-confined-areas/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:50:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:BLINC_B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4760CJ:0",
+      "title": "Hasko Invest Announces Outcome Of IPO",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4760CJ:0-hasko-invest-announces-outcome-of-ipo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:49:54+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:24e33e7d0094b:0",
+      "title": "ICICI Bank shares at record high — Here's why JPMorgan rates it its top pick",
+      "url": "https://www.tradingview.com/news/cnbctv:24e33e7d0094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:49:36+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:ICICIBANK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:7ecf74f7c094b:0",
+      "title": "Cipla shares rise 3% after USFDA nod for asthma treatment drug",
+      "url": "https://www.tradingview.com/news/cnbctv:7ecf74f7c094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:48:45+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:CIPLA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:424f2c769094b:0",
+      "title": "BTCUSD: Bitcoin Returns to $59,000 After Nvidia Pump Loses Momentum",
+      "url": "https://www.tradingview.com/news/tradingview:424f2c769094b:0-btcusd-bitcoin-returns-to-59-000-after-nvidia-pump-loses-momentum/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:48:38+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N4760GR:0",
@@ -83,6 +841,54 @@
       }
     },
     {
+      "id": "tradingview:moneycontrol:db30de54a094b:0",
+      "title": "IndiGo, BPCL, Asian Paints, other crude-sensitive shares rise up to 4% as Brent eases to $88",
+      "url": "https://www.tradingview.com/news/moneycontrol:db30de54a094b:0-indigo-bpcl-asian-paints-other-crude-sensitive-shares-rise-up-to-4-as-brent-eases-to-88/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:47:06+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:0830f85fc094b:0",
+      "title": "Rupee surges to 92.48 against dollar on strong FII inflows, dip in oil prices",
+      "url": "https://www.tradingview.com/news/moneycontrol:0830f85fc094b:0-rupee-surges-to-92-48-against-dollar-on-strong-fii-inflows-dip-in-oil-prices/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:46:19+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:EURUSD"
+        ]
+      }
+    },
+    {
       "id": "tradingview:DJN_DN20261125000743:0",
       "title": "HSBC Turns Neutral on Treasury Curve — Market Talk",
       "url": "https://www.tradingview.com/news/DJN_DN20261125000743:0-hsbc-turns-neutral-on-treasury-curve-market-talk/",
@@ -102,6 +908,30 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N46500K:0",
+      "title": "Samsung Display Acquires 9.1% Stake In AMS Osram - Yonhap",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46500K:0-samsung-display-acquires-9-1-stake-in-ams-osram-yonhap/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:45:46+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BX:AMS"
+        ]
       }
     },
     {
@@ -291,6 +1121,32 @@
         "urgency": 2,
         "symbols": [
           "BONDSCOM:FR001400ZQ88"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:62fdbfb10094b:0",
+      "title": "Largecaps and physical infrastructure offer value amid FII inflows: Krishna Sanghavi",
+      "url": "https://www.tradingview.com/news/cnbctv:62fdbfb10094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:44:20+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:14.415508+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:HDFCBANK",
+          "NSE:TATASTEEL",
+          "NSE:APLAPOLLO"
         ]
       }
     },
@@ -16633,6 +17489,25 @@
       "extra": {}
     },
     {
+      "id": "msn:8f24f11ab901614ac9a1bf67468b7cd3c3517460",
+      "title": "Stock Market Live Updates: Sensex zooms over 1,850 points, Nifty tops 25,900; HDFC, ICICI ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068706ece74e5fb6b262156e6d1183&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026%2fliveblog%2f136145716.cms&c=2500710713444335276&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "GIFT Nifty futures on the NSE IX were trading higher, indicating a strong gap-up opening for Dalal Street on Wednesday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T06:44:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:16.337471+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8805662",
       "title": "Israel's Eisenkot clinches first coalition agreement in bid to form government - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbVR5QS1fSDJ5YWoyNmRLQ0t2Vm1lZTdWdDlXaU5MakhodlR5QmJyRlhKLTc0dmZuZ2pTYVNwYllvQTIxblMwcm1FZHhPRUl5RWJfRFoxRWNjREZLWjh1MGFlSUUxeDlHdVpIeWlxQmY4dFlDZE55SHFtZkVXazhXWFZiVVZXbkZSX2xySnE1MWtOLWk5ZldQSU10eUtuUjJwM2VEOEc3TExPVDBRekZZc1FsSmhfYWFMYjNZRlVPWGdVWFE?oc=5",
@@ -19172,6 +20047,25 @@
       "extra": {}
     },
     {
+      "id": "msn:807b6bcaff7c766d347e98c5df1fefbfe32c309d",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty extends gains to 600 points, nears 26,000 mark",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068706ece74e5fb6b262156e6d1183&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-ai-tariffs-it-nifty-bank-tata-steel-apl-apollo-zee-ril-adani-share-price-liveblog-20040632.htm&c=1104828012116773145&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The Nifty bulls enter the mid-week session starting a new F&O series on the back of mixed cues. They would have not liked the ferocity of the fall seen on Monday and the fact that both Nifty and the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:41:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:16.337471+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8805359",
       "title": "US farm secretary pledges to fight court order halting her religious emails - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2lqUENSMVI4YnVLV3ROcmZhNEE0M1Rvcm41d21paGoyVEFmTlVYUFY4aXFCOTdYU1Z0Yi01eXNWeXh4X3NybTM1SUVSdjZXbDM2VERKY1JpWXRMdTJuUGp1cXVDSEdVazJBOEtEZ2tCTUhOdDBuNkEyMllTbG9ISThNS3dnNTFQUl9US3lZUmg1QzVRQVYtOVJkb0VOd2x2RkhuX1l2ZlBZRGNLY2tZaF9iWGtITWlu?oc=5",
@@ -21039,6 +21933,25 @@
       "extra": {}
     },
     {
+      "id": "msn:c5dba1b676d23c24b1d583ef2ba60a59e5df579f",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068706ece74e5fb6b262156e6d1183&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:16.337471+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8805055",
       "title": "Congo mining forum announces $965 million in sector financing - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGdrZjdudnB3N1RtMDR5dXlRWm8zMnA0b1NXQ3JNWGFhQ3BMSWNPOWpBU1hVT2hMRkl2THlRc3JDY1BmYk5jTF85d2pxUGt2Z2ptTmhTZDFET28xWVd3MDJzZUMzN3Q5bDgzQnp0eDdSck1rLVdVV0M2bGF0ODRIWEp6Z18wcS15TzlBMl82RUd3Mjlrc2Q2SDdnSkZVMVE1dHdIMFkxSmtZZw?oc=5",
@@ -21442,6 +22355,25 @@
       "published_at": "2026-11-25T00:04:08+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T14:55:11.673993+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:09a3faa1423385c0f690f18d60a53cc001bcb746",
+      "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b068706cfb54d4d8645be47a124f02f&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fjim-cramer-sizes-up-six-retail-stocks-after-earnings-and-names-his-two-favorites%2far-AA2i9onk&c=18106407342616312095&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here's where Jim Cramer stands on six retailers that rallied after reporting earnings Tuesday, and his two favorites.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:04:08+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:58:16.337471+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
