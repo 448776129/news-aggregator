@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T05:13:20.075507+08:00",
-  "count": 332,
+  "generated_at": "2026-11-26T05:16:14.200850+08:00",
+  "count": 333,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 21,
+      "count": 22,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyzmp9128647.shtml",
+      "title": "11月26日美股收盘：10月通胀仍未放缓 道指周三反弹收高 抹去1100点跌幅 标普纳指跌幅收窄至不足1%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyzmp9128647.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "道指周三抹去了1100点的暴跌，上涨166点，涨幅0.3%。华尔街试图从人工智能相关股票领跌的大幅下跌中恢复。 纳斯达克综合指数下跌0.6%，标普500指数下跌0.3%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:15:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:16:12.658004+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261126051229054800",
       "title": "The Brazilian government said the new U.S. proposal is clearly intended to press",
