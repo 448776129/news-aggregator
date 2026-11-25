@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T06:28:14.816253+08:00",
-  "count": 1418,
+  "generated_at": "2026-11-26T06:31:17.777478+08:00",
+  "count": 1420,
   "sources": [
     {
       "name": "alpaca",
@@ -374,6 +374,25 @@
       }
     },
     {
+      "id": "yahoo:https://finance.yahoo.com/video/jensen-huang-trump-11-days-222200314.html?.tsrc=rss",
+      "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
+      "url": "https://finance.yahoo.com/video/jensen-huang-trump-11-days-222200314.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Jensen Huang made a stunning return to Nvidia just 11 days after being ousted as the chipmaker’s CEO. WSJ reporters explain what happened behind the scenes—from Silicon Valley to Washington, D.C.—to bring him back.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:22:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:31:11.210331+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:urn:summary_document_slides:quartr.com:4351183:0",
       "title": "HSN: FY26 earnings improved as investment targets accelerated growth and a FY28 margin recovery",
       "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4351183:0-hsn-fy26-earnings-improved-as-investment-targets-accelerated-growth-and-a-fy28-margin-recovery/",
@@ -490,6 +509,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/nvidia-sell-off-you-won-t-believe-how-cheap-the-stock-is/?.tsrc=rss",
+      "title": "Nvidia Sell-Off: You Won’t Believe How Cheap the Stock Is",
+      "url": "https://www.fool.com/investing/2026/11/25/nvidia-sell-off-you-won-t-believe-how-cheap-the-stock-is/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia's stock is the cheapest it has been since the financial crisis",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:20:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:31:11.210331+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:c1267828eb57a:0",
