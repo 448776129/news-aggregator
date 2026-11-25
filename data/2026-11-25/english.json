@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T11:00:48.801335+08:00",
-  "count": 262,
+  "generated_at": "2026-11-25T11:05:48.974132+08:00",
+  "count": 302,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -33,11 +33,891 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 47,
+      "count": 48,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47604P:0",
+      "title": "Malaysia Airlines' parent to buy 10 Boeing 787 Dreamliners, CEO says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47604P:0-malaysia-airlines-parent-to-buy-10-boeing-787-dreamliners-ceo-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:04:21+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.668652+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BA",
+          "SSE:600029"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009521:0",
+      "title": "Xiaomi's Memory Stockpiling Might Help Mitigate Margin Pressure — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009521:0-xiaomi-s-memory-stockpiling-might-help-mitigate-margin-pressure-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:03:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.668652+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1810"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284537",
+      "title": "BTIG Reiterates Buy Rating on AppLovin",
+      "url": "https://www.moomoo.com/stock/APP-US?chain_id=Name1K9-3FXPhg.1lgc270&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FCRL-US%22%7D",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "BTIG analyst Clark Lampen has reiterated a \"Buy\" rating and maintained a $450 price target for AppLovin.",
+      "content": "On November 24, 2026, BTIG analyst Clark Lampen reaffirmed a \"Buy\" rating for AppLovin Corporation. The firm also maintained its existing price target of $450 for the company's shares, signaling continued confidence in the stock's performance.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:02:12+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "APP"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284536",
+      "title": "Dowty to Open £19 Million Innovation Centre Backed by GE Aerospace",
+      "url": "https://avi-go.com/news/articles/b5319a5970aa13c3035710aa90f5a967",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Dowty, a GE Aerospace company, is set to open a new £19 million innovation center in the UK to advance propeller and Open Fan technologies.",
+      "content": "Dowty, a subsidiary of GE Aerospace, is establishing a new innovation center in the United Kingdom. The project is supported by a £19 million investment from GE Aerospace. The facility is intended to accelerate the research and development of advanced propeller systems and Open Fan propulsion technologies.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:02:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GE"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284535",
+      "title": "Alimentation Couche-Tard Reports Fiscal 2027 Second Quarter Results and Provides Update on Żabka Tender Offer",
+      "url": "https://www.placera.se/pressmeddelanden/alimentation-couche-tard-alimentation-couche-tard-announces-its-results-for-its-second-quarter-of-fiscal-year-2027-20261124-1",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Alimentation Couche-Tard reported its fiscal second-quarter results for 2027 and announced that its tender offer for Żabka Group has become unconditional following regulatory approvals.",
+      "content": "Alimentation Couche-Tard reported a profit of $691.3 million, or 75 cents per share, for the second quarter ended October 11, 2026, compared to $740.6 million, or 79 cents per share, in the same period last year. Adjusted earnings were 84 cents per share, exceeding analyst expectations of 80 cents. Revenue rose to $22.54 billion from $17.87 billion, driven by higher fuel selling prices. CEO Alex Miller noted improved performance in the U.S. business, including sequential increases in same-store sales and merchandise margin expansion. Additionally, the company confirmed its voluntary tender offer for Poland's Żabka Group is now unconditional following the receipt of all regulatory approvals. The offer price of 32 Polish złoty per share will not be increased, and the transaction is expected to close on December 7, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:59+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ATD"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284457",
+      "title": "BofA Securities Upgrades Cadence Design Systems to Neutral",
+      "url": "https://www.moomoo.com/stock/OBMT-US",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "BofA Securities upgraded Cadence Design Systems, Inc. from Underperform to Neutral and increased the price target to $175.",
+      "content": "BofA Securities has upgraded its rating for Cadence Design Systems, Inc. from Underperform to Neutral. In conjunction with this rating change, the firm raised its price target for the company's stock from $160 to $175. This action reflects the firm's updated assessment of the company's financial outlook and market performance.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:58+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "CDNS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284456",
+      "title": "Cadence CEO Anirudh Devgan to Present at UBS Global Technology and AI Conference",
+      "url": "https://www.streetinsider.com/Press+Releases?before_id=27396022",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Cadence Design Systems, Inc. announced that its CEO, Anirudh Devgan, will participate in a presentation at the UBS Global Technology and AI Conference.",
+      "content": "Cadence Design Systems, Inc. has scheduled a presentation by its CEO, Anirudh Devgan, at the UBS Global Technology and AI Conference. This appearance serves as a platform for the company to engage with the investment community and discuss its strategic initiatives in electronic design automation and artificial intelligence. The event is part of the company's ongoing efforts to communicate its technological roadmap and market position to stakeholders.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:58+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "CDNS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284455",
+      "title": "Citi Maintains Buy Rating and $115 Price Target for Amphenol",
+      "url": "https://www.moomoo.com/stock/APH-US?chain_id=Name1K9-3FXPhg.1lgbk50&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FFFIV-US%22%7D",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Citi analyst Asiya Merchant has reaffirmed a Buy rating and a $115 price target for Amphenol Corporation.",
+      "content": "Citi analyst Asiya Merchant has maintained a Buy rating on Amphenol Corporation (APH) and kept the price target at $115. This analyst action reflects the firm's ongoing outlook on the company's performance. The update was reported on November 24, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:56+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "APH"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284454",
+      "title": "Intuit CFO Sandeep Aujla to Present at the UBS Global Technology and AI Conference",
+      "url": "https://www.barchart.com/press-releases/8992043/intuit-cfo-sandeep-aujla-to-present-at-the-ubs-global-technology-and-ai-conference",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Intuit Inc. announced that its Chief Financial Officer, Sandeep Aujla, is scheduled to present at the upcoming UBS Global Technology and AI Conference.",
+      "content": "Intuit Inc. announced that CFO Sandeep Aujla will participate in a fireside chat at the UBS Global Technology and AI Conference in Scottsdale, Arizona. The presentation is scheduled for Tuesday, December 1, 2026, at 11:15 a.m. Pacific Time. The event will be broadcast via a live audio webcast on the company's investor relations website, with a replay available following the conclusion of the session.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:51+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "INTU"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284453",
+      "title": "Citi Maintains Buy Rating and $200 Price Target for Corning",
+      "url": "https://www.moomoo.com/news/post/1005616702/citi-maintains-corning-glwus-with-buy-rating-maintains-target-price",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Citi analyst Asiya Merchant maintained a Buy rating on Corning Incorporated and kept the price target at $200.",
+      "content": "Citi analyst Asiya Merchant has maintained a Buy rating on Corning Incorporated. The firm also reaffirmed its price target of $200 for the company's shares. This analyst action provides an updated perspective on the company's investment thesis.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:51+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GLW"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284452",
+      "title": "PNC to Participate in Upcoming Economic and Tax Planning Webinar",
+      "url": "https://www.prnewswire.com/news-releases/whitley-penn-offers-complimentary-year-end-tax-planning-resources-via-virtual-event-302948860.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "The PNC Financial Services Group, Inc. will join Whitley Penn and WPWealth to host a complimentary webinar on December 16, 2026, focusing on economic outlooks and year-end financial planning.",
+      "content": "The PNC Financial Services Group, Inc. is scheduled to participate in a complimentary webinar on December 16, 2026, alongside Whitley Penn and WPWealth. The event is designed to assist business leaders and financial decision-makers in preparing for the upcoming year. Augustine Faucher, Chief Economist at PNC, will provide an economic outlook during the session. The webinar will also cover federal, state, and local tax developments, as well as wealth management strategies and data analytics for improved decision-making.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:49+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "PNC"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284451",
+      "title": "Leadership Change at Marathon Petroleum's Savage Branch Wildlife Reserve",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70219742-marathon-petroleum-our-people-refinery-s-wildlife-reserve-inspires-employee-volunteer-to-carry-on-decades-long-legacy-200.htm",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Marathon Petroleum announced a transition in volunteer leadership at its WHC-certified Savage Branch Wildlife Reserve in Catlettsburg, Kentucky.",
+      "content": "Marathon Petroleum has announced a change in volunteer leadership at the Savage Branch Wildlife Reserve, a long-running conservation site owned by the company's Catlettsburg refinery. After 16 years of service, the lead volunteer is retiring and passing responsibilities to an environmental specialist at the refinery. The reserve, which is managed by employee volunteers, reflects the company's ongoing commitment to environmental stewardship and community engagement.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MPC"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284450",
+      "title": "FedEx Operations Impacted by US Aviation Suspension",
+      "url": "https://www.negociosmagazine.com/podrian-las-caidas-de-sistemas-informaticos-ser-ataques-contra-estados-unidos/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "FedEx's air cargo and mail operations were disrupted following a general suspension of flight departures across the United States.",
+      "content": "FedEx experienced operational disruptions to its freight and mail transport services due to a broad suspension of flight departures in the United States. The event, which also affected other major logistics carriers like UPS, was characterized as a significant interruption to national aviation infrastructure. The company's network was directly impacted by the grounding of flights, highlighting the vulnerability of its integrated air-ground delivery system to systemic aviation issues.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "FDX"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284449",
+      "title": "Cloudflare Director Carl Ledbetter Sells Shares",
+      "url": "https://www.moomoo.com/news/post/1005663936/cloudflare-insider-sold-shares-worth-1436087-according-to-a-recent",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Cloudflare Director Carl Ledbetter sold 5,000 shares of the company's Class A common stock on November 24, 2026.",
+      "content": "On November 24, 2026, Cloudflare Director Carl Ledbetter sold 5,000 shares of the company's Class A common stock for a total value of $1,436,087. The transaction was executed pursuant to a Rule 10b5-1 trading plan that the director had adopted on February 25, 2026. Following this sale, the director maintains control over 883,514 Class A common shares, consisting of 20,441 shares held directly and 863,073 shares held indirectly.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "NET"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284448",
+      "title": "S&P Dow Jones Indices Announces Index Changes for S&P SmallCap 600",
+      "url": "https://www.prnewswire.com/news-releases/centuri-holdings-set-to-join-sp-smallcap-600-302949933.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "S&P Dow Jones Indices announced that Centuri Holdings Inc. will replace DoubleVerify Holdings Inc. in the S&P SmallCap 600 effective December 1, 2026.",
+      "content": "S&P Dow Jones Indices, a division of S&P Global, announced that Centuri Holdings Inc. (NYSE: CTRI) will be added to the S&P SmallCap 600 index. Centuri Holdings will replace DoubleVerify Holdings Inc. (NYSE: DV), which is being acquired by Nielsen Holdings. The change is scheduled to take effect prior to the opening of trading on Tuesday, December 1, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:38+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SPGI"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284447",
+      "title": "Datadog Director Alexis Le-Quoc Sells 44,400 Shares of Common Stock",
+      "url": "https://www.moomoo.com/ja/news/post/1005666586/datadog-ddogus-officer-sells-us-7-49-million-in-common",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Datadog, Inc. director Alexis Le-Quoc sold 44,400 shares of company stock for approximately $7.49 million, according to a recent SEC filing.",
+      "content": "According to a filing with the U.S. Securities and Exchange Commission (SEC) dated November 24, 2026, Datadog director Alexis Le-Quoc sold 44,400 shares of common stock. The transaction occurred on November 23, 2026, at an average price of $168.7259 per share, totaling approximately $7.49 million. Such disclosures are required by the SEC for company insiders when changes in their holdings occur.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:38+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "DDOG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284446",
+      "title": "FIBRA Prologis Recasts Credit Facility, Doubling Capacity to $1 Billion",
+      "url": "https://newsfilter.io/articles/fibra-prologis-recasts-credit-facility-doubling-capacity-to-1-billion-and-0c54d4722bbc5f28b00e2afc05f6cb54",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "FIBRA Prologis has successfully recast its unsecured, sustainability-linked revolving credit facility, increasing its capacity to $1 billion with improved borrowing terms.",
+      "content": "FIBRA Prologis, a related entity of Prologis, Inc., announced the restructuring of its unsecured, sustainability-linked revolving credit facility. The credit line capacity has been doubled from US$500 million to US$1 billion, with an additional accordion feature allowing for potential expansion to US$1.5 billion, subject to lender approval. The new facility features an initial maturity in February 2030, with two one-year extension options. Borrowing costs have been reduced, with the spread now set at 100 basis points over the benchmark rate, a 25 basis point improvement. The agreement also introduces KPI-based pricing adjustments and a new rating-based facility fee structure.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:38+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "PLD"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284445",
+      "title": "New York State Common Retirement Fund Weighs $4 Billion CFO Involving Blackstone Funds",
+      "url": "https://www.zerohedge.com/markets/pension-goes-full-cdo-new-yorks-giant-reitrement-fund-bundles-blue-owl-blackstone-fund",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "The New York State Common Retirement Fund is reportedly considering a $4 billion collateralized fund obligation (CFO) backed by its stakes in private credit funds, including those managed by Blackstone.",
+      "content": "The New York State Common Retirement Fund is exploring a roughly $4 billion collateralized fund obligation (CFO) backed by its interests in approximately 20 private credit funds. The portfolio includes stakes in funds managed by Blackstone, Blue Owl, Sixth Street, Pimco, and Ares. While the pension fund has reportedly initiated steps to provide potential buyers with access to fund information, the deal remains in the consideration phase and could still change or fail to materialize. This transaction would be notable as a rare instance of a limited partner, rather than an asset manager, structuring a CFO.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:34+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BX"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284444",
+      "title": "ICE Chair and CEO Jeffrey Sprecher to Present at Goldman Sachs Financial Services Conference",
+      "url": "https://investingnews.com/intercontinental-exchange-chair-ceo-jeffrey-c-sprecher-to-present-at-the-goldman-sachs-financial-services-conference-on-december-8/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Intercontinental Exchange announced that Chair and CEO Jeffrey Sprecher will present at the upcoming Goldman Sachs Financial Services Conference on December 8, 2026.",
+      "content": "Intercontinental Exchange, Inc. announced that its Chair and CEO, Jeffrey Sprecher, is scheduled to deliver a presentation at the Goldman Sachs Financial Services Conference. The event is set to take place on December 8, 2026, at 1:00 p.m. ET. The presentation will be available to the public via a live webcast on the company's investor relations website.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:27+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ICE"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284443",
+      "title": "Apollo Reported to be in Talks Regarding Financing for Potential Global Payments Acquisition",
+      "url": "https://www.pymnts.com/news/acquiring/2026/blackstone-warburg-pincus-and-apollo-weigh-backing-50-billion-global-payments-acquisition/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Apollo is reportedly among the private equity firms in discussions to help finance GTCR's potential take-private acquisition of Global Payments.",
+      "content": "According to reports citing unnamed sources, Apollo is in discussions to assist in financing a potential take-private acquisition of payments processor Global Payments by the private equity firm GTCR. The potential transaction is estimated to be worth approximately $50 billion. As of the report, the discussions are ongoing and no final agreement has been reached. Representatives for Apollo declined to comment on the matter.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:26+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "APO"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284442",
+      "title": "iwoca Launches Business Credit Card in Partnership with Visa and Enfuce",
+      "url": "https://newsfilter.io/articles/iwoca-and-visa-launch-credit-card-to-widen-sme-funding-choice-1e102139b16f5b9c972166fc3d7c6ba1",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Fintech company iwoca has introduced a new business credit card for UK small and medium-sized enterprises (SMEs) in collaboration with Visa and Enfuce.",
+      "content": "The new business credit card, powered by Enfuce's cloud-native infrastructure and the Visa network, is designed to provide UK SMEs with greater financial flexibility for managing day-to-day expenses and short-term cash flow gaps. The card offers 1% cashback on all spending, up to 42 days of interest-free credit, and carries no annual, foreign exchange, or late payment fees. According to polling cited in the announcement, 75% of UK SME leaders prefer cards over loans for short-term funding needs. Visa SVP Lucy Demery stated that the partnership aims to provide small businesses with increased financial choice to support their growth and contribution to the UK economy.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:21+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "V"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130284441",
+      "title": "Meta Releases 2026 Sustainability Report",
+      "url": "https://sustainabilitymag.com/news/inside-metas-commitment-to-sustainable-data-centres",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Meta published its 2026 Sustainability Report, outlining progress toward its 2030 water-positive goal and 2031 emissions targets.",
+      "content": "The report details Meta's strategy for building sustainable AI infrastructure, focusing on renewable energy and reducing embodied carbon in data center designs. Meta reported progress on its 2030 water-positive goal, emphasizing operational efficiency and water restoration in stressed regions. The company also highlighted its commitment to integrating biodiversity into its data center lifecycles and its ongoing efforts to reuse servers and components.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:01:17+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.905968+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "META"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:01404c3f2094b:0",
+      "title": "Collector Crypt: Collectible packs go live in Trust Wallet - 25 Nov 2026",
+      "url": "https://coinmarketcal.com/event/collectible-pack-opening-96314210-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:00:56+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.668652+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:TWTUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:516fa8f68094b:0",
+      "title": "Nillion: Unlocks up to 20.32 million NIL - Dec 2026",
+      "url": "https://coinmarketcal.com/event/3-4-supply-unlock-946c3918-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:00:51+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.668652+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:NILUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:f9ee01b33f634:0",
+      "title": "Japanese Market Sharply Lower",
+      "url": "https://www.tradingview.com/news/dpa_afx:f9ee01b33f634:0-japanese-market-sharply-lower/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:00:17+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.668652+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:NI225"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:3dcc6f5e2094b:0",
+      "title": "SoSoValue: SOSO supply unlock releases at least 19.31 million tokens - Dec 2026",
+      "url": "https://coinmarketcal.com/event/5-4-supply-unlock-61c43628-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:00:14+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.668652+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BINANCE:TUSDT.P"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009516:0",
+      "title": "These Charts Show How Fed Up Americans Are With the Cost of Streaming — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009516:0-these-charts-show-how-fed-up-americans-are-with-the-cost-of-streaming-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:00:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.668652+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DIS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47602U:0",
+      "title": "US oil may stabilise around $80.47 and rise",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47602U:0-us-oil-may-stabilise-around-80-47-and-rise/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:59:30+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.668652+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:CL1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47604S:0",
+      "title": "Palm oil falls on weaker soyoil, crude; Dalian gains limit losses",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47604S:0-palm-oil-falls-on-weaker-soyoil-crude-dalian-gains-limit-losses/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:59:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.668652+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:FCPO1!",
+          "CME:CPO1!",
+          "CBOT:ZL1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009514:0",
+      "title": "Xiaomi's Shares Jump After Earnings as Smartphone Margins Hold Up",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009514:0-xiaomi-s-shares-jump-after-earnings-as-smartphone-margins-hold-up/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:59:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.668652+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1810"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47605X:0",
+      "title": "HRT trading revenue tops $21 billion, eclipsing full-year record- Bloomberg News",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47605X:0-hrt-trading-revenue-tops-21-billion-eclipsing-full-year-record-bloomberg-news/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:58:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.668652+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4809276:0",
+      "title": "Qfin: Tighter credit controls and industry headwinds drove lower Q3 earnings and a cautious Q4 outlook",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4809276:0-qfin-tighter-credit-controls-and-industry-headwinds-drove-lower-q3-earnings-and-a-cautious-q4-outlook/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:56:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.668652+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47601P:0",
+      "title": "Japan's Nikkei falls more than 3%, dragged down by plunges for AI stocks",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47601P:0-japan-s-nikkei-falls-more-than-3-dragged-down-by-plunges-for-ai-stocks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:55:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.668652+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:NI225",
+          "TSE:TOPIX",
+          "NASDAQ:NVDA",
+          "TSE:6857",
+          "TSE:8035",
+          "TSE:9984",
+          "TSE:285A",
+          "TSE:4578",
+          "TSE:4503",
+          "TSE:4506",
+          "TSE:4543",
+          "TSE:6758",
+          "TSE:7203",
+          "TSE:7267"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009513:0",
+      "title": "Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009513:0-asian-stocks-mostly-lower-on-ai-doubts-tariff-jitters/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:55:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.668652+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:KOSPI",
+          "TVC:NI225",
+          "TWSE:IX0001"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4809263:0",
+      "title": "SYL: Record FY 2026 results and a AUD 9.2bn pipeline underpin FY 2027 growth plans",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4809263:0-syl-record-fy-2026-results-and-a-aud-9-2bn-pipeline-underpin-fy-2027-growth-plans/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:52:46+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.668652+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:SYL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:5a5c62cd1094b:0",
+      "title": "Trade Spotlight: How should you trade Coforge, Torrent Pharma, Siemens Energy, Union Bank of India, Motilal Oswal, and others on November 25?",
+      "url": "https://www.tradingview.com/news/moneycontrol:5a5c62cd1094b:0-trade-spotlight-how-should-you-trade-coforge-torrent-pharma-siemens-energy-union-bank-of-india-motilal-oswal-and-others-on-november-25/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:52:35+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.668652+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:COFORGE",
+          "NSE:TORNTPHARM",
+          "NSE:BAJAJ_AUTO"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261124009509:0",
       "title": "AI Capex Likely to Surge in 2027; Power, Funding Constraints Loom — Market Talk",
@@ -108,6 +988,25 @@
           "NYSE:DELL"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/24/jensen-huang-s-return-could-make-a-tesla-spacex-merger-more-likely/?.tsrc=rss",
+      "title": "Jensen Huang's Return Could Make a Tesla/SpaceX Merger More Likely",
+      "url": "https://www.fool.com/investing/2026/11/24/jensen-huang-s-return-could-make-a-tesla-spacex-merger-more-likely/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The regulatory environment looks more forgiving after Huang's return.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:50:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:44.930709+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:7864473cc263a:0",
@@ -1473,6 +2372,25 @@
       "extra": {}
     },
     {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/24/what-a-usd5-000-investment-in-shopify-stock-today-could-grow-into-by-2030/?.tsrc=rss",
+      "title": "What a $5,000 Investment in Shopify Stock Today Could Grow Into by 2030",
+      "url": "https://www.fool.com/investing/2026/11/24/what-a-usd5-000-investment-in-shopify-stock-today-could-grow-into-by-2030/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The e-commerce business might more than double its cash flow per share by 2030. The stock's gain may be much lower.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:03:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:44.930709+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "alpaca:130277359",
       "title": "Greenpro Capital Reports Quarterly Financial Results",
       "url": "https://www.moomoo.com/stock/GRNQ-US?chain_id=Name1K9-3FXPhg.1lfa0c0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A33,%22promote_content%22%3A%22mm%3A1002877326%22,%22f%22%3A%22www.moomoo.com%2Fnews%2Fpost%2F1002877326%2Fpolaris-is-maintained-at-neutral-by-citigroup%22%7D",
@@ -2681,6 +3599,25 @@
       "published_at": "2026-11-25T08:55:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T10:53:13.244381+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.kiplinger.com/investing/blue-chip-stocks/sleeper-blue-chip-stock-picks-for-steady-long-term-gains?.tsrc=rss",
+      "title": "5 Sleeper Blue-Chip Stock Picks for Steady Long-Term Gains",
+      "url": "https://www.kiplinger.com/investing/blue-chip-stocks/sleeper-blue-chip-stock-picks-for-steady-long-term-gains?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Forget the red-hot headline grabbers for a minute. We're dedicating space to high-quality sleeper stocks that have already delivered and could keep climbing.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:52:33+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:44.930709+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -5918,6 +6855,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T11:00:47.669617+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:74f82572601e051efa6c765f7d17494469d6cc9e",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b065089527b4c65a32aeb47921ab5ff&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:47.817478+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",

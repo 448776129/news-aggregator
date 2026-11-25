@@ -3,8 +3,8 @@
   "category": "community",
   "category_name": "社区新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T11:00:48.794883+08:00",
-  "count": 94,
+  "generated_at": "2026-11-25T11:05:48.966408+08:00",
+  "count": 95,
   "sources": [
     {
       "name": "reddit",
@@ -26,6 +26,34 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670130200",
+      "title": "$SPY $QQQ $TSLA $NVDA $AAPL You heard the man",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "PPTrader3",
+      "summary": "$SPY $QQQ $TSLA $NVDA $AAPL You heard the man",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T11:03:56+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T11:05:45.489758+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "community",
+      "extra": {
+        "sentiment": "Bullish",
+        "symbols": [
+          "SPY",
+          "QQQ",
+          "TSLA",
+          "NVDA",
+          "AAPL"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670129926",
       "title": "$TSLA $NVDA at some point rationality needs to take hold of this market. It is becoming in uninvestable. I truly in all ",
