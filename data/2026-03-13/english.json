@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-24T23:29:13.955704+08:00",
-  "count": 1,
+  "generated_at": "2026-11-25T11:43:15.491595+08:00",
+  "count": 2,
   "sources": [
     {
       "name": "alpaca",
@@ -53,6 +53,25 @@
       "published_date": "2026-03-13",
       "fetched_at": "2026-11-24T23:29:11.859206+08:00",
       "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:9a1e07bdc47b4aa244a2dc0c94c11efab6f53c29",
+      "title": "Here’s Where the U.S. Economy Is Most Vulnerable to Iran War",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0659502817497ca1093aa3449274ce&url=https%3a%2f%2fwww.wsj.com%2feconomy%2fheres-where-the-u-s-economy-is-most-vulnerable-to-iran-war-ef6617f5&c=18368249352522960092&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Iran spent years stockpiling weapons that could be used to paralyze traffic on one of the world’s most important oil passageways. WSJ’s Shelby Holliday explains how Iran’s mines, missiles, drones and ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-03-13T17:59:00+08:00",
+      "published_date": "2026-03-13",
+      "fetched_at": "2026-11-25T11:43:14.933502+08:00",
+      "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
       "extra": {}
