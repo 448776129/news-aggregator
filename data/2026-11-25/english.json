@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T12:31:16.638306+08:00",
-  "count": 449,
+  "generated_at": "2026-11-25T12:34:14.512180+08:00",
+  "count": 454,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 35,
+      "count": 37,
       "error": ""
     },
     {
@@ -284,6 +284,25 @@
           "TSX:SLF"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/le-monde-details-suspected-nvidia-042239633.html?.tsrc=rss",
+      "title": "Le Monde details suspected Nvidia chip diversion network through Southeast Asia",
+      "url": "https://finance.yahoo.com/technology/ai/articles/le-monde-details-suspected-nvidia-042239633.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Investing.com -- A network of companies and intermediaries may have helped move restricted Nvidia AI servers through Singapore and Malaysia and potentially into China, according to a new investigation by French newspaper Le Monde.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:22:39+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:34:10.519260+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47604P:0",
@@ -3865,6 +3884,30 @@
       "extra": {}
     },
     {
+      "id": "finnhub:8806591",
+      "title": "Yemen's Houthis threaten to target Jeddah and other Saudi Red Sea ports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmE5cEFGWGFLVzVEUlVvWlE5NzJaT2p0MTUxclgxejJ2ZHJPbTQ5d1BLNzh6R2tFb251aWQ4dHBUTDRtaTlETkVick9uV1hKVkdZSjNPbFk5M2NBd1oxQXptdzAtLS1zVzlidDBDVXBmWFAyVnRzMGRmZHNGZVk4T3Y1aV9ycGZFcWxGejZ0T29BbG9EUks5QjZ0bzFVRG05YlVQemt4UDdDSEY5cUZrYzNsSU9VMGVX?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Yemen's Houthis threaten to target Jeddah and other Saudi Red Sea ports Reuters",
+      "content": "Yemen's Houthis threaten to target Jeddah and other Saudi Red Sea ports Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:42:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:34:12.185583+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "tradingview:DJN_DN20261124009493:0",
       "title": "Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters",
       "url": "https://www.tradingview.com/news/DJN_DN20261124009493:0-asian-stocks-mostly-lower-on-ai-doubts-tariff-jitters/",
@@ -4821,6 +4864,30 @@
         "symbols": [
           "FMFC"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8806592",
+      "title": "Oil prices fall as supply glut concerns offset Middle East disruption fears - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGl4Nzdfc01ReTB5TnAxUkVLTXlaRVFvbGM5aTZDOEtVUXlrVDQtMHJwcWh2WldoMnVyb0QxU1pEQUoyN09sNU1SZXR3NVUzdTZXeWpkdGNTZW95MUtmdjV3dWFxTEZsRW5WUlF1djVTTWZxUGVxcHhPNEptMnBEcmZ0MURhX0JxTDFqc19HblpWd2hLSEs5SXRYTXB6bzFwNzZqOUFTc1ZOM3ItVDFZWmM2a0R5YkxsdnlsMTZWQ1ZEUQ?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Oil prices fall as supply glut concerns offset Middle East disruption fears Reuters",
+      "content": "Oil prices fall as supply glut concerns offset Middle East disruption fears Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:58:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:34:12.185583+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -9579,6 +9646,25 @@
       "extra": {}
     },
     {
+      "id": "msn:f23154ecb48e5b3d205ae1c1abfc7cf2c1f15c92",
+      "title": "Stock Market News From Nov. 24, 2026: AI Stocks Sink. The Rest of the Market Is Doing Just ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06654322a243f588532e4a35e47c82&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today-112426&c=16104040240120877104&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Dow, Nasdaq, and S&P 500 futures are falling in premarket trading as the stock market rally sparked by Jensen Huang's Nvidia return fades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:39:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:34:13.098059+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:b3e533b215059019733b3084f955c26e609e0363",
       "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b064d9a6cb74171970c0fae23d59d9e&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
@@ -10162,6 +10248,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T12:31:14.863434+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0f5950f38ab8f2758fcc77e9fb8c6bb012eb15ae",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06654322a243f588532e4a35e47c82&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:34:13.098059+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
