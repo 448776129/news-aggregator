@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T22:49:22.224591+08:00",
-  "count": 1,
+  "generated_at": "2026-11-26T03:43:19.836019+08:00",
+  "count": 2,
   "sources": [
     {
       "name": "alpaca",
@@ -53,6 +53,25 @@
       "published_date": "2024-03-14",
       "fetched_at": "2026-11-25T22:49:19.788118+08:00",
       "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:8acfb299315a7a84494936939cb53b2861cf80d1",
+      "title": "The Stock Market: Where Buyers and Sellers Meet",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b073a5327bd471ea1f84b680b409d4e&url=https%3a%2f%2fwww.nasdaq.com%2farticles%2fthe-stock-market-where-buyers-and-sellers-meet&c=11135853866534230092&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "This is a guide to what the market is, and what it means. What is the Stock Market? Like the term \"Hollywood,\" the stock market is both place and concept. There are stock markets all over the world, ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2024-03-14T18:32:00+08:00",
+      "published_date": "2024-03-14",
+      "fetched_at": "2026-11-26T03:43:17.018805+08:00",
+      "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
       "extra": {}
