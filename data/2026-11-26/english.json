@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T06:25:17.764338+08:00",
-  "count": 1412,
+  "generated_at": "2026-11-26T06:28:14.816253+08:00",
+  "count": 1418,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,127 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:stocktwits:ca3e1a953094b:0",
+      "title": "Nvidia May Get A Credit Rating Cut Amid Governance Issues, While US Officials Reportedly Say No Chinese Interference in Huang’s Affair",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-may-get-a-credit-rating-cut-amid-governance-issues-while-us-officials-reportedly-say-no-chinese-interference-in-huang-s-affair/cNbHubZR9mx",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:26:54+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:28:10.577228+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47618D:0",
+      "title": "CME cattle retreat on pre-holiday profit taking, beef demand worries",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47618D:0-cme-cattle-retreat-on-pre-holiday-profit-taking-beef-demand-worries/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:26:24+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:28:10.577228+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CME:LE1!",
+          "CME:GF1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:704ae1fcf0df8:0",
+      "title": "Greenland Energy Pushes for Changes at Vision Marine Technologies with 9.66% Stake",
+      "url": "https://www.tradingview.com/news/tradingview:704ae1fcf0df8:0-greenland-energy-pushes-for-changes-at-vision-marine-technologies-with-9-66-stake/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:26:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:28:10.577228+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:VMAR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:8b50d5a24c3b1:0",
+      "title": "OrbiMed Advisors Discloses 27.5% Stake in Clywedog Therapeutics",
+      "url": "https://www.tradingview.com/news/tradingview:8b50d5a24c3b1:0-orbimed-advisors-discloses-27-5-stake-in-clywedog-therapeutics/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:26:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:28:10.577228+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CLYD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008009:0",
+      "title": "Harvey Norman's Property Portfolio Limits Downside — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008009:0-harvey-norman-s-property-portfolio-limits-downside-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:26:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:28:10.577228+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:HVN"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47616U:0",
       "title": "Canada's Kane Biotech Q3 revenue rises sharply on revyve sales",
@@ -983,6 +1104,25 @@
           "NASDAQ:NDX"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.thestreet.com/investing/michael-burry-slashes-nvidia-bets-but-issues-stark-warning?.tsrc=rss",
+      "title": "Michael Burry slashes Nvidia bets but issues stark warning",
+      "url": "https://www.thestreet.com/investing/michael-burry-slashes-nvidia-bets-but-issues-stark-warning?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The “Big Short” investor has reduced his bearish Nvidia position ahead of a historic rally.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:17:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T06:28:10.451922+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4750QQ:0",
