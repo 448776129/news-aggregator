@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T13:34:16.528498+08:00",
-  "count": 592,
+  "generated_at": "2026-11-25T13:37:15.480947+08:00",
+  "count": 594,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "error": ""
     },
     {
@@ -12375,6 +12375,25 @@
       "extra": {}
     },
     {
+      "id": "msn:e3d49a7e4c0f53b206644647f0f9f4cd037de0e9",
+      "title": "Stock Market News From Nov. 24, 2026: AI Stocks Sink. The Rest of the Market Is Doing Just ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b067406fe1a4c0da0270ea079c4e7e8&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today-112426&c=16104040240120877104&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Dow, Nasdaq, and S&P 500 futures are falling in premarket trading as the stock market rally sparked by Jensen Huang's Nvidia return fades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:39:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T13:37:12.805391+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:b3e533b215059019733b3084f955c26e609e0363",
       "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b064d9a6cb74171970c0fae23d59d9e&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
@@ -13338,6 +13357,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T13:34:13.173494+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6c7d220d71f38d70473bfa32170b28a1c1dc4c9d",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b067406fe1a4c0da0270ea079c4e7e8&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T13:37:12.805391+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
