@@ -3,17 +3,161 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:16:28.656838+08:00",
-  "count": 20,
+  "generated_at": "2026-11-26T00:22:15.430796+08:00",
+  "count": 26,
   "sources": [
     {
       "name": "stocktwits",
       "status": "ok",
-      "count": 20,
+      "count": 26,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670182979",
+      "title": "$TSLA I’ll say this closes at 355 today. I hope I am wrong",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "23stocktwits",
+      "summary": "$TSLA I’ll say this closes at 355 today. I hope I am wrong",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:21:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.560130+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": "Bearish",
+        "symbols": [
+          "TSLA"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670182943",
+      "title": "$AAPL the Gamble is on , wow",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "jujets",
+      "summary": "$AAPL the Gamble is on , wow",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:49+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.560130+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "AAPL"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670182940",
+      "title": "$AAPL flipped back in calls for 350$ retest",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "stv62820",
+      "summary": "$AAPL flipped back in calls for 350$ retest",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:48+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.560130+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": "Bullish",
+        "symbols": [
+          "AAPL"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670182798",
+      "title": "🚨 RSW Alert (5m Delay) | $TSLA • Price: $362.16 • Direction: Relative Weakness 🔴 • Setup Score: 77/100 • SPY Context: SP",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "masterthemarkettrading",
+      "summary": "🚨 RSW Alert (5m Delay) | $TSLA • Price: $362.16 • Direction: Relative Weakness 🔴 • Setup Score: 77/100 • SPY Context: SPY moved +0.12% from the previous 5m close while $TSLA is showing underperforming SPY. 📊 Real-time signals + profit targets linked in my bio!",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:19:58+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.560130+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "TSLA"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670182684",
+      "title": "$TSLA",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "thecuzzin",
+      "summary": "$TSLA",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:19:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.560130+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": "Bullish",
+        "symbols": [
+          "TSLA"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670182362",
+      "title": "Options Flow Map by GTA, $AAPL (as of 10:50 AM ET): the near-term path from GTA's proprietary Options Flow Path Model is",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "GTA_Terminal",
+      "summary": "Options Flow Map by GTA, $AAPL (as of 10:50 AM ET): the near-term path from GTA's proprietary Options Flow Path Model is pinned near the price, while the later expirations lean lower too. The expected-move cone: about 2.0% either way by Nov 27. Across these expirations, 28% of contracts traded were calls (bearish). The path levels are in the article. Source: GTA Terminal from Global Traders Academy. Read the article for full details: https://globaltradersacademy.com/articles/options-flow-map-by-gta-apple-aapl-projected-options-path-nov-25?utm_source=stocktwits",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:17:09+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.560130+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "AAPL"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670182227",
       "title": "$AMD $AAPL $TSLA $NVDA $SPY this pic never gets old",

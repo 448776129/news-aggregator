@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:10:23.500070+08:00",
-  "count": 13,
+  "generated_at": "2026-11-26T00:22:15.428312+08:00",
+  "count": 24,
   "sources": [
     {
       "name": "cls",
@@ -15,17 +15,246 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 13,
+      "count": 23,
       "error": ""
     },
     {
       "name": "sina",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvv1633795.shtml",
+      "title": "黄仁勋回归难消英伟达隐忧 市值已蒸发2万亿美元",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvv1633795.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "随着投资者开始正视全球最大芯片制造商仍然面临的诸多悬而未决问题，英伟达首席执行官黄仁勋回归后围绕该公司股票的亢奋情绪正在消退。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:28+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:12.928565+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261126001827064800",
+      "title": "Card payments overtook cash for the first time at shops, restaurants and petrol ",
+      "url": "https://www.jin10.com/#/flash/20261126001827064800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Card payments overtook cash for the first time at shops, restaurants and petrol stations in the euro zone, the European Central Bank said.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:18:27+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.635446+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126001825485800",
+      "title": "欧洲央行表示，在欧元区的商店、餐厅和加油站，银行卡支付首次超过现金支付。",
+      "url": "https://www.jin10.com/#/flash/20261126001825485800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "欧洲央行表示，在欧元区的商店、餐厅和加油站，银行卡支付首次超过现金支付。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:18:25+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.635446+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126001759409800",
+      "title": "Equinor: Planned shutdowns are expected to reduce average daily production in 20",
+      "url": "https://www.jin10.com/#/flash/20261126001759409800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Equinor: Planned shutdowns are expected to reduce average daily production in 2026 by 15 million to 20 million barrels of oil equivalent.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:17:59+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.635446+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126001754940800",
+      "title": "挪威国家石油公司：预计停产将使2026年平均日产量减少1500万至2000万桶油当量。",
+      "url": "https://www.jin10.com/#/flash/20261126001754940800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "挪威国家石油公司：预计停产将使2026年平均日产量减少1500万至2000万桶油当量。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:17:54+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.635446+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126001642130800",
+      "title": "EQUINOR: Shut-ins at the Bacalhau and Visund fields will reduce full-year produc",
+      "url": "https://www.jin10.com/#/flash/20261126001642130800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "EQUINOR: Shut-ins at the Bacalhau and Visund fields will reduce full-year production by 15,000-20,000 barrels of oil equivalent per day.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:16:42+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.635446+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126001640389800",
+      "title": "挪威国家石油公司：Bacalhau和Visund油田停产将使全年日产量减少1.5万至2万桶油当量。",
+      "url": "https://www.jin10.com/#/flash/20261126001640389800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "挪威国家石油公司：Bacalhau和Visund油田停产将使全年日产量减少1.5万至2万桶油当量。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:16:40+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.635446+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126001636365800",
+      "title": "Equinor cut its 2026 production growth guidance to about 3% from 4% after tempor",
+      "url": "https://www.jin10.com/#/flash/20261126001636365800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Equinor cut its 2026 production growth guidance to about 3% from 4% after temporary shutdowns.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:16:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.635446+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126001634104800",
+      "title": "挪威国家石油公司：在临时停产之后更新2026年产量指引。将2026年产量指引调整为约3%的增长，此前公布的增幅为4%。",
+      "url": "https://www.jin10.com/#/flash/20261126001634104800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "挪威国家石油公司：在临时停产之后更新2026年产量指引。将2026年产量指引调整为约3%的增长，此前公布的增幅为4%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:16:34+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.635446+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126001424067800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261126001424067800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:14:24+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.635446+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126000938435800",
+      "title": "Asked about sheltering Royal Air Force aircraft overnight, the UK Ministry of De",
+      "url": "https://www.jin10.com/#/flash/20261126000938435800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Asked about sheltering Royal Air Force aircraft overnight, the UK Ministry of Defence said it was constantly adapting to meet and respond to any potential threat.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:09:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.635446+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "jin10:20261126000935514800",
       "title": "英国国防部在被问及夜间为皇家空军飞机提供掩蔽时表示：我们始终在调整以适应并应对任何潜在威胁。",

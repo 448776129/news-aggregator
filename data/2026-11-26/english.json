@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:16:28.654336+08:00",
-  "count": 89,
+  "generated_at": "2026-11-26T00:22:15.424512+08:00",
+  "count": 138,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 0,
+      "count": 2,
       "error": ""
     },
     {
@@ -33,11 +33,948 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 3,
+      "count": 8,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6996Ea:0",
+      "title": "REG - Schroder Br.Opps.Tst - Block listing Interim Review",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6996Ea:0-reg-schroder-br-opps-tst-block-listing-interim-review/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:21:30+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:SBO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUA2TP6LF:0",
+      "title": "Equinor Updates 2026 Production Guidance Following Temporary Shut-Ins",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA2TP6LF:0-equinor-updates-2026-production-guidance-following-temporary-shut-ins/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:21:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:EQNR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6995Ea:0",
+      "title": "REG - Luceco PLC - Director/PDMR Shareholding",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY6995Ea:0-reg-luceco-plc-director-pdmr-shareholding/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:21:23+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:LUCE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:99b34839c094b:0",
+      "title": "Spend now, save later? U.S. saving rate halves pre-Covid norm",
+      "url": "https://seekingalpha.com/news/4676631-spend-now-save-later-us-saving-rate-halves-pre-covid-norm?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:33+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:VTIP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4761P3:0",
+      "title": "Arlen Makes Early Repayment Of 5 Mln Zlotys On Loan From Subsidiary Optex",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4761P3:0-arlen-makes-early-repayment-of-5-mln-zlotys-on-loan-from-subsidiary-optex/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:ARL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:8b91e4b4eeb40:0",
+      "title": "Abercrombie & Fitch Company Stock 12‑Month Price Target Raised to $186.09, Implies 11% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:8b91e4b4eeb40:0-abercrombie-fitch-company-stock-12-month-price-target-raised-to-186-09-implies-11-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:ANF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:2a5e8c9d9a512:0",
+      "title": "Ambarella, Inc. Stock 12‑Month Price Target Cut to $55.22, Implies 24% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:2a5e8c9d9a512:0-ambarella-inc-stock-12-month-price-target-cut-to-55-22-implies-24-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMBA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:81decc52d1bad:0",
+      "title": "Baker Hughes Company Stock 12‑Month Price Target Cut to $69.3, Implies 51% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:81decc52d1bad:0-baker-hughes-company-stock-12-month-price-target-cut-to-69-3-implies-51-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:BKR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:46ea564f3e0b6:0",
+      "title": "Bilibili Inc. Stock 12‑Month Price Target Cut to $21.05, Implies 90% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:46ea564f3e0b6:0-bilibili-inc-stock-12-month-price-target-cut-to-21-05-implies-90-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:BILI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:5ce05041f5150:0",
+      "title": "CleanSpark, Inc. Stock 12‑Month Price Target Cut to $18.62, Implies 264% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:5ce05041f5150:0-cleanspark-inc-stock-12-month-price-target-cut-to-18-62-implies-264-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CLSK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:dfc614b71eb79:0",
+      "title": "Dell Technologies Inc. Stock 12‑Month Price Target Cut to $508.04, Implies 72% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:dfc614b71eb79:0-dell-technologies-inc-stock-12-month-price-target-cut-to-508-04-implies-72-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DELL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005293_20261125005321:0",
+      "title": "Equinor: Around 3% Rate Marks Reduction From Prior Guidance of Around 4%",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005293_20261125005321:0-equinor-around-3-rate-marks-reduction-from-prior-guidance-of-around-4/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:EQNR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0324b89c42714:0",
+      "title": "Fluence Energy, Inc. Stock 12‑Month Price Target Cut to $6.91, Implies 69% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:0324b89c42714:0-fluence-energy-inc-stock-12-month-price-target-cut-to-6-91-implies-69-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:FLNC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:c51c48a1e3f87:0",
+      "title": "FrontView REIT, Inc. Stock 12‑Month Price Target Cut to $21.45, Implies 17% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:c51c48a1e3f87:0-frontview-reit-inc-stock-12-month-price-target-cut-to-21-45-implies-17-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:FVR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:570ba489b679f:0",
+      "title": "GDS Holdings Limited Stock 12‑Month Price Target Cut to $47.21, Implies 242% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:570ba489b679f:0-gds-holdings-limited-stock-12-month-price-target-cut-to-47-21-implies-242-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:9698"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:fdb3bde8c7e75:0",
+      "title": "GoodRx Holdings, Inc. Stock 12‑Month Price Target Cut to $3.58, Implies 19% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:fdb3bde8c7e75:0-goodrx-holdings-inc-stock-12-month-price-target-cut-to-3-58-implies-19-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:GDRX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:8baaa568f1c66:0",
+      "title": "Kingsoft Cloud Holdings Limited Stock 12‑Month Price Target Cut to $18.03, Implies 190% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:8baaa568f1c66:0-kingsoft-cloud-holdings-limited-stock-12-month-price-target-cut-to-18-03-implies-190-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:KC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0232a325fff4f:0",
+      "title": "Kohl's Corporation Stock 12‑Month Price Target Raised to $21.73, Implies 14% Downside",
+      "url": "https://www.tradingview.com/news/tradingview:0232a325fff4f:0-kohl-s-corporation-stock-12-month-price-target-raised-to-21-73-implies-14-downside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:KSS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:796a7750424b0:0",
+      "title": "Nutanix, Inc. Stock 12‑Month Price Target Cut to $70, Implies 28% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:796a7750424b0:0-nutanix-inc-stock-12-month-price-target-cut-to-70-implies-28-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NTNX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:fc687757977fb:0",
+      "title": "PT Telekomunikasi Indonesia, Tbk Stock 12‑Month Price Target Cut to $16.52, Implies 49% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:fc687757977fb:0-pt-telekomunikasi-indonesia-tbk-stock-12-month-price-target-cut-to-16-52-implies-49-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "IDX:TLKM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:2b311cdeeb824:0",
+      "title": "Qfin Holdings, Inc. Stock 12‑Month Price Target Cut to $13.18, Implies 186% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:2b311cdeeb824:0-qfin-holdings-inc-stock-12-month-price-target-cut-to-13-18-implies-186-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:QFIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:1224504203ed2:0",
+      "title": "UP Fintech Holding Limited Stock 12‑Month Price Target Cut to $7.14, Implies 80% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:1224504203ed2:0-up-fintech-holding-limited-stock-12-month-price-target-cut-to-7-14-implies-80-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:TIGR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:28cde3e1b5fd0:0",
+      "title": "Urban Outfitters, Inc. Stock 12‑Month Price Target Cut to $87.92, Implies 3% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:28cde3e1b5fd0:0-urban-outfitters-inc-stock-12-month-price-target-cut-to-87-92-implies-3-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:URBN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:df05a1ce60b70:0",
+      "title": "Vinci Compass Investments Ltd. Stock 12‑Month Price Target Raised to $13.18, Implies 55% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:df05a1ce60b70:0-vinci-compass-investments-ltd-stock-12-month-price-target-raised-to-13-18-implies-55-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:VINP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:408527bf1bd97:0",
+      "title": "Workday, Inc. Stock 12‑Month Price Target Cut to $205.73, Implies 15% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:408527bf1bd97:0-workday-inc-stock-12-month-price-target-cut-to-205-73-implies-15-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:WDAY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:95e6bf02500ec:0",
+      "title": "Xiaomi Corporation Class B Stock 12‑Month Price Target Cut to HKD 33.67, Implies 27% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:95e6bf02500ec:0-xiaomi-corporation-class-b-stock-12-month-price-target-cut-to-hkd-33-67-implies-27-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1810"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:e5f73fb32094b:0",
+      "title": "Workday shows improving AI monetization as core business slows: analysts",
+      "url": "https://seekingalpha.com/news/4676617-workday-shows-improving-ai-monetization-as-core-business-slows-analysts?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:19:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:WDAY",
+          "NYSE:NOW",
+          "NYSE:ORCL",
+          "NYSE:SAP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762BY:0",
+      "title": "XTPL Q3 Net Loss At 3.7 Million Zlotys",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762BY:0-xtpl-q3-net-loss-at-3-7-million-zlotys/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:19:37+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:XTP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762JO:0",
+      "title": "Rex Concepts Q3 Net Loss At 26.9 Million Zlotys",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762JO:0-rex-concepts-q3-net-loss-at-26-9-million-zlotys/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:19:32+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:REX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760T1:0",
+      "title": "BoE's Bailey sees lower inflation peak if energy prices stabilise",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760T1:0-boe-s-bailey-sees-lower-inflation-peak-if-energy-prices-stabilise/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:19:08+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ICEEUR:BRN1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:3490c2c6f2df3:0",
+      "title": "Wedbush assumes coverage of Cognizant Tech Solns at Outperform, sets price target at $68",
+      "url": "https://www.tradingview.com/news/tradingview:3490c2c6f2df3:0-wedbush-assumes-coverage-of-cognizant-tech-solns-at-outperform-sets-price-target-at-68/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:19:05+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CTSH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005293_20261125005315:0",
+      "title": "Equinor Cuts 2026 Production Guidance",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005293_20261125005315:0-equinor-cuts-2026-production-guidance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:19:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:EQNR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005293_20261125005314:0",
+      "title": "Equinor: This Is Based on Incidents in Brazil and on Norwegian Continental Shelf",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005293_20261125005314:0-equinor-this-is-based-on-incidents-in-brazil-and-on-norwegian-continental-shelf/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:19:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:EQNR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005293_20261125005309:0",
+      "title": "Equinor Changes Production Guidance Back to Around 3% Growth for 2026",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005293_20261125005309:0-equinor-changes-production-guidance-back-to-around-3-growth-for-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:18:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:EQNR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005293_20261125005305:0",
+      "title": "Equinor: There Are Also Some Operational Challenges at Johan Castberg",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005293_20261125005305:0-equinor-there-are-also-some-operational-challenges-at-johan-castberg/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:18:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:EQNR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005306_20261125005306:0",
+      "title": "Sonic Lighting Withdraws Registration Statement for Initial Public Offering",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005306_20261125005306:0-sonic-lighting-withdraws-registration-statement-for-initial-public-offering/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:18:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005293_20261125005297:0",
+      "title": "Equinor: Shut-Ins Expected to Reduce Average Production by 15-20 Mboe Per Day for 2026",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005293_20261125005297:0-equinor-shut-ins-expected-to-reduce-average-production-by-15-20-mboe-per-day-for-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:17:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:EQNR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005293_20261125005302:0",
+      "title": "Equinor: There Are Temporary Shut-Ins at Bacalhau and Visund",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005293_20261125005302:0-equinor-there-are-temporary-shut-ins-at-bacalhau-and-visund/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:17:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:EQNR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125005293_20261125005293:0",
+      "title": "Equinor Updates 2026 Production Guidance Following Temporary Shut-ins",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125005293_20261125005293:0-equinor-updates-2026-production-guidance-following-temporary-shut-ins/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:16:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:EQNR"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_APNBJ2GTB:0",
       "title": "POLONIA Rate rises 0.04 pp.",
@@ -58,6 +995,39 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:d64bd913c094b:0",
+      "title": "The Honest Company, Armanino Foods lead small-cap consumer staples on quant ratings",
+      "url": "https://seekingalpha.com/news/4676422-the-honest-company-armanino-foods-lead-small-cap-consumer-staples-on-quant-ratings?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:15:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:HNST",
+          "OTC:AMNF",
+          "NYSE:BRBR",
+          "NYSE:ENR",
+          "NYSE:EPC",
+          "NYSE:TPB",
+          "NASDAQ:VITL",
+          "NYSE:FLO",
+          "NYSE:DMC",
+          "NASDAQ:JBSS"
+        ]
       }
     },
     {
@@ -273,6 +1243,54 @@
       }
     },
     {
+      "id": "tradingview:tradingview:45cb28738ed9c:0",
+      "title": "Equinor (EQNR) Cuts 2026 Production Growth Guidance to Around 3%",
+      "url": "https://www.tradingview.com/news/tradingview:45cb28738ed9c:0-equinor-eqnr-cuts-2026-production-growth-guidance-to-around-3/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:EQNR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:40376ee23094b:0",
+      "title": "Equinor updates 2026 production guidance following temporary shut-ins",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410453/0/en/equinor-updates-2026-production-guidance-following-temporary-shut-ins.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.704349+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:EQNR"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762E7:0",
       "title": "Sanok Rubber Company Invites Shareholders To Submit Offers To Buy Back Up To 1,141,400 Shares At 20.00 Zlotys Per Share",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762E7:0-sanok-rubber-company-invites-shareholders-to-submit-offers-to-buy-back-up-to-1-141-400-shares-at-20-00-zlotys-per-share/",
@@ -297,6 +1315,44 @@
       }
     },
     {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/nvidia-just-delivered-its-latest-earnings-report-is-the-stock-a-buy-below-usd160/?.tsrc=rss",
+      "title": "Nvidia Just Delivered Its Latest Earnings Report. Is the Stock a Buy Below $160?",
+      "url": "https://www.fool.com/investing/2026/11/25/nvidia-just-delivered-its-latest-earnings-report-is-the-stock-a-buy-below-usd160/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Multiple factors are driving down Nvidia's share price. Investors need to decide whether they think the business is impaired in the long term.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:13:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:10.919113+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/this-may-be-the-best-artificial-intelligence-ai-stock-to-buy-in-december-hint-it-s-not-micron-or-oracle/?.tsrc=rss",
+      "title": "This May Be the Best Artificial Intelligence (AI) Stock to Buy in December (Hint: It’s Not Micron or Oracle)",
+      "url": "https://www.fool.com/investing/2026/11/25/this-may-be-the-best-artificial-intelligence-ai-stock-to-buy-in-december-hint-it-s-not-micron-or-oracle/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Snowflake's shares have jumped nicely over the past six months, and they can get a shot in the arm following the upcoming earnings report.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:13:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:10.919113+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:acbbecf3fe4cb:0",
       "title": "Wedbush assumes coverage of Willdan Group at Outperform, sets price target at $83",
       "url": "https://www.tradingview.com/news/tradingview:acbbecf3fe4cb:0-wedbush-assumes-coverage-of-willdan-group-at-outperform-sets-price-target-at-83/",
@@ -319,6 +1375,25 @@
           "NASDAQ:WLDN"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/warren-buffett-makes-billions-dividends-161220808.html?.tsrc=rss",
+      "title": "How Warren Buffett Makes Billions from Dividends: Top 10 Stocks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-makes-billions-dividends-161220808.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Warren Buffett and dividends are an old love story that continues to this day, as Berkshire’s latest 13F filing shows. The filing also reveals portfolio changes as CEO Greg Abel reshapes Berkshire’s stock holdings after succeeding Buffett in January as the Omaha, Nebraska-based conglomerate’s leader. Berkshire bought $2.37 billion worth of stocks in the third […]",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:12:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:10.919113+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760OY:0",
@@ -779,6 +1854,25 @@
           "NASDAQ:EXLS"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/what-tom-gardner-said-about-days-like-this/?.tsrc=rss",
+      "title": "What Tom Gardner Said About Days Like This",
+      "url": "https://www.fool.com/investing/2026/11/25/what-tom-gardner-said-about-days-like-this/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "\"Emotional reactivity is the enemy of wealth creation,\" said The Motley Fool co-founder.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:09:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:10.919113+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:moodys:6c76bd706065b:0",
@@ -1372,6 +2466,30 @@
       }
     },
     {
+      "id": "finnhub:8808872",
+      "title": "Anthropic's stock has been a clunker post-IPO. Why that matters for the AI trade",
+      "url": "https://www.cnbc.com/investingclub/2026/11/25/anthropics-stock-has-been-a-clunker-post-ipo-why-that-matters-for-the-ai-trade.html",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "CNBC",
+      "summary": "Shares of Anthropic are trading below their IPO price, creating an overhang on other artificial intelligence names.",
+      "content": "Shares of Anthropic are trading below their IPO price, creating an overhang on other artificial intelligence names.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:05:25+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.910171+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "CNBC",
+        "category": "top news",
+        "related": "",
+        "image": "https://image.cnbcfm.com/api/v1/image/108555553-1795111066483-108555553-1795107330360-gettyimages-2305893920-mms15509_wkojpdxh.jpeg?v=1795111106&w=1920&h=1080"
+      }
+    },
+    {
       "id": "yahoo:https://finance.yahoo.com/video/tariffs-are-back-as-anthropic-sinks-further-below-its-ipo-price-160524926.html?.tsrc=rss",
       "title": "Tariffs are back as Anthropic sinks further below its IPO price",
       "url": "https://finance.yahoo.com/video/tariffs-are-back-as-anthropic-sinks-further-below-its-ipo-price-160524926.html?.tsrc=rss",
@@ -1385,6 +2503,25 @@
       "published_at": "2026-11-26T00:05:24+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T00:07:12.837540+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/heres-the-etf-portfolio-im-building-for-2027-and-why-im-not-changing-it-even-if-the-market-crashes/?.tsrc=rss",
+      "title": "Here's the ETF Portfolio I'm Building for 2027 -- and Why I'm Not Changing It Even if the Market Crashes",
+      "url": "https://www.fool.com/investing/2026/11/25/heres-the-etf-portfolio-im-building-for-2027-and-why-im-not-changing-it-even-if-the-market-crashes/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Instead of trying to predict a crash, prepare accordingly with broad ETFs.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:05:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:10.919113+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -1812,6 +2949,30 @@
         "symbols": [
           "NASDAQ:FIGR"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8808871",
+      "title": "Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
+      "url": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "CNBC",
+      "summary": "The U.S. International Development Finance Corporation and Catena Investments, based in the United Arab Emirates, are also parties to the deal, the sources said.",
+      "content": "The U.S. International Development Finance Corporation and Catena Investments, based in the United Arab Emirates, are also parties to the deal, the sources said.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:00:45+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:22:11.910171+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "CNBC",
+        "category": "top news",
+        "related": "",
+        "image": "https://image.cnbcfm.com/api/v1/image/107029888-1647265894397-gettyimages-1239189173-US_GAS_PRICES.jpeg?v=1795621185&w=1920&h=1080"
       }
     },
     {
