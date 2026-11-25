@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-11",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-25T10:53:17.823184+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:c4495b4d30f3ee4ddabdf59da11e66c07825acfb",
+      "title": "Understanding Stock Price and Market Cap: An Investor’s Guide",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b064d9a6cb74171970c0fae23d59d9e&url=https%3a%2f%2fwww.investopedia.com%2fask%2fanswers%2fhow-companys-stock-price-and-market-cap-determined%2f&c=3857390094886967976&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Leslie Kramer is a writer for Institutional Investor, correspondent for CNBC, journalist for Investopedia, and managing editor for Markets Group. Charlene Rhinehart is a CPA , CFE, chair of an ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-09-11T16:02:00+08:00",
+      "published_date": "2026-09-11",
+      "fetched_at": "2026-11-25T10:53:16.551410+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

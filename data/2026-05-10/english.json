@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-10",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-25T10:53:17.822782+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:2010e2b44b394897f0866554f2906e3750097a4c",
+      "title": "A History of U.S. Stock Market Crashes",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b064d9a6cb74171970c0fae23d59d9e&url=https%3a%2f%2fwww.fool.com%2finvesting%2fstock-market%2fbasics%2fcrashes%2f&c=13991067171525713360&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stock market crashes often follow debt-fueled economic expansions. Rapid sell-offs can result from automated trading or external crises. Significant financial interventions can help accelerate ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-05-10T19:08:00+08:00",
+      "published_date": "2026-05-10",
+      "fetched_at": "2026-11-25T10:53:16.551410+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

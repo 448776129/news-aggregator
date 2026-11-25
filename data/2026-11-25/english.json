@@ -3,25 +3,25 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T08:04:44.416843+08:00",
-  "count": 140,
+  "generated_at": "2026-11-25T10:53:17.845438+08:00",
+  "count": 258,
   "sources": [
     {
       "name": "alpaca",
       "status": "ok",
-      "count": 10,
+      "count": 50,
       "error": ""
     },
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 33,
+      "count": 35,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 0,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,2711 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261124009509:0",
+      "title": "AI Capex Likely to Surge in 2027; Power, Funding Constraints Loom — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009509:0-ai-capex-likely-to-surge-in-2027-power-funding-constraints-loom-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:51:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:moodys:d558740e15839:0",
+      "title": "Sensex, Nifty may open higher as foreign inflows, lower oil prices aid sentiment",
+      "url": "https://www.tradingview.com/news/moodys:d558740e15839:0-sensex-nifty-may-open-higher-as-foreign-inflows-lower-oil-prices-aid-sentiment/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:50:50+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:NIFTY",
+          "BSE:SENSEX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:272453876094b:0",
+      "title": "Dell Says AI Demand Remains ‘Firm,’ Every Order ‘Fully Vetted’ – But DELL Stock Barely Moves After Beat-And-Raise Quarter",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dell-says-ai-demand-remains-firm-every-order-fully-vetted-but-dell-stock-barely-moves-after-beat-and-raise-quarter/cNbu6VGR9lI",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:50:24+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DELL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:7864473cc263a:0",
+      "title": "Arthur J. Gallagher VP and Chief Financial Officer Sold Shares Worth Over $2.8M",
+      "url": "https://www.tradingview.com/news/tradingview:7864473cc263a:0-arthur-j-gallagher-vp-and-chief-financial-officer-sold-shares-worth-over-2-8m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:50:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:AJG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009507:0",
+      "title": "Iron Ore Prices Fall Amid Ample Supply, Subdued Demand — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009507:0-iron-ore-prices-fall-amid-ample-supply-subdued-demand-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SGX:FEF1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009505:0",
+      "title": "Technology One Bull Says It Is an AI Standout — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009505:0-technology-one-bull-says-it-is-an-ai-standout-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:49:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:TNE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4809255:0",
+      "title": "ART: Record growth meets cash discipline as investors question remuneration and dilution",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4809255:0-art-record-growth-meets-cash-discipline-as-investors-question-remuneration-and-dilution/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:48:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:ART"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N476057:0",
+      "title": "Alibaba in talks for potential yuan, dollar bond sale next year- Bloomberg News",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N476057:0-alibaba-in-talks-for-potential-yuan-dollar-bond-sale-next-year-bloomberg-news/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:48:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BABA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:d8718e9b1094b:0",
+      "title": "NFLX Stock Edges Lower Overnight: Streaming Giant Buys Historic ‘Seinfeld’ Studio Lot In Reported $380M Deal",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nflx-stock-edges-lower-overnight-streaming-giant-buys-historic-seinfeld-studio-lot-in-reported-380-m-deal/cNbu6SoR9l4",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:46:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NFLX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:the_block:8929d058d094b:0",
+      "title": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K",
+      "url": "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082?utm_source=tradingview&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "The Block",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:46:14+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/m/d96603c1-fe7f-3bf3-8158-0728b464d469/dow-jones-futures-fall%3B-trump.html?.tsrc=rss",
+      "title": "Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake",
+      "url": "https://finance.yahoo.com/m/d96603c1-fe7f-3bf3-8158-0728b464d469/dow-jones-futures-fall%3B-trump.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Futures fell after AI stocks tumbled but medicals, retailers and more rose. President Trump mused about an Nvidia stake. Fed inflation data looms.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:45:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:13.244381+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009502:0",
+      "title": "Harder to Rule Out Further RBA Hike — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009502:0-harder-to-rule-out-further-rba-hike-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:45:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ECONOMICS:AUIRYY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47604N:0",
+      "title": "Japan futures edge up on tight supply, weaker oil and equities cap gains",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47604N:0-japan-futures-edge-up-on-tight-supply-weaker-oil-and-equities-cap-gains/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:44:45+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TOCOM:TRB1!",
+          "SHFE:RU1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:smallcaps:ffd662f9b094b:0",
+      "title": "Emyria Selected for Participation in Compass Pathways’ Global Psilocybin PTSD Trial",
+      "url": "https://smallcaps.com.au/article/emyria-selected-for-participation-in-compass-pathways-global-psilocybin-ptsd-trial",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Small Caps",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:43:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:EMD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N476043:0",
+      "title": "Indian bonds seen rangebound; oil, RBI decision in focus",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N476043:0-indian-bonds-seen-rangebound-oil-rbi-decision-in-focus/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:43:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009497:0",
+      "title": "Palm Oil Falls on Lower Soybean Oil Prices — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009497:0-palm-oil-falls-on-lower-soybean-oil-prices-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:43:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:FCPO1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N3XW00F:0",
+      "title": "Malaysia Aviation Group to buy 10 Boeing 787 Dreamliners, CEO says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N3XW00F:0-malaysia-aviation-group-to-buy-10-boeing-787-dreamliners-ceo-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:42:55+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BA"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/world-indices/articles/tech-firms-back-crosshairs-huang-024219799.html?.tsrc=rss",
+      "title": "Tech firms back in crosshairs as Huang rally reverses",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/tech-firms-back-crosshairs-huang-024219799.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Technology firms once again tumbled Wednesday as the euphoria that greeted the return of Nvidia's Jensen Huang was washed away by the now-common panic and uncertainty over the AI boom.He said \"professional investors (were) apparently using the opening provided by the Jensen Huang comeback to unload technology exposure rather than rebuild it\".",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:42:19+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:13.244381+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009493:0",
+      "title": "Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009493:0-asian-stocks-mostly-lower-on-ai-doubts-tariff-jitters/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:40:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:KOSPI",
+          "TVC:NI225",
+          "TWSE:IX0001"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752CV:0",
+      "title": "Seojin System Wins 165.6 Billion Won Order",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752CV:0-seojin-system-wins-165-6-billion-won-order/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:38:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:178320"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN475287:0",
+      "title": "Gncenergy Wins 39.4 Billion Won Order",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN475287:0-gncenergy-wins-39-4-billion-won-order/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:37:42+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:119850"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N476025:0",
+      "title": "South Korean stocks slide as Wall Street tech slump revives AI doubts",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N476025:0-south-korean-stocks-slide-as-wall-street-tech-slump-revives-ai-doubts/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:36:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:KOSPI",
+          "KRX:005930",
+          "KRX:000660",
+          "KRX:373220",
+          "KRX:005380",
+          "KRX:000270",
+          "KRX:005490",
+          "KRX:207940",
+          "FX_IDC:USDKRW",
+          "TVC:KR10"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4752AJ:0",
+      "title": "Daesung Hi Tech Wins 22.5 Billion Won Order",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4752AJ:0-daesung-hi-tech-wins-22-5-billion-won-order/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:33:07+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:129920"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N46T0BQ:0",
+      "title": "Taxman can be China's next GDP growth engine",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46T0BQ:0-taxman-can-be-china-s-next-gdp-growth-engine/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:32:06+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009476_20261124009480:0",
+      "title": "Bilibili, JD.com Lead Gains on Hang Seng Tech Index",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009476_20261124009480:0-bilibili-jd-com-lead-gains-on-hang-seng-tech-index/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:241",
+          "NASDAQ:BILI",
+          "NASDAQ:JD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009485:0",
+      "title": "Taiwan's Taiex Returns to Bear Territory — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009485:0-taiwan-s-taiex-returns-to-bear-territory-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TWSE:IX0001"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009476_20261124009479:0",
+      "title": "Hang Seng Tech Index Reverses Losses; Last 2.0% Higher at 3535.51",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009476_20261124009479:0-hang-seng-tech-index-reverses-losses-last-2-0-higher-at-3535-51/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:31:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:241",
+          "NASDAQ:BILI",
+          "NASDAQ:JD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009476_20261124009478:0",
+      "title": "JD.com, Alibaba Health Lead Gains on Hang Seng Index",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009476_20261124009478:0-jd-com-alibaba-health-lead-gains-on-hang-seng-index/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:31:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:241",
+          "NASDAQ:BILI",
+          "NASDAQ:JD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:dccf57702094b:0",
+      "title": "Nvidia doesn’t need a succession plan, says Jensen Huang after returning to company",
+      "url": "https://www.tradingview.com/news/cnbctv:dccf57702094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:30:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N476049:0",
+      "title": "Thai baht/US dollar weaker on Wednesday",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N476049:0-thai-baht-us-dollar-weaker-on-wednesday/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:30:09+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX_IDC:USDTHB",
+          "COMEX:GC1!",
+          "OANDA:USDTHB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:b172082ff094b:0",
+      "title": "DKS Stock Heads For Second Green Month: Dick’s Sporting Goods Chairman Points To Early Signs Of A Foot Locker Turnaround: ‘Newness Matters’",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dks-stock-second-monthly-gain-dicks-sporting-goods-foot-locker-turnaround/cNbu6RdR9l3",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:28:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DKS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47603P:0",
+      "title": "Rupee to resume rally on positive flow backdrop, turn in market sentiment",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47603P:0-rupee-to-resume-rally-on-positive-flow-backdrop-turn-in-market-sentiment/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:26:59+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX_IDC:USDINR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:90f934d99094b:0",
+      "title": "TSLA Stock Slips Overnight: Dell And HP See No Quick Relief From The AI-Driven Chip Crunch Behind Tesla’s 25% Memory Cut",
+      "url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-dell-hp-no-quick-relief-ai-chip-crunch-tesla-memory-cut/cNbuC6fR9ld",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:26:26+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:TSLA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:7c401694ae51a:0",
+      "title": "ZYUS Life Sciences Announces Closing of Third Tranche of Non-Brokered Unit Offering Private Placement, Grant of Stock Options and Amendment to Certain Secured Debt",
+      "url": "https://www.tradingview.com/news/prnewswire:7c401694ae51a:0-zyus-life-sciences-announces-closing-of-third-tranche-of-non-brokered-unit-offering-private-placement-grant-of-stock-options-and-amendment-to-certain-secured-debt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:25:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:ZYUS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:d8096c76536b6:0",
+      "title": "ZYUS Life Sciences Corporation (ZYUS) Raises C$150K; Extends Some Matured Loans",
+      "url": "https://www.tradingview.com/news/tradingview:d8096c76536b6:0-zyus-life-sciences-corporation-zyus-raises-c-150k-extends-some-matured-loans/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:25:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:ZYUS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:5300a3e92f71f:0",
+      "title": "Top Business & Market Headlines Today — BL Morning Report, November 25, 2026",
+      "url": "https://www.tradingview.com/news/moodys:5300a3e92f71f:0-top-business-market-headlines-today-bl-morning-report-november-25-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:23:54+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TATASTEEL",
+          "NSE:APLAPOLLO",
+          "NSE:RELIANCE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:ad9e2388b094b:0",
+      "title": "Trading Plan: Can Nifty 50, Bank Nifty rebound sharply after a day of heavy profit booking?",
+      "url": "https://www.tradingview.com/news/moneycontrol:ad9e2388b094b:0-trading-plan-can-nifty-50-bank-nifty-rebound-sharply-after-a-day-of-heavy-profit-booking/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:23:18+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:NIFTY",
+          "NSE:BANKNIFTY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009469:0",
+      "title": "StarHub's M1 Deal Could Catalyze Singapore Telecom Sector's Recovery in 2027 — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009469:0-starhub-s-m1-deal-could-catalyze-singapore-telecom-sector-s-recovery-in-2027-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:23:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SGX:CC3",
+          "XETR:M12"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47601P:0",
+      "title": "Iron ore rangebound; coal hits one-month high on supply concerns",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47601P:0-iron-ore-rangebound-coal-hits-one-month-high-on-supply-concerns/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:22:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:TIO1!",
+          "BMFBOVESPA:VALE3",
+          "SGX:RBF1!",
+          "COMEX:EHR1!",
+          "COMEX:HRC1!",
+          "SGX:FEF1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N476024:0",
+      "title": "Palm oil may climb to 4,372 ringgit",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N476024:0-palm-oil-may-climb-to-4-372-ringgit/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:21:51+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:FCPO1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4808587:0",
+      "title": "Alpha HPA: Stage 2 advanced, demand commitments grew, and debt drawdown and valuation remained key scrutiny points",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4808587:0-alpha-hpa-stage-2-advanced-demand-commitments-grew-and-debt-drawdown-and-valuation-remained-key-scrutiny-points/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:21:42+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:A4N"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/24/1-reason-i-haven-t-bought-oklo-stock-and-probably-never-will/?.tsrc=rss",
+      "title": "1 Reason I Haven’t Bought Oklo Stock -- and Probably Never Will",
+      "url": "https://www.fool.com/investing/2026/11/24/1-reason-i-haven-t-bought-oklo-stock-and-probably-never-will/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Oklo still faces a cash flow dilemma.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:20:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:13.244381+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N476040:0",
+      "title": "Taiwan dollar and South Korean won lead decline in Asian FX",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N476040:0-taiwan-dollar-and-south-korean-won-lead-decline-in-asian-fx/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:19:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX_IDC:USDKRW",
+          "FX_IDC:USDMYR",
+          "FX_IDC:USDPHP",
+          "FTMO_OANDA:USDSGD",
+          "OANDA:USDTHB",
+          "IDX:COMPOSITE",
+          "MYX:BURSA",
+          "PSE:PSEI",
+          "TVC:STI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47603S:0",
+      "title": "Indian shares may open higher as foreign inflows, lower oil prices aid sentiment",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47603S:0-indian-shares-may-open-higher-as-foreign-inflows-lower-oil-prices-aid-sentiment/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:16:56+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:NIFTY",
+          "BSE:SENSEX",
+          "ICEEUR:BRN1!",
+          "NSE:JWL",
+          "NSE:CENTUM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N476040:0",
+      "title": "Vietnam dong, gold rates - November 25",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N476040:0-vietnam-dong-gold-rates-november-25/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:16:50+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX_IDC:USDVND",
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N45T04L:0",
+      "title": "SK Chairman Chey's ex-wife rejects court settlement recommendation",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45T04L:0-sk-chairman-chey-s-ex-wife-rejects-court-settlement-recommendation/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:16:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:034730"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47601W:0",
+      "title": "China stocks slip on tech sell-off, renewed US trade worries",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47601W:0-china-stocks-slip-on-tech-sell-off-renewed-us-trade-worries/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:15:20+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SSE:000001",
+          "SZSE:399300",
+          "SZSE:399006",
+          "SSE:000688",
+          "HSI:HSI",
+          "SSE:000300"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009457:0",
+      "title": "Palm Oil Prices Likely to Stay Elevated in December — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009457:0-palm-oil-prices-likely-to-stay-elevated-in-december-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:13:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:FCPO1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009451:0",
+      "title": "Petronas Chemicals Likely to Face Challenging Earnings Outlook — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009451:0-petronas-chemicals-likely-to-face-challenging-earnings-outlook-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:12:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:PCHEM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:e6ed56c7f094b:0",
+      "title": "December F&O Series: Two new stocks enter the segment; IREDA, IEX to exit",
+      "url": "https://www.tradingview.com/news/cnbctv:e6ed56c7f094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:10:12+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:ACUTAAS",
+          "NSE:APARINDS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009450_20261124009450:0",
+      "title": "Taiwan's Taiex Extends Losses, Last Down 7.45% at 37132.85",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009450_20261124009450:0-taiwan-s-taiex-extends-losses-last-down-7-45-at-37132-85/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:10:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "yahoo:https://stocktwits.com/news-articles/markets/equity/fed-december-rate-hike-oil-prices-nvidia-rally-inflation/cNbuClGR9l5?.tsrc=rss",
+      "title": "Nvidia’s Rebound, Falling Oil And A Strong Dollar: Three Signals Complicating The Fed’s December Decision",
+      "url": "https://stocktwits.com/news-articles/markets/equity/fed-december-rate-hike-oil-prices-nvidia-rally-inflation/cNbuClGR9l5?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Data from the CME FedWatch tool puts the probability of a 25 bps rate hike in December at 96.4%, while the odds of a 50 bps hike are at 3.6%.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:09:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:13.244381+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:stocktwits:490f6efc8094b:0",
+      "title": "Nvidia’s Rebound, Falling Oil And A Strong Dollar: Three Signals Complicating The Fed’s December Decision",
+      "url": "https://stocktwits.com/news-articles/markets/equity/fed-december-rate-hike-oil-prices-nvidia-rally-inflation/cNbuClGR9l5",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:09:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261124009445:0",
+      "title": "Copper Higher as Investors Buy the Dip — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009445:0-copper-higher-as-investors-buy-the-dip-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:09:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.682481+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:HG1!"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130280900",
+      "title": "Kandal M Venture Ltd Files Form S-8 with the SEC",
+      "url": "https://www.streetinsider.com/SEC+Filings?before_id=27385632",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Kandal M Venture Ltd filed a Form S-8 registration statement with the U.S. Securities and Exchange Commission on November 23, 2026.",
+      "content": "Kandal M Venture Ltd submitted a Form S-8 filing to the U.S. Securities and Exchange Commission on November 23, 2026. Form S-8 is typically used by public companies to register securities to be offered to employees under employee benefit plans. The filing represents a formal corporate action by the company regarding its equity or compensation structure.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:02:05+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "FMFC"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-p-014227385.html?.tsrc=rss",
+      "title": "Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-p-014227385.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Investing.com-- U.S. stock futures inched lower on Tuesday evening after the S&P 500 and Nasdaq Composite slipped during the regular session on tech losses, while investors awaited key inflation data for clues on the Federal Reserve's interest-rate outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:42:27+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:13.244381+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.thestreet.com/investing/why-nvidias-rebound-may-not-mean-the-sp-500-has-bottomed?.tsrc=rss",
+      "title": "Why Nvidia's rebound may not mean the S&P 500 has bottomed",
+      "url": "https://www.thestreet.com/investing/why-nvidias-rebound-may-not-mean-the-sp-500-has-bottomed?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Fundstrat technical strategist Mark Newton sees opportunity in beaten-down technology stocks but wants broader evidence before declaring a market bottom.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:23:10+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:13.244381+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/24/trump-says-inflation-could-help-pay-down-the-national-debt-here-s-what-that-means-for-your-retirement-savings/?.tsrc=rss",
+      "title": "Trump Says Inflation Could Help Pay Down the National Debt. Here's What That Means for Your Retirement Savings",
+      "url": "https://www.fool.com/investing/2026/11/24/trump-says-inflation-could-help-pay-down-the-national-debt-here-s-what-that-means-for-your-retirement-savings/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Investors must work a little harder to protect their wealth.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:20:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:13.244381+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/just-tell-truth-trump-says-011417145.html?.tsrc=rss",
+      "title": "‘Just Tell the Truth’: Trump Says Pardon ‘Always an Option’ for Jensen Huang, Urges Nvidia CEO Not to Plead the Fifth Before Congress",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/just-tell-truth-trump-says-011417145.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "President Donald Trump reportedly left open the possibility of pardoning Nvidia Corp. (NASDAQ:NVDA) CEO Jensen Huang and said he should not invoke the Fifth Amendment when he testifies before Congress next week. Pardon May Not Be ‘Necessary’ Asked about a pardon for any potential crimes in an interview with The New York Post on Tuesday, Trump said, “It’s always an option, I guess, but I don’t think it’ll be necessary.” He told the Post he wants Huang to “just tell the truth” to Congress and has",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:14:17+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:13.244381+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "alpaca:130277359",
+      "title": "Greenpro Capital Reports Quarterly Financial Results",
+      "url": "https://www.moomoo.com/stock/GRNQ-US?chain_id=Name1K9-3FXPhg.1lfa0c0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A33,%22promote_content%22%3A%22mm%3A1002877326%22,%22f%22%3A%22www.moomoo.com%2Fnews%2Fpost%2F1002877326%2Fpolaris-is-maintained-at-neutral-by-citigroup%22%7D",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Greenpro Capital Corp. reported its quarterly financial results, showing a loss per share of $0.23 and revenue of $733.325 thousand.",
+      "content": "Greenpro Capital Corp. (NASDAQ: GRNQ) announced its quarterly financial results, reporting a loss of $0.23 per share. This figure represents a 25.81% improvement compared to the loss of $0.31 per share reported in the same period of the previous year. Additionally, the company recorded quarterly sales of $733.325 thousand, marking a 510.12% increase from the $120.193 thousand in sales reported during the same period last year.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:02:18+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GRNQ"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277358",
+      "title": "FingerMotion Subsidiary Extends Exclusivity Period with Cascadia Power",
+      "url": "https://www.globenewswire.com/news-release/2026/11/24/3409396/0/en/fingermotion-extends-exclusivity-and-advances-definitive-negotiations-for-initial-colocation-tranche-at-brooks-campus-1.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "FingerMotion, Inc.'s subsidiary, Brooks Campus No. 1 Inc., has mutually agreed to extend the exclusivity period under a non-binding letter of intent with Cascadia Industries Ltd. (Cascadia Power).",
+      "content": "Brooks Campus No. 1 Inc., a wholly owned subsidiary of FingerMotion, Inc., has extended the exclusivity period of its non-binding letter of intent and expression of interest with Cascadia Industries Ltd., doing business as Cascadia Power. This agreement, originally announced on November 4, 2026, relates to the company's ongoing development of high-performance computing infrastructure. The company is currently pursuing a customer arrangement at its Brooks Campus #1 that could involve up to seven megawatts of critical computing capacity, representing a potential for over $100 million in contracted revenue over five years.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:02:17+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "FNGR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277357",
+      "title": "FingerMotion, Inc. Announces Corporate Name Change to BlueFlare, Inc. and Nasdaq Ticker Symbol Change to “BFLR”",
+      "url": "https://www.globenewswire.com/news-release/2026/11/23/3408911/0/en/fingermotion-inc-announces-corporate-name-change-to-blueflare-inc-and-nasdaq-ticker-symbol-change-to-bflr.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "FingerMotion, Inc. has officially changed its corporate name to BlueFlare, Inc. and its Nasdaq ticker symbol to “BFLR,” effective at the market open on November 25, 2026.",
+      "content": "FingerMotion, Inc. announced its corporate name change to BlueFlare, Inc. and a corresponding ticker symbol change to “BFLR,” effective November 25, 2026. This transition marks the completion of the company's strategic pivot toward becoming a North American power-first digital infrastructure business. The company is now focused on delivering firm, behind-the-meter power and modular high-performance computing capacity. Management stated that the new name and ticker symbol are intended to clearly reflect the company's updated strategy and future direction.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:02:17+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "FNGR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277356",
+      "title": "Datasea Launches U.S. AI Microdrama Initiative and Reports Growth in AI Agent Services",
+      "url": "https://www.prnewswire.com/news-releases/datasea-launches-us-ai-microdrama-initiative-targeting-a-projected-14-billion-global-microdrama-market-with-production-and-worldwide-distribution-planned-through-its-delaware-subsidiary-302948311.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Datasea announced the launch of a U.S. AI microdrama initiative through its Delaware subsidiary and reported that five AI agent customer arrangements have reached $7.23 million in cumulative services delivered.",
+      "content": "Datasea Intelligent Technology Ltd. has launched a new initiative to expand its AI agent technology into the U.S. digital entertainment market, specifically targeting the global microdrama sector. Production and distribution for this initiative will be managed through the company's wholly owned Delaware subsidiary, Datasea Acoustics LLC. Concurrently, the company reported that five previously announced AI agent customer arrangements have reached approximately US$7.23 million in cumulative services delivered. This figure represents an increase of approximately 81% from October, which the company characterizes as a commercial foundation for its international expansion efforts.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:02:15+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "DTSS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277355",
+      "title": "Datasea Receives Nasdaq Extension to Regain Compliance",
+      "url": "https://www.moomoo.com/stock/DTSS-US?chain_id=Name1K9-3FXPhg.1lfn680&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fhans%2Fstock%2F00020-HK%2Fforecast%22%7D",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Datasea Intelligent Technology Ltd. has been granted a 180-day extension by Nasdaq to regain compliance with listing requirements.",
+      "content": "Datasea Intelligent Technology Ltd. has received notification from Nasdaq granting an additional 180-day period to regain compliance with the exchange's listing requirements. The extension provides the company until March 22, 2027, to meet the necessary standards for continued listing on the Nasdaq exchange.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:02:15+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "DTSS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277354",
+      "title": "Nocera, Inc. Announces Binding Letter of Intent to Invest $22 Million in BitRock Ltd.",
+      "url": "https://www.globenewswire.com/news-release/2026/11/23/3408321/0/en/nocera-signs-binding-letter-of-intent-to-invest-22-million-for-an-approximately-44-stake-in-bitrock-a-self-powered-ai-data-center-developer-in-alberta.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Nocera, Inc. has entered into a binding letter of intent to invest approximately US$22 million in cash for a 44% stake in BitRock Ltd., a developer of AI data centers powered by natural gas.",
+      "content": "Nocera, Inc. announced on November 23, 2026, that it has signed a binding letter of intent to invest approximately US$22 million in cash for newly issued shares of BitRock Ltd., a Calgary-based developer of AI data centers. The investment, which values BitRock at approximately US$50 million post-money, would grant Nocera a 44% equity interest, along with rights to appoint directors and participate in major corporate decisions. The funds are earmarked for the construction of BitRock's first 10 MW AI data center facility in Alberta, Canada, which utilizes the company's own natural gas power generation. This investment is part of Nocera's broader strategic initiative to build an AI infrastructure platform, following previous agreements involving IRMA AI, INERGX, and QMAX Technology.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:02:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "NCRA"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277353",
+      "title": "VCI Global Enters Strategic Partnership with GeoX Intelligence for AI-Powered Mineral Exploration",
+      "url": "https://www.globenewswire.com/news-release/2026/11/23/3408357/0/en/vci-global-broadens-ai-growth-strategy-into-mineral-intelligence-and-critical-mineral-exploration-in-malaysia.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "VCI Global Limited has announced a strategic partnership with GeoX Intelligence Pte. Ltd. to expand its AI-driven business into mineral exploration and geological analysis in Malaysia.",
+      "content": "VCI Global Limited has entered into a Strategic Partnership Agreement with Singapore-based GeoX Intelligence Pte. Ltd. to leverage AI-powered mineral exploration and geological analysis technologies. The collaboration aims to combine GeoX's proprietary technology with VCI Global's local market access and commercial networks to pursue opportunities within Malaysia's mineral exploration ecosystem. This initiative is part of VCI Global's broader strategy to expand its AI-related business development into specialized industrial applications. The company noted that the global AI in mining market is projected to see significant growth, and it intends to position itself to capture commercial opportunities in this sector.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:02:06+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "VCIG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277352",
+      "title": "OFA Group Files Form 10-Q for Period Ending September 30, 2026",
+      "url": "https://www.streetinsider.com/SEC+Filings?before_id=27389193",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "OFA Group submitted its quarterly report (Form 10-Q) to the SEC on November 23, 2026.",
+      "content": "OFA Group filed its Form 10-Q quarterly report with the U.S. Securities and Exchange Commission on November 23, 2026, covering the period ending September 30, 2026. This filing provides the company's latest financial disclosures and operational updates. As a public company, these periodic reports are a standard requirement for maintaining transparency and regulatory compliance.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:02:04+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "OFAL"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277351",
+      "title": "Addentax Group Corp. Files Form 10-Q for Period Ending September 30, 2026",
+      "url": "https://www.streetinsider.com/SEC+Filings?before_id=27388658",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Addentax Group Corp. submitted its quarterly report (Form 10-Q) to the SEC on November 23, 2026.",
+      "content": "Addentax Group Corp. filed its Form 10-Q quarterly report with the U.S. Securities and Exchange Commission for the period ending September 30, 2026. The filing was recorded on November 23, 2026. This document provides the company's official quarterly financial and operational disclosures.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:02:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ATXG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277350",
+      "title": "Baozun Inc. Reports Third Quarter 2026 Financial Results",
+      "url": "https://www.prnewswire.com/news-releases/baozun-announces-third-quarter-2026-unaudited-financial-results-302949231.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Baozun Inc. announced its financial results for the third quarter of 2026, reporting total net revenues of RMB 2,386.4 million, a 10.7% increase year-over-year.",
+      "content": "Baozun Inc. reported total net revenues of RMB 2,386.4 million (US$355.9 million) for the third quarter of 2026, representing a 10.7% increase compared to the same period in 2025. The company recorded a loss from operations of RMB 51.1 million, compared to a loss of RMB 25.6 million in the prior-year period, while the non-GAAP loss from operations was RMB 40.7 million. Net loss attributable to ordinary shareholders narrowed to RMB 55.7 million from RMB 107.1 million in the third quarter of 2025. Management highlighted that the Brand Management segment's non-GAAP operating loss narrowed to RMB 28 million, driven by improved profitability for the Gap brand, which remains on track for full-year breakeven in 2026. Additionally, the company disclosed that as of November 24, 2026, it had US$9.1 million remaining under its current share repurchase program.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:02:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BZUN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277349",
+      "title": "Click Holdings Limited Board Approves Share Repurchase Program of Up to US$1.5 Million",
+      "url": "https://www.globenewswire.com/news-release/2026/11/24/3409296/0/en/click-holdings-nasdaq-clik-board-approves-share-repurchase-program-of-up-to-us-1-5-million.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Click Holdings Limited announced that its board of directors has authorized a share repurchase program to buy back up to US$1.5 million of its Class A ordinary shares.",
+      "content": "Click Holdings Limited has authorized a share repurchase program allowing the company to buy back up to US$1.5 million of its Class A ordinary shares. The board's decision is based on the belief that the current market price of the company's shares does not adequately reflect its financial performance and long-term prospects. The program will be funded from available cash on hand and may be executed through open-market purchases or privately negotiated transactions in compliance with Rule 10b-18. The authorization is valid for a period of up to 12 months. The company noted that its shares were recently valued at approximately US$0.66 per share, implying a market capitalization of about US$5.7 million.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:02:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "CLIK"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277348",
+      "title": "INNEOVA Holdings Limited to Effect 1-for-5 Share Consolidation",
+      "url": "https://www.globenewswire.com/news-release/2026/11/24/3409081/0/en/inneova-holdings-limited-to-effect-1-for-5-share-consolidation-on-november-27-2026.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "INNEOVA Holdings Limited announced a 5-for-1 share consolidation, effective November 27, 2026, to maintain compliance with Nasdaq listing requirements.",
+      "content": "INNEOVA Holdings Limited announced that its shareholders approved a 5-for-1 share consolidation at the annual general meeting held on September 3, 2026. The consolidation is scheduled to become effective on the Nasdaq Capital Market on November 27, 2026. This action is intended to ensure the company maintains compliance with Nasdaq Marketplace Rule 5550(a)(2). Following the consolidation, the company's issued and outstanding ordinary shares will be reduced from 16,770,624 to approximately 3,354,125, and the shares will trade under a new CUSIP number, G7776G112, while retaining the ticker symbol 'INEO'.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:59+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "INEO"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277300",
+      "title": "Noah Holdings Hosts 19th Global Black Diamond Summit in Singapore",
+      "url": "https://www.prnewswire.com/news-releases/noah-opens-19th-global-black-diamond-summit-to-explore-new-approaches-to-wealth-security-in-the-ai-era-302949431.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Noah Holdings Limited successfully hosted its 19th Global Black Diamond Summit, titled 'The Anchorage,' focusing on global asset allocation and wealth management in the AI era.",
+      "content": "Noah Holdings Limited hosted its 19th Global Black Diamond Summit, 'The Anchorage,' in Singapore, where the company is headquartered. The event gathered hundreds of clients, global asset management representatives, and leaders from business, government, and academia to discuss long-term investment strategies, asset allocation, and family wealth arrangements. Under the theme 'Safe Passage, Wider Horizons,' the summit addressed the challenges of market volatility and the impact of AI on investment decision-making. Keynote speakers, including Co-Founder and Chairwoman Norah Wang, emphasized the importance of balancing growth and protection for high-net-worth families in the current economic environment.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:59+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "NOAH"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277299",
+      "title": "Noah Holdings Limited Announces Unaudited Financial Results for the Third Quarter of 2026",
+      "url": "https://www.prnewswire.com/news-releases/noah-holdings-limited-announces-unaudited-financial-results-for-the-third-quarter-of-2026-302949558.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Noah Holdings Limited reported its unaudited financial results for the third quarter of 2026, detailing net income and client metrics.",
+      "content": "Noah Holdings Limited announced its unaudited financial results for the third quarter of 2026. The company reported net income attributable to shareholders of RMB97.4 million (US$14.5 million), representing a 55.4% decrease compared to the same period in 2025. Non-GAAP net income attributable to shareholders was RMB101.0 million (US$15.1 million), a 55.9% decrease year-over-year. The company noted that net revenues were impacted by lower performance-based income from mainland China public securities and asset management products. As of September 30, 2026, the company had 470,522 registered clients, while the aggregate value of investment products distributed during the quarter reached RMB16.0 billion (US$2.4 billion).",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:59+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "NOAH"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277298",
+      "title": "Youxin Technology Ltd Announces 1-for-6 Share Consolidation",
+      "url": "https://www.quantisnow.com/insight/sec-form-6-k-filed-by-youxin-technology-ltd-6804132",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Youxin Technology Ltd has announced that its shareholders approved a 1-for-6 share consolidation of its Class A ordinary shares, effective November 27, 2026.",
+      "content": "Youxin Technology Ltd (Nasdaq: YAAS) announced that its shareholders have approved a 1-for-6 share consolidation of the company's Class A ordinary shares. The consolidation is scheduled to become effective on November 27, 2026, with the goal of increasing the per-share trading price and supporting the company's continued listing on the Nasdaq Capital Market. Following the consolidation, the number of issued and outstanding Class A ordinary shares is expected to decrease from approximately 6.77 million to approximately 1.13 million. The company's Class B ordinary shares remain unaffected by this action, and the ticker symbol 'YAAS' will be retained.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:57+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "YAAS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277297",
+      "title": "Zhihu Inc. Reports Unaudited Third Quarter 2026 Financial Results",
+      "url": "https://newsfilter.io/articles/zhihu-inc-reports-unaudited-third-quarter-2026-financial-results-8f3f13292f0559119be8df3d79792088",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Zhihu Inc. announced its unaudited financial results for the third quarter ended September 30, 2026, reporting total revenues of RMB658.6 million and a net loss of RMB48.6 million.",
+      "content": "Zhihu Inc. reported total revenues of RMB658.6 million for the third quarter of 2026, remaining flat compared to the same period in 2025. The company recorded a net loss of RMB48.6 million, compared to RMB46.7 million in the prior year, with an adjusted net loss of RMB30.8 million. Marketing services revenue grew 4.5% year-over-year to RMB198.0 million, while total operating expenses declined by 3.1% to RMB487.8 million. As of September 30, 2026, the company held cash and equivalents, term deposits, restricted cash, and short-term investments totaling RMB4,240.4 million. Additionally, the company repurchased 6.7 million Class A ordinary shares for US$7.3 million during the quarter.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:56+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ZH"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277296",
+      "title": "Morgan Stanley Adjusts Price Target for Zoom Communications",
+      "url": "https://www.marketscreener.com/news/morgan-stanley-raises-zoom-communications-price-target-to-108-from-107-maintains-equal-weight-rat-ce7851dbdd8bf526",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Morgan Stanley has increased its price target for Zoom Communications, Inc. while maintaining an Equal Weight rating.",
+      "content": "Morgan Stanley updated its outlook on Zoom Communications, Inc. by raising the price target from $107 to $108. The firm maintained its Equal Weight rating on the stock. This adjustment reflects the firm's ongoing analysis of the company's market performance and growth prospects.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:54+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277295",
+      "title": "YYForce Launches 'Six Seven' Humanoid Concierge Robot",
+      "url": "https://www.globenewswire.com/news-release/2026/11/24/3409160/0/en/yyforce-nasdaq-yfor-launches-trained-humanoid-robot-for-hotel-concierge-service-using-nvidia-jetson-and-isaac-sim.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "YYForce Inc. has introduced a proprietary-trained humanoid robot, named 'Six Seven', designed for hospitality concierge services at Novotel Singapore on Stevens.",
+      "content": "YYForce Inc. announced the launch of its first humanoid concierge robot, 'Six Seven' (67), which is being deployed at the Novotel Singapore on Stevens. The robot utilizes NVIDIA Jetson edge AI computing and NVIDIA Isaac Sim simulation workflows to provide real-time guest assistance, including information on dining, hotel amenities, and local travel guidance. This deployment marks a transition for the company in applying commercial embodied AI within guest-facing hospitality environments. The robot is designed to handle open-ended guest inquiries and interactive storytelling to enhance the arrival experience.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:52+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "YFOR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277294",
+      "title": "S&P Global Ratings Revises Outlook for Studio City Company Limited to Negative",
+      "url": "https://www.moomoo.com/hans/news/post/1005607420",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "S&P Global Ratings has revised the rating outlook for Studio City Company Limited from stable to negative, while maintaining its 'B+' long-term issuer credit rating.",
+      "content": "On November 24, 2026, S&P Global Ratings adjusted the outlook for Studio City Company Limited and its parent-related entity, Melco Resorts (Macau) Limited, to negative from stable. The agency maintained the 'B+' long-term issuer credit rating for Studio City Company Limited. This action reflects expectations of a softer gaming environment in Macau over the next 12 months, which may increase uncertainty regarding the group's deleveraging path. S&P noted that weaker consumer confidence and stricter capital controls have impacted gaming revenue, with the group's consolidated debt leverage rising to 5.8x as of September 30, 2026. The agency anticipates that a challenging industry environment may continue to pressure EBITDA recovery in the near term.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:51+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MSC"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277293",
+      "title": "ChipMOS to Present at Cathay Securities 2026 Q4 Industry Forum",
+      "url": "https://www.morningstar.com/news/pr-newswire/20261124hk05243/chipmos-to-present-at-cathay-securities-2026-q4-industry-forum",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "ChipMOS Technologies Inc. announced that it will present to institutional investors at the Cathay Securities 2026 Q4 Industry Forum on December 3, 2026.",
+      "content": "ChipMOS Technologies Inc. will participate in the Cathay Securities 2026 Q4 Industry Forum, scheduled to take place at the Grand Hyatt Taipei on December 3, 2026. Management, including Jesse Huang, Senior Vice President of Strategy and Investor Relations, is set to discuss the company's recent financial results, business trends, and growth opportunities. This presentation serves as an opportunity for the company to engage with institutional investors regarding its current market position and strategic outlook.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:51+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "IMOS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277292",
+      "title": "GCL Global Holdings Ltd. Regains Compliance with Nasdaq Minimum Bid Price Requirement",
+      "url": "https://www.globenewswire.com/news-release/2026/11/24/3409059/0/en/gcl-global-holdings-ltd-regains-compliance-with-nasdaq-minimum-bid-price-requirement.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "GCL Global Holdings Ltd. announced it has regained compliance with Nasdaq's minimum bid price requirement for continued listing on the Nasdaq Capital Market.",
+      "content": "On November 24, 2026, GCL Global Holdings Ltd. announced that it received a written notice from the Listing Qualifications Department of The Nasdaq Stock Market LLC on November 23, 2026. The notice confirmed that the company has regained compliance with the minimum bid price requirement under Nasdaq Listing Rule 5550(a)(2). This compliance was achieved after the company's ordinary shares maintained a closing bid price of $1.00 or greater for 10 consecutive business days, from November 6 to November 20, 2026. The resolution of this deficiency removes the risk of delisting from the Nasdaq Capital Market related to the bid price rule.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:51+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GCL"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277291",
+      "title": "Haoxi Health Technology Limited Experiences Trading Halt",
+      "url": "https://newsfilter.io/articles/trading-halt-haoxi-health-tech-ltd-cl-a-ord-hao-volatility-trading-pause-a3ce3c3aac9b56e3946ebf9cd7424101",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Haoxi Health Technology Limited (NASDAQ: HAO) was subject to a volatility-related trading halt on November 24, 2026.",
+      "content": "On November 24, 2026, Haoxi Health Technology Limited (NASDAQ: HAO) experienced a trading halt due to a volatility trading pause. The halt was implemented during the trading session to manage market volatility associated with the company's Class A ordinary shares. Such pauses are standard market mechanisms designed to maintain orderly trading conditions.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:48+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "HAO"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277290",
+      "title": "BingEx Limited Reports Third Quarter 2026 Financial Results",
+      "url": "https://www.globenewswire.com/news-release/2026/11/24/3409042/0/en/bingex-limited-announces-third-quarter-2026-financial-results.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "BingEx Limited announced its unaudited financial results for the third quarter ended September 30, 2026, reporting revenue of RMB 929.4 million and a net loss of RMB 6.8 million.",
+      "content": "BingEx Limited (Nasdaq: FLX) reported third-quarter 2026 revenue of RMB 929.4 million (US$ 138.6 million), a decrease from RMB 1,005.4 million in the same period of 2025, which the company attributed to intensifying market competition. Gross profit for the quarter was RMB 104.5 million (US$ 15.6 million), compared to RMB 111.8 million in the prior year period. The company recorded a net loss of RMB 6.8 million (US$ 1.0 million), contrasting with a net income of RMB 43.7 million in the third quarter of 2025. Non-GAAP net loss was RMB 1.0 million (US$ 0.2 million), compared to a non-GAAP net income of RMB 62.6 million in the same period of 2025. Total orders fulfilled reached 62.8 million. Additionally, as of November 23, 2026, the company had repurchased approximately 4.9 million ADSs for US$ 13.3 million under its US$ 30.0 million share repurchase program.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:48+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "FLX"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277289",
+      "title": "Abits Group Signs Letter of Intent to Acquire Soter Technologies",
+      "url": "https://www.newswire.com/news/abits-group-signs-letter-of-intent-to-acquire-soter-technologies-advancing-ai",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Abits Group announced a nonbinding letter of intent to acquire Soter Technologies, a provider of environmental sensing and AI-enabled monitoring software.",
+      "content": "Abits Group has signed a nonbinding letter of intent to acquire Soter Technologies, Inc., a company specializing in environmental sensing technology and AI-enabled monitoring software. The acquisition is intended to support Abits' strategy of developing integrated digital infrastructure by adding technology that helps data center operators predict and identify potential equipment issues. Abits plans to retain Soter's senior management team, subject to final agreements. The transaction remains subject to due diligence, negotiation of definitive agreements, and other customary closing conditions.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:48+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ABTS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277288",
+      "title": "CDT Environmental Technology Reports Unaudited Financial Results for the Six Months Ended June 30, 2026",
+      "url": "https://www.globenewswire.com/news-release/2026/11/23/3408899/0/en/cdt-environmental-technology-investment-holdings-limited-reports-unaudited-financial-results-for-the-six-months-ended-june-30-2026-and-provides-business-updates.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "CDT Environmental Technology announced its unaudited interim financial results for the first half of 2026, reporting $7.22 million in revenue and a net loss of $1.28 million.",
+      "content": "CDT Environmental Technology Investment Holdings Limited reported total revenues of $7.22 million for the six months ended June 30, 2026, a slight decrease from $7.32 million in the same period of 2025. The company's consolidated net loss improved to $1.28 million from $1.31 million in the first half of 2025. Working capital strengthened to approximately $31.66 million as of June 30, 2026, compared to $26.41 million at the end of 2025. Additionally, the company noted that it successfully closed a direct offering of 2,480,000 Class A ordinary shares in April 2026, generating net proceeds of $6.26 million. Management also indicated that the company is currently awaiting results for two new sewage treatment project bids, which are expected in the fourth quarter of 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:48+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "CDTG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277287",
+      "title": "S&P Global Ratings Revises Outlook for Melco Resorts (Macau) and Studio City to Negative",
+      "url": "https://www.moomoo.com/hans/news/post/1005607420",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "S&P Global Ratings has adjusted the rating outlook for Melco Resorts (Macau) Ltd. and Studio City Company Limited from \"stable\" to \"negative,\" citing concerns over the Macau gaming industry's outlook.",
+      "content": "S&P Global Ratings has revised the rating outlook for Melco Resorts (Macau) Ltd. and Studio City Company Limited to \"negative\" from \"stable,\" while maintaining their respective long-term issuer credit ratings of \"BB-\" and \"B+.\" The agency attributed this change to a weakening outlook for the Macau gaming sector over the next 12 months, noting that softer consumer confidence and stricter capital controls are impacting gaming revenue. S&P observed that the group's debt leverage has risen higher than previously forecast, reaching 5.8 times as of September 30, 2026. The agency indicated that the outlook could return to \"stable\" if the company successfully executes its deleveraging plan and maintains leverage below 5 times.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:45+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MLCO"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277286",
+      "title": "Viomi Technology Co., Ltd. Appoints Zhigang (Sam) Yang as Chief Financial Officer",
+      "url": "https://www.globenewswire.com/news-release/2026/11/24/3409057/0/en/viomi-technology-appoints-zhigang-sam-yang-as-chief-financial-officer-and-enters-into-agreement-to-acquire-brondell-inc.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Viomi Technology Co., Ltd. announced the appointment of Mr. Zhigang (Sam) Yang as its new Chief Financial Officer, effective November 20, 2026.",
+      "content": "Viomi Technology Co., Ltd. has appointed Mr. Zhigang (Sam) Yang as its Chief Financial Officer, effective November 20, 2026. In this role, Mr. Yang will oversee the company's finance, strategy, investment, and financing functions. The company stated that this appointment is intended to strengthen its management team as it expands its global footprint and enters its next stage of growth.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:45+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "VIOT"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277285",
+      "title": "ICZOOM Group Inc. Receives Nasdaq Notification Regarding Delinquent Annual Report",
+      "url": "https://www.globenewswire.com/news-release/2026/11/23/3408860/0/en/iczoom-group-inc-announces-receipt-of-additional-nasdaq-notification-letter-regarding-delinquent-annual-report-on-form-20-f.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "ICZOOM Group Inc. announced it received a notification from Nasdaq regarding its failure to timely file its Annual Report on Form 20-F for the fiscal year ended June 30, 2026.",
+      "content": "On November 20, 2026, ICZOOM Group Inc. received a written notification from the Nasdaq Stock Market LLC stating that the company is not in compliance with Nasdaq Listing Rule 5250(c)(1) due to its failure to file its Annual Report on Form 20-F for the fiscal year ended June 30, 2026. The notification has no immediate effect on the listing or trading of the company's securities. The company is required to submit an update to its previously submitted plan to regain compliance by December 7, 2026. Management stated it is working to complete the required financial reporting and remains committed to maintaining compliance with Nasdaq listing standards.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "IZM"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277284",
+      "title": "The GrowHub Announces Two Subsidiaries as Recipients of the Singapore SME 500 Award 2026",
+      "url": "https://www.prnewswire.com/news-releases/the-growhub-announces-two-subsidiaries-as-recipients-of-the-singapore-sme-500-award-2026-302949234.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "The GrowHub Limited announced that its subsidiaries, The GrowHub Innovations Company Pte. Ltd. and GrowHub Carbon Pte. Ltd., have been honored with the Singapore SME 500 Award 2026.",
+      "content": "The GrowHub Limited reported that two of its Singapore-based subsidiaries, The GrowHub Innovations Company Pte. Ltd. and GrowHub Carbon Pte. Ltd., received the Singapore SME 500 Award 2026. This recognition marks the fourth consecutive year that The GrowHub Innovations Company has been selected for the award. The company stated that the achievement reflects its ongoing presence and standing within the Singapore business community. The GrowHub continues to focus on its core operations in sustainability, carbon solutions, and technology-enabled services across the Asia-Pacific region and Europe.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "TGHL"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277283",
+      "title": "Analog Devices Reports Record Fourth Quarter and Fiscal 2026 Financial Results",
+      "url": "https://www.prnewswire.com/news-releases/analog-devices-reports-record-fourth-quarter-and-fiscal-2026-financial-results-302948778.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Analog Devices announced record financial results for the fourth quarter and full fiscal year 2026, driven by growth in data center and industrial markets.",
+      "content": "Analog Devices, Inc. reported record performance for fiscal year 2026, with annual revenue reaching $15.2 billion, a 38% increase over the previous year. Fourth-quarter revenue rose 42% year-over-year to $4.37 billion, supported by strong demand in the data center, industrial, and communications segments. The company generated $6.2 billion in operating cash flow and $5.5 billion in free cash flow for the fiscal year, returning $5.4 billion to shareholders through dividends and share repurchases. Additionally, the board declared a quarterly cash dividend of $1.10 per share, payable on December 21, 2026. For the first quarter of fiscal 2027, the company provided revenue guidance of $4.4 billion, plus or minus $150 million, with an adjusted EPS forecast of $3.82, plus or minus $0.20.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:43+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ADI"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277282",
+      "title": "Lockheed Martin CEO and CFO to Participate in UBS Global Industrials & Transportation Conference",
+      "url": "https://www.morningstar.com/news/pr-newswire/20261124ph05989/lockheed-martin-ceo-and-cfo-to-speak-at-2026-ubs-global-industrials-transportation-conference",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Lockheed Martin announced that Chairman, President and CEO Jim Taiclet and CFO Evan Scott will participate in a fireside chat at the 2026 UBS Global Industrials & Transportation Conference.",
+      "content": "Lockheed Martin Chairman, President and CEO Jim Taiclet and CFO Evan Scott are scheduled to participate in a fireside chat at the 2026 UBS Global Industrials & Transportation Conference. The event will take place on Tuesday, December 1, 2026, from 10:30 a.m. to 11:10 a.m. ET. A live webcast of the discussion will be accessible through the company's investor events portal, with a replay available for two weeks following the presentation.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:42+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "LMT"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277281",
+      "title": "Nasdaq Announces Delisting of Bio Green Med Solution, Inc. 6% Convertible Preferred Stock",
+      "url": "https://www.globenewswire.com/news-release/2026/11/23/3408470/6948/en/delisting-of-securities-from-the-nasdaq-stock-market.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Nasdaq has formally announced the delisting of the 6% Convertible Preferred Stock of Bio Green Med Solution, Inc., which had been suspended from trading since March 2026.",
+      "content": "On November 23, 2026, Nasdaq announced the delisting of the 6% Convertible Preferred Stock of Bio Green Med Solution, Inc. The securities had been suspended from trading on the exchange since March 23, 2026. This action is part of a broader series of delisting announcements by the exchange for various securities that have remained suspended for extended periods.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:41+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BGMS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277280",
+      "title": "Ongoing Legal Developments in Depo-Provera Meningioma Litigation",
+      "url": "https://www.einpresswire.com/article/958792952/2017-depo-provera-use-and-reported-meningioma-cases",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Depositions are currently underway involving Pfizer's pharmacovigilance department regarding the company's monitoring and communication of potential safety risks associated with Depo-Provera.",
+      "content": "Legal proceedings are continuing regarding the potential association between the use of the contraceptive Depo-Provera and the development of meningioma tumors. Depositions are currently being conducted with safety professionals within Pfizer's pharmacovigilance department to examine the company's internal processes for identifying and evaluating safety signals reported in medical literature. The litigation focuses on the company's responsibilities for monitoring and communicating safety risks to the public and medical community. These developments follow reports of clinical cases involving patients with a history of long-term Depo-Provera exposure.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:39+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "PFE"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277279",
+      "title": "Huadi International Group Co., Ltd. Announces 1-for-8 Reverse Stock Split",
+      "url": "https://www.globenewswire.com/news-release/2026/11/23/3408281/0/en/huadi-international-group-co-ltd-announces-1-for-8-reverse-stock-split-effective-november-27-2026.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Huadi International Group Co., Ltd. is implementing a 1-for-8 reverse stock split of its ordinary shares, effective November 27, 2026.",
+      "content": "Huadi International Group Co., Ltd. announced that it will implement a reverse stock split of all issued and unissued ordinary shares at an exchange ratio of one share for every eight shares. The reverse stock split was approved by shareholders at an extraordinary general meeting held on November 16, 2026. Following the split, the company's ordinary shares will commence trading on the Nasdaq Capital Market on a post-split basis starting November 27, 2026. The action will reduce the number of outstanding ordinary shares from approximately 14,319,182 to approximately 1,789,898.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:39+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "HUDI"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277278",
+      "title": "Genius Group Announces $2 Million Expansion of Genius School in Bali",
+      "url": "https://www.globenewswire.com/news-release/2026/11/24/3409216/0/en/genius-group-announces-expansion-plan-of-genius-school-as-enrolments-reach-record-high.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Genius Group Limited has announced a $2 million expansion of its AI-powered Genius School in Bali, Indonesia, following record student enrolments in October 2026.",
+      "content": "The expansion plan, approved by the board, aims to increase student capacity and enhance campus facilities, including the addition of a new future lab, athletics center, and community hub at the flagship Nuanu Campus. The company targets 800 students by the end of 2027, representing a 60% increase from current levels, and projects $14.9 million in revenue from the school by 2029. This initiative is part of the company's broader strategy to establish Genius School as a leading future-focused educational institution in Asia.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:38+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GNS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277277",
+      "title": "Amber International Holding Limited to Report Third Quarter 2026 Financial Results",
+      "url": "https://www.prnewswire.com/apac/news-releases/amber-international-holding-limited-to-report-third-quarter-2026-financial-results-and-host-earnings-call-on-december-1-2026-302948139.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Amber International Holding Limited announced it will release its unaudited financial results for the third quarter ended September 30, 2026, on December 1, 2026.",
+      "content": "Amber International Holding Limited (Nasdaq: AMBR) has scheduled the release of its unaudited financial results for the third quarter ended September 30, 2026, for before the U.S. market opens on Tuesday, December 1, 2026. Following the release, the company's management team will host an earnings conference call at 8:00 AM U.S. Eastern Time to discuss the results and provide a business update. A replay of the call will be available from December 1, 2026, through December 15, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:38+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "AMBR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277276",
+      "title": "Kingsoft Cloud Reports Third Quarter 2026 Financial Results",
+      "url": "https://www.prnewswire.com/news-releases/kingsoft-cloud-announces-unaudited-third-quarter-2026-financial-results-302949324.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Kingsoft Cloud Holdings Limited announced its unaudited financial results for the third quarter of 2026, reporting a 40.4% year-over-year increase in total revenue to RMB 3,478.1 million.",
+      "content": "Kingsoft Cloud reported total revenue of RMB 3,478.1 million for the third quarter of 2026, representing a 40.4% year-over-year increase. Public cloud revenue grew by 57.3% year-over-year to RMB 2,756.7 million, significantly bolstered by AI cloud gross billings which reached RMB 1,683 million, a 115% increase compared to the same period in 2025. The company achieved an adjusted gross margin of 15.7% and a record adjusted operating profit margin of 4.4%. Despite the revenue growth, the company reported a net loss of RMB 118.1 million, compared to a net loss of RMB 7.8 million in the third quarter of 2025. Management indicated a strategic focus on intelligent computing, agentic AI, and inference platforms to drive future growth.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:38+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "KC"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277275",
+      "title": "MobilityOne Secures Interim Stay Against Winding-Up Petition",
+      "url": "https://www.investewire.com/news/mobilityone-secures-interim-stay-against-winding-up-petition-over-ps06m-merchant-payment-dispute-in-malaysia-vmsgmsev",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "MobilityOne Limited has obtained an interim stay order against a winding-up petition filed by a merchant against its Malaysian subsidiary, MobilityOne Sdn Bhd.",
+      "content": "MobilityOne Limited announced that its wholly-owned Malaysian subsidiary, MobilityOne Sdn Bhd (M1 Malaysia), secured an interim stay order from the High Court of Malaya on 20 November 2026. The stay halts a winding-up petition initiated by Glam Legacy Sdn Bhd, an e-commerce merchant, regarding a payment dispute of approximately RM3,378,444 (c. £0.6 million). MobilityOne stated that the funds were withheld for reasons unrelated to its financial position and that it possesses the cash resources to settle the obligation. The court order provides a mechanism for M1 Malaysia to release the disputed funds to the merchant's solicitors throughout November and December 2026. The company expects to apply for the formal termination of the winding-up petition on or before 31 December 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:38+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MBO"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277274",
+      "title": "CytoMed Therapeutics Appoints Dr. Ahmad Radzi bin Ahmad Badruddin as Independent Director",
+      "url": "https://www.morningstar.com/news/globe-newswire/9884026/cytomed-welcomes-veteran-oncologist-dr-ahmad-radzi-to-its-board-as-it-advances-cancer-immunotherapy-development",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "CytoMed Therapeutics Limited has appointed veteran oncologist Dr. Ahmad Radzi bin Ahmad Badruddin to its Board of Directors and its Nominating and Corporate Governance Committee.",
+      "content": "CytoMed Therapeutics Limited announced the appointment of Dr. Ahmad Radzi bin Ahmad Badruddin as an Independent Director and a member of the Nominating and Corporate Governance Committee, effective November 24, 2026. Dr. Radzi is a clinical oncologist with over 30 years of experience in cancer treatment, clinical research, and healthcare leadership. He previously served on the company's Scientific Advisory Board. The company stated that his appointment brings scientific expertise and industry experience to the Board, which has determined that he meets the independence requirements under Nasdaq Listing Rules.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:37+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GDTC"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277273",
+      "title": "Qfin Holdings, Inc. Announces Unaudited Financial Results for the Third Quarter of 2026",
+      "url": "https://www.globenewswire.com/news-release/2026/11/24/3409909/0/en/qfin-holdings-announces-third-quarter-2026-unaudited-financial-results.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Qfin Holdings, Inc. reported its unaudited financial results for the third quarter ended September 30, 2026, and provided a financial outlook for the fourth quarter of 2026.",
+      "content": "Qfin Holdings, Inc. announced its unaudited financial results for the third quarter ended September 30, 2026. The company reported total net revenue of RMB 3,088.5 million and net income of RMB 380.5 million. As of September 30, 2026, the platform had connected 168 financial institutional partners and 305.2 million consumers. For the fourth quarter of 2026, the company expects to generate a net income between RMB 210 million and RMB 310 million, representing a year-on-year decline of 67% to 77%.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:35+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "QFIN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277272",
+      "title": "Maverick Medical AI Integrates CodeAgent with Microsoft Dragon Copilot",
+      "url": "https://www.globenewswire.com/news-release/2026/11/24/3409926/0/en/maverick-medical-ai-surfaces-codeagent-within-microsoft-radiology-reporting-solutions-to-reduce-physician-rework.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Maverick Medical AI is showcasing its CodeAgent documentation assistant within Microsoft's Dragon Copilot at RSNA 2026.",
+      "content": "Maverick Medical AI announced the integration of its real-time AI documentation assistant, CodeAgent, into Microsoft Dragon Copilot, a radiology reporting solution. The integration is designed to work alongside PowerScribe One, a platform used by numerous healthcare organizations in the United States. By surfacing clinical-to-revenue intelligence directly within the reporting workflow, the offering aims to reduce physician rework and accelerate reimbursement processes. The solution will be showcased at the RSNA 2026 conference.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:34+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MSFT"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277271",
+      "title": "Microsoft Declares 'Code Red' Following Historic Outage",
+      "url": "https://www.pymnts.com/technology/2026/microsoft-sets-goal-of-one-hour-fixes-after-email-outage/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Microsoft has initiated a 'Code Red' mobilization to enhance its response to service disruptions following a significant outage earlier in November.",
+      "content": "Following a major service disruption that occurred between November 12 and 13, Microsoft has declared a 'Code Red' to prioritize the prevention and rapid resolution of future system outages. Internal memos indicate that the company is implementing new measures, including a target to resolve future incidents within one hour. Additional strategies include the deployment of AI agents to assist engineers in diagnosing system health, improved load shedding, and enhanced geographic traffic partitioning. Microsoft leadership has emphasized that these improvements are a top priority to ensure service stability.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:34+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MSFT"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277270",
+      "title": "MoneyHero Group Announces Date for Third Quarter 2026 Financial Results",
+      "url": "https://www.quantisnow.com/insight/moneyhero-group-to-announce-third-quarter-2026-results-6804808",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "MoneyHero Limited has scheduled the release of its third quarter 2026 financial results for December 3, 2026, before the U.S. market opens.",
+      "content": "MoneyHero Limited (NASDAQ: MNY) announced it will report its financial results for the third quarter of 2026 on Thursday, December 3, 2026, before the U.S. market opens. The company will host a conference call to discuss the results at 8:00 a.m. ET on the same day. Interested parties can access the event via a webcast or audio conference registration link provided by the company. This announcement serves as a scheduling notice for the upcoming earnings release.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:33+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MNY"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277269",
+      "title": "OpenTable to Acquire Hospitality Technology Platform me&u",
+      "url": "https://www.prnewswire.com/apac/news-releases/opentable-announces-proposed-acquisition-of-australian-restaurant-technology-company-meu-302949909.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "OpenTable, a subsidiary of Booking Holdings, has entered into an agreement to acquire Australian hospitality technology platform me&u to expand its restaurant technology suite.",
+      "content": "OpenTable, a global restaurant technology provider and part of Booking Holdings Inc., has announced an agreement to acquire me&u, an Australian hospitality technology platform. The acquisition aims to integrate me&u's suite of tools—including order and pay, voice AI, guest marketing, and table management—with OpenTable's existing global reservations network. The transaction is subject to customary closing conditions, including regulatory approvals, and is expected to be completed in the first half of 2027. Following the acquisition, me&u's employees will join OpenTable, and its current leadership team will continue to manage the business as the two entities operate independently until the deal closes.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BKNG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277268",
+      "title": "JBDI Holdings Announces Chief Executive Officer, Chief Financial Officer and Chairman Appointments",
+      "url": "https://www.morningstar.com/news/globe-newswire/9884028/jbdi-holdings-announces-chief-executive-officer-chief-financial-officer-and-chairman-appointments",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "JBDI Holdings Limited has appointed Liang Zhao Rong as Chief Executive Officer and Chairman, and Fan Hoi Kit as Chief Financial Officer and executive director, effective November 24, 2026.",
+      "content": "JBDI Holdings Limited announced a leadership transition effective November 24, 2026, with the appointment of Liang Zhao Rong as Chief Executive Officer and Chairman of the Board, and Fan Hoi Kit as Chief Financial Officer and an executive director. Mr. Liang, who previously served as the company's Chief Financial Officer and an executive director since October 2022, succeeds Lim Chwee Poh. Mr. Lim is stepping down to focus on family and other business commitments and has confirmed his resignation is not due to any disagreement with the company. Mr. Fan succeeds Mr. Liang as Chief Financial Officer and joins the Board as an executive director. The company noted that Mr. Fan brings experience in international audits, financial reporting assurance, and internal controls to the finance function.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "JBDI"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277267",
+      "title": "Jianzhi Education Signs Non-Binding Cross-Border E-Commerce Cooperation Framework Agreement with DIANDIAN EASY PAY",
+      "url": "https://www.prnewswire.com/news-releases/jianzhi-education-signs-non-binding-comprehensive-cross-border-e-commerce-cooperation-framework-agreement-with-diandian-easy-pay-exploring-new-opportunities-in-ai-enabled-cross-border-commerce-302949373.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Jianzhi Education Technology Group Company Limited has entered into a non-binding framework agreement with DIANDIAN EASY PAY to explore opportunities in AI-enabled cross-border commerce.",
+      "content": "Jianzhi Education has signed a non-binding comprehensive framework agreement with DIANDIAN EASY PAY to collaborate on cross-border e-commerce initiatives. The company aims to leverage this partnership to explore business opportunities in international markets and establish a foundation for long-term cooperation at the intersection of AI technology and digital commerce. The collaboration is subject to further business developments and the terms outlined in the agreement.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:29+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "JZ"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277266",
+      "title": "iQIYI Receives Outstanding International Series Award at 2026 Golden Unicorn Awards",
+      "url": "https://www.prlog.org/13185474-international-short-drama-association-celebrates-microdrama-talent-and-industry-innovation-at-2026-golden-unicorn-awards-and-festival-panels.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "iQIYI was honored with the 'Outstanding International Series' award at the 2026 Golden Unicorn Awards, which celebrate excellence in short-form and vertical entertainment.",
+      "content": "iQIYI was recognized as the winner of the 'Outstanding International Series' category at the 2026 Golden Unicorn Awards. The awards ceremony, presented by the International Short Drama Association (ISDA), took place in Los Angeles to celebrate production companies, creators, and actors shaping the global short-form and vertical entertainment landscape. The event highlighted the growing influence of vertical storytelling and included industry discussions on the future of the format, revenue sharing, and the role of artificial intelligence in content creation.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "IQ"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277265",
+      "title": "Usage Data Released for MiniMax H3 Video Generation Model",
+      "url": "https://www.prlog.org/13185423-video-model-output-holds-above-400-clips-day-on-november-9-12-after-open-period-peaking-at-832.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "AppleToken and GPUtw.ai released performance and usage data for MiniMax's H3 video generation model covering the period from November 4 to November 12, 2026.",
+      "content": "AppleToken, a Japanese AI router, and GPUtw.ai, a Taiwan-based GPU compute center, published usage statistics for MiniMax's H3 video generation model. The data covers a nine-day period from November 4 to November 12, 2026, including an initial open-access window. Following the open period, the model maintained a daily output of over 400 videos, peaking at 832 videos on November 11. Over the full nine-day duration, the model generated 9,738 videos with a reported 98.9% success rate. The report provides insights into the model's performance and user demand following its public availability.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "100"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130277264",
+      "title": "Ascentage Pharma Announces Trustee Purchase of 100,000 Shares for 2022 RSU Plan",
+      "url": "https://www.moomoo.com/hant/news/post/1005628462/ascentage-pharma-06855-trustee-purchases-100000-shares-under-the-2022",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Ascentage Pharma reported that its trustee purchased 100,000 existing shares on the market to satisfy restricted share units under its 2022 plan.",
+      "content": "On November 24, 2026, Ascentage Pharma (06855) announced that a trustee purchased a total of 100,000 existing shares on the market. The purchase was conducted to fulfill the requirements of the company's 2022 Restricted Share Unit (RSU) Plan, specifically to satisfy the restricted share units upon their vesting. This action is part of the company's ongoing management of its equity incentive programs.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:01:27+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:14.951990+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "AAPG"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/market-chatter-california-ag-bonta-005828411.html?.tsrc=rss",
+      "title": "Market Chatter: California AG Bonta to Press Nvidia Probe, Criticizes Federal Handling",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-california-ag-bonta-005828411.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia (NVDA) remains under investigation by California, with Attorney General Rob Bonta saying he w",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:58:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:13.244381+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/m/dc63d2d7-de00-385c-9275-d1def80ac0af/review-%26-preview%3A-tech%E2%80%99s.html?.tsrc=rss",
+      "title": "Review & Preview: Tech’s Rough Day",
+      "url": "https://finance.yahoo.com/m/dc63d2d7-de00-385c-9275-d1def80ac0af/review-%26-preview%3A-tech%E2%80%99s.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The jubilation over Jensen Huang’s return to Nvidia hit a wall on Tuesday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:55:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:13.244381+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/24/nvidia-is-down-31-from-its-peak-history-says-this-happens-next/?.tsrc=rss",
+      "title": "Nvidia Is Down 31% From Its Peak. History Says This Happens Next",
+      "url": "https://www.fool.com/investing/2026/11/24/nvidia-is-down-31-from-its-peak-history-says-this-happens-next/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia rebounded incredibly the last time it saw a steep pullback.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:46:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:13.244381+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/24/most-stocks-are-losers-here-is-how-you-can-still-win/?.tsrc=rss",
+      "title": "Most Stocks Are Losers. Here's How You Can Still Win",
+      "url": "https://www.fool.com/investing/2026/11/24/most-stocks-are-losers-here-is-how-you-can-still-win/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Seek out and invest in the best. Learn from the rest.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:41:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:13.244381+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.cbsnews.com/news/nvidia-jensen-huang-challenges/?.tsrc=rss",
+      "title": "5 questions Nvidia still faces after bringing back Jensen Huang",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-challenges/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Despite Jensen Huang's shock return as Nvidia's CEO, experts say it's anything but business as usual for the chipmaker.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:33:07+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:13.244381+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://stocktwits.com/news-articles/markets/equity/nvidia-backed-nscale-reportedly-eyes-private-route-as-ai-market-sell-off-clouds-35-b-ipo-plans/cNbuDjYR9lc?.tsrc=rss",
+      "title": "Nvidia-Backed Nscale Reportedly Eyes Private Route As AI Market Sell-Off Clouds $35B IPO Plans",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-backed-nscale-reportedly-eyes-private-route-as-ai-market-sell-off-clouds-35-b-ipo-plans/cNbuDjYR9lc?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Data center operator Nscale reassured employees it can stay private amid a steep AI stock downturn that threatens its planned $35 billion listing.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:16:31+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:13.244381+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N475195:0",
       "title": "Shanghai party pledges loyalty to Beijing as top official faces investigation",
@@ -1810,6 +4515,30 @@
       "extra": {}
     },
     {
+      "id": "finnhub:8802328",
+      "title": "COMMENTARY: Middle East crude oil exports trend lower amid fake Iran stalemate - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzZpMHFTclFHbWV5MGFQbmJCOHhtaS02NUQyVmFmU09tZHVJRXZCeHRNWTFNQ0hVenFvQ1JnS2p0aHd0LVFjRE5KTi0tQkVZdElhcko2YXRmWnpkbGtkc0lJX0JjVGtXSE1TbWwyVklTcHVrSWNaTExxT1hYV3JEdG92Ny03TEFNWEJ0Q1hIY2lReVVlZHhkRS0zUUlkZkFiTHhiV0UwVF9RMVdxS2RlS1pseXBJQ3ZwaDBqak5zd29Hd3NGYW5nNUVfZERkR0pI?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "COMMENTARY: Middle East crude oil exports trend lower amid fake Iran stalemate Reuters",
+      "content": "COMMENTARY: Middle East crude oil exports trend lower amid fake Iran stalemate Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T06:48:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:15.110364+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "finnhub:8805662",
       "title": "Israel's Eisenkot clinches first coalition agreement in bid to form government - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbVR5QS1fSDJ5YWoyNmRLQ0t2Vm1lZTdWdDlXaU5MakhodlR5QmJyRlhKLTc0dmZuZ2pTYVNwYllvQTIxblMwcm1FZHhPRUl5RWJfRFoxRWNjREZLWjh1MGFlSUUxeDlHdVpIeWlxQmY4dFlDZE55SHFtZkVXazhXWFZiVVZXbkZSX2xySnE1MWtOLWk5ZldQSU10eUtuUjJwM2VEOEc3TExPVDBRekZZc1FsSmhfYWFMYjNZRlVPWGdVWFE?oc=5",
@@ -1870,6 +4599,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "finnhub:8806075",
+      "title": "Saudi-led coalition issues evacuation warning for Yemen's Hodeidah port - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVG1zbDJSYngzOXYyX0pnWnBSUFB6Q0FYVzBkUzNtSVpRQm9ZZEY1S3VtMFJFWHVVbjFqQ29aeXhILVNwekVkX0Y1SUp1T3lUZXFCY2hOVWd1YWhVZVBVRFhoeWF2Y01jUkFGQTl0LWRsWUVNZU0xSGJsTE5hVjlOMm1KOVBOVlJtSGcwYm1zV3d2OE52VHJ1ZEFNeXdQRjhPTGhLMmRDNk14QVo4UHg1THdEQ2xMekJ2ZzJxXw?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Saudi-led coalition issues evacuation warning for Yemen's Hodeidah port Reuters",
+      "content": "Saudi-led coalition issues evacuation warning for Yemen's Hodeidah port Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T06:11:43+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:15.110364+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
     },
     {
       "id": "yahoo:https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html?.tsrc=rss",
@@ -3055,6 +5808,44 @@
         "related": "",
         "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
+    },
+    {
+      "id": "msn:125166d92db970c85a39671db84bab6e84b932d5",
+      "title": "Stock Market News From Nov. 24, 2026: AI Stocks Sink. The Rest of the Market Is Doing Just ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b064d9a6cb74171970c0fae23d59d9e&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today-112426&c=16104040240120877104&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Dow, Nasdaq, and S&P 500 futures are falling in premarket trading as the stock market rally sparked by Jensen Huang's Nvidia return fades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:39:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:16.551410+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b3e533b215059019733b3084f955c26e609e0363",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b064d9a6cb74171970c0fae23d59d9e&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T10:53:16.551410+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "finnhub:8805055",
