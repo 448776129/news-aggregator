@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T16:16:15.122901+08:00",
-  "count": 751,
+  "generated_at": "2026-11-25T16:19:22.868380+08:00",
+  "count": 756,
   "sources": [
     {
       "name": "cls",
@@ -27,6 +27,25 @@
   ],
   "items": [
     {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxtsm4314446.shtml",
+      "title": "Meta与亚马逊磋商解除对Muse购物AI代理的封锁，广告、搜索成为核心分歧",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxtsm4314446.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "亚马逊与Meta Platforms正在持续洽谈一项合作方案，计划让Meta热门AI智能体Muse接入这家电商巨头的线上商城，解除亚马逊两个月前对该购物机器人实施的封锁。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:17:59+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:19:20.263874+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/money/future/2026-11-25/doc-inizxtsm4310756.shtml",
       "title": "光大期货1125热点追踪：猪价万元附近大考验 哪个合约更有机会？",
       "url": "https://finance.sina.com.cn/money/future/2026-11-25/doc-inizxtsm4310756.shtml",
@@ -46,6 +65,69 @@
       "extra": {}
     },
     {
+      "id": "jin10:20261125160922004800",
+      "title": "据《财富》：Meta Platforms(META.O)与亚马逊(AMZN.O)商讨结束对Muse购物机器人的封锁；广告与搜索成为关键议题。",
+      "url": "https://www.jin10.com/#/flash/20261125160922004800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "据《财富》：Meta Platforms(META.O)与亚马逊(AMZN.O)商讨结束对Muse购物机器人的封锁；广告与搜索成为关键议题。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:09:22+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:19:18.626504+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261125160857547800",
+      "title": "Hong Kong shares closed lower, with the HSI down 1.14% and the Hang Seng Tech In",
+      "url": "https://www.jin10.com/#/flash/20261125160857547800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Hong Kong shares closed lower, with the HSI down 1.14% and the Hang Seng Tech Index off 2.56%. Chipmakers, optical communications, lithium batteries and PCBs led declines; CATL (03750.HK) fell more than 12%.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:08:57+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:19:18.626504+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261125160855559800",
+      "title": "港股收盘，恒生指数收跌1.14%，恒生科技指数收跌2.56%；芯片、光通信、锂电池、PCB等板块跌幅居前；宁德时代(03750.HK)跌超12%。",
+      "url": "https://www.jin10.com/#/flash/20261125160855559800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "港股收盘，恒生指数收跌1.14%，恒生科技指数收跌2.56%；芯片、光通信、锂电池、PCB等板块跌幅居前；宁德时代(03750.HK)跌超12%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:08:55+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:19:18.626504+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-25/doc-inizxtsm4307898.shtml",
       "title": "港股收评：恒指跌1.14%失守22000点 科指跌2.56% 芯片股低迷 锂电池股下挫 宁德时代跌超12%",
       "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-25/doc-inizxtsm4307898.shtml",
@@ -63,6 +145,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261125160647868800",
+      "title": "Tesla Vice President Grace Tao said in a social media post that the Shanghai Gig",
+      "url": "https://www.jin10.com/#/flash/20261125160647868800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Tesla Vice President Grace Tao said in a social media post that the Shanghai Gigafactory is about to roll off its 5 millionth vehicle.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:06:47+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T16:19:18.626504+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261125160645157800",
