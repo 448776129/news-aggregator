@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T14:46:13.644117+08:00",
-  "count": 927,
+  "generated_at": "2026-11-25T14:49:13.266686+08:00",
+  "count": 938,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 4,
       "error": ""
     },
     {
@@ -38,6 +38,53 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4760GR:0",
+      "title": "Carlyle sells part of its stake in Piramal Pharma in Rs 2,200-crore block deal- Money Control",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4760GR:0-carlyle-sells-part-of-its-stake-in-piramal-pharma-in-rs-2-200-crore-block-deal-money-control/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:48:24+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:49:11.261579+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CG",
+          "NSE:PPLPHARMA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125000743:0",
+      "title": "HSBC Turns Neutral on Treasury Curve — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125000743:0-hsbc-turns-neutral-on-treasury-curve-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:46:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:49:11.261579+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L5N4760CG:0",
       "title": "Vend Marketplaces Completes Share Buyback Programme",
@@ -131,6 +178,100 @@
         "urgency": 2,
         "symbols": [
           "EURONEXT:RCO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:f553d00a42bf1:0",
+      "title": "BW Offshore Limited (BWO) Declares $0.0625 Per-Share Dividend",
+      "url": "https://www.tradingview.com/news/tradingview:f553d00a42bf1:0-bw-offshore-limited-bwo-declares-0-0625-per-share-dividend/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:45:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:49:11.261579+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:BWO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:6509f2ff3094b:0",
+      "title": "BW Offshore: Dividend information",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3409996/0/en/bw-offshore-dividend-information.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:45:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:49:11.261579+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:BWO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:20b2c130cd54a:0",
+      "title": "Matmut Group Establishes Reinsurer With €50M in Equity",
+      "url": "https://www.tradingview.com/news/tradingview:20b2c130cd54a:0-matmut-group-establishes-reinsurer-with-50m-in-equity/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:45:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:49:11.261579+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:bd7b96bcf094b:0",
+      "title": "Matmut Group to launch reinsurance subsidiary Matmut Re",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3409997/0/en/matmut-group-to-launch-reinsurance-subsidiary-matmut-re.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:45:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:49:11.261579+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BONDSCOM:FR001400ZQ88"
         ]
       }
     },
@@ -321,6 +462,32 @@
         "urgency": 2,
         "symbols": [
           "EURONEXT:RCO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:7156db50c094b:0",
+      "title": "Lakshmi Venu moves Madras HC against Venu Srinivasan to seek partition of assets",
+      "url": "https://www.tradingview.com/news/moneycontrol:7156db50c094b:0-lakshmi-venu-moves-madras-hc-against-venu-srinivasan-to-seek-partition-of-assets/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T14:40:20+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:49:11.261579+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TVSHLTD",
+          "NSE:TVSMOTOR",
+          "NSE:SUNCLAY"
         ]
       }
     },
@@ -16547,6 +16714,44 @@
       "extra": {}
     },
     {
+      "id": "msn:626904471d668484b918ced5eb4fc093e7d6401a",
+      "title": "Stock Market Live Updates: Sensex zooms over 2,000 points, Nifty tops 25,900; HDFC, ICICI ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0684e7ece441c78fa59c613574b6d2&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026%2fliveblog%2f136145716.cms&c=2500710713444335276&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "GIFT Nifty futures on the NSE IX were trading higher, indicating a strong gap-up opening for Dalal Street on Wednesday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T06:19:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:49:13.168954+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:98646ec5cd64730365f5f279f1feca611b92caca",
+      "title": "Stock Market Today Live Updates: Dalal Street in the green: Sensex jumps 2,000 points ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0684e7ece441c78fa59c613574b6d2&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fbusiness%2findia-business%2fsensex-stock-market-today-25-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news%2fliveblog%2f136147030.cms&c=4363032083278693014&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Asian markets fell sharply on Wednesday as renewed US tariff threats and fading momentum in the AI-led rally weighed on investor sentiment. Chip-heav ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T06:17:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:49:13.168954+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.americanbanker.com/news/a-week-on-chase-still-hasn-t-explained-its-outage?.tsrc=rss",
       "title": "A week on, Chase still hasn’t explained its outage",
       "url": "https://www.americanbanker.com/news/a-week-on-chase-still-hasn-t-explained-its-outage?.tsrc=rss",
@@ -18891,6 +19096,25 @@
       "extra": {}
     },
     {
+      "id": "msn:8d6a28adff56b2ddb35e96f784d0e294712febc3",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty extends gains to 600 points, nears 26,000 mark",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0684e7ece441c78fa59c613574b6d2&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-ai-tariffs-it-nifty-bank-tata-steel-apl-apollo-zee-ril-adani-share-price-liveblog-20040632.htm&c=1104828012116773145&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The Nifty bulls enter the mid-week session starting a new F&O series on the back of mixed cues. They would have not liked the ferocity of the fall seen on Monday and the fact that both Nifty and the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:41:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:49:13.168954+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8805359",
       "title": "US farm secretary pledges to fight court order halting her religious emails - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2lqUENSMVI4YnVLV3ROcmZhNEE0M1Rvcm41d21paGoyVEFmTlVYUFY4aXFCOTdYU1Z0Yi01eXNWeXh4X3NybTM1SUVSdjZXbDM2VERKY1JpWXRMdTJuUGp1cXVDSEdVazJBOEtEZ2tCTUhOdDBuNkEyMllTbG9ISThNS3dnNTFQUl9US3lZUmg1QzVRQVYtOVJkb0VOd2x2RkhuX1l2ZlBZRGNLY2tZaF9iWGtITWlu?oc=5",
@@ -21066,6 +21290,25 @@
       "published_at": "2026-11-25T00:04:08+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T14:46:13.493657+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:2b3b4136dd2c530aa90749cddf36a7bb2e110073",
+      "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0684e785054ffa8693bae91a021bbf&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fjim-cramer-sizes-up-six-retail-stocks-after-earnings-and-names-his-two-favorites%2far-AA2i9onk&c=18106407342616312095&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here's where Jim Cramer stands on six retailers that rallied after reporting earnings Tuesday, and his two favorites.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:04:08+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T14:49:13.168954+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",

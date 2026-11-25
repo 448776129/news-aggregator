@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T13:58:15.223944+08:00",
-  "count": 89,
+  "generated_at": "2026-11-25T14:49:13.207578+08:00",
+  "count": 90,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -1219,6 +1219,25 @@
       "published_at": "2026-11-20T11:37:00+08:00",
       "published_date": "2026-11-20",
       "fetched_at": "2026-11-25T13:58:14.463656+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:f368be1c5ff16aa49907eae9cd9a82c3ae097931",
+      "title": "The post earnings slide in Nvidia stock is getting uglier by the day",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0684e785054ffa8693bae91a021bbf&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fthe-post-earnings-slide-in-nvidia-stock-is-getting-uglier-by-the-day%2far-AA2hQUCT&c=6603191112528657845&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The Nvidia sell-off refuses to let up in the post Jensen Huang era.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-20T11:37:00+08:00",
+      "published_date": "2026-11-20",
+      "fetched_at": "2026-11-25T14:49:13.168954+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
