@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T20:22:17.089834+08:00",
-  "count": 24,
+  "generated_at": "2026-11-26T00:43:14.961403+08:00",
+  "count": 25,
   "sources": [
     {
       "name": "alpaca",
@@ -490,6 +490,25 @@
       "published_date": "2026-09-11",
       "fetched_at": "2026-11-25T20:22:14.684529+08:00",
       "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:daf41b79ac71bd07276f18a744d87e4b9ee08737",
+      "title": "Understanding Stock Price and Market Cap: An Investor’s Guide",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0710204fdf43119643540da4a5ea10&url=https%3a%2f%2fwww.investopedia.com%2fask%2fanswers%2fhow-companys-stock-price-and-market-cap-determined%2f&c=3857390094886967976&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Leslie Kramer is a writer for Institutional Investor, correspondent for CNBC, journalist for Investopedia, and managing editor for Markets Group. Charlene Rhinehart is a CPA , CFE, chair of an ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-09-11T16:02:00+08:00",
+      "published_date": "2026-09-11",
+      "fetched_at": "2026-11-26T00:43:13.834862+08:00",
+      "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
       "extra": {}
