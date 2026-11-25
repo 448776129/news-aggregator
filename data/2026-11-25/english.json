@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T12:52:23.625853+08:00",
-  "count": 499,
+  "generated_at": "2026-11-25T12:55:14.625133+08:00",
+  "count": 507,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 4,
       "error": ""
     },
     {
@@ -38,6 +38,102 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261124009664:0",
+      "title": "Bank of Korea May Opt for Hawkish Hold — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261124009664:0-bank-of-korea-may-opt-for-hawkish-hold-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:53:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:55:11.441854+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ECONOMICS:KRLR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:business_wire:1c8a85c29fd7b:0",
+      "title": "Ant International and BNY Sign MOU to Explore Next-Generation Treasury, 24/7 FX and Global Payments Innovation",
+      "url": "https://www.tradingview.com/news/business_wire:1c8a85c29fd7b:0-ant-international-and-bny-sign-mou-to-explore-next-generation-treasury-24-7-fx-and-global-payments-innovation/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:52:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:55:11.441854+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BNY",
+          "PRIVATE:ANTINTL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47528B:0",
+      "title": "Orascom Construction Announces Closing Of The Combination With OCI N.V.",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47528B:0-orascom-construction-announces-closing-of-the-combination-with-oci-n-v/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:48:50+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:55:11.441854+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EGX:ORAS",
+          "EURONEXT:OCI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:newsbtc:109f84d32094b:0",
+      "title": "Global Digital Asset and Structured Finance Platform OpenVault Completes $2 Million Seed Round at $20 Million Post-Money Valuation",
+      "url": "https://www.newsbtc.com/news/global-digital-asset-and-structured-finance-platform-openvault-completes-2-million-seed-round-at-20-million-post-money-valuation/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "NewsBTC",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:48:15+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:55:11.441854+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N47608U:0",
       "title": "Indian benchmark shares rise as foreign inflows, lower oil prices aid sentiment",
@@ -9192,6 +9288,25 @@
       "extra": {}
     },
     {
+      "id": "msn:e16ad2ed503396d6c28a022e3f7f109117418617",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty extends gains to 400 points; ICICI Bk at 52 ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b066a2f5ad74fafa5d4a133f626bcf7&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-ai-tariffs-it-nifty-bank-tata-steel-apl-apollo-zee-ril-adani-share-price-liveblog-20040632.htm&c=1104828012116773145&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The Nifty bulls enter the mid-week session starting a new F&O series on the back of mixed cues. They would have not liked the ferocity of the fall seen on Monday and the fact that both Nifty and the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T04:55:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:55:14.402698+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-apple-philip-205300421.html?.tsrc=rss",
       "title": "Top Analyst Reports for Apple, Philip Morris & Intel",
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-apple-philip-205300421.html?.tsrc=rss",
@@ -9248,6 +9363,25 @@
       "published_at": "2026-11-25T04:43:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T12:43:14.647934+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b475a1af233dac32b7c711978e53517c322c116a",
+      "title": "Stock Market Live Updates: Sensex rockets over 1,300 pts, Nifty above 25,700; IT index jumps 2%",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b066a2f5ad74fafa5d4a133f626bcf7&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026%2fliveblog%2f136145716.cms&c=2500710713444335276&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "GIFT Nifty futures on the NSE IX were trading higher, indicating a strong gap-up opening for Dalal Street on Wednesday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T04:43:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:55:14.402698+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -9396,6 +9530,25 @@
       "published_at": "2026-11-25T04:30:19+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T08:04:40.038580+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:052b010a4c3c7da41f7556b068544aa81e693327",
+      "title": "Stock Market Today Live Updates: D-Street trades in green - BSE Sensex jumps over 1500 ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b066a2f5ad74fafa5d4a133f626bcf7&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fbusiness%2findia-business%2fsensex-stock-market-today-25-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news%2fliveblog%2f136147030.cms&c=4363032083278693014&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Asian markets fell sharply on Wednesday as renewed US tariff threats and fading momentum in the AI-led rally weighed on investor sentiment. Chip-heav ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T04:27:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:55:14.402698+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -11311,6 +11464,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T12:52:14.237424+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0fe67bd3ba04202f1f19dd93effed6d242c89821",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b066a2f5ad74fafa5d4a133f626bcf7&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:55:14.402698+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
