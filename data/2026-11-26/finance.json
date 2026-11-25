@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T07:13:18.796852+08:00",
-  "count": 414,
+  "generated_at": "2026-11-26T07:19:18.928921+08:00",
+  "count": 417,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 44,
+      "count": 47,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzftt3835897.shtml",
+      "title": "黄仁勋复职前夕卖出英伟达看跌期权，“大空头”伯里称股价200美元时将再次做空",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzftt3835897.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "尽管黄仁勋已重返英伟达领导岗位，但这并未改变大空头迈克尔·伯里（Michael Burry）对该股的看空立场。 在人工智能（AI）相关投资热潮高涨之际...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:18:16+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:19:16.203172+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzftp1433218.shtml",
       "title": "英伟达因治理问题面临标普下调评级风险",
@@ -1015,6 +1034,44 @@
       "extra": {
         "important": 0
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/jjxw/2026-11-26/doc-inizyzms8293122.shtml",
+      "title": "今日视点：三端合力夯实市场稳定底盘",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-26/doc-inizyzms8293122.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "证券日报",
+      "summary": "■侯捷宁 11月份以来，资本市场稳市举措密集出台、加快推进。11月2日，中国人民银行、金融监管总局、证监会联合部署互换便利第三次操作...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:53:42+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:19:16.203172+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/jjxw/2026-11-26/doc-inizyzmv3924626.shtml",
+      "title": "财政部前瞻性补充国有大型金融机构资本",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-26/doc-inizyzmv3924626.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "证券日报",
+      "summary": "本报记者韩昱 据财政部11月24日发布的消息，近日，金融稳定理事会（FSB）在瑞士巴塞尔举行全体会议暨新兴市场与发展中经济体论坛，财政部副部长廖岷出席会议并发言。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:53:42+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:19:16.203172+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "sina:https://finance.sina.com.cn/jjxw/2026-11-26/doc-inizyzmp9144581.shtml",

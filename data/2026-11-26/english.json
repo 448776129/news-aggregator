@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T07:16:17.861962+08:00",
-  "count": 1501,
+  "generated_at": "2026-11-26T07:19:18.905158+08:00",
+  "count": 1503,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,54 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4828657:0",
+      "title": "AFT: Revenue rose 25% to $143.6m; adjusted operating profit climbed to $13.3m",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4828657:0-aft-revenue-rose-25-to-143-6m-adjusted-operating-profit-climbed-to-13-3m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:15:41+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:19:15.615428+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:AFT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:fba55e1ea094b:0",
+      "title": "Pentagon considered invoking wartime law to reinstate Nvidia's Huang: WaPo",
+      "url": "https://seekingalpha.com/news/4676728-pentagon-considered-invoking-wartime-law-reinstate-nvidia-huang?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:15:39+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T07:19:15.615428+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
     {
       "id": "tradingview:urn:summary_document_transcript:quartr.com:4828652:0",
       "title": "TWR: Customer growth and partnerships underpin a NZD 750m FY 2028 GWP target",
