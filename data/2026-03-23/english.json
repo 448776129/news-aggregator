@@ -1,0 +1,61 @@
+{
+  "date": "2026-03-23",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-25T08:04:44.379227+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:00b52c8735d9fc59c387d7275a0297730e3ff4b6",
+      "title": "Economy: What It Is, Types of Economies, Economic Indicators",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0626191862412996cfcbfd2f66c52d&url=https%3a%2f%2fwww.investopedia.com%2fterms%2fe%2feconomy.asp&c=4490014130294509693&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Will Kenton is an expert on the economy and investing laws and regulations. He previously held senior editorial roles at Investopedia and Kapitall Wire and holds a MA in Economics from The New School ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-03-23T17:25:00+08:00",
+      "published_date": "2026-03-23",
+      "fetched_at": "2026-11-25T08:04:42.887172+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2024-02-14",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-25T08:04:44.376871+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:ec36f5f0e60ea1754a38da8c42c6540ce64fd8a7",
+      "title": "What Would It Take to Convince Americans That the Economy Is Fine?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0626191862412996cfcbfd2f66c52d&url=https%3a%2f%2fwww.theatlantic.com%2fmagazine%2farchive%2f2024%2f04%2fconsumer-sentiment-economy-inflation%2f677440%2f&c=4778080609893673611&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "What was the worst moment for the American economy in the past half century? You might think it was the last wheezing months of the 1970s, when oil prices more than doubled, inflation reached double ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2024-02-14T12:01:00+08:00",
+      "published_date": "2024-02-14",
+      "fetched_at": "2026-11-25T08:04:42.887172+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

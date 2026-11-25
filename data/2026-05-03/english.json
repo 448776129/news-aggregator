@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-24T23:29:13.956119+08:00",
-  "count": 1,
+  "generated_at": "2026-11-25T08:04:44.379603+08:00",
+  "count": 2,
   "sources": [
     {
       "name": "alpaca",
@@ -53,6 +53,25 @@
       "published_date": "2026-05-03",
       "fetched_at": "2026-11-24T23:29:11.859206+08:00",
       "crawl_date": "2026-11-24",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:a6a4cb16d2a04bf490003d87e11a7365c1c63d9e",
+      "title": "Stock Market Indexes Explained: What They Are and Why They Matter",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b062618a49f443db021778e8484291a&url=https%3a%2f%2fwww.fool.com%2finvesting%2fstock-market%2findexes%2f&c=2847451936822441212&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stock market indexes gauge economic performance by collecting data across various companies. Nasdaq, focusing on tech stocks, helps track sector-specific market trends and performance. Investing in ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-05-03T09:24:00+08:00",
+      "published_date": "2026-05-03",
+      "fetched_at": "2026-11-25T08:04:42.887172+08:00",
+      "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
       "extra": {}
