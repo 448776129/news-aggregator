@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-14",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-25T11:52:24.673968+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:02b30889cb69dea2352e233571deeb57832f98aa",
+      "title": "Microsoft Earnings Show How Megacap Stocks Can Keep the AI Bubble Growing",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b065b752b1b44c297d28549fee9e609&url=https%3a%2f%2fwww.bloomberg.com%2fnews%2fnewsletters%2f2026-10-14%2fmicrosoft-earnings-show-how-megacap-stocks-can-keep-the-ai-bubble-growing&c=16156331450115981792&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-10-14T18:19:00+08:00",
+      "published_date": "2026-10-14",
+      "fetched_at": "2026-11-25T11:52:23.120527+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
