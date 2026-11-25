@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T17:01:27.897313+08:00",
-  "count": 1802,
+  "generated_at": "2026-11-25T17:04:16.269759+08:00",
+  "count": 1868,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 42,
+      "count": 44,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 3,
       "error": ""
     },
     {
@@ -38,6 +38,1302 @@
     }
   ],
   "items": [
+    {
+      "id": "alpaca:130327080",
+      "title": "Xaar Raises £13 Million via Share Placement and Launches Retail Offer",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/xaar-nimmt-ueber-aktienplatzierung-13-mio-gbp-auf-und-startet-kleinanlegerangebot-ce7851dbd18df420",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Xaar plc has successfully raised £13 million through a share placement and is initiating a retail offering to raise additional capital.",
+      "content": "Xaar plc announced a capital raise of £13 million through a share placement. In conjunction with this institutional placement, the company is launching a retail offer to provide individual investors with an opportunity to participate. The funds are intended to support the company's ongoing business operations and strategic initiatives. This financing event represents a significant capital allocation update for the company.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:03:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "XAR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130327079",
+      "title": "Vp plc Reports First Half Revenue of £172.2 Million",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/earnings-flash-vp-l-vp-plc-meldet-im-ersten-geschaeftshalbjahr-einen-umsatz-von-172-2-mio-gbp-ce7851dbde81f327",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Vp plc announced its financial results for the first half of the fiscal year, reporting revenue of £172.2 million.",
+      "content": "Vp plc has released its financial performance figures for the first half of the fiscal year, reporting total revenue of £172.2 million. The announcement provides a snapshot of the company's operational performance during this period. As a specialist equipment rental company, these results reflect the group's activity across its divisions serving the infrastructure, construction, housebuilding, and energy sectors.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:03:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "VP."
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:8bb4fa4c6c87f:0",
+      "title": "Piper Sandler maintains Workday at Neutral, lowers price target to $185 from $190",
+      "url": "https://www.tradingview.com/news/tradingview:8bb4fa4c6c87f:0-piper-sandler-maintains-workday-at-neutral-lowers-price-target-to-185-from-190/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:44+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.371961+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:WDAY"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326733",
+      "title": "Crimson Tide plc Reports First-Half Revenue",
+      "url": "https://ch.marketscreener.com/boerse-nachrichten/ergebnis-flash-tide-l-crimson-tide-plc-meldet-umsatz-von-2-4-mio-gbp-im-ersten-geschaeftshalbjahr-ce7851dbde81f42c",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Crimson Tide plc announced its financial results for the first half of the fiscal year, reporting revenue of £2.4 million.",
+      "content": "Crimson Tide plc has released its financial performance for the first half of the fiscal year, disclosing total revenue of £2.4 million. The report provides a snapshot of the company's financial standing during this period. As a provider of the mpro5 cloud-based process management platform, these figures reflect the company's operational performance in its core markets.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:24+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "TIDE"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326732",
+      "title": "Union Jack Oil Declines Work Program at UK Well Asset Over Default Instance",
+      "url": "https://www.marketscreener.com/news/union-jack-oil-declines-work-program-at-uk-well-asset-over-default-instance-ce7851dad88bff24",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Union Jack Oil has decided not to proceed with a work program at a UK well asset following a default instance.",
+      "content": "Union Jack Oil plc has formally declined to participate in a work program for a UK well asset. The decision follows a reported default instance related to the asset. This development reflects the company's ongoing management of its portfolio and capital strategy.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:24+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "UJO"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326731",
+      "title": "NewRiver REIT plc Reports First Half Fiscal Year Revenue",
+      "url": "https://ch.marketscreener.com/boerse-nachrichten/earnings-flash-nrr-l-newriver-reit-plc-meldet-umsatz-von-59-2-mio-gbp-im-ersten-geschaeftshalbjahr-ce7851dbde81f52d",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "NewRiver REIT plc announced its financial results for the first half of the fiscal year, reporting revenue of 59.2 million GBP.",
+      "content": "NewRiver REIT plc has released its financial performance for the first half of the fiscal year, disclosing total revenue of 59.2 million GBP. The report provides a snapshot of the company's operational income during this period. As a real estate investment trust, these figures reflect the company's ongoing management and development of its retail and leisure property portfolio across the United Kingdom.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:23+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "NRR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326730",
+      "title": "Berenberg Research Adjusts Crest Nicholson Price Target",
+      "url": "https://www.marketscreener.com/news/berenberg-research-cuts-crest-nicholson-pt-affirms-hold-rating-ce7851dbdb8afe26",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Berenberg Research has lowered its price target for Crest Nicholson Holdings plc while maintaining a 'Hold' rating on the stock.",
+      "content": "On November 24, 2026, Berenberg Research issued an update regarding Crest Nicholson Holdings plc, in which it reduced its price target for the company's shares. The firm maintained its existing 'Hold' rating as part of this research update. This adjustment reflects the firm's current assessment of the housebuilder's market position and outlook.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:17+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "CRST"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326729",
+      "title": "Zentra Group plc Announces Proposed Recapitalisation and General Meeting",
+      "url": "https://www.placera.se/pressmeddelanden/zentra-group-plc-proposed-recapitalisation-and-general-meeting-20261124",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Zentra Group plc has announced a proposed recapitalisation involving a £5.5 million debt waiver and a debt-for-equity conversion with OH UK Holdings Limited.",
+      "content": "Zentra Group plc has announced a proposed recapitalisation transaction to address its debt position. Under the proposal, OH UK Holdings Limited (OHUK) will waive £5,500,000 of debt and convert an additional £440,000 of debt into 16,000,000 new ordinary shares at a price of 2.75 pence per share. This transaction is expected to extinguish £5,940,000 of debt, improve the company's net asset position, and reduce annual interest costs by approximately £356,400. The company has scheduled a General Meeting to consider the necessary resolutions. Following the conversion, OHUK will hold a 29.26% stake in the company.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:12+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ZNT"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326728",
+      "title": "Zentra Group plc Posts Annual Report and Notice of AGM",
+      "url": "https://www.finanzen.at/nachrichten/aktien/zentra-group-plc-posting-of-accounts-and-notice-of-annual-general-meeting-agm-and-general-meeting-%E2%80%9Cgm%E2%80%9D-1036796454",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Zentra Group plc has published its Annual Report and Accounts for the year ended 30 June 2026 and issued notices for its upcoming Annual General Meeting and General Meeting.",
+      "content": "Zentra Group plc has posted its Annual Report and Accounts for the financial year ended 30 June 2026 to shareholders. The company also issued the formal Notice of Annual General Meeting (AGM), which is scheduled to be held on 17 December 2026 in Manchester. A General Meeting (GM) will follow the AGM to consider resolutions regarding the company's proposed recapitalisation. The documents are available for download on the company's website.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:12+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ZNT"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326727",
+      "title": "Genedrive plc Announces Audited Final Results for the Year Ended 30 June 2026",
+      "url": "https://www.investegate.co.uk/announcement/rns/genedrive--gdr/audited-final-results-/9892013",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Genedrive plc reported a 40% increase in revenue to £1.4 million and a reduced loss after tax of £4.2 million for the 2026 fiscal year.",
+      "content": "Genedrive plc announced its audited final results for the year ended 30 June 2026, highlighting a transition from development to broader commercial implementation. Revenue and other income grew by 40% to £1.4 million, compared to £1.0 million in the previous year. The company reported a reduced loss after tax of £4.2 million, down from £5.2 million in 2025, which management attributed to a realignment of the cost base. Diagnostics expenditure remained significant at £3.2 million, supporting the commercial adoption of its diagnostic products. The company also noted that approximately 74% of its income was generated in the UK, with 26% coming from international markets.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:11+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GDR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326726",
+      "title": "Kromek Group plc Enters Partnership with Spectara for Biological Threat Detection",
+      "url": "https://www.voxmarkets.com/articles/rns-hotlist-november-24-activeops-alien-metals-coats-east-star-fiinu-kromek-mendell-reveille-richmond-hill-shearwater-e4cefef",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Kromek Group plc has partnered with Spectara to distribute its biological threat detection system internationally, integrating the BioTOF z200 mass spectrometry system into its portfolio.",
+      "content": "Kromek Group plc has entered into a partnership with Spectara to distribute its biological threat detection system in international markets. The agreement incorporates the BioTOF z200, a commercially available MALDI-TOF mass spectrometry system, into Kromek's existing biological detection portfolio. This addition complements Kromek's ongoing development of DNA sequencing technology, allowing the company to offer customers two distinct but complementary approaches to biological threat detection. While the BioTOF z200 provides rapid anomaly detection of known threats through automated sampling, Kromek's DNA sequencing technology is designed to provide more detailed genomic analysis and the identification of previously unknown pathogens. The system is capable of continuous monitoring for over four weeks without human intervention and is supported by cloud-based data management.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:10+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "KMK"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326725",
+      "title": "SMX Expands Plastic Circularity Platform with Digital Plastic Passport and Marketplace",
+      "url": "https://www.morningstar.com/news/accesswire/1255357msn/smx-announces-onboarding-to-worlds-first-digital-plastic-passport-and-global-circularity-marketplace",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "SMX is expanding its Plastic Circularity Platform to include a Digital Plastic Passport and a Global Circularity Marketplace, supported by a collaboration with A*STAR.",
+      "content": "SMX (Security Matters) PLC has introduced a Digital Plastic Passport and a Global Circularity Marketplace to connect certified recycled materials with digital records and commercial buyers. The initiative expands upon the company's Digital Material Passport Platform, which links physical molecular markers to secure digital records for traceability. SMX is also collaborating with Singapore's Agency for Science, Technology and Research (A*STAR) to validate and optimize the platform for broader industrial adoption. Additionally, the company plans to host an onboarding event for the Digital Plastic Passport in collaboration with the World Business Council for Sustainable Development (WBCSD) on November 27, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:10+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SMX"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326724",
+      "title": "PCI-PAL PLC Appoints Haywood Chapman as Chief Financial Officer",
+      "url": "https://www.investegate.co.uk/announcement/rns/pci-pal--pcip/appointment-of-cfo/9890088",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "PCI-PAL has appointed Haywood Chapman as its new Chief Financial Officer, effective immediately, succeeding Ryan Murray.",
+      "content": "PCI-PAL PLC announced the appointment of Haywood Chapman as Chief Financial Officer, effective 24 November 2026. Chapman brings over 26 years of financial and accountancy experience, including previous CFO roles at IQGeo Group plc and Castleton Technology plc. He succeeds Ryan Murray, who has stepped down by mutual agreement to support an orderly transition. Chapman will stand for election at the company's next Annual General Meeting.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:07+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "PCIP"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326723",
+      "title": "Reach plc Partners with Tickaroo for Interactive Live Coverage",
+      "url": "https://www.streetinsider.com/Globe+Newswire/Reach+Plc+selects+Tickaroo+to+power+live+journalism+across+national+and+regional+news+brands/27397724.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Reach plc has selected Tickaroo's media software to enhance its national and regional brands with interactive live coverage features.",
+      "content": "Reach plc has entered into a partnership with Tickaroo, a news and sports media software provider, to integrate interactive live coverage tools across its portfolio of national and regional news brands. The platform will support live blogging, audience participation features such as polls and quizzes, and multimedia content for events ranging from major sports matches to entertainment shows. According to Paul Rowland, Editorial Director (News) at Reach, the initiative aims to provide journalists with tools to deliver more engaging, tailored content that reflects audience interests. The company expects this collaboration to strengthen audience engagement and create new commercial opportunities through advertising, sponsorships, and subscriptions.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:07+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "RCH"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326722",
+      "title": "PCI-PAL PLC Publishes Annual Report and Notice of Annual General Meeting",
+      "url": "https://www.investegate.co.uk/announcement/rns/pci-pal--pcip/annual-financial-report-notice-of-agm/9891329",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "PCI-PAL has posted its Annual Report and Accounts for the year ended 30 June 2026 and scheduled its Annual General Meeting for 17 December 2026.",
+      "content": "PCI-PAL PLC has distributed its Annual Report and Accounts for the fiscal year ended 30 June 2026 to shareholders. The company also issued the notice for its Annual General Meeting (AGM), which is scheduled to take place on 17 December 2026 at 11:00 a.m. in London. The documents, including the proxy form, are available on the company's investor relations website.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:07+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "PCIP"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326721",
+      "title": "PCI-PAL PLC Grants Share Options to CFO Haywood Chapman",
+      "url": "https://www.investegate.co.uk/announcement/rns/pci-pal--pcip/grant-of-options/9891948",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "The remuneration committee of PCI-PAL has approved a grant of 938,000 options to newly appointed CFO Haywood Chapman under the company's Long-Term Incentive Plan.",
+      "content": "PCI-PAL PLC's remuneration committee approved a grant of 938,000 options to CFO Haywood Chapman on 24 November 2026, with an exercise price of 1.0 pence per share. The award consists of 868,000 performance-conditioned options linked to share-price targets and adjusted EBITDA, vesting on the third anniversary, and 70,000 time-based options vesting on the second anniversary. This grant is subject to continued employment and represents potential future dilution for shareholders.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:07+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "PCIP"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326720",
+      "title": "PCI-PAL PLC Announces FY26 Full Year Results",
+      "url": "https://www.investegate.co.uk/announcement/rns/pci-pal--pcip/final-results-analyst-briefing-investor-pres/9889920",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "PCI-PAL reported FY26 revenue of £25.36 million, a 13% increase, alongside an adjusted EBITDA of £1.72 million.",
+      "content": "PCI-PAL PLC announced its financial results for the year ended 30 June 2026, reporting revenue of £25.36 million, a 13% increase, and an adjusted EBITDA of £1.72 million. The company achieved an Annual Recurring Revenue (ARR) of £24.78 million, up 29%, and a Committed Annual Recurring Revenue (CARR) of £27.86 million, up 25%. Statutory loss before tax was £0.52 million, while adjusted loss before tax was £0.07 million. Management highlighted record new business performance, particularly in North America, and noted that 79% of new contracts were generated through its partner ecosystem.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:07+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "PCIP"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326719",
+      "title": "Beacon Rise Holdings plc Announces Intention to Delist from London Stock Exchange and Move to AIM",
+      "url": "https://www.investegate.co.uk/announcement/rns/beacon-rise-holdings--brs/proposed-delisting-and-listing-on-aim/9889751",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Beacon Rise Holdings plc has announced its intention to cancel its listing on the London Stock Exchange's Main Market to pursue admission to the AIM market, concurrent with its proposed acquisition of Dr Kerry Sissins Chiropractor Limited.",
+      "content": "Beacon Rise Holdings plc has formally notified the Financial Conduct Authority and the London Stock Exchange of its intention to delist its ordinary shares from the Main Market. The company plans for the delisting to become effective on December 22, 2026, with the final day of trading on the Main Market expected to be December 21, 2026. This strategic move is intended to facilitate the company's application for admission to trading on the AIM market. The transition is being pursued in conjunction with the company's previously announced proposed acquisition of Dr Kerry Sissins Chiropractor Limited, which is classified as an initial transaction under UK Listing Rules. Further details regarding the acquisition and the transition process are expected to be provided to shareholders in due course.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:06+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BRS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326718",
+      "title": "Redcentric Announces Date for Interim Results",
+      "url": "https://www.investegate.co.uk/announcement/rns/redcentric--rcn/notice-of-interim-results-/9889947",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Redcentric plc has scheduled the release of its interim financial results for the six months ended 30 September 2026 for 8 December 2026.",
+      "content": "Redcentric plc announced that it will report its interim results for the six-month period ending 30 September 2026 on 8 December 2026. The company will host an in-person presentation for analysts at 9:30 a.m. (GMT) on the day of the announcement, led by CEO Michelle Senecal de Fonseca and CFO Tim Sykes. Additionally, a retail investor presentation featuring a live Q&A session is scheduled for 10 December 2026 at 1:00 p.m. (GMT) via the Investor Meet Company platform.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:05+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "RCN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326717",
+      "title": "Acuity RM Group Announces Share Subscription",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70215089-acuity-rm-group-plc-share-subscription-008.htm",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Acuity RM Group plc has agreed to a share subscription of 6,666,667 ordinary shares at 1.5 pence per share, raising £100,000 from a UK smaller companies fund.",
+      "content": "Acuity RM Group plc announced a share subscription agreement for 6,666,667 ordinary shares at a price of 1.5 pence each, totaling £100,000 in proceeds. The subscriber will also receive a warrant to purchase an additional 6,666,667 ordinary shares at an exercise price of 1.875 pence, exercisable for 18 months following the admission of the subscription shares. The company stated that while it was not actively seeking equity for its existing business due to recent contract wins and warrant exercises, it pursued the subscription to secure a leading UK smaller companies fund as an investor. Admission of the new shares to trading on AIM is expected on or around November 30, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:05+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ACRM"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326716",
+      "title": "Acuity RM Group Announces Warrant Exercise",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70211018-acuity-rm-group-plc-share-warrants-008.htm",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Acuity RM Group plc received a warrant exercise notice for 3,000,000 ordinary shares at 1.5 pence per share, generating £45,000 in proceeds.",
+      "content": "Acuity RM Group plc announced the receipt of a warrant exercise notice for 3,000,000 ordinary shares at an exercise price of 1.5 pence per share, resulting in total consideration of £45,000. The company noted that November 23, 2026, was the final date for the exercise of warrants issued during the May 2025 fundraising. Of the 42,107,143 warrants issued at that time, 20,250,000 were exercised in total, while the remaining 21,857,143 have expired. Following the admission of these new shares, which is expected on or around November 30, 2026, the company's total number of voting rights will be 352,660,482.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:05+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ACRM"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326715",
+      "title": "Karelian Diamond Resources Announces Results of Annual General Meeting",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70205246-karelian-diamond-resources-plc-result-of-agm-008.htm",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Karelian Diamond Resources held its annual general meeting on November 23, 2026, where all proposed resolutions were passed by shareholders.",
+      "content": "Karelian Diamond Resources announced that all resolutions presented at its annual general meeting held on November 23, 2026, were duly passed by shareholders on a poll. Following the conclusion of these resolutions, the meeting was adjourned until November 30, 2026. The adjourned meeting will focus on reviewing the company's affairs and considering the financial statements for the year ended May 31, 2026, along with the associated directors' and independent auditor's reports. Additionally, the company noted that a presentation by its senior geologist was delivered to investors during the event.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:04+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "KDR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326714",
+      "title": "BRCK Group Reports H1 FY27 Interim Results",
+      "url": "https://www.investegate.co.uk/announcement/rns/brickability-group--brck/interim-results-/9889871",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "BRCK Group announced its unaudited interim results for the six months ended 30 September 2026, reporting revenue of £343.1 million and adjusted EBITDA of £25.5 million.",
+      "content": "BRCK Group reported revenue of £343.1 million for the first half of fiscal year 2027, representing a 1.1% decrease year-on-year. Adjusted EBITDA fell 6.3% to £25.5 million, while adjusted profit before tax declined 14.8% to £17.9 million. The company reported a statutory profit before tax of £10.6 million and adjusted EPS of 4.06p, down 15.2%. Net debt increased to £96.4 million, primarily attributed to the acquisition of H.S. Jackson & Son (Fencing) Limited. Management highlighted a strategic focus on simplifying the group structure, targeting at least £5 million in recurring cost savings, and prioritizing debt reduction amid challenging UK housebuilding market conditions.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BRCK"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326713",
+      "title": "Huddled Group Announces £900,000 Equity Subscription to Fund Live Commerce Strategy",
+      "url": "https://www.investegate.co.uk/announcement/rns/huddled-group--hud/trading-update-fundraise-capital-access-window/9889899",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Huddled Group plc has secured initial commitments of approximately £900,000 through a proposed share subscription at 0.45p per share to accelerate its live commerce growth.",
+      "content": "Huddled Group plc has announced a proposed subscription for new ordinary shares at 0.45 pence per share, aiming to raise approximately £900,000. The capital is intended to support the company's live commerce strategy, including funding stock purchases, migrating fulfillment operations to THG Fulfil, and increasing marketing efforts. The company reported significant growth in its live commerce division, noting that daily revenue has reached approximately £25,000 and that its Peeko Gadgets brand has seen strong performance since its launch on the Whatnot platform in August 2026. Trading in the company's shares was temporarily suspended on November 24, 2026, pending the announcement of this financing.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "HUD"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326712",
+      "title": "Quantum Blockchain Technologies Secures Loan Facility and Receives Asset Recovery Payment",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70211024-quantum-blockchain-technologies-plc-payments-in-and-loan-facility-008.htm",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Quantum Blockchain Technologies Plc has entered into a new loan facility with its largest shareholder and received a final payment from the bankruptcy proceedings of a legacy Italian asset.",
+      "content": "Quantum Blockchain Technologies Plc has secured a loan facility of up to €250,000 from its largest shareholder, MC Strategies AG, to support liquidity. The company may draw on this facility in tranches of at least €50,000 between January 1, 2027, and March 30, 2027. Additionally, the company's subsidiary, Clear Leisure 2017 Limited, received €132,067 from the receiver of Mediapolis S.r.l. as the final distribution under a June 2020 settlement agreement. This payment concludes the recovery of €1,663,000 from the Mediapolis bankruptcy procedure.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "QBT"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326711",
+      "title": "Virax Biolabs Expands Fosun Diagnostics Supply Agreement to India",
+      "url": "https://www.prnewswire.com/news-releases/virax-biolabs-expands-fosun-diagnostics-supply-agreement-to-india-as-immuneselect-evaluations-advance-across-asia-302948174.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Virax Biolabs has signed a supplemental agreement to extend its commercial supply framework for ImmuneSelect products to include India, covering a total of seven markets.",
+      "content": "Virax Biolabs Group Limited announced that its wholly owned subsidiary, Virax Biolabs (UK) Limited, has signed a supplemental agreement with Fosun Diagnostics to expand their commercial supply framework for ImmuneSelect research-use immune profiling products to India. This expansion brings the total number of markets covered under the agreement to seven, including India, Thailand, Vietnam, Indonesia, the Philippines, Singapore, and Malaysia. The company noted that customer sampling is currently underway in Thailand, Singapore, and the Philippines, and that it has received inquiries from Indian customers regarding its peptide pools. Additionally, the company is in preliminary discussions with Fosun regarding potential distribution in mainland China and local manufacturing at a Fosun facility.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "VRAX"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326710",
+      "title": "Gunsynd Reports Drilling Results from Richmond Hill Resources' Sakoose Project",
+      "url": "https://www.investegate.co.uk/announcement/rns/gunsynd--gun/update-on-richmond-hill-s-sakoose-project/9891800",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Gunsynd PLC provided an update on the diamond-drill campaign at the Sakoose project, noting that 1,292 meters have been drilled with initial assay results reported.",
+      "content": "Gunsynd PLC, which holds approximately 2.6% of Richmond Hill Resources Plc, announced progress on the Sakoose diamond-drill campaign. As of the report, 1,292 meters of an approximately 1,400-meter program have been drilled, with 766 meters of core logged. Initial rush-assayed results include 0.67 meters at 54.2 g/t Au and a 5.84-meter composite at 1.16 g/t Au. Remaining samples from the campaign are currently pending analysis. The company noted that true widths for the reported intervals have not yet been determined.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GUN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326709",
+      "title": "BRCK Group Directors Purchase Ordinary Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/brickability-group--brck/director-pdmr-shareholding/9891563",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Chief Financial Officer Mike Gant and Independent Non-Executive Director Katie Long have purchased ordinary shares in BRCK Group plc.",
+      "content": "BRCK Group announced that CFO Mike Gant purchased 92,114 ordinary shares at a price of 32.568 pence per share, bringing his total beneficial interest to 354,562 shares, or approximately 0.11% of the company's issued share capital. Additionally, Independent Non-Executive Director Katie Long purchased 90,592 ordinary shares at a volume-weighted average price of 33.115 pence per share. These transactions represent board-level buying activity within the company.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BRCK"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326708",
+      "title": "Bradda Head Lithium Announces Assay Results from Whistlejacket Project",
+      "url": "https://www.voxmarkets.com/articles/rns-hotlist-november-25-bradda-head-cake-box-genedrive-quantum-helium-potentially-ai-rentguarantor-sintana-strategic-minerals-sulnox-73222da",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Bradda Head Lithium reported assay results from drillhole WSTL0022 at its Whistlejacket Lithium Project, confirming significant lithium mineralization.",
+      "content": "Bradda Head Lithium has announced assay results from drillhole WSTL0022, the third hole of its 2026 drilling campaign at the Whistlejacket Lithium Project. The project is being developed under an option to joint venture agreement with Kennecott Exploration Company. Drillhole WSTL0022 successfully intersected the main mineralized pegmatite up-dip of a previous hole, WSTL0020. The results returned 38.13 meters at 1.34% Li₂O, including a higher-grade interval of 23.39 meters.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BHL"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326707",
+      "title": "Conroy Gold Announces Drilling Results at Clay Lake",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70201281-conroy-gold-natural-resources-plc-clay-lake-drilling-intersects-extensive-mineralised-system-008.htm",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Conroy Gold and Natural Resources plc reported results from a two-hole diamond drilling programme at the Clay Lake gold target in County Armagh, Northern Ireland, identifying an extensive mineralised system.",
+      "content": "Conroy Gold and Natural Resources plc has announced the results of a two-hole diamond drilling programme at its Clay Lake gold target in County Armagh, Northern Ireland. The drilling, which totaled 969.2 metres, was designed to test the gold system beyond previously explored zones as part of the company's effort to evaluate the 7.5 km corridor between Clay Lake and the Clontibret gold deposit. The programme successfully intersected 24 gold zones at or above 0.25 g/t Au and identified an extensive sulphide-bearing system extending to approximately 400 metres below the surface. Notable intersections included 26.0 metres at 0.36 g/t Au and 8.5 metres at 0.55 g/t Au. The company noted that the system remains open at depth and to the south-west.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "CGNR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326706",
+      "title": "Defence Holdings PLC Secures MoD Contract Extension and Reports Commercial Progress",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70213974-defence-holdings-plc-defence-holdings-secures-mod-contract-extension-and-reports-accelerating-commercial-momentum-008.htm",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Defence Holdings PLC has secured a contract extension with the UK Ministry of Defence and announced the inaugural investment by the Defence Fund into Inexorable.",
+      "content": "Defence Holdings PLC announced a £113,000 contract extension with the UK Ministry of Defence, running through January 2027, with a potential longer-term contract valued at over £1.3 million through March 2028. The company also reported that the Defence Fund, in which it is a cornerstone investor, completed its inaugural investment in Inexorable, a member of the Meridian accelerator cohort. These developments reflect the company's transition toward longer-term customer relationships and the expansion of its sovereign defence technology portfolio. CEO Andrew Roughan is scheduled to provide further insights in an audio interview on November 25, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:02+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ALRT"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326705",
+      "title": "Futura Medical plc Receives Notification of Major Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/futura-medical--fum/holding-s-in-company/9891813",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Futura Medical plc was notified that First Equity Limited, acting as investment manager for Armstrong Investments Limited, increased its stake in the company.",
+      "content": "On November 24, 2026, Futura Medical plc received a TR-1 notification regarding a change in major shareholdings. First Equity Limited, in its capacity as investment manager for Armstrong Investments Limited (associated with the Estate of William Black), increased its holding to 51,000,000 shares. This position represents 3.440535% of the company's voting rights, an increase from the previously reported 2.226228%. The threshold was crossed on November 23, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "FUM"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326704",
+      "title": "Alien Metals Notes Assay Results from Elizabeth Hill Silver Project",
+      "url": "https://www.voxmarkets.com/articles/rns-hotlist-november-24-activeops-alien-metals-coats-east-star-fiinu-kromek-mendell-reveille-richmond-hill-shearwater-e4cefef",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Alien Metals Limited reported that its joint venture partner, West Coast Silver Limited, has released initial assay results from a follow-up diamond drilling program at the Elizabeth Hill Silver Project.",
+      "content": "Alien Metals Limited announced that its joint venture partner, West Coast Silver Limited, has published assay results from the first hole of an 18-hole, approximately 1,800-meter diamond drilling program at the Elizabeth Hill Silver Project in Western Australia. Alien Metals maintains a 30% free-carried interest in the project and holds an approximate 7.0% equity stake in West Coast Silver. The drilling program is part of ongoing exploration efforts at the site.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "UFO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001611:0",
+      "title": "Hwa Tai Industries Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001611:0-hwa-tai-industries-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.371961+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:HWATAI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001610:0",
+      "title": "Privasia Technology Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001610:0-privasia-technology-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.371961+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:PRIVA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125001609:0",
+      "title": "Shin Yang Group Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125001609:0-shin-yang-group-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.371961+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SYGROUP"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326703",
+      "title": "Richmond Hill Resources Reports Initial Assay Results from Sakoose Gold Mine Drilling",
+      "url": "https://www.investegate.co.uk/announcement/rns/gunsynd--gun/update-on-richmond-hill-s-sakoose-project/9891800",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Richmond Hill Resources PLC has released the first set of assay results from its 2026 diamond drilling program at the Sakoose gold mine in Ontario, Canada.",
+      "content": "Richmond Hill Resources PLC announced initial assay results from its 2026 diamond drilling campaign at the Sakoose gold mine. The results, derived from a first batch of priority samples, include data from holes SAK-26-001 and SAK-26-003. Hole SAK-26-001 returned 0.67 metres at 54.2 grams per tonne gold, while SAK-26-003 returned 5.84 metres at 1.16 grams per tonne gold. The company reported that 1,292 metres of the planned 1,400-metre program have been completed to date. Assays for the remaining samples from the drilling program are currently pending.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:02:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "RHR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326388",
+      "title": "Lombard Odier Sells 1.8 Million Shares in TPXimpact",
+      "url": "https://www.investegate.co.uk/announcement/rns/tpximpact-holdings--tpx/director-pdmr-dealing/9891894",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Lombard Odier Asset Management (Europe) Limited, a firm connected to Non-Executive Director Henry Turcan, sold 1,807,723 shares of TPXimpact at 102 pence per share.",
+      "content": "TPXimpact announced that Lombard Odier, a significant shareholder connected to Non-Executive Director Henry Turcan, sold 1,807,723 ordinary shares on November 23, 2026, at a price of 102 pence per share. Following the transaction, Lombard Odier retains a 16.6% stake in the company. The company confirmed that no financial results, guidance, or operational changes were disclosed in connection with this transaction.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:01:59+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "TPX"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326387",
+      "title": "Mendell Helium Provides Operational Update on Fort Dodge Prospect",
+      "url": "https://www.voxmarkets.com/articles/rns-hotlist-november-24-activeops-alien-metals-coats-east-star-fiinu-kromek-mendell-reveille-richmond-hill-shearwater-e4cefef",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Mendell Helium reported progress on its Fort Dodge helium project, confirming the successful operation of three production wells despite ongoing challenges with water disposal and infrastructure construction.",
+      "content": "Mendell Helium has provided an update on its operations at the Fort Dodge prospect in the United States. The company confirmed it has successfully overseen three production wells where helium is being brought to the surface. Management noted that while gas production remains inconsistent due to dewatering requirements and the ongoing construction of a helium purification facility, the ability of wells to return to production after temporary shutdowns validates their operational techniques. The company is applying these learnings to its broader expansion plans, which have been widened to include different well types and potential recompletions.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:01:58+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MDH"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326386",
+      "title": "Vertu Motors Completes Acquisition of Four Hendy Group Outlets",
+      "url": "https://shareprophets.com/news/89444/vertu-motors-vtu-earnings-enhancing-acquisition-of-four-outlets-extending-into-hampshire-and-dorset",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Vertu Motors has acquired four automotive outlets from the Hendy Group for £16.1 million, expanding its dealership network and brand representation.",
+      "content": "Vertu Motors has completed the acquisition of the trade and certain assets of four outlets from the Hendy Group for a total cash consideration of £16.1 million. The transaction includes £1.1 million for freeholds and £6.0 million for goodwill, funded through the company's existing cash facilities. This acquisition increases Vertu's network to 201 outlets and expands its representation of Land Rover, Geely, and Jaguar franchises. While the acquired businesses are expected to contribute a loss for the remainder of the financial year ending 28 February 2027 due to seasonality, the company anticipates the deal will be earnings-enhancing in the first full year of ownership. The dealerships will be integrated into the Group's platform and rebranded to trade under the Vertu name.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:01:58+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "VTU"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326385",
+      "title": "Strategic Minerals Subsidiary Awarded £2 Million Grant for Redmoor Project",
+      "url": "https://www.voxmarkets.com/articles/rns-hotlist-november-25-bradda-head-cake-box-genedrive-quantum-helium-potentially-ai-rentguarantor-sintana-strategic-minerals-sulnox-73222da",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Strategic Minerals plc announced that its subsidiary, Cornwall Resources Limited, received £2 million in grant funding from the KIGF to support the Redmoor Tungsten-Copper-Tin Project.",
+      "content": "Strategic Minerals plc's wholly owned subsidiary, Cornwall Resources Limited (CRL), has been awarded £2 million in grant funding from the KIGF for the Redmoor Tungsten-Copper-Tin Project in Cornwall, UK. This funding will support the project's resource infill drilling and an integrated, accelerated full feasibility study programme. The grant represents 12.5% of the eligible project costs and will be matched by the company. Redmoor is recognized as one of the highest-grade tungsten projects globally and Europe's highest-grade undeveloped tungsten resource.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:01:57+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SML"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326384",
+      "title": "Aqualis ASA Reports Share Buyback Transactions",
+      "url": "https://live.euronext.com/en/markets/oslo/equities/company-news",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Aqualis ASA has disclosed recent transactions conducted under its share buyback program.",
+      "content": "Aqualis ASA announced the execution of transactions as part of its ongoing share buyback program. These transactions involve the acquisition or disposal of the issuer's own shares, as reported in accordance with regulatory disclosure requirements. The event reflects the company's standard capital allocation activities.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:01:57+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "AQUA"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326383",
+      "title": "Metro Bank Holdings plc Regulatory Disclosure Regarding Offer Period",
+      "url": "https://www.ticker.app/news/rns/2026-11-25/Disclosure-Table/6099E",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Metro Bank Holdings plc issued a regulatory disclosure on November 25, 2026, regarding its ongoing offer period, confirming a Rule 2.6 deadline of December 3, 2026.",
+      "content": "Metro Bank Holdings plc has provided a regulatory update concerning its ongoing offer period, which commenced on November 12, 2026. The disclosure specifies a Rule 2.6 deadline of 17:00 on December 3, 2026. This filing serves as a formal notification under the UK Takeover Code, confirming the status of the offer process for the company.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:01:56+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MTRO"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326382",
+      "title": "Custodian Property Income REIT Issues New Shares for Acquisition Retention",
+      "url": "https://www.placera.se/pressmeddelanden/custodian-property-income-reit-plc-share-issuance-20261125",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Custodian Property Income REIT has issued over 10.9 million new ordinary shares to settle a retention related to its acquisition of Grove Court Properties (Holdings) Limited.",
+      "content": "Custodian Property Income REIT announced the issuance of 10,940,864 new ordinary shares of 1 pence each. The issuance includes 387,390 shares designated to settle a retention obligation stemming from the company's acquisition of Grove Court Properties (Holdings) Limited, which was originally announced on 13 February 2026. The company has applied for these new shares to be admitted to the Official List of the FCA and to trading on the London Stock Exchange's Main Market. Admission is expected to become effective and dealings are scheduled to commence at 8:00 am on 30 November 2026, with the new shares ranking pari passu with existing ordinary shares.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:01:56+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "CREI"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326381",
+      "title": "ActiveOps PLC Announces Unaudited Results for the Six Months Ended 30 September 2026",
+      "url": "https://www.voxmarkets.com/articles/rns-hotlist-november-24-activeops-alien-metals-coats-east-star-fiinu-kromek-mendell-reveille-richmond-hill-shearwater-e4cefef",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "ActiveOps PLC reported a 19% organic SaaS revenue growth and a significant increase in adjusted EBITDA and profit before tax for the first half of the 2026 fiscal year.",
+      "content": "ActiveOps PLC announced its unaudited financial results for the six months ended 30 September 2026, highlighting a 19% organic SaaS revenue growth. The company reported an increase in adjusted EBITDA to £4.5 million, compared to £2.0 million in the same period of the previous fiscal year. Adjusted profit before tax rose by 171% to £1.9 million, up from £0.7 million in the prior year's first half. Management noted that cost savings achieved from the integration of Enlighten were reinvested into the group's sales capability, capacity, and leadership functions. Additionally, the results were bolstered by a one-off termination payment of £1.5 million.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:01:56+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "AOM"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326380",
+      "title": "Audioboom and Wonderloom Media Launch 'Dr. Insanity' Podcast",
+      "url": "https://www.prnewswire.com/news-releases/wonderloom-media-and-audioboom-launch-dr-insanity-podcast-amid-rising-demand-for-true-crime-302948704.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Audioboom has partnered with creator economy studio Wonderloom Media to launch a new true crime podcast titled 'Dr. Insanity'.",
+      "content": "Audioboom, a global podcast publisher, has collaborated with Wonderloom Media to release the new true crime podcast 'Dr. Insanity'. The partnership leverages Audioboom's ad-tech and monetization platform to support the distribution and commercialization of the new content. This launch aligns with the company's ongoing strategy to expand its premium network of podcasts amid rising listener demand for the true crime genre.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:01:55+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BOOM"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326379",
+      "title": "Trifast plc Announces Director/PDMR Shareholding",
+      "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/director-pdmr-shareholding/9891409",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Trifast plc reported that Rockwood Strategic plc, an investment vehicle connected to Director Nicholas Mills, purchased 125,000 ordinary shares of the company.",
+      "content": "Trifast plc announced that Rockwood Strategic plc, an investment vehicle associated with Director Nicholas Mills, acquired 125,000 ordinary shares of the company at a price of 70p per share. The transaction took place on 20 November 2026 and was disclosed in accordance with the UK Market Abuse Regulation. Following this purchase, Nicholas Mills and his connected investment vehicles hold 28,055,000 ordinary shares, representing approximately 20.599% of the company's issued share capital.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:01:55+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "TRI"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326378",
+      "title": "Alumasc Group PLC Corrects Executive LTIP Share Grant Disclosure",
+      "url": "https://www.investegate.co.uk/announcement/rns/alumasc-group--alu/director-pdmr-shareholding-replacement/9891943",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "The Alumasc Group issued a replacement regulatory announcement to correct the volume of a previously disclosed LTIP nil-cost option grant for an executive director.",
+      "content": "The Alumasc Group plc issued a replacement regulatory announcement to correct the volume of a nil-cost option grant for Michael Leaf, adjusting the figure from 45,905 to 42,905 shares. The company also confirmed concurrent nil-cost option grants to the CFO and another Executive Director for 42,045 and 45,950 shares, respectively. These grants, totaling 130,900 ordinary shares at 0.0 pence per share, were made on November 23, 2026, and are subject to previously established performance criteria.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:01:54+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ALU"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326377",
+      "title": "Harena Rare Earths Raises £1.25 Million via Placing and Subscription",
+      "url": "https://www.voxmarkets.com/articles/harena-raises-1-25-million-to-advance-ampasindava-7424371",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Harena Rare Earths has successfully raised £1.25 million through a share placing and subscription to fund corporate activities and its Ampasindava project.",
+      "content": "Harena Rare Earths has raised £1.25 million through a placing and subscription of 50 million shares at a price of 2.5p per share. This issue price represents a premium of approximately 4.2% over the company's closing mid-market share price of 2.4p on November 24, 2026. The company intends to use the proceeds to support ongoing corporate activities and its contribution to a DFC-backed development program. These funds are specifically earmarked to advance the Ampasindava ionic clay rare earth project located in Madagascar.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:01:54+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "HREE"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326376",
+      "title": "B90 Holdings CEO Ronny Breivik Purchases 500,000 Shares",
+      "url": "https://www.investegate.co.uk/announcement/rns/b90-holdings-npv--b90/director-pdmr-shareholding/9891296",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "B90 Holdings announced that Chief Executive Officer Ronny Breivik purchased 500,000 ordinary shares of the company at a price of 2.3 pence per share.",
+      "content": "On November 24, 2026, B90 Holdings plc reported that its Chief Executive Officer, Ronny Breivik, acquired 500,000 ordinary shares in the company. The shares were purchased at a price of 2.3 pence per share. Following this transaction, Mr. Breivik’s total interest in the company, held directly and indirectly, increased to 31,808,423 shares. This holding represents approximately 7.2% of the company's issued ordinary share capital.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:01:54+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "B90"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326375",
+      "title": "Potentially AI PLC Announces Interview with Non-Executive Director Lord Dominic Johnson",
+      "url": "https://www.voxmarkets.com/articles/rns-hotlist-november-25-bradda-head-cake-box-genedrive-quantum-helium-potentially-ai-rentguarantor-sintana-strategic-minerals-sulnox-73222da",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Potentially AI PLC has announced an upcoming interview with Non-Executive Director Lord Dominic Johnson, scheduled for publication on November 25, 2026.",
+      "content": "Potentially AI PLC, an investment company focused on the artificial intelligence sector, announced that an interview with its Non-Executive Director, Lord Dominic Johnson, will be published on November 25, 2026. The interview features a discussion between Lord Johnson and CEO Oliver Yonchev regarding Lord Johnson's motivations for joining the company, his areas of excitement, and his perspective on the role of AI in government. The conversation also covers his proudest breakthroughs and his outlook on the future of the company.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:01:53+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "AGI"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326374",
+      "title": "Puma AIM VCT plc Discloses Investment in Chaleit Holdings plc",
+      "url": "https://www.investegate.co.uk/announcement/rns/puma-aim-vct-plc--paim/portfolio-update/9891008",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Puma AIM VCT plc announced a £0.3 million investment in Chaleit Holdings plc, which was completed as part of the cybersecurity firm's IPO on the AIM market in October.",
+      "content": "Puma AIM VCT plc reported a portfolio update on November 24, 2026, confirming a £0.3 million investment in Chaleit Holdings plc. The investment was made during Chaleit's initial public offering (IPO) on the AIM market in October 2026. Chaleit is described as a founder-led, specialist cybersecurity advisory firm focused on addressing complex security challenges through strategic advisory and technical capabilities. This disclosure highlights Chaleit's recent entry into the public markets and its inclusion in the investment portfolio of Puma AIM VCT.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:01:51+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "CHA"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326373",
+      "title": "Emmerson PLC Concludes Bookbuild for £1.6 Million Capital Raise",
+      "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/result-of-placing-and-subscription-/9891902",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Emmerson PLC has successfully closed its placing and subscription, raising gross proceeds of £1.6 million to support working capital requirements for its ongoing arbitration process and patenting activities.",
+      "content": "Emmerson PLC announced the successful conclusion of its bookbuild for a capital raise, resulting in gross proceeds of £1.6 million. The company issued 164,102,513 new ordinary shares at an issue price of 0.975 pence per share. The funds are intended to provide sufficient working capital to cover the company's arbitration process and KMP patenting under current budgets. Management noted that the arbitration hearing is now scheduled for July 2028, which necessitated an extension of the company's working capital requirements. The issuance of these shares remains subject to the passing of resolutions at the company's upcoming Annual General Meeting.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:01:51+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "EML"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130326372",
+      "title": "Robert Walters Launches Salary Survey 2027 for Hong Kong",
+      "url": "https://www.etnet.com.hk/www/tc/news/news-article.php?section=index&category=mediaoutreach&newsid=503554",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Robert Walters has released its Salary Survey 2027, providing an analysis of hiring trends and salary benchmarks in the Hong Kong market.",
+      "content": "On November 25, 2026, global talent solutions firm Robert Walters launched its Salary Survey 2027 for the Hong Kong market. The report, based on data from 600 professionals and organizations surveyed in September 2026, highlights a stabilization in the local hiring market following three years of caution. Key findings indicate that 55% of professionals are confident in the job market for 2027, while 71% of employers report challenges in finding candidates with the right skills. The survey also notes a shift in demand toward specialist and transformation-focused talent, with increased interest in contract and interim hiring as organizations navigate skills shortages in areas such as AI, data, and financial services.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:01:49+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.471846+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "RWA"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6227Ea:0",
       "title": "REG - Avation PLC - Holding(s) in Company",
@@ -59,6 +1355,78 @@
         "urgency": 2,
         "symbols": [
           "LSE:AVAP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:8a6a37409094b:0",
+      "title": "Ethereum: Glamsterdam upgrade combines Gloas and Amsterdam - Q1 2027",
+      "url": "https://coinmarketcal.com/event/glamsterdam-upgrade-97695035-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:00:26+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.371961+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:ETHUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:4bc80c9f7094b:0",
+      "title": "Lombard: Unlocks up to 22.81 million BARD - May 2027",
+      "url": "https://coinmarketcal.com/event/token-unlock-2f99920c-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:00:18+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.371961+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BINANCE:TUSDT.P"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:fe0d6ea4d094b:0",
+      "title": "Lombard: BARD supply unlock releases up to 22.81 million tokens - Apr 2027",
+      "url": "https://coinmarketcal.com/event/token-unlock-d82d78fd-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:00:07+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.371961+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BINANCE:TUSDT.P"
         ]
       }
     },
@@ -227,6 +1595,52 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:RGP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4752M0:0",
+      "title": "Europe plans €50 billion sovereign tech equity fund to boost quantum technology",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4752M0:0-europe-plans-50-billion-sovereign-tech-equity-fund-to-boost-quantum-technology/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:00:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.371961+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4760Q1:0",
+      "title": "Wistron's Unit Wiwynn Buys Equipment From Air Matrix For $24.4 Mln",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4760Q1:0-wistron-s-unit-wiwynn-buys-equipment-from-air-matrix-for-24-4-mln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:59:40+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.371961+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TWSE:3231"
         ]
       }
     },
@@ -517,6 +1931,30 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:b26575ac8094b:0",
+      "title": "Govt extends raw sugar import window to March 2027 amid supply concerns; sugar stocks fall up to 3%",
+      "url": "https://www.tradingview.com/news/cnbctv:b26575ac8094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:55:13+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.371961+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ICEUS:SB1!"
+        ]
       }
     },
     {
@@ -823,6 +2261,28 @@
         "symbols": [
           "EURONEXT:RCO"
         ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:3c9564329094b:0",
+      "title": "New final terms for Euro Medium Term Note Programme - Nykredit Realkredit A/S",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410027/0/en/new-final-terms-for-euro-medium-term-note-programme-nykredit-realkredit-a-s.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:48:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.371961+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -31838,6 +33298,25 @@
       "extra": {}
     },
     {
+      "id": "msn:31f18bf3b23a4d1fbb377b88e2a987d6f6a828c5",
+      "title": "Stock Market Live Updates: Sensex surges over 1,300 pts, Nifty above 25,700; small, midcaps ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a48c63f742ac8c62da867c2f7e53&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026%2fliveblog%2f136145716.cms&c=2500710713444335276&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "GIFT Nifty futures on the NSE IX were trading higher, indicating a strong gap-up opening for Dalal Street on Wednesday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:43:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:14.483558+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.fool.com/investing/2026/11/24/most-stocks-are-losers-here-is-how-you-can-still-win/?.tsrc=rss",
       "title": "Most Stocks Are Losers. Here's How You Can Still Win",
       "url": "https://www.fool.com/investing/2026/11/24/most-stocks-are-losers-here-is-how-you-can-still-win/?.tsrc=rss",
@@ -31984,6 +33463,25 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T17:01:25.874765+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:dfd50b548365b4649ed9e13688b4d9ecca20b410",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to slump as investors await PCE inflation ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a48c63f742ac8c62da867c2f7e53&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia&c=9558319776707145456&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Wednesday here ahead of October's personal consumption expenditures price index.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:14.483558+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -33996,6 +35494,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "finnhub:8807515",
+      "title": "Thomas Markle charged in US on second count of possessing child sexual abuse material - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTnllbUwzQ2tpUDV1TEV6M0gwMlBXSzNwTmVnR2N3TDJjQnhKRXZuVEVUNmpoaGhTMngtQVJZTFpaQnNBMUhPa2hTUURmSjEtNjloanZjN25QaTdSUVIybF9oN29nSTg1TzNEZXdMclA5Y0J0SEI1UnA2YUdRSWkwUjN0R25OTVFQUUZtZEZYY3lCZk5OOVVVTFlZT2hjMGwtOHpaOGhlTnZ4UVBvdFRUUDRXNWZzclNkS1E1Mg?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Thomas Markle charged in US on second count of possessing child sexual abuse material Reuters",
+      "content": "Thomas Markle charged in US on second count of possessing child sexual abuse material Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T07:20:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.563032+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
     },
     {
       "id": "yahoo:https://www.thestreet.com/investing/stocks/scandal-like-one-haunting-nvidia-just-reached-amd-its-biggest-rival?.tsrc=rss",
@@ -40438,6 +41960,25 @@
       "extra": {}
     },
     {
+      "id": "msn:d54a7e3f10cdeb5a5eb6dc95d01c916173619ee5",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a48c63f742ac8c62da867c2f7e53&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:14.483558+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8805055",
       "title": "Congo mining forum announces $965 million in sector financing - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGdrZjdudnB3N1RtMDR5dXlRWm8zMnA0b1NXQ3JNWGFhQ3BMSWNPOWpBU1hVT2hMRkl2THlRc3JDY1BmYk5jTF85d2pxUGt2Z2ptTmhTZDFET28xWVd3MDJzZUMzN3Q5bDgzQnp0eDdSck1rLVdVV0M2bGF0ODRIWEp6Z18wcS15TzlBMl82RUd3Mjlrc2Q2SDdnSkZVMVE1dHdIMFkxSmtZZw?oc=5",
@@ -41282,6 +42823,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "finnhub:8807514",
+      "title": "Swedish parliament to vote on Moderates leader Kristersson to remain prime minister - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd1pBSUc0YXMxRFZvQk9PdVpsUDJWOEFENjJzMmdQanFKbHY0ZENDZnVUN0kxNnQzNWhVY0VySkZoVWNfVXpIV2RBTTFROVdTMkk0b1pSQ3JKWHctRFdUaXRpWk9QeDcydTJsdXAtTkhSVUpxYlBSY0M0anNzNDJtbmdDbDIwQnlSOUlmUFBrekpqTE16UldGSlRHNEpHZ01qN0puTzBHMWV5dmtWeml5blZaV2hxVDA?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Swedish parliament to vote on Moderates leader Kristersson to remain prime minister Reuters",
+      "content": "Swedish parliament to vote on Moderates leader Kristersson to remain prime minister Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:03:20+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T17:04:12.563032+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
     }
   ]
 }
