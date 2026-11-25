@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T18:31:18.130770+08:00",
-  "count": 2466,
+  "generated_at": "2026-11-25T18:34:16.323799+08:00",
+  "count": 2472,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,54 @@
     }
   ],
   "items": [
+    {
+      "id": "alpaca:130359095",
+      "title": "Banco Santander (Brasil) S.A. Acts as Financial Advisor in Transaction Agreement",
+      "url": "https://natlawreview.com/press-releases/valore-metals-announces-definitive-agreement-acquire-bemisa-agua-azul",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Banco Santander (Brasil) S.A. is serving as the financial advisor for a transaction involving ValOre and a seller, which includes the issuance of a bank guarantee.",
+      "content": "Banco Santander (Brasil) S.A. is acting as the financial advisor to the seller in a transaction agreement involving ValOre. As part of the arrangement, the bank issued an irrevocable and unconditional first-demand bank guarantee for BRL 20,578,800.00, which is adjusted by 100% of the Brazilian interbank deposit rate (CDI). This guarantee replaced a previous exclusivity guarantee that had been supported by cash collateral held with the bank. The transaction details were disclosed in a news release dated November 25, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:31:17+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:34:11.178926+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BSBR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:130359094",
+      "title": "Delta Electronics (Thailand) PCL Hosts Investor Conference Call",
+      "url": "https://www.deltathailand.com/en/ir-calendar/2026",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Delta Electronics (Thailand) Public Company Limited held a group investor conference call on November 25, 2026, in collaboration with Jefferies and TISCO.",
+      "content": "Delta Electronics (Thailand) Public Company Limited conducted a group investor conference call on November 25, 2026. The event was organized in partnership with Jefferies and TISCO to engage with institutional investors. This session is part of the company's ongoing investor relations activities to provide updates and maintain transparency with the financial community.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:31:10+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:34:11.178926+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "DELTA"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760IP:0",
       "title": "Swiss regulator approves UBS recovery plan",
@@ -43180,6 +43228,25 @@
       "extra": {}
     },
     {
+      "id": "msn:a89088708800d356e077287e5d456d54483608f5",
+      "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06b9a3eb084230bcbd90b61eb5ed3d&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:16:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:34:13.084498+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47601W:0",
       "title": "China stocks slip on tech sell-off, renewed US trade worries",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47601W:0-china-stocks-slip-on-tech-sell-off-renewed-us-trade-worries/",
@@ -45896,6 +45963,44 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T18:31:14.535058+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:32e55359bbad721231d24ded3157bf0cf8ad594d",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to slump as investors await PCE inflation ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06b9a3eb084230bcbd90b61eb5ed3d&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia&c=9558319776707145456&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Wednesday here ahead of October's personal consumption expenditures price index.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:34:13.084498+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:f2b9833771d9b1186ba649738327e93688fbe6a6",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06b9a368a14ef68066448971d7605a&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:34:13.084498+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -55627,6 +55732,25 @@
       "published_at": "2026-11-25T00:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T18:31:14.535058+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0b5334209ad6ff82a586d76c31f56f98f576a9e0",
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06b9a3eb084230bcbd90b61eb5ed3d&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-24-2026&c=12746379064812849464&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:34:13.084498+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
