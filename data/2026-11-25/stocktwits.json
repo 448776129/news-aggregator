@@ -5,8 +5,70 @@
   "timezone": "Asia/Shanghai",
   "generated_at": "2026-11-25T12:56:06.991945+08:00",
   "count": 123,
-  "sources": [],
+  "sources": [
+    {
+      "name": "stocktwits",
+      "status": "ok",
+      "count": 50,
+      "error": ""
+    }
+  ],
   "items": [
+    {
+      "id": "stocktwits:670133831",
+      "title": "@rami1609 I was extremely bullish Dell and HPE a year ago. I even said they would have good earnings as surplus computer",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "ShadowBanningIsBad",
+      "summary": "@rami1609 I was extremely bullish Dell and HPE a year ago. I even said they would have good earnings as surplus computers would dramatically increase in value and any inventory with DRAM would improve the bottom line. I also explained that Dell resells HBM made by the big 3 packaged $TSM nest to some computer. They throw it all together with cooling and power and some system memory and a cpu. They have fancy lights and networking and have great sales teams. Ultimately DELL earnings are limited by the memory production and cost. right now everyone between the people running models on GPU to the",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:56:35+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:58:13.874155+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": "Bearish",
+        "symbols": [
+          "TSM",
+          "AAPL",
+          "DELL",
+          "HPQ",
+          "HPE"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670133803",
+      "title": "11/25 Watchlist 📝 $META Above 602.46, watching 610 area $TSLA Above 393.83, watching 400 area $WMT Above 132.42, watchin",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "leifstocks",
+      "summary": "11/25 Watchlist 📝 $META Above 602.46, watching 610 area $TSLA Above 393.83, watching 400 area $WMT Above 132.42, watching 133 area $NVDA Below 150.50, watching 145 area Sharing levels I'm watching for tomorrow. Will update if price action changes.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T12:55:21+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T12:58:13.874155+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "META",
+          "TSLA",
+          "WMT",
+          "NVDA"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670133535",
       "title": "@StocktwitsPolls >> 84% No for buying $ANT 🤣🤣🤣 And to think 🤔 how many people still love ❤️ $TSLA & $SPCX 🤣🤣🤣 $ANT & $TS",
