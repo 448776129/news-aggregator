@@ -1,0 +1,61 @@
+{
+  "date": "2026-01-30",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-26T00:31:14.901907+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:d18b9c578a2b41a09d86ebdb12ef4db5c909ed07",
+      "title": "Your ‘Safe’ Stock Funds May Be Riskier Than You Think",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b070d4eab8c430994c86f7063caa1ff&url=https%3a%2f%2fwww.nytimes.com%2f2026%2f01%2f30%2fbusiness%2fstock-market-concentration-risk.html&c=8398622064402408880&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The U.S. stock market has become so concentrated that even broad index funds are no longer well diversified, our columnist says. By Jeff Sommer Jeff Sommer writes Strategies, a weekly column on ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-01-30T14:00:00+08:00",
+      "published_date": "2026-01-30",
+      "fetched_at": "2026-11-26T00:31:12.056440+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

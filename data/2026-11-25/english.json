@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:28:16.052058+08:00",
-  "count": 5397,
+  "generated_at": "2026-11-26T00:31:14.996249+08:00",
+  "count": 5399,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 9,
+      "count": 2,
       "error": ""
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 41,
+      "count": 40,
       "error": ""
     }
   ],
@@ -70383,6 +70383,25 @@
       "extra": {}
     },
     {
+      "id": "msn:b6aab2cc96599c2bceb706fea0b7f14a59e1ff40",
+      "title": "Stock Market Today: Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b070d4eab8c430994c86f7063caa1ff&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T16:09:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:31:12.056440+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_AQN2MV3CP:0",
       "title": "Rivian Is Recalling 1,619 U.S. Vehicles - NHTSA",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_AQN2MV3CP:0-rivian-is-recalling-1-619-u-s-vehicles-nhtsa/",
@@ -91186,6 +91205,25 @@
       "published_at": "2026-11-25T13:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-26T00:28:15.524758+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:59916201f455eb596bf23a6b4eeacbb45a042535",
+      "title": "Stock Market Today: Futures Plunge as AI Rout Resumes; Nvidia Leads Chip Stocks Lower ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b070d4eab8c430994c86f7063caa1ff&url=https%3a%2f%2fwww.investopedia.com%2fstock-market-today-dow-jones-s-and-p-500-nasdaq-11252026-12279355&c=14548726542868548574&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stocks are under pressure again Wednesday morning as the volatility that has gripped the AI trade in recent weeks intensifies.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T13:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:31:12.056440+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",

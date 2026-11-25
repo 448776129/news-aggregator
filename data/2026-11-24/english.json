@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:28:15.953810+08:00",
-  "count": 3429,
+  "generated_at": "2026-11-26T00:31:14.927536+08:00",
+  "count": 3430,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -20693,6 +20693,25 @@
       "published_date": "2026-11-24",
       "fetched_at": "2026-11-25T22:25:15.625401+08:00",
       "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:7268f5536b1c8b4a6cdd6d1a819a42e60d97d97d",
+      "title": "Stock Market Today, Nov. 24: Nvidia Gives Back $240 Billion in Market Value Despite Wall ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b070d4eab8c430994c86f7063caa1ff&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fstock-market-today-nov-24-214949426.html&c=3740052594731589391&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "After staging its biggest rally in more than two decades, Nvidia is surrendering some of those gains as renewed selling pressure casts doubt on the sustainability of the AI recovery.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-24T21:49:00+08:00",
+      "published_date": "2026-11-24",
+      "fetched_at": "2026-11-26T00:31:12.056440+08:00",
+      "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
       "extra": {}

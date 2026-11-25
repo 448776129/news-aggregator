@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:28:16.223524+08:00",
-  "count": 164,
+  "generated_at": "2026-11-26T00:31:15.098500+08:00",
+  "count": 175,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,249 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 9,
+      "count": 10,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY7004Ea:0",
+      "title": "REG - JPMorgan Emerging MD - Result of AGM",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY7004Ea:0-reg-jpmorgan-emerging-md-result-of-agm/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:30:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:31:10.042619+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:JEMI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4822552:0",
+      "title": "BBAR: Lower rates hit Q3 earnings, while improving credit indicators support a cautious recovery outlook",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4822552:0-bbar-lower-rates-hit-q3-earnings-while-improving-credit-indicators-support-a-cautious-recovery-outlook/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:29:52+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:31:10.042619+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BCBA:BBAR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY7003Ea:0",
+      "title": "REG - Pebble Group (The) - Purchase of Shares by Employee Benefit Trust",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-25:newsml_RSY7003Ea:0-reg-pebble-group-the-purchase-of-shares-by-employee-benefit-trust/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:29:49+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:31:10.042619+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:PEBB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:559c7791b2bcf:0",
+      "title": "Wedbush initiates coverage of Genpact at Neutral, sets price target at $46",
+      "url": "https://www.tradingview.com/news/tradingview:559c7791b2bcf:0-wedbush-initiates-coverage-of-genpact-at-neutral-sets-price-target-at-46/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:29:48+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:31:10.042619+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:G"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:c0e4351e61c84:0",
+      "title": "Citigroup initiates coverage of Agility Robotics at Buy, sets price target at $8",
+      "url": "https://www.tradingview.com/news/tradingview:c0e4351e61c84:0-citigroup-initiates-coverage-of-agility-robotics-at-buy-sets-price-target-at-8/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:29:06+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:31:10.042619+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AGLT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4822547:0",
+      "title": "SIEMENS: Strong Q2 growth and recovering margins, still constrained by commodity and FX costs",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4822547:0-siemens-strong-q2-growth-and-recovering-margins-still-constrained-by-commodity-and-fx-costs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:29:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:31:10.042619+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:SIEMENS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760YQ:0",
+      "title": "Equinor cuts 2026 production growth guidance",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760YQ:0-equinor-cuts-2026-production-growth-guidance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:28:41+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:31:10.042619+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:EQNR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760YU:0",
+      "title": "US finds no evidence China directed executive to spy on Nvidia CEO, WSJ reports",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760YU:0-us-finds-no-evidence-china-directed-executive-to-spy-on-nvidia-ceo-wsj-reports/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:28:24+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:31:10.042619+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:a0108dcaa510d:0",
+      "title": "Wedbush assumes coverage of CI&T at Outperform, sets price target at $3.90",
+      "url": "https://www.tradingview.com/news/tradingview:a0108dcaa510d:0-wedbush-assumes-coverage-of-ci-t-at-outperform-sets-price-target-at-3-90/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:27:41+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:31:10.042619+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:CINT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125003266:0",
+      "title": "Army Detonates Tons of Toxic Lead Explosives in Iowa — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125003266:0-army-detonates-tons-of-toxic-lead-explosives-in-iowa-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:27:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:31:10.042619+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:tradingview:109a0b9e31454:0",
       "title": "Wedbush initiates coverage of Grid Dynamics Holdings at Outperform, sets price target at $15",
@@ -1442,6 +1680,25 @@
           "OSL:EQNR"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.tikr.com/blog/without-an-anthropic-rally-there-will-be-no-openai-amd-is-the-real-loser?ref=yahoofinance&tlnk=yf-261125-334c8hfc&.tsrc=rss",
+      "title": "Without an Anthropic Rally, “There Will Be No OpenAI.” AMD Is the Real Loser",
+      "url": "https://www.tikr.com/blog/without-an-anthropic-rally-there-will-be-no-openai-amd-is-the-real-loser?ref=yahoofinance&tlnk=yf-261125-334c8hfc&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysAnthropic fell below its $83 IPO price on Tuesday, and AMD fell 9% on a filing registering up to 336. 9 million shares for resale.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:18:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:31:10.063898+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261125005293_20261125005309:0",

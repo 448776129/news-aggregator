@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:28:16.227147+08:00",
-  "count": 28,
+  "generated_at": "2026-11-26T00:31:15.101168+08:00",
+  "count": 29,
   "sources": [
     {
       "name": "cls",
@@ -15,17 +15,36 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 22,
+      "count": 25,
       "error": ""
     },
     {
       "name": "sina",
       "status": "ok",
-      "count": 3,
+      "count": 4,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvw8413863.shtml",
+      "title": "Nutanix股价暴跌18%，首席执行官宣布计划卸任",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvw8413863.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "这家云平台企业宣布，任职已满六年的首席执行官拉吉夫・拉马斯瓦米（Rajiv Ramaswami）即将离职。消息公布后，Nutanix（NTNX）周三早盘股价大跌 18%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:29:54+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T00:31:14.827783+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvv1636704.shtml",
       "title": "白宫经济顾问称当前通胀并未加速 美联储应重视供给侧因素",
