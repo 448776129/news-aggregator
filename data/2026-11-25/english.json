@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T18:52:22.005211+08:00",
-  "count": 2601,
+  "generated_at": "2026-11-25T18:55:26.031646+08:00",
+  "count": 2634,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 10,
       "error": ""
     },
     {
@@ -38,6 +38,465 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4760QP:0",
+      "title": "Forint leads losses as strong dollar, EU budget warning weigh",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4760QP:0-forint-leads-losses-as-strong-dollar-eu-budget-warning-weigh/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:54:26+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:EURHUF",
+          "OANDA:EURPLN",
+          "OANDA:EURCZK",
+          "FOREXCOM:EURRON",
+          "PSECZ:PX",
+          "BET:BUX",
+          "GPW:GPW",
+          "BVB:BET",
+          "FTMO_OANDA:EURPLN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760FI:0",
+      "title": "Oman, Dubai stay in contango amid ample supplies",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760FI:0-oman-dubai-stay-in-contango-amid-ample-supplies/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:54:05+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TADAWUL:2222",
+          "KRX:010950"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002345:0",
+      "title": "Nestle Eyes Wearable Tech to Match Consumers With Nutrition Products",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002345:0-nestle-eyes-wearable-tech-to-match-consumers-with-nutrition-products/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:54:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SIX:NESN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002345_20261125002347:0",
+      "title": "Nestle CTO Talking With Big Tech About Status of Blood Pressure, Glucose Monitoring on Wearables",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002345_20261125002347:0-nestle-cto-talking-with-big-tech-about-status-of-blood-pressure-glucose-monitoring-on-wearables/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:53:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SIX:NESN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002345_20261125002348:0",
+      "title": "Nestle CTO: Consumers Using Wearables to Inform Product Decisions Not 'So Far Out'",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002345_20261125002348:0-nestle-cto-consumers-using-wearables-to-inform-product-decisions-not-so-far-out/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:53:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SIX:NESN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002345_20261125002346:0",
+      "title": "Nestle CTO: Many Tech Companies Working on Ways to Measure Health Metrics",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002345_20261125002346:0-nestle-cto-many-tech-companies-working-on-ways-to-measure-health-metrics/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:53:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SIX:NESN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002345_20261125002345:0",
+      "title": "Nestle Using Wearable Tech for Health Tracking in Clinical Trials",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002345_20261125002345:0-nestle-using-wearable-tech-for-health-tracking-in-clinical-trials/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:53:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SIX:NESN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:0da7ed0aec1aa:0",
+      "title": "Poland Jobless Rate Remains Stable At 5.8%",
+      "url": "https://www.tradingview.com/news/dpa_afx:0da7ed0aec1aa:0-poland-jobless-rate-remains-stable-at-5-8/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:52:45+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4281573:0",
+      "title": "TM: Revenue grew 3.3% as CAPEX guidance fell and AI infrastructure expansion continued",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4281573:0-tm-revenue-grew-3-3-as-capex-guidance-fell-and-ai-infrastructure-expansion-continued/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:52:20+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:TM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:7bc7c7930194a:0",
+      "title": "Broker’s Call: Anthem Biosciences (Buy)",
+      "url": "https://www.tradingview.com/news/moodys:7bc7c7930194a:0-broker-s-call-anthem-biosciences-buy/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:51:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:ANTHEM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4814902:0",
+      "title": "SMAG Mobile Antenna Masts : A €1.379bn backlog meets fast-growing demand, but supplier delays cut FY 2026 guidance",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4814902:0-smag-mobile-antenna-masts-a-1-379bn-backlog-meets-fast-growing-demand-but-supplier-delays-cut-fy-2026-guidance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:50:34+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:1SMA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4760DQ:0",
+      "title": "Norsk Hydro expects full return of Qatalum aluminium output early next year",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4760DQ:0-norsk-hydro-expects-full-return-of-qatalum-aluminium-output-early-next-year/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:50:19+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:NHY",
+          "QSE:QAMC",
+          "LME:AH1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4814898:0",
+      "title": "UCHITEC: Q3 profit edged higher, while 9M revenue and earnings declined modestly",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4814898:0-uchitec-q3-profit-edged-higher-while-9m-revenue-and-earnings-declined-modestly/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:50:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:UCHITEC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:837ff84d3094b:0",
+      "title": "Man Group PLC : Form 8.3 - Gamma Communications Plc",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410065/0/en/man-group-plc-form-8-3-gamma-communications-plc.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:50:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:GAMA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125002331:0",
+      "title": "Prosus Continues to Face Near-Term Earnings Pressure Despite Progress — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125002331:0-prosus-continues-to-face-near-term-earnings-pressure-despite-progress-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:50:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:PRX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4760VV:0",
+      "title": "India RBI scales back 91-day treasury bill borrowing, accepts only 60% of planned amount",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4760VV:0-india-rbi-scales-back-91-day-treasury-bill-borrowing-accepts-only-60-of-planned-amount/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:49:54+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:ce5b7c59c9410:0",
+      "title": "CMA Accepts Remedies Offered To Resolve AkzoNobel-Axalta Coatings Merger Concerns",
+      "url": "https://www.tradingview.com/news/dpa_afx:ce5b7c59c9410:0-cma-accepts-remedies-offered-to-resolve-akzonobel-axalta-coatings-merger-concerns/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:49:47+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:AKZA",
+          "NYSE:AXTA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:957d3ce01094b:0",
+      "title": "Nvidia slides again in premarket, extending losses after record surge",
+      "url": "https://seekingalpha.com/news/4676503-nvidia-slides-again-in-premarket-extending-losses-after-record-surge?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:49:06+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/u-chip-stocks-extend-losses-104903644.html?.tsrc=rss",
+      "title": "U.S. chip stocks extend losses premarket as AI spending concerns resurface",
+      "url": "https://finance.yahoo.com/technology/ai/articles/u-chip-stocks-extend-losses-104903644.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Investing.com -- U.S. semiconductor stocks extended their losses in premarket trading on Wednesday, as renewed doubts over the returns from massive artificial intelligence investments, fresh U.S. tariff threats and expectations of higher interest rates kept investors away from technology shares.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:49:03+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:21.607833+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-25:newsml_RSY6494Ea:0",
       "title": "REG - Oddo BHF AIF PLC First Tin PLC - Form 8.3 \"FIRST TIN PLC\"",
@@ -130,6 +589,30 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:42ccaf518094b:0",
+      "title": "Man Group PLC : Form 8.3 - Rotork plc",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410064/0/en/man-group-plc-form-8-3-rotork-plc.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:48:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:ROR"
+        ]
       }
     },
     {
@@ -267,6 +750,74 @@
       "published_at": "2026-11-25T18:46:01+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T18:49:21.229477+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:2688bb66f094b:0",
+      "title": "Desicision on State Aid",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410061/0/en/desicision-on-state-aid.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:46:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:56d76927c094b:0",
+      "title": "Man Group PLC : Form 8.3 - Vesuvius Plc",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410062/0/en/man-group-plc-form-8-3-vesuvius-plc.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:46:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:VESUVIUS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:f37f7723a9b67:0",
+      "title": "Sund & Bælt Holding A/S Wins Court Ruling Upholding State Aid Decision",
+      "url": "https://www.tradingview.com/news/tradingview:f37f7723a9b67:0-sund-b-lt-holding-a-s-wins-court-ruling-upholding-state-aid-decision/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:46:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:22.069757+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -45352,6 +45903,25 @@
       "extra": {}
     },
     {
+      "id": "msn:849294dea93577a003b16f08878944379e4b9212",
+      "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06be9aff0d4cd7974cf610d0329338&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:16:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:24.045511+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47601W:0",
       "title": "China stocks slip on tech sell-off, renewed US trade worries",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47601W:0-china-stocks-slip-on-tech-sell-off-renewed-us-trade-worries/",
@@ -45437,6 +46007,25 @@
       "published_at": "2026-11-25T10:13:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T18:46:14.827425+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d59ded2d866fa51fd7ba1d7836c1f62dcb0132f9",
+      "title": "Uniper (XTRA:UN0) Stock Looks Overvalued As Earnings Lag Expectations",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06be9ad5a5421090df565f8d2f581e&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2funiper-xtra-un0-stock-looks-101313968.html&c=9417493035563074271&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Uniper stock has had a bruising long term journey, with the share price down sharply over the past five years. That raises a simple question for investors who care about valuation: Is the current ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T10:13:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:24.045511+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -45815,6 +46404,25 @@
       "extra": {}
     },
     {
+      "id": "msn:8e0aa6a1b617a38101cbd75e480a719ff8cd34cc",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall ahead of inflation data",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06be9aff0d4cd7974cf610d0329338&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fstock-market-today-dow-s-p-500-nasdaq-futures-fall-ahead-of-inflation-data%2far-AA2ibtLI&c=7286235855118781321&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "US stock futures fell on Wednesday as investors braced for Personal Consumption Expenditures (PCE) data and monitored tech volatility ahead of the Thanksgiving holiday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:14:28+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:24.045511+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/just-tell-truth-trump-says-011417145.html?.tsrc=rss",
       "title": "‘Just Tell the Truth’: Trump Says Pardon ‘Always an Option’ for Jensen Huang, Urges Nvidia CEO Not to Plead the Fifth Before Congress",
       "url": "https://finance.yahoo.com/markets/stocks/articles/just-tell-truth-trump-says-011417145.html?.tsrc=rss",
@@ -45942,6 +46550,25 @@
       "published_at": "2026-11-25T09:08:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T18:46:14.827425+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:fe7d0a48a4cedeb998f92ef8a462bfd0c7aaa233",
+      "title": "Del Monte (DMC) Stock May Trade At A Discount To Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06be9ad5a5421090df565f8d2f581e&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fdel-monte-dmc-stock-may-090835196.html&c=778897497562070235&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Del Monte shares have fallen sharply this year, and the slide is prompting a basic question for anyone looking at the stock today: Is the current price in line with what the company is actually ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T09:08:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:24.045511+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -48478,6 +49105,44 @@
       "extra": {}
     },
     {
+      "id": "msn:12746fa70eb540a93202d6a3122c8d689464bdf5",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to slump as investors await PCE inflation ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06be9aff0d4cd7974cf610d0329338&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia&c=9558319776707145456&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Wednesday here ahead of October's personal consumption expenditures price index.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:24.045511+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:e3b57c831dd017b893426eb5731e57d125e3e2f8",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06be9ad5a5421090df565f8d2f581e&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:24.045511+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:69d0af11a288ba114dbf4c01f229aef05a9d4698",
       "title": "Stock Market Live Updates: Sensex sheds 800 pts from day’s high, Nifty holds 25,650 ...",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069d83c3a14cd8b29e8d5f1f91f20d&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026%2fliveblog%2f136145716.cms&c=2500710713444335276&mkt=en-us",
@@ -49042,6 +49707,25 @@
       "published_at": "2026-11-25T08:15:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T18:46:14.827425+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:fa4efeb8c32b7f76f192e737dc95fa8b310c00b6",
+      "title": "Visible Alpha Breakdown Of U.S. Airlines' Q4 2026 Earnings Expectations",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06be9ad5a5421090df565f8d2f581e&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4971756-visible-alpha-breakdown-of-us-airlines-q4-2026-earnings-expectations&c=318486121220102849&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Visible Alpha consensus shows US airlines are heading into Q4 2026 with strong top-line growth expectations, supported by continued capacity expansion, higher passenger traffic, and robust revenue per ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:15:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:24.045511+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -52201,6 +52885,25 @@
       "published_at": "2026-11-25T06:00:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T18:46:14.827425+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:8bd945e58f134295137f504e20eac5c6d0831e6d",
+      "title": "Britain’s stock market is dying, Reeves’s former adviser claims",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06be9aff0d4cd7974cf610d0329338&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fbritain-stock-market-dying-reeves-060000134.html&c=11492668020611581401&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Rachel Reeves's former entrepreneurship adviser has warned MPs that Britain's stock market is dying. Alexandra Depledge, who held the Treasury role between 2025 and 2026, has raised fresh concerns ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T06:00:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:24.045511+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -55790,6 +56493,25 @@
       "published_at": "2026-11-25T00:39:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T18:46:14.827425+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:3e26a2a4f318fcd576bcc5b6633c78b8c7faf114",
+      "title": "Stock Market News From Nov. 24, 2026: AI Stocks Sink. The Rest of the Market Is Doing Just ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06be9aff0d4cd7974cf610d0329338&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today-112426&c=16104040240120877104&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Dow, Nasdaq, and S&P 500 futures are falling in premarket trading as the stock market rally sparked by Jensen Huang's Nvidia return fades.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:39:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:24.045511+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
@@ -59505,6 +60227,25 @@
       "published_at": "2026-11-25T00:04:08+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-25T18:46:14.827425+08:00",
+      "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:c5627793795c8565c6ce1a6c042021c0d3988e98",
+      "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06be9ad5a5421090df565f8d2f581e&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fjim-cramer-sizes-up-six-retail-stocks-after-earnings-and-names-his-two-favorites%2far-AA2i9onk&c=18106407342616312095&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here's where Jim Cramer stands on six retailers that rallied after reporting earnings Tuesday, and his two favorites.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:04:08+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-25T18:55:24.045511+08:00",
       "crawl_date": "2026-11-25",
       "lang": "en",
       "category": "english",
