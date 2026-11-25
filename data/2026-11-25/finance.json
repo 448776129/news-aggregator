@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T00:34:16.264734+08:00",
-  "count": 1798,
+  "generated_at": "2026-11-26T00:37:15.755056+08:00",
+  "count": 1799,
   "sources": [
     {
       "name": "cls",
@@ -15,13 +15,13 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 25,
+      "count": 0,
       "error": ""
     },
     {
       "name": "sina",
       "status": "ok",
-      "count": 45,
+      "count": 44,
       "error": ""
     }
   ],
@@ -170,6 +170,25 @@
       "extra": {
         "important": 0
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizyqvt9288042.shtml",
+      "title": "美国10月份新建住宅折合年率销量上升14.2%至70.1万套",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizyqvt9288042.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "美国10月份新建住宅折合年率销量预估为65.0万套。47位经济学家的预估区间为60.0万套-68.4万套。新建住宅价格中值较上年同期下跌3.2%至391,300美元。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:50:32+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T00:37:12.733407+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizyqvt9268961.shtml",
