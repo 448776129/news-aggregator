@@ -3,8 +3,8 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T05:52:16.611474+08:00",
-  "count": 392,
+  "generated_at": "2026-11-26T05:58:18.682485+08:00",
+  "count": 393,
   "sources": [
     {
       "name": "stocktwits",
@@ -14,6 +14,30 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670226072",
+      "title": "$AAPL Dark pool dumping AAPL, NVDA and AMZN.",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "Franking71",
+      "summary": "$AAPL Dark pool dumping AAPL, NVDA and AMZN.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:56:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:11.949657+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": "Bearish",
+        "symbols": [
+          "AAPL"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670225802",
       "title": "$META is working on expanding the messaging capabilities of its Muse AI agent w/ support for $AAPL Messages. A new hidde",

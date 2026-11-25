@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T05:55:24.430308+08:00",
-  "count": 1247,
+  "generated_at": "2026-11-26T05:58:18.640983+08:00",
+  "count": 1275,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,640 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 43,
+      "count": 44,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:moodys:9ea505c50ada9:0",
+      "title": "Why India’s Power Sector Needs A New Talent Strategy",
+      "url": "https://www.tradingview.com/news/moodys:9ea505c50ada9:0-why-india-s-power-sector-needs-a-new-talent-strategy/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:57:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762K5:0",
+      "title": "CSTS Enterprises Announces Initial Public Offering Of Class A Ordinary Shares - SEC Filing",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762K5:0-csts-enterprises-announces-initial-public-offering-of-class-a-ordinary-shares-sec-filing/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:57:33+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:803860:0",
+      "title": "TradeWindow H1 2027 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:803860:0-tradewindow-h1-2027-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:57:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:TWL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762CO:0",
+      "title": "Legend Mining Securities Halted Pending Announcement",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762CO:0-legend-mining-securities-halted-pending-announcement/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:56:52+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:LEG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762K1:0",
+      "title": "Federal Court Rules In Favor Of CPSC Against Amazon Over 400,000 Hazardous Products",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762K1:0-federal-court-rules-in-favor-of-cpsc-against-amazon-over-400-000-hazardous-products/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:56:39+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMZN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:6841467a1094b:0",
+      "title": "Uniserve Announces Grant of Incentive Stock Options",
+      "url": "https://www.newsfilecorp.com/release/325986/Uniserve-Announces-Grant-of-Incentive-Stock-Options",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:56:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:COMP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:e462e3fa071bf:0",
+      "title": "Uniserve Communications Corporation (USS) Grants 610,000 Options at $0.70",
+      "url": "https://www.tradingview.com/news/tradingview:e462e3fa071bf:0-uniserve-communications-corporation-uss-grants-610-000-options-at-0-70/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:56:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUA2GJK3F:0",
+      "title": "Henry Schein One Announces Appointment Of Albert Ko As Executive Chair And Chief Executive Officer",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA2GJK3F:0-henry-schein-one-announces-appointment-of-albert-ko-as-executive-chair-and-chief-executive-officer/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:55:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:HSIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4110243:0",
+      "title": "ATD: Adjusted earnings grew 5% as stronger fuel margins offset softer demand and higher costs",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4110243:0-atd-adjusted-earnings-grew-5-as-stronger-fuel-margins-offset-softer-demand-and-higher-costs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:55:24+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:ATD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762MU:0",
+      "title": "International Paper Says David A. Robbie To Resign From International Paper Board Effective November 25, 2026 - SEC Filing",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762MU:0-international-paper-says-david-a-robbie-to-resign-from-international-paper-board-effective-november-25-2026-sec-filing/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:55:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:IP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125007746:0",
+      "title": "U.S. Frozen Meat Supply Not Helpful for Livestock Futures — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007746:0-u-s-frozen-meat-supply-not-helpful-for-livestock-futures-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:54:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CME:LE1!",
+          "CME:HE1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:628003e8ae5de:0",
+      "title": "Acrivon Therapeutics CFO Adam Levy to Step Down; Katharine Peterson to Become Principal Financial Officer",
+      "url": "https://www.tradingview.com/news/tradingview:628003e8ae5de:0-acrivon-therapeutics-cfo-adam-levy-to-step-down-katharine-peterson-to-become-principal-financial-officer/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:53:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ACRV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:d242ed84ef907:0",
+      "title": "Advanced Flower Capital Reports 1.19 Million Shares Repurchased",
+      "url": "https://www.tradingview.com/news/tradingview:d242ed84ef907:0-advanced-flower-capital-reports-1-19-million-shares-repurchased/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:53:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AFCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:25dae374a4797:0",
+      "title": "Change Agents Secures $600,000 Note and Exchanges Preferred Shares for Stock and $250,000 Note",
+      "url": "https://www.tradingview.com/news/tradingview:25dae374a4797:0-change-agents-secures-600-000-note-and-exchanges-preferred-shares-for-stock-and-250-000-note/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:53:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CHGA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125007741:0",
+      "title": "Judge Dismisses Amazon Challenge to Consumer Product Safety Commission Orders",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007741:0-judge-dismisses-amazon-challenge-to-consumer-product-safety-commission-orders/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:52:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMZN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:9e1e2ecf5094b:0",
+      "title": "Tom Lee Says Anyone Who Bought Stocks In Last Weeks Will Be Happy As Market Nears Bottom: ‘We’re Literally There’",
+      "url": "https://stocktwits.com/news-articles/markets/equity/tom-lee-says-anyone-who-bought-stocks-in-last-weeks-will-be-happy-as-market-nears-bottom-we-re-literally-there/cNbHtcJR9mD",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:51:31+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/not-micron-not-broadcom-this-is-my-top-oversold-artificial-intelligence-ai-stock-to-buy-in-december/?.tsrc=rss",
+      "title": "Not Micron. Not Broadcom. This Is My Top Oversold Artificial Intelligence (AI) Stock to Buy in December",
+      "url": "https://www.fool.com/investing/2026/11/25/not-micron-not-broadcom-this-is-my-top-oversold-artificial-intelligence-ai-stock-to-buy-in-december/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Marvell's earnings growth is poised to accelerate sharply, making the stock a no-brainer buy ahead of its quarterly report.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:51:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.250800+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:DJN_SN20261125006585:0",
+      "title": "Nvidia's stock has given back more than half of Monday's rally as dip buyers cash in",
+      "url": "https://www.tradingview.com/news/DJN_SN20261125006585:0-nvidia-s-stock-has-given-back-more-than-half-of-monday-s-rally-as-dip-buyers-cash-in/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MarketWatch",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125007739:0",
+      "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues — Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125007739:0-u-s-stocks-mixed-as-nvidia-ai-rout-continues-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:DJI",
+          "SP:SPX",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:826137fc7094b:0",
+      "title": "Blue Owl Credit Income announces tender offer to repurchase up to 5% of shares outstanding",
+      "url": "https://seekingalpha.com/news/4676705-blue-owl-credit-income-announces-tender-offer-to-repurchase-up-to-5-of-shares-outstanding?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:50:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:OWL"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/25/is-berkshire-hathaway-stock-a-buy-if-the-fed-keeps-raising-rates/?.tsrc=rss",
+      "title": "Is Berkshire Hathaway Stock a Buy if the Fed Keeps Raising Rates?",
+      "url": "https://www.fool.com/investing/2026/11/25/is-berkshire-hathaway-stock-a-buy-if-the-fed-keeps-raising-rates/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Berkshire Hathaway has both opportunities and challenges in a high-rate environment.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:50:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.250800+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:tradingview:e11e8805fb50a:0",
+      "title": "Coherent Director Purchased Shares Worth Over $34M",
+      "url": "https://www.tradingview.com/news/tradingview:e11e8805fb50a:0-coherent-director-purchased-shares-worth-over-34m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:50:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:COHR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:beb10c3c463b6:0",
+      "title": "Energizer President and CEO Sold Shares Worth Over $2.2M",
+      "url": "https://www.tradingview.com/news/tradingview:beb10c3c463b6:0-energizer-president-and-ceo-sold-shares-worth-over-2-2m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:50:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:ENR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47616N:0",
+      "title": "Mergers and acquisitions",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47616N:0-mergers-and-acquisitions/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:49:40+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:VIRP",
+          "DFM:DIB",
+          "DFM:EMIRATESNBD",
+          "NYSE:TRGP",
+          "NYSE:KNTK",
+          "GPW:PZU",
+          "GPW:PEO",
+          "EURONEXT:DG",
+          "NYSE:MKC",
+          "LSE:ULVR",
+          "EURONEXT:AKZA",
+          "NYSE:AXTA",
+          "XETR:DBK",
+          "NSE:PNB",
+          "KRX:066570",
+          "NSE:LGEINDIA",
+          "TSE:1662",
+          "OSL:EQNR",
+          "NASDAQ:SBUX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4826852:0",
+      "title": "MMS: PSS sale crystallises value, funds shareholder returns and sharpens growth focus",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4826852:0-mms-pss-sale-crystallises-value-funds-shareholder-returns-and-sharpens-growth-focus/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:49:39+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:MMS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4826850:0",
+      "title": "MMS: PSS sale for $130 million unlocks shareholder returns and refocuses the remaining business",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4826850:0-mms-pss-sale-for-130-million-unlocks-shareholder-returns-and-refocuses-the-remaining-business/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:49:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:MMS"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261125007718:0",
       "title": "Crude Posts Back-to-Back Gains on Middle East Tension — Market Talk",
@@ -86,6 +715,54 @@
           "NASDAQ:IXIC",
           "SP:SPX",
           "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0a547eba3c8b3:0",
+      "title": "IMPACT Silver Corp. (IPT) Q3 Revenue Rose 73% to $18.5M",
+      "url": "https://www.tradingview.com/news/tradingview:0a547eba3c8b3:0-impact-silver-corp-ipt-q3-revenue-rose-73-to-18-5m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:48:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:IPT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:d3e160021094b:0",
+      "title": "Impact Silver Announces Q3 2026 Results with Revenue up 73% on Silver Prices and Grade",
+      "url": "https://www.newsfilecorp.com/release/325964/Impact-Silver-Announces-Q3-2026-Results-with-Revenue-up-73-on-Silver-Prices-and-Grade",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:48:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:58:12.172977+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:IPT"
         ]
       }
     },
