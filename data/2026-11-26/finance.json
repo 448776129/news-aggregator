@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T05:37:20.252007+08:00",
-  "count": 346,
+  "generated_at": "2026-11-26T05:40:15.213916+08:00",
+  "count": 347,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 23,
+      "count": 24,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyzms8283739.shtml",
+      "title": "大宗商品综述：油价上涨 铜价跌入熊市区间 金价反弹",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyzms8283739.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "油价在清淡交投中上涨，中东地区袭击加剧，令该地区近几个月逐步恢复的原油运输前景蒙上阴影。铜价进入熊市区间，AI交易担忧打压市场情绪。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:37:24+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T05:40:12.800234+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyzmr1501337.shtml",
       "title": "11月26日外盘头条：美股10月通胀指标上升 联储褐皮书显示薪资压力上升 “大空头”清仓纳指100看跌头寸",
