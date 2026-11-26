@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T15:16:16.111058+08:00",
-  "count": 3080,
+  "generated_at": "2026-11-26T15:19:16.470374+08:00",
+  "count": 3124,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,879 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762OH:0",
+      "title": "Iberdrola Receives Approval From European Commission For Acquisition Of Caruna",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762OH:0-iberdrola-receives-approval-from-european-commission-for-acquisition-of-caruna/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:18:09+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BME:IBE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N477073:0",
+      "title": "First Property Group H1 pretax profit falls on impairment charges",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N477073:0-first-property-group-h1-pretax-profit-falls-on-impairment-charges/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:17:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:FPO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47700I:0",
+      "title": "US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47700I:0-us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:17:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ANT",
+          "NASDAQ:NVDA",
+          "HKEX:2513",
+          "NYSE:BABA",
+          "NASDAQ:GOOG",
+          "NASDAQ:META"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4838595:0",
+      "title": "AEWU: Active asset management drove returns as refinancing and capital recycling take priority",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4838595:0-aewu-active-asset-management-drove-returns-as-refinancing-and-capital-recycling-take-priority/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:17:27+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:AEWU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000744_20261126000873:0",
+      "title": "Tullow Oil Had Seen 2026 Free Cash Flow of $170M-$250M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000744_20261126000873:0-tullow-oil-had-seen-2026-free-cash-flow-of-170m-250m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:17:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TLW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000744_20261126000874:0",
+      "title": "Tullow Oil: Cash Flow Guidance Includes $112M Payment Under Ghana Tax Settlement Pact",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000744_20261126000874:0-tullow-oil-cash-flow-guidance-includes-112m-payment-under-ghana-tax-settlement-pact/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:17:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TLW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3946945:0",
+      "title": "Peptonic Medical: Lower costs narrowed losses, while new products and partnerships target renewed growth",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3946945:0-peptonic-medical-lower-costs-narrowed-losses-while-new-products-and-partnerships-target-renewed-growth/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:16:54+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LS:A2DVVT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_SN20261126002407:0",
+      "title": "Is the stock market open for Thanksgiving? The answer might surprise you.",
+      "url": "https://www.tradingview.com/news/DJN_SN20261126002407:0-is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MarketWatch",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:16:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:000660",
+          "KRX:005930",
+          "NASDAQ:AMZN",
+          "NASDAQ:COST",
+          "NYSE:KR",
+          "NYSE:TGT",
+          "NASDAQ:WMT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000744_20261126000867:0",
+      "title": "Tullow Oil 2026 Capital, Decommissioning Expenditure Guidance Unchanged",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000744_20261126000867:0-tullow-oil-2026-capital-decommissioning-expenditure-guidance-unchanged/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:16:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TLW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000744_20261126000870:0",
+      "title": "Tullow Oil Sees 2026 Capital Expenditure of $200M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000744_20261126000870:0-tullow-oil-sees-2026-capital-expenditure-of-200m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:16:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TLW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000744_20261126000871:0",
+      "title": "Tullow Oil Sees 2026 Decommissioning Expenditure of $15M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000744_20261126000871:0-tullow-oil-sees-2026-decommissioning-expenditure-of-15m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:16:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TLW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000744_20261126000872:0",
+      "title": "Tullow Oil Sees 2026 Free Cash Flow Guidance of $160M-$210M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000744_20261126000872:0-tullow-oil-sees-2026-free-cash-flow-guidance-of-160m-210m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:16:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TLW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3946902:0",
+      "title": "Windon Energy Group: New solar assets drove revenue growth and positive EBITDA, with a net loss still recorded",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3946902:0-windon-energy-group-new-solar-assets-drove-revenue-growth-and-positive-ebitda-with-a-net-loss-still-recorded/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:15:55+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FWB:NW1"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4264258:0",
+      "title": "JIN: Higher TCE and vessel-sale gains drove a Q3 profit turnaround despite lower revenue",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4264258:0-jin-higher-tce-and-vessel-sale-gains-drove-a-q3-profit-turnaround-despite-lower-revenue/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:15:52+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:JIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N477071:0",
+      "title": "Sweden's Hexicon Q3 revenue falls sharply, loss widens",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N477071:0-sweden-s-hexicon-q3-revenue-falls-sharply-loss-widens/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:15:35+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:HEXI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:edbf501f3a2cc:0",
+      "title": "MNI: GERMANY DEC GFK CONSUMER CLIMATE -30.2 (-30.9 NOV, REV FROM -30.8)",
+      "url": "https://www.tradingview.com/news/dpa_afx:edbf501f3a2cc:0-mni-germany-dec-gfk-consumer-climate-30-2-30-9-nov-rev-from-30-8/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:15:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:0b015eb5dde01:0",
+      "title": "MNI: GERMANY DEC GFK CONSUMER CLIMATE -30.2 (-30.9 NOV)",
+      "url": "https://www.tradingview.com/news/dpa_afx:0b015eb5dde01:0-mni-germany-dec-gfk-consumer-climate-30-2-30-9-nov/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:15:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:e3cbb386f094b:0",
+      "title": "125,000 Orion Corporation A shares converted into B shares",
+      "url": "https://www.globenewswire.com/news-release/2026/11/26/3410671/0/en/125-000-orion-corporation-a-shares-converted-into-b-shares.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:OEC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000866:0",
+      "title": "Nvidia Tells Server Manufacturers to Halt Shipments to Southeast Asia, FT Says, Citing Sources",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000866:0-nvidia-tells-server-manufacturers-to-halt-shipments-to-southeast-asia-ft-says-citing-sources/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ7178Ea:0",
+      "title": "REG - EPE Special Opps Ltd EPE Special Opp-EO.P EPE Special Opp-EL.P - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ7178Ea:0-reg-epe-special-opps-ltd-epe-special-opp-eo-p-epe-special-opp-el-p-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:ESO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000744_20261126000859:0",
+      "title": "Tullow Oil: Acquisition of TEN FPSO Expected at End of 1Q 2027",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000744_20261126000859:0-tullow-oil-acquisition-of-ten-fpso-expected-at-end-of-1q-2027/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TLW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000744_20261126000862:0",
+      "title": "Tullow Oil: Preparations Underway for 2027-28 Drilling Campaign",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000744_20261126000862:0-tullow-oil-preparations-underway-for-2027-28-drilling-campaign/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TLW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000744_20261126000851:0",
+      "title": "Tullow Oil: TEN Oil Production Was Above Views",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000744_20261126000851:0-tullow-oil-ten-oil-production-was-above-views/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TLW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000847:0",
+      "title": "German Consumer Confidence Edges Up Despite Worries Over Economy, Inflation",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000847:0-german-consumer-confidence-edges-up-despite-worries-over-economy-inflation/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:14:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ECONOMICS:DEIRYY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4265565:0",
+      "title": "MAB: Sales and adjusted profit grew as investment returns topped 30%, despite rising costs",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4265565:0-mab-sales-and-adjusted-profit-grew-as-investment-returns-topped-30-despite-rising-costs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:14:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:MAB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000744_20261126000845:0",
+      "title": "Tullow Oil Jubilee 10-Month Oil Production Averaged 75,000 BOE/D",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000744_20261126000845:0-tullow-oil-jubilee-10-month-oil-production-averaged-75-000-boe-d/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:14:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TLW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000744_20261126000846:0",
+      "title": "Tullow Oil: Jubilee Oil Production Was Above Views",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000744_20261126000846:0-tullow-oil-jubilee-oil-production-was-above-views/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:14:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TLW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000744_20261126000848:0",
+      "title": "Tullow Oil: TEN 10-Month Oil Production Averaged 15,000 BOE/D",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000744_20261126000848:0-tullow-oil-ten-10-month-oil-production-averaged-15-000-boe-d/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:14:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TLW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N477070:0",
+      "title": "Canada's Arrow Exploration Q3 natural gas and crude oil revenue rises on higher output and prices",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N477070:0-canada-s-arrow-exploration-q3-natural-gas-and-crude-oil-revenue-rises-on-higher-output-and-prices/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:13:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:AXL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4838551:0",
+      "title": "HICL: H1 FY27 combined strong portfolio returns with 10%+ medium-term ambition and progressive dividends",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4838551:0-hicl-h1-fy27-combined-strong-portfolio-returns-with-10-medium-term-ambition-and-progressive-dividends/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:13:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:HICL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000770_20261126000842:0",
+      "title": "Mitchells & Butlers: Well Positioned to Outperform Sector and Mitigate Cost Increases in Year Ahead",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000770_20261126000842:0-mitchells-butlers-well-positioned-to-outperform-sector-and-mitigate-cost-increases-in-year-ahead/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:13:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:MAB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000744_20261126000839:0",
+      "title": "Tullow Oil 10-Month Group Production Averaged 5,2000 BOE/D",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000744_20261126000839:0-tullow-oil-10-month-group-production-averaged-5-2000-boe-d/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:13:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TLW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000744_20261126000841:0",
+      "title": "Tullow Oil Sees 2026 Production at Upper End of 34,000-42,000 BOE/D Range",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000744_20261126000841:0-tullow-oil-sees-2026-production-at-upper-end-of-34-000-42-000-boe-d-range/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:13:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TLW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000620:0",
+      "title": "UniCredit Clears Final Hurdle in Commerzbank Takeover",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000620:0-unicredit-clears-final-hurdle-in-commerzbank-takeover/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:13:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MIL:UCG",
+          "XETR:CBK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4770AN:0",
+      "title": "NOTE Names Acting President And CEO, Announces CFO Departure",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4770AN:0-note-names-acting-president-and-ceo-announces-cfo-departure/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:12:33+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:NOTE",
+          "TSE:5243"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47706W:0",
+      "title": "UK's iomart H1 revenue falls on customer churn, weaker cloud demand",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47706W:0-uk-s-iomart-h1-revenue-falls-on-customer-churn-weaker-cloud-demand/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:12:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:IOM"
+        ]
+      }
+    },
     {
       "id": "tradingview:urn:live_audio:quartr.com:750791:0",
       "title": "The Siam Cement Public Company Q3 2026 Earnings Call Is Live",
@@ -129,6 +1002,78 @@
         "urgency": 2,
         "symbols": [
           "LSE:MAB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000790_20261126000836:0",
+      "title": "CMC Markets Backs FY27 EBITDA Guidance of GBP250M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000790_20261126000836:0-cmc-markets-backs-fy27-ebitda-guidance-of-gbp250m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:12:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:CMCX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000790_20261126000835:0",
+      "title": "CMC Markets Declares Dividend of 10.1p",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000790_20261126000835:0-cmc-markets-declares-dividend-of-10-1p/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:12:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:CMCX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUCCC6R8G:0",
+      "title": "Fortum Renews Business Structure, Leadership Team",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUCCC6R8G:0-fortum-renews-business-structure-leadership-team/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:11:25+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:11.507309+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXHEX:FORTUM"
         ]
       }
     },
@@ -39437,6 +40382,25 @@
       "extra": {}
     },
     {
+      "id": "msn:e3dc0d256eb1368f8e4084c994ec46079160e948",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07dd70d997456abc0f2cb8f3a047d3&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:13.284533+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
       "title": "What Sent Qualcomm Stock Higher?",
       "url": "https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
@@ -41534,6 +42498,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T15:16:13.225988+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:5debc38634b5ffa372bf7035f05a59a1a95f7a7f",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07dd6fee604e9b873417ba4ffb69b9&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:13.284533+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -57906,6 +58889,25 @@
       "extra": {}
     },
     {
+      "id": "msn:0cada1b6ee81bb03b92332812a061f4d64d16bce",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07dd6fee604e9b873417ba4ffb69b9&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:13.284533+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -61561,6 +62563,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T15:16:13.225988+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:2a9db077c746532086c555422bfdefe4e5561fa7",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07dd6fee604e9b873417ba4ffb69b9&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:13.284533+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -65368,6 +66389,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T15:16:13.225988+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:f8eb49967c20722a25def9cd4a9b1f0d3ea59ccc",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07dd6fee604e9b873417ba4ffb69b9&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:19:13.284533+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
