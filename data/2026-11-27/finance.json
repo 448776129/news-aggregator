@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T04:34:16.700693+08:00",
-  "count": 146,
+  "generated_at": "2026-11-27T04:37:26.194895+08:00",
+  "count": 148,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,49 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 9,
+      "count": 11,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaceks7979659.shtml",
+      "title": "伦铜自11个月低点反弹 科技股上涨提振工业金属",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaceks7979659.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "伦铜周四由11个月低点反弹，其他大宗商品和科技股也走高，连续数日大幅下跌后，投资者重返风险较高的资产。 伦敦金属交易所（LME） 3个月期铜期货结算价上涨1.9%...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:37:12+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:37:20.700805+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacekw5766620.shtml",
+      "title": "科威特称伊朗无人机袭击其重要设施 造成两名意大利平民丧生",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacekw5766620.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "科威特周四遭到无人机袭击，两名意大利平民死亡，另有两人受伤。科威特指责伊朗发动了此次袭击，军方称遇袭的是一处“重要”设施。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:34:57+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:37:20.700805+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacekr1200993.shtml",
       "title": "币安完成恢复工作 解除提现暂停",
