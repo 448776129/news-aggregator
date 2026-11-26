@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T00:10:20.552470+08:00",
-  "count": 16,
+  "generated_at": "2026-11-27T00:13:16.172494+08:00",
+  "count": 27,
   "sources": [
     {
       "name": "alpaca",
@@ -27,17 +27,272 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 16,
+      "count": 26,
       "error": ""
     },
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC51W0TD:0",
+      "title": "Serb Pharmaceuticals And Hansa Biopharma Announce Submission To EMA For Conversion To Standard Marketing Authorization Of Idefirix In EU",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC51W0TD:0-serb-pharmaceuticals-and-hansa-biopharma-announce-submission-to-ema-for-conversion-to-standard-marketing-authorization-of-idefirix-in-eu/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:12:37+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:13:11.297970+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:HNSA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4770W0:0",
+      "title": "ARA gasoil stocks drop over 16%, Insights Global data shows",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4770W0:0-ara-gasoil-stocks-drop-over-16-insights-global-data-shows/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:12:35+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:13:11.297970+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770KT:0",
+      "title": "Petronas targets first-half 2030 startup for Suriname gas project",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770KT:0-petronas-targets-first-half-2030-startup-for-suriname-gas-project/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:11:28+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:13:11.297970+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:PETGAS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8780Ea:0",
+      "title": "REG - Wise Group PLC - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8780Ea:0-reg-wise-group-plc-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:11:27+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:13:11.297970+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:WSE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:b17dd742a1739:0",
+      "title": "WEIMOB INC Splashes RMB429M to Purchase NVIDIA RTX PRO 5500 Blackwell GPUs",
+      "url": "https://www.tradingview.com/news/moodys:b17dd742a1739:0-weimob-inc-splashes-rmb429m-to-purchase-nvidia-rtx-pro-5500-blackwell-gpus/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "AASTOCKS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:10:50+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:13:11.297970+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:2013",
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770RK:0",
+      "title": "Sicily By Car Signs €65 Million Financing With Banca Monte Dei Paschi Di Siena",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770RK:0-sicily-by-car-signs-65-million-financing-with-banca-monte-dei-paschi-di-siena/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:10:38+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:13:11.297970+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MIL:SBC",
+          "MIL:BMPS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8776Ea:0",
+      "title": "REG - BNP ParibasEasySICAV - Conversion of trading ccy GBP to GBX as of 1/12/26",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8776Ea:0-reg-bnp-paribaseasysicav-conversion-of-trading-ccy-gbp-to-gbx-as-of-1-12-26/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:10:14+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:13:11.297970+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4276235:0",
+      "title": "TENAGA: Revenue and EBITDA rose in 9MFY’26, but higher costs weighed on PAT",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4276235:0-tenaga-revenue-and-ebitda-rose-in-9mfy-26-but-higher-costs-weighed-on-pat/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:10:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:13:11.297970+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:TENAGA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coindar:34bb4ca33094b:0",
+      "title": "Aurora to Hold Live Stream on X and YouTube on November 27th",
+      "url": "https://www.tradingview.com/news/coindar:34bb4ca33094b:0-aurora-to-hold-live-stream-on-x-and-youtube-on-november-27th/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Coindar",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:09:49+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:13:11.297970+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:coindar:bc642b9c3094b:0",
+      "title": "Cardano to Participate in Blockchain Life 2026 in Dubai on December 2nd",
+      "url": "https://www.tradingview.com/news/coindar:bc642b9c3094b:0-cardano-to-participate-in-blockchain-life-2026-in-dubai-on-december-2nd/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Coindar",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:09:44+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:13:11.297970+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:ADAUSD"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/26/nvidia-just-dropped-31-in-a-month-will-nvda-stock-hit-125-or-200-first/?.tsrc=rss",
+      "title": "NVIDIA Just Dropped 31% in a Month. Will NVDA Stock Hit $125 or $200 First?",
+      "url": "https://247wallst.com/investing/2026/11/26/nvidia-just-dropped-31-in-a-month-will-nvda-stock-hit-125-or-200-first/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "A CEO resignation, a credit rating on watch, and export rules scrambling China-bound GPUs have rattled the AI trade's biggest name. Two very different futures now compete for NVIDIA shares, and the next catalysts could tip the balance.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:06:22+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:13:11.502608+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:tradingview:a9ecd3d7252ba:0",
       "title": "GreenGold Group AB (publ) Releases Q3 and 9M 2026 Financial Report",

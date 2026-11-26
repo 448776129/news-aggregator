@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-27",
+  "category": "finance",
+  "category_name": "财经新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-27T00:13:16.173183+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "cls",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "jin10",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "sina",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaatuw8110783.shtml",
+      "title": "莱茵金属两名意大利员工在伊朗对科威特的无人机袭击事件中丧生",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaatuw8110783.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "伊朗周四对科威特发动无人机袭击，为本月以来的第二次，造成两名意大利平民死亡、另有两人受伤。科威特军方称，袭击目标是一处“关键”设施。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:12:06+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:13:12.375281+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    }
+  ]
+}
