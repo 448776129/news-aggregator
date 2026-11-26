@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T05:31:17.195330+08:00",
-  "count": 501,
+  "generated_at": "2026-11-27T05:34:15.938860+08:00",
+  "count": 503,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 25,
+      "count": 27,
       "error": ""
     }
   ],
@@ -183,6 +183,25 @@
       }
     },
     {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/jensen-huang-return-doesn-t-212200380.html?.tsrc=rss",
+      "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-return-doesn-t-212200380.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Jensen Huang’s return as CEO doesn’t make Nvidia (NVDA) stock a Buy, despite the market’s positive reaction. Shares of the leading semiconductor manufacturer jumped roughly 31.5% on November 23 after Nvidia’s board unanimously reinstated Huang with immediate effect. Yet the stock remains down roughly 31% over the past month following a steep sell-off. Although Nvidia enjoys a long runway for growth, I believe investors should closely watch the regulatory scrutiny still surrounding the company. I",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:22:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T05:34:11.187907+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:dpa_afx:fba3ae08b7dab:0",
       "title": "President Trump Says Pre-Election GDP Numbers Were Fake, Seeks Probe On Commerce Department",
       "url": "https://www.tradingview.com/news/dpa_afx:fba3ae08b7dab:0-president-trump-says-pre-election-gdp-numbers-were-fake-seeks-probe-on-commerce-department/",
@@ -203,6 +222,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/26/sandisks-8-for-1-split-is-done-heres-what-investors-should-do-next/?.tsrc=rss",
+      "title": "Sandisk’s 8-for-1 Split Is Done. Here’s What Investors Should Do Next.",
+      "url": "https://www.fool.com/investing/2026/11/26/sandisks-8-for-1-split-is-done-heres-what-investors-should-do-next/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Sandisk's stock split is finished, so the only question left is whether its AI-fueled flash memory business can hold up as prices cool.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:20:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T05:34:11.187907+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:modular_finance:62f50845b6150:0",
