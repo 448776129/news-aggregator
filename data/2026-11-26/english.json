@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T09:52:17.434307+08:00",
-  "count": 1845,
+  "generated_at": "2026-11-26T09:55:15.368289+08:00",
+  "count": 1853,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 4,
       "error": ""
     },
     {
@@ -38,6 +38,98 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:stocktwits:bea592fcc094b:0",
+      "title": "CHTR Stock Posts 2nd Consecutive Day Of Gains: Retail Turns Bullish — 'The Gift That Keeps On Giving'",
+      "url": "https://stocktwits.com/news-articles/markets/equity/chtr-stock-posts-2nd-consecutive-day-of-gains-retail-turns-bullish-the-gift-that-keeps-on-giving/cNbx3BgR9ZT",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:54:35+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:55:11.680407+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CHTR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008646_20261125008647:0",
+      "title": "BOK: Two Board Members Favored Holding Rates, While Five Supported Hike",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008646_20261125008647:0-bok-two-board-members-favored-holding-rates-while-five-supported-hike/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:53:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:55:11.680407+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008646_20261125008646:0",
+      "title": "Bank of Korea: Rate Decision Wasn't Unanimous",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008646_20261125008646:0-bank-of-korea-rate-decision-wasn-t-unanimous/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:53:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:55:11.680407+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N477026:0",
+      "title": "Banco Macro SA reports results for the quarter ended September 30 - Earnings Summary",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N477026:0-banco-macro-sa-reports-results-for-the-quarter-ended-september-30-earnings-summary/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:52:46+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:55:11.680407+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BCBA:BMA.5"
+        ]
+      }
+    },
     {
       "id": "tradingview:stocktwits:ee806a7e4094b:0",
       "title": "RKLB Stock Rebounds Into Thanksgiving: CFO, COO And Other Execs Sell Nearly $4M In Shares Ahead Of Electron Launch",
@@ -35288,6 +35380,25 @@
       "extra": {}
     },
     {
+      "id": "msn:d1fce135c11fa35e5f592cf9d93b7fda35377860",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07917fdbe646dbb915fb3e4fdc5c57&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:55:13.662077+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -36796,6 +36907,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T09:52:16.289937+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6cba6a3b4c2b30dc9e06206234fe6a89c0dfb8bb",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07917fdbe646dbb915fb3e4fdc5c57&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:55:13.662077+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -38532,6 +38662,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T09:52:16.289937+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b9c141037bdea04904a10fa27e391235bc5ed400",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07917fdbe646dbb915fb3e4fdc5c57&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:55:13.662077+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -43590,6 +43739,25 @@
       "published_at": "2026-11-26T00:00:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T09:49:12.381211+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:9f20c945b6b22468fe1ae5b667d437916f88b943",
+      "title": "Has Lamb Weston Holdings (LW) Fallen Far Enough On Earnings?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0791809d334b3b8636afb8058c39db&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2flamb-weston-holdings-lw-fallen-011807376.html&c=13083530927659682156&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Lamb Weston Holdings has seen its share price move in different directions over recent years, and that mixed performance puts the focus squarely on one issue for investors. The question is how well ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:55:13.662077+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
