@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T07:46:21.834607+08:00",
-  "count": 236,
+  "generated_at": "2026-11-27T07:49:19.121757+08:00",
+  "count": 238,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 47,
+      "count": 48,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/world/2026-11-27/doc-inkacqyn7821192.shtml",
+      "title": "巴西总统卢拉延揽Bradesco董事长掌舵财政部 力图重振市场信心",
+      "url": "https://finance.sina.com.cn/world/2026-11-27/doc-inkacqyn7821192.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "巴西总统卢拉任命Bradesco董事长Luiz Carlos Trabuco Cappi为财政部长，寄望这位巴西知名银行家重振投资者对该国财政状况的信心。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:47:03+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:49:13.224399+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-27/doc-inkacqym1042453.shtml",
       "title": "中国儒意于11月26日斥资约2810.93万港元回购3025.2万股",
@@ -158,6 +177,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127073909079800",
+      "title": "东京地区核心CPI同比增速创2025年7月以来最快升速。",
+      "url": "https://www.jin10.com/#/flash/20261127073909079800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "东京地区核心CPI同比增速创2025年7月以来最快升速。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:39:09+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:49:12.392245+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261127073854036800",

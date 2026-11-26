@@ -3,17 +3,40 @@
   "category": "reddit",
   "category_name": "Reddit 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T07:46:21.839709+08:00",
-  "count": 106,
+  "generated_at": "2026-11-27T07:49:19.127168+08:00",
+  "count": 107,
   "sources": [
     {
       "name": "reddit",
       "status": "ok",
-      "count": 46,
+      "count": 32,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "reddit:1y6f156",
+      "title": "AI power bottleneck, buildout looks like 5 years and the fix is not just \"add more power\"",
+      "url": "https://www.reddit.com/r/investing/comments/1y6f156/ai_power_bottleneck_buildout_looks_like_5_years/",
+      "source": "reddit",
+      "source_name": "Reddit",
+      "author": "DaiZzedandConFuZed",
+      "summary": "EEs of reddit, am I insane with this? So after spending my Thanksgiving looking at power requirements for datacenters, I've noticed something that no one seems to focus on, the how AI uses power. The problem: AI (or GPUs) use power in surges, massive up-downs that would drive a power grid crazy. It's showing in Virginia and Texas: [PJM](https://build.inc/insights/pjm-ride-through-rules-data-centers) and [ERCOT ](https://3dfs.com/articles/ercot-nogrr282-plain-english/10/2026)put out mandates that require data centers ride through grid disturbances and smooth out massive power swings. You can't just \"build generators off grid\" and solve this issue, you need at least a ridiculous amount of gear (AI gave me a list but I barely understand half of it, grid-forming batteries (BESS), supercapacitors, STATCOMs, and active harmonic filters) Every single piece of that gear is backlogged 3-5 years and not one of the large sites (Ohio and New Mexico) seem to have them. How are they going to plug in the billions of dollars of GPUs they currently have? Even if they have \"generators\" or \"can produce power\" I've sold my NVDA and plan on going after the electrical stocks (ETN, GEV, VRT, POWL, FLNC).",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:48:48+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:49:18.243710+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "reddit",
+      "extra": {
+        "subreddit": "investing",
+        "score": 1,
+        "num_comments": 0
+      }
+    },
     {
       "id": "reddit:1y6eyob",
       "title": "US new tarrif and its impact on the stock market next week",

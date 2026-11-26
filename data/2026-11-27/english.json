@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T07:46:21.821376+08:00",
-  "count": 659,
+  "generated_at": "2026-11-27T07:49:19.107171+08:00",
+  "count": 665,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,98 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:dpa_afx:809e584f8499f:0",
+      "title": "JAPAN NOV SERVICES PRICES +2.1% Y/Y; OCT +2.2%",
+      "url": "https://www.tradingview.com/news/dpa_afx:809e584f8499f:0-japan-nov-services-prices-2-1-y-y-oct-2-2/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:48:16+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:49:12.613383+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:414a013bb3713:0",
+      "title": "MNI JAPAN NOV TOKYO CORE CPI +2.9% Y/Y; OCT +2.6%",
+      "url": "https://www.tradingview.com/news/dpa_afx:414a013bb3713:0-mni-japan-nov-tokyo-core-cpi-2-9-y-y-oct-2-6/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:48:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:49:12.613383+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004150:0",
+      "title": "Nikkei May Remain Rangebound Amid Uncertainty Over AI Trade — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004150:0-nikkei-may-remain-rangebound-amid-uncertainty-over-ai-trade-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:46:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:49:12.613383+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:NI225"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:smallcaps:7ae55ca61094b:0",
+      "title": "Theta Gold Mines Targets 1Q27 First Gold Pour as TGME Nears Completion",
+      "url": "https://smallcaps.com.au/article/theta-gold-mines-targets-1q27-first-gold-pour-as-tgme-nears-completion",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Small Caps",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:44:53+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:49:12.613383+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:TGM"
+        ]
+      }
+    },
     {
       "id": "tradingview:urn:summary_document_report:quartr.com:4655727:0",
       "title": "WHF: Net profit rose 5%; quarterly dividends and a buyback accompanied 3.6% portfolio returns",
@@ -85,6 +177,33 @@
       }
     },
     {
+      "id": "tradingview:macenews:3cd1aaaf2094b:0",
+      "title": "JAPAN NOV TOKYO CPI: PROCESSED FOOD +3.1% (+0.73 POINT) VS. +3.0% (+0.71 POINT) IN OCT",
+      "url": "https://www.tradingview.com/news/macenews:3cd1aaaf2094b:0-japan-nov-tokyo-cpi-processed-food-3-1-0-73-point-vs-3-0-0-71-point-in-oct/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:43:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:49:12.613383+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:JPYBASKET",
+          "FX:USDJPY",
+          "TVC:NI225",
+          "FX:EURJPY"
+        ]
+      }
+    },
+    {
       "id": "tradingview:DJN_DN20261126004149:0",
       "title": "Gold Fortunes Tied to Stocks in Near Term — Market Talk",
       "url": "https://www.tradingview.com/news/DJN_DN20261126004149:0-gold-fortunes-tied-to-stocks-in-near-term-market-talk/",
@@ -105,6 +224,33 @@
         "urgency": 2,
         "symbols": [
           "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:macenews:4d193e8af094b:0",
+      "title": "JAPAN NOV TOKYO CPI: ENERGY +9.5% Y/Y (+0.43 POINT CONTRIBUTION), VS. +2.2% (+0.09 POINT) IN OCT",
+      "url": "https://www.tradingview.com/news/macenews:4d193e8af094b:0-japan-nov-tokyo-cpi-energy-9-5-y-y-0-43-point-contribution-vs-2-2-0-09-point-in-oct/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:42:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:49:12.613383+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:JPYBASKET",
+          "FX:USDJPY",
+          "TVC:NI225",
+          "FX:EURJPY"
         ]
       }
     },
