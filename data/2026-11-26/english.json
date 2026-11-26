@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T14:55:25.220515+08:00",
-  "count": 2912,
+  "generated_at": "2026-11-26T14:58:15.678161+08:00",
+  "count": 2953,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 6,
       "error": ""
     },
     {
@@ -38,6 +38,795 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:739704:0",
+      "title": "Hua Nan Financial Holdings Q3 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:739704:0-hua-nan-financial-holdings-q3-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:57:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TWSE:2880"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000642:0",
+      "title": "Bitcoin Above $60,000 as Asian Stocks Rise",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000642:0-bitcoin-above-60-000-as-asian-stocks-rise/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:57:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000645:0",
+      "title": "Nordic Stocks Tipped to Open Higher — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000645:0-nordic-stocks-tipped-to-open-higher-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:57:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:OMXS30"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000620_20261126000641:0",
+      "title": "UniCredit: Moves Aim to Implement Transition at Commerzbank",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000620_20261126000641:0-unicredit-moves-aim-to-implement-transition-at-commerzbank/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:57:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:CBK",
+          "MIL:UCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000620_20261126000643:0",
+      "title": "UniCredit: Transition Will Strengthen Commerzbank, Accelerate Its Growth",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000620_20261126000643:0-unicredit-transition-will-strengthen-commerzbank-accelerate-its-growth/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:57:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:CBK",
+          "MIL:UCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N477066:0",
+      "title": "Japan's Nikkei rises as dip buyers scoop up AI stocks",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N477066:0-japan-s-nikkei-rises-as-dip-buyers-scoop-up-ai-stocks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:56:44+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:NI225",
+          "TSE:TOPIX",
+          "TSE:285A",
+          "TSE:9984",
+          "TSE:6857",
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3694136:0",
+      "title": "WINE: Earnings softened as acquisitions and investment expanded assets and increased borrowing",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3694136:0-wine-earnings-softened-as-acquisitions-and-investment-expanded-assets-and-increased-borrowing/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:56:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BVB:WINE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4267228:0",
+      "title": "WINE: EBITDA margin beat guidance as revenue softened and net debt climbed to RON 377m",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4267228:0-wine-ebitda-margin-beat-guidance-as-revenue-softened-and-net-debt-climbed-to-ron-377m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:56:39+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BVB:WINE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:97917b7e42a4f:0",
+      "title": "Hyatt Inks Deal To Open Hotel In Australia's Gold Coast",
+      "url": "https://www.tradingview.com/news/dpa_afx:97917b7e42a4f:0-hyatt-inks-deal-to-open-hotel-in-australia-s-gold-coast/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:56:34+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:H"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4082612:0",
+      "title": "WINE: Resilient 28.6% EBITDA margin amid softer 9M revenue and lower net profit",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4082612:0-wine-resilient-28-6-ebitda-margin-amid-softer-9m-revenue-and-lower-net-profit/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:56:33+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BVB:WINE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762NT:0",
+      "title": "Petron Malaysia Refining & Marketing Announces Vacation Of Office Of Mark Tristan D. Caparas As CFO",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762NT:0-petron-malaysia-refining-marketing-announces-vacation-of-office-of-mark-tristan-d-caparas-as-cfo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:56:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:PETRONM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000638:0",
+      "title": "ECB Minutes May Confirm December's Rate Hike — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000638:0-ecb-minutes-may-confirm-december-s-rate-hike-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:56:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000620_20261126000636:0",
+      "title": "UniCredit: EGM Is Consistent With German Government Support for Swift Process",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000620_20261126000636:0-unicredit-egm-is-consistent-with-german-government-support-for-swift-process/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:56:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:CBK",
+          "MIL:UCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762D7:0",
+      "title": "Pekat Group Executes Four Subcontract Agreements Between Pekat E & LP Sdn. Bhd",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762D7:0-pekat-group-executes-four-subcontract-agreements-between-pekat-e-lp-sdn-bhd/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:55:53+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:PEKAT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4770AE:0",
+      "title": "UniCredit seeks Commerzbank shareholder vote as it completes process to take control",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4770AE:0-unicredit-seeks-commerzbank-shareholder-vote-as-it-completes-process-to-take-control/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:55:51+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MIL:UCG",
+          "XETR:CBK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC6L5ZY2:0",
+      "title": "Terranor Appoints Frida Frykstrand As New CFO",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC6L5ZY2:0-terranor-appoints-frida-frykstrand-as-new-cfo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:55:42+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:TERNOR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4770E0:0",
+      "title": "Hey, it could have been worse",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4770E0:0-hey-it-could-have-been-worse/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:55:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:UKX",
+          "TVC:CAC40",
+          "STOXX:SXXP",
+          "STOXX:SX5E",
+          "XETR:DAX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762NK:0",
+      "title": "Alliance Aviation Services Says 33.07% Of Total Votes Cast In Poll At AGM Against Adoption Of 2026 Remuneration Report",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762NK:0-alliance-aviation-services-says-33-07-of-total-votes-cast-in-poll-at-agm-against-adoption-of-2026-remuneration-report/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:55:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:AQZ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000620_20261126000635:0",
+      "title": "UniCredit: EGM to Elect New Shareholder Representatives to Supervisory Board",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000620_20261126000635:0-unicredit-egm-to-elect-new-shareholder-representatives-to-supervisory-board/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:55:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:CBK",
+          "MIL:UCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000620_20261126000628:0",
+      "title": "UniCredit: Has Requested Commerzbank to Convene Extraordinary General Meeting",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000620_20261126000628:0-unicredit-has-requested-commerzbank-to-convene-extraordinary-general-meeting/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:55:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:CBK",
+          "MIL:UCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762FL:0",
+      "title": "Axtec Ltd Appoints Ben Laurance As Interim Executive Chair",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762FL:0-axtec-ltd-appoints-ben-laurance-as-interim-executive-chair/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:54:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:AXI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N477064:0",
+      "title": "Oil rises on supply concerns as Iran claims mine strikes on ships",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N477064:0-oil-rises-on-supply-concerns-as-iran-claims-mine-strikes-on-ships/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:54:28+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ICEEUR:BRN1!",
+          "NYMEX:CL1!",
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762FJ:0",
+      "title": "Citigroup Says Samsung C&T's Trading & Investment In South Korea Leveraging Citi Token Services",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762FJ:0-citigroup-says-samsung-c-t-s-trading-investment-in-south-korea-leveraging-citi-token-services/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:54:09+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:C",
+          "KRX:028260"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000620_20261126000627:0",
+      "title": "UniCredit: All Offer Conditions Have Now Been Fulfilled",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000620_20261126000627:0-unicredit-all-offer-conditions-have-now-been-fulfilled/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:54:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:CBK",
+          "MIL:UCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000620_20261126000626:0",
+      "title": "UniCredit: Obtained All Regulatory Clearances Required for Offer Settlement",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000620_20261126000626:0-unicredit-obtained-all-regulatory-clearances-required-for-offer-settlement/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:54:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:CBK",
+          "MIL:UCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762NF:0",
+      "title": "Petronas & Tokyo Gas Advance Partnership With First Bio-LNG Delivery From Malaysia To Japan",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762NF:0-petronas-tokyo-gas-advance-partnership-with-first-bio-lng-delivery-from-malaysia-to-japan/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:53:45+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:PETGAS",
+          "TSE:9531"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762L3:0",
+      "title": "FIPCO Says GAFT To Initiate Review Of Potential Circumvention Of Anti-Dumping Duties Imposed On Imports Of PVC-Coated Fabrics",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762L3:0-fipco-says-gaft-to-initiate-review-of-potential-circumvention-of-anti-dumping-duties-imposed-on-imports-of-pvc-coated-fabrics/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:53:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TADAWUL:2180"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000624:0",
+      "title": "Prosus Could Benefit From AI at Home and Elsewhere — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000624:0-prosus-could-benefit-from-ai-at-home-and-elsewhere-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:53:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:PRX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUCBDJDGP:0",
+      "title": "Oceana Group Reports FY HEPS Of 850.3 Cents",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUCBDJDGP:0-oceana-group-reports-fy-heps-of-850-3-cents/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:52:46+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "JSE:OCE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4593561:0",
+      "title": "Kyocera: FY2031 growth pairs AI-component investment with higher-margin, AI-enabled solutions",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4593561:0-kyocera-fy2031-growth-pairs-ai-component-investment-with-higher-margin-ai-enabled-solutions/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:52:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSE:6971"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762L7:0",
+      "title": "Liva Insurance Signs Contract With Banque Saudi Fransi (BSF)",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762L7:0-liva-insurance-signs-contract-with-banque-saudi-fransi-bsf/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:51:51+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TADAWUL:8280",
+          "TADAWUL:1050"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:c0eb555c3094b:0",
+      "title": "Celularity gets until January to address the Nasdaq filing issue",
+      "url": "https://seekingalpha.com/news/4676759-celularity-gets-until-january-to-address-nasdaq-filing-issue?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:51:22+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CELU",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L5N4761SY:0",
       "title": "UniCredit seeks Commerzbank shareholder vote as it completes process to take control",
@@ -112,6 +901,30 @@
       }
     },
     {
+      "id": "tradingview:newsbtc:1461078f8094b:0",
+      "title": "Bitcoin’s Recovery Faces a New Warning After $2 Billion in ETF Outflows",
+      "url": "https://www.newsbtc.com/bitcoin-news/bitcoin-recovery-etf-outflows-warning/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "NewsBTC",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:49:22+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762G5:0",
       "title": "Asas Makeen Signs MoU With Real Estate Development Fund",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762G5:0-asas-makeen-signs-mou-with-real-estate-development-fund/",
@@ -132,6 +945,32 @@
         "urgency": 2,
         "symbols": [
           "TADAWUL:9640"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:df4d1875b094b:0",
+      "title": "From 28% upside to 18% downside - Bernstein bets on three IT stocks, is cautious on four others",
+      "url": "https://www.tradingview.com/news/cnbctv:df4d1875b094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:49:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:COFORGE",
+          "NSE:HCLTECH",
+          "NSE:PERSISTENT"
         ]
       }
     },
@@ -203,6 +1042,30 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_S8N46U018:0",
+      "title": "Moscow Exchange net profit at 20.8 billion roubles",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N46U018:0-moscow-exchange-net-profit-at-20-8-billion-roubles/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:47:31+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:12.035947+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "RUS:MOEX"
+        ]
       }
     },
     {
@@ -22941,6 +23804,25 @@
       "extra": {}
     },
     {
+      "id": "msn:5d030fe59c879dc15f4ab51f44e1d8683e8b2e01",
+      "title": "Stock Market Live Updates: Sensex jumps 450 points as IT bulls push D-Street rally further ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07d88418eb48668df53aa9d225d428&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-lg-electronics-hdfc-bank-share-price-26-november-2026%2fliveblog%2f136176167.cms&c=13541258442483674008&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Domestic equities staged a sharp rebound after the market holiday, defying weak Asian cues and subdued US futures ahead of the US PCE inflation data. The benchmark Nifty 50 surged 470 points, or 1.85% ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T06:40:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:13.793321+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:urn:summary_document_transcript:quartr.com:4827830:0",
       "title": "MGRO: TerraSante growth advances, with 2027 scale and cash-flow targets hinging on execution",
       "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4827830:0-mgro-terrasante-growth-advances-with-2027-scale-and-cash-flow-targets-hinging-on-execution/",
@@ -36095,6 +36977,25 @@
       "extra": {}
     },
     {
+      "id": "msn:c2fe3f9e7540307b05a84110411a3460ed81f3bb",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07d884f9ff4f70abb4cfa3203452c9&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:13.793321+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
       "title": "What Sent Qualcomm Stock Higher?",
       "url": "https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
@@ -38059,6 +38960,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T14:55:23.293878+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:bb2318a568779a0259d822961dc25c0c90afba74",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07d88418eb48668df53aa9d225d428&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:13.793321+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -54298,6 +55218,25 @@
       "extra": {}
     },
     {
+      "id": "msn:b6e800a1144d22a56ac045bc487abe62d8d06ab1",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07d88418eb48668df53aa9d225d428&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:13.793321+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -57820,6 +58759,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T14:55:23.293878+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:fa3d6bd84ecd313f52c89b5118b7d7ba7fd30c6a",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07d88418eb48668df53aa9d225d428&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:13.793321+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -61494,6 +62452,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T14:55:23.293878+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:407dc6116795ced59b86f20118f809ff100b4e10",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07d88418eb48668df53aa9d225d428&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T14:58:13.793321+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
