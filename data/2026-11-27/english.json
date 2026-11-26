@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T00:31:23.351132+08:00",
-  "count": 65,
+  "generated_at": "2026-11-27T00:34:19.647879+08:00",
+  "count": 68,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,30 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 6,
+      "count": 9,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/26/oracle-stock-dipped-under-100-as-banks-try-to-unload-its-data-center-loans/?.tsrc=rss",
+      "title": "Oracle Stock Dipped Under $100 as Banks Try to Unload Its Data-Center Loans",
+      "url": "https://247wallst.com/investing/2026/11/26/oracle-stock-dipped-under-100-as-banks-try-to-unload-its-data-center-loans/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Oracle's backlog is huge and the demand is real, yet lenders are quietly accepting steep discounts on the debt behind its data centers. What does the bond market see that the analysts' bullish targets don't?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:27:22+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:34:15.850902+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770NZ:0",
       "title": "Capital Environment Says Xinjiang Tianfu Enters Contract For Fangcaohu Project",
@@ -222,6 +241,25 @@
           "LSE:TRI"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://247wallst.com/investing/etf/2026/11/26/for-the-retiree-who-wants-the-portfolio-to-match-their-faith-at-69-3-etfs-built-around-values/?.tsrc=rss",
+      "title": "For the Retiree Who Wants the Portfolio to Match Their Faith at 69: 3 ETFs Built Around Values",
+      "url": "https://247wallst.com/investing/etf/2026/11/26/for-the-retiree-who-wants-the-portfolio-to-match-their-faith-at-69-3-etfs-built-around-values/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "One glance at your index fund's holdings can reveal a company you'd never fund on purpose. Three faith-screened ETFs promise a fix, but each draws its moral lines differently, and one of those differences could matter more than you expect.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:23:36+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:34:15.850902+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8769Ea:0",
@@ -1036,6 +1074,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/blackberry-tsx-bb-rebounds-earnings-161012685.html?.tsrc=rss",
+      "title": "BlackBerry (TSX:BB) Rebounds Before Earnings, Is The Stock Fully Priced?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blackberry-tsx-bb-rebounds-earnings-161012685.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "BlackBerry stock reacts to tech rebound and upcoming earnings BlackBerry (TSX:BB) moved back into the spotlight after an 8.38% jump on a broader technology rally sparked by Nvidia's CEO reinstatement, with traders now watching the December 17, 2026 earnings announcement. At a CA$12.07 share price, BlackBerry has locked in a very strong year-to-date share price return of 131.23%, even though the 30-day share price return is down 6.36% and short-term momentum has cooled, while the 1-year total...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:10:12+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:34:15.850902+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:urn:summary_document_slides:quartr.com:4276235:0",
