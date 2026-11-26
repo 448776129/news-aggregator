@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T01:40:18.360567+08:00",
-  "count": 246,
+  "generated_at": "2026-11-27T01:43:16.654707+08:00",
+  "count": 251,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,141 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4770ZL:0",
+      "title": "European stocks end higher on easing tariff fears, ECB leadership continuity",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4770ZL:0-european-stocks-end-higher-on-easing-tariff-fears-ecb-leadership-continuity/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:42:43+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:43:12.907998+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:SXXP",
+          "XETR:DAX",
+          "BME:IBC",
+          "INDEX:FTSEMIB",
+          "EURONEXT:SOI",
+          "XETR:IFX",
+          "LSE:IMB",
+          "NYSE:MO",
+          "XETR:ENR",
+          "XETR:CBK",
+          "MIL:UCG",
+          "VIE:BG",
+          "TMP:PTSBI",
+          "STOXX:SXXP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47710Z:0",
+      "title": "Canadian dollar edges lower as investors await key GDP data",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47710Z:0-canadian-dollar-edges-lower-as-investors-await-key-gdp-data/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:41:35+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:43:12.907998+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX_IDC:USDCAD",
+          "NYMEX:CL1!",
+          "FX:USDCAD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126003562:0",
+      "title": "FTC Release: FTC and 17 States Secure $63 Million Settlement with Family Dollar Stores in Price Transparency Win for Consumers",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126003562:0-ftc-release-ftc-and-17-states-secure-63-million-settlement-with-family-dollar-stores-in-price-transparency-win-for-consumers/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:40:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:43:12.907998+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:DLTR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cointelegraph:66d9661fb094b:0",
+      "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
+      "url": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Cointelegraph",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:39:53+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:43:12.907998+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:CL1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:bravenewcoin:bc1950616094b:0",
+      "title": "Bitcoin (BTC) Price Today: Whale Selling Near $60K Adds to Glassnode’s Warning for Wall Street",
+      "url": "https://bravenewcoin.com/insights/bitcoin-btc-price-today-whale-selling-near-60k-adds-to-glassnodes-warning-for-wall-street",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Brave New Coin",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:39:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:43:12.907998+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L5N4771AP:0",
       "title": "North Sea Crude - WTI Midland and Brent bid higher",
