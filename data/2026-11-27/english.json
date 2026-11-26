@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T01:37:15.705651+08:00",
-  "count": 240,
+  "generated_at": "2026-11-27T01:40:18.360567+08:00",
+  "count": 246,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,59 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 16,
+      "count": 18,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4771AP:0",
+      "title": "North Sea Crude - WTI Midland and Brent bid higher",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4771AP:0-north-sea-crude-wti-midland-and-brent-bid-higher/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:38:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:40:15.479300+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770RD:0",
+      "title": "Chinney Investments Ltd Prepared For Second Half Of Year To Follow Similar Tempo To First",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770RD:0-chinney-investments-ltd-prepared-for-second-half-of-year-to-follow-similar-tempo-to-first/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:37:09+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:40:15.479300+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:216"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770OU:0",
       "title": "Modern Chinese Medicine Group Co Says Modern Biotechnology Group Disposes 144 Million Shares",
@@ -131,6 +179,30 @@
         "urgency": 2,
         "symbols": [
           "HKEX:1348"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cryptobriefing:03c85b933094b:0",
+      "title": "Bitcoin Core contributor shows how a sub-35-cent payment can expose a node's IP address",
+      "url": "https://cryptobriefing.com/bitcoin-core-dust-payment-ip-exposure/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:35:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:40:15.479300+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:BTCGBP"
         ]
       }
     },
@@ -422,6 +494,28 @@
         "symbols": [
           "LSE:GROW"
         ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_S8N46703W:0",
+      "title": "Turkish elections to be held in 2028, ruling alliance agrees on Erdogan candidacy, vice president says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N46703W:0-turkish-elections-to-be-held-in-2028-ruling-alliance-agrees-on-erdogan-candidacy-vice-president-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:24:48+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:40:15.479300+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -1160,6 +1254,25 @@
       }
     },
     {
+      "id": "yahoo:https://finance.yahoo.com/media-advertising/articles/does-pinterest-pins-pay-overhaul-171447901.html?.tsrc=rss",
+      "title": "What Does Pinterest (PINS) Pay Overhaul Mean For Its Takeover Talk And Ad Push?",
+      "url": "https://finance.yahoo.com/media-advertising/articles/does-pinterest-pins-pay-overhaul-171447901.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Pinterest (NYSE:PINS) reworked executive compensation in November 2026, adding fresh change-in-control terms that investors read as potential takeover defenses. The company expanded its collaboration with Microsoft Advertising, bringing more visual search driven shopping ads across Pinterest's surfaces. Management highlighted the role of AI and first party data in powering the new shopping ad formats across both platforms. The executive pay reset and Microsoft Advertising expansion only...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:14:47+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:40:15.152214+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8827Ea:0",
       "title": "REG - Workspace Grp PLC Bank of America Corp - Holding(s) in Company",
       "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8827Ea:0-reg-workspace-grp-plc-bank-of-america-corp-holding-s-in-company/",
@@ -1229,6 +1342,25 @@
           "BVB:TGN"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/nvent-electric-nvt-brings-ai-171331695.html?.tsrc=rss",
+      "title": "nVent Electric (NVT) Brings AI Data Center Cooling And Power Systems To SC26",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvent-electric-nvt-brings-ai-171331695.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "nVent Electric (NYSE:NVT) introduced new liquid cooling and engineered power distribution products for AI data centers at SC26. The company unveiled its CX121 coolant distribution unit, aimed at supporting higher density AI computing environments. nVent announced collaborations with AMD and NVIDIA, and outlined integration of Maverick Power following its recent acquisition. These liquid cooling, power distribution, and AMD and NVIDIA partnership updates at SC26 are worth weighing against the...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:13:31+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:40:15.152214+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:moneycontrol:b2d1dde97094b:0",

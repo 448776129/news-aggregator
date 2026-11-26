@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T01:34:17.777409+08:00",
-  "count": 59,
+  "generated_at": "2026-11-27T01:40:18.366077+08:00",
+  "count": 63,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,72 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 5,
+      "count": 6,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaayay5828442.shtml",
+      "title": "英国央行行长：未公开的AI模型引发加密安全担忧",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaayay5828442.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "英国央行行长对近期人工智能在数学领域取得的突破发出警示。外界担忧，这套用于保障整个金融体系数据安全的加密技术正面临威胁。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:37:42+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:40:15.104314+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261127013409280800",
+      "title": "Simsek: We will not hesitate to use all policy tools to protect investors’ inter",
+      "url": "https://www.jin10.com/#/flash/20261127013409280800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Simsek: We will not hesitate to use all policy tools to protect investors’ interests in lira-denominated assets.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:34:09+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:40:14.125470+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127013406834800",
+      "title": "土耳其财政部长：将毫不犹豫地动用各种政策工具，保护以里拉计价资产的（投资者）利益。",
+      "url": "https://www.jin10.com/#/flash/20261127013406834800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "土耳其财政部长：将毫不犹豫地动用各种政策工具，保护以里拉计价资产的（投资者）利益。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:34:06+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:40:14.125470+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaayat1247796.shtml",
       "title": "巴勃罗・埃尔南德斯・德科斯：擅长凝聚共识的欧洲央行新任掌门人",
@@ -44,6 +105,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127012812810800",
+      "title": "Russian Foreign Minister Lavrov said the West, including the United States, Euro",
+      "url": "https://www.jin10.com/#/flash/20261127012812810800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Russian Foreign Minister Lavrov said the West, including the United States, Europe and its allies elsewhere, would remain on the world stage but could no longer dictate how others live, whom they maintain friendly ties with or which countries they sanction. The West would have to resolve issues through negotiations.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:28:12+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:40:14.125470+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261127012810689800",
