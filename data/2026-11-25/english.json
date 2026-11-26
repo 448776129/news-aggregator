@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T19:31:18.114694+08:00",
-  "count": 8424,
+  "generated_at": "2026-11-26T19:34:15.292518+08:00",
+  "count": 8430,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 9,
+      "count": 3,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 7,
+      "count": 5,
       "error": ""
     },
     {
@@ -2044,6 +2044,30 @@
         "symbols": [
           "LSE:IGR"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8812715",
+      "title": "Ex-England soccer player Sterling spared immediate jail sentence for dangerous driving - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTNVUUNiT0VOZDFaLW9yZEFRU2NwdjZvV0pKWDZrVVNBUm9ZS28wd09xQjhCMlBsajZlUVR3MG9tdE9la2pSV2Ftd2h4emt4NzI5T3NZZFFiSHV1bU9HUUFMR3Ntb3l1RW8yUkIyWlJJSEw4Z2VvTWR4d1pIaDZ4QndaWVVmQmxhTTVEcTB2U2tvcGhSSm9tZ3Fjd19FNlFwYkx1WkdrSEtfQWR6ZGJaTUZOQkMzUDJrT1kw?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Ex-England soccer player Sterling spared immediate jail sentence for dangerous driving Reuters",
+      "content": "Ex-England soccer player Sterling spared immediate jail sentence for dangerous driving Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T23:42:09+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T19:34:11.402238+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -42388,6 +42412,25 @@
       "extra": {}
     },
     {
+      "id": "msn:f25c9b550822d79f6a6835152fdb7e7127f76c55",
+      "title": "3 Glorious AI Stocks to Buy Hand Over Fist If the Stock Market Crashes",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081933849f460087a21d20e94d2de3&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2f3-glorious-ai-stocks-to-buy-hand-over-fist-if-the-stock-market-crashes%2far-AA2ieua5&c=16305698778802783623&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A crash would put these dominant businesses on sale, and one already looks cheap.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:42:01+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T19:34:12.910392+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:dpa_afx:471b1eeac54e8:0",
       "title": "GE Aerospace Secures Malaysia Aviation Order For 16 Boeing 787s",
       "url": "https://www.tradingview.com/news/dpa_afx:471b1eeac54e8:0-ge-aerospace-secures-malaysia-aviation-order-for-16-boeing-787s/",
@@ -51694,6 +51737,25 @@
       "published_at": "2026-11-25T20:07:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-26T19:28:20.959396+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b7ffe1fbfa64457206e2be2739badb31b5765238",
+      "title": "Michael Burry Bets on Stock Market Recovery After Thanksgiving",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081933849f460087a21d20e94d2de3&url=https%3a%2f%2fbeincrypto.com%2fmichael-burry-stock-market-recovery-thanksgiving-crash%2f&c=17459437111037180430&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Michael Burry says he is almost entirely long as new tariffs and AI fears drag the Nasdaq 100 toward a bear market.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T20:07:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T19:34:12.910392+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -93077,6 +93139,25 @@
       "published_at": "2026-11-25T17:00:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-26T19:31:14.745762+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0e59ce2aea713ceaa624209c1110e7b9dc154d6d",
+      "title": "Is the Stock Market Open on Thanksgiving Day 2026?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081933849f460087a21d20e94d2de3&url=https%3a%2f%2fwww.newsweek.com%2fstock-market-thanksgiving-2026-12761725&c=5194482333637650025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "U.S. stock markets will close for Thanksgiving 2026, with the NYSE and Nasdaq reopening for shorter hours on Friday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:00:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T19:34:12.910392+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -155239,6 +155320,25 @@
       "extra": {}
     },
     {
+      "id": "msn:6300a8ba73c833c31e7551e27e7f872459a0e058",
+      "title": "Workday dips after earnings, and other early market movers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081933029e44cbb6702d249f46c0e6&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia%2fcard%2fworkday-dips-after-earnings-and-other-early-market-movers-mLGlgLKIhzrTBLzBGHvr&c=7299923369120989214&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here are some of the stocks making notable moves in Wednesday's premarket action: Workday shares are slipping more than 7% despite the business software group posting [an earnings beat]( ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T19:34:12.910392+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:69d0af11a288ba114dbf4c01f229aef05a9d4698",
       "title": "Stock Market Live Updates: Sensex sheds 800 pts from day’s high, Nifty holds 25,650 ...",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069d83c3a14cd8b29e8d5f1f91f20d&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026%2fliveblog%2f136145716.cms&c=2500710713444335276&mkt=en-us",
@@ -180327,6 +180427,25 @@
       "published_at": "2026-11-25T00:04:08+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-26T19:31:14.745762+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:eeb4ef3ba6f404fd6f1395c92c6a36327f95e55c",
+      "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081933029e44cbb6702d249f46c0e6&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fjim-cramer-sizes-up-six-retail-stocks-after-earnings-and-names-his-two-favorites%2far-AA2i9onk&c=18106407342616312095&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Here's where Jim Cramer stands on six retailers that rallied after reporting earnings Tuesday, and his two favorites.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T00:04:08+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-26T19:34:12.910392+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
