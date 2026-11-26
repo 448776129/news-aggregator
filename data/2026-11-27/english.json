@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T06:10:22.660783+08:00",
-  "count": 552,
+  "generated_at": "2026-11-27T06:16:17.604403+08:00",
+  "count": 554,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,55 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770QU:0",
+      "title": "Japan's JERA enters talks with Anthropic, Meta to build data centres, Nikkei reports",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770QU:0-japan-s-jera-enters-talks-with-anthropic-meta-to-build-data-centres-nikkei-reports/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:10:11+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T06:16:13.286047+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ANT",
+          "NASDAQ:META"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3715280:0",
+      "title": "NTL: Exploration potential advanced, but funding shortfalls leave a material going-concern uncertainty",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3715280:0-ntl-exploration-potential-advanced-but-funding-shortfalls-leave-a-material-going-concern-uncertainty/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:09:41+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T06:16:13.286047+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:NTL"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261126003929_20261126003929:0",
       "title": "Symbol for Grosvenor CPC I Inc. (GRVA.P.V) Now WATT.V",
