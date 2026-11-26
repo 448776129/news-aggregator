@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T16:16:12.665005+08:00",
-  "count": 1888,
+  "generated_at": "2026-11-26T16:22:13.226822+08:00",
+  "count": 1890,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "error": ""
     },
     {
@@ -19256,6 +19256,25 @@
       "extra": {}
     },
     {
+      "id": "msn:ec7c9d9ee7d0670fd5f1a63f8d6956579930d611",
+      "title": "Is the stock market open on Thanksgiving, Black Friday?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07ec32850e4f39addb8354149388c5&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fmoney%2fis-the-stock-market-open-on-thanksgiving-black-friday%2far-AA2i27ez&c=5354299360325556885&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Thanksgiving falls on Thursday, Nov. 26, this year. Here's what to know about whether the stock market will be open or closed.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T11:04:15+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-26T16:22:12.082068+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.trefis.com/stock/dell/articles/624827/how-did-dell-grow-from-56-billion-to-151-billion-in-20-years/2026-11-22?.tsrc=rss",
       "title": "How Did Dell Grow From $56 Billion To $151 Billion In 20 Years?",
       "url": "https://www.trefis.com/stock/dell/articles/624827/how-did-dell-grow-from-56-billion-to-151-billion-in-20-years/2026-11-22?.tsrc=rss",
@@ -33142,6 +33161,25 @@
       "published_at": "2026-11-23T08:34:00+08:00",
       "published_date": "2026-11-23",
       "fetched_at": "2026-11-26T16:16:11.946985+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:19b2be1d45e3b7e2566f4c49b47e0eda9d710cc9",
+      "title": "Stock Market Today: Dow logs 1,450-point gain, S&P 500 and Nasdaq surge to best day since ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07ec32850e4f39addb8354149388c5&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-slides-tech-rout-anthropic-ipo&c=15374805816448379949&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "It was a big turnaround Monday after Nvidia's board reinstated CEO Jensen Huang and a powerful tech rebound lifted the broader market.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T08:34:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-26T16:22:12.082068+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
