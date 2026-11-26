@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T05:46:16.653259+08:00",
-  "count": 2289,
+  "generated_at": "2026-11-27T05:49:15.974799+08:00",
+  "count": 2290,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -30743,6 +30743,25 @@
       "published_at": "2026-11-23T09:49:00+08:00",
       "published_date": "2026-11-23",
       "fetched_at": "2026-11-27T05:46:14.102937+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d9499ab863b74dc6744cf7c66b438a540fe324ff",
+      "title": "Stock Market News From Nov. 23, 2026: The Nasdaq’s 6.5% Gain Is a Red Flag",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08a95859ae47aea0c6641cce6f1660&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today-112326&c=12493571658665667860&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Dow, S&P 500, and Nasdaq futures are rising in premarket trading as the stock market looks to recover from a brutal selloff.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T09:49:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-27T05:49:13.889561+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
