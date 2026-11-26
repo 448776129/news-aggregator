@@ -3,8 +3,8 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T11:55:14.181149+08:00",
-  "count": 456,
+  "generated_at": "2026-11-26T12:13:14.633771+08:00",
+  "count": 457,
   "sources": [
     {
       "name": "stocktwits",
@@ -14,6 +14,33 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670239244",
+      "title": "$SPCX $TSLA $SPY $QQQ",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "Dovkav",
+      "summary": "$SPCX $TSLA $SPY $QQQ",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:12:14+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:13:10.696312+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "SPCX",
+          "TSLA",
+          "SPY",
+          "QQQ"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670238895",
       "title": "$TSLA seems like fresh tariff threats hit a name already trading as an ai proxy. supply chain costs on one side, bubble ",
