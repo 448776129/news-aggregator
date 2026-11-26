@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T04:43:15.240201+08:00",
-  "count": 460,
+  "generated_at": "2026-11-27T04:49:17.036943+08:00",
+  "count": 461,
   "sources": [
     {
       "name": "alpaca",
@@ -71,6 +71,25 @@
           "FX_IDC:USDCOP"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://nypost.com/2026/11/26/business/nvidia-halts-server-shipments-to-4-southeast-asian-countries-report/?.tsrc=rss",
+      "title": "Nvidia halts server shipments to 4 countries just weeks after Jensen Huang’s affair with alleged spy was exposed",
+      "url": "https://nypost.com/2026/11/26/business/nvidia-halts-server-shipments-to-4-southeast-asian-countries-report/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "It was unclear whether the halt would be temporary as Nvidia and its partners work through compliance requirements under new US export controls, the FT reported.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:30:14+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:49:11.964176+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/26/here-s-how-many-shares-of-procter-and-gamble-you-d-need-to-own-to-collect-usd1-000-in-annual-dividends/?.tsrc=rss",
