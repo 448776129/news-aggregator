@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T06:28:18.775009+08:00",
-  "count": 179,
+  "generated_at": "2026-11-27T06:31:16.395868+08:00",
+  "count": 181,
   "sources": [
     {
       "name": "cls",
@@ -21,7 +21,7 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 21,
+      "count": 23,
       "error": ""
     }
   ],
@@ -3702,6 +3702,44 @@
       "extra": {
         "important": 1
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/jjxw/2026-11-27/doc-inkaayat1227513.shtml",
+      "title": "泽连斯基任命乌武装部队支援部队新任司令",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-27/doc-inkaayat1227513.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "央视",
+      "summary": "当地时间11月26日，乌克兰总统官方网站公布，乌总统泽连斯基解除德米特里·杰雷加的乌克兰武装部队支援部队司令职务，并任命德米特罗·特卡琴科接任。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:24:03+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T06:31:13.031942+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/jjxw/2026-11-27/doc-inkaayat1222276.shtml",
+      "title": "巴西副总统：美国对巴西加征新关税完全不合理",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-27/doc-inkaayat1222276.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "央视",
+      "summary": "△巴西副总统阿尔克明（资料图）当地时间11月26日，巴西副总统阿尔克明表示，美国提出对巴西加征的新关税完全不合理，巴西政府将尽全力扭转这一局面。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:12:52+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T06:31:13.031942+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaatuw8110783.shtml",
