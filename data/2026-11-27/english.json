@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T00:37:24.439662+08:00",
-  "count": 88,
+  "generated_at": "2026-11-27T00:46:18.507014+08:00",
+  "count": 106,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,426 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770L3:0",
+      "title": "Gold drifts lower as Fed rate-hike fears loom",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770L3:0-gold-drifts-lower-as-fed-rate-hike-fears-loom/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:43:34+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:46:13.884439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:GC1!",
+          "COMEX:SI1!",
+          "NYMEX:PL1!",
+          "NYMEX:PA1!",
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:c8fba1042094b:0",
+      "title": "YieldMax Short NVDA Option Income Strategy ETF declares $0.7021 dividend",
+      "url": "https://seekingalpha.com/news/4676863-yieldmax-short-nvda-option-income-strategy-etf-declares-0_7021-dividend?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:41:33+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:46:13.884439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:DIPS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770HX:0",
+      "title": "Brazil's Embraer criticizes new US tariffs, warns of air travel inflation",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770HX:0-brazil-s-embraer-criticizes-new-us-tariffs-warns-of-air-travel-inflation/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:41:05+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:46:13.884439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BMFBOVESPA:EMBJ3",
+          "EURONEXT:AIR",
+          "NYSE:BA",
+          "NASDAQ:AAL",
+          "NASDAQ:SKYW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:a6d3513ef094b:0",
+      "title": "YieldMax Short TSLA Option Income Strategy ETF declares $0.1607 dividend",
+      "url": "https://seekingalpha.com/news/4676862-yieldmax-short-tsla-option-income-strategy-etf-declares-0_1607-dividend?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:41:01+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:46:13.884439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:CRSH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:a8f56832d094b:0",
+      "title": "YieldMax CVNA Option Income Strategy ETF declares $0.2139 dividend",
+      "url": "https://seekingalpha.com/news/4676861-yieldmax-cvna-option-income-strategy-etf-declares-0_2139-dividend?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:40:57+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:46:13.884439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:CVNY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770L7:0",
+      "title": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770L7:0-sap-considers-at-least-10-000-job-cuts-in-ai-restructuring-bloomberg-reports/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:40:49+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:46:13.884439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:SAP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cointelegraph:d173c9a60094b:0",
+      "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
+      "url": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Cointelegraph",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:40:44+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:46:13.884439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:53c1fa751094b:0",
+      "title": "YieldMax CRCL Option Income Strategy ETF declares $0.0988 dividend",
+      "url": "https://seekingalpha.com/news/4676859-yieldmax-crcl-option-income-strategy-etf-declares-0_0988-dividend?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:45+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:46:13.884439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:CRCO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N47716M:0",
+      "title": "A Thanksgiving gift for European stocks",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N47716M:0-a-thanksgiving-gift-for-european-stocks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:41+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:46:13.884439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:SXXP",
+          "STOXX:SXXP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:a052a5517094b:0",
+      "title": "YieldMax COIN Option Income Strategy ETF declares $0.1319 dividend",
+      "url": "https://seekingalpha.com/news/4676858-yieldmax-coin-option-income-strategy-etf-declares-0_1319-dividend?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:12+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:46:13.884439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:CONY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:95ab3f6ae094b:0",
+      "title": "YieldMax BABA Option Income Strategy ETF declares $0.0343 dividend",
+      "url": "https://seekingalpha.com/news/4676857-yieldmax-baba-option-income-strategy-etf-declares-0_0343-dividend?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:38:34+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:46:13.884439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:BABO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cryptobriefing:4dd5f62fd094b:0",
+      "title": "JPMorgan flags Strategy's record-low mNAV as a Bitcoin capitulation signal",
+      "url": "https://cryptobriefing.com/jpmorgan-strategy-record-low-mnav-capitulation/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:38:33+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:46:13.884439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:MSTR",
+          "BITSTAMP:BTCUSD",
+          "NYSE:JPM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:2343a014f094b:0",
+      "title": "YieldMax BRK.B Option Income Strategy ETF declares $0.143 dividend",
+      "url": "https://seekingalpha.com/news/4676856-yieldmax-brk-b-option-income-strategy-etf-declares-0_143-dividend?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:38:32+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:46:13.884439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:BRKC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8791Ea:0",
+      "title": "REG - NewRiver REIT plc - Changes to Director Responsibilities",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8791Ea:0-reg-newriver-reit-plc-changes-to-director-responsibilities/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:37:57+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:46:13.884439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:NRR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8790Ea:0",
+      "title": "REG - Intertek Group Plc JPMorgan Chase & Co - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8790Ea:0-reg-intertek-group-plc-jpmorgan-chase-co-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:37:54+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:46:13.884439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:ITRK",
+          "NYSE:JPM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770JK:0",
+      "title": "Irish court refuses to sanction BAWAG acquisition of Permanent TSB",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770JK:0-irish-court-refuses-to-sanction-bawag-acquisition-of-permanent-tsb/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:36:58+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:46:13.884439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "VIE:BG",
+          "TMP:PTSBI",
+          "EURONEXT:PTSB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:30911e646094b:0",
+      "title": "YieldMax™ AAPL Option Income Strategy ETF declares $0.0584 dividend",
+      "url": "https://seekingalpha.com/news/4676855-yieldmax-aapl-option-income-strategy-etf-declares-0_0584-dividend?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:36:44+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:46:13.884439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:APLY"
+        ]
+      }
+    },
     {
       "id": "tradingview:seekingalpha:21a9f4fa9094b:0",
       "title": "YieldMax™ AMZN Option Income Strategy ETF declares $0.0751 dividend",
@@ -86,6 +506,32 @@
           "FX:USDJPY",
           "TVC:NI225",
           "FX:EURJPY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:7a640e7ce094b:0",
+      "title": "Block Deals: Schaeffler India promoter sells 6.5% stake; Norwest Venture Partners offloads over 2% in Amagi Media Labs",
+      "url": "https://www.tradingview.com/news/moneycontrol:7a640e7ce094b:0-block-deals-schaeffler-india-promoter-sells-6-5-stake-norwest-venture-partners-offloads-over-2-in-amagi-media-labs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:35:45+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:46:13.884439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:SCHAEFFLER",
+          "NSE:AMAGI",
+          "NSE:ALKEM"
         ]
       }
     },
