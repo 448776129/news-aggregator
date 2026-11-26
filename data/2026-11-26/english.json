@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T13:07:18.381089+08:00",
-  "count": 2404,
+  "generated_at": "2026-11-26T13:10:14.887204+08:00",
+  "count": 2422,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 7,
       "error": ""
     },
     {
@@ -38,6 +38,227 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4770AN:0",
+      "title": "Nvidia halts chip shipments to Southeast Asia, FT reports",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4770AN:0-nvidia-halts-chip-shipments-to-southeast-asia-ft-reports/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:08:23+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:10:11.528614+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:8e1f869a089fb:0",
+      "title": "Nifty, Sensex open higher as FII buying extends; IT stocks lead, NBFCs slip",
+      "url": "https://www.tradingview.com/news/moodys:8e1f869a089fb:0-nifty-sensex-open-higher-as-fii-buying-extends-it-stocks-lead-nbfcs-slip/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:08:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:10:11.528614+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:NIFTY",
+          "BSE:SENSEX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000019:0",
+      "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan — Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000019:0-asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:06:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:10:11.528614+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TWSE:IX0001",
+          "KRX:KOSPI",
+          "TVC:NI225"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:e371b882c04f4:0",
+      "title": "India's BirlaNu launches digital platform subsidiary for architects",
+      "url": "https://www.tradingview.com/news/moodys:e371b882c04f4:0-india-s-birlanu-launches-digital-platform-subsidiary-for-architects/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "bne Intellinews",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:04:06+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:10:11.528614+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:BIRLANU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000009_20261126000009:0",
+      "title": "Sime Darby Bhd 1Q EPS MYR0.0610",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000009_20261126000009:0-sime-darby-bhd-1q-eps-myr0-0610/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:04:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:10:11.528614+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SIME"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000009_20261126000010:0",
+      "title": "Sime Darby Bhd 1Q Net MYR416M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000009_20261126000010:0-sime-darby-bhd-1q-net-myr416m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:04:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:10:11.528614+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SIME"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000009_20261126000012:0",
+      "title": "Sime Darby Bhd 1Q Rev MYR16.7B",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000009_20261126000012:0-sime-darby-bhd-1q-rev-myr16-7b/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:04:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:10:11.528614+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SIME"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000009:0",
+      "title": "Sime Darby Bhd Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000009:0-sime-darby-bhd-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:04:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:10:11.528614+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SIME"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:ebd6cafb2094b:0",
+      "title": "Sugar stocks rally up to 14%; Dhampur Sugar, Uttam Sugar, Shree Renuka, Bajaj Hindusthan lead gains. Check reason behind the uptick",
+      "url": "https://www.tradingview.com/news/moneycontrol:ebd6cafb2094b:0-sugar-stocks-rally-up-to-14-dhampur-sugar-uttam-sugar-shree-renuka-bajaj-hindusthan-lead-gains-check-reason-behind-the-uptick/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:02:25+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:10:11.528614+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:DHAMPURSUG",
+          "NSE:UTTAMSUGAR",
+          "NSE:RENUKA"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47703M:0",
       "title": "Stocks rally in Asia, US tariffs not as dire as feared",
@@ -389,6 +610,32 @@
       }
     },
     {
+      "id": "tradingview:cnbctv:9f7156d16094b:0",
+      "title": "Pankaj Pandey's stock picks: Why HUL, LG Electronics and HDFC Life are on his radar",
+      "url": "https://www.tradingview.com/news/cnbctv:9f7156d16094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:56:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:10:11.528614+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:HINDUNILVR",
+          "KRX:066570",
+          "NSE:HDFCLIFE"
+        ]
+      }
+    },
+    {
       "id": "tradingview:cointelegraph:5c5c8149f094b:0",
       "title": "1Password hacker stole customer names and emails, but vaults safe",
       "url": "https://cointelegraph.com/news/1password-hacker-stole-customer-names-and-emails-but-vaults-safe?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
@@ -457,6 +704,28 @@
         "symbols": [
           "NSE:SILVERTUC"
         ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:ffe56ee0a094b:0",
+      "title": "Exclusive | Tata Trusts moves Bombay HC against Chandrasekaran's reappointment",
+      "url": "https://www.tradingview.com/news/cnbctv:ffe56ee0a094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:53:32+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:10:11.528614+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -27885,6 +28154,25 @@
       "extra": {}
     },
     {
+      "id": "msn:0e808f6061843ccbfb63310a70126eb1c81777e8",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07bf33672d4d569a55a530764ee053&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:10:13.197121+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
       "title": "What Sent Qualcomm Stock Higher?",
       "url": "https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
@@ -28431,6 +28719,25 @@
       "published_at": "2026-11-26T04:20:02+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T04:31:16.748751+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:51a25bb0346a434025e010350382eb297019d790",
+      "title": "Universal Insurance: An Upcoming Category 5 Earnings Inflection",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07bf33672d4d569a55a530764ee053&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972108-universal-insurance-an-upcoming-category-5-earnings-inflection&c=9176262558594921769&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Universal's earnings will roughly double in the coming years due to the runoff of legacy Florida claims litigation and support from lower reinsurance costs.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:10:13.197121+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -29127,6 +29434,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T13:07:14.814197+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:2fbdc88fb14a2faf7f2cb25912c11ce86dd7c384",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07bf33e312432a8ddca9b140f1563c&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:10:13.197121+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -44639,6 +44965,25 @@
       "extra": {}
     },
     {
+      "id": "msn:c6c6d3987978b42a9744fa63244a51b76198571d",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07bf33e312432a8ddca9b140f1563c&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:10:13.197121+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -47458,6 +47803,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T13:07:14.814197+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:a6d8d3f7a2caae486cfe4fe7913e85269f5bc8db",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07bf33e312432a8ddca9b140f1563c&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:10:13.197121+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -50429,6 +50793,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T13:07:14.814197+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:db548ca517aec5b3201b57f7e77e9e76361d7757",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07bf33e312432a8ddca9b140f1563c&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:10:13.197121+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -55753,6 +56136,25 @@
       "published_at": "2026-11-26T00:00:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T12:52:13.914521+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6c842a502d6ee586bd81db461aaba73204968742",
+      "title": "WH Group (SEHK:288) Stock Looks Like A Bargain On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07bf33672d4d569a55a530764ee053&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fwh-group-sehk-288-stock-021347065.html&c=7968561960771326446&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "WH Group has delivered a strong 5 year share price gain, yet the current level still raises a basic question for investors about what its earnings really justify. With the stock moving around over ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:10:13.197121+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
