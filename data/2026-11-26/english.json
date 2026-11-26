@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T16:46:17.335896+08:00",
-  "count": 3672,
+  "generated_at": "2026-11-26T16:49:18.422806+08:00",
+  "count": 3685,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 4,
       "error": ""
     },
     {
@@ -38,6 +38,172 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8050Ea:0",
+      "title": "REG - Ashtead Tech Hldgs JPMorgan Chase & Co - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8050Ea:0-reg-ashtead-tech-hldgs-jpmorgan-chase-co-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:48:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:49:14.193088+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:AT.",
+          "NYSE:JPM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8048Ea:0",
+      "title": "REG - Greatland Resources - Issue of Equity",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8048Ea:0-reg-greatland-resources-issue-of-equity/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:47:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:49:14.193088+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:GGP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126001353:0",
+      "title": "Oil Mixed Amid Middle East Attacks, U.S. Inventory Build — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126001353:0-oil-mixed-amid-middle-east-attacks-u-s-inventory-build-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:47:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:49:14.193088+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:UKOIL",
+          "NYMEX:CL1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126001354:0",
+      "title": "Yomiuri: DBJ to Actively Support M&A for Industry Reorganization, CEO Says",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126001354:0-yomiuri-dbj-to-actively-support-m-a-for-industry-reorganization-ceo-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:47:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:49:14.193088+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSE:4183"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:fc93148ccc21f:0",
+      "title": "Norway GDP Shrinks 0.3% In Q3",
+      "url": "https://www.tradingview.com/news/dpa_afx:fc93148ccc21f:0-norway-gdp-shrinks-0-3-in-q3/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:46:48+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:49:14.193088+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47708L:0",
+      "title": "China's lithium hydroxide futures tumble in debut as demand looks weak",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47708L:0-china-s-lithium-hydroxide-futures-tumble-in-debut-as-demand-looks-weak/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:46:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:49:14.193088+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4770HW:0",
+      "title": "Heavy rain hampers Indonesian rescue of 13 people trapped inside illegal mine, agency says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4770HW:0-heavy-rain-hampers-indonesian-rescue-of-13-people-trapped-inside-illegal-mine-agency-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:46:37+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:49:14.193088+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "IDX:ANTM"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261126001347:0",
       "title": "Interest-Rate Volatility Expected to Continue Next Year — Market Talk",
@@ -83,6 +249,28 @@
           "MIL:UCG",
           "XETR:CBK"
         ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126001345:0",
+      "title": "Interest-Rate Volatility Expected to Continue Next Year — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126001345:0-interest-rate-volatility-expected-to-continue-next-year-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:45:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:49:14.193088+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -491,6 +679,28 @@
         "symbols": [
           "OMXSTO:MINEST"
         ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:d56fbbfb0094b:0",
+      "title": "Indian banks set for stronger earnings as credit growth cools, margins improve: Jefferies",
+      "url": "https://www.tradingview.com/news/cnbctv:d56fbbfb0094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:35:26+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:49:14.193088+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -53003,6 +53213,25 @@
       "extra": {}
     },
     {
+      "id": "msn:332d3705968cf2e11f4bb25a0e86811cb4b07cfa",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07f28ae5844e52960c3d06a5deeadb&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:49:16.036879+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261125006728_20261125006729:0",
       "title": "Meridian Energy Ltd.: CEO Mike Roan Named a Director of Datagrid",
       "url": "https://www.tradingview.com/news/DJN_DN20261125006728_20261125006729:0-meridian-energy-ltd-ceo-mike-roan-named-a-director-of-datagrid/",
@@ -69963,6 +70192,25 @@
       "extra": {}
     },
     {
+      "id": "msn:b1974dc220b4fecb45df1bb170248b746a35a9cc",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07f28ae5844e52960c3d06a5deeadb&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:49:16.036879+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -74264,6 +74512,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T16:46:14.272668+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:4ede0fc6fcc94b494fea2e0698ecd71b972d028e",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07f28ae5844e52960c3d06a5deeadb&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:49:16.036879+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -78641,6 +78908,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T16:46:14.272668+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:73b15c9d40d8ff5a9857ae629d9acddf6b50e9df",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07f28ae5844e52960c3d06a5deeadb&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:49:16.036879+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
