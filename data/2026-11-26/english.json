@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T12:40:11.401179+08:00",
-  "count": 2296,
+  "generated_at": "2026-11-26T12:43:16.431221+08:00",
+  "count": 2329,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 4,
       "error": ""
     },
     {
@@ -33,11 +33,690 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 49,
+      "count": 50,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261125008972:0",
+      "title": "HIL Industries Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008972:0-hil-industries-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:42:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:HIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4770AR:0",
+      "title": "India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4770AR:0-india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:40:26+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008961_20261125008961:0",
+      "title": "AMMB Holdings 2Q EPS MYR0.1634",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008961_20261125008961:0-ammb-holdings-2q-eps-myr0-1634/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:40:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:AMBANK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008961_20261125008963:0",
+      "title": "AMMB Holdings 2Q Net MYR540.1M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008961_20261125008963:0-ammb-holdings-2q-net-myr540-1m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:40:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:AMBANK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008961_20261125008962:0",
+      "title": "AMMB Holdings 2Q Rev MYR1.29B",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008961_20261125008962:0-ammb-holdings-2q-rev-myr1-29b/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:40:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:AMBANK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008961:0",
+      "title": "AMMB Holdings Malaysia 2nd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008961:0-ammb-holdings-malaysia-2nd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:40:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:AMBANK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008958_20261125008965:0",
+      "title": "KK Mart Retail Expects to Finalize IPO Price by Dec. 4",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008958_20261125008965:0-kk-mart-retail-expects-to-finalize-ipo-price-by-dec-4/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:40:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008958_20261125008960:0",
+      "title": "KK Mart Retail Sets IPO Price Range of MYR0.51-MYR0.55 a Share",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008958_20261125008960:0-kk-mart-retail-sets-ipo-price-range-of-myr0-51-myr0-55-a-share/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:39:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008958_20261125008959:0",
+      "title": "KK Mart Retail Plans to Offer Up to 840.0M Shares in IPO",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008958_20261125008959:0-kk-mart-retail-plans-to-offer-up-to-840-0m-shares-in-ipo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:38:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762KQ:0",
+      "title": "Tata Trust To Move Bombay High Court Against Chandra's Reappointment As Chair Of Tata Sons - Source",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762KQ:0-tata-trust-to-move-bombay-high-court-against-chandra-s-reappointment-as-chair-of-tata-sons-source/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:37:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TATACHEM",
+          "NSE:TATACOMM",
+          "NSE:TCS",
+          "NSE:TMCV",
+          "NSE:TMPV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008958_20261125008958:0",
+      "title": "KK Mart Retail Plans to Raise Up to MYR462.0M From Malaysia IPO",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008958_20261125008958:0-kk-mart-retail-plans-to-raise-up-to-myr462-0m-from-malaysia-ipo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:37:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:0278d2b0b094b:0",
+      "title": "Bitcoin Reclaims $60,000: Michaël Van De Poppe Eyes ‘Great First Quarter Of 2027’, While Cathie Wood Trims Crypto Exposure",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-reclaims-60-000-michael-van-de-poppe-eyes-great-first-quarter-of-2027-while-cathie-wood-trims-crypto-exposure/cNbxBZpR9Za",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:36:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008949_20261125008951:0",
+      "title": "Hong Leong Financial Grp 1Q EPS MYR0.7080",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008949_20261125008951:0-hong-leong-financial-grp-1q-eps-myr0-7080/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:36:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:HLFG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008949_20261125008949:0",
+      "title": "Hong Leong Financial Grp 1Q Net MYR802.7M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008949_20261125008949:0-hong-leong-financial-grp-1q-net-myr802-7m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:36:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:HLFG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008949_20261125008950:0",
+      "title": "Hong Leong Financial Grp 1Q Rev MYR1.73B",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008949_20261125008950:0-hong-leong-financial-grp-1q-rev-myr1-73b/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:36:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:HLFG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008949:0",
+      "title": "Hong Leong Financial Grp Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008949:0-hong-leong-financial-grp-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:36:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:HLFG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:3f37b2ac6094b:0",
+      "title": "Nifty 500: Siemens Energy India jumps 7% as profit surges 82%; LG Electronics falls on block deal",
+      "url": "https://www.tradingview.com/news/cnbctv:3f37b2ac6094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:35:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:CNX500"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4770AC:0",
+      "title": "Indian shares pause after recent rally; US tariffs in focus",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4770AC:0-indian-shares-pause-after-recent-rally-us-tariffs-in-focus/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:34:17+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:NIFTY",
+          "BSE:SENSEX",
+          "NSE:CNXSMALLCAP",
+          "NSE:CNXMIDCAP",
+          "NSE:CNXIT",
+          "NSE:WIPRO",
+          "LSE:BP.",
+          "NSE:CNXFMCG",
+          "NSE:ENRIN",
+          "NSE:AVALON",
+          "BSE:NSE",
+          "NSE:BSE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008938_20261125008938:0",
+      "title": "Hong Leong Bank 1Q EPS MYR0.5593",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008938_20261125008938:0-hong-leong-bank-1q-eps-myr0-5593/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:34:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:HLBANK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008938_20261125008940:0",
+      "title": "Hong Leong Bank 1Q Net MYR1.15B",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008938_20261125008940:0-hong-leong-bank-1q-net-myr1-15b/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:34:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:HLBANK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008938_20261125008939:0",
+      "title": "Hong Leong Bank 1Q Rev MYR1.71B",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008938_20261125008939:0-hong-leong-bank-1q-rev-myr1-71b/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:34:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:HLBANK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008941:0",
+      "title": "Hong Leong Bank Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008941:0-hong-leong-bank-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:34:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:HLBANK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008933_20261125008934:0",
+      "title": "Hong Leong Capital 1Q EPS MYR0.0575",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008933_20261125008934:0-hong-leong-capital-1q-eps-myr0-0575/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:34:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:HLCAP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008933_20261125008935:0",
+      "title": "Hong Leong Capital 1Q Net MYR13.5M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008933_20261125008935:0-hong-leong-capital-1q-net-myr13-5m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:34:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:HLCAP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008933_20261125008933:0",
+      "title": "Hong Leong Capital 1Q Rev MYR81.2M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008933_20261125008933:0-hong-leong-capital-1q-rev-myr81-2m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:34:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:HLCAP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008933:0",
+      "title": "Hong Leong Capital Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008933:0-hong-leong-capital-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:34:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:HLCAP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008937:0",
+      "title": "OCK Group Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008937:0-ock-group-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:34:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:OCK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008942:0",
+      "title": "Rhong Khen International Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008942:0-rhong-khen-international-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:34:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:RKI"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261125008930:0",
       "title": "Subur Tiasa Holdings Malaysia 3rd-Quarter 2026 Earnings Summary Table",
@@ -83,6 +762,30 @@
         "urgency": 2,
         "symbols": [
           "MYX:TWL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:3b767ef81094b:0",
+      "title": "NSE, BSE stock ratings: HSBC initiates coverage; sees strong growth prospects for BSE, limited upside for NSE",
+      "url": "https://www.tradingview.com/news/moneycontrol:3b767ef81094b:0-nse-bse-stock-ratings-hsbc-initiates-coverage-sees-strong-growth-prospects-for-bse-limited-upside-for-nse/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:31:51+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:11.748116+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:BSE"
         ]
       }
     },
@@ -27331,6 +28034,25 @@
       "extra": {}
     },
     {
+      "id": "msn:a0e5022da82b971611a158ce5e453870a369b612",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07b8dfddf3483987043ba80a359b23&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:13.597083+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261125006728_20261125006729:0",
       "title": "Meridian Energy Ltd.: CEO Mike Roan Named a Director of Datagrid",
       "url": "https://www.tradingview.com/news/DJN_DN20261125006728_20261125006729:0-meridian-energy-ltd-ceo-mike-roan-named-a-director-of-datagrid/",
@@ -42642,6 +43364,25 @@
       "extra": {}
     },
     {
+      "id": "msn:435bd288725b607a9257439937ee9225ca86b31d",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07b8dfddf3483987043ba80a359b23&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:13.597083+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -45290,6 +46031,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T12:40:10.237903+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:5d54b60014b8a3a2fd0fc1d8fcb15e2cc729c65c",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07b8dfddf3483987043ba80a359b23&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:13.597083+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -48090,6 +48850,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T12:40:10.237903+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:77bf7de04af7811d3d3dca183b39fa2d483026fb",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07b8dfddf3483987043ba80a359b23&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:43:13.597083+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",

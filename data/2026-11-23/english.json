@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T12:40:11.203025+08:00",
-  "count": 1739,
+  "generated_at": "2026-11-26T12:43:16.192114+08:00",
+  "count": 1740,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 1,
       "error": ""
     },
     {
@@ -17977,6 +17977,25 @@
       "published_at": "2026-11-23T11:04:15+08:00",
       "published_date": "2026-11-23",
       "fetched_at": "2026-11-26T12:40:10.237903+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:f7ab4fd776cad2384ea8bce82bc6ea412214a45c",
+      "title": "Is the stock market open on Thanksgiving, Black Friday?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07b8dfddf3483987043ba80a359b23&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fmoney%2fis-the-stock-market-open-on-thanksgiving-black-friday%2far-AA2i27ez&c=5354299360325556885&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Thanksgiving falls on Thursday, Nov. 26, this year. Here's what to know about whether the stock market will be open or closed.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T11:04:15+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-26T12:43:13.597083+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
