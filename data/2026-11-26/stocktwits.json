@@ -3,8 +3,8 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T23:01:30.312962+08:00",
-  "count": 527,
+  "generated_at": "2026-11-26T23:04:13.927122+08:00",
+  "count": 529,
   "sources": [
     {
       "name": "stocktwits",
@@ -14,6 +14,55 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670247796",
+      "title": "$AAPL go",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "DarcySizer",
+      "summary": "$AAPL go",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:03:34+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:04:10.557793+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "AAPL"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670247791",
+      "title": "$TSLA $SPCX",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "beestMod516",
+      "summary": "$TSLA $SPCX",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:03:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:04:10.557793+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "TSLA",
+          "SPCX"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670247741",
       "title": "$TSLA $TSLAX.X 3:21 AM Nov 26, 2026 https://x.com/elonmusk/status/2125867631546712066?a=2J1QSs4k9O1xI5pzVTY&s=20",
