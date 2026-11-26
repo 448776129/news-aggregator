@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T17:04:20.152633+08:00",
-  "count": 1633,
+  "generated_at": "2026-11-26T17:07:13.124906+08:00",
+  "count": 1639,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 49,
+      "count": 48,
       "error": ""
     },
     {
@@ -26,6 +26,25 @@
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaaxc1435749.shtml",
+      "title": "重大突破！马斯克Neuralink获批 开展美国首个针对渐冻症患者的LINK脑机接口关键性临床试验",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaaxc1435749.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "埃隆·马斯克旗下的Neuralink宣布，已获得美国食品药品监督管理局（FDA）许可，启动其可植入式LINK脑机接口的关键性临床试验。 这项研究是该公司研发脑植入装置进程中更进阶...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:05:25+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:07:10.483491+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaaxc1433495.shtml",
       "title": "欧元区10月M3货币供应量同比增长3.6%，高于预期",
@@ -44,6 +63,111 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261126170157136800",
+      "title": "土耳其国防部：交战各方必须遵守国际法，不得袭击民用船只。",
+      "url": "https://www.jin10.com/#/flash/20261126170157136800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "土耳其国防部：交战各方必须遵守国际法，不得袭击民用船只。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:01:57+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:07:09.520808+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126170129465800",
+      "title": "Euro zone M3 money supply growth averaged 3.6% y/y in the three months to Octobe",
+      "url": "https://www.jin10.com/#/flash/20261126170129465800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Euro zone M3 money supply growth averaged 3.6% y/y in the three months to October, up from 3.5% previously.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:01:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:07:09.520808+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126170126935800",
+      "title": "欧元区10月三个月货币供应M3年率 3.6%，前值3.5%。",
+      "url": "https://www.jin10.com/#/flash/20261126170126935800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "欧元区10月三个月货币供应M3年率 3.6%，前值3.5%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:01:26+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:07:09.520808+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126170124932800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261126170124932800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:01:24+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:07:09.520808+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261126170047074800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261126170047074800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:00:47+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:07:09.520808+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
     },
     {
       "id": "jin10:20261126170043591800",
