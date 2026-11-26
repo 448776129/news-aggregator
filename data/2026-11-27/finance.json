@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T00:58:18.415617+08:00",
-  "count": 28,
+  "generated_at": "2026-11-27T01:04:16.126284+08:00",
+  "count": 33,
   "sources": [
     {
       "name": "cls",
@@ -15,17 +15,99 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 26,
+      "count": 30,
       "error": ""
     },
     {
       "name": "sina",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaayau8008567.shtml",
+      "title": "欧洲债市：股市上涨之际英国和德国国债下跌 英债表现落后",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaayau8008567.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "随着欧洲股市上涨，英国和德国国债下跌，布伦特原油升至接近每桶96美元。 英国国债表现落后，两年期国债收益率上涨7个基点至4.85%，30年期收益率持稳于5.62%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:03:59+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:04:11.480314+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261127010205665800",
+      "title": "【面临竞争加剧与需求疲软压力，Stellantis计划未来数周进一步暂停欧洲工厂生产】金十数据11月27日讯，随着竞争日益激烈、成本高企以及部分车型需求疲软，汽",
+      "url": "https://www.jin10.com/#/flash/20261127010205665800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【面临竞争加剧与需求疲软压力，Stellantis计划未来数周进一步暂停欧洲工厂生产】金十数据11月27日讯，随着竞争日益激烈、成本高企以及部分车型需求疲软，汽车制造商Stellantis(STLA.N)正计划在未来数周进一步暂停其欧洲工厂的生产。该公司一名媒体代表周四表示，Stellantis将于12月暂停法国米卢斯（Mulhouse）工厂生产数日，并于12月23日至1月11日期间再次停产。该工厂负责组装标致308紧凑型家用轿车等车型。与此同时，Stellantis表示，其位于法国、负责生产雪铁龙C5Aircross的雷恩（Rennes）工厂，将从12月18日晚间起暂停生产，直至1月5日，停产时间可能进一步延长。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:02:05+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:04:11.334989+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127010043362800",
+      "title": "Bolivian transport drivers announced a nationwide strike starting next Monday.",
+      "url": "https://www.jin10.com/#/flash/20261127010043362800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Bolivian transport drivers announced a nationwide strike starting next Monday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:00:43+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:04:11.334989+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127010041761800",
+      "title": "玻利维亚运输业司机宣布将于下周一开始举行全国性罢工。",
+      "url": "https://www.jin10.com/#/flash/20261127010041761800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "玻利维亚运输业司机宣布将于下周一开始举行全国性罢工。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:00:41+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:04:11.334989+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaayat1227411.shtml",
       "title": "报道：伊朗否认袭击了科威特一处关键设施",
@@ -44,6 +126,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127005437803800",
+      "title": "Zelensky appoints new commander of Ukraine’s Support Forces",
+      "url": "https://www.jin10.com/#/flash/20261127005437803800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Ukraine’s President Volodymyr Zelensky dismissed Dmytro Hereha as commander of the Armed Forces’ Support Forces and appointed Dmytro Tkachenko as his successor, the presidential website said on Nov. 26.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:54:37+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:04:11.334989+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261127005434912800",
