@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T23:55:20.378533+08:00",
-  "count": 6790,
+  "generated_at": "2026-11-26T23:58:18.039045+08:00",
+  "count": 6808,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 50,
+      "count": 41,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 10,
+      "count": 9,
       "error": ""
     },
     {
@@ -38,6 +38,54 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:740261:0",
+      "title": "Sierra Madre Gold and Silver Q3 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:740261:0-sierra-madre-gold-and-silver-q3-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:57:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:58:14.080807+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:SM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126003227_20261126003231:0",
+      "title": "Schneider Electric: Expansion to Support Growth of AI, High-Density Data Centers",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126003227_20261126003231:0-schneider-electric-expansion-to-support-growth-of-ai-high-density-data-centers/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:55:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:58:14.080807+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:SU"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770JR:0",
       "title": "Brazil not ready yet for household debt-service cap, central bank official says",
@@ -58,6 +106,30 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126003227_20261126003230:0",
+      "title": "Schneider Electric: Doubling Cooling Distribution Unit Manufacturing Capacity There",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126003227_20261126003230:0-schneider-electric-doubling-cooling-distribution-unit-manufacturing-capacity-there/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:54:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:58:14.080807+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:SU"
+        ]
       }
     },
     {
@@ -227,6 +299,73 @@
       }
     },
     {
+      "id": "tradingview:tradingview:1e04b54fd4007:0",
+      "title": "Schneider Electric (SU) to Double CDU Capacity From January 2027",
+      "url": "https://www.tradingview.com/news/tradingview:1e04b54fd4007:0-schneider-electric-su-to-double-cdu-capacity-from-january-2027/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:58:14.080807+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:SU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:08da9e26d094b:0",
+      "title": "Schneider Electric industrializes European liquid cooling manufacturing capacity to underpin AI & data center demand",
+      "url": "https://www.globenewswire.com/news-release/2026/11/26/3410926/0/en/schneider-electric-industrializes-european-liquid-cooling-manufacturing-capacity-to-underpin-ai-data-center-demand.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:58:14.080807+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:SU"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/26/worried-about-a-market-crash-2-gold-mining-stocks-to-buy-before-2026-ends/?.tsrc=rss",
+      "title": "Worried About a Market Crash? 2 Gold Mining Stocks to Buy Before 2026 Ends.",
+      "url": "https://www.fool.com/investing/2026/11/26/worried-about-a-market-crash-2-gold-mining-stocks-to-buy-before-2026-ends/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Agnico Eagle Mines and Franco-Nevada are two of the best stocks to buy in advance of a market crash.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:50:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:58:13.967097+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:modular_finance:3ff17fb4019f9:0",
       "title": "Nivika invites to webcast",
       "url": "https://www.tradingview.com/news/modular_finance:3ff17fb4019f9:0-nivika-invites-to-webcast/",
@@ -285,6 +424,30 @@
           "COMEX:GC1!",
           "FX:USDJPY",
           "TVC:NI225"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:u_today:47e5194b9094b:0",
+      "title": "Stellar (XLM) Beats XRP in Daily Tokenized Fund Growth",
+      "url": "https://u.today/stellar-xlm-beats-xrp-in-daily-tokenized-fund-growth",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "U.Today",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:49:52+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:58:14.080807+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:XLMUSD"
         ]
       }
     },
@@ -541,6 +704,25 @@
           "OSL:PLT"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/26/rocket-lab-stock-just-fell-to-its-lowest-price-in-about-a-year-is-it-a-buy-now/?.tsrc=rss",
+      "title": "Rocket Lab Stock Just Fell to Its Lowest Price in About a Year. Is It a Buy Now?",
+      "url": "https://www.fool.com/investing/2026/11/26/rocket-lab-stock-just-fell-to-its-lowest-price-in-about-a-year-is-it-a-buy-now/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Shares are back where they were a year ago, but the business behind them is much bigger.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:43:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:58:13.967097+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:urn:summary_document_slides:quartr.com:4849042:0",
@@ -56918,6 +57100,25 @@
       "extra": {}
     },
     {
+      "id": "msn:70e544cd77b5f9a2ec9288678d3cb865ee1f21bc",
+      "title": "Kokuyo (TSE:7984) Stock Still Looks Undervalued On Its Earnings Story",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b085716f7d04ec99b8e8288df8da978&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fkokuyo-tse-7984-stock-still-151441822.html&c=2309135140972396093&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Kokuyo has rewarded patient shareholders over the long haul, yet the recent share price around ¥886.4 raises a sharper question about how much of its earnings story is already reflected in that tag.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:14:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:58:15.844519+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N477070:0",
       "title": "Canada's Arrow Exploration Q3 natural gas and crude oil revenue rises on higher output and prices",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N477070:0-canada-s-arrow-exploration-q3-natural-gas-and-crude-oil-revenue-rises-on-higher-output-and-prices/",
@@ -62016,6 +62217,25 @@
           "EURONEXT:ONWD"
         ]
       }
+    },
+    {
+      "id": "msn:31c6f36bfa9d138bd6e17692df0e07be3f728703",
+      "title": "Credo Technology Ahead of Q2 Earnings: How to Approach the Stock Now?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b085716f7d04ec99b8e8288df8da978&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fcredo-technology-ahead-q2-earnings-143000855.html&c=10177656686386298383&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "CRDO heads into Q2 earnings with strong AEC demand and growing optical opportunities, but premium valuation and execution risks warrant caution.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:58:15.844519+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/nvidia-stops-shipping-ai-servers-062916311.html?.tsrc=rss",
@@ -102237,6 +102457,25 @@
       "extra": {}
     },
     {
+      "id": "msn:6912dd1741c0368a823ac5d990cd0e2fe6127d4c",
+      "title": "Is the stock market open today? Here are the trading hours for Thanksgiving.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b085716f6da45af9cae387c048b5b89&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-thanksgiving%2far-AA2ifPMA&c=15504855894997742158&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "It’s time to give thanks. What traders should know about the stock market on Thanksgiving.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:58:15.844519+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:seekingalpha:2e893931d094b:0",
       "title": "SA Asks: What should Nvidia investors be watching for in the next few weeks? (Update)",
       "url": "https://seekingalpha.com/news/4676388-sa-asks-what-should-nvidia-investors-be-watching-for-in-the-next-few-weeks?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
@@ -107645,6 +107884,25 @@
       "extra": {}
     },
     {
+      "id": "msn:cd666985fdfd2ad2fa18d5576a01b20730966c35",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b085716f7d04ec99b8e8288df8da978&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:58:15.844519+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
       "title": "What Sent Qualcomm Stock Higher?",
       "url": "https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
@@ -108495,6 +108753,25 @@
       "published_at": "2026-11-26T04:20:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:49:15.291327+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0242fe2eaa22d4026d1e454de6341b7a69b034f1",
+      "title": "Universal Insurance: An Upcoming Category 5 Earnings Inflection",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b085716f7d04ec99b8e8288df8da978&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972108-universal-insurance-an-upcoming-category-5-earnings-inflection&c=9176262558594921769&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Universal's earnings will roughly double in the coming years due to the runoff of legacy Florida claims litigation and support from lower reinsurance costs.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:58:15.844519+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -113333,6 +113610,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:55:17.535534+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b2c4a3e8c7038d82595236d45512dfd8fec42a21",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b085716f6da45af9cae387c048b5b89&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:58:15.844519+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -133169,6 +133465,25 @@
       "extra": {}
     },
     {
+      "id": "msn:d331fd37d1bffb85d1c4b4a00f4a74efe2283a42",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b085716f6da45af9cae387c048b5b89&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:58:15.844519+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -140269,6 +140584,25 @@
       "extra": {}
     },
     {
+      "id": "msn:518f448d06a975868716f392835cd14e1410832e",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b085716f6da45af9cae387c048b5b89&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:58:15.844519+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760YX:0",
       "title": "Equinor cuts 2026 production growth guidance",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760YX:0-equinor-cuts-2026-production-growth-guidance/",
@@ -141087,6 +141421,30 @@
         "symbols": [
           "NASDAQ:GDYN"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8813329",
+      "title": "Scenes from Iowa as Army destroys unstable munitions stockpile - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNnBHbDRqaVRzYnRZbnA0bU9uYVNKSUh5emhabjU0R3R3VExXNUVVUDBCWTJRNVZXSnFWY2NERDRkbE9jOThKN3B4a1p2M0xJRjliLXp4amZRMURPLXEwYXJNUGVwYV9haFhOc1RVakdKSTdQMUpOeEZqeXhpN2o2bVdlZU1BU0lOMW9rMDBweWc3SXZfQWpXR1A2U1BENERL?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Scenes from Iowa as Army destroys unstable munitions stockpile Reuters",
+      "content": "Scenes from Iowa as Army destroys unstable munitions stockpile Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:37:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:58:14.353262+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -147376,6 +147734,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:55:17.535534+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d46a038529205fab67c13613a53564ecdc264e1e",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b085716f6da45af9cae387c048b5b89&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:58:15.844519+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
