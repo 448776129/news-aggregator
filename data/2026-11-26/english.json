@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T08:16:16.056079+08:00",
-  "count": 1582,
+  "generated_at": "2026-11-26T08:19:15.305975+08:00",
+  "count": 1583,
   "sources": [
     {
       "name": "alpaca",
@@ -111,6 +111,25 @@
           "TVC:DJI"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-lower-but-dow-rebounds-as-traders-rotate-out-of-ai-nvda-spcx-panw-in-focus/cNbx21AR9mC?.tsrc=rss",
+      "title": "S&P 500, Nasdaq End Lower But Dow Rebounds As Traders Rotate Out Of AI — NVDA, SPCX, PANW In Focus",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-lower-but-dow-rebounds-as-traders-rotate-out-of-ai-nvda-spcx-panw-in-focus/cNbx21AR9mC?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The Nasdaq 100 briefly touched bear market territory on Wednesday before paring some losses.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:09:50+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:19:10.277395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762CV:0",
