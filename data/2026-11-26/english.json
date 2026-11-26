@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T16:49:18.422806+08:00",
-  "count": 3685,
+  "generated_at": "2026-11-26T16:52:20.149419+08:00",
+  "count": 3702,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 5,
       "error": ""
     },
     {
@@ -38,6 +38,102 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:the_block:a72d57d42094b:0",
+      "title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
+      "url": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814?utm_source=tradingview&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "The Block",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:50:46+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:52:15.906462+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:5091e79efba8d:0",
+      "title": "Minesto announces advancement of the Dragon Technology, paving the way for new business opportunities in a consolidating tidal energy sector",
+      "url": "https://www.tradingview.com/news/prnewswire:5091e79efba8d:0-minesto-announces-advancement-of-the-dragon-technology-paving-the-way-for-new-business-opportunities-in-a-consolidating-tidal-energy-sector/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:50:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:52:15.906462+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:MINEST"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N477098:0",
+      "title": "China-Hongkong Photo Products' HY revenue, profit fall",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N477098:0-china-hongkong-photo-products-hy-revenue-profit-fall/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:49:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:52:15.906462+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1123"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8049Ea:0",
+      "title": "REG - Greatland Resources - Grant of FY27 Performance Rights",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8049Ea:0-reg-greatland-resources-grant-of-fy27-performance-rights/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:49:08+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:52:15.906462+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:GGP"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8050Ea:0",
       "title": "REG - Ashtead Tech Hldgs JPMorgan Chase & Co - Holding(s) in Company",
@@ -64,6 +160,30 @@
       }
     },
     {
+      "id": "tradingview:cnbctv:9af9ea8f3094b:0",
+      "title": "LCC Projects shares jump 6% as JV bags ₹728 crore Rajasthan irrigation project",
+      "url": "https://www.tradingview.com/news/cnbctv:9af9ea8f3094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:47:58+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:52:15.906462+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:LCCPROJECT"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8048Ea:0",
       "title": "REG - Greatland Resources - Issue of Equity",
       "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8048Ea:0-reg-greatland-resources-issue-of-equity/",
@@ -84,6 +204,30 @@
         "urgency": 2,
         "symbols": [
           "ASX:GGP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:99Bitcoins:550371c30094b:0",
+      "title": "Ethereum Price Reclaims $1,700: Network Activity Defies 39% Crash, $80M Shorts Liquidated",
+      "url": "https://99bitcoins.com/news/altcoins/ethereum-price-39-percent-crash-vitalik-eth-selloff/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "99Bitcoins",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:47:31+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:52:15.906462+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:ETHUSD"
         ]
       }
     },
@@ -392,6 +536,25 @@
       }
     },
     {
+      "id": "yahoo:https://stocktwits.com/news-articles/markets/equity/nvda-jensen-huang-return-stock-upgrades-crwd-li-amba-dkng/cNbxi4aR9ZF?.tsrc=rss",
+      "title": "Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AMBA Face Pressure",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvda-jensen-huang-return-stock-upgrades-crwd-li-amba-dkng/cNbxi4aR9ZF?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Wall Street analysts upgraded Nvidia, CrowdStrike and Li Auto on leadership stability, AI growth and strong earnings.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:43:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:52:15.941890+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:urn:summary_document_report:quartr.com:3697627:0",
       "title": "Perfect Medical Health Management: Flat revenue masked a 52.9% earnings jump as cost restructuring lifted margins",
       "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3697627:0-perfect-medical-health-management-flat-revenue-masked-a-52-9-earnings-jump-as-cost-restructuring-lifted-margins/",
@@ -482,6 +645,52 @@
         "urgency": 2,
         "symbols": [
           "BSE:MIZVEN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:243793339094b:0",
+      "title": "IT stocks remain top contrarian bet despite AI concerns; Quantum Advisors stays bullish",
+      "url": "https://www.tradingview.com/news/cnbctv:243793339094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:40:59+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:52:15.906462+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:c214ecac6094b:0",
+      "title": "Gold demand remains strong despite price correction, says World Gold Council",
+      "url": "https://www.tradingview.com/news/cnbctv:c214ecac6094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:40:25+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:52:15.906462+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD"
         ]
       }
     },
@@ -586,6 +795,30 @@
       }
     },
     {
+      "id": "tradingview:cnbctv:0306307b1094b:0",
+      "title": "GAIL share price: UBS sees positive impact from proposed gas pipeline tariff reforms",
+      "url": "https://www.tradingview.com/news/cnbctv:0306307b1094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:38:52+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:52:15.906462+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:GAIL"
+        ]
+      }
+    },
+    {
       "id": "tradingview:DJN_DN20261126001297:0",
       "title": "Gold Rises But U.S. Inflation Data Fuels Rate-Hike Expectations — Market Talk",
       "url": "https://www.tradingview.com/news/DJN_DN20261126001297:0-gold-rises-but-u-s-inflation-data-fuels-rate-hike-expectations-market-talk/",
@@ -631,6 +864,28 @@
         "symbols": [
           "NSE:UNIMECH"
         ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:4e8711799094b:0",
+      "title": "India's earnings to grow at high-teens pace for 3 years, new-age sectors to lead: Trust Group",
+      "url": "https://www.tradingview.com/news/cnbctv:4e8711799094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:37:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:52:15.906462+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -949,6 +1204,30 @@
       "published_at": "2026-11-26T16:32:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T16:34:11.224007+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:HFD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000734:0",
+      "title": "Halfords Shares Climb After Company Nudges Up Guidance",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000734:0-halfords-shares-climb-after-company-nudges-up-guidance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:32:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:52:15.906462+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -50540,6 +50819,25 @@
       "extra": {}
     },
     {
+      "id": "msn:ecbc1fe1535f63cf59bf226490ea3e3b11769eb8",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07f3404fe04759baf4bef0f7e56aff&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:52:17.590523+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
       "title": "What Sent Qualcomm Stock Higher?",
       "url": "https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
@@ -53226,6 +53524,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T16:49:16.036879+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:9c783ebeec8f1f891ac17935b78403a08452d90b",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07f33f4e454a05befcfa50b244fec0&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:52:17.590523+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -70211,6 +70528,25 @@
       "extra": {}
     },
     {
+      "id": "msn:c0e670a8d2727a2a6c740fe2e62cdff8b8a1b5e0",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07f33f4e454a05befcfa50b244fec0&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:52:17.590523+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -74531,6 +74867,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T16:49:16.036879+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:c93787200c6d1aa4e764775f25d5d8b1eb2f1587",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07f33f4e454a05befcfa50b244fec0&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:52:17.590523+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -78927,6 +79282,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T16:49:16.036879+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:fcf5d899bef1408f55e41dc35d3151b8491b81b5",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07f33f4e454a05befcfa50b244fec0&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:52:17.590523+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
