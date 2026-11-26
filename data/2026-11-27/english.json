@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T00:16:19.591033+08:00",
-  "count": 27,
+  "generated_at": "2026-11-27T00:19:25.589241+08:00",
+  "count": 44,
   "sources": [
     {
       "name": "alpaca",
@@ -27,17 +27,350 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 16,
+      "count": 42,
       "error": ""
     },
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261126003300:0",
+      "title": "Fed Could Raise Rates Sharply Even With an AI Downturn — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126003300:0-fed-could-raise-rates-sharply-even-with-an-ai-downturn-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:18:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:19:11.921258+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770RJ:0",
+      "title": "Tauron Appoints Karolina Mucha-Kus As Vice President For Strategy And Regulation",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770RJ:0-tauron-appoints-karolina-mucha-kus-as-vice-president-for-strategy-and-regulation/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:17:29+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:19:11.921258+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:TPE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:456e7ddf557f3:0",
+      "title": "NextCell Pharma (Q3 review): Funding takes centre stage",
+      "url": "https://www.tradingview.com/news/modular_finance:456e7ddf557f3:0-nextcell-pharma-q3-review-funding-takes-centre-stage/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:17:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:19:11.921258+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:NXTCL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770WD:0",
+      "title": "VRG Q3 Net Profit 14.5 Million Zlotys",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770WD:0-vrg-q3-net-profit-14-5-million-zlotys/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:16:40+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:19:11.921258+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:VRG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770QI:0",
+      "title": "Southern Cable Group Logs Q3 Profit Attributable Of 45.2 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770QI:0-southern-cable-group-logs-q3-profit-attributable-of-45-2-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:16:14+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:19:11.921258+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SCGBHD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47712X:0",
+      "title": "Mirbud Q3 Net Profit At 63.6 Million Zlotys",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47712X:0-mirbud-q3-net-profit-at-63-6-million-zlotys/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:16:10+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:19:11.921258+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:MRB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126003296_20261126003299:0",
+      "title": "BAWAG Group: High Court Declined to Sanction Scheme of Arrangement to Implement Acquisition",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126003296_20261126003299:0-bawag-group-high-court-declined-to-sanction-scheme-of-arrangement-to-implement-acquisition/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:16:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:19:11.921258+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:PTSB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_APNBKAR5K:0",
+      "title": "POLONIA Rate falls 0.06 pp.",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_APNBKAR5K:0-polonia-rate-falls-0-06-pp/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:15:53+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:19:11.921258+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770WE:0",
+      "title": "Selena Enters Conditional Deal To Buy 70% Stake In Tesla Panels Doo",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770WE:0-selena-enters-conditional-deal-to-buy-70-stake-in-tesla-panels-doo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:15:42+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:19:11.921258+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:SEL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:u_today:ba9f7e864094b:0",
+      "title": "Almost $5 Billion in XRP Leaves Exchanges in 30 Days as XRP Rebounds to $0.95",
+      "url": "https://u.today/almost-5-billion-in-xrp-leaves-exchanges-in-30-days-as-xrp-rebounds-to-095",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "U.Today",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:15:15+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:19:11.921258+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:XRPUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47712Y:0",
+      "title": "Enter Air Q3 Net Profit At 127.5 Million Zlotys",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47712Y:0-enter-air-q3-net-profit-at-127-5-million-zlotys/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:15:15+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:19:11.921258+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:ENT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126003296_20261126003296:0",
+      "title": "BAWAG Group Weighs Irish Decision on Permanent TSB Group Holdings Deal",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126003296_20261126003296:0-bawag-group-weighs-irish-decision-on-permanent-tsb-group-holdings-deal/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:15:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:19:11.921258+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:PTSB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770NR:0",
+      "title": "Xin Hwa Holdings Logs Q2 FY27 Loss Attributable Of 3.3 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770NR:0-xin-hwa-holdings-logs-q2-fy27-loss-attributable-of-3-3-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:14:38+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:19:11.921258+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:XINHWA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8777Ea:0",
+      "title": "REG - BAWAG Group AG Permanent TSB Group - HIGH COURT DECLINES SCHEME OF ARRANGEMENT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8777Ea:0-reg-bawag-group-ag-permanent-tsb-group-high-court-declines-scheme-of-arrangement/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:14:19+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:19:11.921258+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "VIE:BG",
+          "EURONEXT:PTSB"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_TUC51W0TD:0",
       "title": "Serb Pharmaceuticals And Hansa Biopharma Announce Submission To EMA For Conversion To Standard Marketing Authorization Of Idefirix In EU",
@@ -82,6 +415,40 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:661af410d094b:0",
+      "title": "Bullish and bearish views rise, and the AAII survey shows",
+      "url": "https://seekingalpha.com/news/4676815-bullish-and-bearish-views-rise-aaii-survey-shows?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:12:31+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:19:11.921258+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:FXAIX",
+          "NASDAQ:VFIAX",
+          "NASDAQ:VFFSX",
+          "NASDAQ:SWPPX",
+          "AMEX:SPY",
+          "AMEX:VOO",
+          "AMEX:IVV",
+          "AMEX:RSP",
+          "AMEX:SSO",
+          "AMEX:SH",
+          "AMEX:SPXU"
+        ]
       }
     },
     {
@@ -360,6 +727,49 @@
           "LSE:GAMA"
         ]
       }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47712W:0",
+      "title": "Chip Sellers Have Told Neoclouds They Won’t Supply Nvidia Chips If Any Of The Computing Capacity Will Be Rented To Chinese Companies - CNBC",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47712W:0-chip-sellers-have-told-neoclouds-they-won-t-supply-nvidia-chips-if-any-of-the-computing-capacity-will-be-rented-to-chinese-companies-cnbc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:05:03+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:19:11.921258+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/26/sp-500-sell-off-heres-why-im-not-panicking-and-what-im-doing-instead/?.tsrc=rss",
+      "title": "S&P 500 Sell-Off: Here's Why I'm Not Panicking -- and What I'm Doing Instead",
+      "url": "https://www.fool.com/investing/2026/11/26/sp-500-sell-off-heres-why-im-not-panicking-and-what-im-doing-instead/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "History shows why it's important to stay invested.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:05:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:19:11.776429+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770WA:0",
