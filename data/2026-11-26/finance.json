@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T08:13:18.526903+08:00",
-  "count": 477,
+  "generated_at": "2026-11-26T08:16:16.091182+08:00",
+  "count": 488,
   "sources": [
     {
       "name": "cls",
@@ -26,6 +26,88 @@
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzftp1481285.shtml",
+      "title": "摩根大通称AI企业明年料发债4,500亿美元 后年资本支出恐迎平台期",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzftp1481285.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "摩根大通分析师表示，尽管蓬勃发展的AI产业往后增长可能趋于平缓，企业明年仍将通过公开的投资级债券市场筹集4，500亿美元，为AI相关资本支出提供资金。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:14:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:16:11.653563+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261126081212015800",
+      "title": "SoftBank Group shares rose 5.7%.",
+      "url": "https://www.jin10.com/#/flash/20261126081212015800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "SoftBank Group shares rose 5.7%.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:12:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:16:11.676686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126081210867800",
+      "title": "SK海力士涨3%。",
+      "url": "https://www.jin10.com/#/flash/20261126081210867800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "SK海力士涨3%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:12:10+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:16:11.676686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126081210345800",
+      "title": "软银集团股价上涨5.7%。",
+      "url": "https://www.jin10.com/#/flash/20261126081210345800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "软银集团股价上涨5.7%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:12:10+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:16:11.676686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-26/doc-inizzftp1478785.shtml",
       "title": "倍搏集团公布中期业绩 拥有人应占溢利229万元同比扭亏为盈",
@@ -84,6 +166,27 @@
       "extra": {}
     },
     {
+      "id": "jin10:20261126080932648800",
+      "title": "新闻交易员：市场以为在抄底，其实还没看懂这轮下跌",
+      "url": "https://www.jin10.com/#/flash/20261126080932648800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "科技股巨震不是信仰崩塌，而是资本成本开始追问回报率，股债定价可能同时出错。增长上修与消费停滞同时出现，市场只盯下一次加息，可能漏掉政策过度的尾部风险。点击查看",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:09:32+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:16:11.676686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-26/doc-inizzftm9084049.shtml",
       "title": "途虎-W于11月25日斥资约343.42万港元回购32.65万股",
       "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-26/doc-inizzftm9084049.shtml",
@@ -139,6 +242,90 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261126080722247800",
+      "title": "Kioxia shares rose 6% in early trading.",
+      "url": "https://www.jin10.com/#/flash/20261126080722247800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Kioxia shares rose 6% in early trading.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:07:22+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:16:11.676686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126080720283800",
+      "title": "铠侠盘初上涨6%。",
+      "url": "https://www.jin10.com/#/flash/20261126080720283800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "铠侠盘初上涨6%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:07:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:16:11.676686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126080701999800",
+      "title": "China targets leading next-generation communications network by 2030, including 6G",
+      "url": "https://www.jin10.com/#/flash/20261126080701999800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "China’s Ministry of Industry and Information Technology, Cyberspace Administration and National Development and Reform Commission issued a plan to build a next-generation communications network by 2030, with leading performance and broad coverage. The network will be anchored by 5G-Advanced/6G, 10-gigabit optical networks and satellite internet, and will include basic, space, international and converged networks. The plan calls for global service capabilities in space networks, stronger international-network resilience and scaled deployment of converged networks, while upgrading the infrastructure to support AI development and improve intelligence, security, resilience and energy efficiency.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:07:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:16:11.676686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126080658478800",
+      "title": "【6G要来了！三部委：到2030年建成性能领先的新一代通信网】金十数据11月26日讯，工业和信息化部日前联合国家网信办、国家发展改革委印发《新一代通信网建设实施",
+      "url": "https://www.jin10.com/#/flash/20261126080658478800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "央视",
+      "summary": "【6G要来了！三部委：到2030年建成性能领先的新一代通信网】金十数据11月26日讯，工业和信息化部日前联合国家网信办、国家发展改革委印发《新一代通信网建设实施方案》。《实施方案》要求，到2030年，建成覆盖完善、性能领先的新一代通信网。基础网络发展水平持续领先，空间网络形成全球服务能力，国际网络韧性明显提升，融合网络实现规模化发展。新一代通信网是以5G-A/6G、万兆光网、卫星互联网为核心支撑，以高速泛在、天地一体、云网融合为关键特征的智能化综合性数字信息基础设施，提供感知、传输、存储、计算、智能等综合性信息服务。《实施方案》提出，要主动适应和赋能人工智能创新发展，坚持应用牵引、适度超前，系统建强基础网络、空间网络、国际网络、融合网络四张网络，全面提升全域智能、安全韧性、绿色低碳三项能力。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:06:58+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:16:11.676686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
     },
     {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-26/doc-inizzftp1473762.shtml",
@@ -236,6 +423,27 @@
       "extra": {}
     },
     {
+      "id": "jin10:20261126080346644800",
+      "title": "【期货热点追踪】棕榈油较豆油折价扩至160美元/吨，头号买家印度的采购重心正在转向何处？政策密集窗口期来临，印尼仍是核心变量，市场分析师持续关注B50政策评估！",
+      "url": "https://www.jin10.com/#/flash/20261126080346644800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【期货热点追踪】棕榈油较豆油折价扩至160美元/吨，头号买家印度的采购重心正在转向何处？政策密集窗口期来临，印尼仍是核心变量，市场分析师持续关注B50政策评估！",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:03:46+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:16:11.676686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzftp1469995.shtml",
       "title": "梅西百货感恩节游行因恶劣天气被迫推迟",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzftp1469995.shtml",
@@ -291,6 +499,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261126080108520800",
+      "title": "Japan's Nikkei Index opened up 503.30 points, or 0.88%, at 57,514.92 on Thursday",
+      "url": "https://www.jin10.com/#/flash/20261126080108520800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Japan's Nikkei Index opened up 503.30 points, or 0.88%, at 57,514.92 on Thursday, Nov. 26.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:01:08+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:16:11.676686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261126080106726800",
