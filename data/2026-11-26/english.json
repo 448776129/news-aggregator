@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T21:31:18.670970+08:00",
-  "count": 5748,
+  "generated_at": "2026-11-26T21:34:15.285941+08:00",
+  "count": 5762,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 7,
       "error": ""
     },
     {
@@ -38,6 +38,49 @@
     }
   ],
   "items": [
+    {
+      "id": "alpaca:131310510",
+      "title": "Reliance Digital Announces Black Friday Sale",
+      "url": "https://www.prnewswire.com/in/news-releases/reliance-digitals-black-friday-sale-enjoy-up-to-50-off-on-smartphones-laptops-tvs-home-appliances-and-more-302951261.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Reliance Digital has launched its Black Friday sale, offering discounts of up to 50% on a wide range of consumer electronics.",
+      "content": "Reliance Digital, a division of Reliance Industries Limited, has announced a Black Friday promotional event. The sale features discounts of up to 50% across various product categories, including smartphones, laptops, televisions, and home appliances. This initiative is part of the company's retail marketing strategy to drive consumer engagement and sales during the promotional period.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:31:16+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:34:10.745869+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "RELIANCE"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/26/new-u-s-chip-rule-is-now-hitting-ai-data-center-loans-not-just-nvidia-chips/?.tsrc=rss",
+      "title": "New U.S. Chip Rule Is Now Hitting AI Data-Center Loans, Not Just Nvidia Chips",
+      "url": "https://247wallst.com/investing/2026/11/26/new-u-s-chip-rule-is-now-hitting-ai-data-center-loans-not-just-nvidia-chips/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Bankers are quietly freezing billions in Asian data-center loans, and a rule that never mentions lending is the reason. If the credit that buys GPUs dries up, who feels it first, and does NVIDIA's real exposure sit somewhere unexpected?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:28:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:34:10.641525+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:urn:live_audio:quartr.com:682461:0",
       "title": "Schoeller-Bleckmann Oilfield Equipment Q3 2026 Earnings Call Is Live",
@@ -1365,6 +1408,25 @@
           "LSE:SGRO"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/why-did-nvidia-nvda-reinstate-130854975.html?.tsrc=rss",
+      "title": "Why Did Nvidia (NVDA) Reinstate Jensen Huang As CEO So Quickly?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-nvidia-nvda-reinstate-130854975.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia (NasdaqGS:NVDA) reinstated Jensen Huang as CEO on 25 November 2026 after a brief and highly publicized resignation. The board reversal followed an internal governance crisis and intense pressure from large shareholders seeking leadership continuity. Senior U.S. officials, including former President Trump, intervened informally as regulators continued separate reviews of Nvidia's AI-related conduct. Huang's rapid return as chief executive reshapes the immediate story. At the same time,...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:08:54+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:34:10.641525+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770VX:0",
@@ -14798,6 +14860,30 @@
         "symbols": [
           "HKEX:8091"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8813122",
+      "title": "US chip curbs will slow Asia data-center investment, Fitch says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOelNJWFVtc1BvNXp5TFMzbWtqVTdzc3JVM3pmY1hkR09YMi1WV3k3TzZ4VzFDQUpkcGJHVEZ2R0NqVnRNNmZsTThQZ0V3SlNzUmY1dUFURGtVckNOTXVQamlqSnVxTG5NVy1UVVR1dnlaNFE1MTluNFdUOTZzSHg2eHYzYTF1emwxMjZKUVIxcWhqYzhxTUdYZ0VZU3BsV1UxRHp3RTZnc2lyS2U5SDAydW5vcjVqaFFz?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "US chip curbs will slow Asia data-center investment, Fitch says Reuters",
+      "content": "US chip curbs will slow Asia data-center investment, Fitch says Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:19:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:34:11.510367+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -50151,6 +50237,30 @@
       }
     },
     {
+      "id": "finnhub:8813123",
+      "title": "EXCLUSIVE: AirBaltic offers crew exit, demotion or Papua New Guinea secondment - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnFGSkFEWHpGbVdrOTVYcmR2a0NmcVctZ3B6MGo2bzEtOWwtNW9xZWlwbEllT0RKb04tMExQdGZJSkdpTk8wbFlXejd0cDlaWmlCNjNSUGhfcjAwRFR2TzFpWnhoRnZxWFdZdzZLTjBvdlI3Wl9xTWRwdjYxOF9pU0FhSk44OVRNRlphbTlfTEtQQnpmQUtNeVY1VFlNZ0dUeTJlMDBDNHhOdHNE?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "EXCLUSIVE: AirBaltic offers crew exit, demotion or Papua New Guinea secondment Reuters",
+      "content": "EXCLUSIVE: AirBaltic offers crew exit, demotion or Papua New Guinea secondment Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:34:11.510367+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "tradingview:urn:summary_document_report:quartr.com:4311004:0",
       "title": "BETOLAR: Three businesses target critical metals, infrastructure resilience and low-carbon materials",
       "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4311004:0-betolar-three-businesses-target-critical-metals-infrastructure-resilience-and-low-carbon-materials/",
@@ -53072,6 +53182,30 @@
           "KRX:KOSPI",
           "TVC:NI225"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8813124",
+      "title": "Turkmenistan's Afghan gas link brings South Asia pipeline dream a little closer - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcnRaU1dqOW1kRDdIRmRsQVhsYkdpa0FtSkJjcklhN3RFZWVadE1jZkJUcDJnaXZYekZzTjZyeWlSN09FUF96MFlhM3hTZ2dLcUU4aVdSdWdDcXBOSDBzNzhIV0ZUdTZMRHlNSVJpYWFfdjg0RG44cU1QZ0FmMmphMlRJZndBZ3BKbmF0X0tOd2VXam9udG5WOFhsNWliUEhUN2wtSm9JUEtZa2J5cmpUTVBiejQydk5BSkRJb2s1WlYtX0hLNVBB?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Turkmenistan's Afghan gas link brings South Asia pipeline dream a little closer Reuters",
+      "content": "Turkmenistan's Afghan gas link brings South Asia pipeline dream a little closer Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:05:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:34:11.510367+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -70201,6 +70335,25 @@
       }
     },
     {
+      "id": "msn:98e6de3ef6a63bc646df6e6ebb0b04877cc438e5",
+      "title": "China Resources Beverage (SEHK:2460) Stock Still Commands A Rich Earnings Valuation",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083553e3354144ac6e5c3321ebf0d4&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fchina-resources-beverage-sehk-2460-071651123.html&c=7573091566919542578&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "China Resources Beverage (Holdings) has seen its share price fall sharply this year, which naturally pushes investors to ask whether the current valuation is still in line with what its earnings ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:16:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:34:12.598290+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:urn:summary_document_transcript:quartr.com:4828657:0",
       "title": "AFT: Revenue rose 25% to $143.6m; adjusted operating profit climbed to $13.3m",
       "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4828657:0-aft-revenue-rose-25-to-143-6m-adjusted-operating-profit-climbed-to-13-3m/",
@@ -83963,6 +84116,25 @@
       "extra": {}
     },
     {
+      "id": "msn:d48a1ba9c7359f9fb372a50deed89ac51971d793",
+      "title": "Is the stock market open today? Here are the trading hours for Thanksgiving.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083552c8da4cb69111828cf6ff471b&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-thanksgiving%2far-AA2ifPMA&c=15504855894997742158&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "It’s time to give thanks. What traders should know about the stock market on Thanksgiving.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:34:12.598290+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:seekingalpha:2e893931d094b:0",
       "title": "SA Asks: What should Nvidia investors be watching for in the next few weeks? (Update)",
       "url": "https://seekingalpha.com/news/4676388-sa-asks-what-should-nvidia-investors-be-watching-for-in-the-next-few-weeks?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
@@ -88624,6 +88796,25 @@
       "published_at": "2026-11-26T04:24:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T21:31:16.522580+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0aab50606c81dd77a6bbb8b77c06de93437eda44",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083553e3354144ac6e5c3321ebf0d4&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:34:12.598290+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -93336,6 +93527,25 @@
       "extra": {}
     },
     {
+      "id": "msn:1e24e4082a7bf5873850067e4ab4906c52952b84",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083552c8da4cb69111828cf6ff471b&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:34:12.598290+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261125006728_20261125006729:0",
       "title": "Meridian Energy Ltd.: CEO Mike Roan Named a Director of Datagrid",
       "url": "https://www.tradingview.com/news/DJN_DN20261125006728_20261125006729:0-meridian-energy-ltd-ceo-mike-roan-named-a-director-of-datagrid/",
@@ -94007,6 +94217,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "finnhub:8808348",
+      "title": "'I'm going to drive': FAA outage and high fares reshape Thanksgiving travel plans - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0JCVU41RW50NmNGSktkQ2FNUC1qRUoycmdQdTViUkFzc0w0UnhrSXZ1R1ZaS3NRYlZCR3dqTmQ5NUl2dTNYeFlxMUNyTVl6TF85RXpkX1FsanJBMmpma2pDY2xfdFJyZXhkR3Q4eEJ3cFg2WXRhbjdOSnJiUzZEcmU2MjQwcHVqWTJUY3U3dGxXUldaYjdRMFo0bEtvRkdSSno4dllLM0dteGo0Q2laWVJzeUZ5dw?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "'I'm going to drive': FAA outage and high fares reshape Thanksgiving travel plans Reuters",
+      "content": "'I'm going to drive': FAA outage and high fares reshape Thanksgiving travel plans Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:56:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:34:11.510367+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
     },
     {
       "id": "tradingview:stockstory:faef268cd094b:0",
@@ -112211,6 +112445,25 @@
       "extra": {}
     },
     {
+      "id": "msn:656c4ae73b92bd83aa7388356e27c5ccb798aa07",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083552c8da4cb69111828cf6ff471b&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:34:12.598290+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -118456,6 +118709,25 @@
       "extra": {}
     },
     {
+      "id": "msn:e8ff14611582719265d007abc02514a43780af0c",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083552c8da4cb69111828cf6ff471b&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:34:12.598290+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760YX:0",
       "title": "Equinor cuts 2026 production growth guidance",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760YX:0-equinor-cuts-2026-production-growth-guidance/",
@@ -124632,6 +124904,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T21:31:16.522580+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:ffb7cea224ecb82b14e965511fee4779996d8609",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083552c8da4cb69111828cf6ff471b&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:34:12.598290+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
