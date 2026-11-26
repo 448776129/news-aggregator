@@ -3,8 +3,8 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T23:04:13.927122+08:00",
-  "count": 529,
+  "generated_at": "2026-11-26T23:07:18.427503+08:00",
+  "count": 530,
   "sources": [
     {
       "name": "stocktwits",
@@ -14,6 +14,33 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670247869",
+      "title": "Financial news engines (such as Dow Jones, WSJ, or TradingView) apply automatic or thematic tags to stories based on sec",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "MarcoDMA",
+      "summary": "Financial news engines (such as Dow Jones, WSJ, or TradingView) apply automatic or thematic tags to stories based on sector classifications. Seeing $BTLN tagged alongside industry giants demonstrates that market indexing algorithms are beginning to categorize Brightline Interactive under the Physical AI & Defense Tech umbrella. https://www.tradingview.com/news/DJN_DN20261125008362:0-aschenbrenner-s-situational-awareness-tells-investors-it-lost-65-in-third-quarter-wsj/ $ANT $SPCX $TSLA",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:07:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:07:13.505971+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": "Bullish",
+        "symbols": [
+          "BTLN",
+          "ANT",
+          "SPCX",
+          "TSLA"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670247796",
       "title": "$AAPL go",
