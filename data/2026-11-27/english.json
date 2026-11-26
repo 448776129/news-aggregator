@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T06:58:18.477221+08:00",
-  "count": 615,
+  "generated_at": "2026-11-27T07:01:18.311719+08:00",
+  "count": 617,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 11,
+      "count": 0,
       "error": ""
     },
     {
@@ -136,6 +136,25 @@
       }
     },
     {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/26/nvidia-is-the-worst-performing-magnificent-seven-stock-this-year-is-it-a-buy-before-2027/?.tsrc=rss",
+      "title": "Nvidia Is the Worst-Performing \"Magnificent Seven\" Stock This Year. Is It a Buy Before 2027?",
+      "url": "https://www.fool.com/investing/2026/11/26/nvidia-is-the-worst-performing-magnificent-seven-stock-this-year-is-it-a-buy-before-2027/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Even with Jensen Huang back as CEO, Nvidia is drastically underperforming the S&P 500 and Nasdaq this year.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:50:49+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:01:14.387029+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:7bb10c30aa136:0",
       "title": "Canadian Uranium Corp. (CANU) Plans Up to $3.0M Flow-Through Placement",
       "url": "https://www.tradingview.com/news/tradingview:7bb10c30aa136:0-canadian-uranium-corp-canu-plans-up-to-3-0m-flow-through-placement/",
@@ -180,6 +199,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/26/prediction-these-3-consumer-stocks-will-beat-the-sp-500-over-the-next-10-years/?.tsrc=rss",
+      "title": "Prediction: These 3 Consumer Stocks Will Beat the S&P 500 Over the Next 10 Years",
+      "url": "https://www.fool.com/investing/2026/11/26/prediction-these-3-consumer-stocks-will-beat-the-sp-500-over-the-next-10-years/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "I think Ferrari, Hilton, and Amer Sports have the brands, the growth runways, and the discipline to outrun the S&P 500 over the next decade.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:50:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:01:14.387029+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261126004029_20261126004044:0",

@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T06:49:18.585156+08:00",
-  "count": 190,
+  "generated_at": "2026-11-27T07:01:18.324352+08:00",
+  "count": 194,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,72 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 27,
+      "count": 28,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacksq7915920.shtml",
+      "title": "继180亿美元首轮赠股后，马斯克再加码：每年向全美儿童捐赠一股SpaceX股票",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacksq7915920.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "在抛出一项总价值180亿美元的初始赠股计划后，世界首富埃隆·马斯克进一步做出长期承诺：今后每年都将向全美所有18岁以下儿童再捐赠一股SpaceX股票。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:59:39+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:01:15.540738+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261127065549196800",
+      "title": "【AI恐慌重创铠侠 分析师押注股价触底】金十数据11月27日讯，受人工智能投资热潮可持续性担忧影响，铠侠股价遭遇大幅抛售，但这也使其成为日本估值最低的蓝筹股，进",
+      "url": "https://www.jin10.com/#/flash/20261127065549196800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【AI恐慌重创铠侠 分析师押注股价触底】金十数据11月27日讯，受人工智能投资热潮可持续性担忧影响，铠侠股价遭遇大幅抛售，但这也使其成为日本估值最低的蓝筹股，进一步强化了分析师对其股价反弹的看好预期。这家日本存储芯片制造商的股价本月已暴跌逾40%，目前预期市盈率约为1.7倍，估值甚至低于东京电力，位居日经225指数成分股末位。以存储芯片同行的估值指标衡量，铠侠目前的估值也低于SK海力士，成为同业中估值最低的公司。短期来看，铠侠的股价走势很大程度上不受自身控制，市场正关注大型科技公司能否为人工智能基础设施建设提供资金，以及可能拖慢数据中心建设的政治阻力。展望更长远的未来，卖方分析师认为，受益于芯片价格上涨、长期供应协议以及回报率改善预期，铠侠股价有望反弹。大和证券资本市场韩国公司分析师SK Kim表示：“可以说，以目前的水平来看，该股已经触底或接近底部。其估值进一步下跌的空间不大。”",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:55:49+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:01:13.510940+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127065000002800",
+      "title": "【今日重点关注的财经数据与事件：2026年11月27日 周五】 ① 15:45 法国11月CPI月率初值 ② 15:45 法国第三季度GDP年率终值 ③ 16:",
+      "url": "https://www.jin10.com/#/flash/20261127065000002800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【今日重点关注的财经数据与事件：2026年11月27日 周五】 ① 15:45 法国11月CPI月率初值 ② 15:45 法国第三季度GDP年率终值 ③ 16:55 德国11月季调后失业人数 ④ 16:55 德国11月季调后失业率 ⑤ 18:00 欧元区11月工业景气指数 ⑥ 18:00 欧元区11月经济景气指数 ⑦ 21:30 加拿大第三季度经常帐",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:50:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:01:13.510940+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkackst3357009.shtml",
       "title": "11月27日隔夜要闻：美股休市 伦铜反弹 金价跌 沙特吉赞炼油厂遇袭 币安完成恢复工作",
@@ -44,6 +105,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127064655686800",
+      "title": "土耳其官方公报：任命Yusuf Kenan Bagir为土耳其银行监管机构（BDDK）新任主席。",
+      "url": "https://www.jin10.com/#/flash/20261127064655686800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "土耳其官方公报：任命Yusuf Kenan Bagir为土耳其银行监管机构（BDDK）新任主席。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:46:55+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:01:13.510940+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "sina:https://finance.sina.com.cn/jjxw/2026-11-27/doc-inkacksq7907786.shtml",
