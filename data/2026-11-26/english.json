@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T16:31:16.545186+08:00",
-  "count": 3594,
+  "generated_at": "2026-11-26T16:34:14.399905+08:00",
+  "count": 3625,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 37,
+      "count": 0,
       "error": ""
     },
     {
@@ -38,6 +38,436 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4770520:0",
+      "title": "ADJ: Rental growth and low vacancy supported performance as operating losses narrowed and debt was refinanced",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4770520:0-adj-rental-growth-and-low-vacancy-supported-performance-as-operating-losses-narrowed-and-debt-was-refinanced/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:33:39+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.224007+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:ADJ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4054948:0",
+      "title": "BMA: Earnings fell QoQ, but strong capital and liquidity supported strategic flexibility",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4054948:0-bma-earnings-fell-qoq-but-strong-capital-and-liquidity-supported-strategic-flexibility/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:33:30+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.224007+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BCBA:BMA.5"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126001253:0",
+      "title": "European Indexes Open Sharply Higher After U.S. Recovery — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126001253:0-european-indexes-open-sharply-higher-after-u-s-recovery-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.224007+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "STOXX:SXXP",
+          "TVC:UKX",
+          "XETR:DAX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4770H7:0",
+      "title": "German finance ministry says Amprion investment not on agenda",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4770H7:0-german-finance-ministry-says-amprion-investment-not-on-agenda/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:32:49+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.224007+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC4CLFDQ:0",
+      "title": "Commerzbank CEO: It Is Very Important To Us To Ensure An Orderly Transition",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC4CLFDQ:0-commerzbank-ceo-it-is-very-important-to-us-to-ensure-an-orderly-transition/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:32:40+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.224007+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:CBK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4770G6:0",
+      "title": "Rwanda central bank hikes policy rate by 75 basis points",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4770G6:0-rwanda-central-bank-hikes-policy-rate-by-75-basis-points/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:32:25+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.224007+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126001242:0",
+      "title": "Airtel Mobile Commerce Eyes Short-Term Lift From Expected FTSE 100 Inclusion — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126001242:0-airtel-mobile-commerce-eyes-short-term-lift-from-expected-ftse-100-inclusion-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:32:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.224007+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:UKX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126001231:0",
+      "title": "Halfords Shares Climb After Company Nudges Up Guidance",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126001231:0-halfords-shares-climb-after-company-nudges-up-guidance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:32:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.224007+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:HFD"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131243040",
+      "title": "Elite Material Unit Purchases Production Equipment",
+      "url": "https://www.marketscreener.com/news/elite-material-unit-buys-equipment-for-production-ce7851d8df80f323",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "A subsidiary of Elite Material Co., Ltd. has acquired new equipment to support its manufacturing operations.",
+      "content": "Elite Material Co., Ltd. announced that one of its units has purchased equipment for production purposes. The acquisition is intended to support the company's ongoing manufacturing activities. No further financial details or specific production capacities related to this equipment purchase were disclosed in the report.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:31:55+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.346510+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "2383"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131243039",
+      "title": "Skanska Awarded $275 Million Data Center Contract in Georgia",
+      "url": "https://www.prnewswire.com/news-releases/heavy-industry-manufacturing-latest-news/construction-building-list/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Skanska has secured an additional contract worth approximately $275 million (SEK 2.8 billion) to construct a new data center for an existing client in Georgia, USA.",
+      "content": "Skanska has received an additional award from an existing client to build a data center in Georgia, USA. The contract is valued at USD 275 million, which corresponds to approximately SEK 2.8 billion. This project represents a continuation of the company's work in the data center construction sector, leveraging its expertise in complex infrastructure and building projects. The announcement confirms the company's ongoing involvement with the client on this specific development.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:31:55+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.346510+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SKA.B"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131243038",
+      "title": "OLX Group Reports Financial Results for First Half of Fiscal Year 2027",
+      "url": "https://pap-mediaroom.pl/node/611870",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Prosus-owned OLX Group announced its financial results for the first half of the fiscal year ending September 30, 2026, showing significant growth in revenue and adjusted EBITDA.",
+      "content": "OLX Group, a global online classifieds platform owned by Prosus, reported its financial performance for the first half of the fiscal year ending September 30, 2026. The company achieved revenue of $584 million, representing a 23% increase (13% organic) compared to the $473 million reported in the same period of the previous fiscal year. Additionally, the group's adjusted EBITDA grew by 30% (21% organic) year-over-year. These results highlight the continued operational expansion of the Prosus-owned classifieds business.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:31:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.346510+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "PRX"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131243037",
+      "title": "UniCredit Demands Extraordinary General Meeting Following Takeover Approval",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70234341-unicredit-ceo-orcel-soll-neuer-aufsichtsratschef-bei-der-commerzbank-werden-015.htm",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Following the receipt of final regulatory approval for its takeover, UniCredit has requested an extraordinary general meeting to overhaul Commerzbank's supervisory board.",
+      "content": "UniCredit has secured the final regulatory approval required for its takeover of Commerzbank, having reached a stake of nearly 50 percent. Following this milestone, the Italian bank has formally demanded an extraordinary general meeting to replace nine of the ten capital-side representatives on Commerzbank's supervisory board. UniCredit intends for its own CEO, Andrea Orcel, to assume the role of chairman of the supervisory board. Commerzbank's management board has stated it will carefully review the legal requirements for the requested meeting and will convene the assembly if all statutory conditions are met.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:31:42+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.346510+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "CBK"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131243036",
+      "title": "Midea Building Technologies Showcases AIDC Cooling and HVAC Solutions at Big 5 Global 2026",
+      "url": "https://www.prnewswire.com/news-releases/midea-showcases-full-stack-aidc-cooling-and-commercial-hvac-solutions-built-for-extreme-climates-at-big-5-global-2026-302950365.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Midea Building Technologies presented its latest portfolio of full-stack AIDC cooling and commercial HVAC solutions designed for extreme climates at the Big 5 Global 2026 event in Dubai.",
+      "content": "Midea Building Technologies (MBT), a division of Midea Group, showcased its advanced cooling and commercial HVAC solutions at the Big 5 Global 2026 exhibition held at the Dubai World Trade Centre. The company highlighted its commitment to addressing the challenges of extreme climates and high-density computing environments, particularly in the Middle East. The presentation focused on full-stack AIDC (Artificial Intelligence Data Center) cooling technologies, reflecting the company's strategic focus on supporting modern data infrastructure. This participation underscores Midea's ongoing efforts to expand its intelligent building technology segment globally.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:31:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.346510+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "000333"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131243035",
+      "title": "Deutsche Bank Research Adjusts Deutsche Telekom Price Target",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/deutsche-bank-ag-beurteilt-deutsche-telekom-aktie-mit-buy-1036802433",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Deutsche Bank Research has lowered its price target for Deutsche Telekom from 40 to 35 euros while maintaining a 'Buy' rating.",
+      "content": "In a sector outlook published on November 26, 2026, Deutsche Bank Research analyst Robert Grindle revised the price target for Deutsche Telekom shares from 40 euros to 35 euros. Despite the reduction, the firm maintained its 'Buy' rating on the stock. The report noted that valuations for European telecommunications companies had declined to more attractive levels during the second half of 2026, citing potential for higher returns and operational stability as key factors.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:31:35+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.346510+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "DB"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131243034",
+      "title": "Regulatory Approval for UniCredit's Stake Increase in Commerzbank",
+      "url": "https://www.euro2day.gr/news/world/article/2382016/h-unicredit-proteinei-ton-antrea-orsel-gia-proedro.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Regulatory authorities have approved UniCredit's acquisition of a larger stake in Commerzbank, a move that grants the Italian bank control over mBank.",
+      "content": "Regulatory approval has been granted for UniCredit to increase its stake in Commerzbank, which effectively provides the bank with control over mBank, the Polish subsidiary of Commerzbank. This approval removes the final obstacle for the transaction, with UniCredit planning to finalize the settlement of shares offered in its public tender offer by December 7. Following this, UniCredit's stake in Commerzbank is expected to exceed 47%, granting it sufficient voting rights to appoint candidates to the supervisory board.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:31:33+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.346510+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MBK"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131243033",
+      "title": "Essity Launches Electric Freight Operations with Einride in Sweden",
+      "url": "https://www.globenewswire.com/news-release/2026/11/26/3410677/0/en/einride-brings-essity-into-its-fast-growing-electric-freight-network.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Essity has partnered with Einride to implement electric freight operations in Sweden, aiming to reduce annual CO₂e emissions by approximately 72 tonnes.",
+      "content": "Essity has integrated into Einride's electric freight network to support its sustainability goals in Sweden. The operations, which commenced in May 2026, utilize Einride's Freight-Capacity-as-a-Service model and proprietary Saga AI platform to optimize transport efficiency. The initiative is expected to lower emissions by an estimated 72 tonnes of CO₂e annually, with routes operating near residential areas in Falkenberg to provide immediate air quality benefits. Site leadership at Essity's Falkenberg facility noted that the partnership enhances operational efficiency while reducing the company's environmental impact.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:31:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.346510+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ESSITY.B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770MA:0",
+      "title": "Almirall's Il-2Mu-FC (Sim0278) Meets Primary Endpoint In Phase II Atopic Dermatitis Study",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770MA:0-almirall-s-il-2mu-fc-sim0278-meets-primary-endpoint-in-phase-ii-atopic-dermatitis-study/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:30:55+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.224007+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BME:ALM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3944983:0",
+      "title": "RMDX: Commercial traction improved, but short-term liquidity still hinges on financing",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3944983:0-rmdx-commercial-traction-improved-but-short-term-liquidity-still-hinges-on-financing/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:30:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.224007+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NGM:RMDX"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L5N4770DQ:0",
       "title": "Hungarian consumer confidence drops to seven-month low in November",
@@ -155,6 +585,54 @@
       }
     },
     {
+      "id": "tradingview:tradingview:8e0f210ccd95b:0",
+      "title": "Bilfinger SE (GBF) Receives Morgan Stanley Voting Rights Notification",
+      "url": "https://www.tradingview.com/news/tradingview:8e0f210ccd95b:0-bilfinger-se-gbf-receives-morgan-stanley-voting-rights-notification/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:29:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.224007+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:GBF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:eqs:3e2a389b2094b:0",
+      "title": "Bilfinger SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+      "url": "https://www.eqs-news.com/news/voting-rights/morgan-stanley-wilmington-delaware-united-states-of-america-usa/0635a092-c7c4-4781-8694-6e84c2215dc5_en",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "EQS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:29:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.224007+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:GBF"
+        ]
+      }
+    },
+    {
       "id": "tradingview:prnewswire:be55ed77ce3a0:0",
       "title": "Minesto announces advancement of the Dragon Technology, paving the way for new business opportunities in a consolidating tidal energy sector",
       "url": "https://www.tradingview.com/news/prnewswire:be55ed77ce3a0:0-minesto-announces-advancement-of-the-dragon-technology-paving-the-way-for-new-business-opportunities-in-a-consolidating-tidal-energy-sector/",
@@ -168,6 +646,30 @@
       "published_at": "2026-11-26T16:29:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T16:31:13.524097+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:MINEST"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:7d25ebb4e54ff:0",
+      "title": "Minesto AB (MINEST) Adds Shallow-Water Sites to Its Tidal Technology Market",
+      "url": "https://www.tradingview.com/news/tradingview:7d25ebb4e54ff:0-minesto-ab-minest-adds-shallow-water-sites-to-its-tidal-technology-market/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:29:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.224007+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -275,6 +777,55 @@
       }
     },
     {
+      "id": "tradingview:tradingview:d36bb76b3e113:0",
+      "title": "Commerzbank Aktiengesellschaft (CBK) Faces Proposed Supervisory Board Overhaul",
+      "url": "https://www.tradingview.com/news/tradingview:d36bb76b3e113:0-commerzbank-aktiengesellschaft-cbk-faces-proposed-supervisory-board-overhaul/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:26:53+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.224007+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:CBK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:eqs:fa6920efe094b:0",
+      "title": "UniCredit requests convening of an extraordinary general meeting to reconstitute the Supervisory Board",
+      "url": "https://www.eqs-news.com/news/uk-ireland-reg-news/unicredit-requests-convening-of-an-extraordinary-general-meeting-to-reconstitute-the-supervisory-board/8aa69531-cbd9-4dd9-91bf-325f3ea396e5_en",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "EQS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:26:53+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.224007+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:CBK",
+          "MIL:UCG"
+        ]
+      }
+    },
+    {
       "id": "tradingview:DJN_DN20261126001155:0",
       "title": "Asian Governments Respond to Latest U.S. Tariff Proposals — Update",
       "url": "https://www.tradingview.com/news/DJN_DN20261126001155:0-asian-governments-respond-to-latest-u-s-tariff-proposals-update/",
@@ -367,6 +918,30 @@
           "NASDAQ:SPCX",
           "NASDAQ:ASTS",
           "NASDAQ:RKLB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:31c70327a3582:0",
+      "title": "Commerzbank Aktiengesellschaft (CBK) Faces Proposed Supervisory Board Overhaul",
+      "url": "https://www.tradingview.com/news/tradingview:31c70327a3582:0-commerzbank-aktiengesellschaft-cbk-faces-proposed-supervisory-board-overhaul/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:25:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.224007+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:CBK"
         ]
       }
     },
@@ -813,6 +1388,30 @@
       }
     },
     {
+      "id": "tradingview:tradingview:e921ffe082e74:0",
+      "title": "Bilfinger SE (GBF) Receives Morgan Stanley Voting Rights Notification",
+      "url": "https://www.tradingview.com/news/tradingview:e921ffe082e74:0-bilfinger-se-gbf-receives-morgan-stanley-voting-rights-notification/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:16:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.224007+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:GBF"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_S8N47008W:0",
       "title": "Rwanda central bank hikes policy rate to 9.5%",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N47008W:0-rwanda-central-bank-hikes-policy-rate-to-9-5/",
@@ -832,6 +1431,30 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:eqs:2483d443d094b:0",
+      "title": "Continental AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+      "url": "https://www.eqs-news.com/news/voting-rights/blackrock-inc-wilmington-delaware-united-states-of-america-usa/17a6ddf3-68ce-4fa2-bc8f-298909ea4287_en",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "EQS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:15:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:11.224007+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:CON"
+        ]
       }
     },
     {
@@ -49024,6 +49647,25 @@
       "extra": {}
     },
     {
+      "id": "msn:3d5ba1442f0b6ab82bcc67c545e6c64df56f3e10",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07ef039048496e827ad30884096ba3&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:12.878635+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
       "title": "What Sent Qualcomm Stock Higher?",
       "url": "https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
@@ -51596,6 +52238,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T16:31:15.363436+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:967f889983ce47c9b86e59084eeb750425087b67",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07ef03edac4daab225308bc51f9bdf&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:12.878635+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -68467,6 +69128,25 @@
       "extra": {}
     },
     {
+      "id": "msn:24496bcaece1177977286f38031d8cc86ddc313b",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07ef03edac4daab225308bc51f9bdf&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:12.878635+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -72635,6 +73315,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T16:31:15.363436+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:4add7ceeb4560d53ffdcac844de2be041e220e40",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07ef03edac4daab225308bc51f9bdf&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:12.878635+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -76917,6 +77616,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T16:31:15.363436+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6595b7d504c0b1a9e2e2acb3bda178f0ad8e8577",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07ef03edac4daab225308bc51f9bdf&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:34:12.878635+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
