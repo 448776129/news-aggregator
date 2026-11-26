@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T11:07:27.115880+08:00",
-  "count": 4297,
+  "generated_at": "2026-11-26T11:16:15.293925+08:00",
+  "count": 4298,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 1,
       "error": ""
     },
     {
@@ -31508,6 +31508,25 @@
       "published_at": "2026-11-24T21:29:03+08:00",
       "published_date": "2026-11-24",
       "fetched_at": "2026-11-26T11:07:23.992668+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d0dd6f13b6702de03076a73ebacf707a6c1cbbc9",
+      "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07a47bb1594bc7935d154b9bf47b46&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fgeneral%2fdell-earnings-beat-on-ai-strength-company-authorizes-25-billion-buyback%2far-AA2i9qxM&c=3855696496072049083&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-24T21:29:03+08:00",
+      "published_date": "2026-11-24",
+      "fetched_at": "2026-11-26T11:16:13.117225+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
