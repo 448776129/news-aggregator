@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T03:16:18.784739+08:00",
-  "count": 392,
+  "generated_at": "2026-11-27T03:19:22.550668+08:00",
+  "count": 393,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,31 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUCBVWRHL:0",
+      "title": "Shelly Group’s Board Of Directors Reaffirms Its Support For Schneider Electric SE’s Amended Offer",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUCBVWRHL:0-shelly-group-s-board-of-directors-reaffirms-its-support-for-schneider-electric-se-s-amended-offer/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T03:16:18+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:19:17.698227+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BSESOF:SLYG",
+          "EURONEXT:SU"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770NX:0",
       "title": "Gold drifts lower as Fed rate-hike fears loom",
