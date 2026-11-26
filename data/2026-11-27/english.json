@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T04:49:17.036943+08:00",
-  "count": 461,
+  "generated_at": "2026-11-27T04:52:16.672926+08:00",
+  "count": 465,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,79 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:acceswire:e43673e70094b:0",
+      "title": "Jade Leader Announces Change of Auditor",
+      "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/jade-leader-announces-change-of-auditor-1344484",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "ACCESS Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:50:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:52:13.055418+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:JADE",
+          "TSXV:JADE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4088243:0",
+      "title": "CEMARGOS: Peso and energy pressures cut EBITDA, while Latam growth and U.S. expansion plans advanced",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4088243:0-cemargos-peso-and-energy-pressures-cut-ebitda-while-latam-growth-and-u-s-expansion-plans-advanced/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:47:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:52:13.055418+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BVC:CEMARGOS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_S0N46T048:0",
+      "title": "Bradesco chairman expected to meet Brazil's Lula on Thursday, source says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S0N46T048:0-bradesco-chairman-expected-to-meet-brazil-s-lula-on-thursday-source-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:43:21+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:52:13.055418+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BMFBOVESPA:BBDC3"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N47713D:0",
       "title": "Brazil leads LatAm assets higher after cooler-than-expected inflation data",
@@ -969,6 +1042,33 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:POLYMARKET"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:benzinga:3d1fb80a2094b:0",
+      "title": "Thanksgiving Shopping Is Going Mobile. Apple and Amazon Could Benefit From a $4.4 Billion Trend",
+      "url": "https://www.tradingview.com/news/benzinga:3d1fb80a2094b:0-thanksgiving-shopping-is-going-mobile-apple-and-amazon-could-benefit-from-a-4-4-billion-trend/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Benzinga",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T03:45:05+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:52:13.055418+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AAPL",
+          "NASDAQ:AMZN",
+          "NASDAQ:PYPL",
+          "NASDAQ:SHOP"
         ]
       }
     },
