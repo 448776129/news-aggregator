@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T09:28:17.910499+08:00",
-  "count": 634,
+  "generated_at": "2026-11-26T09:31:15.385838+08:00",
+  "count": 646,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 49,
+      "count": 50,
       "error": ""
     },
     {
@@ -26,6 +26,25 @@
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzmzr3795805.shtml",
+      "title": "韩国央行加息25个基点以应对通胀 并上调今明两年经济增长预期",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzmzr3795805.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "韩国央行恢复加息，半导体行业的空前繁荣推动经济增长强于预期，并令通胀保持高位，抵消了围绕家庭需求疲软和近期股市大跌的担忧。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:28:13+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:31:12.624738+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/money/future/fmnews/2026-11-26/doc-inizzmzi9012544.shtml",
       "title": "华泰期货：终端跟进略显乏力，猪价震荡回调",
@@ -65,6 +84,48 @@
       "extra": {}
     },
     {
+      "id": "jin10:20261126092230415800",
+      "title": "GDS Holdings (09698.HK) rose more than 6% after reporting Q3 net revenue up 10.1",
+      "url": "https://www.jin10.com/#/flash/20261126092230415800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "GDS Holdings (09698.HK) rose more than 6% after reporting Q3 net revenue up 10.1% YoY to about 3.18 bln yuan and adjusted EBITDA up 2.8%.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:22:30+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:31:11.319485+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126092228462800",
+      "title": "万国数据(09698.HK)绩后涨超6%；公司第三季度净收入同比增加10.1%至约31.8亿元，经调整EBITDA同比增长2.8%。",
+      "url": "https://www.jin10.com/#/flash/20261126092228462800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "万国数据(09698.HK)绩后涨超6%；公司第三季度净收入同比增加10.1%至约31.8亿元，经调整EBITDA同比增长2.8%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:22:28+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:31:11.319485+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/money/nmetal/gjshz/2026-11-26/doc-inizzmzn8191641.shtml",
       "title": "光大期货1126黄金点评：核心PCE超预期锁定加息路径，金价重心走低",
       "url": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-11-26/doc-inizzmzn8191641.shtml",
@@ -84,6 +145,48 @@
       "extra": {}
     },
     {
+      "id": "jin10:20261126092223012800",
+      "title": "Taiwan's Taiex extends gains to 3%.",
+      "url": "https://www.jin10.com/#/flash/20261126092223012800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Taiwan's Taiex extends gains to 3%.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:22:22+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:31:11.319485+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126092221573800",
+      "title": "台湾加权股价指数涨幅扩大至3%。",
+      "url": "https://www.jin10.com/#/flash/20261126092221573800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "台湾加权股价指数涨幅扩大至3%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:22:21+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:31:11.319485+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/money/future/fmnews/2026-11-26/doc-inizzmzn8190954.shtml",
       "title": "华泰期货：国内现货强势，国外供应偏紧，为何沪铝昨日大跌？",
       "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-26/doc-inizzmzn8190954.shtml",
@@ -101,6 +204,132 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261126092125724800",
+      "title": "Li Auto (2015.HK) rose more than 8% after reporting third-quarter revenue of 28.",
+      "url": "https://www.jin10.com/#/flash/20261126092125724800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Li Auto (2015.HK) rose more than 8% after reporting third-quarter revenue of 28.834 bln yuan, up 5.4% YoY.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:21:25+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:31:11.319485+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126092123916800",
+      "title": "理想汽车(02015.HK)绩后涨超8%；公司第三季度收入总额288.34亿元，同比增长5.4%。",
+      "url": "https://www.jin10.com/#/flash/20261126092123916800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "理想汽车(02015.HK)绩后涨超8%；公司第三季度收入总额288.34亿元，同比增长5.4%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:21:23+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:31:11.319485+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126092104582800",
+      "title": "Hong Kong shares opened higher, with the HSI up 1.22% and the Hang Seng Tech Ind",
+      "url": "https://www.jin10.com/#/flash/20261126092104582800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Hong Kong shares opened higher, with the HSI up 1.22% and the Hang Seng Tech Index up 2.29%. Optical communications, chips and biopharma led gains; Li Auto (02015.HK) rose more than 8% after earnings.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:21:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:31:11.319485+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261126092102656800",
+      "title": "港股开盘，恒生指数开涨1.22%，恒生科技指数开涨2.29%；光通信、芯片、生物医药等板块涨幅居前；理想汽车(02015.HK)绩后涨超8%。",
+      "url": "https://www.jin10.com/#/flash/20261126092102656800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "港股开盘，恒生指数开涨1.22%，恒生科技指数开涨2.29%；光通信、芯片、生物医药等板块涨幅居前；理想汽车(02015.HK)绩后涨超8%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:21:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:31:11.319485+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261126092054916800",
+      "title": "The PBOC conducted 571.5 bln yuan of overnight reverse repos on Nov. 26, 2026, u",
+      "url": "https://www.jin10.com/#/flash/20261126092054916800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "The PBOC conducted 571.5 bln yuan of overnight reverse repos on Nov. 26, 2026, using a fixed-rate, quantity-tender method, fully meeting primary dealers’ demand.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:20:54+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:31:11.319485+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261126092052383800",
+      "title": "中国央行：2026年11月26日中国人民银行以固定利率、数量招标方式开展了5715亿元隔夜逆回购操作，全额满足了一级交易商需求。",
+      "url": "https://www.jin10.com/#/flash/20261126092052383800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "中国央行：2026年11月26日中国人民银行以固定利率、数量招标方式开展了5715亿元隔夜逆回购操作，全额满足了一级交易商需求。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:20:52+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:31:11.319485+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
     },
     {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-26/doc-inizzmzn8190028.shtml",
@@ -158,6 +387,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261126091929090800",
+      "title": "China's Asia envoy meets Myanmar peace body's secretary",
+      "url": "https://www.jin10.com/#/flash/20261126091929090800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "China's special envoy for Asian affairs Deng Xijun met Myanmar peace body's secretary, Lt. Gen. Min Naing, in Beijing on Nov. 25, 2026. Deng said peace and reconciliation through dialogue and lasting stability in northern Myanmar serve the interests of both countries. China is willing to continue facilitating talks between the body and ethnic armed groups, at the parties' request, to resolve disputes and support stability and development.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:19:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:31:11.319485+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261126091924432800",
