@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T00:07:20.190186+08:00",
-  "count": 6843,
+  "generated_at": "2026-11-27T00:10:20.372599+08:00",
+  "count": 6853,
   "sources": [
     {
       "name": "alpaca",
@@ -21,13 +21,13 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 11,
+      "count": 7,
       "error": ""
     },
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 50,
+      "count": 34,
       "error": ""
     },
     {
@@ -38,6 +38,28 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8760Ea:0",
+      "title": "RCS - Truva Trust Corp.PLC - Trustee Notice to Bondholders: Eros Media World",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8760Ea:0-rcs-truva-trust-corp-plc-trustee-notice-to-bondholders-eros-media-world/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:59:54+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-27T00:10:15.573717+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:urn:live_audio:quartr.com:740261:0",
       "title": "Sierra Madre Gold and Silver Q3 2026 Earnings Call Is Live",
@@ -519,6 +541,30 @@
       }
     },
     {
+      "id": "tradingview:gurufocus:5392eb5d6094b:0",
+      "title": "JPMorgan Sees $450 Billion AI Debt Wave as Credit Risks Mount",
+      "url": "https://www.gurufocus.com/news/9227599/jpmorgan-sees-450-billion-ai-debt-wave-as-credit-risks-mount",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:47:41+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-27T00:10:15.573717+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:JPM"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L5N47713H:0",
       "title": "Germany's IG Metall says wage deal has been agreed with employers",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N47713H:0-germany-s-ig-metall-says-wage-deal-has-been-agreed-with-employers/",
@@ -563,6 +609,28 @@
           "NYSE:MO",
           "LSE:IMB"
         ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N477149:0",
+      "title": "Romania aims to sell domestic debt worth 5.5 billion lei in Dec, finance ministry says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N477149:0-romania-aims-to-sell-domestic-debt-worth-5-5-billion-lei-in-dec-finance-ministry-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:46:56+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-27T00:10:15.573717+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -57267,6 +57335,25 @@
       "extra": {}
     },
     {
+      "id": "msn:05a4f742d14cd84816773faa1c949c1f39f0fc1b",
+      "title": "Kokuyo (TSE:7984) Stock Still Looks Undervalued On Its Earnings Story",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0859e8d84940a2ada34f49e18df67b&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fkokuyo-tse-7984-stock-still-151441822.html&c=2309135140972396093&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Kokuyo has rewarded patient shareholders over the long haul, yet the recent share price around ¥886.4 raises a sharper question about how much of its earnings story is already reflected in that tag.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:14:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-27T00:10:17.500617+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N477070:0",
       "title": "Canada's Arrow Exploration Q3 natural gas and crude oil revenue rises on higher output and prices",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N477070:0-canada-s-arrow-exploration-q3-natural-gas-and-crude-oil-revenue-rises-on-higher-output-and-prices/",
@@ -62405,6 +62492,25 @@
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:58:15.844519+08:00",
       "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b07475efa3e280c2067a7597773d1a4bbeb13523",
+      "title": "Credo Technology Ahead of Q2 Earnings: How to Approach the Stock Now?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0859e8d84940a2ada34f49e18df67b&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fcredo-technology-ahead-q2-earnings-143000855.html&c=10177656686386298383&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "CRDO heads into Q2 earnings with strong AEC demand and growing optical opportunities, but premium valuation and execution risks warrant caution.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-27T00:10:17.500617+08:00",
+      "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
       "extra": {}
@@ -76798,6 +76904,25 @@
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:36:25.160817+08:00",
       "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:37dbc48e5f09968b1d4ffdef9943106e5a282d83",
+      "title": "Is the stock market closed? Thanksgiving, Black Friday trading hours",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0859e7c31a4624b26e69694fe7ad38&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-closed-thanksgiving-black-friday-trading-hours%2far-AA2ih92H&c=12250481726649786703&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The U.S. stock markets will be closed on the following days for the rest of 2026.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T11:01:28+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-27T00:10:17.500617+08:00",
+      "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
       "extra": {}
@@ -114149,6 +114274,25 @@
       "extra": {}
     },
     {
+      "id": "msn:2d7369f5a7328dbd609cb7b789ac96bc8e68e676",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0859e7c31a4624b26e69694fe7ad38&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-27T00:10:17.500617+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261125006728_20261125006729:0",
       "title": "Meridian Energy Ltd.: CEO Mike Roan Named a Director of Datagrid",
       "url": "https://www.tradingview.com/news/DJN_DN20261125006728_20261125006729:0-meridian-energy-ltd-ceo-mike-roan-named-a-director-of-datagrid/",
@@ -134055,6 +134199,25 @@
       "extra": {}
     },
     {
+      "id": "msn:d45550a719ca054910e8c242f9bd435faf8f5c3a",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0859e7c31a4624b26e69694fe7ad38&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-27T00:10:17.500617+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -141225,6 +141388,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-27T00:07:15.552421+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:25fe433a4bdaa9aa655e6766e9b6cf0415358490",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0859e7c31a4624b26e69694fe7ad38&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-27T00:10:17.500617+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -148438,6 +148620,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-27T00:07:15.552421+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:4ef0a34a3395874b3ff4a4eb17d9f004ad7d525b",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0859e7c31a4624b26e69694fe7ad38&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-27T00:10:17.500617+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",

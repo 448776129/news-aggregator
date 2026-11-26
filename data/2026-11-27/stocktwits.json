@@ -3,17 +3,68 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T00:07:20.408906+08:00",
-  "count": 1,
+  "generated_at": "2026-11-27T00:10:20.553856+08:00",
+  "count": 3,
   "sources": [
     {
       "name": "stocktwits",
       "status": "ok",
-      "count": 1,
+      "count": 3,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670249598",
+      "title": "$QQQ $SPY $TSLA $NVDA Coming soon to a Thanksgiving near you.😂😂",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "EconomyEngine",
+      "summary": "$QQQ $SPY $TSLA $NVDA Coming soon to a Thanksgiving near you.😂😂",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:09:35+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:10:15.038940+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "QQQ",
+          "SPY",
+          "TSLA",
+          "NVDA"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670249597",
+      "title": "$TSLA 🤑",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "EJEzra",
+      "summary": "$TSLA 🤑",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:09:34+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:10:15.038940+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "TSLA"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670249500",
       "title": "$AAPL 400 next stop",
