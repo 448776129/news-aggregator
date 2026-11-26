@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T08:25:17.841810+08:00",
-  "count": 1593,
+  "generated_at": "2026-11-26T08:28:15.390083+08:00",
+  "count": 1596,
   "sources": [
     {
       "name": "alpaca",
@@ -39,6 +39,54 @@
   ],
   "items": [
     {
+      "id": "tradingview:urn:live_audio:quartr.com:739255:0",
+      "title": "FinVolution Group Q3 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:739255:0-finvolution-group-q3-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:27:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:28:10.478919+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:FINV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008395_20261125008395:0",
+      "title": "RoboSense Technology Target Price Cut to HK$18.10 From HK$23.30 by Citigroup >2498.HK",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008395_20261125008395:0-robosense-technology-target-price-cut-to-hk-18-10-from-hk-23-30-by-citigroup-2498-hk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:25:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:28:10.478919+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:2498"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N47700A:0",
       "title": "Canada's Enbridge weighs $1.5 billion sale of Line 3 stake to Indigenous groups, The Globe and Mail reports",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47700A:0-canada-s-enbridge-weighs-1-5-billion-sale-of-line-3-stake-to-indigenous-groups-the-globe-and-mail-reports/",
@@ -59,6 +107,30 @@
         "urgency": 2,
         "symbols": [
           "TSX:ENB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:smallcaps:d4beace02094b:0",
+      "title": "McMillan Shakespeare Agrees to $130m Sale of PSS Plan Management Business",
+      "url": "https://smallcaps.com.au/article/mcmillan-shakespeare-agrees-to-dollar130m-sale-of-pss-plan-management-business",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Small Caps",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:23:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:28:10.478919+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:MMS"
         ]
       }
     },

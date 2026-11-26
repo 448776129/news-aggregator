@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-30",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-26T08:28:15.243555+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:6f53886505a59e9f646838f47ee17e4f784f0af4",
+      "title": "Stock Market Holidays 2025",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b077d1a3c83418b9c54816eabb24bd0&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4434733-stock-market-holidays-and-hours&c=7408462026684952554&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Note: If a holiday falls on a Saturday, the stock market will normally observe the holiday and close on the preceding Friday. If the holiday falls on a Sunday, the stock market will normally be closed ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-08-30T15:01:00+08:00",
+      "published_date": "2026-08-30",
+      "fetched_at": "2026-11-26T08:28:12.549529+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
