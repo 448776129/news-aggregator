@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T15:10:26.732401+08:00",
-  "count": 177,
+  "generated_at": "2026-11-26T15:13:15.904816+08:00",
+  "count": 178,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -2902,6 +2902,25 @@
       "published_at": "2026-09-10T15:18:00+08:00",
       "published_date": "2026-09-10",
       "fetched_at": "2026-11-26T15:10:25.096764+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:19296f8956ef8d482607e992387f64374077ac7f",
+      "title": "Upcoming Earnings Reports in 2026",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07dc083f4845af92e743215d75b108&url=https%3a%2f%2fwww.fool.com%2finvesting%2fstock-market%2fupcoming-earnings-reports%2f&c=10624373174590001561&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Earnings reports reveal a company's revenue, net income, and forward guidance. Quarterly insights and projections help investors assess stock suitability. Reading earnings helps informed ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-09-10T15:18:00+08:00",
+      "published_date": "2026-09-10",
+      "fetched_at": "2026-11-26T15:13:13.788088+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
