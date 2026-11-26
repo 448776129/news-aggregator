@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T08:34:14.591137+08:00",
-  "count": 516,
+  "generated_at": "2026-11-26T08:37:15.357774+08:00",
+  "count": 517,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 48,
+      "count": 49,
       "error": ""
     },
     {
@@ -26,6 +26,25 @@
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzftq8281769.shtml",
+      "title": "美法官禁止美国联邦通信委员会采取任何威胁ABC广播执照的措施",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzftq8281769.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "当地时间周三，一名美国法官禁止联邦通信委员会（FCC）继续采取任何威胁美国广播公司（ABC）广播执照的措施，称该机构似乎正在实施一场由特朗普推动的报复行动。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:36:21+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:37:10.828979+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzftt3886676.shtml",
       "title": "数据中心冷却故障及投资者退出认购 迫使Compass推迟3.8亿美元ABS发行",

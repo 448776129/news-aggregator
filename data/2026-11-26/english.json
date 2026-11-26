@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T08:31:17.525522+08:00",
-  "count": 1601,
+  "generated_at": "2026-11-26T08:37:15.328922+08:00",
+  "count": 1603,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261125008413:0",
+      "title": "Judge Dismisses Amazon Challenge to Consumer Product Safety Commission Orders — Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008413:0-judge-dismisses-amazon-challenge-to-consumer-product-safety-commission-orders-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:35:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:37:11.135964+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMZN"
+        ]
+      }
+    },
     {
       "id": "tradingview:prnewswire:a33e1a3cc0b72:0",
       "title": "ORVANA ANNOUNCES FY2026 RESULTS & FY2027 GUIDANCE",
@@ -76,6 +100,30 @@
       "published_at": "2026-11-26T08:30:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T08:31:13.167702+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:ORV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:ab081864eff01:0",
+      "title": "ORVANA ANNOUNCES FY2026 RESULTS & FY2027 GUIDANCE",
+      "url": "https://www.tradingview.com/news/prnewswire:ab081864eff01:0-orvana-announces-fy2026-results-fy2027-guidance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:37:11.135964+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
