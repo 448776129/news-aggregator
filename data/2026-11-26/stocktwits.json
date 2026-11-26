@@ -3,8 +3,8 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T08:34:14.607412+08:00",
-  "count": 426,
+  "generated_at": "2026-11-26T08:40:13.674366+08:00",
+  "count": 428,
   "sources": [
     {
       "name": "stocktwits",
@@ -14,6 +14,55 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670233534",
+      "title": "$10M of $TSLA $380 to $385 calls bought at the ask on InsiderFinance over two sessions, five of six tracked prints today",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "QuantInsider",
+      "summary": "$10M of $TSLA $380 to $385 calls bought at the ask on InsiderFinance over two sessions, five of six tracked prints today Shares fell 1.2% today, so that doesn't add up unless someone expects a fast turn The $385 calls expiring Dec 4 need $391.10 to $392.45 at expiry to break even That's 7% to 8% above where shares traded when those buys happened Nine days is a short fuse, and a $1.9M $352.50 put got bought at the ask this morning too That's a fast bounce bet, and the morning put is the one trade leaning the other way",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:39:51+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:40:09.587773+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "TSLA"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670233533",
+      "title": "$SPCX $TSLA Trump account donations brilliant marketing ploy. When Congress complains SPCX has all the government contra",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "Annie_Preferred",
+      "summary": "$SPCX $TSLA Trump account donations brilliant marketing ploy. When Congress complains SPCX has all the government contracts, Musk and Trump say \"true, but it's for the kids, so it's okay!\"",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:39:48+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:40:09.587773+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": "Bullish",
+        "symbols": [
+          "SPCX",
+          "TSLA"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670233243",
       "title": "$SNDK $MU $SPCX $TSLA Everything pumping right now even bitcoin",
