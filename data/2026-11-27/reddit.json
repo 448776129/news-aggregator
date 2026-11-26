@@ -3,13 +3,13 @@
   "category": "reddit",
   "category_name": "Reddit 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T00:34:19.649765+08:00",
-  "count": 8,
+  "generated_at": "2026-11-27T00:37:24.442296+08:00",
+  "count": 9,
   "sources": [
     {
       "name": "reddit",
       "status": "ok",
-      "count": 3,
+      "count": 9,
       "error": ""
     }
   ],
@@ -33,6 +33,29 @@
       "category": "reddit",
       "extra": {
         "subreddit": "investing",
+        "score": 1,
+        "num_comments": 0
+      }
+    },
+    {
+      "id": "reddit:1y65gez",
+      "title": "New research suggests AI bubble bursting and to expect major market collapse",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1y65gez/new_research_suggests_ai_bubble_bursting_and_to/",
+      "source": "reddit",
+      "source_name": "Reddit",
+      "author": "Rootmap",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:30:44+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:37:23.813796+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "reddit",
+      "extra": {
+        "subreddit": "wallstreetbets",
         "score": 1,
         "num_comments": 0
       }
