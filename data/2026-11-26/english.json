@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T23:43:16.544524+08:00",
-  "count": 6724,
+  "generated_at": "2026-11-26T23:46:16.473679+08:00",
+  "count": 6742,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 9,
+      "count": 8,
       "error": ""
     },
     {
@@ -38,6 +38,126 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770JY:0",
+      "title": "Polish defence ministry to sign agreement with Palantir on Friday",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770JY:0-polish-defence-ministry-to-sign-agreement-with-palantir-on-friday/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:45:31+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:46:14.243398+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:PLTR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:cf93e90a7a123:0",
+      "title": "Two Italian technicians killed in Iranian drone attack in Kuwait",
+      "url": "https://www.tradingview.com/news/moodys:cf93e90a7a123:0-two-italian-technicians-killed-in-iranian-drone-attack-in-kuwait/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "bne Intellinews",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:44:09+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:46:14.243398+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:RHM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:a540748483728:0",
+      "title": "poLight ASA share capital increase registered",
+      "url": "https://www.tradingview.com/news/modular_finance:a540748483728:0-polight-asa-share-capital-increase-registered/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:44:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:46:14.243398+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:PLT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4849042:0",
+      "title": "ITAUCL: Above-market loan growth, strong deposits and lower credit costs underpin revised FY’26 targets",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4849042:0-itaucl-above-market-loan-growth-strong-deposits-and-lower-credit-costs-underpin-revised-fy-26-targets/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:42:47+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:46:14.243398+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BCS:ITAUCL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4849022:0",
+      "title": "HERDEZ: Q3 sales grew, but margin pressure persisted and YTD revenue dipped 0.8%",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4849022:0-herdez-q3-sales-grew-but-margin-pressure-persisted-and-ytd-revenue-dipped-0-8/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:42:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:46:14.243398+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BMV:HERDEZ"
+        ]
+      }
+    },
     {
       "id": "tradingview:moodys:5f5cdaec5caaf:0",
       "title": "TVS pares Swiss e-bike exposure as overseas bets bleed ₹1,158 crore; Norton losses widen",
@@ -59,6 +179,30 @@
         "urgency": 2,
         "symbols": [
           "NSE:TVSMOTOR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4848985:0",
+      "title": "APLD: 1,560 MW of signed leases underpin $41.13B in base-term value",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4848985:0-apld-1-560-mw-of-signed-leases-underpin-41-13b-in-base-term-value/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:41:58+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:46:14.243398+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:APLD"
         ]
       }
     },
@@ -117,6 +261,30 @@
       }
     },
     {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4848899:0",
+      "title": "Allos : Data-led monetization and real estate growth complement disciplined shareholder returns",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4848899:0-allos-data-led-monetization-and-real-estate-growth-complement-disciplined-shareholder-returns/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:40:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:46:14.243398+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BMFBOVESPA:ALOS3"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tradingview:8ca433c3e83d1:0",
       "title": "Lamor Corporation Plc (LAMOR) Board Member-Associated Company Acquires 14,000 Shares",
       "url": "https://www.tradingview.com/news/tradingview:8ca433c3e83d1:0-lamor-corporation-plc-lamor-board-member-associated-company-acquires-14-000-shares/",
@@ -165,6 +333,30 @@
       }
     },
     {
+      "id": "tradingview:modular_finance:b42a729f77bb9:0",
+      "title": "Lamor Corporation Plc – Managers' transactions – Granarium Oy",
+      "url": "https://www.tradingview.com/news/modular_finance:b42a729f77bb9:0-lamor-corporation-plc-managers-transactions-granarium-oy/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:40:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:46:14.243398+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXHEX:LAMOR"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8761Ea:0",
       "title": "REG - Wetherspoon (JD) PLC - Holding(s) in Company",
       "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8761Ea:0-reg-wetherspoon-jd-plc-holding-s-in-company/",
@@ -185,6 +377,30 @@
         "urgency": 2,
         "symbols": [
           "LSE:JDW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cryptonews:dfa9be5f6094b:0",
+      "title": "Bitcoin News: Swiss ETF Debut Meets $7B Options Expiry and US Strategic Reserve Push",
+      "url": "https://cryptonews.com/news/bitcoin-news-7b-options-expiry-swiss-etf-reserve-bill/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CryptoNews",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:38:32+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:46:14.243398+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
         ]
       }
     },
@@ -354,6 +570,25 @@
           "NYSE:PLD"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/26/anthropic-is-down-7-since-its-ipo-history-says-a-usd5-000-investment-could-be-worth-this-much-in-a-year/?.tsrc=rss",
+      "title": "Anthropic Is Down 7% Since Its IPO. History Says a $5,000 Investment Could Be Worth This Much in a Year.",
+      "url": "https://www.fool.com/investing/2026/11/26/anthropic-is-down-7-since-its-ipo-history-says-a-usd5-000-investment-could-be-worth-this-much-in-a-year/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "IPO stocks tend to have bumpy rides.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:33:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:46:14.245520+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:cnbctv:372043c8b094b:0",
@@ -65385,6 +65620,25 @@
       "extra": {}
     },
     {
+      "id": "msn:8a1d1b641e0b2de4e8234861671215a2fe61bbae",
+      "title": "Jim Cramer Says Micron Stock Is “Comically Cheap” at About 3 Times Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b085446e48b44f48510a320bf122efb&url=https%3a%2f%2f247wallst.com%2finvesting%2f2026%2f11%2f26%2fjim-cramer-says-micron-stock-is-comically-cheap-at-about-3-times-earnings%2f&c=10838865665596492169&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Micron just posted the most profitable year in its history, yet the stock has shed a third of its value in a month. Memory's long record of boom and bust may explain why investors refuse to pay up.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:52:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:46:15.842447+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762O1:0",
       "title": "Oriental Rail Infrastructure Secures Order Worth 41.1 Million Rupees From Integral Coach Factory",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762O1:0-oriental-rail-infrastructure-secures-order-worth-41-1-million-rupees-from-integral-coach-factory/",
@@ -68472,6 +68726,25 @@
       "published_at": "2026-11-26T13:12:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:34:14.574808+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:a0417e1a8270f3e67b561692275430c0a4e8ca30",
+      "title": "Chudenko (TSE:1941) Stock Seems In Line With Earnings After 199% Run",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b085446e48b44f48510a320bf122efb&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fchudenko-tse-1941-stock-seems-131223013.html&c=4874099514742855502&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chudenko has rewarded long term shareholders with strong gains, which naturally raises a question for anyone looking at the stock today. Is the current share price, around ¥5,080 at the last close, ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:12:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:46:15.842447+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -101216,6 +101489,25 @@
       "extra": {}
     },
     {
+      "id": "msn:6d8a98c4af72971745807ec9a8aaefbf1b4deb8b",
+      "title": "Is the stock market open today? Here are the trading hours for Thanksgiving.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b085446adbc4c67a12c6b744da82637&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-thanksgiving%2far-AA2ifPMA&c=15504855894997742158&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "It’s time to give thanks. What traders should know about the stock market on Thanksgiving.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:46:15.842447+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:seekingalpha:2e893931d094b:0",
       "title": "SA Asks: What should Nvidia investors be watching for in the next few weeks? (Update)",
       "url": "https://seekingalpha.com/news/4676388-sa-asks-what-should-nvidia-investors-be-watching-for-in-the-next-few-weeks?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
@@ -106561,6 +106853,25 @@
       "published_at": "2026-11-26T04:24:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:40:12.896720+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:bd869b92a60e2c24c68f9114c2c9c9a993ab54b9",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b085446e48b44f48510a320bf122efb&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:46:15.842447+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -112160,6 +112471,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:43:13.187933+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:13cb1e88b20f0fbcb022ccb64a1ccad49d5f0299",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b085446adbc4c67a12c6b744da82637&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:46:15.842447+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -131920,6 +132250,25 @@
       "extra": {}
     },
     {
+      "id": "msn:71874ef06755d83d54b94402669fe06133382542",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b085446adbc4c67a12c6b744da82637&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:46:15.842447+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -138938,6 +139287,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:43:13.187933+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:fb4f5cd9bd31bb3695bfb8e07a4ec2773e437e9a",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b085446adbc4c67a12c6b744da82637&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:46:15.842447+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -145975,6 +146343,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:43:13.187933+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:4347589863e8b607fd88ceeb3402514bdf98e757",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b085446adbc4c67a12c6b744da82637&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:46:15.842447+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
