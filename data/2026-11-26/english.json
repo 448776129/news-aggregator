@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T09:49:14.351431+08:00",
-  "count": 1830,
+  "generated_at": "2026-11-26T09:52:17.434307+08:00",
+  "count": 1845,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 3,
       "error": ""
     },
     {
@@ -38,6 +38,219 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:stocktwits:ee806a7e4094b:0",
+      "title": "RKLB Stock Rebounds Into Thanksgiving: CFO, COO And Other Execs Sell Nearly $4M In Shares Ahead Of Electron Launch",
+      "url": "https://stocktwits.com/news-articles/markets/equity/rklb-stock-cfo-coo-other-execs-sell-shares-ahead-of-electron-launch/cNbx33ZR9ZR",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:50:14+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:52:14.459158+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:RKLB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:690f6ed90094b:0",
+      "title": "Gold, silver outlook: How US inflation and Fed policy expectations are shaping prices",
+      "url": "https://www.tradingview.com/news/cnbctv:690f6ed90094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:50:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:52:14.459158+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD",
+          "COMEX:SI1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:8b18680e0094b:0",
+      "title": "S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch",
+      "url": "https://www.tradingview.com/news/cnbctv:8b18680e0094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:48:32+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:52:14.459158+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008640_20261125008641:0",
+      "title": "CTG Hongkong & Macao Culture and Tourism Listed by Way of Introduction on Hong Kong Stock Exchange",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008640_20261125008641:0-ctg-hongkong-macao-culture-and-tourism-listed-by-way-of-introduction-on-hong-kong-stock-exchange/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:48:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:52:14.459158+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1821"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008640_20261125008640:0",
+      "title": "CTG Hongkong & Macao Culture and Tourism Shares Last at HK$1.38 on Trading Debut",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008640_20261125008640:0-ctg-hongkong-macao-culture-and-tourism-shares-last-at-hk-1-38-on-trading-debut/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:48:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:52:14.459158+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1821"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4761090:0",
+      "title": "IKE: Subscription growth lifted recurring mix to 85% of revenue; FY27 exit run-rate guidance is >30%",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4761090:0-ike-subscription-growth-lifted-recurring-mix-to-85-of-revenue-fy27-exit-run-rate-guidance-is-30/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:46:26+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:52:14.459158+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:IKE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4761089:0",
+      "title": "IKE: Subscriptions grew 22%; contract timing tempers FY27 recognized revenue growth",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4761089:0-ike-subscriptions-grew-22-contract-timing-tempers-fy27-recognized-revenue-growth/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:46:26+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:52:14.459158+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:IKE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008632:0",
+      "title": "Indian Rupee's Backdrop Turns More Supportive — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008632:0-indian-rupee-s-backdrop-turns-more-supportive-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:46:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:52:14.459158+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008635:0",
+      "title": "Long-Term JGB Yields Rise as Chip Stocks Rebound — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008635:0-long-term-jgb-yields-rise-as-chip-stocks-rebound-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:46:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:52:14.459158+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N477016:0",
       "title": "South Korea to unveil EV industry support measures as Chinese competition grows",
@@ -147,6 +360,32 @@
       }
     },
     {
+      "id": "tradingview:cnbctv:27e31014d094b:0",
+      "title": "Asian markets rise as Wall Street rebound lifts investor sentiment",
+      "url": "https://www.tradingview.com/news/cnbctv:27e31014d094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:41:53+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:52:14.459158+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:KOSPI",
+          "TVC:NI225",
+          "TSE:TOPIX"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47700P:0",
       "title": "Data centre rush drives biggest rise in Australian business investment since mining boom",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47700P:0-data-centre-rush-drives-biggest-rise-in-australian-business-investment-since-mining-boom/",
@@ -167,6 +406,30 @@
         "urgency": 2,
         "symbols": [
           "FX:AUDUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:smallcaps:2aeec259b094b:0",
+      "title": "Duratec Forecasts up to 24% FY27 Revenue Growth on Record Order Book",
+      "url": "https://smallcaps.com.au/article/duratec-forecasts-up-to-24percent-fy27-revenue-growth-on-record-order-book",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Small Caps",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:40:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:52:14.459158+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:DUR"
         ]
       }
     },
@@ -309,6 +572,31 @@
         "urgency": 2,
         "symbols": [
           "TSE:8301"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cointelegraph:d12046175094b:0",
+      "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+      "url": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Cointelegraph",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:33:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:52:14.459158+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ANT",
+          "NASDAQ:OPENAI"
         ]
       }
     },
@@ -34981,6 +35269,25 @@
       "extra": {}
     },
     {
+      "id": "msn:66fecfe28ed8b08e853d057fde8f9b4882b78f51",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0790cef86247e492361300d3d95d4b&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:52:16.289937+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -36470,6 +36777,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T09:49:12.381211+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:00ea21c4391430e7eb5ff3a66998c4cb18e21ebc",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0790cef86247e492361300d3d95d4b&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:52:16.289937+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -38187,6 +38513,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T09:49:12.381211+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:1aa1e510f35b6acf9676635ea8623e3bf250b3b9",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0790cef86247e492361300d3d95d4b&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:52:16.289937+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
