@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T06:25:21.396582+08:00",
-  "count": 172,
+  "generated_at": "2026-11-27T06:28:18.775009+08:00",
+  "count": 179,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 19,
+      "count": 21,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacksu5675918.shtml",
+      "title": "Altria和日本烟草探索收购英国烟草公司帝国品牌",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacksu5675918.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "Altria Group Inc．和日本烟草正在探索潜在收购英国卷烟制造商帝国品牌的可能性，这将加速卷烟市场整合，并可能成为英国十年来规模最大的收购交易之一。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:25:14+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T06:28:14.824175+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkackst3346370.shtml",
       "title": "SAP据悉考虑在重组中裁减至少1万个岗位",
@@ -44,6 +63,111 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127062137540800",
+      "title": "特朗普在海湖庄园发表讲话，宣布佛罗里达州因洪灾进入重大灾害状态。",
+      "url": "https://www.jin10.com/#/flash/20261127062137540800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "特朗普在海湖庄园发表讲话，宣布佛罗里达州因洪灾进入重大灾害状态。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:21:37+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T06:28:13.607776+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127062048533800",
+      "title": "巴西政府：此类言论传播错误信息，与有关巴西动物蛋白生产的广泛现有证据相矛盾。我们敦促法国政府根据科学证据重新审视其立场。",
+      "url": "https://www.jin10.com/#/flash/20261127062048533800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "巴西政府：此类言论传播错误信息，与有关巴西动物蛋白生产的广泛现有证据相矛盾。我们敦促法国政府根据科学证据重新审视其立场。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:20:48+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T06:28:13.607776+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127062025392800",
+      "title": "中国神华(01088.HK)在港交所公告，根据一般授权配售新H股。拟以每股38.10港元配售最多1.77亿股配售股份，较最新收盘价折价7.7%，筹资总额约为67",
+      "url": "https://www.jin10.com/#/flash/20261127062025392800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "中国神华(01088.HK)在港交所公告，根据一般授权配售新H股。拟以每股38.10港元配售最多1.77亿股配售股份，较最新收盘价折价7.7%，筹资总额约为67.43亿港元。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:20:25+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T06:28:13.607776+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127062019992800",
+      "title": "巴西政府：对法国总统马克龙将巴西牛肉称为“使用兴奋剂”的言论表示遗憾。",
+      "url": "https://www.jin10.com/#/flash/20261127062019992800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "巴西政府：对法国总统马克龙将巴西牛肉称为“使用兴奋剂”的言论表示遗憾。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:20:19+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T06:28:13.607776+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127061614139800",
+      "title": "沙特民防部门表示，艾卜哈市、海米斯穆谢特市的危险警报已解除。",
+      "url": "https://www.jin10.com/#/flash/20261127061614139800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "沙特民防部门表示，艾卜哈市、海米斯穆谢特市的危险警报已解除。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:16:14+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T06:28:13.607776+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261127061159899800",
@@ -3181,6 +3305,25 @@
       "extra": {
         "important": 0
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/jjxw/2026-11-27/doc-inkaayat1243162.shtml",
+      "title": "墨西哥总统谴责美国缉毒局干涉墨内政",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-27/doc-inkaayat1243162.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "央视",
+      "summary": "△墨西哥总统辛鲍姆（资料图）当地时间11月26日，墨西哥总统辛鲍姆在新闻发布会上谴责美国缉毒局开设面向墨西哥民众的匿名举报渠道，称此举是对墨西哥内政的干涉。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:48:16+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T06:28:14.824175+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "jin10:20261127004724704800",
