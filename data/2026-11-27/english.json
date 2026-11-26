@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T01:25:29.191358+08:00",
-  "count": 217,
+  "generated_at": "2026-11-27T01:32:13.424855+08:00",
+  "count": 218,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 15,
+      "count": 16,
       "error": ""
     }
   ],
@@ -536,6 +536,25 @@
           "NYSE:MO"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.proactiveinvestors.com/companies/news/1102544/nvidia-faces-credit-rating-review-as-s-p-flags-governance-concerns-1102544.html?.tsrc=rss",
+      "title": "Nvidia faces credit rating review as S&P flags governance concerns",
+      "url": "https://www.proactiveinvestors.com/companies/news/1102544/nvidia-faces-credit-rating-review-as-s-p-flags-governance-concerns-1102544.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "S&P Global Ratings has placed Nvidia Corp (NASDAQ:NVDA, XETRA:NVD)'s AA credit rating on negative watch, citing concerns over corporate governance, board independence and the company’s reliance on CEO Jensen Huang. The review comes amid scrutiny of Huang’s alleged personal relationship...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:16:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:31:11.845009+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:65ccca0cab3bf:0",
