@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T12:07:26.829766+08:00",
-  "count": 2196,
+  "generated_at": "2026-11-26T12:10:19.687023+08:00",
+  "count": 2203,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 5,
       "error": ""
     },
     {
@@ -38,6 +38,28 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261125008811:0",
+      "title": "Singapore 'Very Disappointed' With Proposed U.S. Tariffs",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008811:0-singapore-very-disappointed-with-proposed-u-s-tariffs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:08:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:10:14.252866+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261125008796:0",
       "title": "Kioxia to Work With Nvidia to Expand GPU Memory Capacity",
@@ -61,6 +83,28 @@
           "TSE:285A",
           "NASDAQ:NVDA"
         ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008880_20261125008882:0",
+      "title": "Hang Seng Tech Index 2.6% Higher at Midday",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008880_20261125008882:0-hang-seng-tech-index-2-6-higher-at-midday/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:06:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:10:14.252866+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -26998,6 +27042,25 @@
       }
     },
     {
+      "id": "msn:de29aac1fd57ee9c5c12ec1b151d789d707b5444",
+      "title": "Stock Market Today Live Updates: D-Street starts in green - BSE Sensex rallies over 200 ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07b126160b4afc9d5512e10485a173&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fbusiness%2findia-business%2fsensex-stock-market-today-26-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news%2fliveblog%2f136177442.cms&c=17997459318827749664&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Indian benchmark indices opened higher on Thursday, tracking a rally across Asian markets as concerns over US tariffs eased. Sensex and Nifty gains c ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:53:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:10:16.193306+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47612N:0",
       "title": "New Zealand's Cooks Coffee HY group total income rises as store expansion boosts results",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47612N:0-new-zealand-s-cooks-coffee-hy-group-total-income-rises-as-store-expansion-boosts-results/",
@@ -41084,6 +41147,25 @@
       "extra": {}
     },
     {
+      "id": "msn:df64ea51ceaa46dc7e84579250dac091aa93a6da",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07b126160b4afc9d5512e10485a173&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:10:16.193306+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -43466,6 +43548,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T12:07:25.048482+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:bead95e38c92e5905eedeb4379feb9095a6abc2a",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07b126160b4afc9d5512e10485a173&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:10:16.193306+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -46057,6 +46158,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T12:07:25.048482+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:4a8d3858bdce65fe2f191ef7268a31a9a19af6bc",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07b126160b4afc9d5512e10485a173&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:10:16.193306+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -51267,6 +51387,25 @@
       "published_at": "2026-11-26T00:00:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T11:31:11.434337+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:cdc249b4f0d3ec86656805b56bea2ce1b6f5c7a5",
+      "title": "WH Group (SEHK:288) Stock Looks Like A Bargain On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07b126b19946aa93a795e809a0d7d2&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fwh-group-sehk-288-stock-021347065.html&c=7968561960771326446&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "WH Group has delivered a strong 5 year share price gain, yet the current level still raises a basic question for investors about what its earnings really justify. With the stock moving around over ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:10:16.193306+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
