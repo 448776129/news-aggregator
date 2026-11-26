@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T07:01:18.324352+08:00",
-  "count": 194,
+  "generated_at": "2026-11-27T07:07:13.871641+08:00",
+  "count": 195,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 28,
+      "count": 29,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/roll/2026-11-27/doc-inkacksq7916291.shtml",
+      "title": "金银遭遇深度回调",
+      "url": "https://finance.sina.com.cn/roll/2026-11-27/doc-inkacksq7916291.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "21世纪经济报道",
+      "summary": "黄金走势急转直下，3500美元/盎司被击穿。11月25日晚间，在美联储加息预期升温的压力下，黄金现货价格直接被“打到”3426.32美元/盎司，较年内高点5598.75美元/盎司下跌2172...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:07:12.422431+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacksq7915920.shtml",
       "title": "继180亿美元首轮赠股后，马斯克再加码：每年向全美儿童捐赠一股SpaceX股票",
