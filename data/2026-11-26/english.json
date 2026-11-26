@@ -3,19 +3,19 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T08:01:14.209948+08:00",
-  "count": 1553,
+  "generated_at": "2026-11-26T08:04:14.949157+08:00",
+  "count": 1577,
   "sources": [
     {
       "name": "alpaca",
       "status": "ok",
-      "count": 0,
+      "count": 7,
       "error": ""
     },
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 15,
+      "count": 16,
       "error": ""
     },
     {
@@ -39,6 +39,526 @@
   ],
   "items": [
     {
+      "id": "tradingview:DJN_DN20261125008362:0",
+      "title": "Aschenbrenner's Situational Awareness Tells Investors It Lost 65% in Third Quarter — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008362:0-aschenbrenner-s-situational-awareness-tells-investors-it-lost-65-in-third-quarter-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:03:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.818920+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4788139:0",
+      "title": "TNC: Cloncurry targets 2028 production as Mt Oxide advances toward an Aquila resource",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4788139:0-tnc-cloncurry-targets-2028-production-as-mt-oxide-advances-toward-an-aquila-resource/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:02:16+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.818920+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:TNC"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131224833",
+      "title": "RBC Global Asset Management Announces Estimated 2026 Annual Reinvested Capital Gains Distributions",
+      "url": "https://www.newswire.ca/news-releases/rbc-global-asset-management-inc-announces-estimated-annual-reinvested-capital-gains-distributions-for-rbc-etfs-and-etf-series-of-rbc-funds-847656792.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "RBC Global Asset Management Inc. has announced estimated 2026 annual reinvested capital gains distribution amounts for its RBC ETFs and ETF Series of RBC Funds.",
+      "content": "RBC Global Asset Management Inc. (RBC GAM Inc.) provided estimated annual reinvested capital gains distribution amounts for its suite of RBC ETFs and ETF Series of RBC Funds, based on data as of October 31, 2026. These figures are estimates and remain subject to change based on subscriptions, redemptions, or portfolio transactions occurring before the ex-dividend date. The company expects to announce final annual reinvested distribution amounts and final December monthly cash distributions on or about December 29, 2026. Unitholders of record as of December 30, 2026, will be eligible for the 2026 annual reinvested distributions.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:01:52+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.829687+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "RY"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131224832",
+      "title": "RTX's Pratt & Whitney Awarded $2.53 Billion U.S. Navy Contract",
+      "url": "https://www.marketscreener.com/news/rtx-unit-pratt-whitney-gets-2-53-billion-navy-contract-ce7851d8dd8cf02d",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "RTX Corporation's Pratt & Whitney segment secured a $2.53 billion contract from the U.S. Navy to provide support for F135 propulsion systems on F-35 Lightning II aircraft.",
+      "content": "RTX Corporation's Pratt & Whitney unit has been awarded a $2.53 billion contract by the U.S. Navy to support F135 propulsion systems used in F-35 Lightning II aircraft. The non-competitively procured agreement encompasses a range of services, including maintenance, repair, engineering, training, and the provision of spare parts. Work under this contract is scheduled for completion in November 2027. This award represents a significant commitment to the sustainment of the F-35 propulsion fleet.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:01:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.829687+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "RTX"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131224831",
+      "title": "BNY and Microsoft Complete AI Agent Pilot for Treasury Trading",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bny-and-microsoft-let-ai-agents-haggle-over-treasurys/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "BNY and Microsoft have successfully completed a pilot program using AI agents to negotiate U.S. Treasury bill trades within predefined limits.",
+      "content": "The pilot utilized BNY's patent-pending Agentic Negotiation Protocol to facilitate secure, automated negotiations between AI agents. Microsoft Treasury provided specific trading instructions to its agent, which operated within authorized limits for counterparty, security, size, and settlement terms. The protocol recorded all messages and human decisions, and BNY intends to expand the technology to include repurchase agreements and other multi-party negotiations.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:01:33+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.829687+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MSFT"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131224830",
+      "title": "Netflix Cancels Development of Will Ferrell's 'The Hawk'",
+      "url": "https://www.avclub.com/article-type/news",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Netflix has reportedly decided not to move forward with the development of the project 'The Hawk', which was set to star Will Ferrell.",
+      "content": "Netflix has officially canceled the development of the project titled 'The Hawk', which was slated to feature actor Will Ferrell. The decision marks a change in the company's production slate. No further details regarding the rationale behind the cancellation or the status of the project's development were provided in the report.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:01:33+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.829687+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "NFLX"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131224829",
+      "title": "SpaceX Adjusts GPU Rental Rates and Faces Lease Non-Renewal",
+      "url": "https://www.moomoo.com/news/post/1005800757/spacex-reportedly-cuts-blackwell-gpu-rental-rates-by-up-to",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Reports indicate that SpaceX has reduced rental fees for NVIDIA Blackwell GPUs and that Anthropic will not renew its lease for a cluster of H200 GPUs.",
+      "content": "SpaceX has reportedly implemented price adjustments for its GPU rental services, including a reduction in rental fees for small-scale clusters of NVIDIA Blackwell GPUs by up to 35%. Additionally, the AI company Anthropic has decided not to renew its lease for a cluster of approximately 50,000 H200 GPUs from SpaceX. SpaceX is currently seeking new tenants for this computing capacity, with deliveries expected in early 2027. Market data suggests that SpaceX's current pricing for these H200 units is approximately 23% below the prevailing market transaction price, reflecting the company's assessment of future rental trends.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:01:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.829687+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SPCX"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131224828",
+      "title": "BlackRock Canada Announces Estimated 2026 Annual Reinvested Capital Gains Distributions for iShares ETFs",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410604/0/en/blackrock-canada-announces-estimated-2026-annual-reinvested-capital-gains-distributions-for-the-ishares-etfs.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "BlackRock Asset Management Canada Limited has released its estimated 2026 annual reinvested capital gains distributions for its iShares ETFs listed on the TSX and Cboe Canada.",
+      "content": "BlackRock Canada announced the estimated 2026 annual reinvested capital gains distributions for its iShares ETFs. These figures are based on estimates as of October 30, 2026, and are subject to change before the final tax year-end distributions. The company expects to announce final distribution amounts on or about December 29, 2026, with a record date of December 30, 2026. These distributions are part of the firm's standard annual tax reporting process for its exchange-traded funds.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:01:27+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.829687+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BLK"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131224827",
+      "title": "Morgan Stanley B.V. Announces Early Redemption of Security",
+      "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_25-11-2026/9894283",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Morgan Stanley B.V. has issued a notice for the early redemption of security ISIN XS3458524413, scheduled for settlement on November 30, 2026.",
+      "content": "Morgan Stanley B.V. has notified the market of an early redemption for the security identified by ISIN XS3458524413. The redemption involves a principal amount of 725,000, with settlement set for November 30, 2026. This action will result in a corresponding cash outflow and a reduction in the outstanding principal of the security. No further financial terms, such as coupon or currency details, were disclosed in the notice.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:01:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.829687+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008359_20261125008359:0",
+      "title": "Nikkei Stock Average Opens 0.7% Higher at 57429.54, Led by Auto, Electronics Stocks",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008359_20261125008359:0-nikkei-stock-average-opens-0-7-higher-at-57429-54-led-by-auto-electronics-stocks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.818920+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008356_20261125008356:0",
+      "title": "South Korea's Kospi Opens 1.0% Higher at 4745.10",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008356_20261125008356:0-south-korea-s-kospi-opens-1-0-higher-at-4745-10/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.818920+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:e85e40451094b:0",
+      "title": "Cronos: 1.17 Billion CRO Unlocks for the Treasury - 15 Feb 2027",
+      "url": "https://coinmarketcal.com/event/token-unlock-a2a4416c-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:00:44+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.818920+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:CRON"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:575baec38094b:0",
+      "title": "Cronos: Treasury Unlock Releases 1.17 Billion CRO - 16 Jan 2027",
+      "url": "https://coinmarketcal.com/event/token-unlock-d63b56a8-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:00:23+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.818920+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:CRON"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:329ad3d3b094b:0",
+      "title": "Cronos: Treasury unlock releases 1.17 billion CRO - 16 Dec 2026",
+      "url": "https://coinmarketcal.com/event/token-unlock-da6510fa-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:00:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.818920+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:CRON"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:a8ec1ebcead24:0",
+      "title": "Absolutely Critical Resources Corp. (ABC) Identifies Five High-Priority Drill Targets",
+      "url": "https://www.tradingview.com/news/tradingview:a8ec1ebcead24:0-absolutely-critical-resources-corp-abc-identifies-five-high-priority-drill-targets/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:00:05+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.818920+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:ABC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_Tnw4RPPBC:0",
+      "title": "Absolutely Critical Resources Provides Update",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_Tnw4RPPBC:0-absolutely-critical-resources-provides-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TheNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:00:05+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.818920+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:ABC",
+          "TSXV:MINK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:5ce2611479246:0",
+      "title": "Light & Wonder Insiders Sold Shares Worth Over $3.8M",
+      "url": "https://www.tradingview.com/news/tradingview:5ce2611479246:0-light-wonder-insiders-sold-shares-worth-over-3-8m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:00:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.818920+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:LNW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4740RG:0",
+      "title": "Black Friday? No thanks, some brands say",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4740RG:0-black-friday-no-thanks-some-brands-say/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.818920+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:EL",
+          "CRYPTO:REIUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:890ce86089d34:0",
+      "title": "Daewoong Pharmaceutical Receives Phase 1 IND Approval for Cancer Drug Candidate",
+      "url": "https://www.tradingview.com/news/tradingview:890ce86089d34:0-daewoong-pharmaceutical-receives-phase-1-ind-approval-for-cancer-drug-candidate/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.818920+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:069620"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:164327db78c45:0",
+      "title": "Daewoong Pharmaceutical Receives Phase 1 IND Approval for Its In-House-Developed TEAD1/2 Inhibitor 'DWP216262'",
+      "url": "https://www.tradingview.com/news/prnewswire:164327db78c45:0-daewoong-pharmaceutical-receives-phase-1-ind-approval-for-its-in-house-developed-tead1-2-inhibitor-dwp216262/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.818920+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762KG:0",
+      "title": "UK National Energy System Operator Issues Electricity Margin Notice For Thursday",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762KG:0-uk-national-energy-system-operator-issues-electricity-margin-notice-for-thursday/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:59:32+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.818920+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4828958:0",
+      "title": "WRK: Q1 adoption accelerated as STN-to-Fund processing set up a new revenue stream",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4828958:0-wrk-q1-adoption-accelerated-as-stn-to-fund-processing-set-up-a-new-revenue-stream/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:58:31+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.818920+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:WRK"
+        ]
+      }
+    },
+    {
       "id": "tradingview:DJN_DN20261125008344:0",
       "title": "Nikkei May Rise After Wednesday's Selloff — Market Talk",
       "url": "https://www.tradingview.com/news/DJN_DN20261125008344:0-nikkei-may-rise-after-wednesday-s-selloff-market-talk/",
@@ -60,6 +580,28 @@
         "symbols": [
           "TVC:NI225"
         ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008345:0",
+      "title": "Nikkei May Rise After Wednesday's Selloff — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008345:0-nikkei-may-rise-after-wednesday-s-selloff-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:53:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.818920+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -17242,6 +17784,30 @@
           "NYSE:FIS",
           "COINBASE:LINKUSD"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8810336",
+      "title": "Pakistan's PIA to shift UK flights to own fleet after Norse Atlantic suspension - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkFGakJWZVBjNkpWNGJSajBSZFVudDhWdVhpYU4xWjROeWRjZ05JMHpDa0oxekJDeUUxQTVIVHc3cUZYQktSbmV1bVFZT2VsR0tJVW1NWk9maVVmU0RrY1J0U050cU14S2s5MEZLS28xM3lIVDEzcThxbmlGWXBvOGxaZkNEbEZJdGN5aFRxSndmU0RhSGVyN0tsaS1SWkl1WFJ2ajZZcWJnMEJSS2NZd3A0QUp4MFdPRk1jWlg2SWdhaEFqdlpLZlRTT1JLcVla?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Pakistan's PIA to shift UK flights to own fleet after Norse Atlantic suspension Reuters",
+      "content": "Pakistan's PIA to shift UK flights to own fleet after Norse Atlantic suspension Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T03:32:39+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:04:09.968635+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
