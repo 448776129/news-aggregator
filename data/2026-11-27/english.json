@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T05:28:17.115690+08:00",
-  "count": 500,
+  "generated_at": "2026-11-27T05:31:17.195330+08:00",
+  "count": 501,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 0,
+      "count": 10,
       "error": ""
     },
     {
@@ -33,11 +33,37 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 26,
+      "count": 25,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47712P:0",
+      "title": "Australia shares set to rise at open, NZ flat",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47712P:0-australia-shares-set-to-rise-at-open-nz-flat/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:29:18+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T05:31:13.188578+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:XJO",
+          "NZX:NZ50G",
+          "SP:XJO"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N47714R:0",
       "title": "US, Qatar to help Venezuela clear regional development bank arrears, sources say",
