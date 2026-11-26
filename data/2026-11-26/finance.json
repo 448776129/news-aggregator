@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T16:52:20.229851+08:00",
-  "count": 1607,
+  "generated_at": "2026-11-26T16:55:13.117331+08:00",
+  "count": 1615,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 47,
+      "count": 48,
       "error": ""
     },
     {
@@ -26,6 +26,63 @@
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/world/2026-11-26/doc-inkaaaxi3732281.shtml",
+      "title": "日本央行9月末ETF持仓规模达100万亿日元",
+      "url": "https://finance.sina.com.cn/world/2026-11-26/doc-inkaaaxi3732281.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "日本央行今年上半年最新财务报表显示，截至9月末，该行交易所交易基金持仓总价值达到113.1万亿日元（合7100亿美元）。 财报显示，其中ETF持仓未实现收益扩大至76...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:54:44+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:55:09.311855+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/world/2026-11-26/doc-inkaaaxi3732072.shtml",
+      "title": "卡塔尔增加液化天然气出口 冬季需求临近峰值",
+      "url": "https://finance.sina.com.cn/world/2026-11-26/doc-inkaaaxi3732072.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "卡塔尔液化天然气出口升至美伊战争开打以来新高，克服霍尔木兹海峡的运输扰动，在欧亚进入冬季需求旺季之际向两地加大供气。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:54:27+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:55:09.311855+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaaxe8201437.shtml",
+      "title": "巴克莱策略师：股票回购将为欧洲股市提供支撑",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaaxe8201437.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "巴克莱银行策略师表示，欧洲企业股票回购有望成为更加持久的市场支撑力量。大量尚未执行的回购计划以及现金支持的股东回报，将在股市波动加剧的背景下为投资者提供缓冲。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:52:39+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:55:09.311855+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaaxe8200678.shtml",
       "title": "法国电力预计新核电融资规定将释放数十亿欧元资金",
@@ -65,6 +122,69 @@
       "extra": {}
     },
     {
+      "id": "jin10:20261126165019515800",
+      "title": "白银期货与ETF资金分化，瑞银看涨明年银价至65美元",
+      "url": "https://www.jin10.com/#/flash/20261126165019515800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "白银期货与ETF资金流向出现明显分化，瑞银预计今年白银市场接近供需平衡，但随着明年美国通胀放缓，银价有望逐步回升至65美元。点击查看…",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:50:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:55:08.208277+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261126165007987800",
+      "title": "The onshore yuan closed at 6.6600 per dollar at 16:30 on Nov. 26, up 136 pips fr",
+      "url": "https://www.jin10.com/#/flash/20261126165007987800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "The onshore yuan closed at 6.6600 per dollar at 16:30 on Nov. 26, up 136 pips from the previous close.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:50:07+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:55:08.208277+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126165006002800",
+      "title": "在岸人民币兑美元11月26日16:30收盘报6.6600，较上一交易日上涨136点。",
+      "url": "https://www.jin10.com/#/flash/20261126165006002800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "在岸人民币兑美元11月26日16:30收盘报6.6600，较上一交易日上涨136点。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:50:06+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:55:08.208277+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaaxc1422655.shtml",
       "title": "越南敦促企业制定应对美国关税风险的预案",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaaxc1422655.shtml",
@@ -82,6 +202,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261126164921065800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261126164921065800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:49:21+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:55:08.208277+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261126164618622800",
@@ -427,6 +568,25 @@
       "extra": {
         "important": 0
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/china/2026-11-26/doc-inkaaawz8942269.shtml",
+      "title": "美国称将对华加征20%关税，如谈判不顺利或增至40%，中方最新表态",
+      "url": "https://finance.sina.com.cn/china/2026-11-26/doc-inkaaawz8942269.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "市场资讯",
+      "summary": "来源：华夏时报 11月26日，外交部发言人郭嘉昆主持例行记者会。 彭博社记者提问，美国宣布即将加征新一轮关税，针对中国产品的进口税率将为20%...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:37:49+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:55:09.311855+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "jin10:20261126163744554800",
