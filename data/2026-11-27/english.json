@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T00:52:15.257637+08:00",
-  "count": 124,
+  "generated_at": "2026-11-27T00:55:14.289502+08:00",
+  "count": 125,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 10,
+      "count": 11,
       "error": ""
     }
   ],
@@ -157,6 +157,25 @@
           "AMEX:JPO"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/26/did-arm-ceo-rene-haas-dodge-a-bullet-with-jensen-huangs-reinstatement-at-nvidia/?.tsrc=rss",
+      "title": "Did Arm CEO Rene Haas Dodge a Bullet With Jensen Huang’s Reinstatement at Nvidia?",
+      "url": "https://247wallst.com/investing/2026/11/26/did-arm-ceo-rene-haas-dodge-a-bullet-with-jensen-huangs-reinstatement-at-nvidia/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Which looks stronger for a retirement-focused investor right now: Arm Holdings (NASDAQ:ARM) or NVIDIA (NASDAQ:NVDA)? The question got sharper this month. Arm CEO Rene Haas was reportedly considered for NVIDIA’s top job after Jensen Huang’s November 12 resignation. Bloomberg reported that Haas spoke with NVIDIA directors but expressed reservations, and Huang was reinstated on November […]",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:49:41+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:55:10.252343+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:urn:summary_document_transcript:quartr.com:4850347:0",

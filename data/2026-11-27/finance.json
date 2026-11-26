@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T00:49:18.440275+08:00",
-  "count": 19,
+  "generated_at": "2026-11-27T00:55:14.291592+08:00",
+  "count": 20,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaayat1227411.shtml",
+      "title": "报道：伊朗否认袭击了科威特一处关键设施",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaayat1227411.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "据News报道，伊朗武装部队高级发言人Abolfazl Shekarchi表示，伊朗“坚决且完全”否认科威特军方关于伊朗部队袭击该国一处关键设施的说法。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:54:43+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:55:11.879610+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261127004723101800",
       "title": "据伊拉克国家通讯社报道，伊拉克边境部队司令表示，伊拉克与叙利亚之间的瓦利德（Waleed）口岸已关闭。",
