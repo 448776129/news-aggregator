@@ -3,25 +3,25 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T16:01:14.659077+08:00",
-  "count": 3382,
+  "generated_at": "2026-11-26T16:04:15.259716+08:00",
+  "count": 3463,
   "sources": [
     {
       "name": "alpaca",
       "status": "ok",
-      "count": 45,
+      "count": 50,
       "error": ""
     },
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 36,
+      "count": 37,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 5,
       "error": ""
     },
     {
@@ -38,6 +38,1278 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8011Ea:0",
+      "title": "REG - Aura Energy Limited - Results of 2026 AGM and Election of Director",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8011Ea:0-reg-aura-energy-limited-results-of-2026-agm-and-election-of-director/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:03:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:AEE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762OQ:0",
+      "title": "Konecranes To Supply 12 Hybrid Straddle Carriers To South Africa",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762OQ:0-konecranes-to-supply-12-hybrid-straddle-carriers-to-south-africa/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:03:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXHEX:KCR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239532",
+      "title": "Kriptown Extends Takeover Offer for Spotlight Group",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/kriptown-verlaengert-uebernahmeangebot-fuer-spotlight-group-erneut-ce7851d8dc81f721",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Kriptown has once again extended its takeover offer for Spotlight Group AB.",
+      "content": "Kriptown has announced a further extension of its takeover offer for Spotlight Group AB. The development was reported on November 26, 2026. This move represents a continuation of the ongoing acquisition process involving the Swedish financial services company.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:03:16+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SPGR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239407",
+      "title": "FASING S.A. Q3 2026 Consolidated Quarterly Report",
+      "url": "https://pap-mediaroom.pl/biznes-i-finanse/fasing-sa-raport-okresowy-kwartalny-skonsolidowany-32026-qsr",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "FASING S.A. published its consolidated quarterly report for the third quarter of 2026.",
+      "content": "On November 25, 2026, FASING S.A. released its consolidated quarterly report for the third quarter of 2026. The filing provides updated financial information for the company, including the book value per share. This disclosure fulfills the company's periodic reporting requirements as a publicly traded entity.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:48+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "FSG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239406",
+      "title": "Sensys Gatso Unit Wins Canadian Traffic Camera Deal",
+      "url": "https://www.marketscreener.com/news/sensys-gatso-unit-wins-canadian-traffic-camera-deal-ce7851dbd08bf026",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Sensys Gatso Group AB has secured a new contract in Canada for traffic enforcement technology, valued at up to SEK 87 million.",
+      "content": "Sensys Gatso Group AB has announced a new contract win in Canada for the provision of traffic camera systems. The agreement is valued at up to SEK 87 million. This development marks a significant expansion for the company into the Canadian market, further extending its global footprint in automated traffic enforcement solutions.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:48+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SGG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239405",
+      "title": "TF1 Selects Ateme as Technology Partner for Streaming Service",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/tf1-gewinnt-ateme-als-technologiepartner-fuer-streamingdienst-ce7851dbd08bff22",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "French media group TF1 has chosen Ateme to provide technology solutions for its streaming service.",
+      "content": "TF1 has entered into a partnership with Ateme to leverage the company's video compression and delivery software for its streaming platform. This collaboration aims to enhance the efficiency and quality of TF1's digital video distribution. The agreement positions Ateme as a key technology provider for the broadcaster's streaming infrastructure. The partnership was reported on November 25, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:45+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ATEME"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239404",
+      "title": "Herkules S.A. Publishes Financial Data via ESPI",
+      "url": "https://pap-mediaroom.pl/biznes-i-finanse/herkules-sa-w-restrukturyzacji-raport-okresowy-kwartalny-skonsolidowany-32026-qsr",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Herkules S.A. released financial information through the ESPI system on November 26, 2026.",
+      "content": "Herkules S.A. disclosed financial data via the ESPI (Electronic Information Transmission System) on November 26, 2026. The report includes key financial metrics such as cash flow figures and earnings per share from continuing operations. This disclosure follows the company's standard regulatory reporting obligations.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:44+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "HRS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239403",
+      "title": "3R Games S.A. Publishes Q3 2026 Quarterly Report",
+      "url": "https://pap-mediaroom.pl/biznes-i-finanse/3r-games-sa-raport-okresowy-kwartalny-32026-q",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "3R Games S.A. released its quarterly financial report for the third quarter of 2026 on November 25, 2026.",
+      "content": "3R Games S.A. has officially released its quarterly financial report for the third quarter of 2026. The report, designated as 3/2026 Q, provides updated financial information regarding the company's performance during this period. This disclosure serves as a standard periodic reporting requirement for the company.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "3RG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239402",
+      "title": "Smoltek Receives SEK 1.1 Million Grant for Battery Technology Development",
+      "url": "https://www.avanza.se/nyheter.html?a=%2Ftelegram%2Favanza%2F8_e7cdeef9-0e73-4971-b5d4-9cf5e3df86b2",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Smoltek Nanotech Holding AB has been awarded a grant of 1,120,000 SEK from Vinnova to advance the development and industrial validation of its carbon nanofiber technology for battery applications.",
+      "content": "Smoltek Nanotech Holding AB announced it has received a grant totaling 1,120,000 SEK from the Swedish innovation agency Vinnova. The funding is designated for two projects focused on the development and industrial validation of the company's proprietary carbon nanofiber (CNF) technology for use in the battery sector. These projects are being conducted in collaboration with RISE (Research Institutes of Sweden) and Chalmers University of Technology. The initiative aims to leverage external research expertise and infrastructure to accelerate the evaluation and development of Smoltek's CNF technology for next-generation battery applications.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SMOL"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239401",
+      "title": "Hunter Group Subsidiary Increases Stake in Jacktel",
+      "url": "https://ch.marketscreener.com/boerse-nachrichten/beteiligung-der-hunter-group-tochter-an-jacktel-soll-nach-abwicklung-der-kaufangebote-auf-92-5-ste-ce7851d8dc8ef527",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "A subsidiary of Hunter Group ASA is set to increase its ownership in Jacktel AS to 92.5% following the completion of its cash purchase offer.",
+      "content": "Following the settlement of its recommended cash purchase offer for shares in Jacktel AS, a subsidiary of Hunter Group ASA is expected to reach a 92.5% ownership stake in the company. This development follows the formal completion of the purchase offer, as reported on November 26, 2026. The transaction represents a significant consolidation of control over Jacktel AS by the Hunter Group entity.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:41+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "JACK"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239400",
+      "title": "Flekkefjord Sparebank Announces Bond Loan Expansion and Buyback",
+      "url": "https://live.euronext.com/en/markets/oslo/equities/company-news",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Flekkefjord Sparebank has initiated a corporate action involving the expansion of an existing bond loan and a concurrent buyback.",
+      "content": "On November 25, 2026, Flekkefjord Sparebank announced a regulatory action concerning the expansion of a bond loan and a buyback program. This move reflects the bank's ongoing management of its debt and capital structure. As the issuer, the bank provided this information through official regulatory channels. The announcement details the bank's strategic approach to its outstanding debt obligations.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:41+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "FFSB"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239399",
+      "title": "Lleida.net Surpasses 20,000 Active Customers",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410464/0/en/lleida-net-surpasses-20-000-active-customers.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Lleida.net announced that it has exceeded 20,000 active customers as of November 2026, marking the highest figure in the company's history.",
+      "content": "Lleida.net reported that its active customer base surpassed 20,000 in November 2026, representing a significant increase from the 2,700 customers it served during the pandemic. The company, which provides certified electronic notification and digital signature services, noted that it added over 7,400 customers since June 2026. Management attributes part of this growth to the implementation of Organic Law 1/2025, which requires proof of an attempt at out-of-court dispute resolution before filing civil or commercial lawsuits, a process for which the company's certified email service is frequently utilized. The company defines an active customer as a unique tax identification number (CIF or NIF) that may hold multiple user accounts.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:41+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "LLN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239398",
+      "title": "Banca Sella S.p.A. Issues New Bond",
+      "url": "https://www.finanzen.at/anleihen/banca_sella_spaeo-med-term_hyp-pfdbr2631-anleihe-2031-it0005734196",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Banca Sella S.p.A. has issued a new bond with a total volume of 400 million euros, maturing on January 26, 2031.",
+      "content": "Banca Sella S.p.A. has completed the issuance of a new bond with a total volume of 400 million euros. The bond carries a coupon rate of 3.7500% and is scheduled to mature on January 26, 2031. Interest payments are made annually on January 26. The issuance was reported on November 26, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:39+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BSEL"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239397",
+      "title": "Minesto Resolves on Rights Issue of Approximately SEK 130 Million",
+      "url": "https://www.prnewswire.com/news-releases/minesto-resolves-on-a-rights-issue-of-approximately-sek-130-million-and-announces-final-terms-302950874.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Minesto AB has announced a rights issue to raise approximately SEK 130 million to fund commercial project development and working capital.",
+      "content": "Minesto AB's Board of Directors has resolved to conduct a rights issue of up to 433,519,353 new shares, aiming to raise approximately SEK 130 million before costs. The subscription price is set at SEK 0.30 per share, representing a discount of about 30 percent to the theoretical ex-rights price. Shareholders of record on December 3, 2026, will receive five subscription rights for each existing share, with three rights entitling the holder to subscribe for one new share. The subscription period is scheduled from December 7, 2026, to December 21, 2026. The company intends to use the net proceeds to advance commercial arrays in the Faroe Islands and Ireland, implement technology advancements, and support general working capital needs.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:39+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MINEST"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239396",
+      "title": "Adler Group S.A. Announces Results for Nine-Month Period Ending September 2026",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-news-adler-group-s-a-announces-results-for-9m-2026-demonstrating-solid-performance-1036802235",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Adler Group S.A. reported its financial results for the first nine months of 2026, highlighting solid rental performance and the successful refinancing of all 2026 debt maturities.",
+      "content": "Adler Group S.A. released its financial results for the nine-month period ending September 30, 2026. The company reported a 3.5% like-for-like rental growth in its Berlin-focused portfolio, with an operational vacancy rate of 1.1%. Net rental income for the period was €96 million, down from €101 million in the same period last year, primarily due to portfolio disposals. The company confirmed its full-year 2026 net rental income guidance of €124–129 million. Additionally, Adler Group reported an income from operating activities of minus €13 million, a significant improvement from the minus €238 million reported in the prior-year period, and noted that all indebtedness due in 2026 has been refinanced.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ADJ"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239395",
+      "title": "JPMorgan Lowers Price Target on Novocure Ltd. (NVCR)",
+      "url": "https://www.streetinsider.com/news.php?id=27398296&classic=1",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "JPMorgan has adjusted its price target for Novocure Ltd. (NVCR), lowering it to $13.",
+      "content": "On November 25, 2026, JPMorgan updated its outlook on Novocure Ltd. (NVCR), reducing the price target for the company's stock to $13. This adjustment reflects the firm's latest analysis of the company's valuation and market position. The update was reported as part of a broader series of analyst price target revisions.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:37+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "NVCR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239394",
+      "title": "FIPP Announces Availability of Preparatory Documents for Ordinary General Meeting",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410077/0/fr/fipp-communiqu%C3%A9-de-mise-%C3%A0-disposition-des-documents-pr%C3%A9paratoires-%C3%A0-l-assembl%C3%A9e-g%C3%A9n%C3%A9rale-ordinaire-du-16-d%C3%A9cembre-2026.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "FIPP has made the preparatory documents for its upcoming Ordinary General Meeting, scheduled for December 16, 2026, available to the public.",
+      "content": "The company announced that it has made the preparatory documents for the Ordinary General Meeting (AGO) to be held on December 16, 2026, available to the public. This disclosure is in accordance with the requirements of Article R.22-10-23 of the French Commercial Code. Interested parties can access these documents on the company's official website under the 'regulated information' section in the 'general meetings' tab.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:37+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "FIPP"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239393",
+      "title": "Valbiotis Launches Product Sales in China Under Laviela Brand",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70229839-valbiotis-begins-sales-in-china-with-laviela-its-brand-dedicated-to-asia-015.htm",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Valbiotis has officially commenced the sale of its cardiometabolic health products in China through its Laviela brand, utilizing cross-border e-commerce channels.",
+      "content": "Valbiotis has initiated sales of its products in China under the Laviela brand, marking a significant step in its Asian market expansion strategy. The products are marketed by Hangzhou Valbiotis Life Health Technology Co. Ltd., a joint venture 49%-owned by Valbiotis and 51%-owned by the Chinese group Aika. The launch utilizes cross-border e-commerce (CBEC) platforms, specifically Tmall Global, with plans to expand to Douyin in the near future. This development fulfills the agreement signed with Aika in November 2025 and follows the registration of three products in Hong Kong and Singapore. The company intends to continue expanding its range in Asia by identifying local market opportunities and developing products tailored to regional health needs.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:35+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ALVAL"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239392",
+      "title": "Wolftank Group Reports 9-Month 2026 Financial Results and New Maintenance Contract",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-news-wolftank-group-bestatigt-operative-erholung-nach-neun-monaten-umsatz-+15percent-ebitda-bei-eur-6-8-mio--1036798858",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Wolftank Group AG announced a 15.2% revenue increase for the first nine months of 2026 and confirmed its full-year guidance, alongside securing a new four-year maintenance contract worth up to EUR 22.3 million.",
+      "content": "Wolftank Group AG reported a revenue of EUR 104.5 million for the first nine months of 2026, representing a 15.2% increase compared to the same period in 2025. The company achieved an EBITDA of EUR 6.8 million, resulting in an EBITDA margin of 6.5%, a significant improvement from the EUR -0.5 million EBITDA reported in the prior-year period. Despite a challenging economic environment characterized by high energy and transport costs, the company confirmed its full-year 2026 guidance of approximately EUR 135 million in revenue and an EBITDA margin of 6-7%. Additionally, the company announced it secured a four-year maintenance contract in the environmental services segment with an estimated maximum value of EUR 22.3 million, covering operations in the Italian regions of Campania, Lazio, Umbria, and Tuscany starting November 1, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:34+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "WOLF"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239391",
+      "title": "Sonae Group's MC Deploys StrongPoint Order Picking Solution",
+      "url": "https://retailtechinnovationhub.com/category/grocery-retail?page=2",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Sonae Group's retail division, MC, has implemented StrongPoint's order picking technology across its Continente and Wells store locations.",
+      "content": "Sonae Group's MC has deployed StrongPoint's proprietary order picking solution to enhance e-commerce operations across its Continente and Wells retail banners. This implementation is part of the retailer's efforts to improve store efficiency and streamline the fulfillment process for online orders. StrongPoint continues to serve as a key technology partner for grocery retailers in the region, providing integrated hardware and software solutions. The deployment underscores the ongoing adoption of StrongPoint's retail technology suite in the European market.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:32+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "STRO"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239390",
+      "title": "Class Editori Presents MF GPT at Salone dei Pagamenti",
+      "url": "https://www.milanofinanza.it/news/pagamenti-il-cambiamento-corre-piu-veloce-delle-notizie-al-salone-dei-pagamenti-2026-la-prova-di-mf-202611251818229889",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Class Editori is showcasing its generative AI tool, MF GPT, at the 11th edition of the Salone dei Pagamenti in Milan.",
+      "content": "During the Salone dei Pagamenti event in Milan, Class Editori is presenting MF GPT, an autonomous generative artificial intelligence tool designed for economic and financial information. The system is built on forty years of financial data from the company's editorial teams, including MF-Milano Finanza and Class CNBC, and is designed to provide verified, source-cited responses, reports, and data analysis. The presentation includes a live demonstration of how the AI assists investors and businesses in navigating complex financial topics such as digital currencies and instant payments.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:32+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "CLE"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239389",
+      "title": "ZREMB-CHOJNICE S.A. Signs Term Sheet for Major Defense Industry Contract",
+      "url": "https://pap-mediaroom.pl/biznes-i-finanse/zremb-chojnice-sa-412026-zawarcie-term-sheet-dotyczacego-przyszlych-dostaw-na",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "ZREMB-CHOJNICE S.A. has entered into a term sheet for the future supply of specialized containers to a major defense contractor in a NATO country, with an expected contract value exceeding 100 million PLN.",
+      "content": "On November 25, 2026, ZREMB-CHOJNICE S.A. announced the signing of a term sheet regarding the future delivery of partially equipped containers to a major entity in the defense and armaments sector located in a NATO country. The parties intend for the final contract to result in remuneration for the company exceeding 100,000,000 PLN. This agreement outlines the preliminary conditions for the future supply arrangement. The company disclosed this development through an official regulatory filing.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ZRE"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239388",
+      "title": "Thor Medical Pauses Commercial Ramp-up of Norwegian Production Facility",
+      "url": "https://ch.marketscreener.com/boerse-nachrichten/thor-medical-pausiert-den-kommerziellen-hochlauf-der-produktionsanlage-in-norwegen-ce7851d8df89f22c",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Thor Medical has announced a pause in the commercial ramp-up of its production facility in Norway.",
+      "content": "Thor Medical has decided to pause the commercial ramp-up of its production facility located in Norway. This operational decision marks a shift in the company's immediate production strategy. The company, which specializes in the production of alpha-particle emitters for cancer therapy, had previously been working toward scaling its operations. The announcement reflects a change in the company's current development timeline for its production capabilities.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "TRMED"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239387",
+      "title": "FluoGuide A/S Publishes Interim Report for Q3 2026",
+      "url": "https://www.morningstar.com/news/accesswire/1297799msn/fluoguide-as-publishes-interim-report-for-q3-2026",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "FluoGuide A/S released its financial results for the period of January 1, 2026, to September 30, 2026, and highlighted progress in its clinical development programs.",
+      "content": "FluoGuide A/S has published its interim report for the third quarter of 2026, covering the period from January 1 to September 30, 2026. Alongside the financial results, the company reported a key operational milestone: the enrollment of the first patient in the CT-006 clinical trial for high-grade glioma. This study is one of two trials intended to support the New Drug Application (NDA) for the company's lead product, FG001. CEO Morten Albrechtsen stated that the company's primary focus is to succeed in the high-grade glioma program, noting that the study design has been directionally aligned with the FDA.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "FLUO"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239386",
+      "title": "Hopscotch Groupe Monthly Voting Rights and Shares Disclosure",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410460/0/fr/hopscotch-groupe-droits-de-vote-et-actions-octobre-2026.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Hopscotch Groupe has released its monthly disclosure regarding the total number of voting rights and shares comprising its share capital as of the end of October 2026.",
+      "content": "Hopscotch Groupe published its mandatory monthly declaration detailing the total number of shares and voting rights associated with its share capital. The disclosure provides the total number of voting rights attached to the total number of shares, adjusted for shares deprived of voting rights such as treasury shares. This filing is a routine regulatory requirement for listed companies in France.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:23+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ALHOP"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239385",
+      "title": "Gabriel Holding A/S Announces Annual General Meeting",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410129/0/en/notice-of-annual-general-meeting-of-gabriel-holding-a-s.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Gabriel Holding A/S has issued a notice for its Annual General Meeting to be held on December 16, 2026.",
+      "content": "The Annual General Meeting of Gabriel Holding A/S is scheduled for December 16, 2026, at the company's headquarters in Aalborg, Denmark. The agenda includes the approval of the 2025/26 annual report, an advisory vote on the remuneration report, and the approval of a dividend of DKK 7.00 per share. Shareholders are required to register at least three days prior to the meeting to attend.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:23+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GABR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239384",
+      "title": "Eniro Group AB Announces Nomination Committee for 2027 Annual General Meeting",
+      "url": "https://www.finanznachrichten.de/nachrichten-branche/dienstleistungen.htm",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Eniro Group AB has provided information regarding the formation of its Nomination Committee in preparation for the 2027 Annual General Meeting.",
+      "content": "Eniro Group AB has formally announced the composition and establishment of its Nomination Committee ahead of the company's 2027 Annual General Meeting. This is a standard corporate governance procedure where the committee is tasked with preparing proposals for the board of directors and auditor elections. The announcement follows the company's established governance practices for shareholder representation.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:23+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ENRO"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239383",
+      "title": "Gabriel Holding A/S Reports Financial Results and Operational Progress",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410026/0/en/the-continuing-operations-continued-to-grow-and-improved-all-primary-key-figures-for-the-financial-year-2025-26.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Gabriel Holding A/S announced revenue growth for its continuing operations and provided an update on the divestment of its FurnMaster business units.",
+      "content": "Gabriel Holding A/S reported revenue of DKK 538.7 million for its continuing operations, a 4% increase compared to the previous year, with fourth-quarter revenue growing by 13% to DKK 142.4 million. The company continues to focus on its core business of high-quality furniture fabrics while progressing with the divestment of its FurnMaster business units. European activities have been sold, and the North American units are currently held for sale with an expected divestment in the near term. Management attributes the growth to a strengthened global market position and market share gains across Europe, North America, and Asia.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:23+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GABR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239382",
+      "title": "Medicalgorithmics S.A. Publishes Financial Results",
+      "url": "https://pap-mediaroom.pl/biznes-i-finanse/medicalgorithmics-sa-raport-okresowy-kwartalny-skonsolidowany-32026-qsr",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Medicalgorithmics S.A. released its latest financial report, detailing key figures including share capital and equity attributable to shareholders.",
+      "content": "Medicalgorithmics S.A. published its financial results on November 26, 2026. The report discloses key financial metrics, including equity attributable to the parent company's shareholders, which reached 77,714,000 PLN compared to 64,621,000 PLN in the prior period. The company also reported a share capital of 1,045,000 PLN and a total of 10,453,389 shares. The book value per ordinary share was reported at 7.43 PLN.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:23+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MDG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239381",
+      "title": "Lytix Biopharma ASA: Mandatory notification of trade by close associate of primary insider",
+      "url": "https://news.cision.com/lytix-biopharma-asa/r/lytix-biopharma-asa---mandatory-notification-of-trade-by-close-associate-of-primary-insider,c4429253",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Lytix Biopharma announced the settlement of a share loan involving Saturn Invest AS, a close associate of board member Brynjar Forbergskog, following the completion of the company's recent private placement and retail offering.",
+      "content": "Lytix Biopharma ASA reported that a share loan agreement, established to facilitate the settlement of shares from its recent private placement and retail offering, has been concluded. Saturn Invest AS, a close associate of board member Brynjar Forbergskog, had previously lent 1,118,247 existing shares to DNB Carnegie to support delivery-versus-payment settlement. Following the settlement, these shares were redelivered to Saturn Invest AS. Including the 2,661,535 offer shares allocated to Saturn Invest AS in the private placement, the entity now holds a total of 9,369,336 shares in the company.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:22+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "LYTIX"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239380",
+      "title": "Echo Investment issues bonds under program arranged by IPOPEMA Securities",
+      "url": "https://pap-mediaroom.pl/biznes-i-finanse/echo-investment-sa-362026-emisja-obligacji-serii-9i2026",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Echo Investment S.A. completed a bond issuance under a program established in cooperation with IPOPEMA Securities S.A.",
+      "content": "Echo Investment S.A. issued 10,000 series 9I/2026 bonds with a total nominal value of 100 million PLN. The issuance was conducted under a bond program established in collaboration with IPOPEMA Securities S.A., which serves as the arranger. The bonds are unsecured, carry a variable interest rate based on WIBOR 6M plus a margin, and have a maturity date of May 11, 2029.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "IPE"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239379",
+      "title": "Zelluna ASA Proposes New Board Leadership Ahead of Extraordinary General Meeting",
+      "url": "https://firstwordpharma.com/story/8490340",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Zelluna ASA has called for an Extraordinary General Meeting on December 18, 2026, to elect Adrian Woolfson as the new Chair of the Board and Nerida Scott as a new board member.",
+      "content": "The Board of Directors of Zelluna ASA has announced an Extraordinary General Meeting (EGM) scheduled for December 18, 2026, to strengthen its leadership team. The Nomination Committee has proposed Adrian Woolfson, an experienced biopharma executive, to serve as the new Chair of the Board, while Nerida Scott is proposed as a new board member. Current Chair and co-founder Anders Tuv will remain on the Board. This leadership transition is intended to support the company's next phase of growth as it advances its allogeneic TCR-NK cell therapy platform from preclinical development into clinical trials. The company is prioritizing candidates with strong international networks and expertise in strategic partnerships and global pharmaceutical transactions.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:16+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ZLNA"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239378",
+      "title": "Rejlers Signs Framework Agreement with European Spallation Source",
+      "url": "https://www.marketscreener.com/news/rejlers-enters-services-agreement-with-research-facility-in-sweden-ce7851dbd08bf120",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Rejlers has been awarded a framework agreement to provide services to the European Spallation Source (ESS) research facility in Lund, Sweden.",
+      "content": "Rejlers has entered into a new framework agreement with the European Spallation Source (ESS), a major research facility located in Lund, Sweden. The agreement involves the provision of technical and engineering consultancy services to support the facility's operations. This contract represents a new partnership between the engineering consultancy firm and the research institution. No specific financial terms or duration details were disclosed in the initial reports.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:15+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "REJL.B"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239377",
+      "title": "Equita Group Acquires Xenon Private Equity",
+      "url": "https://www.milanofinanza.it/news/equita-acquisisce-xenon-e-radoppia-gli-asset-gestiti-202611251830159397",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Equita Group has acquired Xenon Private Equity for 70 million euros, doubling its assets under management to over 2.4 billion euros.",
+      "content": "Equita Group has announced the acquisition of Xenon Private Equity in a deal valued at 70 million euros. This strategic move is expected to double the group's assets under management to more than 2.4 billion euros and triple its annual management fees. The transaction is projected to increase the group's recurring revenue component and contribute an average of over 7 million euros annually to Equita's net profit, with an accretive impact on earnings per share anticipated between 2027 and 2029.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:15+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "EQUI"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239376",
+      "title": "ONWARD Medical to Present at the Piper Sandler 38th Annual Healthcare Conference",
+      "url": "https://www.morningstar.com/news/globe-newswire/9885344/onward-medical-to-present-at-the-piper-sandler-38th-annual-healthcare-conference",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "ONWARD Medical N.V. announced that it will participate in the Piper Sandler 38th Annual Healthcare Conference, where CEO Dave Marver will provide an update on the company's spinal cord stimulation technology platforms.",
+      "content": "ONWARD Medical N.V. announced its participation in the upcoming Piper Sandler 38th Annual Healthcare Conference. During the event, CEO Dave Marver is scheduled to provide a general update on the company's proprietary ARC Therapy spinal cord stimulation technology platforms on Wednesday, December 2, 2026. In addition to the presentation, which will be accessible via the company's investor relations website, the company will host in-person meetings. ONWARD Medical continues to advance its ARC-EX® System, which is commercially available in the US and Europe, and its investigational ARC-IM® implantable system.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:15+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ONWD"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239375",
+      "title": "AlzeCure Pharma to Present at ABGSC Investor Days on December 3",
+      "url": "https://www.digitaljournal.com/pr/news/access-newswire/alzecure-pharma-present-abgsc-investor-1657989812.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "AlzeCure Pharma announced its participation in the upcoming ABGSC Investor Days, where CEO Johan Sandin will provide a company presentation.",
+      "content": "AlzeCure Pharma AB (publ) announced that it will participate in the ABGSC Investor Days event scheduled for December 3, 2026. During the event, CEO Johan Sandin is set to deliver a company presentation and address questions regarding the company's latest developments and future strategic plans. The presentation is scheduled for 10:30 CET at Hotel At Six in Stockholm and will be available to follow via a live stream on the ABGSC website.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:13+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ALZCUR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239374",
+      "title": "SP Group Reports 2025/26 Financial Results and 2026/27 Outlook",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410026/0/en/the-continuing-operations-continued-to-grow-and-improved-all-primary-key-figures-for-the-financial-year-2025-26.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "SP Group announced growth in revenue and profit for the 2025/26 financial year and provided financial guidance for the upcoming 2026/27 period.",
+      "content": "SP Group reported growth in its continuing business operations for the 2025/26 financial year, with revenue increasing by 4% and operating profit (EBIT) growing by 17% to DKK 51.5 million. The company's EBITDA reached DKK 94.5 million, up from DKK 83.7 million in the previous year. Management expects this positive momentum to continue into the 2026/27 financial year, projecting revenue between DKK 550-585 million and an operating profit (EBIT) of DKK 52-59 million. The company attributed its performance to strengthened global market positioning and market share gains across its European, North American, and Asian markets. Additionally, the company noted that the divestment of its FurnMaster business is ongoing, with the Mexican furniture manufacturing unit currently classified as discontinued operations.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SPG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239373",
+      "title": "Equnico SE Reports Share Transaction by Closely Associated Person",
+      "url": "https://pap-mediaroom.pl/biznes-i-finanse/equnico-se-762026-zawiadomienie-o-zawarciu-transakcji-przez-osobe-blisko-zwiazana",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Equnico SE issued a regulatory disclosure regarding a transaction conducted by an entity closely associated with a person performing managerial duties.",
+      "content": "On November 25, 2026, Equnico SE published report 76/2026, notifying the market of a transaction concluded by a person closely associated with a member of the company's management. The disclosure pertains to transactions executed by DKW Polska OÜ, a major shareholder associated with the company's CEO, Krzysztof Długosz. This filing is a standard regulatory requirement under the company's reporting obligations.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "EQU"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239372",
+      "title": "Terranor Group Appoints Frida Frykstrand as New CFO",
+      "url": "https://www.finanznachrichten.de/nachrichten-branche/dienstleistungen.htm",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Terranor Group AB (publ) has announced the appointment of Frida Frykstrand as its new Chief Financial Officer.",
+      "content": "Terranor Group has officially appointed Frida Frykstrand to the position of Chief Financial Officer. This executive change represents a key leadership update for the Nordic infrastructure and road maintenance company. The appointment was reported via Cision News on November 26, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "TERNOR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239371",
+      "title": "Western Bulk Chartering AS Announces Extraordinary General Meeting",
+      "url": "https://live.euronext.com/en/markets/oslo/equities/company-news",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Western Bulk Chartering AS has issued a notice for an Extraordinary General Meeting, as reported in regulated market disclosures.",
+      "content": "Western Bulk Chartering AS has published a notice regarding an Extraordinary General Meeting. The event was disclosed as regulated information on November 25, 2026. This notice serves as the formal announcement for the upcoming meeting of shareholders.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "WEST"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239370",
+      "title": "UBM Development Reports Q3 2026 Financial Performance",
+      "url": "https://www.tradegatebsx.com/finanz-nachrichten-detail.php?id=20261126000143",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "UBM Development AG reported a positive earnings trend for the first three quarters of 2026, marking its sixth consecutive quarter of positive results.",
+      "content": "UBM Development AG announced its financial results for the first nine months of 2026, highlighting a significant earnings recovery with an EBT of EUR 8.2 million compared to a loss of EUR 3.9 million in the same period last year. The company achieved a consolidated net profit of EUR 6.9 million and increased its total output by 9.0% to EUR 238.0 million, despite a challenging market environment. UBM sold 312 apartments during this period and maintained a strong financial profile, with an equity ratio of 37%, exceeding its target range of 30% to 35%. Additionally, the company successfully issued a EUR 58 million green bond in October 2026 to further strengthen its capital structure.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "UBS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239369",
+      "title": "Innate Pharma Releases 2027 Financial Calendar",
+      "url": "https://www.fidelity.com/news/article/default/202611260100BIZWIRE_USPR_____20261125_BW853847",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Innate Pharma S.A. has published its scheduled financial reporting dates and annual general meeting for the 2027 calendar year.",
+      "content": "Innate Pharma S.A. has released its financial calendar for 2027, outlining key dates for the upcoming year. The company plans to publish its 2026 financial statements on March 31, 2027, followed by the release of its first-quarter 2027 revenue and cash position on May 12, 2027. The Annual General Meeting of Shareholders is scheduled for May 19, 2027. Additionally, the company expects to release its half-year financial statements on September 16, 2027, and its third-quarter 2027 revenue and cash position on November 3, 2027. These reports are scheduled to be released prior to the opening of trading on Euronext Paris and Nasdaq.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "IPHA"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239368",
+      "title": "AFYREN Achieves Top Global Ranking in EthiFinance ESG Assessment",
+      "url": "https://newsfilter.io/articles/afyren-ranks-first-in-ethifinances-worldwide-esg-assessment-in-the-chemicals-746ca88daf23539482b562dfda40dfa0",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "AFYREN has been ranked first globally in the Chemicals category by EthiFinance, achieving an ESG score of 84/100 and maintaining its Platinum rating.",
+      "content": "AFYREN announced that it received an ESG score of 84/100 from EthiFinance, representing a four-point increase from the previous year. With this score, the company maintained its Platinum rating and secured the top global position in the Chemicals category. The assessment, which aligns with CSRD requirements, recognized AFYREN's performance across environmental, social, and governance criteria. Caroline Petigny, the company's Chief Sustainability Officer, noted that this ranking highlights the company's progress in transforming an industry traditionally dependent on fossil resources. The company also holds notable positions in broader rankings, including 15th among French companies and 3rd among global firms in the Materials sector.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ALAFY"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239367",
+      "title": "CI Games SE Announces Expiry of Registered Pledge on Shares Held by CEO",
+      "url": "https://pap-mediaroom.pl/biznes-i-finanse/ci-games-se-402026-informacja-o-transakcjach-na-akcjach-emitenta-w-trybie-art-19",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "CI Games SE received notification from its President of the Management Board, Marek Tymiński, regarding the expiration of a registered pledge on his company shares.",
+      "content": "On November 25, 2026, CI Games SE announced that it received a formal notification from its President of the Management Board, Marek Tymiński, concerning the expiry of a registered pledge previously established by him over the shares he holds in the company. The notification was submitted in accordance with Article 19 of the Market Abuse Regulation (MAR). This disclosure provides transparency regarding the status of the CEO's shareholdings and the removal of the encumbrance.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:09+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "CIG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239366",
+      "title": "Rafamet S.A. in Restructuring Convenes Extraordinary General Meeting",
+      "url": "https://pap-mediaroom.pl/biznes-i-finanse/rafamet-sa-w-restrukturyzacji-622026-zwolanie-nadzwyczajnego-walnego-zgromadzenia",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "The management board of Rafamet S.A. in restructuring has officially called an Extraordinary General Meeting to be held on December 21, 2026.",
+      "content": "Following a request from its majority shareholder, Agencja Rozwoju Przemysłu S.A., the management board of Rafamet S.A. in restructuring has convened an Extraordinary General Meeting for December 21, 2026. The meeting is scheduled to take place at the company's headquarters in Kuźnia Raciborska. The agenda includes the adoption of resolutions regarding the establishment of remuneration rules for members of the Management Board and the Supervisory Board, as well as the approval of costs associated with the meeting. The company has provided the necessary documentation and draft resolutions to the public in accordance with regulatory requirements.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:09+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "RAF"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239365",
+      "title": "Sanok Rubber Company Announces Share Buyback Invitation",
+      "url": "https://pap-mediaroom.pl/biznes-i-finanse/sanok-rubber-company-sa-472026-zaproszenie-do-skladania-ofert-sprzedazy-akcji",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Sanok Rubber Company S.A. has invited shareholders to submit offers for the sale of up to 1,141,400 company shares at a price of 20.00 PLN per share.",
+      "content": "Sanok Rubber Company S.A. has launched a share buyback program for the purpose of cancellation, inviting shareholders to tender up to 1,141,400 ordinary bearer shares. This volume represents no more than 5% of the company's total share capital and voting rights. The company has set the purchase price at 20.00 PLN per share, a decision aligned with the authorization granted by the Extraordinary General Meeting on February 19, 2026. The execution of this program is being managed in cooperation with Trigon Dom Maklerski S.A., which was appointed to handle the acquisition process.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:08+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SNK"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239364",
+      "title": "TCM Group A/S Reports Q3 2026 Interim Results and Revises Full-Year Guidance",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410586/0/en/tcm-group-a-s-interim-report-q3-2026.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "TCM Group announced its third-quarter 2026 financial results, reporting 14% revenue growth alongside a moderate reduction in full-year guidance due to margin pressures.",
+      "content": "TCM Group reported a 14% increase in revenue for the third quarter of 2026, with 3% organic growth, and a 22% rise in adjusted EBITA to DKK 23.3 million. Despite these gains, the company moderately reduced its full-year guidance, citing lower-than-expected revenue and temporary gross margin pressure linked to the delayed impact of price increases implemented on July 1. Higher raw material, freight, and wage costs also weighed on margins during the period. Additionally, the company noted that order intake was lower than the previous year, partly because customers placed significant orders in Q2 ahead of the July price hikes. Management also provided updates on its retail strategy, including the sale of a Nettoline store in Kolding and the planned closure and merger of the Svane Hjørring showroom.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:07+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "TCM"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239363",
+      "title": "RTX A/S Reports Financial Results for the Quarter Ended September 30, 2026",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/rtx-a-s-gab-ergebnis-zum-abgelaufenen-quartal-bekannt-1036801934",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "RTX A/S announced its financial performance for the quarter ending September 30, 2026, showing significant growth in both earnings and revenue compared to the same period last year.",
+      "content": "RTX A/S reported earnings per share (EPS) of 3.30 DKK for the quarter ended September 30, 2026, compared to 0.60 DKK in the same quarter of the previous year. Revenue for the quarter reached 211.6 million DKK, representing a 51.34% increase over the 139.8 million DKK reported in the prior-year period. For the full fiscal year, the company reported an EPS of 4.20 DKK and total revenue of 627.21 million DKK, an increase of 14.64% from the previous year's 547.11 million DKK. These results exceeded analyst expectations, which had projected an EPS of 4.16 DKK and revenue of 609.00 million DKK for the full year.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:06+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "RTX"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239362",
+      "title": "Equita Sim Maintains 'Buy' Rating on Italian Wine Brands Following Bond Issuance",
+      "url": "https://www.milanofinanza.it/newsmarketdriver/market-driver-italian-wine-brands-equita-sim-conferma-buy-202611251748016572",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Equita Sim has reaffirmed its 'buy' recommendation and €24 price target for Italian Wine Brands after the company successfully completed a €70 million bond issuance maturing in 2032.",
+      "content": "Equita Sim confirmed its 'buy' rating and €24 price target for Italian Wine Brands S.p.A. following the company's recent completion of a new bond issuance. The notes, which mature in 2032, were issued for a total amount of €70 million. This analyst action reflects the firm's ongoing assessment of the company's financial position following the successful capital market transaction.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:05+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "IWB"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239361",
+      "title": "Aramis Group Reports 2026 Annual Financial Results",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410474/0/en/aramis-group-2026-annual-results.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Aramis Group announced its fiscal year 2026 results, reporting revenue of €2,250 million and an adjusted EBITDA of €43.1 million, while providing guidance for fiscal year 2027.",
+      "content": "Aramis Group released its annual results for the fiscal year ended September 30, 2026, reporting revenue of €2,250 million and B2C volumes of 114,074 units. The company achieved an adjusted EBITDA of €43.1 million, which fell within its revised annual target range, and a net income of -€3.1 million. Management highlighted the company's focus on its convergence strategy and noted that it is now free of acquisition earn-out commitments. For fiscal year 2027, the group targets B2C vehicle sales between 110,000 and 120,000 units and an adjusted EBITDA between €25 million and €50 million.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:05+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ARAMI"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239360",
+      "title": "Apomone Verwaltung GmbH Pledges 1.9 Million MPH Health Care AG Shares",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-dd-mph-health-care-ag-apomone-verwaltung-gmbh-pledge-of-1-900-000-shares-of-mph-health-care-ag-as-part-of-a-credit-transaction-1036800311",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Apomone Verwaltung GmbH, an entity closely associated with board member Patrick Brenske, has pledged 1,900,000 shares of MPH Health Care AG as part of a credit transaction.",
+      "content": "Apomone Verwaltung GmbH, the anchor shareholder of MPH Health Care AG managed by board member Patrick Brenske, reported the pledge of 1,900,000 shares of the company. The transaction was disclosed on November 25, 2026, as part of a credit arrangement. This notification follows regulatory requirements for transactions by persons discharging managerial responsibilities and their closely associated parties.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:05+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "93M1"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131239359",
+      "title": "Helios Solar AG Signs Memorandum of Understanding with Galaxy Venus Data Center",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-news-helios-solar-ag-gibt-absichtserklarung-mit-galaxy-venus-data-center-zur-pruefung-einer-stromversorgung-aus-erneuerbaren-energien-in-malaysia-bekannt-1036799733",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Helios Solar AG has entered into a Memorandum of Understanding (MoU) with Galaxy Venus Data Center Sdn. Bhd. to explore a strategic partnership for renewable energy supply in Malaysia.",
+      "content": "Helios Solar AG, through its subsidiary Helios Solar Park Sdn. Bhd., has signed a Memorandum of Understanding (MoU) with Galaxy Venus Data Center Sdn. Bhd. (GDC) to evaluate a potential strategic collaboration. The agreement aims to explore the feasibility of supplying renewable energy to GDC's planned data center project in Perak, Malaysia. The scope of the potential partnership includes assessing renewable energy generation, energy storage solutions, grid connection, and backup power supply. GDC has been identified as a potential off-taker for renewable energy from Helios's solar park project in Gua Musang, Kelantan, under the Malaysian Corporate Renewable Energy Supply Scheme (CRESS). Any final power purchase agreement remains subject to successful feasibility studies and the negotiation of technical and economic terms.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:02:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.804320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "HE8"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762GT:0",
+      "title": "Hensoldt And Argus Interception Are Expanding Their Partnership For Effective Drone Defence",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762GT:0-hensoldt-and-argus-interception-are-expanding-their-partnership-for-effective-drone-defence/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:01:35+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:HAG"
+        ]
+      }
+    },
     {
       "id": "tradingview:dpa_afx:6ad0bf712b835:0",
       "title": "MNI: FRANCE OCT PPI 8.2% Y/Y (6.9% SEP, REV FROM 6.8%)",
@@ -80,6 +1352,54 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4268748:0",
+      "title": "LHC: EBITDA growth, wider margins and higher EPS underpin a ~5% FY2027 revenue target",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4268748:0-lhc-ebitda-growth-wider-margins-and-higher-eps-underpin-a-5-fy2027-revenue-target/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "JSE:LHC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:b149736aa094b:0",
+      "title": "Gold price fall triggers dip buying in India; physical demand stays firm: World Gold Council",
+      "url": "https://www.tradingview.com/news/cnbctv:b149736aa094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD"
+        ]
       }
     },
     {
@@ -221,6 +1541,485 @@
           "AMEX:DJP",
           "BX:AADA",
           "LSE:BARC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:5effb45abed43:0",
+      "title": "Daewoong Pharmaceutical Receives Phase 1 IND Approval for Its In-House-Developed TEAD1/2 Inhibitor 'DWP216262'",
+      "url": "https://www.tradingview.com/news/prnewswire:5effb45abed43:0-daewoong-pharmaceutical-receives-phase-1-ind-approval-for-its-in-house-developed-tead1-2-inhibitor-dwp216262/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:107ccd9ace773:0",
+      "title": "Einride AB (ENRD) Adds Essity to Its Swedish Electric Freight Network",
+      "url": "https://www.tradingview.com/news/tradingview:107ccd9ace773:0-einride-ab-enrd-adds-essity-to-its-swedish-electric-freight-network/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ENRD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:6bf8236f4094b:0",
+      "title": "Einride Brings Essity into Its Fast-Growing Electric Freight Network",
+      "url": "https://www.globenewswire.com/news-release/2026/11/26/3410677/0/en/einride-brings-essity-into-its-fast-growing-electric-freight-network.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ENRD",
+          "OMXSTO:ESSITY_A"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:66f3bda3e4bae:0",
+      "title": "Key facts: 485 bitcoin bought; Back urges $3B buy; analyst target rises",
+      "url": "https://www.tradingview.com/news/tradingview:66f3bda3e4bae:0-key-facts-485-bitcoin-bought-back-urges-3b-buy-analyst-target-rises/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:MSTR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:6119a7137913c:0",
+      "title": "Key facts: Apple stock gains; spending, tariffs and AI partnerships",
+      "url": "https://www.tradingview.com/news/tradingview:6119a7137913c:0-key-facts-apple-stock-gains-spending-tariffs-and-ai-partnerships/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AAPL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:4faed059336ed:0",
+      "title": "Key facts: Babcock signs £8.7bn submarine deal; supports 3,000 jobs",
+      "url": "https://www.tradingview.com/news/tradingview:4faed059336ed:0-key-facts-babcock-signs-8-7bn-submarine-deal-supports-3-000-jobs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:BAB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:5a8345b033e7c:0",
+      "title": "Key facts: Cisco Revenue Record; AI Forecast Doubled; Dividend Raised",
+      "url": "https://www.tradingview.com/news/tradingview:5a8345b033e7c:0-key-facts-cisco-revenue-record-ai-forecast-doubled-dividend-raised/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CSCO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:fc313e17ee198:0",
+      "title": "Key facts: Hannah Grove to chair committee; John Devine leaves board",
+      "url": "https://www.tradingview.com/news/tradingview:fc313e17ee198:0-key-facts-hannah-grove-to-chair-committee-john-devine-leaves-board/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:ABDN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:64e16c749472f:0",
+      "title": "Key facts: Hill & Smith posts 12% growth; raises FY26 profit outlook",
+      "url": "https://www.tradingview.com/news/tradingview:64e16c749472f:0-key-facts-hill-smith-posts-12-growth-raises-fy26-profit-outlook/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:HILS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:151cad7251dd4:0",
+      "title": "Key facts: IPO Raises $93.5B; Q3 Revenue $17B; Private Placement $26B",
+      "url": "https://www.tradingview.com/news/tradingview:151cad7251dd4:0-key-facts-ipo-raises-93-5b-q3-revenue-17b-private-placement-26b/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ANT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:d5f49f3ac9d87:0",
+      "title": "Key facts: Intertek deal reviews progress; State Street adds 750 shares",
+      "url": "https://www.tradingview.com/news/tradingview:d5f49f3ac9d87:0-key-facts-intertek-deal-reviews-progress-state-street-adds-750-shares/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:ITRK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:ba815d6f2ad62:0",
+      "title": "Key facts: Loss, target cuts hit CleanSpark; Bitcoin sales considered",
+      "url": "https://www.tradingview.com/news/tradingview:ba815d6f2ad62:0-key-facts-loss-target-cuts-hit-cleanspark-bitcoin-sales-considered/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CLSK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:cdad1860074ab:0",
+      "title": "Key facts: Nutanix Forecasts Q2 Revenue, Q3 Drop; CEO to Step Down",
+      "url": "https://www.tradingview.com/news/tradingview:cdad1860074ab:0-key-facts-nutanix-forecasts-q2-revenue-q3-drop-ceo-to-step-down/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NTNX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:caa23b691cad3:0",
+      "title": "Key facts: Poland Clears UniCredit Bid; Settlement Dec. 7, 2026",
+      "url": "https://www.tradingview.com/news/tradingview:caa23b691cad3:0-key-facts-poland-clears-unicredit-bid-settlement-dec-7-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MIL:UCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:de052753c2837:0",
+      "title": "Key facts: Q4 Outlook Misses; IoT Shortages; CV7 Revenue, CV8 Sampling",
+      "url": "https://www.tradingview.com/news/tradingview:de052753c2837:0-key-facts-q4-outlook-misses-iot-shortages-cv7-revenue-cv8-sampling/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMBA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:9e4779512ddb0:0",
+      "title": "Key facts: Sales +12%, AWS +39%; $309.5M Settlement; UK Autos 2027",
+      "url": "https://www.tradingview.com/news/tradingview:9e4779512ddb0:0-key-facts-sales-12-aws-39-309-5m-settlement-uk-autos-2027/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMZN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0f5898d8bb47f:0",
+      "title": "Key facts: Sanofi to buy Insmed for $41B; RBC, Barclays upgrade",
+      "url": "https://www.tradingview.com/news/tradingview:0f5898d8bb47f:0-key-facts-sanofi-to-buy-insmed-for-41b-rbc-barclays-upgrade/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:SAN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:9035e60a4ccc7:0",
+      "title": "Key facts: Shares fall; Tencent stake review; Delivery Hero investment",
+      "url": "https://www.tradingview.com/news/tradingview:9035e60a4ccc7:0-key-facts-shares-fall-tencent-stake-review-delivery-hero-investment/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:PRX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:08eac4e4ef53c:0",
+      "title": "Key facts: Wedbush Initiates EXLS at Outperform; EXL Named ISG Leader",
+      "url": "https://www.tradingview.com/news/tradingview:08eac4e4ef53c:0-key-facts-wedbush-initiates-exls-at-outperform-exl-named-isg-leader/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:EXLS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:c037867b26e36:0",
+      "title": "Key facts: easyJet profit down 89%; fuel exposure; slow bookings",
+      "url": "https://www.tradingview.com/news/tradingview:c037867b26e36:0-key-facts-easyjet-profit-down-89-fuel-exposure-slow-bookings/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.497330+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:EZJ"
         ]
       }
     },
@@ -30215,6 +32014,25 @@
       "extra": {}
     },
     {
+      "id": "msn:898b440fca0e2f0e16d3b75b9f256550025b702b",
+      "title": "China Resources Beverage (SEHK:2460) Stock Still Commands A Rich Earnings Valuation",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e7fbe7fd4ee1b8f1fbe28801430f&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fchina-resources-beverage-sehk-2460-071651123.html&c=7573091566919542578&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "China Resources Beverage (Holdings) has seen its share price fall sharply this year, which naturally pushes investors to ask whether the current valuation is still in line with what its earnings ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:16:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:13.331068+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:urn:summary_document_transcript:quartr.com:4828657:0",
       "title": "AFT: Revenue rose 25% to $143.6m; adjusted operating profit climbed to $13.3m",
       "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4828657:0-aft-revenue-rose-25-to-143-6m-adjusted-operating-profit-climbed-to-13-3m/",
@@ -47474,6 +49292,25 @@
       "extra": {}
     },
     {
+      "id": "msn:66df2682592b49f628c8c2ce9a48ce737ec78015",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e7fbcedd47f0a3aa1708f20c4d0d&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:13.331068+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261125006728_20261125006729:0",
       "title": "Meridian Energy Ltd.: CEO Mike Roan Named a Director of Datagrid",
       "url": "https://www.tradingview.com/news/DJN_DN20261125006728_20261125006729:0-meridian-energy-ltd-ceo-mike-roan-named-a-director-of-datagrid/",
@@ -51246,6 +53083,30 @@
           "LSE:BP.",
           "TSX:BEP.UN"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8811988",
+      "title": "Venezuela data deluge cheers investors, but $237 billion debt test lies ahead - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSnBhS2YxRk5nTjRFbDJON0ROb19SVEYzc2dGYUpnb0ozdzV0Y2p2eHRjMVlYd3p3M09lam1qTHN2dkNhVDhsZmVvNUE3NXg3dFlCOWh4NUNzVXNqUmt4LVBDRFNCdDNGdlU0ak9hVTY1c1J4VXJ4a2stZndwbzE3b2QxLWxjMlJydmNkUlJDTTRDTmdDV21PS2hraVRUT0pLM29OLXJtZV9kaVhqTWlRc2tWM25tMFdNUnR0RXU3TQ?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Venezuela data deluge cheers investors, but $237 billion debt test lies ahead Reuters",
+      "content": "Venezuela data deluge cheers investors, but $237 billion debt test lies ahead Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:50:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:11.954864+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -64125,6 +65986,25 @@
       "extra": {}
     },
     {
+      "id": "msn:25d980e65fd4d0815bbea7507ace9d0e28b28b92",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e7fbcedd47f0a3aa1708f20c4d0d&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:13.331068+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -68065,6 +69945,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T16:01:13.277693+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:e879ae5f1ac3acd7e8695d4c38a7b52abd857e87",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e7fbcedd47f0a3aa1708f20c4d0d&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:13.331068+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -72157,6 +74056,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T16:01:13.277693+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:9d8ef44ec4c64ef050cc719487ae2262455f473b",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e7fbcedd47f0a3aa1708f20c4d0d&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:13.331068+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",

@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T16:01:14.734927+08:00",
-  "count": 1463,
+  "generated_at": "2026-11-26T16:04:15.326461+08:00",
+  "count": 1465,
   "sources": [
     {
       "name": "cls",
@@ -26,6 +26,25 @@
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaaxc1379919.shtml",
+      "title": "法国10月工业生产者价格同比上涨9.6%，能源价格飙升推动工业通胀加速",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaaxc1379919.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "11月26日，法国国家统计与经济研究所（INSEE）公布的数据显示，法国10月工业生产者价格指数（PPI）同比上涨9.6%，较9月的8.3%进一步加速；环比上涨1.5%，低于9月的1.8%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:03:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:12.565149+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaawz8909453.shtml",
       "title": "欧洲最大卫星工厂正式启用，剑指马斯克旗下星链",
@@ -521,6 +540,25 @@
       "extra": {
         "important": 1
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/marketresearch/2026-11-26/doc-inkaaaxi3686741.shtml",
+      "title": "突发！三大利空集体冲击，A股竟然收红了！",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-26/doc-inkaaaxi3686741.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "市场资讯",
+      "summary": "来源：星图金融研究院 A股三大指数今日涨跌不一，截至收盘，上证指数涨0.01%，深证成指跌0.02%，创业板指涨0.29%，北证50跌0.45%，科创50指数跌1.36%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:46:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:04:12.565149+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "jin10:20261126154607447800",
