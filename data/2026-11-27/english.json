@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T02:25:15.378255+08:00",
-  "count": 315,
+  "generated_at": "2026-11-27T02:31:15.490090+08:00",
+  "count": 320,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,76 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8874Ea:0",
+      "title": "REG - RNS - Final Announcement Released",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8874Ea:0-reg-rns-final-announcement-released/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:30:03+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:31:10.913105+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4852599:0",
+      "title": "PILA: Dose escalation is underway, with a potential obesity efficacy study planned for 2027",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4852599:0-pila-dose-escalation-is-underway-with-a-potential-obesity-efficacy-study-planned-for-2027/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:21:53+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:31:10.913105+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:PILA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cryptobriefing:68ce8d0e0094b:0",
+      "title": "Bitcoin holds above $60K as death cross signals weakness",
+      "url": "https://cryptobriefing.com/bitcoin-holds-60k-death-cross-etf-outflows/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:20:41+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:31:10.913105+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_S0N46T045:0",
       "title": "ExxonMobil Wins Two Lots In Brazil's PPSA Spot Oil Auction",
@@ -76,6 +146,25 @@
       "published_at": "2026-11-27T02:17:02+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T02:25:11.658871+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/big-news-nvidia-stock-fans-181400521.html?.tsrc=rss",
+      "title": "Big News For Nvidia Stock Fans",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/big-news-nvidia-stock-fans-181400521.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Dell and Super Micro buyers in Southeast Asia are told their Nvidia server orders cannot ship",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:14:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:31:10.811442+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -152,6 +241,25 @@
           "OSL:HUNT"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/apple-removes-talkie-app-store-180937483.html?.tsrc=rss",
+      "title": "Apple Removes Talkie From App Store After Reports of Inappropriate AI Messages",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-removes-talkie-app-store-180937483.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "AI Chatbots Face New Child Safety Test. Apple Makes a Major Move Against MiniMax",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:09:37+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:31:10.811442+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N47711P:0",
