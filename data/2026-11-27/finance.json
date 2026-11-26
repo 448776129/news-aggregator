@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T06:22:15.257164+08:00",
-  "count": 171,
+  "generated_at": "2026-11-27T06:25:21.396582+08:00",
+  "count": 172,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 18,
+      "count": 19,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkackst3346370.shtml",
+      "title": "SAP据悉考虑在重组中裁减至少1万个岗位",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkackst3346370.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "据知情人士透露，SAP SE正在制定一项裁减至少1万个岗位的计划，以推动其软件业务向人工智能时代转型。 知情人士表示，此次重组将影响至少9%的全球员工。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:24:09+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T06:25:16.055881+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261127061159899800",
       "title": "沙特阿拉伯发布警报，称艾卜哈市、海米斯穆谢特市可能面临危险。",
