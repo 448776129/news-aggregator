@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T01:10:19.518770+08:00",
-  "count": 180,
+  "generated_at": "2026-11-27T01:13:22.759767+08:00",
+  "count": 183,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,81 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:macenews:275126e63094b:0",
+      "title": "Japan Data Preview: Forecasters See Stable Jobless Rate in October Report as Job Market Holds Firm",
+      "url": "https://www.tradingview.com/news/macenews:275126e63094b:0-japan-data-preview-forecasters-see-stable-jobless-rate-in-october-report-as-job-market-holds-firm/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:10:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:13:16.872928+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:JPYBASKET",
+          "FX:USDJPY",
+          "TVC:NI225",
+          "FX:EURJPY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4311005:0",
+      "title": "BETOLAR: Three business lines shift from technology development toward commercial execution and scale",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4311005:0-betolar-three-business-lines-shift-from-technology-development-toward-commercial-execution-and-scale/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:09:49+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:13:16.872928+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXHEX:BETOLAR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760YK:0",
+      "title": "Fund I Squared in advanced talks to buy German advertiser Stroeer, sources say",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760YK:0-fund-i-squared-in-advanced-talks-to-buy-german-advertiser-stroeer-sources-say/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:09:32+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:13:16.872928+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:SAX"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261126003465:0",
       "title": "Fincantieri, Leonardo to Build Another Italian Navy Vessel for About $548.8 Million",
