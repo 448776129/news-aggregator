@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-11",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-26T15:41:04.804779+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:c6dc0290f0143e1871ce95a679f6f5ac745d1dbc",
+      "title": "What Trump Voters Say About the Economy Now",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e25ed42f4682a1806726b3c05a9f&url=https%3a%2f%2fwww.wsj.com%2feconomy%2ftrump-voters-economy-2026-6c76d508&c=7708389598491611865&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Around 40% of voters in the 2024 election said the economy was their top issue, far outstripping any other matter. And those voters favored Donald Trump by 60% to 38%. Many say they were moved by his ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-07-11T11:30:00+08:00",
+      "published_date": "2026-07-11",
+      "fetched_at": "2026-11-26T15:40:15.733659+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
