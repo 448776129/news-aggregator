@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T07:55:18.475470+08:00",
-  "count": 253,
+  "generated_at": "2026-11-27T07:58:20.209498+08:00",
+  "count": 254,
   "sources": [
     {
       "name": "cls",
@@ -15,13 +15,13 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 43,
+      "count": 47,
       "error": ""
     },
     {
       "name": "sina",
       "status": "ok",
-      "count": 49,
+      "count": 50,
       "error": ""
     }
   ],
@@ -747,6 +747,25 @@
       "published_at": "2026-11-27T07:32:35+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T07:34:13.553587+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/money/nmetal/gjshz/2026-11-27/doc-inkacqys5592289.shtml",
+      "title": "白银价格深度回调！何时企稳？",
+      "url": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-11-27/doc-inkacqys5592289.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "市场资讯",
+      "summary": "来源：期货日报 近期，白银价格进入深度调整阶段。 11月以来，现货白银价格持续走弱，虽然11月26日盘中有所反弹，但较月初仍下跌逾15%；与年内高点相比...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:32:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:58:15.248706+08:00",
       "crawl_date": "2026-11-27",
       "lang": "zh",
       "category": "finance",
