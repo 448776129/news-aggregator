@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T15:22:26.341528+08:00",
-  "count": 3156,
+  "generated_at": "2026-11-26T15:25:15.009902+08:00",
+  "count": 3172,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 7,
       "error": ""
     },
     {
@@ -38,6 +38,207 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47706T:0",
+      "title": "Japan futures rise for second session as oil climbs, Tokyo shares gain",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47706T:0-japan-futures-rise-for-second-session-as-oil-climbs-tokyo-shares-gain/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:24:25+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:25:10.851262+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TOCOM:TRB1!",
+          "SHFE:RU1!",
+          "TVC:NI225"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762OK:0",
+      "title": "PPC To Acquire Five Romanian Energy Companies For Around €93.0 Million",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762OK:0-ppc-to-acquire-five-romanian-energy-companies-for-around-93-0-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:23:52+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:25:10.851262+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ATHEX:PPC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N477072:0",
+      "title": "UK's CMC Markets HY net operating income rises, reiterates 2027 forecast",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N477072:0-uk-s-cmc-markets-hy-net-operating-income-rises-reiterates-2027-forecast/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:23:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:25:10.851262+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:CMCX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3671506:0",
+      "title": "IMPERO: ARR rose 19% as profitability and cash generation turned positive",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3671506:0-impero-arr-rose-19-as-profitability-and-cash-generation-turned-positive/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:23:30+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:25:10.851262+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:IMPERO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4269392:0",
+      "title": "VIG: Higher PBT and broad revenue growth lifted FY 2026 guidance to €1.35–1.40bn",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4269392:0-vig-higher-pbt-and-broad-revenue-growth-lifted-fy-2026-guidance-to-1-35-1-40bn/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:23:27+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:25:10.851262+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "VIE:VIG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:6115218a5094b:0",
+      "title": "IBRX Eyes Red Week As ImmunityBio Moves To Lift Share Cap To 2B — Retail Traders Split Over Repaying Debt With Stock",
+      "url": "https://stocktwits.com/news-articles/markets/equity/ibrx-stock-immunitybio-lift-share-cap-2b-retail-split-repaying-debt-stock/cNbxWTlR9Z1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:23:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:25:10.851262+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:IBRX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47706P:0",
+      "title": "Copper bounces back toward $12,000 as US tariff concerns ease",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47706P:0-copper-bounces-back-toward-12-000-as-us-tariff-concerns-ease/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:22:46+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:25:10.851262+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LME:CA1!",
+          "TVC:DXY",
+          "LME:AH1!",
+          "COMEX:ZNC1!",
+          "MCX:LEAD1!",
+          "MCX:NICKEL1!",
+          "MYX:FTIN1!",
+          "COMEX:HG1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4838628:0",
+      "title": "SCC: 9M earnings rebounded as cost actions offset weak chemicals and seasonal Q3 pressure",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4838628:0-scc-9m-earnings-rebounded-as-cost-actions-offset-weak-chemicals-and-seasonal-q3-pressure/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:21:51+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:25:10.851262+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SET:SCC"
+        ]
+      }
+    },
     {
       "id": "tradingview:urn:summary_document_transcript:quartr.com:4838624:0",
       "title": "K33: Revenue and trading activity improved despite weak markets; Bitcoin revaluation drove the positive result",
@@ -613,6 +814,28 @@
           "NYSE:EQT",
           "TSE:2371"
         ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4770ES:0",
+      "title": "EU agrees with CPTPP trade bloc an early warning mechanism for supply chains",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4770ES:0-eu-agrees-with-cptpp-trade-bloc-an-early-warning-mechanism-for-supply-chains/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:19:07+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:25:10.851262+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -26783,6 +27006,25 @@
       }
     },
     {
+      "id": "msn:d40ad57445f77f4cd736b58a9cf6d28f9f623ed1",
+      "title": "Stock Market Live Updates: Sensex jumps 450 points as IT bulls push D-Street rally further ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07ded7f1bc42738cab2eca3f80ce69&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-lg-electronics-hdfc-bank-share-price-26-november-2026%2fliveblog%2f136176167.cms&c=13541258442483674008&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Domestic equities staged a sharp rebound after the market holiday, defying weak Asian cues and subdued US futures ahead of the US PCE inflation data. The benchmark Nifty 50 surged 470 points, or 1.85% ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:03:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:25:12.752354+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:cnbctv:5b043a1e0094b:0",
       "title": "Nifty FMCG index set for best month in 17 years - Know which stock has the highest upside potential",
       "url": "https://www.tradingview.com/news/cnbctv:5b043a1e0094b:0/",
@@ -41067,6 +41309,25 @@
       "extra": {}
     },
     {
+      "id": "msn:fc9f83253c8ac96a92d58dbd29c0791925b77ce7",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07ded7208c4425afde7566a3e1a6c0&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:25:12.752354+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
       "title": "What Sent Qualcomm Stock Higher?",
       "url": "https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
@@ -43202,6 +43463,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T15:22:23.758324+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:5335a27b36b5dc7a713401ee7e6db53096c7c7aa",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07ded7f1bc42738cab2eca3f80ce69&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:25:12.752354+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -59612,6 +59892,25 @@
       "extra": {}
     },
     {
+      "id": "msn:dd6ae503e2a1f7afb841071e4d2ad29936d276bb",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07ded7f1bc42738cab2eca3f80ce69&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:25:12.752354+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -63305,6 +63604,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T15:22:23.758324+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6c754f72c2e094df7bd8b3e1e99d466510da1368",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07ded7f1bc42738cab2eca3f80ce69&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:25:12.752354+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -67150,6 +67468,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T15:22:23.758324+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:692dbfd44fc29a3f31d1ca669e804ef378d56481",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07ded7f1bc42738cab2eca3f80ce69&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:25:12.752354+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -72588,6 +72925,25 @@
       "published_at": "2026-11-26T00:00:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T13:43:14.947462+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:81c895a6441a405e63354f4c0218b8201804146e",
+      "title": "WH Group (SEHK:288) Stock Looks Like A Bargain On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07ded7208c4425afde7566a3e1a6c0&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fwh-group-sehk-288-stock-021347065.html&c=7968561960771326446&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "WH Group has delivered a strong 5 year share price gain, yet the current level still raises a basic question for investors about what its earnings really justify. With the stock moving around over ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:25:12.752354+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
