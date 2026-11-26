@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T02:34:17.231481+08:00",
-  "count": 337,
+  "generated_at": "2026-11-27T02:37:17.232795+08:00",
+  "count": 349,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,107 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 21,
+      "count": 22,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3683357:0",
+      "title": "PRLD: BRAINBox revenue turned Q3 profitable as Psyros advanced toward TBI commercialization",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3683357:0-prld-brainbox-revenue-turned-q3-profitable-as-psyros-advanced-toward-tbi-commercialization/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:35:32+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:37:13.267885+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NGM:PRLD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:2d310ca3bbea7:0",
+      "title": "Prolight Diagnostics publishes interim report Q3, 2026",
+      "url": "https://www.tradingview.com/news/modular_finance:2d310ca3bbea7:0-prolight-diagnostics-publishes-interim-report-q3-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:35:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:37:13.267885+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NGM:PRLD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:0aa6de0c4094b:0",
+      "title": "S&P 500 Sector Rotation Tracker: Consumer Staples lead as investors get defensive",
+      "url": "https://seekingalpha.com/news/4676907-sp-500-sector-rotation-tracker-consumer-staples-lead-as-investors-get-defensive?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:34:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:37:13.267885+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:XLP",
+          "AMEX:SPY",
+          "NYSE:CLX",
+          "NASDAQ:DLTR",
+          "NYSE:TGT",
+          "NYSE:TSN",
+          "AMEX:XLRE",
+          "NYSE:EXR",
+          "NYSE:CBRE",
+          "AMEX:XLY",
+          "NYSE:CMG",
+          "NYSE:MGM",
+          "NASDAQ:TSCO",
+          "AMEX:XLK",
+          "NASDAQ:SNDK",
+          "NASDAQ:MRVL",
+          "NYSE:NOW",
+          "AMEX:XLE",
+          "NYSE:MPC",
+          "NYSE:VLO",
+          "NASDAQ:PSL",
+          "NASDAQ:PSCC",
+          "NASDAQ:FTXG",
+          "NASDAQ:COTG",
+          "NASDAQ:PBCS"
+        ]
+      }
+    },
     {
       "id": "tradingview:urn:summary_document_slides:quartr.com:4251781:0",
       "title": "Freetrailer Group: Revenue and rentals grew strongly, while fleet expansion and investment weighed on Q3 EBIT",
@@ -109,6 +205,50 @@
       }
     },
     {
+      "id": "tradingview:eqs:7e1ae746b094b:0",
+      "title": "Intra-African trade reaches $213.8bn while only 15% of the continent's trade stays within Africa, Starks’ report finds",
+      "url": "https://www.eqs-news.com/news/corporate-news/intra-african-trade-reaches-213-8bn-while-only-15-of-the-continent-s-trade-stays-within-africa-starks-report-finds/733aea8d-e64a-4e09-8350-d2d1b00aa736_en",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "EQS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:30:03+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:37:13.267885+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:4c95ce4a13ed3:0",
+      "title": "Starks Associates Plans to Expand Liquidity Across African Payment Corridors in 2027",
+      "url": "https://www.tradingview.com/news/tradingview:4c95ce4a13ed3:0-starks-associates-plans-to-expand-liquidity-across-african-payment-corridors-in-2027/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:30:03+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:37:13.267885+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
       "id": "tradingview:tmx_newsfile:1451b39d5094b:0",
       "title": "Rottenstone Gold Inc. Provides Supplemental Disclosure Regarding Proposed Great Bear Royalty Acquisition",
       "url": "https://www.newsfilecorp.com/release/326048/Rottenstone-Gold-Inc.-Provides-Supplemental-Disclosure-Regarding-Proposed-Great-Bear-Royalty-Acquisition",
@@ -122,6 +262,30 @@
       "published_at": "2026-11-27T02:30:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T02:34:12.623707+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:SK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:187fde2a067af:0",
+      "title": "Rottenstone Gold Inc. (SK) Seeks Approval for $2.8M Royalty Acquisition",
+      "url": "https://www.tradingview.com/news/tradingview:187fde2a067af:0-rottenstone-gold-inc-sk-seeks-approval-for-2-8m-royalty-acquisition/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:37:13.267885+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -316,6 +480,44 @@
       "published_at": "2026-11-27T02:17:02+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T02:25:11.658871+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-faces-181532913.html?.tsrc=rss",
+      "title": "Super Micro Computer (SMCI) Faces Southeast Asia AI Server Disruption After Export Halt",
+      "url": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-faces-181532913.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Super Micro Computer (NasdaqGS:SMCI) faces supply disruption after Nvidia suspended advanced AI server shipments to Southeast Asia under new US export controls. The pause affects Nvidia's high end AI chips used in Supermicro systems that target large scale AI data center deployments in the region. Customers in key Southeast Asian markets that had been expanding AI data centers as an alternative to China are now exposed to delivery uncertainty. Nvidia's export control driven halt on advanced...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:15:32+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:37:13.124533+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/nice-tase-nice-support-reasonable-181420159.html?.tsrc=rss",
+      "title": "Can NICE (TASE:NICE) Support A Reasonable Price On Earnings?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nice-tase-nice-support-reasonable-181420159.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "NICE has seen its share price fall sharply over recent years, yet fresh product launches and partnerships keep attention on what investors are really paying for. The live question is whether the current US$303.00 price tag is properly grounded in the company’s earnings power. Over the past 5 years the stock has fallen 67.4%, which puts the spotlight squarely on whether today’s earnings can support even a partial rebuild in investor confidence. Recent launches around NICE Cognigy and deeper...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:14:20+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:37:13.124533+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -531,6 +733,54 @@
       }
     },
     {
+      "id": "tradingview:tradingview:c6241f1a8af4b:0",
+      "title": "Stabilus SE (STM) Extends CEO Contract Through September 2030",
+      "url": "https://www.tradingview.com/news/tradingview:c6241f1a8af4b:0-stabilus-se-stm-extends-ceo-contract-through-september-2030/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:08:13+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:37:13.267885+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:STM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:eqs:a4621b86f094b:0",
+      "title": "Stabilus SE: Supervisory Board extends contract with CEO Dr. Michael Büchsner",
+      "url": "https://www.eqs-news.com/news/corporate-news/stabilus-se-supervisory-board-extends-contract-with-ceo-dr-michael-buechsner/cdf71544-82b7-49c7-b234-bc973bd1508f_en",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "EQS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:08:13+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:37:13.267885+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:STM"
+        ]
+      }
+    },
+    {
       "id": "tradingview:gurufocus:ac6b2fae0094b:0",
       "title": "Palo Alto Networks Stock Falls After Former Executive Sues, Alleging Accounting Fraud Pressure",
       "url": "https://www.gurufocus.com/news/9227731/palo-alto-networks-stock-falls-after-former-executive-sues-alleging-accounting-fraud-pressure",
@@ -648,6 +898,54 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "tradingview:tradingview:6029ccbf187f5:0",
+      "title": "Stabilus SE (STM) Extends CEO Contract Through September 2030",
+      "url": "https://www.tradingview.com/news/tradingview:6029ccbf187f5:0-stabilus-se-stm-extends-ceo-contract-through-september-2030/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:05:33+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:37:13.267885+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:STM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:eqs:6cd692af0094b:0",
+      "title": "Stabilus SE: Supervisory Board extends contract with CEO Dr. Michael Büchsner",
+      "url": "https://www.eqs-news.com/news/inside-information-ad-hoc-release/stabilus-se-supervisory-board-extends-contract-with-ceo-dr-michael-buechsner/784fcdba-5a41-4bd5-9f5f-a620c9939087_en",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "EQS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:05:33+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:37:13.267885+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:STM"
+        ]
+      }
     },
     {
       "id": "tradingview:globenewswire:6eb6f9275094b:0",
