@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T17:01:27.777460+08:00",
-  "count": 1621,
+  "generated_at": "2026-11-26T17:04:20.152633+08:00",
+  "count": 1633,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 48,
+      "count": 49,
       "error": ""
     },
     {
@@ -26,6 +26,235 @@
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaaxc1433495.shtml",
+      "title": "欧元区10月M3货币供应量同比增长3.6%，高于预期",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaaxc1433495.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "欧元区10月M3货币供应量增幅高于经济学家预期。 根据欧洲央行数据，欧元区10月M3货币供应量同比增长3.6%，高于市场预期的3.5%；9月经修正后的增幅为3.6%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:02:51+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:04:13.963843+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261126170043591800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261126170043591800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:00:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:04:13.245178+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261126170042082800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261126170042082800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:00:42+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:04:13.245178+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126170038053800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261126170038053800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:00:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:04:13.245178+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126170035480800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261126170035480800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:00:35+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:04:13.245178+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261126170031317800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261126170031317800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:00:31+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:04:13.245178+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126170022709800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261126170022709800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:00:22+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:04:13.245178+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126170006234800",
+      "title": "Euro zone October M3 money supply rose 3.6% YoY, above expectations of 3.5%; pre",
+      "url": "https://www.jin10.com/#/flash/20261126170006234800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Euro zone October M3 money supply rose 3.6% YoY, above expectations of 3.5%; previous 3.5%.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:00:06+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:04:13.245178+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126170004481800",
+      "title": "欧元区10月货币供应M3年率 3.6%，预期3.5%，前值3.50%。",
+      "url": "https://www.jin10.com/#/flash/20261126170004481800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "欧元区10月货币供应M3年率 3.6%，预期3.5%，前值3.50%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:00:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:04:13.245178+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126170002476800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261126170002476800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:00:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:04:13.245178+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261126165932097800",
+      "title": "海力士外资结束10日连卖转为净买入，散户单日净卖6032亿韩元",
+      "url": "https://www.jin10.com/#/flash/20261126165932097800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "韩国交易所11月26日收盘数据显示，SK海力士外资结束此前连续10个交易日净卖出，转为净买入3141亿韩元。外资此前10个交易日累计净卖出约3.66万亿韩元，其中11月12日单日净卖出9839亿韩元，11月25日净卖出5977亿韩元。外资转为买入当天，个人投资者净卖出6032亿韩元，机构净卖出719亿韩元，其他法人净买入3630亿韩元。个人净卖出规模约为外资净买入额的1.9倍。SK海力士股价盘中一度升至109.8万韩元，随后回落，收报105.6万韩元，上涨2.52%。外资结束连续抛售与散户集中减持同时发生，个股筹码交易方向出现明显分化。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:59:32+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:04:13.245178+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "sina:https://finance.sina.com.cn/world/2026-11-26/doc-inkaaaxc1428542.shtml",
       "title": "印度最高法院要求食品加注警示标签 推进国民健康",
@@ -63,6 +292,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261126165455913800",
+      "title": "Tims China weighing stake sale; company declines to comment",
+      "url": "https://www.jin10.com/#/flash/20261126165455913800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "TH International, which operates Tim Hortons stores in Greater China, is evaluating options including a stake sale and has hired a financial adviser to assess the business, market sources said. The process could bring in a strategic investor and raise funds for expansion, but discussions are at an early stage and may not lead to a deal. Tims China declined to comment on Nov. 26.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:54:55+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:04:13.245178+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261126165452913800",
