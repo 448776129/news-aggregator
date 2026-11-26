@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T22:43:15.865446+08:00",
-  "count": 2087,
+  "generated_at": "2026-11-26T22:46:15.395094+08:00",
+  "count": 2088,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -4320,6 +4320,25 @@
       "published_at": "2026-11-23T16:41:00+08:00",
       "published_date": "2026-11-23",
       "fetched_at": "2026-11-26T22:22:18.144475+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:fb4ae0c159fd667eb841411f7515a73457b9fda4",
+      "title": "The Stock Market Dropped. Did You Really Lose That Money?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b084633b8a14205a198ce645f5e848e&url=https%3a%2f%2fwww.forbes.com%2fsites%2fkristinvancerichards%2f2026%2f11%2f23%2fthe-stock-market-dropped-did-you-really-lose-that-money%2f&c=6822772411221245039&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A stock market decline can trigger financial anxiety. Learn how loss aversion affects financial decisions and how to maintain a long-term investment strategy.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T16:41:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-26T22:46:12.771482+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
