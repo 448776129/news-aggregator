@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T02:16:17.219263+08:00",
-  "count": 312,
+  "generated_at": "2026-11-27T02:19:16.404889+08:00",
+  "count": 313,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:newsbtc:f55f91f71094b:0",
+      "title": "Monero’s Delisting Nightmare Continues: XMR Price Plunges 15%",
+      "url": "https://www.newsbtc.com/news/monero-xmr/monero-xmr-price-crash-kucoin-delisting/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "NewsBTC",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:13:51+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:19:11.613503+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:XMRUSD"
+        ]
+      }
+    },
     {
       "id": "tradingview:dpa_afx:95d50e3255542:0",
       "title": "EU Delays Vote On Tesla's Assisted Driving System To December 15: Reports",
