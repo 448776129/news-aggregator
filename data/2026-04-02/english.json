@@ -1,0 +1,61 @@
+{
+  "date": "2026-04-02",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-26T08:10:23.528093+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:a4d613fc726ba12d5562387c069a5a91a7133298",
+      "title": "Company Earnings and EPS: Everything Investors Need To Know",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0778ed592c4e6bb9dd95b3b2da6f94&url=https%3a%2f%2fwww.investopedia.com%2farticles%2fbasics%2f03%2f052303.asp&c=3333325186248426945&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Investopedia contributors come from a range of backgrounds, and over 25 years there have been thousands of expert writers and editors who have contributed. Robert Kelly is managing director of XTS ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-04-02T19:15:00+08:00",
+      "published_date": "2026-04-02",
+      "fetched_at": "2026-11-26T08:10:22.604950+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

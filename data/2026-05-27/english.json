@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-27",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-26T08:10:23.531983+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:157f1508625b058c8c45a0436a610dcd9b078da9",
+      "title": "Salesforce Earnings Can Put AI Fears to Bed, Give Stock a Lift",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0778ed592c4e6bb9dd95b3b2da6f94&url=https%3a%2f%2fwww.bloomberg.com%2fnews%2farticles%2f2026-05-27%2fsalesforce-earnings-can-put-ai-fears-to-bed-give-stock-a-lift&c=4307336024440133221&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Software companies have had a strong earnings season, with roughly 87% topping expectations for earnings and revenue, higher beat rates than for the S&P 500 overall, according to data compiled by ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-05-27T20:00:00+08:00",
+      "published_date": "2026-05-27",
+      "fetched_at": "2026-11-26T08:10:22.604950+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
