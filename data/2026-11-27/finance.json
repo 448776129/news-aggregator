@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T01:25:29.195840+08:00",
-  "count": 46,
+  "generated_at": "2026-11-27T01:28:18.912127+08:00",
+  "count": 51,
   "sources": [
     {
       "name": "cls",
@@ -15,17 +15,120 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 43,
+      "count": 47,
       "error": ""
     },
     {
       "name": "sina",
       "status": "ok",
-      "count": 3,
+      "count": 4,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaayax3495099.shtml",
+      "title": "欧洲股市反弹 投资者谨慎重返AI交易",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaayax3495099.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "欧洲股市周四反弹，结束两连跌，投资者谨慎重返人工智能（AI）交易，推动科技股和矿业股上涨。 斯托克欧洲600指数收盘上涨1.7%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:26:29+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:28:15.027979+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261127012248696800",
+      "title": "巴基斯坦外长：今晚接到科威特外交部长的电话。",
+      "url": "https://www.jin10.com/#/flash/20261127012248696800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "巴基斯坦外长：今晚接到科威特外交部长的电话。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:22:48+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:28:12.849873+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127012159386800",
+      "title": "Iranian, Pakistani foreign ministers hold phone call",
+      "url": "https://www.jin10.com/#/flash/20261127012159386800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Iranian Foreign Minister Abbas Araghchi spoke by phone with Pakistan’s Deputy Prime Minister and Foreign Minister Ishaq Dar on Thursday afternoon local time to discuss the latest regional developments, Iran’s Foreign Ministry said.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:21:59+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:28:12.849873+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127012156760800",
+      "title": "【伊朗外交部：伊朗外长和巴基斯坦外长通电话】金十数据11月27日讯，伊朗外交部表示，当地时间周四下午，伊朗外长阿拉格齐与巴基斯坦副总理兼外交部长穆罕默德·伊沙克",
+      "url": "https://www.jin10.com/#/flash/20261127012156760800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【伊朗外交部：伊朗外长和巴基斯坦外长通电话】金十数据11月27日讯，伊朗外交部表示，当地时间周四下午，伊朗外长阿拉格齐与巴基斯坦副总理兼外交部长穆罕默德·伊沙克·达尔通电话，讨论地区局势最新进展。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:21:56+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:28:12.849873+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127011900848800",
+      "title": "The Euro Summit said the euro zone economy is resilient and called for an agreem",
+      "url": "https://www.jin10.com/#/flash/20261127011900848800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "The Euro Summit said the euro zone economy is resilient and called for an agreement on the digital euro by end-2026.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:19:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:28:12.849873+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "jin10:20261127011858543800",
       "title": "欧元峰会宣布欧元区经济具有韧性，并呼吁在2026年底前就数字欧元达成协议。",
