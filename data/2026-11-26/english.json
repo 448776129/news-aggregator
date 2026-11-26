@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T17:19:16.582208+08:00",
-  "count": 3926,
+  "generated_at": "2026-11-26T17:22:15.805074+08:00",
+  "count": 3941,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 8,
       "error": ""
     },
     {
@@ -38,6 +38,98 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:cnbctv:ea63abf03094b:0",
+      "title": "Unimech Aerospace shares gain after buying 76% stake in Aurai Technologies",
+      "url": "https://www.tradingview.com/news/cnbctv:ea63abf03094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:20:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:22:12.493426+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126001558:0",
+      "title": "Glomac Bhd Malaysia 2nd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126001558:0-glomac-bhd-malaysia-2nd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:22:12.493426+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:GLOMAC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8073Ea:0",
+      "title": "REG - Jardine Matheson Hdg - Board Changes",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8073Ea:0-reg-jardine-matheson-hdg-board-changes/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:19:33+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:22:12.493426+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SGX:J36"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47709L:0",
+      "title": "Japan may raise shorter-term bond issuance if FY2027 debt sales increase",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47709L:0-japan-may-raise-shorter-term-bond-issuance-if-fy2027-debt-sales-increase/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:19:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:22:12.493426+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770PF:0",
       "title": "MBSB Posts Q3 2026 Revenue Of 855.8 Million RGT",
@@ -59,6 +151,30 @@
         "urgency": 2,
         "symbols": [
           "MYX:MBSB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cointelegraph:25592a29c094b:0",
+      "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+      "url": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Cointelegraph",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:18:15+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:22:12.493426+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
         ]
       }
     },
@@ -183,6 +299,25 @@
       }
     },
     {
+      "id": "yahoo:https://uk.finance.yahoo.com/news/nvidia-halts-chip-exports-south-091719498.html?.tsrc=rss",
+      "title": "Nvidia halts chip exports to south-east Asia after US crackdown",
+      "url": "https://uk.finance.yahoo.com/news/nvidia-halts-chip-exports-south-091719498.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia has blocked shipments of powerful AI servers to four Asian countries as Washington cracks down on Chinese access to cutting-edge American technology.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:17:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:22:12.333735+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770MD:0",
       "title": "Patel Engineering Declared As Successful Lowest Bidder By Dirang Energy",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770MD:0-patel-engineering-declared-as-successful-lowest-bidder-by-dirang-energy/",
@@ -227,6 +362,30 @@
         "urgency": 2,
         "symbols": [
           "LSE:HILS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:3df6120f5094b:0",
+      "title": "Hawkish Fed sentiment coincides with sharp drop in S&P 500 valuation",
+      "url": "https://seekingalpha.com/news/4676788-hawkish-fed-sentiment-coincides-with-sharp-drop-in-sp-500-valuation?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T17:16:42+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:22:12.493426+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SP:SPX"
         ]
       }
     },
@@ -36826,6 +36985,25 @@
       "extra": {}
     },
     {
+      "id": "msn:9f0b6aa3c7f769b0a4f8b097f3ad27ce2526cf47",
+      "title": "Stock Market Live Updates: Sensex gives up all gains, drops over 650 points from day’s ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07fa444cf8496688611f89c0befb6a&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-lg-electronics-hdfc-bank-share-price-26-november-2026%2fliveblog%2f136176167.cms&c=13541258442483674008&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Domestic equities staged a sharp rebound after the market holiday, defying weak Asian cues and subdued US futures ahead of the US PCE inflation data. The benchmark Nifty 50 surged 470 points, or 1.85% ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:37:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:22:14.390850+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:urn:summary_document_report:quartr.com:4025909:0",
       "title": "ORV: FY2026 EBITDA rose to $84.361 million as Bolivia ramped up and Spain beat gold guidance",
       "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4025909:0-orv-fy2026-ebitda-rose-to-84-361-million-as-bolivia-ramped-up-and-spain-beat-gold-guidance/",
@@ -53063,6 +53241,25 @@
       "extra": {}
     },
     {
+      "id": "msn:639b267ea667819aafb8608323bd48f396f5e4fe",
+      "title": "Impax International Sustainable Economy Fund Q3 2026 Commentary",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07fa44e66e4b87b21b28904d4a7df9&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972127-impax-international-sustainable-economy-fund-q3-2026-commentary&c=8664322210550933104&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Impax International Sustainable Economy Fund portfolio outperformed the MSCI EAFE benchmark in the third quarter of 2026.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:46:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:22:14.390850+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8811273",
       "title": "US authorizes SpaceX to deploy 1 million satellites for data centers in space - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVk5uRnprd285MEw5V2prcHR6bXljVGN4cUZuOHA4eHJUZkFzOVFnS1QtYnZaal8yYUYxa0t1cW84WjVzQWpub0czSGxUblh3STB6WnZxcThWZUxNRDk2emliZ0tfTmk5U3YxY3FZRXdEYWNyb2VMTmlkZE5RNWZHOS12OWdjSkpNdzhGU0Z4NWo3VmpSZHNXWGNJZUFpZjl2T2xuUkRKRXBpOTFqVFdFLXFvV0xHd1czWDFKbFU3OWFGU21B?oc=5",
@@ -55138,6 +55335,25 @@
       "published_at": "2026-11-26T04:24:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T17:16:15.647919+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:9116d3c154825c77bd75424ee21896e6e32c3207",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07fa45d9b54669898dbe51fdbde2c9&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:22:14.390850+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -58039,6 +58255,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T17:19:14.460482+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:e8e00e2a8bc15c181ed7593bb6e36ba93a322cac",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07fa444cf8496688611f89c0befb6a&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:22:14.390850+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -75214,6 +75449,25 @@
       "extra": {}
     },
     {
+      "id": "msn:f4d35352ea18ee60c9fd971be87b705b5909e599",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07fa444cf8496688611f89c0befb6a&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:22:14.390850+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -75877,6 +76131,25 @@
       "published_at": "2026-11-26T00:48:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T17:13:17.535108+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d95d5e5b146fd38f4c76073a7dddc5bcfe868adb",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty slips below 25,800; Asian Paints, Bajaj Fin ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07fa444cf8496688611f89c0befb6a&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-nifty-50-sensex-expiry-today-tariffs-textiles-lg-schaeffler-gokaldas-lupin-avanti-share-price-liveblog-20041603.htm&c=17246498023743577648&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Track live Sensex and Nifty updates as monthly expiry, US tariff announcements, and Wall Street trends drive stock market action today.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:48:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:22:14.390850+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -79781,6 +80054,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T17:19:14.460482+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d13d55ac26b7206ab637478626052e36cc8622de",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07fa444cf8496688611f89c0befb6a&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:22:14.390850+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -84367,6 +84659,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T17:19:14.460482+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:29df452f865dd4d7ef3a5881620dd77e6a0afb3e",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07fa444cf8496688611f89c0befb6a&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T17:22:14.390850+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
