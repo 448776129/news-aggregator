@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T04:31:20.352184+08:00",
-  "count": 145,
+  "generated_at": "2026-11-27T04:34:16.700693+08:00",
+  "count": 146,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 8,
+      "count": 9,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacekr1200993.shtml",
+      "title": "币安完成恢复工作 解除提现暂停",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacekr1200993.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "币安称，其提现恢复工作已经完成，10月安全事件后实施的提现暂停措施已全面解除。 少数网络的提现暂时暂停，因这些网络正在进行维护或计划内升级。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:31:20+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:34:12.292765+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261127041536508800",
       "title": "【美元指数26日上涨】金十数据11月27日讯，衡量美元对六种主要货币的美元指数当天上涨0.09%，在汇市尾市收于103.763。截至纽约汇市尾市，1欧元兑换1.",
