@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T08:55:20.715244+08:00",
-  "count": 1632,
+  "generated_at": "2026-11-26T08:58:13.713689+08:00",
+  "count": 1633,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "error": ""
     },
     {
@@ -31518,6 +31518,25 @@
       "published_at": "2026-11-26T00:48:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T08:52:12.684821+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:5b0bd21cee9023ad00e2af76c25067a5009018e6",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty will react to multiple factors as tariffs ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0784226b5948ad9ee1855e6b56a901&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-nifty-50-sensex-expiry-today-tariffs-textiles-lg-schaeffler-gokaldas-lupin-avanti-share-price-liveblog-20041603.htm&c=17246498023743577648&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Track live Sensex and Nifty updates as monthly expiry, US tariff announcements, and Wall Street trends drive stock market action today.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:48:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:58:12.424237+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",

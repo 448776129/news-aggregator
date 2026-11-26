@@ -3,8 +3,8 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T08:55:20.773607+08:00",
-  "count": 430,
+  "generated_at": "2026-11-26T08:58:13.759739+08:00",
+  "count": 432,
   "sources": [
     {
       "name": "stocktwits",
@@ -14,6 +14,60 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670234270",
+      "title": "$SPY $NVDA $AMD $MU $TSLA",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "david102",
+      "summary": "$SPY $NVDA $AMD $MU $TSLA",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:57:10+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:58:09.917039+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "SPY",
+          "NVDA",
+          "AMD",
+          "MU",
+          "TSLA"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670234212",
+      "title": "$AAPL can’t remember the last news on AAPL $QQQ $SPY",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "5win5",
+      "summary": "$AAPL can’t remember the last news on AAPL $QQQ $SPY",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:55:53+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:58:09.917039+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "AAPL",
+          "QQQ",
+          "SPY"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670234140",
       "title": "Last 7 alerts given to the group…. join free from the link in bio $TSLA $NVDA $AMD $MU $SPY",

@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T08:55:20.752526+08:00",
-  "count": 534,
+  "generated_at": "2026-11-26T08:58:13.742904+08:00",
+  "count": 547,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 48,
+      "count": 47,
       "error": ""
     },
     {
@@ -26,6 +26,25 @@
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzmzi8991957.shtml",
+      "title": "韩国央行因通胀顽固而上调利率 AI热潮推动经济增长",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzmzi8991957.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "韩国央行恢复加息步伐。此前，历史性的半导体繁荣推动了韩国经济增长强于预期，并使通胀维持在高位，这一利好抵消了市场对家庭需求疲软及近期股市大跌的担忧。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:57:52+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:58:11.033348+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-26/doc-inizzmzm1389042.shtml",
       "title": "礼邦医药-B于11月25日斥资约190.24万港元回购9.2万股",
@@ -44,6 +63,48 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261126085141921800",
+      "title": "韩国央行：预计2026年通胀率为2.7%，预计2027年通胀率为2.4%，预计2028年通胀率为2.1%。",
+      "url": "https://www.jin10.com/#/flash/20261126085141921800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "韩国央行：预计2026年通胀率为2.7%，预计2027年通胀率为2.4%，预计2028年通胀率为2.1%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:51:41+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:58:09.665611+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126085118508800",
+      "title": "The Bank of Korea expects GDP growth of 3.9% in 2026, 4.1% in 2027 and 3.0% in 2",
+      "url": "https://www.jin10.com/#/flash/20261126085118508800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "The Bank of Korea expects GDP growth of 3.9% in 2026, 4.1% in 2027 and 3.0% in 2028.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:51:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:58:09.665611+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-26/doc-inizzmzm1388293.shtml",
@@ -65,6 +126,27 @@
       "extra": {}
     },
     {
+      "id": "jin10:20261126085116721800",
+      "title": "韩国央行：预计2026年GDP增长3.9%，预计2027年GDP增长4.1%，预计2028年GDP增长率为3.0%。",
+      "url": "https://www.jin10.com/#/flash/20261126085116721800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "韩国央行：预计2026年GDP增长3.9%，预计2027年GDP增长4.1%，预计2028年GDP增长率为3.0%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:51:16+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:58:09.665611+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzmzm1388028.shtml",
       "title": "韩国央行将基准利率上调25个基点至3.25%",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzmzm1388028.shtml",
@@ -84,6 +166,48 @@
       "extra": {}
     },
     {
+      "id": "jin10:20261126085051335800",
+      "title": "The Bank of Korea raised its benchmark rate by 25 bps to 3.25%, in line with mar",
+      "url": "https://www.jin10.com/#/flash/20261126085051335800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "The Bank of Korea raised its benchmark rate by 25 bps to 3.25%, in line with market expectations.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:50:51+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:58:09.665611+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261126085049802800",
+      "title": "韩国央行将基准利率上调25个基点至3.25%，符合市场预期。",
+      "url": "https://www.jin10.com/#/flash/20261126085049802800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "韩国央行将基准利率上调25个基点至3.25%，符合市场预期。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:50:49+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:58:09.665611+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-26/doc-inizzmzn8163761.shtml",
       "title": "康方生物：受托人以总代价约550万港元购买约10万股公司股份",
       "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-26/doc-inizzmzn8163761.shtml",
@@ -101,6 +225,111 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261126085009308800",
+      "title": "South Korea central bank rate decision: 3.25% vs. 3.25% expected; previous 3.00%",
+      "url": "https://www.jin10.com/#/flash/20261126085009308800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "South Korea central bank rate decision: 3.25% vs. 3.25% expected; previous 3.00%.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:50:09+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:58:09.665611+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126085006095800",
+      "title": "韩国至11月26日央行利率决定 3.25%，预期3.25%，前值3.00%。",
+      "url": "https://www.jin10.com/#/flash/20261126085006095800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "韩国至11月26日央行利率决定 3.25%，预期3.25%，前值3.00%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:50:06+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:58:09.665611+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126085004091800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261126085004091800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:50:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:58:09.665611+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261126085002010800",
+      "title": "SWIFT will publish the yuan's share of global payments for October in 10 minutes",
+      "url": "https://www.jin10.com/#/flash/20261126085002010800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "SWIFT will publish the yuan's share of global payments for October in 10 minutes.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:50:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:58:09.665611+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261126085000001800",
+      "title": "中国10月Swift人民币在全球支付中占比将于十分钟后公布。",
+      "url": "https://www.jin10.com/#/flash/20261126085000001800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "中国10月Swift人民币在全球支付中占比将于十分钟后公布。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:50:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:58:09.665611+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
     },
     {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-26/doc-inizzmzn8162824.shtml",
@@ -139,6 +368,48 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261126084813707800",
+      "title": "美联储褐皮书显示经济持续增长，通胀与工资压力仍顽固",
+      "url": "https://www.jin10.com/#/flash/20261126084813707800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "美联储褐皮书显示，美国多数地区经济保持增长，就业小幅增加，但企业成本和工资压力仍未缓解。与此同时，10月PCE数据正进一步强化市场对12月加息的预期。点击查看…",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:48:13+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:58:09.665611+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261126084803245800",
+      "title": "金十数据整理：隔日全球股市走势回顾（2026-11-26）",
+      "url": "https://www.jin10.com/#/flash/20261126084803245800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "亚股 1. 中国上证综指11月25日（周三）收盘下跌71.90点，跌幅2.03%，报3476.47点； 2. 中国深证成指11月25日（周三）收盘下跌337.24点，跌幅3.24%，报10086.36点； 3. 中国沪深300指数11月25日（周三）收盘下跌65.58点，跌幅1.65%，报3898.24点； 4. 中国创业板指数11月25日（周三）收盘下跌95.41点，跌幅4.19%，报2183.58点； 5. 中国科创50指数11月25日（周三）收盘下跌63.95点，跌幅5.12%，报1186.14点； 6. 香港恒生指数11月25日（周三）收盘下跌253.64点，跌幅1.14%，报21966.01点； 7. 香港恒生科技指数11月25日（周三）收盘下跌88.61点，跌幅2.56%，报3378.26点。 欧股 1. 德国DAX指数11月25日（周三）收盘下跌315.68点，跌幅1.26%，报24702.13点； 2. 英国富时100指数11月25日（周三）收盘下跌40.13点，跌幅0.38%，报10426.94点； 3. 法国CAC40指数11月25日（周三）收盘下跌59.92点，跌幅0.75%，报7980.57点； 4. 欧洲斯托克50指数11月25日（周三）收盘下跌109.30点，跌幅1.82%，报5894.46点 5. 西班牙IBEX35指数11月25日（周三）收盘下跌380.00点，跌幅2.00%，报18635.80点；意大利富时MIB指数11月25日（周三）收盘下跌872.04点，跌幅1.81%，报47249.15点。 美股 1. 道琼斯指数11月25日（周三）收盘上涨164.25点，涨幅0.33%，报50182.95点； 2. 标普500指数11月25日（周三）收盘下跌18.31点，跌幅0.25%，报7182.78点； 3. 纳斯达克综合指数11月25日（周三）收盘下跌147.74点，跌幅0.62%，报23585.80点。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:48:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:58:09.665611+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-26/doc-inizzmzm1385042.shtml",
