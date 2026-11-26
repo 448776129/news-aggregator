@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T21:55:18.455274+08:00",
-  "count": 5881,
+  "generated_at": "2026-11-26T21:58:18.834217+08:00",
+  "count": 5909,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 8,
+      "count": 9,
       "error": ""
     },
     {
@@ -38,6 +38,315 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770FU:0",
+      "title": "China Railway Resources Group plans $600 million investment in Zimbabwe gold mines",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770FU:0-china-railway-resources-group-plans-600-million-investment-in-zimbabwe-gold-mines/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:57:34+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.581686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SSE:601390",
+          "COMEX:GC1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8649Ea:0",
+      "title": "REG - State Street Global Bodycote PLC - Form 8.3 - Bodycote plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8649Ea:0-reg-state-street-global-bodycote-plc-form-8-3-bodycote-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:57:24+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.581686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:BOY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:682462:0",
+      "title": "Vienna Insurance Group Q3 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:682462:0-vienna-insurance-group-q3-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:57:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.581686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "VIE:VIG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:682798:0",
+      "title": "S.N.T.G.N. Transgaz Q3 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:682798:0-s-n-t-g-n-transgaz-q3-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:57:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.581686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BVB:TGN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:737543:0",
+      "title": "Nanalysis Scientific Q3 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:737543:0-nanalysis-scientific-q3-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:57:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.581686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:NSCI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4770TY:0",
+      "title": "German court rejects firearm permit revocations tied to AfD youth wing",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4770TY:0-german-court-rejects-firearm-permit-revocations-tied-to-afd-youth-wing/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:55:56+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.581686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8648Ea:0",
+      "title": "REG - T.Rowe Price Assoc SEGRO PLC - Form 8.3 - Segro plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8648Ea:0-reg-t-rowe-price-assoc-segro-plc-form-8-3-segro-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:55:13+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.581686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:SGRO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770Q2:0",
+      "title": "Ep Manufacturing Reports Quarterly Revenue 168.8 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770Q2:0-ep-manufacturing-reports-quarterly-revenue-168-8-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:54:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.581686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:EPMB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8646Ea:0",
+      "title": "REG - T.Rowe Price Assoc Prologis, Inc. - Form 8.3 - Prologis Inc.",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8646Ea:0-reg-t-rowe-price-assoc-prologis-inc-form-8-3-prologis-inc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:54:27+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.581686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PLD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770R7:0",
+      "title": "HSBC Says Continued Equity Market Weakness Puts Gold At Risk Of Breaking Below $3,400/Oz",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770R7:0-hsbc-says-continued-equity-market-weakness-puts-gold-at-risk-of-breaking-below-3-400-oz/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:52:57+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.581686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770NL:0",
+      "title": "Top Form International Says Q1 FY2027 Sales Up 27.6% To HK$301.6 Million",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770NL:0-top-form-international-says-q1-fy2027-sales-up-27-6-to-hk-301-6-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:52:49+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.581686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:333"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:189cfd756094b:0",
+      "title": "Excellon Announces Filing and Mailing of Management Information Circular in Connection with Annual and Special Meeting and Proposes Name Change to Excellon Silver & Gold Inc.",
+      "url": "https://www.newsfilecorp.com/release/326033/Excellon-Announces-Filing-and-Mailing-of-Management-Information-Circular-in-Connection-with-Annual-and-Special-Meeting-and-Proposes-Name-Change-to-Excellon-Silver-Gold-Inc.",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:52:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.581686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:EXN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:8f311ba7f70e8:0",
+      "title": "Excellon Resources Inc. (EXN) Proposes Distributing 48.0% of Saxony Shares to Shareholders",
+      "url": "https://www.tradingview.com/news/tradingview:8f311ba7f70e8:0-excellon-resources-inc-exn-proposes-distributing-48-0-of-saxony-shares-to-shareholders/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:52:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.581686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:EXN"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770ON:0",
       "title": "Poonawalla Fincorp Says Board To Consider Equity Fund Raising Via Private Placement On December 1, 2026",
@@ -59,6 +368,64 @@
         "urgency": 2,
         "symbols": [
           "NSE:POONAWALLA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:a869d97cf094b:0",
+      "title": "Strong Buy at under $10: The highest Quant-rated bargain stocks right now",
+      "url": "https://seekingalpha.com/news/4676816-strong-buy-at-under-10-the-highest-quant-rated-bargain-stocks-right-now?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:51:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.581686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CYPH",
+          "OTC:CVALF",
+          "NASDAQ:FOSL",
+          "NASDAQ:VRA",
+          "NASDAQ:OABI",
+          "NASDAQ:SBC",
+          "NASDAQ:JRSH",
+          "NASDAQ:IRWD",
+          "NYSE:BB",
+          "NYSE:CURV",
+          "TSX:BB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3697335:0",
+      "title": "Envision Greenwise: Revenue surged on metals trading and AI-computing expansion, alongside sizable acquisition commitments",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3697335:0-envision-greenwise-revenue-surged-on-metals-trading-and-ai-computing-expansion-alongside-sizable-acquisition-commitments/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:51:28+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.581686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1783"
         ]
       }
     },
@@ -399,6 +766,30 @@
       }
     },
     {
+      "id": "tradingview:globenewswire:54903dd0d094b:0",
+      "title": "DPM Metals to Host Investor Day on December 8, 2026",
+      "url": "https://www.globenewswire.com/news-release/2026/11/26/3410770/0/en/dpm-metals-to-host-investor-day-on-december-8-2026.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:47:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.581686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:DPM"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770VE:0",
       "title": "Advent On Report Of Stake Sale In Coforge Says Media Speculation Regarding Imminent Block Trade Transactions Are Unfounded",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770VE:0-advent-on-report-of-stake-sale-in-coforge-says-media-speculation-regarding-imminent-block-trade-transactions-are-unfounded/",
@@ -447,6 +838,25 @@
       }
     },
     {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/26/heading-into-fy27-how-to-trade-broadcoms-115b-ai-target-against-nvidias-multiple-reset/?.tsrc=rss",
+      "title": "Heading Into FY27: How to Trade Broadcom’s ~$115B AI Target Against Nvidia’s Multiple Reset",
+      "url": "https://247wallst.com/investing/2026/11/26/heading-into-fy27-how-to-trade-broadcoms-115b-ai-target-against-nvidias-multiple-reset/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Both chip giants beat earnings, yet both stocks have sunk more than 28% in six months. One now trades at a surprisingly low multiple while the other leans on just six customers, so which discount actually offers the better bet?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:45:33+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.436135+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:urn:summary_document_slides:quartr.com:4846578:0",
       "title": "HME: Partial G pool restart underway; long-life reserves support a $90.1 million return record",
       "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4846578:0-hme-partial-g-pool-restart-underway-long-life-reserves-support-a-90-1-million-return-record/",
@@ -493,6 +903,25 @@
           "NSE:BSE"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/26/ionq-lost-25-of-its-value-over-one-month-near-200-gains-to-materialize-according-to-this-wall-street-pro/?.tsrc=rss",
+      "title": "IonQ Lost 25% of Its Value Over One Month: Near 200% Gains to Materialize According to This Wall Street Pro",
+      "url": "https://247wallst.com/investing/2026/11/26/ionq-lost-25-of-its-value-over-one-month-near-200-gains-to-materialize-according-to-this-wall-street-pro/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "IonQ posted record revenue and a sold-out 2027 order book, yet its shares keep sinking. A $2 billion stock sale, a widening loss, and shrinking analyst targets raise one question: who is right about this quantum leader?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:45:17+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.436135+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N4770W5:0",
@@ -590,6 +1019,28 @@
         "symbols": [
           "TSXV:GSD"
         ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_S0N45V024:0",
+      "title": "Brazil's finance minister to meet Lula on further fiscal measures",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S0N45V024:0-brazil-s-finance-minister-to-meet-lula-on-further-fiscal-measures/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:44:51+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:13.581686+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -54700,6 +55151,44 @@
       "extra": {}
     },
     {
+      "id": "msn:df568773d58d14fa696e9395dc7388d3c29ac415",
+      "title": "Chudenko (TSE:1941) Stock Seems In Line With Earnings After 199% Run",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083af69e884f05890007f0ed027027&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fchudenko-tse-1941-stock-seems-131223013.html&c=4874099514742855502&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chudenko has rewarded long term shareholders with strong gains, which naturally raises a question for anyone looking at the stock today. Is the current share price, around ¥5,080 at the last close, ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:12:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:15.555886+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6f82293d2f5576cb3c533fb00826cd714e5c9504",
+      "title": "SCR Sibelco (ENXTBR:094426466) Stock May Still Look Like A Bargain On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083af69e884f05890007f0ed027027&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fscr-sibelco-enxtbr-094426466-stock-131257122.html&c=9314630162972707892&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "SCR-Sibelco shares have drifted lower in 2024, with the stock down 26.6% year to date, which puts a sharp spotlight on whether the current price lines up with the earnings power of the business. For ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:12:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:15.555886+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:moneycontrol:15454c22b094b:0",
       "title": "Buzzing Stocks: Wipro gains 4% on partnership with bp; Schaeffler India rises 3% on block deal activity",
       "url": "https://www.tradingview.com/news/moneycontrol:15454c22b094b:0-buzzing-stocks-wipro-gains-4-on-partnership-with-bp-schaeffler-india-rises-3-on-block-deal-activity/",
@@ -58380,6 +58869,25 @@
       "published_at": "2026-11-26T11:55:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T21:55:16.190109+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:9fef4f490380f97cdcb3c2c2f0bc358a9fe98169",
+      "title": "United Natural Foods: Expanding Margins, Strong Earnings Growth, And An Attractive 8x ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083af69e884f05890007f0ed027027&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972239-united-natural-foods-stock-expanding-margins-strong-earnings-growth-and-attractive-8x-ebitda-valuation&c=2001924792131245839&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "United Natural Foods earns a Buy rating: improving profitability, natural demand, and reasonable valuation support a favorable risk-reward.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T11:55:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:15.555886+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -86112,6 +86620,25 @@
       "extra": {}
     },
     {
+      "id": "msn:6baf2b4b1e8f32af71db828f5390b568f95a24e2",
+      "title": "Is the stock market open today? Here are the trading hours for Thanksgiving.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083af5f2d84d92b5bef42b0fd2a418&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-thanksgiving%2far-AA2ifPMA&c=15504855894997742158&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "It’s time to give thanks. What traders should know about the stock market on Thanksgiving.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:15.555886+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:seekingalpha:2e893931d094b:0",
       "title": "SA Asks: What should Nvidia investors be watching for in the next few weeks? (Update)",
       "url": "https://seekingalpha.com/news/4676388-sa-asks-what-should-nvidia-investors-be-watching-for-in-the-next-few-weeks?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
@@ -90849,6 +91376,25 @@
       "published_at": "2026-11-26T04:24:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T21:43:11.887794+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:1ea820ac17288325074ff365be89393e1884d6a1",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083af69e884f05890007f0ed027027&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:15.555886+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -95707,6 +96253,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T21:55:16.190109+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:115b1350f8cd7711ab5b6e4b0bc1305a4089faa1",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083af5f2d84d92b5bef42b0fd2a418&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:15.555886+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -114764,6 +115329,25 @@
       "extra": {}
     },
     {
+      "id": "msn:b5f3d6ea052e609ea5ba75abeff3398062a0ac5b",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083af5f2d84d92b5bef42b0fd2a418&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:15.555886+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -121161,6 +121745,25 @@
       "extra": {}
     },
     {
+      "id": "msn:fbb427cdd17d3b4697e8a432ce251078642bc167",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083af5f2d84d92b5bef42b0fd2a418&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:15.555886+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760YX:0",
       "title": "Equinor cuts 2026 production growth guidance",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760YX:0-equinor-cuts-2026-production-growth-guidance/",
@@ -127489,6 +128092,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T21:55:16.190109+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:3539eb0f54b7e4d170cd5d8541b497be0ce889af",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083af5f2d84d92b5bef42b0fd2a418&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:58:15.555886+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
