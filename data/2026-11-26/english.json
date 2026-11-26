@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T13:28:11.464424+08:00",
-  "count": 2491,
+  "generated_at": "2026-11-26T13:31:17.520885+08:00",
+  "count": 2516,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 32,
+      "count": 33,
       "error": ""
     },
     {
@@ -38,6 +38,285 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47708O:0",
+      "title": "Hey, it could have been worse",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47708O:0-hey-it-could-have-been-worse/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:13.863943+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SP:SPX",
+          "TVC:UKX",
+          "FX:EURUSD",
+          "TVC:DXY",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762FW:0",
+      "title": "Atul Auto Ltd Entered Into Leave And Licence Agreement With Captain Tractors And Captain Agri Machinery Exim Llp",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762FW:0-atul-auto-ltd-entered-into-leave-and-licence-agreement-with-captain-tractors-and-captain-agri-machinery-exim-llp/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:29:59+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:13.863943+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:ATULAUTO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47702J:0",
+      "title": "Dollar rally takes a pause for Thanksgiving",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47702J:0-dollar-rally-takes-a-pause-for-thanksgiving/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:29:34+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:13.863943+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:DXY",
+          "FX_IDC:USDJPY",
+          "FX:EURUSD",
+          "FX:GBPUSD",
+          "FX:AUDUSD",
+          "FX_IDC:USDCHF",
+          "FX_IDC:USDCAD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47704F:0",
+      "title": "Gold ticks up after hitting 15-month low; Fed outlook in focus",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47704F:0-gold-ticks-up-after-hitting-15-month-low-fed-outlook-in-focus/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:28:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:13.863943+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:GC1!",
+          "COMEX:SI1!",
+          "NYMEX:PL1!",
+          "NYMEX:PA1!",
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC5017LB:0",
+      "title": "Life Healthcare Reports FY Total HEPS 98.4 Cents",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC5017LB:0-life-healthcare-reports-fy-total-heps-98-4-cents/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:28:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:13.863943+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "JSE:LHC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4770A4:0",
+      "title": "Palm oil rises on Indonesia's proposed new export charge",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4770A4:0-palm-oil-rises-on-indonesia-s-proposed-new-export-charge/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:28:24+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:13.863943+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:FCPO1!",
+          "CME:CPO1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762O0:0",
+      "title": "Eco&Dream Co Ltd Wins 24.4 Billion Won Order",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762O0:0-eco-dream-co-ltd-wins-24-4-billion-won-order/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:28:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:13.863943+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:101360"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000055_20261126000056:0",
+      "title": "Samsung SDI to Cancel 3.3M Common Shares, 178,400 Preferred Shares on Dec. 3",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000055_20261126000056:0-samsung-sdi-to-cancel-3-3m-common-shares-178-400-preferred-shares-on-dec-3/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:28:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:13.863943+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:006400"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC1BQZLH:0",
+      "title": "Tiger Brands Expects FY27 To Remain Challenging",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC1BQZLH:0-tiger-brands-expects-fy27-to-remain-challenging/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:27:56+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:13.863943+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "JSE:TBS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000055_20261126000055:0",
+      "title": "Samsung SDI to Cancel About KRW345.13B of Shares",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000055_20261126000055:0-samsung-sdi-to-cancel-about-krw345-13b-of-shares/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:27:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:13.863943+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:006400"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000043_20261126000053:0",
+      "title": "Sime Darby: Also Sees Potential in Southeast Asian EV Segment",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000043_20261126000053:0-sime-darby-also-sees-potential-in-southeast-asian-ev-segment/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:27:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:13.863943+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SIME"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762KY:0",
       "title": "Quratis Wins 533 Million Won Order",
@@ -445,6 +724,25 @@
           "MYX:SIME"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/asian-shares-rebound-led-ai-052153058.html?.tsrc=rss",
+      "title": "Asian shares rebound led by AI stocks after Wall Street pares sharp losses",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-rebound-led-ai-052153058.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "HONG KONG (AP) — Asian shares rebounded on Thursday led by artificial intelligence -related stocks after Wall Street pared its sharp losses Wednesday.Nvidia, one of Wall Street’s biggest drivers, fell 3.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:21:53+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:13.805759+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4770A8:0",
@@ -3124,6 +3422,30 @@
         "symbols": [
           "NASDAQ:BZ"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8811473",
+      "title": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVE1ZllSR0xRNHFVUjR0WWJjQXF2MllxbUV3WUQ2Vno2WFFCbzkyODBvWjE1WmtscC1rdkVLdVJXUDhUUXFiMDZQbS01akV2UjhQQUFwMWp2aWdrdm5ZQy11b0tvX3BkSVU1WmdUV2J4N2l0UF9tcHVqRzBuWkxhRUVsU1FtMTl1aEhRWkx3RFI2VDlraEhKemFOV0ZEX0todDFpTTBsTndhZk0zclNaWk5lNA?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war Reuters",
+      "content": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:15.723858+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -28101,6 +28423,25 @@
       "extra": {}
     },
     {
+      "id": "msn:53b98d1c37d18a7685c0deb1d2c71a249f81bf65",
+      "title": "Impax International Sustainable Economy Fund Q3 2026 Commentary",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c4228677444695ce017d21c79f0f&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972127-impax-international-sustainable-economy-fund-q3-2026-commentary&c=8664322210550933104&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Impax International Sustainable Economy Fund portfolio outperformed the MSCI EAFE benchmark in the third quarter of 2026.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:46:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:15.773047+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8811273",
       "title": "US authorizes SpaceX to deploy 1 million satellites for data centers in space - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVk5uRnprd285MEw5V2prcHR6bXljVGN4cUZuOHA4eHJUZkFzOVFnS1QtYnZaal8yYUYxa0t1cW84WjVzQWpub0czSGxUblh3STB6WnZxcThWZUxNRDk2emliZ0tfTmk5U3YxY3FZRXdEYWNyb2VMTmlkZE5RNWZHOS12OWdjSkpNdzhGU0Z4NWo3VmpSZHNXWGNJZUFpZjl2T2xuUkRKRXBpOTFqVFdFLXFvV0xHd1czWDFKbFU3OWFGU21B?oc=5",
@@ -29264,6 +29605,25 @@
       "published_at": "2026-11-26T04:24:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T13:28:32.970333+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:61323a0630bbcabf777c0134870b69874c2e24a3",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c422c3ab425fb91cb5489f6461f6&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:15.773047+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -30683,6 +31043,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T13:28:32.970333+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0bc7cb542c485eea5a1eafca70498bd8a4b231e4",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c4226da644fba34e8d68d5b94bed&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:15.773047+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -46347,6 +46726,25 @@
       "extra": {}
     },
     {
+      "id": "msn:a6b8aafe3259e50b9ce459c34427d015a04f7612",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c4226da644fba34e8d68d5b94bed&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:15.773047+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -49318,6 +49716,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T13:28:32.970333+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:446f7eb298050d55591123f6031e58cf720c4fed",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c4226da644fba34e8d68d5b94bed&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:15.773047+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -52441,6 +52858,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T13:28:32.970333+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:ffb988ba8dc2795a89bfe085c89bcc7e6304bd4d",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c4226da644fba34e8d68d5b94bed&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:31:15.773047+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
