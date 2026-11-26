@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T02:37:17.232795+08:00",
-  "count": 349,
+  "generated_at": "2026-11-27T02:40:16.505421+08:00",
+  "count": 352,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,35 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 22,
+      "count": 23,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3946745:0",
+      "title": "WTN: Restructuring charges deepened 9M losses as focus shifted to profitability and e-commerce",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3946745:0-wtn-restructuring-charges-deepened-9m-losses-as-focus-shifted-to-profitability-and-e-commerce/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:37:03+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:40:12.534038+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:WTN"
+        ]
+      }
+    },
     {
       "id": "tradingview:urn:summary_document_report:quartr.com:3683357:0",
       "title": "PRLD: BRAINBox revenue turned Q3 profitable as Psyros advanced toward TBI commercialization",
@@ -617,6 +641,25 @@
       }
     },
     {
+      "id": "yahoo:https://www.tikr.com/blog/nvidia-now-has-41-of-its-stock-portfolio-in-spacex-heres-what-that-means-for-nvidia-shareholders?ref=yahoofinance&tlnk=yf-261126-gr78h4qh&.tsrc=rss",
+      "title": "Nvidia Now Has 41% of Its Stock Portfolio in SpaceX. Here’s What That Means for Nvidia Shareholders",
+      "url": "https://www.tikr.com/blog/nvidia-now-has-41-of-its-stock-portfolio-in-spacex-heres-what-that-means-for-nvidia-shareholders?ref=yahoofinance&tlnk=yf-261126-gr78h4qh&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysNvidia’s 13F for the quarter ended Sept. 30 shows SpaceX as its largest holding, at 41% of its US stocks, just ahead of Intel.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:12:10+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:40:12.230228+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:gurufocus:76a5d1d60094b:0",
       "title": "SpaceX Gets a Fresh Vote of Confidence From Cathie Wood",
       "url": "https://www.gurufocus.com/news/9227739/spacex-gets-a-fresh-vote-of-confidence-from-cathie-wood",
@@ -639,6 +682,25 @@
           "NASDAQ:SPCX"
         ]
       }
+    },
+    {
+      "id": "yahoo:02552eb75a536f07b14b3c7500fa2e0459643b51",
+      "title": "Stanley Druckenmiller, Bill Ackman and 7 Other Famous Investors Own Amazon. Here’s Who Bought and Sold Recently",
+      "url": "https://www.tikr.com/blog/stanley-druckenmiller-bill-ackman-and-7-other-famous-investors-own-amazon-heres-who-bought-and-sold-recently?ref=yahoofinance&tlnk=yf-261126-2mffj2wm&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysNine famous investors held Amazon at Sept. 30, per their latest 13Fs, and Stanley Druckenmiller’s family office added 43% to its stake in the quarter.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:11:13+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:40:12.230228+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:urn:summary_document_report:quartr.com:3670377:0",
