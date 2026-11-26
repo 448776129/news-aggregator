@@ -3,17 +3,66 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T00:40:17.190860+08:00",
-  "count": 13,
+  "generated_at": "2026-11-27T00:49:18.441571+08:00",
+  "count": 15,
   "sources": [
     {
       "name": "stocktwits",
       "status": "ok",
-      "count": 13,
+      "count": 15,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670250642",
+      "title": "$TSLA $SPCX https://youtu.be/pwoMzW6h7B8?is=5CB3jlG3ONdROSRk",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "15fingers",
+      "summary": "$TSLA $SPCX https://youtu.be/pwoMzW6h7B8?is=5CB3jlG3ONdROSRk",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:48:31+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:49:14.484041+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": "Bullish",
+        "symbols": [
+          "TSLA",
+          "SPCX"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670250629",
+      "title": "@Rodzilla01 Any thoughts on $AAPL ?",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "the_wall_breaker",
+      "summary": "@Rodzilla01 Any thoughts on $AAPL ?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:48:10+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:49:14.484041+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "AAPL"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670250408",
       "title": "$AAPL Share Price: $355.45 Contract Selected: Dec 04, 2026 $355 Calls Buy Zone: $5.02 – $6.20 Target Zone: $9.18 – $11.2",
