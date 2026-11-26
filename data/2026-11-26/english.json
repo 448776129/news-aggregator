@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T22:04:36.220901+08:00",
-  "count": 6014,
+  "generated_at": "2026-11-26T22:07:19.522557+08:00",
+  "count": 6024,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 9,
+      "count": 8,
       "error": ""
     },
     {
@@ -38,6 +38,54 @@
     }
   ],
   "items": [
+    {
+      "id": "alpaca:131322490",
+      "title": "IC Group Holdings Inc. Reports Q3 2026 Financial Results",
+      "url": "https://www.newsfilecorp.com/release/325991/IC-Group-Reports-Q3-2026-Results-Revenue-Up-11-YearoverYear-and-Adjusted-EBITDA-Up-64",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "IC Group Holdings Inc. announced its unaudited financial results for the third quarter of 2026, reporting an 11% year-over-year revenue increase and a 64% rise in Adjusted EBITDA.",
+      "content": "IC Group Holdings Inc. reported its unaudited financial results for the three and nine months ended September 30, 2026. The company achieved its third consecutive quarter of Adjusted EBITDA at $0.67 million, representing a 64% increase from the prior year, alongside an 11% year-over-year revenue growth that was approximately 98% organic. Management highlighted performance across its business units, noting that IC Engage expanded its gross margin to 74% and IC Insurance grew revenue by 34%. While IC Mobile saw 15% revenue growth, its gross margin remains under pressure due to carrier cost increases and the operation of two messaging platforms in parallel. The company expects to complete its messaging platform migration in the fourth quarter and anticipates that a leadership realignment implemented in October will help position the firm for margin expansion in 2027.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T22:04:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:07:16.273493+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ICGH"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131322489",
+      "title": "Brand Engagement Network Enters Settlement Agreement with Cohen & Company Securities, LLC",
+      "url": "https://www.moomoo.com/stock/BNAI-US?chain_id=Name1K9-3FXPhg.1kqhhs0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fstock%2FWA8O-AU%2Ffinancials-balance-sheet%22%7D",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Brand Engagement Network Inc. entered into a settlement agreement with Cohen & Company Securities, LLC, involving the issuance of warrants to the Cohen subsidiary.",
+      "content": "On November 23, 2026, Brand Engagement Network Inc. entered into a Settlement Agreement and Mutual Release with Cohen & Company Securities, LLC, a subsidiary of Cohen & Company Inc. Under the terms of the agreement, Brand Engagement Network agreed to issue a two-year warrant to the Cohen subsidiary for 63,334 shares of its common stock at an exercise price of $12.00 per share. The agreement was disclosed in regulatory filings and reported by news sources on November 25, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T22:04:14+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:07:16.273493+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "COHN"
+        ]
+      }
+    },
     {
       "id": "alpaca:131321979",
       "title": "Criterium Energy Ltd. Reports Third Quarter 2026 Financial and Operational Results",
@@ -57309,6 +57357,44 @@
       "extra": {}
     },
     {
+      "id": "msn:b6448422ccec5e28f0830f2e215e1a96809f63e2",
+      "title": "Chudenko (TSE:1941) Stock Seems In Line With Earnings After 199% Run",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083d14edd840cbb7867906cae30ef6&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fchudenko-tse-1941-stock-seems-131223013.html&c=4874099514742855502&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chudenko has rewarded long term shareholders with strong gains, which naturally raises a question for anyone looking at the stock today. Is the current share price, around ¥5,080 at the last close, ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:12:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:07:17.892370+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:1030881305b47063e79d1f44d5635f922149c6a7",
+      "title": "SCR Sibelco (ENXTBR:094426466) Stock May Still Look Like A Bargain On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083d14edd840cbb7867906cae30ef6&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fscr-sibelco-enxtbr-094426466-stock-131257122.html&c=9314630162972707892&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "SCR-Sibelco shares have drifted lower in 2024, with the stock down 26.6% year to date, which puts a sharp spotlight on whether the current price lines up with the earnings power of the business. For ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:12:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:07:17.892370+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:moneycontrol:15454c22b094b:0",
       "title": "Buzzing Stocks: Wipro gains 4% on partnership with bp; Schaeffler India rises 3% on block deal activity",
       "url": "https://www.tradingview.com/news/moneycontrol:15454c22b094b:0-buzzing-stocks-wipro-gains-4-on-partnership-with-bp-schaeffler-india-rises-3-on-block-deal-activity/",
@@ -61052,6 +61138,25 @@
       "extra": {}
     },
     {
+      "id": "msn:055e7bc3f4f5334ace754611e50a5d76ba74e2b4",
+      "title": "United Natural Foods: Expanding Margins, Strong Earnings Growth, And An Attractive 8x ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083d14edd840cbb7867906cae30ef6&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972239-united-natural-foods-stock-expanding-margins-strong-earnings-growth-and-attractive-8x-ebitda-valuation&c=2001924792131245839&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "United Natural Foods earns a Buy rating: improving profitability, natural demand, and reasonable valuation support a favorable risk-reward.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T11:55:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:07:17.892370+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762FO:0",
       "title": "Jyoti Structures Receives Fresh LOI From Sterlite Grid 5 For 400 KV D/C Xeldom–Narendra Project",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762FO:0-jyoti-structures-receives-fresh-loi-from-sterlite-grid-5-for-400-kv-d-c-xeldom-narendra-project/",
@@ -63602,6 +63707,25 @@
       "published_at": "2026-11-26T11:01:28+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T21:55:16.190109+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:74008512753e63b695e64201dec5f67b77a9c821",
+      "title": "Is the stock market closed? Thanksgiving, Black Friday trading hours",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083d14b4b144ef85d90c5b95703bc3&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-closed-thanksgiving-black-friday-trading-hours%2far-AA2ih92H&c=12250481726649786703&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The U.S. stock markets will be closed on the following days for the rest of 2026.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T11:01:28+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:07:17.892370+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -98588,6 +98712,25 @@
       "extra": {}
     },
     {
+      "id": "msn:0a1e4de6445ec35072bf32dda3978c45504b7a7f",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083d14b4b144ef85d90c5b95703bc3&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:07:17.892370+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261125006728_20261125006729:0",
       "title": "Meridian Energy Ltd.: CEO Mike Roan Named a Director of Datagrid",
       "url": "https://www.tradingview.com/news/DJN_DN20261125006728_20261125006729:0-meridian-energy-ltd-ceo-mike-roan-named-a-director-of-datagrid/",
@@ -117696,6 +117839,25 @@
       "extra": {}
     },
     {
+      "id": "msn:fbcfec30f2d737ce4c0f43208a24da890f11b675",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083d14b4b144ef85d90c5b95703bc3&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:07:17.892370+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -124150,6 +124312,25 @@
       "extra": {}
     },
     {
+      "id": "msn:46d02463dc13fcc42d6be86923f832bcdf85fac5",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083d14b4b144ef85d90c5b95703bc3&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:07:17.892370+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760YX:0",
       "title": "Equinor cuts 2026 production growth guidance",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760YX:0-equinor-cuts-2026-production-growth-guidance/",
@@ -130535,6 +130716,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T22:04:32.664851+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:8cf3f76f5b6888d7fe625721ff67152c5cdd65ec",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b083d14b4b144ef85d90c5b95703bc3&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:07:17.892370+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
