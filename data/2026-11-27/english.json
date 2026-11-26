@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T03:13:17.935741+08:00",
-  "count": 391,
+  "generated_at": "2026-11-27T03:16:18.784739+08:00",
+  "count": 392,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 25,
+      "count": 26,
       "error": ""
     }
   ],
@@ -109,6 +109,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/apple-stocks-rise-ai-selloff-190038273.html?.tsrc=rss",
+      "title": "Apple Stocks Rise as AI Selloff Spares the iPhone Maker",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stocks-rise-ai-selloff-190038273.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Apple gained while the Nasdaq briefly fell 4.6%, as investors favored device-based AI over cloud spending despite rising memory costs.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T03:00:38+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:16:13.926100+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:cryptobriefing:97cf5f674094b:0",
