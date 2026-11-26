@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T03:01:15.158343+08:00",
-  "count": 368,
+  "generated_at": "2026-11-27T03:04:18.140058+08:00",
+  "count": 388,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 4,
+      "count": 8,
       "error": ""
     },
     {
@@ -33,11 +33,59 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 24,
+      "count": 25,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N475174:0",
+      "title": "US, Qatar to help Venezuela clear regional development bank arrears, sources say",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N475174:0-us-qatar-to-help-venezuela-clear-regional-development-bank-arrears-sources-say/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T03:02:52+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:12.882537+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:cryptobriefing:97cf5f674094b:0",
+      "title": "Bitcoin Core privacy flaw links wallet addresses to nodes in simulations",
+      "url": "https://cryptobriefing.com/bitcoin-core-wallet-rebroadcast-privacy-flaw/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:57:06+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:12.882537+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRAKEN:BTCCHF",
+          "KRAKEN:BTCCAD",
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770NV:0",
       "title": "Mexico's central bank raises 2026 growth forecast",
@@ -109,6 +157,33 @@
       }
     },
     {
+      "id": "tradingview:u_today:5df90c2ba094b:0",
+      "title": "XRP Bulls and Bears to Get 3x ETFs Soon",
+      "url": "https://u.today/xrp-bulls-and-bears-to-get-3x-etfs-soon",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "U.Today",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:54:16+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:12.882537+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD",
+          "BITSTAMP:ETHUSD",
+          "COINBASE:SOLUSD",
+          "BITSTAMP:XRPUSD"
+        ]
+      }
+    },
+    {
       "id": "yahoo:https://www.fool.com/investing/2026/11/26/better-defense-stock-to-own-in-2027-lockheed-martin-vs-l3harris-technologies/?.tsrc=rss",
       "title": "Better Defense Stock to Own in 2027: Lockheed Martin vs. L3Harris Technologies",
       "url": "https://www.fool.com/investing/2026/11/26/better-defense-stock-to-own-in-2027-lockheed-martin-vs-l3harris-technologies/?.tsrc=rss",
@@ -150,6 +225,30 @@
       }
     },
     {
+      "id": "tradingview:gurufocus:cc9953eb6094b:0",
+      "title": "SoftBank Group Stocks Jump 7.32% as AI Rebound Lifts Tokyo After a 14.83% Rout",
+      "url": "https://www.gurufocus.com/news/9227990/softbank-group-stocks-jump-732-as-ai-rebound-lifts-tokyo-after-a-1483-rout",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:48:27+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:12.882537+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSE:9984"
+        ]
+      }
+    },
+    {
       "id": "yahoo:https://www.fool.com/investing/2026/11/26/this-oversold-artificial-intelligence-ai-stock-will-skyrocket-123-in-2027-according-to-wall-street/?.tsrc=rss",
       "title": "This Oversold Artificial Intelligence (AI) Stock Will Skyrocket 123% in 2027, According to Wall Street",
       "url": "https://www.fool.com/investing/2026/11/26/this-oversold-artificial-intelligence-ai-stock-will-skyrocket-123-in-2027-according-to-wall-street/?.tsrc=rss",
@@ -167,6 +266,54 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "tradingview:gurufocus:d34a15d9a094b:0",
+      "title": "IBM Stocks Climb 3.33% as Wedbush Starts Coverage at Outperform With $276 Target",
+      "url": "https://www.gurufocus.com/news/9227996/ibm-stocks-climb-333-as-wedbush-starts-coverage-at-outperform-with-276-target",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:46:34+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:12.882537+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:IBM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:gurufocus:d85d0f5f6094b:0",
+      "title": "Intel Stocks Slip After Erasing a 10.3% Plunge Below $50",
+      "url": "https://www.gurufocus.com/news/9228004/intel-stocks-slip-after-erasing-a-103-plunge-below-50",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:45:36+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:12.882537+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:INTC"
+        ]
+      }
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L5N47715T:0",
@@ -247,6 +394,122 @@
       }
     },
     {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-slip-1-25-184200035.html?.tsrc=rss",
+      "title": "Microsoft Stocks Slip 1.25% While Nadella Backs Cheaper In-House AI Models",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-slip-1-25-184200035.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Microsoft's CEO said trailing frontier labs by three to six months is fine if Microsoft spends a fraction of their compute.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:42:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:12.521950+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:gurufocus:b35680674094b:0",
+      "title": "Microsoft Stocks Slip 1.25% While Nadella Backs Cheaper In-House AI Models",
+      "url": "https://www.gurufocus.com/news/9228048/microsoft-stocks-slip-125-while-nadella-backs-cheaper-inhouse-ai-models",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:42:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:12.882537+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:MSFT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:gurufocus:1c7b2ec7a094b:0",
+      "title": "Goldman Sachs Stocks Edge Lower After Touching a 52-Week Low of $772.74",
+      "url": "https://www.gurufocus.com/news/9228013/goldman-sachs-stocks-edge-lower-after-touching-a-52week-low-of-77274",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:41:58+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:12.882537+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:GS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:gurufocus:bd477f7ff094b:0",
+      "title": "Chevron Stocks Rise 1.06% as Brent Jumps 3.5% on Saudi Refinery Attack Claim",
+      "url": "https://www.gurufocus.com/news/9228047/chevron-stocks-rise-106-as-brent-jumps-35-on-saudi-refinery-attack-claim",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:40:46+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:12.882537+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:CVX",
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:gurufocus:14edd4ddd094b:0",
+      "title": "Alibaba Stocks Rise 1.65% as AI Cloud Growth of 53% Outweighs Tech Rout",
+      "url": "https://www.gurufocus.com/news/9228049/alibaba-stocks-rise-165-as-ai-cloud-growth-of-53-outweighs-tech-rout",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:40:35+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:12.882537+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BABA"
+        ]
+      }
+    },
+    {
       "id": "tradingview:DJN_DN20261126003663:0",
       "title": "Powerful Storm Hits East Coast, Scrambling Thanksgiving Plans — WSJ",
       "url": "https://www.tradingview.com/news/DJN_DN20261126003663:0-powerful-storm-hits-east-coast-scrambling-thanksgiving-plans-wsj/",
@@ -290,6 +553,54 @@
       "extra": {}
     },
     {
+      "id": "tradingview:gurufocus:7400ebfe2094b:0",
+      "title": "Arista Networks Stocks Fall 2.71% as AI Networking Gets Caught in Chip Rout",
+      "url": "https://www.gurufocus.com/news/9228051/arista-networks-stocks-fall-271-as-ai-networking-gets-caught-in-chip-rout",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:38:06+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:12.882537+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:ANET"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:gurufocus:ab4cde225094b:0",
+      "title": "Mastercard Stocks Rise 1.94% as Payment Networks Gain in AI Selloff Rotation",
+      "url": "https://www.gurufocus.com/news/9228050/mastercard-stocks-rise-194-as-payment-networks-gain-in-ai-selloff-rotation",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:37:21+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:12.882537+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:MA"
+        ]
+      }
+    },
+    {
       "id": "tradingview:urn:summary_document_report:quartr.com:3946745:0",
       "title": "WTN: Restructuring charges deepened 9M losses as focus shifted to profitability and e-commerce",
       "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3946745:0-wtn-restructuring-charges-deepened-9m-losses-as-focus-shifted-to-profitability-and-e-commerce/",
@@ -314,6 +625,30 @@
       }
     },
     {
+      "id": "tradingview:gurufocus:0aac3c568094b:0",
+      "title": "Palantir Stocks Rise 1.5% After Peter Thiel Discloses a $122 Million Share Purchase",
+      "url": "https://www.gurufocus.com/news/9227982/palantir-stocks-rise-15-after-peter-thiel-discloses-a-122-million-share-purchase",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:36:42+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:12.882537+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:PLTR"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_S8N43V06D:0",
       "title": "Ghana buys back 44.1% of February 2027 DDEP bonds in first round of offer",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N43V06D:0-ghana-buys-back-44-1-of-february-2027-ddep-bonds-in-first-round-of-offer/",
@@ -333,6 +668,30 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:gurufocus:82452e570094b:0",
+      "title": "Lam Research Stocks Fall 5.68% as China Exposure Weighs on Chip Toolmakers",
+      "url": "https://www.gurufocus.com/news/9227981/lam-research-stocks-fall-568-as-china-exposure-weighs-on-chip-toolmakers",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:35:45+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:12.882537+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:LRCX"
+        ]
       }
     },
     {
@@ -380,6 +739,30 @@
         "urgency": 2,
         "symbols": [
           "NGM:PRLD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:gurufocus:80b870f51094b:0",
+      "title": "Applied Materials Stocks Fall 3.89% as UBS Trims Target and China Curbs Loom",
+      "url": "https://www.gurufocus.com/news/9227980/applied-materials-stocks-fall-389-as-ubs-trims-target-and-china-curbs-loom",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:34:52+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:12.882537+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMAT"
         ]
       }
     },
@@ -632,6 +1015,30 @@
         "symbols": [
           "CSE:SK"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8814247",
+      "title": "Settlers smash foundations of Palestinian family's homes in West Bank - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1JfSF9vcWp6cVBxNTNjV2NnZkd4aUN5ektmYU4wSF9Qa18weEFlbGhTZlRtTEhuY1haWW1pTk4wZjExSHo3Rk5jY1VHd09FblJPSHJfazNMenFsYWRlVDdYYjJobXd2TnRFRlYwWXBvaWlLWjQyWTFIZnF0VWNVSHYzQmxMRVVxYUlad21JWXBseHJ3VUlqOXVFRk5EQXpHODZoUExmMWFVVW5HT1Nrd1ZCMklXVHc?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Settlers smash foundations of Palestinian family's homes in West Bank Reuters",
+      "content": "Settlers smash foundations of Palestinian family's homes in West Bank Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:29:43+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:13.042353+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -1533,6 +1940,30 @@
         "symbols": [
           "NASDAQ:META"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8813942",
+      "title": "Two Italians killed in attack on Kuwait site, Iran denies involvement - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeE9DZXQ0VUMxV052eWlmWWlKM3R0LTFiMS1ITm93Ty1NOWpta1ZVNU5MeWVVMHRlcmdXd0NpZmxJeGlGZEhCeklaaEs2VWlSWnR0RVRLUHhCNm9MeFNTMmNUZFEyWWdoUVVBWUZTcVc0LVNFY0gxN050ZHNtS3psSVRHQWtBVEM5N3dPYVl6T1Flb0tBb1BlUGVxQ3ZaNURWVU9vTHYtTGxFRDJSQVhaMU1Tbw?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Two Italians killed in attack on Kuwait site, Iran denies involvement Reuters",
+      "content": "Two Italians killed in attack on Kuwait site, Iran denies involvement Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:01:20+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:13.042353+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -8408,6 +8839,30 @@
       }
     },
     {
+      "id": "finnhub:8814246",
+      "title": "Saudi-led coalition says Houthis attacked Aramco's Jazan refinery - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnNINWJlUzU0bDVSQ1Z5TWhtZTl1dzVxa01lbWhiMTg0bjBKZzQtbld6RmpIQ3NOSkctT29wTmdmR3VCcHpMbzdBQUdQSU0wVWItQU1COHhCS1BzYnpoOTJsRzl2TWp0aVNNZWVpZVFhS2cwWXVtNnA0bzRfUXNTRTJRTEVHem5BY2V2SURxZG9Vb3VkT3FNa1RuR3RfZWJQUE15WTdGaVFudnJaeVJIdVhXdE9PcWFuY2c?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Saudi-led coalition says Houthis attacked Aramco's Jazan refinery Reuters",
+      "content": "Saudi-led coalition says Houthis attacked Aramco's Jazan refinery Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:05:09+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:13.042353+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN47712W:0",
       "title": "Chip Sellers Have Told Neoclouds They Won’t Supply Nvidia Chips If Any Of The Computing Capacity Will Be Rented To Chinese Companies - CNBC",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47712W:0-chip-sellers-have-told-neoclouds-they-won-t-supply-nvidia-chips-if-any-of-the-computing-capacity-will-be-rented-to-chinese-companies-cnbc/",
@@ -8449,6 +8904,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "finnhub:8814250",
+      "title": "Trump demands probe of GDP data released before midterms - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Trump demands probe of GDP data released before midterms Reuters",
+      "content": "Trump demands probe of GDP data released before midterms Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:04:27+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:04:13.042353+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770WA:0",
