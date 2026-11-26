@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T13:46:15.800024+08:00",
-  "count": 2568,
+  "generated_at": "2026-11-26T13:49:16.848954+08:00",
+  "count": 2577,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 4,
       "error": ""
     },
     {
@@ -38,6 +38,100 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762FY:0",
+      "title": "Emirates REIT Intends To Pay Q3 Interim Dividend Of $7.25 Million",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762FY:0-emirates-reit-intends-to-pay-q3-interim-dividend-of-7-25-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:46:54+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:49:13.030241+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQDUBAI:REIT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:185abc21325ab:0",
+      "title": "Zoomlion Heavy Industry Science & Technology Co., Ltd. Launches AI Excavation Robot",
+      "url": "https://www.tradingview.com/news/tradingview:185abc21325ab:0-zoomlion-heavy-industry-science-technology-co-ltd-launches-ai-excavation-robot/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:46:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:49:13.030241+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SZSE:000157"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:322e4714fab97:0",
+      "title": "Zoomlion Launches Industry's First AI Excavation Robot Powered by Embodied Intelligence at bauma CHINA 2026",
+      "url": "https://www.tradingview.com/news/prnewswire:322e4714fab97:0-zoomlion-launches-industry-s-first-ai-excavation-robot-powered-by-embodied-intelligence-at-bauma-china-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:46:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:49:13.030241+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762DE:0",
+      "title": "Al Jouf Agricultural Development Says CMA Approves Capital Increase Application",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762DE:0-al-jouf-agricultural-development-says-cma-approves-capital-increase-application/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:45:39+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:49:13.030241+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TADAWUL:6070"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762NU:0",
       "title": "NADEC Announces Regarding Draft Domestic Minimum Tax (DMT) Law",
@@ -119,6 +213,28 @@
         "symbols": [
           "BIST:TTKOM"
         ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N40504W:0",
+      "title": "Indonesia central bank continues measures to stabilise rupiah after fresh record low",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N40504W:0-indonesia-central-bank-continues-measures-to-stabilise-rupiah-after-fresh-record-low/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:40:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:49:13.030241+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -31779,6 +31895,25 @@
       "extra": {}
     },
     {
+      "id": "msn:ec364205d71eb2fcf08f2f33facf1d6577a747a6",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c859b8974ca184279b728e970de3&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:49:15.214287+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261125006728_20261125006729:0",
       "title": "Meridian Energy Ltd.: CEO Mike Roan Named a Director of Datagrid",
       "url": "https://www.tradingview.com/news/DJN_DN20261125006728_20261125006729:0-meridian-energy-ltd-ceo-mike-roan-named-a-director-of-datagrid/",
@@ -47551,6 +47686,25 @@
       "extra": {}
     },
     {
+      "id": "msn:dee6a243d6ac7b8a84175ee8c16ca4a6b2d8b879",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c859b8974ca184279b728e970de3&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:49:15.214287+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -50636,6 +50790,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T13:46:14.195831+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0d6a514d4195dbed12f226c8ef8aefc70898b6b4",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c859b8974ca184279b728e970de3&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:49:15.214287+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -53873,6 +54046,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T13:46:14.195831+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:ef4bb4072453aa56bcaf05976ddcac05d0adbd0d",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c859b8974ca184279b728e970de3&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:49:15.214287+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
