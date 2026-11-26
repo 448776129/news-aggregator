@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T15:34:19.553553+08:00",
-  "count": 3229,
+  "generated_at": "2026-11-26T15:37:17.726761+08:00",
+  "count": 3250,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 6,
       "error": ""
     },
     {
@@ -38,6 +38,346 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47707I:0",
+      "title": "Gold steadies after hitting over 1-year low; Fed outlook in focus",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47707I:0-gold-steadies-after-hitting-over-1-year-low-fed-outlook-in-focus/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:36:42+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:12.084852+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:GC1!",
+          "COMEX:SI1!",
+          "NYMEX:PL1!",
+          "NYMEX:PA1!",
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762ON:0",
+      "title": "BNP Paribas Acquires The Startup Mūcho",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762ON:0-bnp-paribas-acquires-the-startup-m-cho/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:36:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:12.084852+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:BNP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC8XSRRZ:0",
+      "title": "Roadside Real Estate Expects FY26 Adjusted EBITDA In Line With Market Expectations",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC8XSRRZ:0-roadside-real-estate-expects-fy26-adjusted-ebitda-in-line-with-market-expectations/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:36:05+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:12.084852+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:ROAD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4770D3:0",
+      "title": "Finland's OL3 nuclear reactor to resume output earlier than expected",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4770D3:0-finland-s-ol3-nuclear-reactor-to-resume-output-earlier-than-expected/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:35:26+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:12.084852+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUCB3DQ6L:0",
+      "title": "Tullow Oil Expects FY Group Production To Exceed Upper End Of Guidance",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUCB3DQ6L:0-tullow-oil-expects-fy-group-production-to-exceed-upper-end-of-guidance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:35:15+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:12.084852+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TLW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:7f0ff60663a3b:0",
+      "title": "Bellman Group completes the acquisition of Vägsäk AB",
+      "url": "https://www.tradingview.com/news/modular_finance:7f0ff60663a3b:0-bellman-group-completes-the-acquisition-of-v-gs-k-ab/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:35:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:12.084852+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4770EN:0",
+      "title": "UK regulator finds errors in motor finance redress calculation amid legal battle",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4770EN:0-uk-regulator-finds-errors-in-motor-finance-redress-calculation-amid-legal-battle/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:34:32+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:12.084852+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:MBG",
+          "XETR:VOW",
+          "LSE:BARC",
+          "LSE:LLOY",
+          "OTC:SNTUF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762GN:0",
+      "title": "Societe Arabe International De Banque Updates On EGP Bond Issuance Program And First Issuance",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762GN:0-societe-arabe-international-de-banque-updates-on-egp-bond-issuance-program-and-first-issuance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:34:27+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:12.084852+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EGX:SAIB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762OL:0",
+      "title": "Onde to Discontinue Road Construction Segment",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762OL:0-onde-to-discontinue-road-construction-segment/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:34:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:12.084852+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:OND"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC5F1HCB:0",
+      "title": "Galliford Try Awarded £210 Million Contract For M5 Junction 10 Improvements",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC5F1HCB:0-galliford-try-awarded-210-million-contract-for-m5-junction-10-improvements/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:34:11+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:12.084852+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:GFRD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762DX:0",
+      "title": "Medicalgorithmics Q3 Net Loss 2.4 Million Zlotys",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762DX:0-medicalgorithmics-q3-net-loss-2-4-million-zlotys/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:34:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:12.084852+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:MDG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000976:0",
+      "title": "Babcock Signs Record $11.4 Billion U.K. Submarine Contract",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000976:0-babcock-signs-record-11-4-billion-u-k-submarine-contract/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:34:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:12.084852+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:BAB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000975:0",
+      "title": "Kimly's Stronger Food Retail Performance Appears to Lead Peers — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000975:0-kimly-s-stronger-food-retail-performance-appears-to-lead-peers-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:34:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:12.084852+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SGX:1D0"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762GL:0",
+      "title": "Arab Moltaka Investments Q3 Consol Profit EGP 394.8 Mln",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762GL:0-arab-moltaka-investments-q3-consol-profit-egp-394-8-mln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:33:41+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:12.084852+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EGX:AMIA"
+        ]
+      }
+    },
     {
       "id": "tradingview:urn:summary_document_report:quartr.com:3959396:0",
       "title": "Freetrailer Group: Revenue and rentals surged as expansion investment weighed on EBIT; 2030 targets set high ambitions",
@@ -130,6 +470,28 @@
         "symbols": [
           "NASDAQ:AAPL"
         ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4770FH:0",
+      "title": "EU strongly rejects new US tariffs move, trade chief says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4770FH:0-eu-strongly-rejects-new-us-tariffs-move-trade-chief-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T15:32:23+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:12.084852+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -27582,6 +27944,25 @@
       "extra": {}
     },
     {
+      "id": "msn:366e916486a5632bc94a47a4e9f05d4ac08989b1",
+      "title": "China Resources Beverage (SEHK:2460) Stock Still Commands A Rich Earnings Valuation",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e1a82597407e997bcee0936038a3&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fchina-resources-beverage-sehk-2460-071651123.html&c=7573091566919542578&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "China Resources Beverage (Holdings) has seen its share price fall sharply this year, which naturally pushes investors to ask whether the current valuation is still in line with what its earnings ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:16:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:14.019201+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:urn:summary_document_transcript:quartr.com:4828657:0",
       "title": "AFT: Revenue rose 25% to $143.6m; adjusted operating profit climbed to $13.3m",
       "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4828657:0-aft-revenue-rose-25-to-143-6m-adjusted-operating-profit-climbed-to-13-3m/",
@@ -27770,6 +28151,25 @@
           "NASDAQ:VIVK"
         ]
       }
+    },
+    {
+      "id": "msn:bc19d9978e53b7fa40bf522e321a07f10aced434",
+      "title": "Encore Capital Group (ECPG) Stock May Still Sit Below Fair Value On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e1a82597407e997bcee0936038a3&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fencore-capital-group-ecpg-stock-071130601.html&c=2089247392338241838&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Encore Capital Group has seen its share price move sharply over recent years, which raises a straightforward question for investors who focus on fundamentals. Is the current valuation of Encore ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:11:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:14.019201+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:6f821f3e342fd:0",
@@ -44575,6 +44975,25 @@
       "extra": {}
     },
     {
+      "id": "msn:a22db965023cae3c3365a083a53d72ab7ee19d1b",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e1a8655d4c3fa1606af667a6067f&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:14.019201+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261125006728_20261125006729:0",
       "title": "Meridian Energy Ltd.: CEO Mike Roan Named a Director of Datagrid",
       "url": "https://www.tradingview.com/news/DJN_DN20261125006728_20261125006729:0-meridian-energy-ltd-ceo-mike-roan-named-a-director-of-datagrid/",
@@ -61055,6 +61474,25 @@
       "extra": {}
     },
     {
+      "id": "msn:fdc65f1f038e50d1ce87b7954e1b5755eac15bfa",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e1a8655d4c3fa1606af667a6067f&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:14.019201+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -64824,6 +65262,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T15:34:17.673959+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:45e790ae212f7cb9f9d0cbbd1582968e969c3682",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e1a8655d4c3fa1606af667a6067f&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:14.019201+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -68745,6 +69202,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T15:34:17.673959+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:e0bffeff4ea64bbc33a330f8319d439c16ae55c0",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e1a8655d4c3fa1606af667a6067f&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T15:37:14.019201+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
