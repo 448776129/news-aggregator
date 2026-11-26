@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T07:40:20.219843+08:00",
-  "count": 5794,
+  "generated_at": "2026-11-27T07:43:17.746573+08:00",
+  "count": 5795,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 1,
       "error": ""
     },
     {
@@ -72812,6 +72812,25 @@
       "published_at": "2026-11-24T15:46:02+08:00",
       "published_date": "2026-11-24",
       "fetched_at": "2026-11-27T07:01:16.486201+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6cccefb093fd97dd36ede9ea09184d7a69a96934",
+      "title": "Is the Stock Market in the Early Stages of a Crash?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c411a9184670ae69e21e5cdedb75&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fis-the-stock-market-in-the-early-stages-of-a-crash%2far-AA2i7PVk&c=13090111566012525970&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stocks have been shaky in recent weeks, and things could get worse next month.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-24T15:46:02+08:00",
+      "published_date": "2026-11-24",
+      "fetched_at": "2026-11-27T07:43:15.442543+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",

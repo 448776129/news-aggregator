@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T07:40:20.674639+08:00",
-  "count": 655,
+  "generated_at": "2026-11-27T07:43:18.302592+08:00",
+  "count": 657,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,57 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261126004149:0",
+      "title": "Gold Fortunes Tied to Stocks in Near Term — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004149:0-gold-fortunes-tied-to-stocks-in-near-term-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:42:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:43:13.741739+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:macenews:793e5ab37094b:0",
+      "title": "JAPAN NOV TOKYO INFLATION RATE ACCELERATES ON HIGHER UTILITY BILLS AFTER SUMMER SUBSIDIES ENDED AND AS MIDEAST CONFLICT KEEPS ENERGY COST HIGH",
+      "url": "https://www.tradingview.com/news/macenews:793e5ab37094b:0-japan-nov-tokyo-inflation-rate-accelerates-on-higher-utility-bills-after-summer-subsidies-ended-and-as-mideast-conflict-keeps-energy-cost-high/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:40:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:43:13.741739+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:JPYBASKET",
+          "FX:USDJPY",
+          "TVC:NI225",
+          "FX:EURJPY"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N4770CG:0",
       "title": "Core inflation in Japan's capital accelerates in November",
