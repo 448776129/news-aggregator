@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T21:40:26.558401+08:00",
-  "count": 5801,
+  "generated_at": "2026-11-26T21:43:13.508463+08:00",
+  "count": 5818,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 8,
+      "count": 9,
       "error": ""
     },
     {
@@ -38,6 +38,200 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8631Ea:0",
+      "title": "REG - Henderson HighIncome - Directorate change",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8631Ea:0-reg-henderson-highincome-directorate-change/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:42:56+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:43:09.808956+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:HHI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4770NI:0",
+      "title": "Guinea lawmakers back sovereign wealth fund fuelled by Simandou revenue",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4770NI:0-guinea-lawmakers-back-sovereign-wealth-fund-fuelled-by-simandou-revenue/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:42:09+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:43:09.808956+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SZSE:002182",
+          "LSE:RIO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770OM:0",
+      "title": "EMS Receives Letter Of Award From National Highways Authority Of India",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770OM:0-ems-receives-letter-of-award-from-national-highways-authority-of-india/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:41:56+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:43:09.808956+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:EMSLIMITED"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770TP:0",
+      "title": "Texmaco Rail & Engineering Says Utkal Alumina Awards 556.3 Million Rupees Order For 108 Wagons",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770TP:0-texmaco-rail-engineering-says-utkal-alumina-awards-556-3-million-rupees-order-for-108-wagons/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:41:30+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:43:09.808956+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TEXRAIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:1207c5ef920cf:0",
+      "title": "BrandPilot AI Inc. (BPAI) Makes BrandPilot Analytics Commercially Available",
+      "url": "https://www.tradingview.com/news/tradingview:1207c5ef920cf:0-brandpilot-ai-inc-bpai-makes-brandpilot-analytics-commercially-available/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:41:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:43:09.808956+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:BPAI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:302a93622094b:0",
+      "title": "BrandPilot AI Introduces Expanded Digital Measurement Capabilities",
+      "url": "https://www.newsfilecorp.com/release/326031/BrandPilot-AI-Introduces-Expanded-Digital-Measurement-Capabilities",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:41:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:43:09.808956+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:BPAI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4273939:0",
+      "title": "SREI: Picton expands scale and rental upside; full dividend cover is targeted in FY28",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4273939:0-srei-picton-expands-scale-and-rental-upside-full-dividend-cover-is-targeted-in-fy28/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:40:42+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:43:09.808956+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:SREI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:baystreet:a5a03ff88094b:0",
+      "title": "Canada Imports Fewer U.S. Vehicles As Tariffs Raise Prices",
+      "url": "https://www.baystreet.ca/articles/stockstowatch/125677/canada-imports-fewer-us-vehicles-as-tariffs-raise-prices",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BayStreet",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:39:30+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:43:09.808956+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:F",
+          "MIL:STLAM"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261126002823:0",
       "title": "BOE Unlikely to Raise Rates as Much as Priced — Market Talk",
@@ -53608,6 +53802,25 @@
       "extra": {}
     },
     {
+      "id": "msn:66f7c17d7753d39a4f387cf59e82ddedb79afccb",
+      "title": "Chudenko (TSE:1941) Stock Seems In Line With Earnings After 199% Run",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08376efc6c42978ed327897e844316&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fchudenko-tse-1941-stock-seems-131223013.html&c=4874099514742855502&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chudenko has rewarded long term shareholders with strong gains, which naturally raises a question for anyone looking at the stock today. Is the current share price, around ¥5,080 at the last close, ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:12:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:43:11.887794+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:moneycontrol:15454c22b094b:0",
       "title": "Buzzing Stocks: Wipro gains 4% on partnership with bp; Schaeffler India rises 3% on block deal activity",
       "url": "https://www.tradingview.com/news/moneycontrol:15454c22b094b:0-buzzing-stocks-wipro-gains-4-on-partnership-with-bp-schaeffler-india-rises-3-on-block-deal-activity/",
@@ -62370,6 +62583,25 @@
       "published_at": "2026-11-26T10:09:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T21:25:14.172062+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:bdf3b7366fbfec990292a34fbc0b6111d086a739",
+      "title": "How Earnings Outlook And Analyst Upgrade At Guidewire Stock Has Changed Its Investment Story",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08376efc6c42978ed327897e844316&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fearnings-outlook-analyst-upgrade-guidewire-100936144.html&c=9969458778845504775&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Definity Financial Corporation has already integrated Guidewire Software’s ProNavigator into its Vyne digital broker platform, giving brokers AI powered assistance directly inside existing workflows.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T10:09:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:43:11.887794+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -84830,6 +85062,25 @@
       "extra": {}
     },
     {
+      "id": "msn:0b1583da502a82bc71acd921b1248971c70b6083",
+      "title": "Is the stock market open today? Here are the trading hours for Thanksgiving.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08376e7ca748fbbd719a539be4e2d3&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-thanksgiving%2far-AA2ifPMA&c=15504855894997742158&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "It’s time to give thanks. What traders should know about the stock market on Thanksgiving.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:43:11.887794+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:seekingalpha:2e893931d094b:0",
       "title": "SA Asks: What should Nvidia investors be watching for in the next few weeks? (Update)",
       "url": "https://seekingalpha.com/news/4676388-sa-asks-what-should-nvidia-investors-be-watching-for-in-the-next-few-weeks?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
@@ -86118,6 +86369,25 @@
       "published_at": "2026-11-26T04:46:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T21:07:15.171792+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:1f1e467b345e717313f1927b592556608ed0e98b",
+      "title": "Impax International Sustainable Economy Fund Q3 2026 Commentary",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08376eebcd4b7888870f5827309092&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972127-impax-international-sustainable-economy-fund-q3-2026-commentary&c=8664322210550933104&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Impax International Sustainable Economy Fund portfolio outperformed the MSCI EAFE benchmark in the third quarter of 2026.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:46:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:43:11.887794+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -89529,6 +89799,25 @@
       "published_at": "2026-11-26T04:24:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T21:37:22.858018+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:315181b4c122bf95dbdd263577935e2c02e42528",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08376efc6c42978ed327897e844316&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:43:11.887794+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -94292,6 +94581,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T21:40:24.056275+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6b4f3f7604977dcff73a5f6d37a41557e701c3f2",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08376e7ca748fbbd719a539be4e2d3&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:43:11.887794+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -113254,6 +113562,25 @@
       "extra": {}
     },
     {
+      "id": "msn:6ac0b3881539aa7ea98117ae259fa5c32833e47a",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08376e7ca748fbbd719a539be4e2d3&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:43:11.887794+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -119556,6 +119883,25 @@
       "extra": {}
     },
     {
+      "id": "msn:a2bab1645f8bb8a55300a6d27827383718a5c26e",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08376e7ca748fbbd719a539be4e2d3&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:43:11.887794+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760YX:0",
       "title": "Equinor cuts 2026 production growth guidance",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760YX:0-equinor-cuts-2026-production-growth-guidance/",
@@ -125789,6 +126135,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T21:40:24.056275+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0e465d20efec269fc8117a5449f2bf4659ecae74",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08376e7ca748fbbd719a539be4e2d3&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T21:43:11.887794+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
