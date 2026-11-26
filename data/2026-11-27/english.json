@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T03:10:23.149011+08:00",
-  "count": 389,
+  "generated_at": "2026-11-27T03:13:17.935741+08:00",
+  "count": 391,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,56 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770NX:0",
+      "title": "Gold drifts lower as Fed rate-hike fears loom",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770NX:0-gold-drifts-lower-as-fed-rate-hike-fears-loom/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T03:09:55+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:13:12.635573+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:GC1!",
+          "COMEX:SI1!",
+          "NYMEX:PL1!",
+          "NYMEX:PA1!",
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:bc776e7bc8228:0",
+      "title": "Argentina's Mundial printing company files for bankruptcy protection with $5mn debt",
+      "url": "https://www.tradingview.com/news/moodys:bc776e7bc8228:0-argentina-s-mundial-printing-company-files-for-bankruptcy-protection-with-5mn-debt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "bne Intellinews",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T03:09:09+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:13:12.635573+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N475174:0",
       "title": "US, Qatar to help Venezuela clear regional development bank arrears, sources say",
