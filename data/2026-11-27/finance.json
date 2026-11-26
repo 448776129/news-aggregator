@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T02:43:18.722169+08:00",
-  "count": 93,
+  "generated_at": "2026-11-27T02:49:20.310955+08:00",
+  "count": 94,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 7,
+      "count": 8,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaayau8061190.shtml",
+      "title": "报道：吉赞炼油厂遭袭 部分运营暂停",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaayau8061190.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "沙特国家通讯社（SAP）援引一名未具名能源部消息人士报道，沙特阿拉伯吉赞的一座炼油厂周四遭投射物袭击，导致部分运营暂时停止。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:47:08+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:49:16.666397+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261127024056538800",
       "title": "墨西哥央行预计通胀率将于2027年第四季度达到3%的目标水平。",
