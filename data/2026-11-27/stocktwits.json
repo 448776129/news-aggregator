@@ -3,17 +3,70 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T06:43:16.450461+08:00",
-  "count": 89,
+  "generated_at": "2026-11-27T06:55:19.131204+08:00",
+  "count": 91,
   "sources": [
     {
       "name": "stocktwits",
       "status": "ok",
-      "count": 37,
+      "count": 38,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670258564",
+      "title": "$SPY $TSLA $SPCX $INTC $BTC.X",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "AlbertAFT",
+      "summary": "$SPY $TSLA $SPCX $INTC $BTC.X",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:54:17+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T06:55:13.743050+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "SPY",
+          "TSLA",
+          "SPCX",
+          "INTC",
+          "BTC.X"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670258560",
+      "title": "$SPY $AAPL??? Shouldn't have to wait much longer. Daily and weekly",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "RobertLemire",
+      "summary": "$SPY $AAPL??? Shouldn't have to wait much longer. Daily and weekly",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:54:06+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T06:55:13.743050+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "SPY",
+          "AAPL"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670258351",
       "title": "$TSLA $SPY $NVDA $AKAN 🐇🔺 😈That was a close 1.. congratulations to those who won this bet.... All gains to $AKAN at 8pm🐇",
