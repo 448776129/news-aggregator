@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T08:10:23.784181+08:00",
-  "count": 1579,
+  "generated_at": "2026-11-26T08:13:18.496927+08:00",
+  "count": 1581,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,35 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 47,
+      "count": 46,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tradingview:40d9146d3b4b5:0",
+      "title": "Destiny Tech100 10% Owner Purchased Shares Worth Over $5.1M",
+      "url": "https://www.tradingview.com/news/tradingview:40d9146d3b4b5:0-destiny-tech100-10-owner-purchased-shares-worth-over-5-1m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:10:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:13:14.147757+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DXYZ"
+        ]
+      }
+    },
     {
       "id": "tradingview:stocktwits:3580c16fe094b:0",
       "title": "S&P 500, Nasdaq End Lower But Dow Rebounds As Traders Rotate Out Of AI — NVDA, SPCX, PANW In Focus",
@@ -86,6 +110,28 @@
         "symbols": [
           "TSX:ENB"
         ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762FC:0",
+      "title": "Aschenbrenner's Situational Awareness Tells Investors It Lost 65% In Third Quarter - WSJ",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762FC:0-aschenbrenner-s-situational-awareness-tells-investors-it-lost-65-in-third-quarter-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T08:05:17+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T08:13:14.147757+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
