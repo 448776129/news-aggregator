@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T05:10:17.236566+08:00",
-  "count": 482,
+  "generated_at": "2026-11-27T05:13:17.386572+08:00",
+  "count": 483,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,31 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:acceswire:0c1366ab9094b:0",
+      "title": "First Helium Provides Update on Pending Acquisition and Trading Halt",
+      "url": "https://www.accessnewswire.com/newsroom/en/oil-gas-and-energy/first-helium-provides-update-on-pending-acquisition-and-trading-halt-1338998",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "ACCESS Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:10:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T05:13:12.525339+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:HELI",
+          "OTC:FHELF"
+        ]
+      }
+    },
     {
       "id": "tradingview:business_wire:6d591649b35f7:0",
       "title": "AbCellera to Present at the Piper Sandler Healthcare Conference on December 1, 2026",
