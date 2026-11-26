@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T06:37:24.280012+08:00",
-  "count": 592,
+  "generated_at": "2026-11-27T06:43:16.431707+08:00",
+  "count": 595,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,76 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770WR:0",
+      "title": "360 Capital Mortgage REIT Forecasts FY27 Distribution",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770WR:0-360-capital-mortgage-reit-forecasts-fy27-distribution/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:39:17+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T06:43:12.092624+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:TCF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770RF:0",
+      "title": "Canada's Pender Growth Fund swings to Q3 profit on positive investment performance",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770RF:0-canada-s-pender-growth-fund-swings-to-q3-profit-on-positive-investment-performance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:38:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T06:43:12.092624+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:PTF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004003_20261126004019:0",
+      "title": "Huatai International, GF Securities Acting as Joint Sponsors for Yuen Kee Food IPO",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004003_20261126004019:0-huatai-international-gf-securities-acting-as-joint-sponsors-for-yuen-kee-food-ipo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:37:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T06:43:12.092624+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:tradingview:ebc6af6e6a93d:0",
       "title": "Eshbal Functional Food Inc. (ESBL) Nine-Month Revenue Rose 19.5% to $12.1M",
