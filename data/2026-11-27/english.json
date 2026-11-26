@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T03:22:17.667906+08:00",
-  "count": 395,
+  "generated_at": "2026-11-27T03:25:16.213481+08:00",
+  "count": 397,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,32 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:dpa_afx:c76792caa40f3:0",
+      "title": "Keppel Says Proposed M1 Divestment Supports Asset-Light Strategy",
+      "url": "https://www.tradingview.com/news/dpa_afx:c76792caa40f3:0-keppel-says-proposed-m1-divestment-supports-asset-light-strategy/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T03:24:24+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:25:11.341471+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SGX:BN4",
+          "XETR:M12",
+          "SGX:CC3"
+        ]
+      }
+    },
     {
       "id": "tradingview:tradingview:b2d6ef5ca7746:0",
       "title": "CleanSpark, Inc. Stock 12‑Month Price Target Cut to $18.36, Implies 254% Upside",
@@ -1367,6 +1393,31 @@
         "urgency": 2,
         "symbols": [
           "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:benzinga:61cb4de6c094b:0",
+      "title": "Inflation May Have Peaked in October: Economists Split on How Many Fed Hikes Are Effectively Needed",
+      "url": "https://www.tradingview.com/news/benzinga:61cb4de6c094b:0-inflation-may-have-peaked-in-october-economists-split-on-how-many-fed-hikes-are-effectively-needed/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Benzinga",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:20:06+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:25:11.341471+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:TLT",
+          "AMEX:TIP"
         ]
       }
     },
