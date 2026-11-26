@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T06:43:15.899638+08:00",
-  "count": 288,
+  "generated_at": "2026-11-27T07:16:26.222833+08:00",
+  "count": 290,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     },
     {
@@ -4789,6 +4789,25 @@
       "extra": {}
     },
     {
+      "id": "msn:0841598e4ba51682495973fcd84cd1a5c6d4f256",
+      "title": "Upcoming Earnings Reports in 2026",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08bdc648f64e718342ad84acdd9a5d&url=https%3a%2f%2fwww.fool.com%2finvesting%2fstock-market%2fupcoming-earnings-reports%2f&c=10624373174590001561&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Earnings reports reveal a company's revenue, net income, and forward guidance. Quarterly insights and projections help investors assess stock suitability. Reading earnings helps informed ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-09-10T15:18:00+08:00",
+      "published_date": "2026-09-10",
+      "fetched_at": "2026-11-27T07:16:24.145173+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:93dabd4504e02275102de0aaee13f4793632fc2a",
       "title": "ADBE",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b049e4d01bf4a21af91cb2e6f5763d7&url=https%3a%2f%2fseekingalpha.com%2fsymbol%2fADBE%2fearnings&c=16427789043796534971&mkt=en-us",
@@ -5505,6 +5524,25 @@
       "published_at": "2026-09-10T01:00:00+08:00",
       "published_date": "2026-09-10",
       "fetched_at": "2026-11-27T06:01:27.283454+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:ab8ea79ee70bb6b43957a1d9e5b117fbf26a7b3a",
+      "title": "ORCL",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08bdc648f64e718342ad84acdd9a5d&url=https%3a%2f%2fseekingalpha.com%2fsymbol%2fORCL%2fearnings&c=16522835043033999778&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "* EPS estimates are Normalized unless otherwise noted.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-09-10T01:00:00+08:00",
+      "published_date": "2026-09-10",
+      "fetched_at": "2026-11-27T07:16:24.145173+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
