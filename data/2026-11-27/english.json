@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T04:40:26.204508+08:00",
-  "count": 457,
+  "generated_at": "2026-11-27T04:43:15.240201+08:00",
+  "count": 460,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,40 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47713D:0",
+      "title": "Brazil leads LatAm assets higher after cooler-than-expected inflation data",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47713D:0-brazil-leads-latam-assets-higher-after-cooler-than-expected-inflation-data/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:38:03+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:43:11.415364+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BMFBOVESPA:IBOV",
+          "FX_IDC:USDBRL",
+          "FX_IDC:BRLMXN",
+          "FX_IDC:USDARS",
+          "BMV:ME",
+          "FX_IDC:USDMXN",
+          "FX_IDC:USDPEN",
+          "BIST:XU100",
+          "BVC:ICAP",
+          "FX_IDC:USDCLP",
+          "FX_IDC:USDCOP"
+        ]
+      }
+    },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/26/here-s-how-many-shares-of-procter-and-gamble-you-d-need-to-own-to-collect-usd1-000-in-annual-dividends/?.tsrc=rss",
       "title": "Here’s How Many Shares of Procter & Gamble You’d Need to Own to Collect $1,000 in Annual Dividends",
@@ -195,6 +229,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "tradingview:u_today:3d8cda11e094b:0",
+      "title": "Bitcoin Miners Go 98 Minutes Without Finding a Single Block",
+      "url": "https://u.today/bitcoin-miners-go-98-minutes-without-finding-a-single-block",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "U.Today",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:16:40+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:43:11.415364+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
     },
     {
       "id": "tradingview:tag:reuters.com,2026-11-26:newsml_Tnw63HW6J:0",
@@ -613,6 +671,32 @@
         "urgency": 2,
         "symbols": [
           "EURONEXT:ENX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:beincrypto:3a894b782094b:0",
+      "title": "JPMorgan Spots a Record Bitcoin Signal Through MicroStrategy",
+      "url": "https://beincrypto.com/jpmorgan-bitcoin-bottom-signal-microstrategy/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Beincrypto",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T03:58:24+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:43:11.415364+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CAPITALCOM:MSTR",
+          "BITSTAMP:BTCUSD",
+          "NASDAQ:MSTR"
         ]
       }
     },

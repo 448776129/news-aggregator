@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T04:37:26.194895+08:00",
-  "count": 148,
+  "generated_at": "2026-11-27T04:43:15.248894+08:00",
+  "count": 150,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 11,
+      "count": 12,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacekw5768447.shtml",
+      "title": "土耳其央行暂停1周期回购招标 净外储锐减之际或变相收紧金融状况",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacekw5768447.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "土耳其央行暂停1周期回购招标。在决策者应对外汇储备大幅下降之际，此举可能推高银行的融资成本。 1周期回购利率是土耳其央行的主要政策利率...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:41:46+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:43:12.270174+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaceks7979659.shtml",
       "title": "伦铜自11个月低点反弹 科技股上涨提振工业金属",
@@ -82,6 +101,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127042350787800",
+      "title": "据伊通社（IRNA）：伊朗海军少将、陆军协调事务副总司令Habibollah Sayyari表示，近期战争及其后续事态发展为伊朗提供了宝贵的国防经验教训，其中最",
+      "url": "https://www.jin10.com/#/flash/20261127042350787800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "据伊通社（IRNA）：伊朗海军少将、陆军协调事务副总司令Habibollah Sayyari表示，近期战争及其后续事态发展为伊朗提供了宝贵的国防经验教训，其中最重要的一点是，必须更加重视加强防空能力。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:23:50+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:43:11.240312+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261127041536508800",
