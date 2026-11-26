@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T07:31:27.246609+08:00",
-  "count": 648,
+  "generated_at": "2026-11-27T07:34:16.964509+08:00",
+  "count": 649,
   "sources": [
     {
       "name": "alpaca",
@@ -153,6 +153,31 @@
         "urgency": 2,
         "symbols": [
           "ASX:NGI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:663cf1b3b094b:0",
+      "title": "Brent crude crosses $96 a barrel mark after Houthis attack key Saudi refinery",
+      "url": "https://www.tradingview.com/news/cnbctv:663cf1b3b094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:28:12+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:34:12.408733+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:UKOIL",
+          "NYMEX:CL1!"
         ]
       }
     },
