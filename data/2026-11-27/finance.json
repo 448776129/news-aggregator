@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T07:37:18.583645+08:00",
-  "count": 221,
+  "generated_at": "2026-11-27T07:40:20.686387+08:00",
+  "count": 229,
   "sources": [
     {
       "name": "cls",
@@ -15,17 +15,76 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 50,
+      "count": 47,
       "error": ""
     },
     {
       "name": "sina",
       "status": "ok",
-      "count": 39,
+      "count": 41,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-27/doc-inkacqys5585198.shtml",
+      "title": "阿尔法企业发布中期业绩 股东应占溢利428万港元同比扭亏为盈",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-27/doc-inkacqys5585198.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "新浪港股",
+      "summary": "阿尔法企业（00948）发布截至2026年9月30日止6个月的中期业绩，该集团取得收入9267万港元，同比增加355.54%；股东应占溢利428万港元...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:39:50+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:40:18.273581+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261127073852794800",
+      "title": "【俄称打击乌能源设施 乌称打击俄纵深目标】金十数据11月27日讯，俄罗斯国防部26日通报称，俄军打击了146处区域的乌方能源基础设施、无人机和地面无人装备的生产",
+      "url": "https://www.jin10.com/#/flash/20261127073852794800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "央视",
+      "summary": "【俄称打击乌能源设施 乌称打击俄纵深目标】金十数据11月27日讯，俄罗斯国防部26日通报称，俄军打击了146处区域的乌方能源基础设施、无人机和地面无人装备的生产和储存地点，以及乌军和外国雇佣兵临时部署点。通报披露的打击清单包括：3座为乌军工综合体供电的变电站，基辅市2处与中远程无人机相关的设施，还有敖德萨市以南海域1艘运送两用物资的干货船。同一天，乌克兰武装部队总参谋部通报称，乌军对俄罗斯境内两处纵深目标实施远程打击。乌军当天使用“海王星”岸基导弹系统，袭击俄伏尔加格勒州一座军用机场，该机场部署有苏-34战机。此外，乌军打击了巴什科尔托斯坦共和国一处石油输送站，击中站内储油罐并引发火情。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:38:52+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:40:17.016395+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-27/doc-inkacqys5584090.shtml",
+      "title": "金石控股集团公布中期业绩 拥有人应占溢利5091.2万港元同比扭亏为盈",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-27/doc-inkacqys5584090.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "新浪港股",
+      "summary": "金石控股集团（01943）公布截至2026年9月30日止6个月中期业绩，收益约9.28亿港元，同比增长609.59%；公司拥有人应占溢利5091.2万港元，同比扭亏为盈；每股盈利4.7港仙。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:37:32+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:40:18.273581+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-27/doc-inkacqym1039209.shtml",
       "title": "远东发展发布中期业绩 股东应占溢利2.55亿港元同比扭亏为盈",
@@ -44,6 +103,48 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127073550519800",
+      "title": "日本11月东京未季调CPI月率 0.4%，前值1%。",
+      "url": "https://www.jin10.com/#/flash/20261127073550519800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "日本11月东京未季调CPI月率 0.4%，前值1%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:35:50+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:40:17.016395+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127073548513800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261127073548513800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:35:48+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:40:17.016395+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
     },
     {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-27/doc-inkacqys5582878.shtml",
@@ -82,6 +183,48 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127073411674800",
+      "title": "【现货价格】金十期货11月27日讯，今日全国内三元生猪价格涨跌情况一览。",
+      "url": "https://www.jin10.com/#/flash/20261127073411674800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【现货价格】金十期货11月27日讯，今日全国内三元生猪价格涨跌情况一览。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:34:11+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:40:17.016395+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127073355404800",
+      "title": "【现货价格】金十期货11月27日讯，今日全国外三元生猪价格涨跌情况一览。",
+      "url": "https://www.jin10.com/#/flash/20261127073355404800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【现货价格】金十期货11月27日讯，今日全国外三元生猪价格涨跌情况一览。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:33:55+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:40:17.016395+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-27/doc-inkacqys5581777.shtml",
@@ -135,6 +278,27 @@
       "published_at": "2026-11-27T07:30:03+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T07:31:21.356529+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127073003371800",
+      "title": "日本11月东京核心CPI年率 2.9%，预期3%，前值2.60%。",
+      "url": "https://www.jin10.com/#/flash/20261127073003371800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "日本11月东京核心CPI年率 2.9%，预期3%，前值2.60%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:30:03+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:40:17.016395+08:00",
       "crawl_date": "2026-11-27",
       "lang": "zh",
       "category": "finance",
