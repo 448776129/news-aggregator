@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T00:28:16.264301+08:00",
-  "count": 63,
+  "generated_at": "2026-11-27T00:31:23.351132+08:00",
+  "count": 65,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 4,
+      "count": 6,
       "error": ""
     }
   ],
@@ -179,6 +179,25 @@
           "MYX:GENTING"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/26/meta-platforms-just-partnered-with-walmart-here-s-why-investors-should-pay-attention/?.tsrc=rss",
+      "title": "Meta Platforms Just Partnered With Walmart. Here's Why Investors Should Pay Attention",
+      "url": "https://www.fool.com/investing/2026/11/26/meta-platforms-just-partnered-with-walmart-here-s-why-investors-should-pay-attention/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Meta landing Walmart as a shopping partner may signal that the tech leader's AI spending could eventually pay off.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:25:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:31:18.456505+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8786Ea:0",
@@ -1087,6 +1106,25 @@
           "COINBASE:ADAUSD"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/funds-software-exposure-fit-rising-160905233.html?.tsrc=rss",
+      "title": "Which Funds With Software Exposure Fit Rising US AI Spending?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/funds-software-exposure-fit-rising-160905233.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Software themed funds can look interchangeable from the ticker list, yet what sits inside can pull your money toward very different risks. Pick one without checking and you might think you are leaning into paid software demand, only to find most of your dollars riding on hardware or security instead. That gap matters more after the latest data on the US economy showed 4.3% annualised growth, with business software spending linked to AI a big contributor. When companies pay more for tools...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:09:05+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:31:18.456505+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:https://247wallst.com/investing/2026/11/26/nvidia-just-dropped-31-in-a-month-will-nvda-stock-hit-125-or-200-first/?.tsrc=rss",

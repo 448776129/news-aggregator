@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T00:13:16.173183+08:00",
-  "count": 1,
+  "generated_at": "2026-11-27T00:31:23.353449+08:00",
+  "count": 4,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 0,
+      "count": 3,
       "error": ""
     },
     {
@@ -26,6 +26,48 @@
     }
   ],
   "items": [
+    {
+      "id": "jin10:20261127002905393800",
+      "title": "市场消息：思爱普(SAP)考虑在人工智能重组中裁减至少1万个岗位。",
+      "url": "https://www.jin10.com/#/flash/20261127002905393800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "市场消息：思爱普(SAP)考虑在人工智能重组中裁减至少1万个岗位。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:29:05+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:31:17.085404+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127002638913800",
+      "title": "据伊朗国家媒体：伊朗军方发言人否认对科威特重要设施发动袭击。",
+      "url": "https://www.jin10.com/#/flash/20261127002638913800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "据伊朗国家媒体：伊朗军方发言人否认对科威特重要设施发动袭击。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:26:38+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:31:17.085404+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaatuw8110783.shtml",
       "title": "莱茵金属两名意大利员工在伊朗对科威特的无人机袭击事件中丧生",
@@ -44,6 +86,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127000000001800",
+      "title": "【今日重点关注的财经数据与事件：2026年11月27日 周五】 ① 15:45 法国11月CPI月率初值 ② 15:45 法国第三季度GDP年率终值 ③ 16:",
+      "url": "https://www.jin10.com/#/flash/20261127000000001800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【今日重点关注的财经数据与事件：2026年11月27日 周五】 ① 15:45 法国11月CPI月率初值 ② 15:45 法国第三季度GDP年率终值 ③ 16:55 德国11月季调后失业人数 ④ 16:55 德国11月季调后失业率 ⑤ 18:00 欧元区11月工业景气指数 ⑥ 18:00 欧元区11月经济景气指数 ⑦ 21:30 加拿大第三季度经常帐",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:31:17.085404+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
     }
   ]
 }
