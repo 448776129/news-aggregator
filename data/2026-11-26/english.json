@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T19:46:16.881021+08:00",
-  "count": 4938,
+  "generated_at": "2026-11-26T19:49:16.274438+08:00",
+  "count": 4963,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 8,
+      "count": 10,
       "error": ""
     },
     {
@@ -38,6 +38,347 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770T7:0",
+      "title": "Eden Posts Q1 Profit Attributable 5.6 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770T7:0-eden-posts-q1-profit-attributable-5-6-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:48:16+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:10.796656+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:EDEN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4770TX:0",
+      "title": "Wushang Group's Board Elects Chairman",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4770TX:0-wushang-group-s-board-elects-chairman/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:47:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:10.796656+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SZSE:000501"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4770RL:0",
+      "title": "India 10-year bond logs worst day in over a month as oil rises",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4770RL:0-india-10-year-bond-logs-worst-day-in-over-a-month-as-oil-rises/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:47:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:10.796656+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4770SQ:0",
+      "title": "Schaeffler reduces stake in Indian business in $330 million deal",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4770SQ:0-schaeffler-reduces-stake-in-indian-business-in-330-million-deal/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:46:17+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:10.796656+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:SHA0",
+          "NSE:SCHAEFFLER"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:5862dd26b094b:0",
+      "title": "BOE proposes further 30-basis-point cut in UK bank capital requirements, flags AI risks",
+      "url": "https://seekingalpha.com/news/4676807-boe-proposes-further-30-basis-point-cut-in-uk-bank-capital-requirements-flags-ai-risks?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:46:15+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:10.796656+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:GOOG",
+          "NASDAQ:GOOGL",
+          "NASDAQ:MSFT",
+          "LSE:HSBA",
+          "LSE:LLOY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:71e1dd2b34346:0",
+      "title": "Juniper Green secures PPA with NTPC for 150-MW wind, solar hybrid",
+      "url": "https://www.tradingview.com/news/moodys:71e1dd2b34346:0-juniper-green-secures-ppa-with-ntpc-for-150-mw-wind-solar-hybrid/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "SeeNews Renewables",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:46:09+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:10.796656+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:NTPC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:5b4ddf22e094b:0",
+      "title": "India's Largest Bank Goes Live on Upgraded Pelican Platform",
+      "url": "https://www.newsfilecorp.com/release/326016/Indias-Largest-Bank-Goes-Live-on-Upgraded-Pelican-Platform",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:45:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:10.796656+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:PEL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:ba6baa482094b:0",
+      "title": "Issue of Equity and Total Voting Rights",
+      "url": "https://www.globenewswire.com/news-release/2026/11/26/3410735/0/en/issue-of-equity-and-total-voting-rights.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:45:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:10.796656+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:OSEC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:7aef2a9f962a2:0",
+      "title": "Lamor Corporation Plc – Managers' transactions – Cessuco Oy",
+      "url": "https://www.tradingview.com/news/modular_finance:7aef2a9f962a2:0-lamor-corporation-plc-managers-transactions-cessuco-oy/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:45:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:10.796656+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXHEX:LAMOR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:4793e28958f71:0",
+      "title": "Pelican AI Corp. (PEL) Upgrades Platform Used Across 29 Geographies",
+      "url": "https://www.tradingview.com/news/tradingview:4793e28958f71:0-pelican-ai-corp-pel-upgrades-platform-used-across-29-geographies/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:45:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:10.796656+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:PEL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4770TW:0",
+      "title": "Zhejiang Hailiang Terminates Plan To Seek Hong Kong Listing",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4770TW:0-zhejiang-hailiang-terminates-plan-to-seek-hong-kong-listing/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:44:39+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:10.796656+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SZSE:002203"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8422Ea:0",
+      "title": "REG - Societe Generale SA Prologis, Inc. - Form 8.3 - Prologis, Inc.",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8422Ea:0-reg-societe-generale-sa-prologis-inc-form-8-3-prologis-inc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:44:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:10.796656+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PLD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4770QQ:0",
+      "title": "Gasoline margin turns negative as exports swell",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4770QQ:0-gasoline-margin-turns-negative-as-exports-swell/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:44:08+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:10.796656+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:RB1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4770SK:0",
+      "title": "Front-quarter prices edge higher as hydro deficit widens",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4770SK:0-front-quarter-prices-edge-higher-as-hydro-deficit-widens/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:43:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:10.796656+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ICEENDEX:ECF1!"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770QP:0",
       "title": "Tanco Holdings Posts Q1 Loss Attributable 1.94 Million RGT",
@@ -349,6 +690,25 @@
           "EURONEXT:GLE"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/26/3-investing-moves-all-investors-should-make-right/?.tsrc=rss",
+      "title": "3 Investing Moves All Investors Should Make Right Now if a Bear Market Is Coming",
+      "url": "https://www.fool.com/investing/2026/11/26/3-investing-moves-all-investors-should-make-right/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nobody can time the next bear market, but cash reserves, diversification, and sturdy businesses can help investors prepare for volatility.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:39:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:10.693818+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N4770R1:0",
@@ -45666,6 +46026,25 @@
       "extra": {}
     },
     {
+      "id": "msn:73ac6656351ca4af9b702c3cf7fe691b68b51719",
+      "title": "Stock Market Highlights, Sensex Today: Sensex Closes 400 Points Higher, Tech Shares Rally",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081cb6729a46d796d85d9bf2c9188d&url=https%3a%2f%2fwww.ndtv.com%2fbusiness-news%2fstock-market-sensex-share-market-nifty-live-updates-today-26-november-us-iran-war-oil-price-12378440&c=6434778918802922701&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stock Market Highlights: Both Sensex and Nifty opened and closed in the green on Thursday. At the open, Sensex gained 100 points while Nifty was up 20. At the close, Sensex was up 390 points while ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T11:02:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:12.551487+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "alpaca:131228278",
       "title": "Oreo Brand Launches Holiday Campaign Addressing 'Perfection Tax'",
       "url": "https://www.globenewswire.com/news-release/2026/11/25/3410577/0/en/no-baking-no-stress-all-magic-the-oreo-brand-and-ciara-invite-moms-to-dunk-into-the-holidays.html",
@@ -48030,6 +48409,25 @@
       "published_at": "2026-11-26T10:09:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T19:46:14.606626+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:64832cacaca517bf2020a89f780da7e68c161dad",
+      "title": "How Earnings Outlook And Analyst Upgrade At Guidewire Stock Has Changed Its Investment Story",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081cb7f5c24fcc824e22d454402782&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fearnings-outlook-analyst-upgrade-guidewire-100936144.html&c=9969458778845504775&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Definity Financial Corporation has already integrated Guidewire Software’s ProNavigator into its Vyne digital broker platform, giving brokers AI powered assistance directly inside existing workflows.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T10:09:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:12.551487+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -57054,6 +57452,25 @@
       "published_at": "2026-11-26T07:11:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T19:28:20.959396+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0a86791e29699787a72160efb26673b223568719",
+      "title": "Encore Capital Group (ECPG) Stock May Still Sit Below Fair Value On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081cb7f5c24fcc824e22d454402782&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fencore-capital-group-ecpg-stock-071130601.html&c=2089247392338241838&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Encore Capital Group has seen its share price move sharply over recent years, which raises a straightforward question for investors who focus on fundamentals. Is the current valuation of Encore ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:11:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:12.551487+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -69530,6 +69947,25 @@
       "extra": {}
     },
     {
+      "id": "msn:ca0c3c1d6dcb3386789fb3ed5c8cb2c2577bf83c",
+      "title": "Is the stock market open today? Here are the trading hours for Thanksgiving.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081cb6729a46d796d85d9bf2c9188d&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-thanksgiving%2far-AA2ifPMA&c=15504855894997742158&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "It’s time to give thanks. What traders should know about the stock market on Thanksgiving.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:12.551487+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:seekingalpha:2e893931d094b:0",
       "title": "SA Asks: What should Nvidia investors be watching for in the next few weeks? (Update)",
       "url": "https://seekingalpha.com/news/4676388-sa-asks-what-should-nvidia-investors-be-watching-for-in-the-next-few-weeks?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
@@ -70609,6 +71045,25 @@
       "published_at": "2026-11-26T04:46:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T19:43:12.767775+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:10e342f6f2e03b6089dceff365eb1a793c1c55db",
+      "title": "Impax International Sustainable Economy Fund Q3 2026 Commentary",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081cb7cc574a989bf50446220d3f3c&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972127-impax-international-sustainable-economy-fund-q3-2026-commentary&c=8664322210550933104&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Impax International Sustainable Economy Fund portfolio outperformed the MSCI EAFE benchmark in the third quarter of 2026.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:46:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:12.551487+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -74255,6 +74710,25 @@
       "extra": {}
     },
     {
+      "id": "msn:0649c1bb8add2bf1ce36419f565e9898d0ec9e3b",
+      "title": "Universal Insurance: An Upcoming Category 5 Earnings Inflection",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081cb7f5c24fcc824e22d454402782&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972108-universal-insurance-an-upcoming-category-5-earnings-inflection&c=9176262558594921769&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Universal's earnings will roughly double in the coming years due to the runoff of legacy Florida claims litigation and support from lower reinsurance costs.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:12.551487+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261125006748_20261125006754:0",
       "title": "Tower Ltd.: Board Declared Fully Imputed Final Dividend of NZ$0.10 per Share",
       "url": "https://www.tradingview.com/news/DJN_DN20261125006748_20261125006754:0-tower-ltd-board-declared-fully-imputed-final-dividend-of-nz-0-10-per-share/",
@@ -77491,6 +77965,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T19:46:14.606626+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0c22078c6da6c40eb078796ac5e5e11fb452ba7a",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081cb6729a46d796d85d9bf2c9188d&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:12.551487+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -95635,6 +96128,25 @@
       "extra": {}
     },
     {
+      "id": "msn:638d7383fff9bc44c365a5999eb51047154ebf39",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081cb6729a46d796d85d9bf2c9188d&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:12.551487+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -101215,6 +101727,25 @@
       "extra": {}
     },
     {
+      "id": "msn:0133409df48fbc00b210882f77c5bcfcb27b2440",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081cb6729a46d796d85d9bf2c9188d&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:12.551487+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760YX:0",
       "title": "Equinor cuts 2026 production growth guidance",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760YX:0-equinor-cuts-2026-production-growth-guidance/",
@@ -106745,6 +107276,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T19:46:14.606626+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:2b8eaed98fae29984eaec1e1c7a10f065607f0bd",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b081cb6729a46d796d85d9bf2c9188d&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:49:12.551487+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
