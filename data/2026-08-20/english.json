@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-20",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-27T02:46:14.418346+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:b8c7fd42e884fcde2ce2cab0d55647220b5bd166",
+      "title": "Deflation Explained: When Falling Prices Matter",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b087e7362bb43d7865349909ea8b35a&url=https%3a%2f%2fwww.investopedia.com%2farticles%2fpersonal-finance%2f030915%2fwhy-deflation-bad-economy.asp&c=6270125665778279044&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Investopedia contributors come from a range of backgrounds, and over 25 years there have been thousands of expert writers and editors who have contributed. Amanda Bellucco-Chatham is an editor, writer ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-08-20T00:18:00+08:00",
+      "published_date": "2026-08-20",
+      "fetched_at": "2026-11-27T02:46:13.209937+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
