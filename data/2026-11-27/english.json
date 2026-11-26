@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T00:19:25.589241+08:00",
-  "count": 44,
+  "generated_at": "2026-11-27T00:25:17.998011+08:00",
+  "count": 45,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "error": ""
     }
   ],
@@ -83,6 +83,25 @@
           "GPW:TPE"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise-with.html?.tsrc=rss",
+      "title": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
+      "url": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise-with.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Futures are rising with U.S. markets shut after a wild session in which the Nasdaq rallied off lows while the Dow Jones and Anthropic reversed higher.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:17:03+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T00:25:13.268403+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:modular_finance:456e7ddf557f3:0",
