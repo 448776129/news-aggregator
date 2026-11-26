@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T09:40:16.981914+08:00",
-  "count": 713,
+  "generated_at": "2026-11-26T09:43:16.651940+08:00",
+  "count": 716,
   "sources": [
     {
       "name": "cls",
@@ -26,6 +26,25 @@
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-26/doc-inizzmzn8213546.shtml",
+      "title": "理想汽车-W绩后高开逾10% 第三季度营收超预期且亏损收窄",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-26/doc-inizzmzn8213546.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "新浪港股",
+      "summary": "理想汽车-W（02015）绩后高开逾8%，截至发稿，股价上涨10.61%，现报46.90港元，成交额3.15亿港元。 理想汽车昨日盘后发布第三季度业绩，收入总额288.34亿元，同比增长5...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:40:14+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:43:13.572990+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/money/future/fmnews/2026-11-26/doc-inizzmzn8213291.shtml",
       "title": "中信建投期货：11月26日能化早报",
@@ -158,6 +177,48 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261126093546432800",
+      "title": "A股零售板块局部走强，杭州解百、珠免集团、新世界、中央商场涨停，家家悦、新华百货、银座股份等个股跟涨。",
+      "url": "https://www.jin10.com/#/flash/20261126093546432800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "A股零售板块局部走强，杭州解百、珠免集团、新世界、中央商场涨停，家家悦、新华百货、银座股份等个股跟涨。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:35:46+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:43:11.060571+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126093521908800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261126093521908800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:35:21+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:43:11.060571+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "sina:https://finance.sina.com.cn/money/future/fmnews/2026-11-26/doc-inizzmzr3802520.shtml",

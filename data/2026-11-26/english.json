@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T09:40:16.941688+08:00",
-  "count": 1812,
+  "generated_at": "2026-11-26T09:43:16.628382+08:00",
+  "count": 1818,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 4,
       "error": ""
     },
     {
@@ -38,6 +38,62 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N477013:0",
+      "title": "Dollar steady as sliding yields temper safe-haven bid",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N477013:0-dollar-steady-as-sliding-yields-temper-safe-haven-bid/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:41:59+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:43:12.553282+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:DXY",
+          "NASDAQ:NVDA",
+          "FX_IDC:USDJPY",
+          "FX:EURUSD",
+          "TVC:US10Y",
+          "FX:AUDUSD",
+          "FX_IDC:USDCHF",
+          "FX_IDC:USDCAD",
+          "ICEEUR:BRN1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47700P:0",
+      "title": "Data centre rush drives biggest rise in Australian business investment since mining boom",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47700P:0-data-centre-rush-drives-biggest-rise-in-australian-business-investment-since-mining-boom/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:41:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:43:12.553282+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:AUDUSD"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-26:newsml_TnwbxMM1w:0",
       "title": "Tana Resources Announces 4:1 Share Consolidation",
@@ -34770,6 +34826,25 @@
       "extra": {}
     },
     {
+      "id": "msn:26d8f45f230662896cae8fb4dbab3eaef1342ac8",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b078eb263554506b8ebc3c5840b1e8a&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:43:16.319874+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -36202,6 +36277,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T09:40:15.707395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:40dd0cceff5709e937875a68d3d25257ea374c08",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b078eb263554506b8ebc3c5840b1e8a&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:43:16.319874+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -37862,6 +37956,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T09:40:15.707395+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6711a584c3cbe309f9f17dbddde39169590f2bc4",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b078eb263554506b8ebc3c5840b1e8a&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:43:16.319874+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -42863,6 +42976,25 @@
       "published_at": "2026-11-26T00:00:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T01:31:14.644435+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:02748e5018dc9f5f9262d480a81201cfec97bc10",
+      "title": "Has Lamb Weston Holdings (LW) Fallen Far Enough On Earnings?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b078eb2197a44818b61ccac573eb937&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2flamb-weston-holdings-lw-fallen-011807376.html&c=13083530927659682156&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Lamb Weston Holdings has seen its share price move in different directions over recent years, and that mixed performance puts the focus squarely on one issue for investors. The question is how well ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:43:16.319874+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
