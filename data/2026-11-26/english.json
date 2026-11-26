@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T12:31:17.465323+08:00",
-  "count": 2264,
+  "generated_at": "2026-11-26T12:34:16.112835+08:00",
+  "count": 2285,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 24,
+      "count": 29,
       "error": ""
     },
     {
@@ -39,6 +39,193 @@
   ],
   "items": [
     {
+      "id": "tradingview:DJN_DN20261125008930:0",
+      "title": "Subur Tiasa Holdings Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008930:0-subur-tiasa-holdings-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:32:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:12.842822+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SUBUR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008932:0",
+      "title": "TWL Holdings Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008932:0-twl-holdings-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:32:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:12.842822+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:TWL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47709J:0",
+      "title": "Turkey - Factors to Watch on Nov 26",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47709J:0-turkey-factors-to-watch-on-nov-26/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:30:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:12.842822+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BIST:XU100",
+          "FX:USDTRY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008922_20261125008922:0",
+      "title": "SGX Sicom Benchmark December TSR20 Rubber Up 4.5 Cents at 236.4 U.S. Cents/Kg",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008922_20261125008922:0-sgx-sicom-benchmark-december-tsr20-rubber-up-4-5-cents-at-236-4-u-s-cents-kg/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:12.842822+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008921_20261125008921:0",
+      "title": "SGX Sicom RSS3 Rubber Untraded at Midday",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008921_20261125008921:0-sgx-sicom-rss3-rubber-untraded-at-midday/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:12.842822+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:moodys:51edcb082d3ab:0",
+      "title": "India's L&T wins battery storage order in Gujarat",
+      "url": "https://www.tradingview.com/news/moodys:51edcb082d3ab:0-india-s-l-t-wins-battery-storage-order-in-gujarat/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "bne Intellinews",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:29:10+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:12.842822+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:LT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:2aaee15cf094b:0",
+      "title": "Crystal Crop Protection IPO listing: Shares debut at up to 3% premium on BSE, NSE",
+      "url": "https://www.tradingview.com/news/cnbctv:2aaee15cf094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:28:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:12.842822+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:dc27aa41f094b:0",
+      "title": "RBI brings back 60 tonnes of gold in six months, domestic holdings rise to 84%",
+      "url": "https://www.tradingview.com/news/moneycontrol:dc27aa41f094b:0-rbi-brings-back-60-tonnes-of-gold-in-six-months-domestic-holdings-rise-to-84/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:26:28+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:12.842822+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762FR:0",
       "title": "Viviana Power Tech Confirmed As L1 Stage Successful Bidder For 4.64 Billion Rupees Project",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762FR:0-viviana-power-tech-confirmed-as-l1-stage-successful-bidder-for-4-64-billion-rupees-project/",
@@ -61,6 +248,25 @@
           "NSE:VIVIANA"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.euronews.com/2026/11/26/anxiety-over-the-ai-boom-and-inflation-drags-wall-street-lower?.tsrc=rss",
+      "title": "Global markets rebound as tech shares recover and tariff fears ease",
+      "url": "https://www.euronews.com/2026/11/26/anxiety-over-the-ai-boom-and-inflation-drags-wall-street-lower?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Asian stocks staged a rebound on Thursday from another hard day of selling as trading in the tech sector stabilised, while investors took in their stride a fresh round of proposed US tariffs.View on euronews",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:25:39+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:12.284110+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:cointelegraph:de92652f8094b:0",
@@ -443,6 +649,25 @@
           "HKEX:2498"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/kioxia-nvidia-collaborate-expand-effective-041900475.html?.tsrc=rss",
+      "title": "Kioxia and NVIDIA Collaborate to Expand Effective High-Bandwidth Memory Capacity with SSDs",
+      "url": "https://finance.yahoo.com/technology/ai/articles/kioxia-nvidia-collaborate-expand-effective-041900475.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "TOKYO, November 26, 2026--Kioxia and NVIDIA collaborate to extend effective GPU memory capacity to petabyte scale using NVIDIA SCADA software and Kioxia SSDs.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:19:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:12.284110+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:urn:summary_document_report:quartr.com:3674944:0",
@@ -11573,6 +11798,30 @@
         "symbols": [
           "ASX:FAL"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8811272",
+      "title": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGZ4TFg5REgyY0VnandHQjZIMFN1cnNBOEJVQTBDaU1IWDFLVUxmdHFTXzRLVnVKc3pHd3lTYk9lRHZBOWV1Skd5V0VzVU05ZDRjZXdZekl5cWFneWI2b3ptS09taEhjNzZIcGhuWVdydDk5cnpkcElkMUdTZkJjTjROT09sOG5adVUxNVpNeGp5UmxaaHl2bzh6TklXMlp2eVQyVW9idi1QV25LcnpIeFBjMEF4RzNNbkNIU3JOUlN6WWVqSjRtTlFZMA?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft Reuters",
+      "content": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:42:10+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:13.030272+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -25064,6 +25313,54 @@
       "extra": {}
     },
     {
+      "id": "finnhub:8811273",
+      "title": "US authorizes SpaceX to deploy 1 million satellites for data centers in space - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVk5uRnprd285MEw5V2prcHR6bXljVGN4cUZuOHA4eHJUZkFzOVFnS1QtYnZaal8yYUYxa0t1cW84WjVzQWpub0czSGxUblh3STB6WnZxcThWZUxNRDk2emliZ0tfTmk5U3YxY3FZRXdEYWNyb2VMTmlkZE5RNWZHOS12OWdjSkpNdzhGU0Z4NWo3VmpSZHNXWGNJZUFpZjl2T2xuUkRKRXBpOTFqVFdFLXFvV0xHd1czWDFKbFU3OWFGU21B?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "US authorizes SpaceX to deploy 1 million satellites for data centers in space Reuters",
+      "content": "US authorizes SpaceX to deploy 1 million satellites for data centers in space Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:44:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:13.030272+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
+      "id": "finnhub:8811275",
+      "title": "Fed survey shows continued economic growth, sticky inflation in recent weeks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Fed survey shows continued economic growth, sticky inflation in recent weeks Reuters",
+      "content": "Fed survey shows continued economic growth, sticky inflation in recent weeks Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:42:46+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:13.030272+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "tradingview:DJN_DN20261125006778:0",
       "title": "Kalohexis Makes IPO Filing Public",
       "url": "https://www.tradingview.com/news/DJN_DN20261125006778:0-kalohexis-makes-ipo-filing-public/",
@@ -25894,6 +26191,25 @@
       "published_at": "2026-11-26T04:24:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T12:31:15.912800+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d039ba5eb1280a2e3a7a000720c48bf856728b94",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07b6c5c3b347f4b0a5adfb059d5056&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:14.836042+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -26914,6 +27230,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T12:31:15.912800+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b0e6aef0109be92910dd3be018f22f38f339f8e9",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07b6c4c883475bac4f7bb8ad2db427&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:14.836042+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -31167,6 +31502,30 @@
       }
     },
     {
+      "id": "finnhub:8811274",
+      "title": "Anthropic's slide tests Wall Street's lofty bets on future AI profits - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZE1sRHlKd3Y1aUpqaUVpeFQ3QjFmX191blVmM1gyS0hidW81RjFjSXJjQndnODAwQU9qb3VkYkJfZ3ppYzdBQ1J5cTRUaDMzamxvZVNsYzB6RUpiVzd2RlhxV2hKaDRjTFdhamRKZ3g3MXZDY1c5c3NMalpmc09aQ3JnNGEyQTR5NG85OW9VTEE1NW9md1VKdFYxeTlnbWNjd25UcjVwamhDX1pIaXc?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Anthropic's slide tests Wall Street's lofty bets on future AI profits Reuters",
+      "content": "Anthropic's slide tests Wall Street's lofty bets on future AI profits Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T02:35:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:13.030272+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "tradingview:urn:summary_document_transcript:quartr.com:4824295:0",
       "title": "NWG: Evelyn integration targets over GBP 200bn AUMA and above 40% RoTE by 2030",
       "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4824295:0-nwg-evelyn-integration-targets-over-gbp-200bn-auma-and-above-40-rote-by-2030/",
@@ -34186,6 +34545,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "finnhub:8811271",
+      "title": "Deere forecasts 2027 profit below estimates as farm equipment recovery remains muted - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUGttdVJxRzZYOTlVQkU2OFY3NjRsZTltRGpRMll3RkV1RlBUWURpMHNJWDd0Q3NuRTdGWmlZb3M4eVRPdEtPYkVSaFRHR0UwZWRRTFJHZk1fcWhTTENPUllweE01d0Zsb19EX1lBdU9zWlM0RExENHU0VHB2cVA1dlNNR1Izay03MThOSkdfNWhCQmNXellqTFdzeE1LYkxf?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Deere forecasts 2027 profit below estimates as farm equipment recovery remains muted Reuters",
+      "content": "Deere forecasts 2027 profit below estimates as farm equipment recovery remains muted Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T01:49:59+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:13.030272+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
     },
     {
       "id": "yahoo:https://app.moby.co/home/research/tools/earningsCalendar/earnings-diana-shipping-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
@@ -42126,6 +42509,25 @@
       "extra": {}
     },
     {
+      "id": "msn:78638874d7a56e4a72883021578991201df968a7",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07b6c4c883475bac4f7bb8ad2db427&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:14.836042+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -42618,6 +43020,25 @@
       "published_at": "2026-11-26T00:48:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T12:31:15.912800+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b0b070e72f9205bd95bf24684d97d9437bfa230f",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty slips to 25,800; Siemens Energy up 7%",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07b6c4c883475bac4f7bb8ad2db427&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-nifty-50-sensex-expiry-today-tariffs-textiles-lg-schaeffler-gokaldas-lupin-avanti-share-price-liveblog-20041603.htm&c=17246498023743577648&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Track live Sensex and Nifty updates as monthly expiry, US tariff announcements, and Wall Street trends drive stock market action today.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:48:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:14.836042+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -44679,6 +45100,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T12:31:15.912800+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:8cae2d7c484c408149aa756bd45909801b0b6844",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07b6c4c883475bac4f7bb8ad2db427&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:14.836042+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -47422,6 +47862,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T12:31:15.912800+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:dfd1f4d7222ced583b7e49097c9fb719a43e3b9a",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07b6c4c883475bac4f7bb8ad2db427&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T12:34:14.836042+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
