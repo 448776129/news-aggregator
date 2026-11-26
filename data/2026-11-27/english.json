@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T01:52:17.391225+08:00",
-  "count": 274,
+  "generated_at": "2026-11-27T01:58:18.473965+08:00",
+  "count": 275,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 19,
+      "count": 20,
       "error": ""
     }
   ],
@@ -951,6 +951,25 @@
           "GPW:ECB"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-fall-3-91-173102633.html?.tsrc=rss",
+      "title": "NVIDIA Stocks Fall 3.91% as S&P Puts AA Rating on Downgrade Watch",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-fall-3-91-173102633.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "A governance review after Jensen Huang's exit and return now threatens a one-notch cut, while Moody's keeps its Aa1 rating steady.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:31:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:58:14.026338+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N4770XG:0",
