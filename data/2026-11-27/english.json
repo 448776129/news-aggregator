@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T01:58:18.473965+08:00",
-  "count": 275,
+  "generated_at": "2026-11-27T02:01:16.441597+08:00",
+  "count": 276,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 20,
+      "count": 21,
       "error": ""
     }
   ],
@@ -297,6 +297,25 @@
           "XETR:ADS"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/26/alphabet-could-be-the-safest-way-to-own-anthropic-here-s-the-math/?.tsrc=rss",
+      "title": "Alphabet Could Be the Safest Way to Own Anthropic. Here’s the Math.",
+      "url": "https://www.fool.com/investing/2026/11/26/alphabet-could-be-the-safest-way-to-own-anthropic-here-s-the-math/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Alphabet owns a piece of Anthropic and also gets paid to supply its computing power, which is a nice way to be on both sides of the AI boom.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:47:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:01:10.633770+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:moodys:140d282469ad5:0",

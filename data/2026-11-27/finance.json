@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T01:58:18.481245+08:00",
-  "count": 69,
+  "generated_at": "2026-11-27T02:01:16.445994+08:00",
+  "count": 70,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 6,
+      "count": 7,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaayat1259896.shtml",
+      "title": "Anthropic团队主管称，AI正在改变工程师的晋升方式",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaayat1259896.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "随着Claude‑Code这类AI编码工具极大压缩软件开发周期，Anthropic正在调整软件工程师的晋升评判标准：相比投入的工时，项目实际影响力被放到更核心位置，例如系统延迟降低...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:00:08+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:01:10.605577+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261127015044552800",
       "title": "【据悉思爱普拟在AI重组中裁减至少1万个岗位】金十数据11月27日讯，知情人士报道称，德国思爱普Sap正在准备一项裁减至少1万个岗位的计划——将影响其全球至少9",
