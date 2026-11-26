@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T18:34:15.544587+08:00",
-  "count": 4421,
+  "generated_at": "2026-11-26T18:37:13.786397+08:00",
+  "count": 4477,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 7,
+      "count": 6,
       "error": ""
     },
     {
@@ -38,6 +38,976 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8290Ea:0",
+      "title": "REG - Jefferies Intl Ltd Tate & Lyle PLC - Form 8.3 Tate & Lyle Plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8290Ea:0-reg-jefferies-intl-ltd-tate-lyle-plc-form-8-3-tate-lyle-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:36:53+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TATE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC1SWXJK:0",
+      "title": "Acconeer Gets $300,000 Order For Presence Application",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC1SWXJK:0-acconeer-gets-300-000-order-for-presence-application/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:36:49+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:ACCON"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770ND:0",
+      "title": "Malaysian Genomics Resource Centre Reports Q3 Revenue Of 3.42 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770ND:0-malaysian-genomics-resource-centre-reports-q3-revenue-of-3-42-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:36:45+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:MGRC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770PV:0",
+      "title": "YB Ventures Reports Q1 Loss Attributable Of 3.05 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770PV:0-yb-ventures-reports-q1-loss-attributable-of-3-05-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:36:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:YB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126002095:0",
+      "title": "Xin Hwa Holdings Malaysia 2nd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126002095:0-xin-hwa-holdings-malaysia-2nd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:36:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:XINHWA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770SV:0",
+      "title": "Idris Mohammed, The Owner Of Premier Quality Foods, Plans Renewed Bid For Collapsed Poundland - Sky News",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770SV:0-idris-mohammed-the-owner-of-premier-quality-foods-plans-renewed-bid-for-collapsed-poundland-sky-news/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:35:38+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770SX:0",
+      "title": "Al Faleh Educational Seeks Shareholders Approval On FY Dividend Of QAR 0.01667 Per Share",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770SX:0-al-faleh-educational-seeks-shareholders-approval-on-fy-dividend-of-qar-0-01667-per-share/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:35:35+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "QSE:FALH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:e2c7db9422247:0",
+      "title": "Lei Jun: Xiaomi Auto Thanksgiving Limited-Time Car Purchase Offer Includes Free Xiaomi AI Glasses With In-Stock Vehicle Purchase",
+      "url": "https://www.tradingview.com/news/moodys:e2c7db9422247:0-lei-jun-xiaomi-auto-thanksgiving-limited-time-car-purchase-offer-includes-free-xiaomi-ai-glasses-with-in-stock-vehicle-purchase/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "AASTOCKS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:35:28+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1810"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770SW:0",
+      "title": "ABS Marine Services Receives Charter Hire Award From ONGC For Vessel 'Emerald' For Three Years",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770SW:0-abs-marine-services-receives-charter-hire-award-from-ongc-for-vessel-emerald-for-three-years/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:35:22+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:ABSMARINE",
+          "NSE:ONGC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8285Ea:0",
+      "title": "REG - GraniteShares Fin. Granite Yieldboost $ Granite Yieldboost £ - NYVB - Distribution",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8285Ea:0-reg-graniteshares-fin-granite-yieldboost-granite-yieldboost-nyvb-distribution/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:35:21+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:3FNE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:7e79c55085547:0",
+      "title": "Acconeer receives USD 300 000 order for presence application",
+      "url": "https://www.tradingview.com/news/modular_finance:7e79c55085547:0-acconeer-receives-usd-300-000-order-for-presence-application/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:35:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:ACCON"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:2b8d707ac4e1c:0",
+      "title": "Bulletin from Netel Holding AB (publ)’s Extraordinary General Meeting on 26 November 2026",
+      "url": "https://www.tradingview.com/news/modular_finance:2b8d707ac4e1c:0-bulletin-from-netel-holding-ab-publ-s-extraordinary-general-meeting-on-26-november-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:35:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:NETEL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:174acac653557:0",
+      "title": "Netel Holding AB (publ) (NETEL) Elects Three Directors, Approves Name Change",
+      "url": "https://www.tradingview.com/news/tradingview:174acac653557:0-netel-holding-ab-publ-netel-elects-three-directors-approves-name-change/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:35:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:NETEL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:c1e9022c91957:0",
+      "title": "RVRC Holding AB (publ) (RVRC) Approves SEK 1.50 Per-Share Dividend",
+      "url": "https://www.tradingview.com/news/tradingview:c1e9022c91957:0-rvrc-holding-ab-publ-rvrc-approves-sek-1-50-per-share-dividend/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:35:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:RVRC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:0125ab42683bb:0",
+      "title": "Resolutions at RVRC’s Annual General Meeting 2026",
+      "url": "https://www.tradingview.com/news/modular_finance:0125ab42683bb:0-resolutions-at-rvrc-s-annual-general-meeting-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:35:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:RVRC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:e4a79262b0500:0",
+      "title": "Denmark Retail Sales Fall 0.7% In October",
+      "url": "https://www.tradingview.com/news/dpa_afx:e4a79262b0500:0-denmark-retail-sales-fall-0-7-in-october/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:34:07+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:moodys:7cc31a71d231d:0",
+      "title": "Citi Ratings, TPs on HK Developers (Table)",
+      "url": "https://www.tradingview.com/news/moodys:7cc31a71d231d:0-citi-ratings-tps-on-hk-developers-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "AASTOCKS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:33:42+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:4",
+          "HKEX:12",
+          "HKEX:14",
+          "HKEX:16",
+          "HKEX:17",
+          "HKEX:66",
+          "HKEX:83",
+          "HKEX:101",
+          "HKEX:683",
+          "HKEX:778",
+          "HKEX:823",
+          "HKEX:1113",
+          "HKEX:1972",
+          "HKEX:1997",
+          "HKEX:2778"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:59efd56585690:0",
+      "title": "Daiwa Cuts XPeng TP to USD21, Expects Differentiated AI Ecosystem to Become New Growth Engine from Next Yr",
+      "url": "https://www.tradingview.com/news/moodys:59efd56585690:0-daiwa-cuts-xpeng-tp-to-usd21-expects-differentiated-ai-ecosystem-to-become-new-growth-engine-from-next-yr/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "AASTOCKS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:33:22+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:9868",
+          "NYSE:XPEV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4770NL:0",
+      "title": "Singapore-based InCred Global AMC launches debut EM credit fund, targets $1 billion",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4770NL:0-singapore-based-incred-global-amc-launches-debut-em-credit-fund-targets-1-billion/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:33:13+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770SO:0",
+      "title": "Pegasus Heights Reports Q3 Loss Attributable To Equity Holders Of 1.22 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770SO:0-pegasus-heights-reports-q3-loss-attributable-to-equity-holders-of-1-22-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:33:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:PHB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ7207Ea:0",
+      "title": "REG - GSK PLC - Hibsago approved in China for chronic hepatitis B",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ7207Ea:0-reg-gsk-plc-hibsago-approved-in-china-for-chronic-hepatitis-b/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:33:08+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:GSK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770QE:0",
+      "title": "Urban Company Enters Air Conditioners With Native AC",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770QE:0-urban-company-enters-air-conditioners-with-native-ac/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:32:55+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:URBANCO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:eqs:378e474eb094b:0",
+      "title": "Form 8 (Opening Position Disclosure)",
+      "url": "https://www.eqs-news.com/news/uk-ireland-reg-news/form-8-opening-position-disclosure/dcda64a6-12d1-416f-86ce-6f423e10de77_en",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "EQS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:32:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:MTRO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770PT:0",
+      "title": "Lien Hoe Corporation Reports Q3 2026 Loss Attributable To Equity Holders Of 2.9 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770PT:0-lien-hoe-corporation-reports-q3-2026-loss-attributable-to-equity-holders-of-2-9-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:32:34+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:LIENHOE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770NP:0",
+      "title": "Shangri-La Hotels (Malaysia) Reports Q3 Profit Attributable Of 18.4 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770NP:0-shangri-la-hotels-malaysia-reports-q3-profit-attributable-of-18-4-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:32:26+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SHANG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762MC:0",
+      "title": "Lfe Corporation Reports Q3 Profit Attributable To Equity Holders Of 1.56 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762MC:0-lfe-corporation-reports-q3-profit-attributable-to-equity-holders-of-1-56-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:32:07+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:LFECORP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126002069:0",
+      "title": "Al-Aqar Healthcare REIT Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126002069:0-al-aqar-healthcare-reit-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:32:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:ALAQAR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126002068:0",
+      "title": "Al-Salam REIT Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126002068:0-al-salam-reit-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:32:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:ALSREIT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4770M8:0",
+      "title": "Palm oil rises on Indonesia's proposed new export charge",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4770M8:0-palm-oil-rises-on-indonesia-s-proposed-new-export-charge/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:31:50+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:FCPO1!",
+          "CME:CPO1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770VA:0",
+      "title": "Sedania Innovator Reports Q1 Profit Attributable To Equity Holders Of 2.04 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770VA:0-sedania-innovator-reports-q1-profit-attributable-to-equity-holders-of-2-04-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:31:44+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SEDANIA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762M9:0",
+      "title": "Thriven Global Posts Q3 2026 Revenue Of 6.72 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762M9:0-thriven-global-posts-q3-2026-revenue-of-6-72-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:31:25+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:THRIVEN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3947238:0",
+      "title": "CIG: Lower LOTF amortization lifted 9M profit as the sequel moved to April 2027",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3947238:0-cig-lower-lotf-amortization-lifted-9m-profit-as-the-sequel-moved-to-april-2027/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:31:21+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:CIG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:af0b6226b094b:0",
+      "title": "Tim Hortons China said to weigh stake sale options",
+      "url": "https://seekingalpha.com/news/4676797-tim-hortons-china-said-to-weigh-stake-sale-options?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:31:10+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:THCH",
+          "NYSE:QSR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:5dd8786c4094b:0",
+      "title": "Form 8.5 (EPT/RI)-Gamma Communications Plc",
+      "url": "https://www.globenewswire.com/news-release/2026/11/26/3410716/0/en/form-8-5-ept-ri-gamma-communications-plc.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:31:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:GAMA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4773187:0",
+      "title": "Kepler Weber: Automation, recurring services and connected storage anchor the long-term growth agenda",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4773187:0-kepler-weber-automation-recurring-services-and-connected-storage-anchor-the-long-term-growth-agenda/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:30:55+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BMFBOVESPA:KEPL3"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:8f33f58419c9c:0",
+      "title": "FCC Authorizes SpaceX To Launch Million Data Satellites To Space For AI",
+      "url": "https://www.tradingview.com/news/dpa_afx:8f33f58419c9c:0-fcc-authorizes-spacex-to-launch-million-data-satellites-to-space-for-ai/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:30:45+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SPCX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770V3:0",
+      "title": "EP Manufacturing Says Ten An Nee Resigns As CFO",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770V3:0-ep-manufacturing-says-ten-an-nee-resigns-as-cfo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:30:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:EPMB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770ML:0",
+      "title": "Green Economy Development Expects Unaudited Net Loss Attributable Of HK$3.71 MLN For HY",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770ML:0-green-economy-development-expects-unaudited-net-loss-attributable-of-hk-3-71-mln-for-hy/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:30:18+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1315"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770V9:0",
+      "title": "AHB Reports QTRLY Loss Attributable To Equity Holders Of 6.23 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770V9:0-ahb-reports-qtrly-loss-attributable-to-equity-holders-of-6-23-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:30:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:AHB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:2132db12062cc:0",
+      "title": "dpa-AFX Overview: Analyst recommendations on U.K. stocks",
+      "url": "https://www.tradingview.com/news/dpa_afx:2132db12062cc:0-dpa-afx-overview-analyst-recommendations-on-u-k-stocks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:30:01+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "yahoo:https://finance.yahoo.com/news/one-proven-way-not-lose-103000392.html?.tsrc=rss",
       "title": "There’s one proven way not to lose during a market downturn. Ignore it and risk blowing up your entire financial future",
@@ -56,6 +1026,246 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "tradingview:modular_finance:720f14a7ed304:0",
+      "title": "Bulletin from the extraordinary general meeting of NOBA Bank Group AB (publ)",
+      "url": "https://www.tradingview.com/news/modular_finance:720f14a7ed304:0-bulletin-from-the-extraordinary-general-meeting-of-noba-bank-group-ab-publ/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:NOBA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126002032:0",
+      "title": "Chin Hin Group Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126002032:0-chin-hin-group-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:CHINHIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126002031:0",
+      "title": "Mobilia Holdings Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126002031:0-mobilia-holdings-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:MOBILIA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0cbab81370617:0",
+      "title": "NOBA Bank Group AB (publ) (NOBA) Approves SEK 2.70 Per-Share Dividend",
+      "url": "https://www.tradingview.com/news/tradingview:0cbab81370617:0-noba-bank-group-ab-publ-noba-approves-sek-2-70-per-share-dividend/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:NOBA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126002034:0",
+      "title": "Negri Sembilan Oil Palms Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126002034:0-negri-sembilan-oil-palms-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:NSOP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:1c7eac1e0cf4e:0",
+      "title": "Rakovina Therapeutics Inc. (RKV) Compounds Show Up to 58-Fold Greater Cell-Line Potency",
+      "url": "https://www.tradingview.com/news/tradingview:1c7eac1e0cf4e:0-rakovina-therapeutics-inc-rkv-compounds-show-up-to-58-fold-greater-cell-line-potency/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:RKV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:e9b40a82c094b:0",
+      "title": "Rakovina Therapeutics Showcases Promising AI-Designed ATR Inhibitors at Two Leading International Cancer Research Meetings",
+      "url": "https://www.globenewswire.com/news-release/2026/11/26/3410715/0/en/rakovina-therapeutics-showcases-promising-ai-designed-atr-inhibitors-at-two-leading-international-cancer-research-meetings.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:RKV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126002033:0",
+      "title": "Sedania Innovator Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126002033:0-sedania-innovator-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SEDANIA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:a4c6e998ce1c7:0",
+      "title": "xTAO Updates Validator to Support Recent Bittensor Network Updates",
+      "url": "https://www.tradingview.com/news/prnewswire:a4c6e998ce1c7:0-xtao-updates-validator-to-support-recent-bittensor-network-updates/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OTC:XTAIF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770SR:0",
+      "title": "Schaeffler India Says Schaeffler Schweinfurt Beteiligungs Sells 6.50% In Co",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770SR:0-schaeffler-india-says-schaeffler-schweinfurt-beteiligungs-sells-6-50-in-co/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:29:58+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:10.111420+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:SCHAEFFLER"
+        ]
+      }
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770QA:0",
@@ -39682,6 +40892,25 @@
       }
     },
     {
+      "id": "msn:39d9d2a8f69aa60ef45cd450911f11e8a114223a",
+      "title": "How Earnings Outlook And Analyst Upgrade At Guidewire Stock Has Changed Its Investment Story",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b080bd6e96b4574bed08e1bf637a2bf&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fearnings-outlook-analyst-upgrade-guidewire-100936144.html&c=9969458778845504775&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Definity Financial Corporation has already integrated Guidewire Software’s ProNavigator into its Vyne digital broker platform, giving brokers AI powered assistance directly inside existing workflows.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T10:09:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:11.820714+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:moneycontrol:07d5f4b60094b:0",
       "title": "Commodity Corner: Crude oil holds gains for second day on Middle East tensions; gold slips on rate hike concerns",
       "url": "https://www.tradingview.com/news/moneycontrol:07d5f4b60094b:0-commodity-corner-crude-oil-holds-gains-for-second-day-on-middle-east-tensions-gold-slips-on-rate-hike-concerns/",
@@ -64156,6 +65385,25 @@
       "extra": {}
     },
     {
+      "id": "msn:1f7132e7734fb76a54ac3c60e82591c1b73896e9",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b080bd6e96b4574bed08e1bf637a2bf&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:11.820714+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
       "title": "What Sent Qualcomm Stock Higher?",
       "url": "https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
@@ -67526,6 +68774,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T18:34:14.790932+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:be8c6b3ebb8711cd3cb681e4a4e1bf40ba9156db",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b080bd68ee04e1ba8a6e1d858e9563e&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:11.820714+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -85176,6 +86443,25 @@
       "extra": {}
     },
     {
+      "id": "msn:924b0300485767561c9971a5f52300c95c19b149",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b080bd68ee04e1ba8a6e1d858e9563e&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:11.820714+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -90300,6 +91586,25 @@
       "extra": {}
     },
     {
+      "id": "msn:a8a9d59d86bd4e5ffa96acc2b68e2af0bdc84924",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b080bd68ee04e1ba8a6e1d858e9563e&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:11.820714+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760YX:0",
       "title": "Equinor cuts 2026 production growth guidance",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760YX:0-equinor-cuts-2026-production-growth-guidance/",
@@ -95355,6 +96660,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T18:34:14.790932+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:97b9b9a28c9c42f2f313803efb0bc89b2448b492",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b080bd68ee04e1ba8a6e1d858e9563e&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T18:37:11.820714+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
