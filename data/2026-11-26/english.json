@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T09:04:20.237222+08:00",
-  "count": 1684,
+  "generated_at": "2026-11-26T09:07:13.436524+08:00",
+  "count": 1688,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 16,
+      "count": 17,
       "error": ""
     },
     {
@@ -38,6 +38,79 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4084173:0",
+      "title": "SICO: La Negra generated $24.6M in revenue as both mines target H1 2027 ramp-ups",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4084173:0-sico-la-negra-generated-24-6m-in-revenue-as-both-mines-target-h1-2027-ramp-ups/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:05:09+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:07:10.295340+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:SICO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47700R:0",
+      "title": "Brent oil may retrace into $92.84-$93.33 range",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47700R:0-brent-oil-may-retrace-into-92-84-93-33-range/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:05:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:07:10.295340+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ICEEUR:BRN1!",
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008501:0",
+      "title": "Telekom Malaysia Likely to Face Seasonal Cost Pressures in 4Q — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008501:0-telekom-malaysia-likely-to-face-seasonal-cost-pressures-in-4q-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:04:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:07:10.295340+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:TM"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_TUE17PP82:0",
       "title": "Blis Technologies Anticipates Double-Digit Revenue Growth For FY",
@@ -3879,6 +3952,30 @@
         "symbols": [
           "NASDAQ:PANW"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8810541",
+      "title": "US airlines face higher costs from proposed Embraer duty - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWpyd1BJdFpVWVVZa2U5Zzcxa2trQ29NTFItblc0Q0VJaWx3TEZvUjkwb1BlWXUwZW1vUXZSNkZSODduRzM5a1diUGJOdE1zc0dlb2lxNGhUaDhTVUJQUzk2b1JSZTRzSDBPenkxTVU0T2QtYlhsb2RGX0o1OG4tNkltblFaMUVRMk9hUEZsU2hGUlRVNnpNN3JIVGtWMkpUR0g0S3pSQUlYdkpUdTdfWkFQRGs?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "US airlines face higher costs from proposed Embraer duty Reuters",
+      "content": "US airlines face higher costs from proposed Embraer duty Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:25:43+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:07:10.563350+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
