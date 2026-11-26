@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T19:34:15.413839+08:00",
-  "count": 4855,
+  "generated_at": "2026-11-26T19:37:20.236256+08:00",
+  "count": 4887,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 7,
       "error": ""
     },
     {
@@ -38,6 +38,233 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8404Ea:0",
+      "title": "REG - Jefferies Intl Ltd Adv Medical Solutns. - Form 8.3 Advanced Medical Solutions Group",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8404Ea:0-reg-jefferies-intl-ltd-adv-medical-solutns-form-8-3-advanced-medical-solutions-group/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:36:53+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:AMS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770A3:0",
+      "title": "Copper bounces as AI-related equities recover",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770A3:0-copper-bounces-as-ai-related-equities-recover/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:36:52+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LME:CA1!",
+          "LME:AH1!",
+          "COMEX:ZNC1!",
+          "MCX:LEAD1!",
+          "MCX:NICKEL1!",
+          "MYX:FTIN1!",
+          "COMEX:HG1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4770P7:0",
+      "title": "When fear rises, but gold falls",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4770P7:0-when-fear-rises-but-gold-falls/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:36:46+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:GC1!",
+          "TVC:VIX",
+          "NASDAQ:NDX",
+          "BITSTAMP:BTCUSD",
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:eeb3c87a26c60:0",
+      "title": "UniCredit Seeks Extraordinary Commerzbank Meeting, Backs Andrea Orcel For Chairman Role",
+      "url": "https://www.tradingview.com/news/dpa_afx:eeb3c87a26c60:0-unicredit-seeks-extraordinary-commerzbank-meeting-backs-andrea-orcel-for-chairman-role/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:35:56+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:CBK",
+          "MIL:UCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:u_today:5b391f3bd094b:0",
+      "title": "One Vote Left: XRP's Bank-Style Lending Nears Activation Countdown",
+      "url": "https://u.today/one-vote-left-xrps-bank-style-lending-nears-activation-countdown",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "U.Today",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:35:15+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:XRPUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770Q7:0",
+      "title": "RedPlanet Posts Q1 Profit Attributable 1.58 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770Q7:0-redplanet-posts-q1-profit-attributable-1-58-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:34:47+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:RPLANET"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126002170_20261126002384:0",
+      "title": "Genting: Rev Increase Driven by Leisure & Hospitality, Plantation Divisions",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126002170_20261126002384:0-genting-rev-increase-driven-by-leisure-hospitality-plantation-divisions/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:34:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:GENTING"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:899b814235d51:0",
+      "title": "Loblaw Companies Limited (L) Opens Store, Creates 280 Jobs",
+      "url": "https://www.tradingview.com/news/tradingview:899b814235d51:0-loblaw-companies-limited-l-opens-store-creates-280-jobs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:34:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:L"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:7abfbe536094b:0",
+      "title": "Real Canadian Superstore® Celebrates Grand Opening at Buffalo Run on Tsuut’ina Nation",
+      "url": "https://www.globenewswire.com/news-release/2026/11/26/3410734/0/en/real-canadian-superstore-celebrates-grand-opening-at-buffalo-run-on-tsuut-ina-nation.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:34:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:L"
+        ]
+      }
+    },
     {
       "id": "alpaca:131277937",
       "title": "Advisory Alpha LLC Acquires Shares of The Progressive Corporation",
@@ -83,6 +310,63 @@
         "source": "fiscal.ai",
         "symbols": [
           "WFC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770CH:0",
+      "title": "Hong Kong's Luk Fook interim gross margin falls on lower gold prices",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770CH:0-hong-kong-s-luk-fook-interim-gross-margin-falls-on-lower-gold-prices/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:32:26+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:590"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:e8332558f094b:0",
+      "title": "RXO, Air France-KLM lead mid-cap industrial stocks on quant ratings",
+      "url": "https://seekingalpha.com/news/4676806-rxo-air-france-klm-lead-mid-cap-industrial-stocks-on-quant-ratings?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:32:16+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:RXO",
+          "OTC:AFLYY",
+          "NASDAQ:FA",
+          "NYSE:GEO",
+          "NYSE:FCN",
+          "NASDAQ:KTOS",
+          "NYSE:MOD",
+          "NASDAQ:ROAD",
+          "OTC:ALSMY",
+          "NYSE:ACHR"
         ]
       }
     },
@@ -303,6 +587,33 @@
       }
     },
     {
+      "id": "tradingview:seekingalpha:74ac325d5094b:0",
+      "title": "Z.AI reportedly lags on GLM-5.5 model after chip curbs; Moonshot warns",
+      "url": "https://seekingalpha.com/news/4676805-zai-reportedly-lags-on-glm-55-model-after-chip-curbs-moonshot-warns?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:31:37+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:OPENAI",
+          "NASDAQ:ANT",
+          "NYSE:BABA",
+          "HKEX:2513"
+        ]
+      }
+    },
+    {
       "id": "alpaca:131277699",
       "title": "Visa Launches New Version of Experimental AI Agent Wallet",
       "url": "https://glenbrook.com/payments-news/all-payments-news/",
@@ -447,6 +758,28 @@
       }
     },
     {
+      "id": "tradingview:modular_finance:20b4456fa8298:0",
+      "title": "Net Asset Value(s)",
+      "url": "https://www.tradingview.com/news/modular_finance:20b4456fa8298:0-net-asset-value-s/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:31:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770O6:0",
       "title": "Vestas Wins 293 MW Order In Romania From Rezolv Energy",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770O6:0-vestas-wins-293-mw-order-in-romania-from-rezolv-energy/",
@@ -471,6 +804,30 @@
       }
     },
     {
+      "id": "tradingview:gurufocus:fa5e86e2c094b:0",
+      "title": "Michael Burry Turns Bullish, Exits Nasdaq Shorts but Eyes Nvidia at $200",
+      "url": "https://www.gurufocus.com/news/9227603/michael-burry-turns-bullish-exits-nasdaq-shorts-but-eyes-nvidia-at-200",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:30:36+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770O8:0",
       "title": "Bayer To Invest Up To €500 Mln In Beijing Production Site",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770O8:0-bayer-to-invest-up-to-500-mln-in-beijing-production-site/",
@@ -491,6 +848,30 @@
         "urgency": 2,
         "symbols": [
           "XETR:BAYN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3684761:0",
+      "title": "SHIP: Record-strength shipping markets lifted NAV and profits as capital was selectively redeployed",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3684761:0-ship-record-strength-shipping-markets-lifted-nav-and-profits-as-capital-was-selectively-redeployed/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:30:32+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NGM:SHIP"
         ]
       }
     },
@@ -664,6 +1045,31 @@
       }
     },
     {
+      "id": "tradingview:acceswire:3094031b6094b:0",
+      "title": "Marimaca Receives Sectorial Permit for MOD Construction",
+      "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/marimaca-receives-sectorial-permit-for-mod-construction-1257044",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "ACCESS Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:30:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:MARI",
+          "ASX:MC2"
+        ]
+      }
+    },
+    {
       "id": "tradingview:modular_finance:fa3c9c579f736:0",
       "title": "Net Asset Value(s)",
       "url": "https://www.tradingview.com/news/modular_finance:fa3c9c579f736:0-net-asset-value-s/",
@@ -782,6 +1188,102 @@
       }
     },
     {
+      "id": "tradingview:tradingview:5137846671d81:0",
+      "title": "AKVA group ASA (AKVA) Funds Accept Offer for 6.5% Stake",
+      "url": "https://www.tradingview.com/news/tradingview:5137846671d81:0-akva-group-asa-akva-funds-accept-offer-for-6-5-stake/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:27:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:AKVA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:b0c015e6c094b:0",
+      "title": "AKVA group ASA: Notification of major holdings",
+      "url": "https://www.globenewswire.com/news-release/2026/11/26/3410733/0/en/akva-group-asa-notification-of-major-holdings.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:27:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:AKVA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:gurufocus:3f3972207094b:0",
+      "title": "Nvidia Wins Three Wall Street Upgrades as Jensen Huang Returns as CEO",
+      "url": "https://www.gurufocus.com/news/9227593/nvidia-wins-three-wall-street-upgrades-as-jensen-huang-returns-as-ceo",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:26:25+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:aeac32f2ac70d:0",
+      "title": "AKVA group ASA (AKVA) Shareholder Accepts Offer for Approximately 18% Stake",
+      "url": "https://www.tradingview.com/news/tradingview:aeac32f2ac70d:0-akva-group-asa-akva-shareholder-accepts-offer-for-approximately-18-stake/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:26:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:AKVA"
+        ]
+      }
+    },
+    {
       "id": "tradingview:urn:summary_document_slides:quartr.com:4842994:0",
       "title": "DSY: Superbank lifts FY29 Bank ambitions as integrated businesses target sustained growth",
       "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4842994:0-dsy-superbank-lifts-fy29-bank-ambitions-as-integrated-businesses-target-sustained-growth/",
@@ -825,6 +1327,30 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:58564d67c094b:0",
+      "title": "Urban Company enters AC market, promises free gas refills for five years",
+      "url": "https://www.tradingview.com/news/cnbctv:58564d67c094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:24:59+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:URBANCO"
+        ]
       }
     },
     {
@@ -1060,6 +1586,31 @@
       }
     },
     {
+      "id": "tradingview:gurufocus:e251cce89094b:0",
+      "title": "Micron and Sandisk Are Two of the Cheapest AI Chip Stocks to Own",
+      "url": "https://www.gurufocus.com/news/9227542/micron-and-sandisk-are-two-of-the-cheapest-ai-chip-stocks-to-own",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:23:51+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:MU",
+          "NASDAQ:SNDK"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_S8N4500A0:0",
       "title": "BoE's Bailey calls for international effort to test AI models",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N4500A0:0-boe-s-bailey-calls-for-international-effort-to-test-ai-models/",
@@ -1108,6 +1659,28 @@
       }
     },
     {
+      "id": "tradingview:cnbctv:82b0ad232094b:0",
+      "title": "India swaps, treasury bills signal possibility of outsized RBI rate hike next week",
+      "url": "https://www.tradingview.com/news/cnbctv:82b0ad232094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:22:35+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
       "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/michael-burry-flips-mostly-long-112229765.html?.tsrc=rss",
       "title": "Michael Burry flips mostly long as tech stocks slide",
       "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-flips-mostly-long-112229765.html?.tsrc=rss",
@@ -1125,6 +1698,31 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "tradingview:gurufocus:17050c90d094b:0",
+      "title": "Michael Burry flips mostly long as tech stocks slide",
+      "url": "https://www.gurufocus.com/news/9227536/michael-burry-flips-mostly-long-as-tech-stocks-slide",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:22:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.546652+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:PLTR",
+          "NASDAQ:NVDA"
+        ]
+      }
     },
     {
       "id": "tradingview:moodys:f46d849abfd13:0",
@@ -2015,6 +2613,25 @@
           "VIE:UBS"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.trefis.com/stock/nvda/articles/629192/nvidia-is-37-6-below-its-record-trim-or-hold/2026-11-26?.tsrc=rss",
+      "title": "Nvidia Is 37.6% Below Its Record. Trim Or Hold?",
+      "url": "https://www.trefis.com/stock/nvda/articles/629192/nvidia-is-37-6-below-its-record-trim-or-hold/2026-11-26?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia closed at $149.30 on Wednesday, Nov 25. Its record close was $239.24 on Tuesday, Oct 6. Wednesday's close was 37.6% below it. The QQQ fund fell 16.6% over the same stretch.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T19:11:08+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:12.627308+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8349Ea:0",
@@ -44338,6 +44955,25 @@
       }
     },
     {
+      "id": "msn:cf2aa6f9a88daa3000876541a0c86efb30864b69",
+      "title": "Stock Market Highlights, Sensex Today: Sensex Closes 400 Points Higher, Tech Shares Rally",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0819e83fb541b69a124456ca462302&url=https%3a%2f%2fwww.ndtv.com%2fbusiness-news%2fstock-market-sensex-share-market-nifty-live-updates-today-26-november-us-iran-war-oil-price-12378440&c=6434778918802922701&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stock Market Highlights: Both Sensex and Nifty opened and closed in the green on Thursday. At the open, Sensex gained 100 points while Nifty was up 20. At the close, Sensex was up 390 points while ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T11:02:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:14.673547+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "alpaca:131228278",
       "title": "Oreo Brand Launches Holiday Campaign Addressing 'Perfection Tax'",
       "url": "https://www.globenewswire.com/news-release/2026/11/25/3410577/0/en/no-baking-no-stress-all-magic-the-oreo-brand-and-ciara-invite-moms-to-dunk-into-the-holidays.html",
@@ -68107,6 +68743,25 @@
       "extra": {}
     },
     {
+      "id": "msn:6bf1afe9a8860bdd8340dd59a0d9cb27a6062ad1",
+      "title": "Is the stock market open today? Here are the trading hours for Thanksgiving.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0819e83fb541b69a124456ca462302&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-thanksgiving%2far-AA2ifPMA&c=15504855894997742158&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "It’s time to give thanks. What traders should know about the stock market on Thanksgiving.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:14.673547+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:seekingalpha:2e893931d094b:0",
       "title": "SA Asks: What should Nvidia investors be watching for in the next few weeks? (Update)",
       "url": "https://seekingalpha.com/news/4676388-sa-asks-what-should-nvidia-investors-be-watching-for-in-the-next-few-weeks?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
@@ -72033,6 +72688,25 @@
       "extra": {}
     },
     {
+      "id": "msn:b0701524d50938dfccb4a5a7e3f780c3e14ebb16",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0819e9caf1470cbacdcdbb598d117c&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:14.673547+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
       "title": "What Sent Qualcomm Stock Higher?",
       "url": "https://www.trefis.com/stock/qcom/articles/628621/what-sent-qualcomm-stock-higher/2026-11-25?.tsrc=rss",
@@ -75878,6 +76552,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T19:34:12.910392+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:052431c7ae3d90edac711b84dc969e4e15a07541",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0819e83fb541b69a124456ca462302&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:14.673547+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -93946,6 +94639,25 @@
       "extra": {}
     },
     {
+      "id": "msn:78b0d6aaaf80e6814dc8dc7fef5b42b34bd02150",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0819e83fb541b69a124456ca462302&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:14.673547+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -99450,6 +100162,25 @@
       "extra": {}
     },
     {
+      "id": "msn:a67e72cd46666f1e7bb6d2e6b80381ab7500aceb",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0819e83fb541b69a124456ca462302&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:14.673547+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760YX:0",
       "title": "Equinor cuts 2026 production growth guidance",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760YX:0-equinor-cuts-2026-production-growth-guidance/",
@@ -104904,6 +105635,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T19:34:12.910392+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:1be951b68b5972e4bb2cefb2313d46c428c31ad7",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0819e83fb541b69a124456ca462302&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T19:37:14.673547+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
