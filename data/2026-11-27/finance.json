@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T05:43:20.891356+08:00",
-  "count": 161,
+  "generated_at": "2026-11-27T05:58:20.583713+08:00",
+  "count": 162,
   "sources": [
     {
       "name": "cls",
@@ -21,7 +21,7 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 15,
+      "count": 16,
       "error": ""
     }
   ],
@@ -851,6 +851,25 @@
       "extra": {
         "important": 0
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacksq7883720.shtml",
+      "title": "三季度GDP数据大幅上修后，特朗普质疑数据操弄中期选举并要求调查",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacksq7883720.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "美国总统唐纳德·特朗普指责自己的政府“蓄意”低报美国经济增长，他抓住一次例行数据修正，以此作为其提出选举干预指控的依据，但并未提供任何证据。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T03:23:41+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T05:58:15.046472+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "jin10:20261127032049407800",
