@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T04:43:15.248894+08:00",
-  "count": 150,
+  "generated_at": "2026-11-27T05:04:23.800976+08:00",
+  "count": 151,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 12,
+      "count": 13,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaceks7990479.shtml",
+      "title": "原西班牙央行行长德科斯将出任欧洲央行行长",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaceks7990479.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "巴勃罗·埃尔南德斯·德科斯势将成为欧洲央行行长，负责领导欧元区应对通胀以及潜在的债券市场动荡。 欧洲理事会主席Antonio Costa周四发布声明称...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:03:51+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T05:04:20.543577+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacekw5768447.shtml",
       "title": "土耳其央行暂停1周期回购招标 净外储锐减之际或变相收紧金融状况",

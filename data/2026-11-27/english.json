@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T05:01:18.625569+08:00",
-  "count": 466,
+  "generated_at": "2026-11-27T05:04:23.792325+08:00",
+  "count": 476,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 8,
+      "count": 10,
       "error": ""
     },
     {
@@ -38,6 +38,194 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:coinmarketcal:c43f8a6d5094b:0",
+      "title": "RaveDAO: Unlocks 21.38 Million RAVE - Sep 2027",
+      "url": "https://coinmarketcal.com/event/token-unlock-8bb5db7d-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:00:24+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T05:04:19.859340+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:RAVEUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:4902ccc18094b:0",
+      "title": "RaveDAO: 21.38 million RAVE unlock - Aug 2027",
+      "url": "https://coinmarketcal.com/event/token-unlock-011617c5-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:00:19+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T05:04:19.859340+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:RAVEUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:3626818b2094b:0",
+      "title": "RaveDAO: 21.38 Million RAVE Unlocks - Jul 2027",
+      "url": "https://coinmarketcal.com/event/token-unlock-09e6feb7-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:00:13+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T05:04:19.859340+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:RAVEUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:77d978729094b:0",
+      "title": "Canadian Securities Exchange Welcomes Listing of Viro Resources Ltd",
+      "url": "https://www.newsfilecorp.com/release/325968/Canadian-Securities-Exchange-Welcomes-Listing-of-Viro-Resources-Ltd",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T05:04:19.859340+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:c3eea62978cc4:0",
+      "title": "Targinta secures patents in Europe, China and the USA for integrin α10 antibodies in aggressive cancers",
+      "url": "https://www.tradingview.com/news/modular_finance:c3eea62978cc4:0-targinta-secures-patents-in-europe-china-and-the-usa-for-integrin-10-antibodies-in-aggressive-cancers/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T05:04:19.859340+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:XINT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:49e2d58425f6e:0",
+      "title": "Viro Resources Ltd. (VIRO) Begins Trading on the CSE",
+      "url": "https://www.tradingview.com/news/tradingview:49e2d58425f6e:0-viro-resources-ltd-viro-begins-trading-on-the-cse/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T05:04:19.859340+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:VIRO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:30233230e1b7e:0",
+      "title": "Xintela AB (XINT) Secures Patents in Europe, China and the US",
+      "url": "https://www.tradingview.com/news/tradingview:30233230e1b7e:0-xintela-ab-xint-secures-patents-in-europe-china-and-the-us/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T05:04:19.859340+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:XINT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47714G:0",
+      "title": "Final New Zealand election vote count to confirm parliament make up",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47714G:0-final-new-zealand-election-vote-count-to-confirm-parliament-make-up/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:58:01+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T05:04:19.859340+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/26/spacex-is-a-great-company-is-it-a-great-stock-at-this-price/?.tsrc=rss",
       "title": "SpaceX Is a Great Company. Is It a Great Stock at This Price?",
@@ -4954,6 +5142,30 @@
       }
     },
     {
+      "id": "finnhub:8814648",
+      "title": "Turkish elections to be held in 2028, ruling alliance agrees on Erdogan candidacy, vice president says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWczelB1MldEZ2RSX1luOHBST0ZrMGtNMl81TTgwVE5fQTZtNnJxeElKMmlzSmdnLVpVTDRfVjluMVZSa09QaTluWGk5X2VTcEw2aFlPcmx1VmlsVHd5eUFMaWM4Nm5EX29OYlhlMzZyZW9fMmcxLUxkZ2kycGFiLWtQbU1jSVBsbWRwM3p0RDFEUU8yXzVOOGM5T3pRTWx0ZDZkTmptem0teU1WVjZCdk5lcDFpZ2F2UU1mbTVHOHJqRWVnRUFYdmR3?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Turkish elections to be held in 2028, ruling alliance agrees on Erdogan candidacy, vice president says Reuters",
+      "content": "Turkish elections to be held in 2028, ruling alliance agrees on Erdogan candidacy, vice president says Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:41:43+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T05:04:20.596539+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "tradingview:gurufocus:4205a6082094b:0",
       "title": "Cathie Wood Buys $87.8 Million in Anthropic Shares This Week",
       "url": "https://www.gurufocus.com/news/9227764/cathie-wood-buys-878-million-in-anthropic-shares-this-week",
@@ -5354,6 +5566,30 @@
         "symbols": [
           "GPW:ECB"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8814647",
+      "title": "Iraq closes two border crossings in Kurdistan region with Syria and Iran - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXo4cXNsVjIzOVYyWnIxR1JOUjY5UUkzU0xCSXc2ampKcnhKajJ2VjdjWWdzSkY3QlV5Z0xNQkd1aUtKUWh6d19mMXlsTEc5RTk3T0NvbkJyM2Y4VWZ5bW9sRFhUX2Q4aGx5dGhLLXVLb0VDWDFaSGQ0eGZaZVRacTVlWkx1eVYwZEwwUWNSZEFpVGlQbVA5dkRGWXVmeHlpYzE5VFB3NVo5TzBmWHk1YXZjZmN2XzZjdS0w?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Iraq closes two border crossings in Kurdistan region with Syria and Iran Reuters",
+      "content": "Iraq closes two border crossings in Kurdistan region with Syria and Iran Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:32:41+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T05:04:20.596539+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
