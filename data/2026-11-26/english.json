@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T23:36:25.988618+08:00",
-  "count": 6682,
+  "generated_at": "2026-11-26T23:37:16.967031+08:00",
+  "count": 6694,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 8,
+      "count": 9,
       "error": ""
     },
     {
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4636029:0",
+      "title": "QEC: October recovery and 2027 technology milestones balance production with Quebec upside",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4636029:0-qec-october-recovery-and-2027-technology-milestones-balance-production-with-quebec-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:36:22+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:37:12.575609+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:QEC"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8758Ea:0",
       "title": "REG - Capital Group Co. Prologis, Inc. - Form 8.3 - Prologis, Inc.",
@@ -59,6 +83,31 @@
         "urgency": 2,
         "symbols": [
           "NYSE:PLD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:372043c8b094b:0",
+      "title": "US stock market holiday November 26: NYSE, Nasdaq closed for Thanksgiving; check Black Friday timings",
+      "url": "https://www.tradingview.com/news/cnbctv:372043c8b094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:32:50+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:37:12.575609+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NDAQ",
+          "TVC:DJI"
         ]
       }
     },
@@ -687,6 +736,25 @@
           "OMXCOP:GERHSP"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/26/the-economy-grew-way-faster-than-first-reported-q3-gdp-revised-up-to-4-3/?.tsrc=rss",
+      "title": "The Economy Grew Way Faster Than First Reported: Q3 GDP Revised Up to 4.3%",
+      "url": "https://247wallst.com/investing/2026/11/26/the-economy-grew-way-faster-than-first-reported-q3-gdp-revised-up-to-4-3/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "A blockbuster growth revision sounds like a green light for stocks, yet the market barely cheered. Behind the headline sits a boom that is narrower than it looks, plus an inflation reading that complicates the rate-cut story.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:28:09+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:37:12.375865+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_TUE3GJCK0:0",
@@ -62165,6 +62233,25 @@
       "extra": {}
     },
     {
+      "id": "msn:48777f66c6d9bc113f480fd46500b86d332a397d",
+      "title": "Haw Par (SGX:H02) Stock Could Still Be A Bargain On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0852299da548fda3f4025118c751bb&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fhaw-par-sgx-h02-stock-141535498.html&c=5647383070371438093&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Haw Par has had a mixed share price journey, with a sizeable gain over three years sitting alongside weaker recent returns. That raises a simple question for you as an investor: Is the current ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T14:14:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:37:14.844906+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47705K:0",
       "title": "Austria's high-precision components maker SBO 9-month sales fall",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47705K:0-austria-s-high-precision-components-maker-sbo-9-month-sales-fall/",
@@ -67042,6 +67129,25 @@
       "published_at": "2026-11-26T13:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:36:25.160817+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:871dfd54997a5a2ddfb971d302a8e6cd906204dc",
+      "title": "American Eagle (AEO) Q3 Earnings on the Horizon: Analysts' Insights on Key Performance Measures",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0852299da548fda3f4025118c751bb&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2famerican-eagle-aeo-q3-earnings-131503649.html&c=11151481804676611727&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Besides Wall Street's top-and-bottom-line estimates for American Eagle (AEO), review projections for some of its key metrics to gain a deeper understanding of how the company might have fared during ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:37:14.844906+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -100632,6 +100738,25 @@
       "extra": {}
     },
     {
+      "id": "msn:bf574979da387ae084eb666a371cf68cf6635c49",
+      "title": "Is the stock market open today? Here are the trading hours for Thanksgiving.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08522817df44df999b97b7a98d957f&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-thanksgiving%2far-AA2ifPMA&c=15504855894997742158&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "It’s time to give thanks. What traders should know about the stock market on Thanksgiving.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:37:14.844906+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:seekingalpha:2e893931d094b:0",
       "title": "SA Asks: What should Nvidia investors be watching for in the next few weeks? (Update)",
       "url": "https://seekingalpha.com/news/4676388-sa-asks-what-should-nvidia-investors-be-watching-for-in-the-next-few-weeks?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
@@ -102091,6 +102216,25 @@
       "published_at": "2026-11-26T04:46:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:25:13.130503+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:de121aa55bdcca9c1d334352931d11018e6c9831",
+      "title": "Impax International Sustainable Economy Fund Q3 2026 Commentary",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08522934e7446c90ac12dc1161024a&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972127-impax-international-sustainable-economy-fund-q3-2026-commentary&c=8664322210550933104&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Impax International Sustainable Economy Fund portfolio outperformed the MSCI EAFE benchmark in the third quarter of 2026.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:46:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:37:14.844906+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -105920,6 +106064,25 @@
       "published_at": "2026-11-26T04:24:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:34:14.574808+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:7f11156e1c2b85310c7c6a56a5d83eecb930c5af",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0852299da548fda3f4025118c751bb&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:37:14.844906+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -111462,6 +111625,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:36:25.160817+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:30bf955516564bb64298a74fb5fcb41e90097a05",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08522817df44df999b97b7a98d957f&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:37:14.844906+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -131165,6 +131347,25 @@
       "extra": {}
     },
     {
+      "id": "msn:cad53e34676a649405d844440e34ced1818ca9ff",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08522817df44df999b97b7a98d957f&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:37:14.844906+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -138126,6 +138327,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:36:25.160817+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:67ea9b4cdee6b6ce5647ee06b30b7a7136844af6",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08522817df44df999b97b7a98d957f&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:37:14.844906+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -145106,6 +145326,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:36:25.160817+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:1b175f7e1c7ffa0a5664f785db9f89dd01cc13f9",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08522817df44df999b97b7a98d957f&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:37:14.844906+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
