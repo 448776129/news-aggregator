@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T13:25:24.395547+08:00",
-  "count": 2466,
+  "generated_at": "2026-11-26T13:28:11.464424+08:00",
+  "count": 2491,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 6,
       "error": ""
     },
     {
@@ -39,6 +39,414 @@
   ],
   "items": [
     {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762KY:0",
+      "title": "Quratis Wins 533 Million Won Order",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762KY:0-quratis-wins-533-million-won-order/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:26:32+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:348080"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762DB:0",
+      "title": "Tes Co Ltd To Cancel 5 Billion Won Worth Of Own Shares",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762DB:0-tes-co-ltd-to-cancel-5-billion-won-worth-of-own-shares/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:25:51+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:095610"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N47705K:0",
+      "title": "Congo's Ebola cases exceed 12,000 as responders struggle to contain outbreak",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N47705K:0-congo-s-ebola-cases-exceed-12-000-as-responders-struggle-to-contain-outbreak/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:25:35+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4837109:0",
+      "title": "MVF: FY 2027 pressure meets a transformation focused on patient experience and productivity",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4837109:0-mvf-fy-2027-pressure-meets-a-transformation-focused-on-patient-experience-and-productivity/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:25:25+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:MVF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000043_20261126000049:0",
+      "title": "Sime Darby: Sees Growth Potential in Power Systems Business, Buoyed by Rising Data-Center Demand",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000043_20261126000049:0-sime-darby-sees-growth-potential-in-power-systems-business-buoyed-by-rising-data-center-demand/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:25:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SIME"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762NZ:0",
+      "title": "Veranda Learning Solutions Says Unit Gets Tax Demand Of 21.9 Million Rupees For FY2020-21 To FY2023-24",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762NZ:0-veranda-learning-solutions-says-unit-gets-tax-demand-of-21-9-million-rupees-for-fy2020-21-to-fy2023-24/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:24:35+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:VERANDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N47706X:0",
+      "title": "Borusan Boru Says, U.S. Unit secures new sales orders of about $127 mln",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N47706X:0-borusan-boru-says-u-s-unit-secures-new-sales-orders-of-about-127-mln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:24:34+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BIST:BRSAN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:854a6a4d1094b:0",
+      "title": "Buy Siemens; target of Rs 4,300: Emkay",
+      "url": "https://www.tradingview.com/news/moneycontrol:854a6a4d1094b:0-buy-siemens-target-of-rs-4-300-emkay/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:24:10+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:SIE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000043_20261126000047:0",
+      "title": "Sime Darby: See Short-Term Challenge in Industrial Division Customers Deferring Spending",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000043_20261126000047:0-sime-darby-see-short-term-challenge-in-industrial-division-customers-deferring-spending/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SIME"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4770BU:0",
+      "title": "India orders tougher surveillance of packaged water, scrutiny set to cover PepsiCo, Coca-Cola",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4770BU:0-india-orders-tougher-surveillance-of-packaged-water-scrutiny-set-to-cover-pepsico-coca-cola/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:23:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:PEP",
+          "NSE:TATACONSUM",
+          "NYSE:KO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4770AW:0",
+      "title": "South Africa's Tiger Brands says fiscal 2027 will remain challenging",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4770AW:0-south-africa-s-tiger-brands-says-fiscal-2027-will-remain-challenging/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:23:13+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "JSE:TBS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000043_20261126000044:0",
+      "title": "Sime Darby: 1Q Net Profit Rose 17% on Year",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000043_20261126000044:0-sime-darby-1q-net-profit-rose-17-on-year/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:23:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SIME"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000043_20261126000046:0",
+      "title": "Sime Darby: Faced Market Headwinds in China, Australia",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000043_20261126000046:0-sime-darby-faced-market-headwinds-in-china-australia/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:23:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SIME"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000043_20261126000045:0",
+      "title": "Sime Darby: Profit Rose on Earnings From Property Development in UMW Division",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000043_20261126000045:0-sime-darby-profit-rose-on-earnings-from-property-development-in-umw-division/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:23:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SIME"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762KX:0",
+      "title": "Hvm Co Ltd Wins 11 Billion Won Order",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762KX:0-hvm-co-ltd-wins-11-billion-won-order/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:22:33+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:295310"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762NY:0",
+      "title": "Fadu Wins 20.4 Billion Won Order",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762NY:0-fadu-wins-20-4-billion-won-order/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:22:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:440110"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000043_20261126000043:0",
+      "title": "Sime Darby: 1Q Rev Fell 7.4% on Year",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000043_20261126000043:0-sime-darby-1q-rev-fell-7-4-on-year/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:22:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SIME"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4770A8:0",
       "title": "US famine monitor to halt reporting as funding shortfall hits staff, sources say",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4770A8:0-us-famine-monitor-to-halt-reporting-as-funding-shortfall-hits-staff-sources-say/",
@@ -52,6 +460,28 @@
       "published_at": "2026-11-26T13:21:01+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T13:22:10.864484+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126000042:0",
+      "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan — Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126000042:0-asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:21:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -256,6 +686,32 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:6016f7926094b:0",
+      "title": "Price Action: LG Electronics slips 2% as 2.05% equity changes hands; Siemens Energy jumps 5% after Q4 profit surges 81.5%",
+      "url": "https://www.tradingview.com/news/moneycontrol:6016f7926094b:0-price-action-lg-electronics-slips-2-as-2-05-equity-changes-hands-siemens-energy-jumps-5-after-q4-profit-surges-81-5/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:17:15+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:07.166647+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:066570",
+          "NSE:ENRIN",
+          "NSE:AVALON"
+        ]
       }
     },
     {
@@ -27607,6 +28063,25 @@
       "extra": {}
     },
     {
+      "id": "msn:e670f7be8572c8408f68b37b828d3bf4045d2653",
+      "title": "Impax International Sustainable Economy Fund Q3 2026 Commentary",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c3677ae749a3a6a7351f88d8f566&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972127-impax-international-sustainable-economy-fund-q3-2026-commentary&c=8664322210550933104&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Impax International Sustainable Economy Fund portfolio outperformed the MSCI EAFE benchmark in the third quarter of 2026.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:46:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:09.350635+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8811273",
       "title": "US authorizes SpaceX to deploy 1 million satellites for data centers in space - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVk5uRnprd285MEw5V2prcHR6bXljVGN4cUZuOHA4eHJUZkFzOVFnS1QtYnZaal8yYUYxa0t1cW84WjVzQWpub0czSGxUblh3STB6WnZxcThWZUxNRDk2emliZ0tfTmk5U3YxY3FZRXdEYWNyb2VMTmlkZE5RNWZHOS12OWdjSkpNdzhGU0Z4NWo3VmpSZHNXWGNJZUFpZjl2T2xuUkRKRXBpOTFqVFdFLXFvV0xHd1czWDFKbFU3OWFGU21B?oc=5",
@@ -28732,6 +29207,25 @@
       "published_at": "2026-11-26T04:24:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T13:13:21.782524+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:ed8058b75315c55c458dd6cc340ef26020b94d45",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c367bcbb467d9a2ecb5caba25b03&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:09.350635+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -30113,6 +30607,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T13:25:13.449743+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6c8605a7f840a6e64d60e61238afa21f35eda0ed",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c3674ac14076b65989cfa0fb53d4&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:09.350635+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -45739,6 +46252,25 @@
       "extra": {}
     },
     {
+      "id": "msn:3522df3157134a240554d3c5a51a1c54b34b7916",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c3674ac14076b65989cfa0fb53d4&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:09.350635+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -48672,6 +49204,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T13:25:13.449743+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:1b9d5fbbf43fa58d4d00ddefd207347d457e8e55",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c3674ac14076b65989cfa0fb53d4&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:09.350635+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -51757,6 +52308,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T13:25:13.449743+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:7cb2a7c997e3bb3109480fc35ed7fd83de61ff01",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07c3674ac14076b65989cfa0fb53d4&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T13:28:09.350635+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
