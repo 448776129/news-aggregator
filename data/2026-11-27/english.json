@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T01:13:22.759767+08:00",
-  "count": 183,
+  "generated_at": "2026-11-27T01:16:15.616761+08:00",
+  "count": 185,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 11,
+      "count": 12,
       "error": ""
     }
   ],
@@ -88,6 +88,25 @@
           "OMXHEX:BETOLAR"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-enjoy-another-bounce-023024729.html?.tsrc=rss",
+      "title": "European stocks rally as tech jitters ease",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-enjoy-another-bounce-023024729.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "European stock markets rallied Thursday after gains in Asia, as the technology sector stabilised ahead of a long holiday weekend in the US, with Wall Street closed for Thanksgiving.Wall Street stocks pared huge early declines on Wednesday as tech shares partially recovered from the sell-off, just in time for the Thanksgiving holiday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:09:40+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:16:11.304978+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760YK:0",
@@ -279,6 +298,25 @@
           "HKEX:866"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/26/stock-split-watch-3-industrial-stocks-that-could-split-in-2027/?.tsrc=rss",
+      "title": "Stock-Split Watch: 3 Industrial Stocks That Could Split in 2027",
+      "url": "https://www.fool.com/investing/2026/11/26/stock-split-watch-3-industrial-stocks-that-could-split-in-2027/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "These three high-priced industrial stocks could be credible 2027 split candidates.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:05:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:16:11.304978+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L5N4740VW:0",
