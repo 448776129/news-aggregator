@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T07:34:16.583971+08:00",
-  "count": 9571,
+  "generated_at": "2026-11-27T07:37:18.190594+08:00",
+  "count": 9573,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     },
     {
@@ -76894,6 +76894,25 @@
       "extra": {}
     },
     {
+      "id": "msn:76e40607b7af9a05f48d3fa6c3a77cef29e4afa0",
+      "title": "Track Current Stock Market Data On The S&P 500, Nasdaq, Dow Jones And SPDR ETFs",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c2a82cc94947aaebc4df528d443b&url=https%3a%2f%2fwww.investors.com%2fresearch%2fstock-market-data-dow-jones-sp-500-nasdaq-spdr-etfs%2f&c=8312453295408297792&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Check the current stock market data, including prices and performance of the Dow Jones Industrial Average, S&P 500, Nasdaq and the Russell 2000. Plus, track the SPDR ETFs, CBOE Volatility Index (VIX), ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T18:39:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-27T07:37:17.826032+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760JX:0",
       "title": "EU postpones discussion to approve Tesla's self-driving tech",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760JX:0-eu-postpones-discussion-to-approve-tesla-s-self-driving-tech/",
@@ -106387,6 +106406,25 @@
       "published_at": "2026-11-25T17:00:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-27T07:34:14.514658+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:86810b0a60303b0edfd75bbfba73d1802ae2c0a2",
+      "title": "Is the Stock Market Open on Thanksgiving Day 2026?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08c2a82cc94947aaebc4df528d443b&url=https%3a%2f%2fwww.newsweek.com%2fstock-market-thanksgiving-2026-12761725&c=5194482333637650025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "U.S. stock markets will close for Thanksgiving 2026, with the NYSE and Nasdaq reopening for shorter hours on Friday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:00:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-27T07:37:17.826032+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
