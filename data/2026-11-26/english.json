@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T09:43:16.628382+08:00",
-  "count": 1818,
+  "generated_at": "2026-11-26T09:46:18.802129+08:00",
+  "count": 1826,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,82 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N477016:0",
+      "title": "South Korea to unveil EV industry support measures as Chinese competition grows",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N477016:0-south-korea-to-unveil-ev-industry-support-measures-as-chinese-competition-grows/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:45:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:15.430828+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:TSLA",
+          "KRX:000270",
+          "KRX:005380",
+          "SZSE:002594"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:8d1e5210f094b:0",
+      "title": "Fed Rate Hike Odds Hit 98%, But Eric Jackson Says It’s Time To Cut – Robin Brooks Warns Of ‘Full Meltdown’",
+      "url": "https://stocktwits.com/news-articles/markets/equity/eric-jackson-fed-rate-cuts-december-robin-brooks/cNbxdCuR9Zb",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:43:47+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:15.430828+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:QQQ",
+          "NASDAQ:TLT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261125008500:0",
+      "title": "BOJ's Tamura Urges Timely Rate Hikes, Bolstering Case for December Move",
+      "url": "https://www.tradingview.com/news/DJN_DN20261125008500:0-boj-s-tamura-urges-timely-rate-hikes-bolstering-case-for-december-move/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:15.430828+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 1,
+        "symbols": [
+          "TSE:8301"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N477013:0",
       "title": "Dollar steady as sliding yields temper safe-haven bid",
@@ -318,6 +394,28 @@
         "symbols": [
           "NASDAQ:ANT"
         ]
+      }
+    },
+    {
+      "id": "tradingview:eqs:f68cc1bc7094b:0",
+      "title": "Two Solidcore employees included in the 100 Global Inspirational Women in Mining list",
+      "url": "https://www.eqs-news.com/news/corporate-news/two-solidcore-employees-included-in-the-100-global-inspirational-women-in-mining-list/cd154cc1-7640-4f51-b8ce-746b215baecc_en",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "EQS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:30:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:15.430828+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -34845,6 +34943,25 @@
       "extra": {}
     },
     {
+      "id": "msn:72abed57a82dc94ed248a55fcf9343f9ccdd7bef",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b078f6707454a7b90d53c2fbc919848&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:17.295281+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -36296,6 +36413,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T09:43:16.319874+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:397987798764a5583d69465cdda826879895245e",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b078f6707454a7b90d53c2fbc919848&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:17.295281+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -37975,6 +38111,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T09:43:16.319874+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:e0e54c23307e1de5586b62fd7a111a3c46077e83",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b078f6707454a7b90d53c2fbc919848&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:17.295281+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -42995,6 +43150,25 @@
       "published_at": "2026-11-26T00:00:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T09:43:16.319874+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:9c89bcca23a426418088796ebbe831e3d1616b0b",
+      "title": "Has Lamb Weston Holdings (LW) Fallen Far Enough On Earnings?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b078f6720f64ceca7c2a09b9bf75eff&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2flamb-weston-holdings-lw-fallen-011807376.html&c=13083530927659682156&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Lamb Weston Holdings has seen its share price move in different directions over recent years, and that mixed performance puts the focus squarely on one issue for investors. The question is how well ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:17.295281+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",

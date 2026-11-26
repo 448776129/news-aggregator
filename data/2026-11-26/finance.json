@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T09:43:16.651940+08:00",
-  "count": 716,
+  "generated_at": "2026-11-26T09:46:18.836168+08:00",
+  "count": 727,
   "sources": [
     {
       "name": "cls",
@@ -27,6 +27,46 @@
   ],
   "items": [
     {
+      "id": "sina:https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-26/doc-inizzmzn8218561.shtml",
+      "title": "钧达股份盘初大涨超17% 太空算力迎重磅催化",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-26/doc-inizzmzn8218561.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "新浪港股",
+      "summary": "钧达股份（02865）盘初大涨超17%，截至发稿，股价上涨12.50%，现报9.68港元，成交额5457.10万港元。 马斯克把AI算力送上太空更近一步。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:44:22+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:15.165597+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261126094029646800",
+      "title": "港股新能源车企股回升，理想汽车(02015.HK)涨超11%，蔚来-SW(09866.HK)涨超5%，小鹏集团(09868.HK)、北京汽车(01958.HK)",
+      "url": "https://www.jin10.com/#/flash/20261126094029646800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "港股新能源车企股回升，理想汽车(02015.HK)涨超11%，蔚来-SW(09866.HK)涨超5%，小鹏集团(09868.HK)、北京汽车(01958.HK)、小米集团(01810.HK)、零跑汽车(09863.HK)等个股跟涨。理想汽车日前披露，公司第三季度收入总额288.34亿元，同比增长5.4%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:40:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:14.226526+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-26/doc-inizzmzn8213546.shtml",
       "title": "理想汽车-W绩后高开逾10% 第三季度营收超预期且亏损收窄",
       "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-26/doc-inizzmzn8213546.shtml",
@@ -44,6 +84,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261126094006742800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261126094006742800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:40:06+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:14.226526+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "sina:https://finance.sina.com.cn/money/future/fmnews/2026-11-26/doc-inizzmzn8213291.shtml",
@@ -65,6 +126,69 @@
       "extra": {}
     },
     {
+      "id": "jin10:20261126093920939800",
+      "title": "AI-heavy bets battered as Situational Awareness loses 65% in Q3",
+      "url": "https://www.jin10.com/#/flash/20261126093920939800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Hedge fund Situational Awareness lost 65% after fees in the third quarter, the Wall Street Journal reported. Founder Leopold Aschenbrenner told investors the fund was still up 88.5% after fees year to date through Sept. 30 and continued to see investments with high return potential. He said recent turmoil had prompted more cautious risk management: “Volatility is acceptable, but we must never take risks that threaten survival, even if we are completely wrong.” A brief AI scare in July triggered margin calls from banks and brought the fund close to collapse. It ultimately sold most of its public-equity portfolio to Citadel. The reported performance does not reflect October’s market selloff.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:39:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:14.226526+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126093917385800",
+      "title": "【AI投资重仓押注遭遇重创 Situational Awareness三季度亏损65%】金十数据11月26日讯，据《华尔街日报》报道，对冲基金Situation",
+      "url": "https://www.jin10.com/#/flash/20261126093917385800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【AI投资重仓押注遭遇重创 Situational Awareness三季度亏损65%】金十数据11月26日讯，据《华尔街日报》报道，对冲基金Situational Awareness告知投资者，该基金第三季度扣除费用后亏损65%。创始人Leopold Aschenbrenner在一封致投资者信函中表示，截至9月底，该基金今年以来扣除费用后仍上涨88.5%。但该基金仍认为，市场上存在具有较高回报潜力的投资机会。Aschenbrenner在信中表示，他已从近期的动荡中吸取教训，正在采取更加审慎的风险管理方式。他表示：“波动性可以接受，但绝不能承担可能危及生存的风险，即使我们完全判断错误也不例外。”今年7月，市场对人工智能的短暂恐慌情绪席卷全球市场，银行随之发出追加保证金通知，Situational Awareness一度濒临崩溃。最终，该公司将其公开市场股票投资组合中的大部分资产出售给城堡投资。此次信函中提及的业绩并未反映10月份市场的抛售行情。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:39:17+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:14.226526+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126093904807800",
+      "title": "Hong Kong-listed optical communications stocks rebound; Robotechnik gains more t",
+      "url": "https://www.jin10.com/#/flash/20261126093904807800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Hong Kong-listed optical communications stocks rebound; Robotechnik gains more than 10%, Innolight rises over 6%, and Hua Hong Semiconductor, Dongshan Precision and Lightelligence-P also advance.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:39:04+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:14.226526+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/money/future/fmnews/2026-11-26/doc-inizzmzn8212052.shtml",
       "title": "中信建投期货：11月26日黑色系早报",
       "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-26/doc-inizzmzn8212052.shtml",
@@ -84,6 +208,27 @@
       "extra": {}
     },
     {
+      "id": "jin10:20261126093902116800",
+      "title": "港股光通信股回升，罗博特科(03757.HK)涨超10%，中际旭创(03308.HK)涨超6%，华虹宏力(01347.HK)、东山精密(02384.HK)、曦智",
+      "url": "https://www.jin10.com/#/flash/20261126093902116800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "港股光通信股回升，罗博特科(03757.HK)涨超10%，中际旭创(03308.HK)涨超6%，华虹宏力(01347.HK)、东山精密(02384.HK)、曦智科技-P(01879.HK)等个股跟涨。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:39:02+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:14.226526+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-26/doc-inizzmzr3805785.shtml",
       "title": "挚达科技早盘高开逾9% 获头部车企2亿元充电机器人量产供应订单",
       "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-26/doc-inizzmzr3805785.shtml",
@@ -101,6 +246,48 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261126093812636800",
+      "title": "Hong Kong-listed LLM stocks rebound, with Zhipu (02513.HK) up more than 10% and ",
+      "url": "https://www.jin10.com/#/flash/20261126093812636800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "Hong Kong-listed LLM stocks rebound, with Zhipu (02513.HK) up more than 10% and MiniMax-W (00100.HK) up more than 9%.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:38:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:14.226526+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261126093810776800",
+      "title": "港股大模型股回升，智谱(02513.HK)涨超10%，MINIMAX-W(00100.HK)涨超9%。",
+      "url": "https://www.jin10.com/#/flash/20261126093810776800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "港股大模型股回升，智谱(02513.HK)涨超10%，MINIMAX-W(00100.HK)涨超9%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:38:10+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:14.226526+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "sina:https://finance.sina.com.cn/money/future/fmnews/2026-11-26/doc-inizzmzn8210285.shtml",
@@ -177,6 +364,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261126093549050800",
+      "title": "A-share retail stocks rose selectively, with Hangzhou Jiebai, Zhuhai Duty Free G",
+      "url": "https://www.jin10.com/#/flash/20261126093549050800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "A-share retail stocks rose selectively, with Hangzhou Jiebai, Zhuhai Duty Free Group, Shanghai New World and Nanjing Central Emporium hitting the 10% limit. Jiajiayue, Xinhua Department Store and Yinch zuo shares also advanced.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:35:49+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:14.226526+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261126093546432800",
@@ -1116,6 +1324,25 @@
       "extra": {
         "important": 0
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/money/future/hyxh/2026-11-26/doc-inizzmzr3797854.shtml",
+      "title": "中央气象台：每 日 天 气 提 示（2026年11月26日）",
+      "url": "https://finance.sina.com.cn/money/future/hyxh/2026-11-26/doc-inizzmzr3797854.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "",
+      "summary": "来源：中央气象台网站 昨日（25日），全国降水总体较弱，冷空气影响结束后北方气温回升。气象监测显示，今晨，长江以北大部地区升温幅度普遍有4~8℃，局地超过12℃。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:30:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:46:15.165597+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "jin10:20261126093028118800",
