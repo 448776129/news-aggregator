@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T16:07:18.596682+08:00",
-  "count": 3469,
+  "generated_at": "2026-11-26T16:10:13.110480+08:00",
+  "count": 3500,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 7,
       "error": ""
     },
     {
@@ -38,6 +38,151 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8016Ea:0",
+      "title": "REG - Aura Energy Limited - Appointment of Director and Appendix 3X",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8016Ea:0-reg-aura-energy-limited-appointment-of-director-and-appendix-3x/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:08:55+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:AEE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762LP:0",
+      "title": "Kafr El Zayat Pesticides And Chemicals' 14.4 Mln Shares Block Traded For EGP 133.9 Mln- EGX",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762LP:0-kafr-el-zayat-pesticides-and-chemicals-14-4-mln-shares-block-traded-for-egp-133-9-mln-egx/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:06:56+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EGX:KZPC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762LN:0",
+      "title": "Afry Gets Framework Agreement With Bane Nor In Norway",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762LN:0-afry-gets-framework-agreement-with-bane-nor-in-norway/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:05:22+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:AFRY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:557720e1afcff:0",
+      "title": "Additional regulated information required to be disclosed under the laws of a member state",
+      "url": "https://www.tradingview.com/news/modular_finance:557720e1afcff:0-additional-regulated-information-required-to-be-disclosed-under-the-laws-of-a-member-state/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:05:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:2020"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762LM:0",
+      "title": "Essity Begins Electric Freight Operations With Einride",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762LM:0-essity-begins-electric-freight-operations-with-einride/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:04:54+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ENRD",
+          "OMXSTO:ESSITY_A"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762OR:0",
+      "title": "Minesto Advances Dragon Technology, Tidal Energy Sector Consolidates",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762OR:0-minesto-advances-dragon-technology-tidal-energy-sector-consolidates/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:04:26+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:MINEST"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8011Ea:0",
       "title": "REG - Aura Energy Limited - Results of 2026 AGM and Election of Director",
@@ -2020,6 +2165,433 @@
         "urgency": 2,
         "symbols": [
           "LSE:EZJ"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://beincrypto.com/sp-nvidia-credit-rating-downgrade-watch/?.tsrc=rss",
+      "title": "S&P Weighs Nvidia Downgrade Despite Huang's Return. What Would a Cut Mean?",
+      "url": "https://beincrypto.com/sp-nvidia-credit-rating-downgrade-watch/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "S&P Global Ratings may cut Nvidia's AA credit rating within 90 days over board oversight concerns after Huang's return.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.270322+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:tradingview:b0830340d9206:0",
+      "title": "Key facts: ANF Posts 15.5% Margin; Analysts Split on Ratings",
+      "url": "https://www.tradingview.com/news/tradingview:b0830340d9206:0-key-facts-anf-posts-15-5-margin-analysts-split-on-ratings/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:ANF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:03c3ee83c9920:0",
+      "title": "Key facts: Citi Weighs Venezuela Return; Samsung C&T Uses Citi Tokens",
+      "url": "https://www.tradingview.com/news/tradingview:03c3ee83c9920:0-key-facts-citi-weighs-venezuela-return-samsung-c-t-uses-citi-tokens/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:C"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:fb19c04fc4c02:0",
+      "title": "Key facts: DKS Raises FY2026 EPS Guidance; Analysts Lift Price Targets",
+      "url": "https://www.tradingview.com/news/tradingview:fb19c04fc4c02:0-key-facts-dks-raises-fy2026-eps-guidance-analysts-lift-price-targets/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DKS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:f0d055833fd79:0",
+      "title": "Key facts: Dell Q3 Beat; AI Soars, Shares Fall; Supply Tight to 2027",
+      "url": "https://www.tradingview.com/news/tradingview:f0d055833fd79:0-key-facts-dell-q3-beat-ai-soars-shares-fall-supply-tight-to-2027/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DELL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:c8b21edb34667:0",
+      "title": "Key facts: Equinor Cuts 2026 Growth Outlook; Halts Bacalhau Output; Reduces Johan Castberg Production",
+      "url": "https://www.tradingview.com/news/tradingview:c8b21edb34667:0-key-facts-equinor-cuts-2026-growth-outlook-halts-bacalhau-output-reduces-johan-castberg-production/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:EQNR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0a5228f2b5a37:0",
+      "title": "Key facts: GDS revenue +10.1%; capex, targets cut; space +25.5%",
+      "url": "https://www.tradingview.com/news/tradingview:0a5228f2b5a37:0-key-facts-gds-revenue-10-1-capex-targets-cut-space-25-5/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:9698"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:6a49b85b29fd7:0",
+      "title": "Key facts: HP Inc. Revenue Up 9.3%; FY27 EPS $3.15–$3.45, Risks",
+      "url": "https://www.tradingview.com/news/tradingview:6a49b85b29fd7:0-key-facts-hp-inc-revenue-up-9-3-fy27-eps-3-15-3-45-risks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:HPQ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:c98435525f1db:0",
+      "title": "Key facts: HPE Ups Revenue Outlook; Shares Fall, Barclays Cuts Target",
+      "url": "https://www.tradingview.com/news/tradingview:c98435525f1db:0-key-facts-hpe-ups-revenue-outlook-shares-fall-barclays-cuts-target/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:HPE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:b825f8512c54d:0",
+      "title": "Key facts: Kohl’s Q3 Revenue Rises 1.8%; Analysts Raise Targets, Keep Sell Consensus",
+      "url": "https://www.tradingview.com/news/tradingview:b825f8512c54d:0-key-facts-kohl-s-q3-revenue-rises-1-8-analysts-raise-targets-keep-sell-consensus/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:KSS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:608de516d0bf3:0",
+      "title": "Key facts: Micron Slides; Q4 Beats; BNP Cuts Target, Sees 45% Gap",
+      "url": "https://www.tradingview.com/news/tradingview:608de516d0bf3:0-key-facts-micron-slides-q4-beats-bnp-cuts-target-sees-45-gap/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:MU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:5b49b5e6bb189:0",
+      "title": "Key facts: Oracle Down 70%, CDS Record; $664B Backlog, FY27 $90B",
+      "url": "https://www.tradingview.com/news/tradingview:5b49b5e6bb189:0-key-facts-oracle-down-70-cds-record-664b-backlog-fy27-90b/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:ORCL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:2da4e94f68c6c:0",
+      "title": "Key facts: PayPal Appoints Brian J. Lee to Board; Wedbush Initiates Neutral Coverage",
+      "url": "https://www.tradingview.com/news/tradingview:2da4e94f68c6c:0-key-facts-paypal-appoints-brian-j-lee-to-board-wedbush-initiates-neutral-coverage/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:PYPL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:876de8b966ba0:0",
+      "title": "Key facts: Poland biomass plant; Fortum targets customer-led growth",
+      "url": "https://www.tradingview.com/news/tradingview:876de8b966ba0:0-key-facts-poland-biomass-plant-fortum-targets-customer-led-growth/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXHEX:FORTUM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:145579d3f6c43:0",
+      "title": "Key facts: Q3 sales soar; $3T value loss; SEC, DOJ, Congress scrutiny",
+      "url": "https://www.tradingview.com/news/tradingview:145579d3f6c43:0-key-facts-q3-sales-soar-3t-value-loss-sec-doj-congress-scrutiny/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:367533f31b9e8:0",
+      "title": "Key facts: Shares Fall 8.4%; AI ARR Tops $750M; Q4 Growth 10%",
+      "url": "https://www.tradingview.com/news/tradingview:367533f31b9e8:0-key-facts-shares-fall-8-4-ai-arr-tops-750m-q4-growth-10/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:WDAY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:ba787d1426409:0",
+      "title": "Key facts: Six firms set $175 targets; Raymond James downgrades Insmed",
+      "url": "https://www.tradingview.com/news/tradingview:ba787d1426409:0-key-facts-six-firms-set-175-targets-raymond-james-downgrades-insmed/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:INSM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:5322fd6b87f35:0",
+      "title": "Key facts: Tesla merger talks; revenue +161%; FCC clears 1M satellites",
+      "url": "https://www.tradingview.com/news/tradingview:5322fd6b87f35:0-key-facts-tesla-merger-talks-revenue-161-fcc-clears-1m-satellites/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:08.374528+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SPCX"
         ]
       }
     },
@@ -32033,6 +32605,25 @@
       "extra": {}
     },
     {
+      "id": "msn:5d8dd3a46252d4928a83f5fbf0e70ddcb1a63c4f",
+      "title": "China Resources Beverage (SEHK:2460) Stock Still Commands A Rich Earnings Valuation",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e9609a9941b499ed1690e8ec425c&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fchina-resources-beverage-sehk-2460-071651123.html&c=7573091566919542578&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "China Resources Beverage (Holdings) has seen its share price fall sharply this year, which naturally pushes investors to ask whether the current valuation is still in line with what its earnings ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:16:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:10.322243+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:urn:summary_document_transcript:quartr.com:4828657:0",
       "title": "AFT: Revenue rose 25% to $143.6m; adjusted operating profit climbed to $13.3m",
       "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4828657:0-aft-revenue-rose-25-to-143-6m-adjusted-operating-profit-climbed-to-13-3m/",
@@ -45184,6 +45775,25 @@
       "extra": {}
     },
     {
+      "id": "msn:fad5dc40ad6d4d3fd3c16a81172c13dba61f83fe",
+      "title": "Impax International Sustainable Economy Fund Q3 2026 Commentary",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e96047a64475a407e65e52da7ab0&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972127-impax-international-sustainable-economy-fund-q3-2026-commentary&c=8664322210550933104&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Impax International Sustainable Economy Fund portfolio outperformed the MSCI EAFE benchmark in the third quarter of 2026.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:46:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:10.322243+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8811273",
       "title": "US authorizes SpaceX to deploy 1 million satellites for data centers in space - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVk5uRnprd285MEw5V2prcHR6bXljVGN4cUZuOHA4eHJUZkFzOVFnS1QtYnZaal8yYUYxa0t1cW84WjVzQWpub0czSGxUblh3STB6WnZxcThWZUxNRDk2emliZ0tfTmk5U3YxY3FZRXdEYWNyb2VMTmlkZE5RNWZHOS12OWdjSkpNdzhGU0Z4NWo3VmpSZHNXWGNJZUFpZjl2T2xuUkRKRXBpOTFqVFdFLXFvV0xHd1czWDFKbFU3OWFGU21B?oc=5",
@@ -46936,6 +47546,25 @@
       "published_at": "2026-11-26T04:24:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T16:07:15.816037+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:c91a023751345373a0386c0f35b58a21f89a5839",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e9609a9941b499ed1690e8ec425c&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:10.322243+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -49362,6 +49991,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T16:07:15.816037+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:023c7dd4ed74c05928bb285ed7ccccdeab669c74",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e96067044baf9fc752b62f94a451&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:10.322243+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -66081,6 +66729,25 @@
       "extra": {}
     },
     {
+      "id": "msn:0f6e9ace05b171822b5160c9004c314b2785577b",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e96067044baf9fc752b62f94a451&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:10.322243+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -70059,6 +70726,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T16:07:15.816037+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:9baf08c4c790610de53232ec9a87a074ad71c01e",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e96067044baf9fc752b62f94a451&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:10.322243+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -74189,6 +74875,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T16:07:15.816037+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:81c0d12b4423e56936717fa21a564470d6ead622",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07e96067044baf9fc752b62f94a451&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:10.322243+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",

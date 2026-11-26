@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T16:07:18.649952+08:00",
-  "count": 1495,
+  "generated_at": "2026-11-26T16:10:13.161558+08:00",
+  "count": 1497,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 50,
+      "count": 49,
       "error": ""
     },
     {
@@ -26,6 +26,44 @@
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-26/doc-inkaaaxe8162106.shtml",
+      "title": "港股收评：恒指涨1.19% 科指涨1.16% 科网股普涨 光通信板块走强",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-26/doc-inkaaaxe8162106.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "新浪港股",
+      "summary": "11月26日消息，港股三大指数集体上涨。截至收盘，恒生指数涨1.19%，报22226.88，恒生科技指数涨1.16%，国企指数涨1.47%。盘面上，科网股普涨，联想涨超3%，网易...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:08:09+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:09.647045+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaaxi3695311.shtml",
+      "title": "不止特朗普！美国多位官员曾持有英伟达股票 一文盘点",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inkaaaxi3695311.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "财务披露文件显示，美国总统特朗普持有价值数千万美元的英伟达股票，这意味着在过去两周英伟达股价经历过山车式波动的过程中，特朗普本人也存在切身的经济利益。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T16:07:51+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T16:10:09.647045+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261126160555386800",
       "title": "数据显示，软银集团5年期信用违约互换（CDS）利差上升23.6个基点，至536.6个基点。",
