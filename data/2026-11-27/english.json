@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T04:01:23.701400+08:00",
-  "count": 434,
+  "generated_at": "2026-11-27T04:10:15.679580+08:00",
+  "count": 440,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,52 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47713P:0",
+      "title": "Peru's Fujimori announces $16 billion loan package",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47713P:0-peru-s-fujimori-announces-16-billion-loan-package/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:09:03+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:10:11.063730+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:cryptobriefing:df9bd605b094b:0",
+      "title": "Stacks Labs is researching a way to borrow against Bitcoin without handing it over",
+      "url": "https://cryptobriefing.com/stacks-labs-borrow-against-bitcoin-self-custody/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:05:29+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:10:11.063730+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRAKEN:BTCDAI"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770OC:0",
       "title": "Turkey's capital markets catch cold from funds crisis",
@@ -131,6 +177,78 @@
         "urgency": 2,
         "symbols": [
           "OMXSTO:G5EN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:5c4f056a5094b:0",
+      "title": "Euronext Athens Holding S.A. to merge with, and into, Euronext N.V.",
+      "url": "https://www.globenewswire.com/news-release/2026/11/26/3411031/0/en/euronext-athens-holding-s-a-to-merge-with-and-into-euronext-n-v.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:10:11.063730+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:ENX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:7de447bd5ee32:0",
+      "title": "Euronext N.V. (ENX) Proposes 1-for-17 Merger With Euronext Athens",
+      "url": "https://www.tradingview.com/news/tradingview:7de447bd5ee32:0-euronext-n-v-enx-proposes-1-for-17-merger-with-euronext-athens/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:10:11.063730+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:ENX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:c14140f13094b:0",
+      "title": "Convening of Extraordinary General Meeting of Euronext N.V.",
+      "url": "https://www.globenewswire.com/news-release/2026/11/26/3411030/0/en/convening-of-extraordinary-general-meeting-of-euronext-n-v.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T03:59:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:10:11.063730+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:ENX"
         ]
       }
     },
@@ -310,6 +428,30 @@
       "published_at": "2026-11-27T03:51:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T03:58:11.553806+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:AFCC.H"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:c905ff0b02509:0",
+      "title": "Automotive Finco Corp. (AFCC.H) Files Nine-Month Financial Statements",
+      "url": "https://www.tradingview.com/news/tradingview:c905ff0b02509:0-automotive-finco-corp-afcc-h-files-nine-month-financial-statements/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T03:51:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:10:11.063730+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
