@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T05:16:16.210343+08:00",
-  "count": 154,
+  "generated_at": "2026-11-27T05:22:14.674969+08:00",
+  "count": 155,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 13,
+      "count": 14,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkackst3321854.shtml",
+      "title": "巴西总统卢拉料将宣布Bradesco的Trabuco出任财政部长 雷亚尔飙升2.7%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkackst3321854.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "知情人士透露，巴西总统卢拉料将宣布任命Bradesco董事长Luiz Carlos Trabuco Cappi为财政部长，寄望这位巴西知名银行家重振投资者对该国财政状况的信心。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:22:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T05:22:13.163211+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaceks7990479.shtml",
       "title": "原西班牙央行行长德科斯将出任欧洲央行行长",
