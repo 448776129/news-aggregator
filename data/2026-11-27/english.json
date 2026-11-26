@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T03:43:16.934123+08:00",
-  "count": 416,
+  "generated_at": "2026-11-27T03:49:18.525620+08:00",
+  "count": 418,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47712T:0",
+      "title": "Argentina's 2026/27 wheat forecast may rise on strong yields",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47712T:0-argentina-s-2026-27-wheat-forecast-may-rise-on-strong-yields/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T03:43:20+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:49:12.962787+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOT:ZW1!"
+        ]
+      }
+    },
     {
       "id": "tradingview:dpa_afx:5101c81f6807b:0",
       "title": "Fortum Restructures Business, Leadership Team To Accelerate Customer-Led Growth",
@@ -975,6 +999,34 @@
           "NASDAQ:NVDA",
           "RUS:SBER",
           "RUS:YDEX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:benzinga:05ae67d6e094b:0",
+      "title": "Cathie Wood Says AI Could Cut Drug Costs by $1.8 Billion. These 5 ARK-Backed Biotech Stocks Could Benefit",
+      "url": "https://www.tradingview.com/news/benzinga:05ae67d6e094b:0-cathie-wood-says-ai-could-cut-drug-costs-by-1-8-billion-these-5-ark-backed-biotech-stocks-could-benefit/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Benzinga",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:45:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:49:12.962787+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:RXRX",
+          "NASDAQ:ABSI",
+          "NASDAQ:CRSP",
+          "NASDAQ:NTLA",
+          "NASDAQ:BEAM"
         ]
       }
     },
