@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T11:25:16.667612+08:00",
-  "count": 1638,
+  "generated_at": "2026-11-26T11:28:21.949130+08:00",
+  "count": 1640,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 2,
       "error": ""
     },
     {
@@ -16881,6 +16881,25 @@
       "extra": {}
     },
     {
+      "id": "msn:3f45a21aa2a30eee3530a1b656e1bf065e878701",
+      "title": "Is the stock market open on Thanksgiving, Black Friday?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07a752506c47839eae1955a8cd48d8&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fmoney%2fis-the-stock-market-open-on-thanksgiving-black-friday%2far-AA2i27ez&c=5354299360325556885&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Thanksgiving falls on Thursday, Nov. 26, this year. Here's what to know about whether the stock market will be open or closed.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T11:04:15+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-26T11:28:19.828584+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.trefis.com/stock/dell/articles/624827/how-did-dell-grow-from-56-billion-to-151-billion-in-20-years/2026-11-22?.tsrc=rss",
       "title": "How Did Dell Grow From $56 Billion To $151 Billion In 20 Years?",
       "url": "https://www.trefis.com/stock/dell/articles/624827/how-did-dell-grow-from-56-billion-to-151-billion-in-20-years/2026-11-22?.tsrc=rss",
@@ -31575,6 +31594,25 @@
       "published_at": "2026-11-23T02:04:00+08:00",
       "published_date": "2026-11-23",
       "fetched_at": "2026-11-26T11:04:23.433809+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:2e31f66e244a88e94e51c3c7431fde600bd442e9",
+      "title": "ONE Gas: Earnings Growth Comes At A Cost",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07a7524c9749958dd0036b862759d6&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4970980-one-gas-stock-earnings-growth-comes-at-a-cost&c=16076626658662403222&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "ONE Gas is growing earnings from gas distribution, but capital intensity and dilution make the price difficult to justify.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T02:04:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-26T11:28:19.828584+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
