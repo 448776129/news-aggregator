@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T03:04:18.140058+08:00",
-  "count": 388,
+  "generated_at": "2026-11-27T03:10:23.149011+08:00",
+  "count": 389,
   "sources": [
     {
       "name": "alpaca",
@@ -85,6 +85,25 @@
           "BITSTAMP:BTCUSD"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/26/caterpillar-s-usd78-billion-backlog-explained/?.tsrc=rss",
+      "title": "Caterpillar's $78 Billion Backlog, Explained",
+      "url": "https://www.fool.com/investing/2026/11/26/caterpillar-s-usd78-billion-backlog-explained/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Caterpillar's order backlog nearly doubled over the past year, yet shares are trading at just 16.5 times forward earnings. See how this $78 billion unfilled order list sets up the industrial giant for long-term sales growth.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:57:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T03:10:18.342064+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770NV:0",
