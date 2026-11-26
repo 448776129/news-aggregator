@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T01:04:16.126284+08:00",
-  "count": 33,
+  "generated_at": "2026-11-27T01:10:19.522370+08:00",
+  "count": 35,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 30,
+      "count": 32,
       "error": ""
     },
     {
@@ -26,6 +26,27 @@
     }
   ],
   "items": [
+    {
+      "id": "jin10:20261127010732057800",
+      "title": "俄罗斯外长拉夫罗夫：我们从未就乌克兰危机谈判与欧盟委员会有过任何接触。",
+      "url": "https://www.jin10.com/#/flash/20261127010732057800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "俄罗斯外长拉夫罗夫：我们从未就乌克兰危机谈判与欧盟委员会有过任何接触。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:07:32+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:10:15.671229+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaayau8008567.shtml",
       "title": "欧洲债市：股市上涨之际英国和德国国债下跌 英债表现落后",
@@ -44,6 +65,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127010249638800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261127010249638800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:02:49+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:10:15.671229+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261127010205665800",
