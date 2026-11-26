@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T23:07:18.229843+08:00",
-  "count": 6488,
+  "generated_at": "2026-11-26T23:10:17.023550+08:00",
+  "count": 6500,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 12,
+      "count": 8,
       "error": ""
     },
     {
@@ -38,6 +38,78 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8723Ea:0",
+      "title": "REG - Franklin Templeton Prologis, Inc. - Form 8.3 - Prologis, Inc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8723Ea:0-reg-franklin-templeton-prologis-inc-form-8-3-prologis-inc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:09:25+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:10:11.592238+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PLD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770SY:0",
+      "title": "BOCOM International Says Preferred Investment Buys BACR Notes For $10 Million On Nov 24",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770SY:0-bocom-international-says-preferred-investment-buys-bacr-notes-for-10-million-on-nov-24/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:08:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:10:11.592238+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:3329"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3695234:0",
+      "title": "Far East Consortium: Profit returned to HK$255 million as deleveraging continued despite weaker property revenue",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3695234:0-far-east-consortium-profit-returned-to-hk-255-million-as-deleveraging-continued-despite-weaker-property-revenue/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:07:30+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:10:11.592238+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:35"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-26:newsml_ACN111885:0",
       "title": "On the 18th Anniversary of 26/11, New Media Group Launches Second Edition of Fight Against Terrorism",
@@ -964,6 +1036,25 @@
           "OMXHEX:REG1V"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/articles/europe-cloud-computing-market-surges-150000346.html?.tsrc=rss",
+      "title": "Europe Cloud Computing Market Surges to $ 550.42 billion at a CAGR 11.0% by 2030 | Report by MarketsandMarkets™",
+      "url": "https://finance.yahoo.com/technology/articles/europe-cloud-computing-market-surges-150000346.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Delray Beach, FL, Nov. 26, 2026 (GLOBE NEWSWIRE) -- According to MarketsandMarkets™, the Europe Cloud Computing Market is projected to rise from USD 325.92 billion in 2025 to USD 550.42 billion by 2030, at a CAGR of 11.0%. Growth is driven by the need for scalable and cost-efficient IT infrastructure. Enterprises are adopting cloud platforms to upgrade legacy systems and support hybrid work models. Cloud adoption also helps organizations improve efficiency and reduce dependence on on-premises ha",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T23:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:10:11.503320+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:https://finance.yahoo.com/markets/currencies/articles/eto-markets-marks-13th-anniversary-145900039.html?.tsrc=rss",
@@ -62151,6 +62242,25 @@
       "extra": {}
     },
     {
+      "id": "msn:a998ae4fef54d17bb48ab4a9eff4ccf11aef5932",
+      "title": "Jim Cramer Says Micron Stock Is “Comically Cheap” at About 3 Times Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b084bd4a69149a7a56c637c68b5d3ec&url=https%3a%2f%2f247wallst.com%2finvesting%2f2026%2f11%2f26%2fjim-cramer-says-micron-stock-is-comically-cheap-at-about-3-times-earnings%2f&c=10838865665596492169&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Micron just posted the most profitable year in its history, yet the stock has shed a third of its value in a month. Memory's long record of boom and bust may explain why investors refuse to pay up.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:52:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:10:13.369492+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762O1:0",
       "title": "Oriental Rail Infrastructure Secures Order Worth 41.1 Million Rupees From Integral Coach Factory",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762O1:0-oriental-rail-infrastructure-secures-order-worth-41-1-million-rupees-from-integral-coach-factory/",
@@ -65010,6 +65120,25 @@
       "published_at": "2026-11-26T13:12:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:07:15.608733+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:5dd07107c606c633c07c2c0e8aaa68f4431cb80f",
+      "title": "Chudenko (TSE:1941) Stock Seems In Line With Earnings After 199% Run",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b084bd4a69149a7a56c637c68b5d3ec&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fchudenko-tse-1941-stock-seems-131223013.html&c=4874099514742855502&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chudenko has rewarded long term shareholders with strong gains, which naturally raises a question for anyone looking at the stock today. Is the current share price, around ¥5,080 at the last close, ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:12:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:10:13.369492+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -97374,6 +97503,25 @@
       "extra": {}
     },
     {
+      "id": "msn:97695152e47a953d9ce247960aa572a538a9922e",
+      "title": "Is the stock market open today? Here are the trading hours for Thanksgiving.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b084bd30ed14f79b9c775cedf668023&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-thanksgiving%2far-AA2ifPMA&c=15504855894997742158&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "It’s time to give thanks. What traders should know about the stock market on Thanksgiving.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:10:13.369492+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:seekingalpha:2e893931d094b:0",
       "title": "SA Asks: What should Nvidia investors be watching for in the next few weeks? (Update)",
       "url": "https://seekingalpha.com/news/4676388-sa-asks-what-should-nvidia-investors-be-watching-for-in-the-next-few-weeks?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
@@ -102434,6 +102582,25 @@
       "published_at": "2026-11-26T04:24:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:07:15.608733+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:c60cf0d0bdf6a69ab5cc30a7fd5d51d81eb71611",
+      "title": "Vicor Looks Attractive But Only If 2027 Earnings Come Through",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b084bd4a69149a7a56c637c68b5d3ec&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972109-vicor-stock-looks-attractive-but-only-if-2027-earnings-come-through&c=11524014772950944457&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Vicor Corporation merits a Buy, but high expectations warrant a small position despite strong AI and electrification tailwinds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:24:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:10:13.369492+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -107786,6 +107953,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:07:15.608733+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:7ac1aa3e6c2cea998722a6b14957a066b5e58b22",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b084bd30ed14f79b9c775cedf668023&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:10:13.369492+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -127299,6 +127485,25 @@
       "extra": {}
     },
     {
+      "id": "msn:844a536a69a3cc172dcbe68d649f397d4c112c3f",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b084bd30ed14f79b9c775cedf668023&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:10:13.369492+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -134114,6 +134319,25 @@
       "extra": {}
     },
     {
+      "id": "msn:8360e35f425b1f0ebd9365803b8efaae6de51193",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b084bd30ed14f79b9c775cedf668023&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:10:13.369492+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760YX:0",
       "title": "Equinor cuts 2026 production growth guidance",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760YX:0-equinor-cuts-2026-production-growth-guidance/",
@@ -140898,6 +141122,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T23:07:15.608733+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:1dd46a255648cef4a3b4e8a3fa7613c3b6e5c4e9",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b084bd30ed14f79b9c775cedf668023&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T23:10:13.369492+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
