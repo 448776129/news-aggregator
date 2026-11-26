@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T02:46:15.057264+08:00",
-  "count": 354,
+  "generated_at": "2026-11-27T02:52:12.634189+08:00",
+  "count": 362,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,130 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47710X:0",
+      "title": "Fire prompts worker evacuation at Venezuela's Amuay refinery, sources say",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47710X:0-fire-prompts-worker-evacuation-at-venezuela-s-amuay-refinery-sources-say/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:51:36+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:52:09.782912+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N47715T:0",
+      "title": "Kazakhstan boosts AI cooperation with Russia, which is hungry for advanced US chips",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N47715T:0-kazakhstan-boosts-ai-cooperation-with-russia-which-is-hungry-for-advanced-us-chips/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:45:30+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:52:09.782912+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA",
+          "RUS:SBER",
+          "RUS:YDEX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_S0N45S04A:0",
+      "title": "Mexico's central bank raises 2026 growth forecast",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S0N45S04A:0-mexico-s-central-bank-raises-2026-growth-forecast/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:44:18+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:52:09.782912+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770NI:0",
+      "title": "Robusta coffee up off 3-year low, cocoa, sugar hit near one-month peaks",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770NI:0-robusta-coffee-up-off-3-year-low-cocoa-sugar-hit-near-one-month-peaks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:42:36+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:52:09.782912+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ICEEUR:RC2!",
+          "ICEUS:KC1!",
+          "ICEUS:SF1!",
+          "ICEEUR:C2!",
+          "ICEUS:CC1!",
+          "ICEEUR:RC1!",
+          "ICEEUR:W1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126003663:0",
+      "title": "Powerful Storm Hits East Coast, Scrambling Thanksgiving Plans — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126003663:0-powerful-storm-hits-east-coast-scrambling-thanksgiving-plans-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:52:09.782912+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:D"
+        ]
+      }
+    },
     {
       "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/arista-networks-stocks-fall-2-183806415.html?.tsrc=rss",
       "title": "Arista Networks Stocks Fall 2.71% as AI Networking Gets Caught in Chip Rout",
@@ -79,6 +203,28 @@
         "symbols": [
           "GPW:WTN"
         ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_S8N43V06D:0",
+      "title": "Ghana buys back 44.1% of February 2027 DDEP bonds in first round of offer",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N43V06D:0-ghana-buys-back-44-1-of-february-2027-ddep-bonds-in-first-round-of-offer/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:36:01+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:52:09.782912+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -175,6 +321,28 @@
           "NASDAQ:COTG",
           "NASDAQ:PBCS"
         ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_S8N45G0DB:0",
+      "title": "Peru's Fujimori announces $10 billion Inter-American Development Bank loan",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N45G0DB:0-peru-s-fujimori-announces-10-billion-inter-american-development-bank-loan/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:33:37+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:52:09.782912+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -379,6 +547,30 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:AMD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_S0N46T046:0",
+      "title": "Brazil's Petrobras halts oil production in FPSO P-77 due to signs of fire",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S0N46T046:0-brazil-s-petrobras-halts-oil-production-in-fpso-p-77-due-to-signs-of-fire/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:28:19+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T02:52:09.782912+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BMFBOVESPA:PETR3"
         ]
       }
     },
