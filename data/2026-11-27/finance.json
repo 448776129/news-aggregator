@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T06:07:16.591646+08:00",
-  "count": 168,
+  "generated_at": "2026-11-27T06:10:22.670499+08:00",
+  "count": 169,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 17,
+      "count": 18,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacksq7889926.shtml",
+      "title": "大宗商品综述：油价涨 沙特炼油厂遇袭 伦铜随科技股反弹 金价跌",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacksq7889926.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "美国假日期间交投清淡，原油上涨，沙特一家炼油厂遇袭，威胁到中东地区原油出口的复苏进程。伦铜周四由11个月低点反弹，其他大宗商品和科技股也走高，连续数日大幅下跌后...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:09:29+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T06:10:20.071778+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacksq7887628.shtml",
       "title": "11月27日外盘头条：特朗普指政府蓄意低报经济增长 德科斯将出任欧洲央行行长 科威特称伊朗袭击其重要设施",
