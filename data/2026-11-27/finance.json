@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T07:22:18.300323+08:00",
-  "count": 205,
+  "generated_at": "2026-11-27T07:25:23.675524+08:00",
+  "count": 207,
   "sources": [
     {
       "name": "cls",
@@ -21,7 +21,7 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 30,
+      "count": 32,
       "error": ""
     }
   ],
@@ -46,6 +46,25 @@
       "extra": {
         "important": 1
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/money/future/fmnews/2026-11-27/doc-inkacksp1158828.shtml",
+      "title": "全球燃油供应回升，炼油利润跌至数月低点",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-27/doc-inkacksp1158828.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "市场资讯",
+      "summary": "来源：华尔街见闻 伊朗战争对能源市场的冲击正在退潮。随着全球炼厂开足马力补充供应、中东出口恢复以及石油消费走弱，将原油加工为燃油的利润已跌至数月来最低水平...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:17:29+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:25:21.304005+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "jin10:20261127071008688800",
@@ -393,6 +412,25 @@
       "extra": {
         "important": 0
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/money/future/fmnews/2026-11-27/doc-inkacksp1160849.shtml",
+      "title": "西方感恩节提前停止交易，油价连续第三天上涨",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-27/doc-inkacksp1160849.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "市场资讯",
+      "summary": "来源：能源研发中心 后市观点 原油连续第三个交易日收涨，因西方感恩节假期，周四市场成交清淡，油价涨幅有所收窄，且日内呈现拉锯之势，资金在追高时有所谨慎。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:36:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T07:25:21.304005+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "jin10:20261127063540204800",
