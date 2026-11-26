@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T01:49:15.181529+08:00",
-  "count": 264,
+  "generated_at": "2026-11-27T01:52:17.391225+08:00",
+  "count": 274,
   "sources": [
     {
       "name": "alpaca",
@@ -39,6 +39,170 @@
   ],
   "items": [
     {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4770ZM:0",
+      "title": "W. Africa Crude — Nigerian grades bid up by Total",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4770ZM:0-w-africa-crude-nigerian-grades-bid-up-by-total/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:51:23+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:52:12.154192+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_RSZ8860Ea:0",
+      "title": "REG - HendersonFarE IncLtd - Issue of Equity",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_RSZ8860Ea:0-reg-hendersonfare-incltd-issue-of-equity/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:51:11+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:52:12.154192+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:HFEL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:ffef4876d3528:0",
+      "title": "Alterego Ventures 24 Corp. (ALTR.P) Proposes $25M Acquisition",
+      "url": "https://www.tradingview.com/news/tradingview:ffef4876d3528:0-alterego-ventures-24-corp-altr-p-proposes-25m-acquisition/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:51:03+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:52:12.154192+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:ALTR.P"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-26:newsml_TnwbyGPcS:0",
+      "title": "Alterego Ventures 24 Corp. Announces Proposed Transaction",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_TnwbyGPcS:0-alterego-ventures-24-corp-announces-proposed-transaction/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TheNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:51:03+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:52:12.154192+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:692a6e5f3094b:0",
+      "title": "Innovator Premium Income 15 Buffer ETF - January declares $0.10 dividend",
+      "url": "https://seekingalpha.com/news/4676905-innovator-premium-income-15-buffer-etf-january-declares-0_10-dividend?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:49:34+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:52:12.154192+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOE:LJAN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:c650cf285094b:0",
+      "title": "Innovator S&P Investment Grade Preferred ETF declares $0.085 dividend",
+      "url": "https://seekingalpha.com/news/4676904-innovator-s-and-p-investment-grade-preferred-etf-declares-0_085-dividend?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:49:16+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:52:12.154192+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOE:EPRF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:1bab9d5ec094b:0",
+      "title": "Innovator Premium Income 15 Buffer ETF - April declares $0.1412 dividend",
+      "url": "https://seekingalpha.com/news/4676903-innovator-premium-income-15-buffer-etf-april-declares-0_1412-dividend?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:48:46+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:52:12.154192+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOE:LAPR"
+        ]
+      }
+    },
+    {
       "id": "tradingview:urn:summary_document_slides:quartr.com:4267697:0",
       "title": "ACP: Revenue rose 16%, operating profit 39%, and backlog reached 113% of 2025 revenue",
       "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4267697:0-acp-revenue-rose-16-operating-profit-39-and-backlog-reached-113-of-2025-revenue/",
@@ -59,6 +223,54 @@
         "urgency": 2,
         "symbols": [
           "GPW:ACP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:6477c4301094b:0",
+      "title": "Innovator Premium Income 15 Buffer ETF - October declares $0.1143 dividend",
+      "url": "https://seekingalpha.com/news/4676902-innovator-premium-income-15-buffer-etf-october-declares-0_1143-dividend?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:48:18+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:52:12.154192+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOE:LOCT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:1de1902a9094b:0",
+      "title": "Innovator Premium Income 15 Buffer ETF - July declares $0.1059 dividend",
+      "url": "https://seekingalpha.com/news/4676901-innovator-premium-income-15-buffer-etf-july-declares-0_1059-dividend?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:47:43+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:52:12.154192+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOE:LJUL"
         ]
       }
     },
@@ -625,6 +837,28 @@
         "symbols": [
           "COINBASE:BTCGBP"
         ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_S8N46703V:0",
+      "title": "Turkey mulls cutting withholding tax on lira deposits, Simsek says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N46703V:0-turkey-mulls-cutting-withholding-tax-on-lira-deposits-simsek-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:35:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T01:52:12.154192+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
