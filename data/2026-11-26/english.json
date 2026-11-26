@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T22:19:17.749944+08:00",
-  "count": 6131,
+  "generated_at": "2026-11-26T22:22:21.758001+08:00",
+  "count": 6148,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 10,
+      "count": 9,
       "error": ""
     },
     {
@@ -38,6 +38,126 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770QM:0",
+      "title": "Lianson Fleet Group's Unit Buys Bulk Carrier For US$16.0 Mln",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770QM:0-lianson-fleet-group-s-unit-buys-bulk-carrier-for-us-16-0-mln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T22:21:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:22:16.104548+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:LFG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126002955:0",
+      "title": "Dollar's Relationship to Equities Looks Fickle — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126002955:0-dollar-s-relationship-to-equities-looks-fickle-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T22:21:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:22:16.104548+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:HSBA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770VH:0",
+      "title": "PTT Synergy Group Reports Quarterly Revenue 146.01 Million RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770VH:0-ptt-synergy-group-reports-quarterly-revenue-146-01-million-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T22:19:58+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:22:16.104548+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:PTT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770VD:0",
+      "title": "Ajinomoto (Malaysia) Reports Quarterly Profit Attributable 21.1 Mln RGT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770VD:0-ajinomoto-malaysia-reports-quarterly-profit-attributable-21-1-mln-rgt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T22:19:39+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:22:16.104548+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:AJI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:baystreet:af3e45b4d094b:0",
+      "title": "This Top Canadian Oil Stock Pays Monthly and Just Hiked Its Dividend",
+      "url": "https://www.baystreet.ca/articles/dividends/125690/this-top-canadian-oil-stock-pays-monthly-and-just-hiked-its-dividend",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BayStreet",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T22:19:12+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:22:16.104548+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:WCP"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770H7:0",
       "title": "Traditional Chinese medicine maker Wai Yuen Tong swings to HY loss as expenses rise",
@@ -334,6 +454,28 @@
       "published_at": "2026-11-26T22:13:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T22:16:14.883233+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126002938:0",
+      "title": "Canada Nonfarm Payrolls Climb in September After Two Months of Declines",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126002938:0-canada-nonfarm-payrolls-climb-in-september-after-two-months-of-declines/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T22:13:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:22:16.104548+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -803,6 +945,25 @@
           "OSL:EQNR"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/articles/keek-social-inc-provides-corporate-141000185.html?.tsrc=rss",
+      "title": "Keek Social Inc. Provides Corporate Update",
+      "url": "https://finance.yahoo.com/technology/articles/keek-social-inc-provides-corporate-141000185.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Toronto, Ontario--(Newsfile Corp. - November 26, 2026) - Keek Social Inc. (TSXV: KEEK) (OTC Pink: PRSNF) (\"Keek\" or the \"Company\") provides a corporate update on recent developments affecting its operations and strategic direction.Financing EffortsThe Company advises that its recent financing efforts did not result in securing financing. Management continues to evaluate available funding alternatives.App Store Status and Web-Based PlatformThe Company's iOS developer account has been suspended,..",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T22:10:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:22:16.008146+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770QS:0",
@@ -4277,6 +4438,25 @@
           "NASDAQ:LI"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.tikr.com/blog/oracle-is-down-47-in-2026-is-there-really-a-reasonable-chance-oracle-goes-bankrupt?ref=yahoofinance&tlnk=yf-261126-97j6xfvm&.tsrc=rss",
+      "title": "Oracle Is Down 47% in 2026. Is There Really a “Reasonable Chance Oracle Goes Bankrupt”?",
+      "url": "https://www.tikr.com/blog/oracle-is-down-47-in-2026-is-there-really-a-reasonable-chance-oracle-goes-bankrupt?ref=yahoofinance&tlnk=yf-261126-97j6xfvm&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysOracle stock is down 47% in 2026 and hit a fresh 52-week low as the cost of insuring its debt against default reached a record. The same AI credit fears have hit CoreWeave, whose debt insurance also hit a record, and Nvidia, which sells both companies their chips.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T21:50:19+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:22:16.008146+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:moodys:2394df1419291:0",
@@ -59310,6 +59490,44 @@
       "extra": {}
     },
     {
+      "id": "msn:ac692ac44dbd4e1237776d9c603403fc205c0d4c",
+      "title": "SCR Sibelco (ENXTBR:094426466) Stock May Still Look Like A Bargain On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08409869e443d89d6a8ad04b3f38bd&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fscr-sibelco-enxtbr-094426466-stock-131257122.html&c=9314630162972707892&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "SCR-Sibelco shares have drifted lower in 2024, with the stock down 26.6% year to date, which puts a sharp spotlight on whether the current price lines up with the earnings power of the business. For ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:12:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:22:18.144475+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d14a47816b71c67599b524b07858936062172f54",
+      "title": "Chudenko (TSE:1941) Stock Seems In Line With Earnings After 199% Run",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08409869e443d89d6a8ad04b3f38bd&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fchudenko-tse-1941-stock-seems-131223013.html&c=4874099514742855502&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chudenko has rewarded long term shareholders with strong gains, which naturally raises a question for anyone looking at the stock today. Is the current share price, around ¥5,080 at the last close, ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T13:12:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:22:18.144475+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:moneycontrol:15454c22b094b:0",
       "title": "Buzzing Stocks: Wipro gains 4% on partnership with bp; Schaeffler India rises 3% on block deal activity",
       "url": "https://www.tradingview.com/news/moneycontrol:15454c22b094b:0-buzzing-stocks-wipro-gains-4-on-partnership-with-bp-schaeffler-india-rises-3-on-block-deal-activity/",
@@ -63123,6 +63341,25 @@
       "published_at": "2026-11-26T11:55:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T22:19:15.172871+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:f05afb0e7ab0717c5f8b57aad9200c240d7a4758",
+      "title": "United Natural Foods: Expanding Margins, Strong Earnings Growth, And An Attractive 8x ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08409869e443d89d6a8ad04b3f38bd&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972239-united-natural-foods-stock-expanding-margins-strong-earnings-growth-and-attractive-8x-ebitda-valuation&c=2001924792131245839&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "United Natural Foods earns a Buy rating: improving profitability, natural demand, and reasonable valuation support a favorable risk-reward.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T11:55:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:22:18.144475+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -91064,6 +91301,25 @@
       "extra": {}
     },
     {
+      "id": "msn:433472723d000d6d616afcde38610a4c836a824a",
+      "title": "Is the stock market open today? Here are the trading hours for Thanksgiving.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b084098ab7143ca89d421a3906b1b27&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-thanksgiving%2far-AA2ifPMA&c=15504855894997742158&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "It’s time to give thanks. What traders should know about the stock market on Thanksgiving.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:22:18.144475+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:seekingalpha:2e893931d094b:0",
       "title": "SA Asks: What should Nvidia investors be watching for in the next few weeks? (Update)",
       "url": "https://seekingalpha.com/news/4676388-sa-asks-what-should-nvidia-investors-be-watching-for-in-the-next-few-weeks?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
@@ -96701,6 +96957,25 @@
       "extra": {}
     },
     {
+      "id": "msn:d8ed0aed604e93491c14ec5ab4d5949d104ca6fe",
+      "title": "Universal Insurance: An Upcoming Category 5 Earnings Inflection",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08409869e443d89d6a8ad04b3f38bd&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972108-universal-insurance-an-upcoming-category-5-earnings-inflection&c=9176262558594921769&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Universal's earnings will roughly double in the coming years due to the runoff of legacy Florida claims litigation and support from lower reinsurance costs.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:20:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:22:18.144475+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261125006748_20261125006754:0",
       "title": "Tower Ltd.: Board Declared Fully Imputed Final Dividend of NZ$0.10 per Share",
       "url": "https://www.tradingview.com/news/DJN_DN20261125006748_20261125006754:0-tower-ltd-board-declared-fully-imputed-final-dividend-of-nz-0-10-per-share/",
@@ -100906,6 +101181,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T22:19:15.172871+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6c5a2b1189258c65c5dc7b6179cc4974d08b22d4",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b084098ab7143ca89d421a3906b1b27&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:22:18.144475+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
@@ -120115,6 +120409,25 @@
       "extra": {}
     },
     {
+      "id": "msn:a0ee519da38512f7633975ad662c85a5f42bd36f",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b084098ab7143ca89d421a3906b1b27&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:22:18.144475+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -126664,6 +126977,25 @@
       "extra": {}
     },
     {
+      "id": "msn:badb65059d07fc1f1d139aa4aa9101e44903c5dd",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b084098ab7143ca89d421a3906b1b27&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:22:18.144475+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760YX:0",
       "title": "Equinor cuts 2026 production growth guidance",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4760YX:0-equinor-cuts-2026-production-growth-guidance/",
@@ -133144,6 +133476,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T22:19:15.172871+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:41266cf743546b6119101ed3fc98ebf4a47ea2f2",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b084098ab7143ca89d421a3906b1b27&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T22:22:18.144475+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
