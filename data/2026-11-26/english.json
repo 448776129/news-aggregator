@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T09:07:13.436524+08:00",
-  "count": 1688,
+  "generated_at": "2026-11-26T09:10:15.444480+08:00",
+  "count": 1697,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 0,
+      "count": 3,
       "error": ""
     },
     {
@@ -38,6 +38,127 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUE4M8VD0:0",
+      "title": "Earlypay Sees FY27 Underlying NPAT A$4.8 Mln To A$5.20 Mln",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUE4M8VD0:0-earlypay-sees-fy27-underlying-npat-a-4-8-mln-to-a-5-20-mln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:09:29+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:10:10.403039+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:EPY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUE86ML0H:0",
+      "title": "Infinity Metals Acquires Copper Project In Nanadie District, WA",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUE86ML0H:0-infinity-metals-acquires-copper-project-in-nanadie-district-wa/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:08:54+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:10:10.403039+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:INF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762CR:0",
+      "title": "Ramsay Health Care Announces Sale Of Shares In Ramsay Health Care",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762CR:0-ramsay-health-care-announces-sale-of-shares-in-ramsay-health-care/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:08:20+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:10:10.403039+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:RHC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4762KI:0",
+      "title": "Rio Tinto says Yinhawangka People And Rio Tinto Celebrate Landmark Modernised Agreement",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4762KI:0-rio-tinto-says-yinhawangka-people-and-rio-tinto-celebrate-landmark-modernised-agreement/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:08:03+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:10:10.403039+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:RIO",
+          "LSE:RIO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:3e3f7dfe35d8e:0",
+      "title": "Operation Gobble 2026: California American Water Bring Thanksgiving to Families Across California",
+      "url": "https://www.tradingview.com/news/prnewswire:3e3f7dfe35d8e:0-operation-gobble-2026-california-american-water-bring-thanksgiving-to-families-across-california/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:07:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:10:10.403039+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:AWK"
+        ]
+      }
+    },
     {
       "id": "tradingview:urn:summary_document_report:quartr.com:4084173:0",
       "title": "SICO: La Negra generated $24.6M in revenue as both mines target H1 2027 ramp-ups",
@@ -915,6 +1036,25 @@
           "LSE:RIO"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/articles/alarming-unsurprising-trump-administration-cut-010000318.html?.tsrc=rss",
+      "title": "'Alarming, if unsurprising': Trump administration cut corners with hasty Nvidia investigation, former CIA officer warns",
+      "url": "https://finance.yahoo.com/technology/articles/alarming-unsurprising-trump-administration-cut-010000318.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The FBI has provided at least two \"defensive briefings\" to Nvidia leadership regarding Chinese espionage tactics, according to a separate law enforcement official.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:00:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:10:10.660035+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47607Z:0",
@@ -32395,6 +32535,25 @@
       }
     },
     {
+      "id": "msn:5c038630e4ec06bfc1ee093b8ae1a2c2ad316811",
+      "title": "Stock Market News From Nov. 25, 2026: Dow Stages Biggest Comeback in Years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0786f28d984902aa993d2bcafaf383&url=https%3a%2f%2fwww.barrons.com%2flivecoverage%2fstock-market-news-today112526&c=9030583612209433524&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Chip makers were taking a beating in Wednesday's premarket, and that was dragging down the broader market. Nasdaq 100 futures tumbled 2%. S&P 500 futures dropped 1.1%. Dow Jones Industrial Average ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:51:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:10:12.548374+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:f4e7eda8f5a6e:0",
       "title": "Citigroup maintains Autodesk at Neutral, lowers price target to $260 from $276",
       "url": "https://www.tradingview.com/news/tradingview:f4e7eda8f5a6e:0-citigroup-maintains-autodesk-at-neutral-lowers-price-target-to-260-from-276/",
@@ -33622,6 +33781,25 @@
           "EURONEXT:GALP"
         ]
       }
+    },
+    {
+      "id": "msn:76045c745688f15c375cfb4841dc3f832b1ef010",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0786f28d984902aa993d2bcafaf383&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:10:12.548374+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4760YX:0",
@@ -35069,6 +35247,25 @@
       "published_at": "2026-11-26T00:33:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-26T02:01:10.089724+08:00",
+      "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:3ba0bdd800d3d92c0191882bf54ebe31b1ea7d74",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0786f28d984902aa993d2bcafaf383&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fwhy-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better%2far-AA2idP1b&c=11015184797404162147&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:33:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-26T09:10:12.548374+08:00",
       "crawl_date": "2026-11-26",
       "lang": "en",
       "category": "english",
