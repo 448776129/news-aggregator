@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T01:58:21.088789+08:00",
-  "count": 263,
+  "generated_at": "2026-11-28T02:01:20.310694+08:00",
+  "count": 278,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,300 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 21,
+      "count": 22,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780MD:0",
+      "title": "Corn and soybean basis mostly unchanged in Midwest",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4780MD:0-corn-and-soybean-basis-mostly-unchanged-in-midwest/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:00:28+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:01:15.116108+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOT:ZC1!",
+          "CBOT:ZS1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:75aa8076f2bfa:0",
+      "title": "Framery Group Plc: Acquisition of own shares during week 48, 2026",
+      "url": "https://www.tradingview.com/news/modular_finance:75aa8076f2bfa:0-framery-group-plc-acquisition-of-own-shares-during-week-48-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:01:15.116108+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXHEX:FRAMERY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:bc33695c916b7:0",
+      "title": "Adani Group Seeks Govt Nod To Invest In Airline Business",
+      "url": "https://www.tradingview.com/news/moodys:bc33695c916b7:0-adani-group-seeks-govt-nod-to-invest-in-airline-business/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:57:42+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:01:15.116108+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:ADANIENT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:263ca2f4f03cb:0",
+      "title": "8th Pay Commission May Add Rs 3 Lakh Cr To Centre's Expenditure: Deutsche Bank",
+      "url": "https://www.tradingview.com/news/moodys:263ca2f4f03cb:0-8th-pay-commission-may-add-rs-3-lakh-cr-to-centre-s-expenditure-deutsche-bank/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:57:41+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:01:15.116108+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:DBK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:4061b416b0adc:0",
+      "title": "Sebi Extends Tata Steel’s APL Apollo Open Offer Disclosure Deadline To 8 December",
+      "url": "https://www.tradingview.com/news/moodys:4061b416b0adc:0-sebi-extends-tata-steel-s-apl-apollo-open-offer-disclosure-deadline-to-8-december/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:57:39+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:01:15.116108+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TATASTEEL",
+          "NSE:APLAPOLLO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:a2a1cd9e9b003:0",
+      "title": "Gail, GNFC Explore Joint Investments In Downstream Petrochemicals",
+      "url": "https://www.tradingview.com/news/moodys:a2a1cd9e9b003:0-gail-gnfc-explore-joint-investments-in-downstream-petrochemicals/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:57:37+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:01:15.116108+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:GAIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:1e747cb2f40a9:0",
+      "title": "SBI To Recruit 1,540 Junior Associates Under Special Drive",
+      "url": "https://www.tradingview.com/news/moodys:1e747cb2f40a9:0-sbi-to-recruit-1-540-junior-associates-under-special-drive/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:57:37+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:01:15.116108+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:SBIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:3cd188773094b:0",
+      "title": "Verizon in talks to buy Fidium in $6B deal — FT",
+      "url": "https://seekingalpha.com/news/4677076-verizon-in-talks-to-buy-fidium-in-6b-deal-ft?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:55:39+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:01:15.116108+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:VZ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:2850cc89e1469:0",
+      "title": "IDEX Metals Corp. (IDEX) Upsizes Private Placement to $3.0M",
+      "url": "https://www.tradingview.com/news/tradingview:2850cc89e1469:0-idex-metals-corp-idex-upsizes-private-placement-to-3-0m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:55:04+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:01:15.116108+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:IDEX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_TnwRTkGC:0",
+      "title": "IDEX Metals Upsizes Non-Brokered Private Placement for up to $3,000,000",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_TnwRTkGC:0-idex-metals-upsizes-non-brokered-private-placement-for-up-to-3-000-000/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TheNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:55:04+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:01:15.116108+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:IDEX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:880374081094b:0",
+      "title": "International Gemological Institute achieves MPS as Blackstone sells 1.55% stake to Stallion Asset, Old Bridge MF among seven investors",
+      "url": "https://www.tradingview.com/news/moneycontrol:880374081094b:0-international-gemological-institute-achieves-mps-as-blackstone-sells-1-55-stake-to-stallion-asset-old-bridge-mf-among-seven-investors/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:54:40+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:01:15.116108+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:b72ed9b29094b:0",
+      "title": "Tombill Mines names new CFO",
+      "url": "https://seekingalpha.com/news/4677077-tombill-mines-names-new-cfo?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:53:34+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:01:15.116108+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:TBLL",
+          "TSXV:TBLL"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261127004207:0",
       "title": "Saudi Insurance Industry Could See Further Consolidation Under New Capital Rules — Market Talk",
@@ -110,6 +399,25 @@
           "LSE:RRR"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/27/tech-stock-sell-off-down-32-is-alphabet-a-buy-now/?.tsrc=rss",
+      "title": "Tech Stock Sell-Off: Down 32%, Is Alphabet a Buy Now?",
+      "url": "https://www.fool.com/investing/2026/11/27/tech-stock-sell-off-down-32-is-alphabet-a-buy-now/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Investors are focused on Alphabet's huge capital spending, but its two biggest businesses are posting strong results.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:51:02+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:01:14.990447+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261127004204:0",
@@ -714,6 +1022,25 @@
       }
     },
     {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/hsbc-makes-bullish-2027-call-173744361.html?.tsrc=rss",
+      "title": "HSBC Makes Bullish 2027 Call as Tech Stocks Struggle",
+      "url": "https://finance.yahoo.com/technology/ai/articles/hsbc-makes-bullish-2027-call-173744361.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Wall Street's biggest growth story is entering another phase.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:37:44+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:01:14.990447+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:cointelegraph:205cd0ac3094b:0",
       "title": "China sets March 2027 rollout for blockchain identity regulations",
       "url": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
@@ -1055,6 +1382,25 @@
           "HKEX:9668"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/iren-stock-jumps-8-analysts-173438398.html?.tsrc=rss",
+      "title": "IREN Stock Jumps 8% as Analysts See 340% Upside Despite Sell Signals",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/iren-stock-jumps-8-analysts-173438398.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Wall Street analysts remain bullish on the data center developer, with an average price target of $56.50.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:34:38+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:01:14.990447+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780JF:0",
