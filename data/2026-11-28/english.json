@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T03:10:19.634169+08:00",
-  "count": 405,
+  "generated_at": "2026-11-28T03:16:20.345059+08:00",
+  "count": 409,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,98 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261127004562:0",
+      "title": "Nymex Platinum, Palladium Warehouse Stocks - Nov 27",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127004562:0-nymex-platinum-palladium-warehouse-stocks-nov-27/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:14:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:16:15.140783+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:PL1!",
+          "NYMEX:PA1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780VO:0",
+      "title": "Malibu Boats Agrees To Pay $300,000 Civil Penalty To Settle SEC Investigation",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4780VO:0-malibu-boats-agrees-to-pay-300-000-civil-penalty-to-settle-sec-investigation/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:13:58+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:16:15.140783+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:MBUU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:e1d4c874c8d50:0",
+      "title": "Malibu Boats Agrees in Principle to $300,000 SEC Penalty",
+      "url": "https://www.tradingview.com/news/tradingview:e1d4c874c8d50:0-malibu-boats-agrees-in-principle-to-300-000-sec-penalty/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:13:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:16:15.140783+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:MBUU"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/27/why-did-redwire-stock-pop-on-friday/?.tsrc=rss",
+      "title": "Why Did Redwire Stock Pop on Friday",
+      "url": "https://www.fool.com/investing/2026/11/27/why-did-redwire-stock-pop-on-friday/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "After a 74% drop, Redwire stock could be a buy.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:09:46+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:16:14.972744+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:prnewswire:a9d04f176fbcb:0",
       "title": "Coast Copper Announces Increase of Non-Brokered Financing from $1.0M to $1.655M",

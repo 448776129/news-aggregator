@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T03:04:19.876540+08:00",
-  "count": 58,
+  "generated_at": "2026-11-28T03:16:20.354122+08:00",
+  "count": 60,
   "sources": [
     {
       "name": "cls",
@@ -15,17 +15,57 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 49,
+      "count": 50,
       "error": ""
     },
     {
       "name": "sina",
       "status": "ok",
-      "count": 9,
+      "count": 10,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7637440.shtml",
+      "title": "11月28日热门中概股大多上涨 纳斯达克中国金龙指数收涨2.96% 日月光半导体涨6.27% BOSS直聘涨6.28%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7637440.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "11月28日热门中概股大多上涨，纳斯达克中国金龙指数（HXC）收涨2.96%。 上涨个股（按市值从高到低）：台积电涨 3.21%、阿里巴巴涨 3.96%、拼多多涨 1.16%...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:14:58+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:16:14.977215+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261128030243681800",
+      "title": "恒指期货夜盘收涨0.47%，报22802点，高水107点。",
+      "url": "https://www.jin10.com/#/flash/20261128030243681800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "恒指期货夜盘收涨0.47%，报22802点，高水107点。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:02:43+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:16:14.755530+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "jin10:20261128030205263800",
       "title": "金十快讯",
