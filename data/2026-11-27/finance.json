@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T08:58:17.737594+08:00",
-  "count": 335,
+  "generated_at": "2026-11-27T09:01:16.152219+08:00",
+  "count": 336,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 50,
+      "count": 48,
       "error": ""
     },
     {
@@ -26,6 +26,25 @@
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/money/future/fmnews/2026-11-27/doc-inkacqym1107004.shtml",
+      "title": "开盘|国内期货主力合约涨多跌少，沪银、乙二醇（EG）涨超3%",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-27/doc-inkacqym1107004.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "市场资讯",
+      "summary": "2026年11月27日，早盘开盘，国内期货主力合约涨多跌少，沪银、乙二醇（EG）涨超3%，沪镍、集运欧线、菜粕涨超2%，短纤、沪锌、苹果涨超1%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:00:38+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:01:11.993192+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261127085736283800",
       "title": "【银河证券：光通信行业成长逻辑迈向由前沿互连架构驱动的单端口价值跃升新周期】金十数据11月27日讯，银河证券研报认为，光通信行业的成长逻辑由早期的单纯依赖总量放",
