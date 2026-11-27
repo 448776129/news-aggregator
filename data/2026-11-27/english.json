@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T14:28:17.917393+08:00",
-  "count": 1630,
+  "generated_at": "2026-11-27T14:31:20.623205+08:00",
+  "count": 1631,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 1,
       "error": ""
     },
     {
@@ -37682,6 +37682,25 @@
       "published_at": "2026-11-27T00:00:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T14:28:15.210098+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:727dfb71ced0cd9fe375fabc38351614baa82c1a",
+      "title": "Tenaz Energy (TSX:TNZ) Stock Trades At A Premium To Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0923b2370944b580b7b856cbc03699&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2ftenaz-energy-tsx-tnz-stock-012706649.html&c=13302110412068100848&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Tenaz Energy has delivered very strong share price gains in recent years, which puts a spotlight on whether the current valuation is properly supported by its earnings power. With that kind of track ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:31:16.025085+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
