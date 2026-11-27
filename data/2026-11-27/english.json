@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T09:49:19.555552+08:00",
-  "count": 869,
+  "generated_at": "2026-11-27T09:52:17.006431+08:00",
+  "count": 885,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "error": ""
     },
     {
@@ -38,6 +38,390 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47801I:0",
+      "title": "Philippines' trade deficit widens to a record $6.9 billion in October",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47801I:0-philippines-trade-deficit-widens-to-a-record-6-9-billion-in-october/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:51:03+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:52:12.809660+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47800T:0",
+      "title": "Brent trades near month's high as Mideast conflict threatens supply",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47800T:0-brent-trades-near-month-s-high-as-mideast-conflict-threatens-supply/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:50:31+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:52:12.809660+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ICEEUR:BRN1!",
+          "OSL:EQNR",
+          "EURONEXT:GALP",
+          "TVC:UKOIL",
+          "NYMEX:CL1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:2667067c8094b:0",
+      "title": "Tokyo's core CPI hits 2.9%, strengthening case for BOJ rate hike in December",
+      "url": "https://www.tradingview.com/news/cnbctv:2667067c8094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:49:51+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:52:12.809660+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSE:8301"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:0305540f581f0:0",
+      "title": "Venezuela signs Siemens Energy deals to fix power grid",
+      "url": "https://www.tradingview.com/news/moodys:0305540f581f0:0-venezuela-signs-siemens-energy-deals-to-fix-power-grid/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "bne Intellinews",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:49:06+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:52:12.809660+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FWB:ENR",
+          "XETR:ENR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:d6618cc7b094b:0",
+      "title": "Commodity Corner: Oil set for first weekly gain this month; gold steadies",
+      "url": "https://www.tradingview.com/news/moneycontrol:d6618cc7b094b:0-commodity-corner-oil-set-for-first-weekly-gain-this-month-gold-steadies/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:48:33+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:52:12.809660+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:UKOIL",
+          "NYMEX:CL1!",
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770UA:0",
+      "title": "Metro Mining Restructures US$17.8 Million Tranche To Interest Only Until Dec 2027",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770UA:0-metro-mining-restructures-us-17-8-million-tranche-to-interest-only-until-dec-2027/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:48:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:52:12.809660+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:MMI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47713B:0",
+      "title": "Sino Biopharmaceutical Says Bepirovirsen Approved For Marketing In China",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47713B:0-sino-biopharmaceutical-says-bepirovirsen-approved-for-marketing-in-china/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:47:39+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:52:12.809660+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1177"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cointelegraph:b50303e31094b:0",
+      "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
+      "url": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Cointelegraph",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:47:38+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:52:12.809660+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:IMUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004300_20261126004300:0",
+      "title": "Fisher & Paykel Target Price Raised 1.3% to NZ$58.25/Share by Jefferies>FPH.NZ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004300_20261126004300:0-fisher-paykel-target-price-raised-1-3-to-nz-58-25-share-by-jefferies-fph-nz/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:47:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:52:12.809660+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NZX:FPH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004301_20261126004301:0",
+      "title": "Fisher & Paykel Target Price Raised 4.4% to A$47.75/Share by Jefferies>FPH.AU",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004301_20261126004301:0-fisher-paykel-target-price-raised-4-4-to-a-47-75-share-by-jefferies-fph-au/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:47:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:52:12.809660+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUE2QP43H:0",
+      "title": "Ramsay Health Care Says Court Approves Demerger Of Ramsay Sante",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUE2QP43H:0-ramsay-health-care-says-court-approves-demerger-of-ramsay-sante/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:46:38+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:52:12.809660+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:RHC",
+          "EURONEXT:GDS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47715R:0",
+      "title": "E&P Global Updates On Legal Proceedings In Relation To Russian Mining Licenses",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47715R:0-e-p-global-updates-on-legal-proceedings-in-relation-to-russian-mining-licenses/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:46:14+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:52:12.809660+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1142"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUE4BQGRH:0",
+      "title": "Provaris Energy Says Greg Martin Steps Down As Board Chair",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUE4BQGRH:0-provaris-energy-says-greg-martin-steps-down-as-board-chair/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:45:23+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:52:12.809660+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:PV1"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770UE:0",
+      "title": "Gncenergy Wins 33.6 Billion Won Order",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770UE:0-gncenergy-wins-33-6-billion-won-order/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:43:45+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:52:12.809660+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:119850"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004295:0",
+      "title": "Risk of Yen Weakening Against Dollar Appears Limited — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004295:0-risk-of-yen-weakening-against-dollar-appears-limited-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:43:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:52:12.809660+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N461075:0",
+      "title": "South Korea ready to take necessary measures amid heightened stock market volatility",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N461075:0-south-korea-ready-to-take-necessary-measures-amid-heightened-stock-market-volatility/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:42:56+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:52:12.809660+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47800R:0",
       "title": "BOJ calls for safeguards against digital money, AI risks",
