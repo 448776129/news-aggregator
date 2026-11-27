@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T16:25:16.504997+08:00",
-  "count": 2245,
+  "generated_at": "2026-11-27T16:28:14.619564+08:00",
+  "count": 2262,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,336 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261127001208:0",
+      "title": "European Stock Indexes Rise as Tech Rally Extends — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001208:0-european-stock-indexes-rise-as-tech-rally-extends-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:27:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:28:11.051855+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "STOXX:SXXP",
+          "TVC:UKX",
+          "XETR:DAX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC4ZMWNN:0",
+      "title": "Hypoport - BaFin Findings Have No Impact On Current Financial Metrics Or Operating Performance",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC4ZMWNN:0-hypoport-bafin-findings-have-no-impact-on-current-financial-metrics-or-operating-performance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:25:51+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:28:11.051855+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:HYQ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4780AJ:0",
+      "title": "Turkey's central bank suspends repo auctions in liquidity-tightening move",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4780AJ:0-turkey-s-central-bank-suspends-repo-auctions-in-liquidity-tightening-move/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:25:30+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:28:11.051855+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX_IDC:USDTRY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N478077:0",
+      "title": "China markets surge as Beijing unleashes 'national team'",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N478077:0-china-markets-surge-as-beijing-unleashes-national-team/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:24:45+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:28:11.051855+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SSE:000001",
+          "HSI:HSTECH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001198_20261127001200:0",
+      "title": "Platinum Futures Up 8.6% to $1,349.50 an Ounce",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001198_20261127001200:0-platinum-futures-up-8-6-to-1-349-50-an-ounce/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:24:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:28:11.051855+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001198_20261127001198:0",
+      "title": "Silver Futures Soar 10.3% to $44.17 a Troy Ounce",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001198_20261127001198:0-silver-futures-soar-10-3-to-44-17-a-troy-ounce/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:24:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:28:11.051855+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47715T:0",
+      "title": "Siam Cement Says Unit Submits Binding Offer To Buy All Shares In Thai Pride Cement",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47715T:0-siam-cement-says-unit-submits-binding-offer-to-buy-all-shares-in-thai-pride-cement/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:23:52+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:28:11.051855+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SET:SCC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001196:0",
+      "title": "European Insurers Might Face Difficult Year Ahead — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001196:0-european-insurers-might-face-difficult-year-ahead-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:23:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:28:11.051855+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001197_20261127001197:0",
+      "title": "Gold Futures Rise 4% to $3,676.20 a Troy Ounce",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001197_20261127001197:0-gold-futures-rise-4-to-3-676-20-a-troy-ounce/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:23:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:28:11.051855+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001195_20261127001195:0",
+      "title": "Three-Month LME Copper Rises 5% to $12,442.50 a Metric Ton",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001195_20261127001195:0-three-month-lme-copper-rises-5-to-12-442-50-a-metric-ton/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:23:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:28:11.051855+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770UH:0",
+      "title": "Foresta Group Says Feedstock Supply Agreement Now Held By Stand Forestry After Merger",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770UH:0-foresta-group-says-feedstock-supply-agreement-now-held-by-stand-forestry-after-merger/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:22:45+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:28:11.051855+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:FGH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47807Q:0",
+      "title": "Germany's Allane 9M operating revenue rises on leasing, service segment growth",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47807Q:0-germany-s-allane-9m-operating-revenue-rises-on-leasing-service-segment-growth/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:22:29+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:28:11.051855+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FWB:LNSX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:newsbtc:729e8b87b094b:0",
+      "title": "Zcash Developers Race to Secure Crypto. Can Quantum Computing Break Bitcoin?",
+      "url": "https://www.newsbtc.com/crypto-news/quantum-computing-crypto/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "NewsBTC",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:21:53+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:28:11.051855+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:ZECUSD",
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:7f7b995f4094b:0",
+      "title": "RBI governor urges MSMEs to scale up, adopt AI and tap global markets",
+      "url": "https://www.tradingview.com/news/moneycontrol:7f7b995f4094b:0-rbi-governor-urges-msmes-to-scale-up-adopt-ai-and-tap-global-markets/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:21:34+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:28:11.051855+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770X0:0",
       "title": "Maxnerva Technology Services Says Foxconn Receives Vietnam Competition Commission Clearance On Nov 26",
@@ -29986,6 +30316,25 @@
       "extra": {}
     },
     {
+      "id": "msn:d63dae99a3d6f7632d444050a29fd3bbd6304d2f",
+      "title": "Stock Market Live Updates | Sensex tumbles over 650 points, Nifty below 25,700; IT, FMCG ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b093f1bbc5d45baa5fbbd7617d311c7&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-share-price-27-november-2026%2fliveblog%2f136206762.cms&c=17461454488585503924&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "GIFT Nifty on the NSE IX trades lower, signalling that Dalal Street is set for a negative start on Friday as investors remain cautious ahead of the opening bell.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:33:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:28:12.774318+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026-11-26:newsml_AZN4TX572:0",
       "title": "Tokyo Nov core CPI rises 2.9% yr/yr",
       "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_AZN4TX572:0-tokyo-nov-core-cpi-rises-2-9-yr-yr/",
@@ -35542,6 +35891,25 @@
       "published_at": "2026-11-27T05:01:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T16:25:13.880864+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:9ef56a114f69f79aa1778da713a28e8664446a5b",
+      "title": "Is the stock market open today? Here are the trading hours for Black Friday.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b093f1bbc5d45baa5fbbd7617d311c7&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-black-friday%2far-AA2iknKI&c=15349360073239060809&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A while lot of businesses are open on Black Friday but what about the stock market?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:01:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:28:12.774318+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -48503,6 +48871,25 @@
       "published_at": "2026-11-27T00:39:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T16:25:13.880864+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:75d9c06c768d732ce47aece4e893198f111077e0",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty extends losses to 200 points; 36 stocks in ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b093f1bbc5d45baa5fbbd7617d311c7&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:28:12.774318+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
