@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T01:27:45.454002+08:00",
-  "count": 26,
+  "generated_at": "2026-11-28T01:34:22.045371+08:00",
+  "count": 27,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafazx3058502.shtml",
+      "title": "摩根大通、高盛等华尔街银行据悉将以4亿美元了结市政债价格操纵诉讼",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafazx3058502.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "包括一些业内最大银行在内的华尔街金融机构正接近达成一项协议，支付逾4亿美元，以了结一起备受关注的诉讼。该案指控这些机构合谋操纵市政债券市场价格。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:32:21+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:34:18.428175+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafazt0939638.shtml",
       "title": "欧洲债市：风险情绪提振意大利和法国国债表现 英债及德债走低",
