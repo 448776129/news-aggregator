@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T04:07:18.850842+08:00",
-  "count": 68,
+  "generated_at": "2026-11-28T04:10:22.958794+08:00",
+  "count": 69,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 13,
+      "count": 14,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafprt2858829.shtml",
+      "title": "11月28日美股收盘：道指大涨近600点，创下2022年以来最佳单周表现",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafprt2858829.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "周五美股走高，投资者结束了这一波动剧烈、因节假日缩短的交易周。 道琼斯工业平均指数收涨591.99点，涨幅1.18%，报50774.94点；标普500指数上涨1.6%，收于7297...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T04:09:45+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T04:10:14.916202+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafpru5186287.shtml",
       "title": "美国国债下跌 股市上涨削弱避险需求",

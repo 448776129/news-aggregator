@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T04:04:21.194931+08:00",
-  "count": 481,
+  "generated_at": "2026-11-28T04:10:22.949554+08:00",
+  "count": 486,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,81 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261127004671:0",
+      "title": "Precious Metals Rally as AI Trade Revives Risk Appetite — 2nd Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127004671:0-precious-metals-rally-as-ai-trade-revives-risk-appetite-2nd-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T04:09:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T04:10:15.142064+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD",
+          "COMEX:SI1!",
+          "NYMEX:PL1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC6BBSQY:0",
+      "title": "Thor Medical Appoints Christian Bekkevold Nilsen As Chief Financial Officer Effective January 1",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC6BBSQY:0-thor-medical-appoints-christian-bekkevold-nilsen-as-chief-financial-officer-effective-january-1/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T04:06:38+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T04:10:15.142064+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:TRMED"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127004661:0",
+      "title": "Lean Hogs, Live Cattle Futures Settle Higher — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127004661:0-lean-hogs-live-cattle-futures-settle-higher-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T04:04:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T04:10:15.142064+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CME:HE1!",
+          "CME:LE1!"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780OZ:0",
       "title": "Puig to buy Parfums de Marly owner from Advent in €1.2 billion deal",
@@ -204,6 +279,30 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:OBAI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:ef34d4c89094b:0",
+      "title": "NevGold Announces Graduation to the TSX Senior Board",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411486/0/en/nevgold-announces-graduation-to-the-tsx-senior-board.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T04:01:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T04:10:15.142064+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:NAU"
         ]
       }
     },
@@ -1012,6 +1111,30 @@
         "urgency": 2,
         "symbols": [
           "TSXV:RE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:beincrypto:d655913f6094b:0",
+      "title": "How Bitcoin’s Macro Trend Changed in 2026",
+      "url": "https://beincrypto.com/bitcoin-macro-trend-analysis-2027/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Beincrypto",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:33:26+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T04:10:15.142064+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
         ]
       }
     },
