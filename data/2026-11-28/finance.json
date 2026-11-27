@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T01:34:22.045371+08:00",
-  "count": 27,
+  "generated_at": "2026-11-28T01:43:30.714874+08:00",
+  "count": 28,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 3,
+      "count": 4,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiir0816795.shtml",
+      "title": "AI交易反弹 欧洲股市创5月以来最佳单周表现",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiir0816795.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "欧洲股市本周创下5月以来最大周涨幅。在经历数周的人工智能相关担忧后，市场反弹，投资者重新转向风险资产。 斯托克欧洲600指数收盘上涨1.1%，矿业股领涨。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:40:15+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:43:28.563101+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafazx3058502.shtml",
       "title": "摩根大通、高盛等华尔街银行据悉将以4亿美元了结市政债价格操纵诉讼",
