@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T03:16:20.354122+08:00",
-  "count": 60,
+  "generated_at": "2026-11-28T03:19:20.495440+08:00",
+  "count": 61,
   "sources": [
     {
       "name": "cls",
@@ -15,17 +15,36 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 50,
+      "count": 49,
       "error": ""
     },
     {
       "name": "sina",
       "status": "ok",
-      "count": 10,
+      "count": 11,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7638626.shtml",
+      "title": "上市首周大起大落 Anthropic最终站稳在发行价上方",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7638626.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "Anthropic PBC登陆纳斯达克第一周收高，股价超过了83美元的上市发行价。 该股周五在纽约上涨近11%，收于每股91.88美元，创下11月19日开始交易以来的最高收盘价...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:17:06+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:19:15.121741+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7637440.shtml",
       "title": "11月28日热门中概股大多上涨 纳斯达克中国金龙指数收涨2.96% 日月光半导体涨6.27% BOSS直聘涨6.28%",

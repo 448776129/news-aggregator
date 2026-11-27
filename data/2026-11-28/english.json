@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T03:16:20.345059+08:00",
-  "count": 409,
+  "generated_at": "2026-11-28T03:19:20.489526+08:00",
+  "count": 412,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,89 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780OB:0",
+      "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4780OB:0-gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:16:45+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:19:15.340636+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:GC1!",
+          "COMEX:SI1!",
+          "NYMEX:PL1!",
+          "NYMEX:PA1!",
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4780WS:0",
+      "title": "Canadian dollar holds on to weekly gain as investors bet on December rate hike",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4780WS:0-canadian-dollar-holds-on-to-weekly-gain-as-investors-bet-on-december-rate-hike/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:16:26+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:19:15.340636+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX_IDC:USDCAD",
+          "NYMEX:CL1!",
+          "TVC:DXY",
+          "FX:USDCAD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127004566:0",
+      "title": "Unemployment Rate Seen Holding at 4.1% — Data Week Ahead",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127004566:0-unemployment-rate-seen-holding-at-4-1-data-week-ahead/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:15:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:19:15.340636+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FRED:UMCSENT",
+          "ECONOMICS:USEC",
+          "ECONOMICS:USUR",
+          "ECONOMICS:USCONSTS",
+          "ECONOMICS:USFO"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261127004562:0",
       "title": "Nymex Platinum, Palladium Warehouse Stocks - Nov 27",
