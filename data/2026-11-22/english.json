@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T19:34:27.155390+08:00",
-  "count": 683,
+  "generated_at": "2026-11-27T19:46:17.122262+08:00",
+  "count": 684,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -6620,6 +6620,25 @@
       "published_at": "2026-11-22T22:42:00+08:00",
       "published_date": "2026-11-22",
       "fetched_at": "2026-11-27T19:34:24.821195+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:df4d0be79334ddb93bd06f741e580d6ce130c74a",
+      "title": "Strong Earnings No Match for the Crumbling AI Trade",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096d863c624eb48711b560ff3b5242&url=https%3a%2f%2fwww.bloomberg.com%2fnews%2farticles%2f2026-11-22%2fstrong-earnings-prove-no-match-for-the-crumbling-ai-trade&c=996942547770317145&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "For years, a strong earnings season has given Wall Street something to fall back on. But the crumbling artificial-intelligence trade has ripped away that support. Companies in the S&P 500 Index just ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T22:42:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-27T19:46:15.410504+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
