@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T00:52:20.307751+08:00",
-  "count": 112,
+  "generated_at": "2026-11-28T00:55:29.529030+08:00",
+  "count": 115,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 9,
+      "count": 12,
       "error": ""
     }
   ],
@@ -299,6 +299,44 @@
           "NYSE:RDDT"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/10-cheap-stocks-explosive-growth-164412420.html?.tsrc=rss",
+      "title": "10 Cheap Stocks With Explosive Growth Potential Heading into 2027",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/10-cheap-stocks-explosive-growth-164412420.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "US stocks fell back on November 25 after a sharp rally earlier in the week. The Dow Jones Industrial Average rose 0.3%, while the S&P 500 fell 0.2% and the Nasdaq Composite fell about 0.6%. Chip stocks sold off, new tariffs were proposed, and the PCE index showed that price increases picked up in October. […]",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:44:12+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:55:23.573160+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/27/tech-stock-sell-off-down-23-is-meta-a-buy-now/?.tsrc=rss",
+      "title": "Tech Stock Sell-Off: Down 23%, Is Meta a Buy Now?",
+      "url": "https://www.fool.com/investing/2026/11/27/tech-stock-sell-off-down-23-is-meta-a-buy-now/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Meta's AI spending is eye-popping, but its ad business is already growing fast enough to show the bet is working.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:43:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:55:23.573160+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:cnbctv:f8fd8364c094b:0",
@@ -702,6 +740,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/27/should-you-invest-2000-in-stock-right-now/?.tsrc=rss",
+      "title": "Should You Invest $2,000 in Oklo Right Now?",
+      "url": "https://www.fool.com/investing/2026/11/27/should-you-invest-2000-in-stock-right-now/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Oklo is down but not out. Should you buy the dip on this nuclear energy stock?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:35:02+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:55:23.573160+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:urn:summary_document_slides:quartr.com:4896217:0",
