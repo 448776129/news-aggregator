@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T00:31:22.281090+08:00",
-  "count": 54,
+  "generated_at": "2026-11-28T00:34:24.710280+08:00",
+  "count": 75,
   "sources": [
     {
       "name": "alpaca",
@@ -27,7 +27,7 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 42,
+      "count": 50,
       "error": ""
     },
     {
@@ -38,6 +38,484 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0499Fa:0",
+      "title": "REG - Thorpe(F.W.) PLC - Result of AGM",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0499Fa:0-reg-thorpe-f-w-plc-result-of-agm/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:33:58+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TFW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0498Fa:0",
+      "title": "REG - CT Healthcare Trust - Result of Quarterly Tender",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0498Fa:0-reg-ct-healthcare-trust-result-of-quarterly-tender/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:32:29+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:CTHT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4896210:0",
+      "title": "RHM: A more conservative €33bn–€37bn 2030 target pairs growth with execution buffers",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4896210:0-rhm-a-more-conservative-33bn-37bn-2030-target-pairs-growth-with-execution-buffers/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:31:50+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:RHM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:85fd8bb49094b:0",
+      "title": "Dallas Fed's 12-month Trimmed Mean PCE inflation rate rises in October",
+      "url": "https://seekingalpha.com/news/4677063-dallas-feds-12-month-trimmed-mean-pce-inflation-rate-rises-in-october?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:31:32+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N478103:0",
+      "title": "Vertex Pharma falls after FDA extends review of kidney disease drug",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N478103:0-vertex-pharma-falls-after-fda-extends-review-of-kidney-disease-drug/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:31:26+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:VRTX",
+          "TSE:4768",
+          "NASDAQ:VERA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:1832800cfd282:0",
+      "title": "SAP Weighs At Least 10,000 Job Cuts Amid AI Shift",
+      "url": "https://www.tradingview.com/news/moodys:1832800cfd282:0-sap-weighs-at-least-10-000-job-cuts-amid-ai-shift/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:31:22+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:SAP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:7f37bdfeabfff:0",
+      "title": "Right Diagnosis, Right Treatment: The Role Of Laboratory Testing In Tackling AMR",
+      "url": "https://www.tradingview.com/news/moodys:7f37bdfeabfff:0-right-diagnosis-right-treatment-the-role-of-laboratory-testing-in-tackling-amr/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:31:18+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:moodys:47963fb33b248:0",
+      "title": "Llyoyd Monteiro Takes On VP, Business HR & Talent Acquisition Role At IndiaFirst Life",
+      "url": "https://www.tradingview.com/news/moodys:47963fb33b248:0-llyoyd-monteiro-takes-on-vp-business-hr-talent-acquisition-role-at-indiafirst-life/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:31:14+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:PAYX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN478138:0",
+      "title": "Pkp Cargo Q3 Net Loss 254.9 Million Zlotys",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN478138:0-pkp-cargo-q3-net-loss-254-9-million-zlotys/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:31:08+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:PKP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780KD:0",
+      "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4780KD:0-gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:31:04+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:GC1!",
+          "COMEX:SI1!",
+          "NYMEX:PL1!",
+          "NYMEX:PA1!",
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127003773:0",
+      "title": "Forex Volatility Could Rise as Central Banks' Rate Expectations Diverge — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127003773:0-forex-volatility-could-rise-as-central-banks-rate-expectations-diverge-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:31:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3946526:0",
+      "title": "SKH: Revenue rose, but earnings fell against a prior year boosted by a one-time acquisition gain",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3946526:0-skh-revenue-rose-but-earnings-fell-against-a-prior-year-boosted-by-a-one-time-acquisition-gain/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:30:59+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:SKH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0496Fa:0",
+      "title": "REG - Titon Holdings PLC - Form 8.3 - Titon Holdings Plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0496Fa:0-reg-titon-holdings-plc-form-8-3-titon-holdings-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:30:43+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TON"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:d2a2e756f094b:0",
+      "title": "Amazon has wall-to-wall free sports coverage on Black Friday",
+      "url": "https://seekingalpha.com/news/4677033-amazon-has-wall-to-wall-free-sports-coverage-on-black-friday?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:30:26+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMZN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:439ec22b88ae6:0",
+      "title": "Bavarian Nordic A/S (BAVA) Reports Managerial Securities Transactions",
+      "url": "https://www.tradingview.com/news/tradingview:439ec22b88ae6:0-bavarian-nordic-a-s-bava-reports-managerial-securities-transactions/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:30:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:BAVA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:c8a27a2a4094b:0",
+      "title": "Report of transactions of shares and related securities of Bavarian Nordic by persons holding managerial responsibilities and/or persons/companies closely associated with such",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411415/0/en/report-of-transactions-of-shares-and-related-securities-of-bavarian-nordic-by-persons-holding-managerial-responsibilities-and-or-persons-companies-closely-associated-with-such.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:30:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:BAVA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127003767:0",
+      "title": "U.A.E. Set to Lead Gulf Lending Growth as Banks Navigate Credit Risks — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127003767:0-u-a-e-set-to-lead-gulf-lending-growth-as-banks-navigate-credit-risks-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:30:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780VI:0",
+      "title": "GCM Resources Suspends Datuk Michael Tang As CEO With Immediate Effect",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4780VI:0-gcm-resources-suspends-datuk-michael-tang-as-ceo-with-immediate-effect/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:29:52+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:GCM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4896195:0",
+      "title": "FDX: 2029 targets pair ~$8B operating income with ~$6B adjusted free cash flow",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4896195:0-fdx-2029-targets-pair-8b-operating-income-with-6b-adjusted-free-cash-flow/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:28:59+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:FDX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4896194:0",
+      "title": "CNVI: FDA-cleared hybrid IVUS-OCT platform enters U.S. limited market release",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4896194:0-cnvi-fda-cleared-hybrid-ivus-oct-platform-enters-u-s-limited-market-release/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:27:45+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:CNVI"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780KG:0",
       "title": "Corn, soy basis flat to weaker after autumn harvests",
@@ -729,6 +1207,30 @@
         "urgency": 2,
         "symbols": [
           "OMXSTO:LIFCO_B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:eqs:03e0f7562094b:0",
+      "title": "Hugo Boss AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+      "url": "https://www.eqs-news.com/news/voting-rights/the-goldman-sachs-group-inc-wilmington-de-united-states-of-america-usa/f1b3e15f-3562-41a7-9eba-db0c8ac4212a_en",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "EQS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:11:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:34:21.875115+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:BOSS"
         ]
       }
     },
