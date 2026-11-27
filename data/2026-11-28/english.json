@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T05:55:44.432561+08:00",
-  "count": 635,
+  "generated_at": "2026-11-28T05:58:20.955562+08:00",
+  "count": 638,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,54 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_Tnw7HV8vN:0",
+      "title": "Infinitum Announces Non-Brokered Private Placement",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_Tnw7HV8vN:0-infinitum-announces-non-brokered-private-placement/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TheNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:55:05+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:58:14.970688+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:INFI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:8f468c02b29f4:0",
+      "title": "Infinitum Copper Corp. (INFI) Plans Private Placement of Up to $300K",
+      "url": "https://www.tradingview.com/news/tradingview:8f468c02b29f4:0-infinitum-copper-corp-infi-plans-private-placement-of-up-to-300k/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:55:05+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:58:14.970688+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:INFI"
+        ]
+      }
+    },
     {
       "id": "tradingview:cryptobriefing:18af48419094b:0",
       "title": "Scott Aaronson says AI labs may hold unreleased math results that could weaken RSA",
@@ -83,6 +131,30 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:GURE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_S0N46T04R:0",
+      "title": "Brazil's Axia Energia Cuts Stake In Isa Energia to 6.08%",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S0N46T04R:0-brazil-s-axia-energia-cuts-stake-in-isa-energia-to-6-08/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:52:05+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:58:14.970688+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BMFBOVESPA:AXIA3"
         ]
       }
     },
