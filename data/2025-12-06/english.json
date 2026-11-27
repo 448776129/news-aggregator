@@ -1,0 +1,61 @@
+{
+  "date": "2025-12-06",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-27T15:58:19.815255+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:8c562a0949c88903c793750e40944db1f2ad6d62",
+      "title": "Understanding the Black Economy: Overview, Examples, and Implications",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0938189d0f442fa6f730e661bd0784&url=https%3a%2f%2fwww.investopedia.com%2fterms%2fb%2fblack-economy.asp&c=3999121649836113463&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Investopedia contributors come from a range of backgrounds, and over 25 years there have been thousands of expert writers and editors who have contributed. Pete Rathburn is a copy editor and ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2025-12-06T21:27:00+08:00",
+      "published_date": "2025-12-06",
+      "fetched_at": "2026-11-27T15:58:17.927141+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
