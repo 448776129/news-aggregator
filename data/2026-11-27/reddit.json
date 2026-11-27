@@ -3,13 +3,13 @@
   "category": "reddit",
   "category_name": "Reddit 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T20:58:18.640493+08:00",
-  "count": 206,
+  "generated_at": "2026-11-27T21:01:20.419415+08:00",
+  "count": 207,
   "sources": [
     {
       "name": "reddit",
       "status": "ok",
-      "count": 45,
+      "count": 50,
       "error": ""
     }
   ],
@@ -33,6 +33,29 @@
       "category": "reddit",
       "extra": {
         "subreddit": "wallstreetbets",
+        "score": 1,
+        "num_comments": 0
+      }
+    },
+    {
+      "id": "reddit:1y6smgp",
+      "title": "Samsung Chairman Rejects Elon Musk’s Long-Term Memory Chip Supply Proposal",
+      "url": "https://www.reddit.com/r/stocks/comments/1y6smgp/samsung_chairman_rejects_elon_musks_longterm/",
+      "source": "reddit",
+      "source_name": "Reddit",
+      "author": "rdh2dmd",
+      "summary": "Samsung Chairman Lee Jae-yong reportedly turned down Elon Musk’s attempts to secure a dedicated long-term memory chip supply for Tesla, highlighting Samsung's massive leverage amid a global memory shortage. * **The Rejected Offers:** According to a *Wall Street Journal* report citing Capital Group portfolio manager Carl Kawaja (recounting a June conversation with Musk), Musk first offered a long-term purchase commitment. When Lee responded that \"everyone else was offering him that\" and asked what more Tesla could do, Musk followed up with financing guarantees for new Samsung fabs which Lee also rejected. * **A Sold-Out Order Book:** Samsung has no urgency to lock in new memory buyers because most of its memory production capacity from **2027 through 2029** is already booked. During its Q3 earnings, Samsung noted it has already signed long-term agreements (LTAs) with 10 major clients and is actively negotiating with 10 more, with industry shortages projected to persist until new plants come online around 2028. * **Foundry Ties Remain Intact:** The memory rebuff hasn't derailed the two companies' broader partnership. Samsung still holds a **$16.5 billion** foundry contract to manufacture Tesla’s next-gen AI6 chips at its Taylor, Texas fab, alongside upcoming production work on Tesla's AI5 chip. [https://sammyguru.com/samsung-chairman-reject-elon-musk-long-term-memory-chip-supply-proposal/](https://sammyguru.com/samsung-chairman-reject-elon-musk-long-term-memory-chip-supply-proposal/)",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:57:31+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:01:19.247836+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "reddit",
+      "extra": {
+        "subreddit": "stocks",
         "score": 1,
         "num_comments": 0
       }
