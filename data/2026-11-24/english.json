@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T21:25:20.003518+08:00",
-  "count": 6956,
+  "generated_at": "2026-11-27T21:31:21.811763+08:00",
+  "count": 6957,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 1,
       "error": ""
     },
     {
@@ -30790,6 +30790,25 @@
       "published_at": "2026-11-24T23:05:00+08:00",
       "published_date": "2026-11-24",
       "fetched_at": "2026-11-27T21:25:17.762144+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:52d159d633c633d5d0373a86369d24299f98b473",
+      "title": "Dell Technologies Q3 2027 Earnings: Recap of $DELL Earnings Call, Stock Forecast",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b098626eca64da6aa95ccbfef7908b0&url=https%3a%2f%2fwww.thestreet.com%2flatest-news%2fdell-technologies-q3-2027-earnings-call-stock-updates&c=5526427317085581840&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Dell Technologies ( DELL) is scheduled to report third-quarter earnings after the market closes today. Analysts expect the tech giant to post adjusted earnings of $6.26 to $6.76 per share on revenue ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-24T23:05:00+08:00",
+      "published_date": "2026-11-24",
+      "fetched_at": "2026-11-27T21:31:20.171429+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
