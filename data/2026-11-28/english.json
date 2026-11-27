@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T07:19:20.232450+08:00",
-  "count": 715,
+  "generated_at": "2026-11-28T07:25:18.539834+08:00",
+  "count": 718,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,78 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4122167:0",
+      "title": "TLT: Losses narrowed as financing strengthened cash and bladder-cancer results advanced toward 2027 submissions",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4122167:0-tlt-losses-narrowed-as-financing-strengthened-cash-and-bladder-cancer-results-advanced-toward-2027-submissions/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T07:21:18+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T07:25:13.608769+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:TLT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:570678ec5094b:0",
+      "title": "GRAFTA Nanotech Announces Filing of Third Quarter Financials and Provides Corporate Update",
+      "url": "https://www.newsfilecorp.com/release/326268/GRAFTA-Nanotech-Announces-Filing-of-Third-Quarter-Financials-and-Provides-Corporate-Update",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T07:17:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T07:25:13.608769+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:GFTA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:faa052c7dfce6:0",
+      "title": "GRAFTA Nanotech Corp. (GFTA) Appoints MNP as Auditor",
+      "url": "https://www.tradingview.com/news/tradingview:faa052c7dfce6:0-grafta-nanotech-corp-gfta-appoints-mnp-as-auditor/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T07:17:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T07:25:13.608769+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:GFTA"
+        ]
+      }
+    },
     {
       "id": "tradingview:tmx_newsfile:8e2e3dda9094b:0",
       "title": "IFR Reports 2026 Third Quarter Financial Results",
