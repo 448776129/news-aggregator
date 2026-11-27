@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T07:49:15.647526+08:00",
-  "count": 730,
+  "generated_at": "2026-11-28T07:55:29.832302+08:00",
+  "count": 734,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,104 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:stocktwits:40cb5a01f094b:0",
+      "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
+      "url": "https://stocktwits.com/news-articles/markets/equity/the-weekly-spread-what-shaped-us-treasury-yields-and-the-dollar-this-week-2/cNb6BZLR9VS",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T07:52:26+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T07:55:24.350499+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:TLT",
+          "NASDAQ:SHY",
+          "NYSE:BOND"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:2a277ec96d8b6:0",
+      "title": "Mexico Fund 10% Owner Purchased Shares Worth Over $2.2M",
+      "url": "https://www.tradingview.com/news/tradingview:2a277ec96d8b6:0-mexico-fund-10-owner-purchased-shares-worth-over-2-2m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T07:50:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T07:55:24.350499+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:MXF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:2717ef3d6094b:0",
+      "title": "Grupo Aeroportuario del Pacifico Announces the Results of the Initial Public Offering of FIBRA GAP, Totaling PS. 7,820.1 Million",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411512/0/en/grupo-aeroportuario-del-pacifico-announces-the-results-of-the-initial-public-offering-of-fibra-gap-totaling-ps-7-820-1-million.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T07:45:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T07:55:24.350499+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BMV:GAP/B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:af9c355d72409:0",
+      "title": "Grupo Aeroportuario del Pacífico (GAP/B) Raises Ps. 7,820.1M in FIBRA GAP IPO",
+      "url": "https://www.tradingview.com/news/tradingview:af9c355d72409:0-grupo-aeroportuario-del-pac-fico-gap-b-raises-ps-7-820-1m-in-fibra-gap-ipo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T07:45:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T07:55:24.350499+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BMV:GAP/B"
+        ]
+      }
+    },
     {
       "id": "tradingview:tradingview:154be3003644a:0",
       "title": "JD.com Director Sold Shares Worth Over $797K",
