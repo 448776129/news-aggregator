@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T01:10:20.987941+08:00",
-  "count": 22,
+  "generated_at": "2026-11-28T01:13:18.377135+08:00",
+  "count": 23,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 20,
+      "count": 22,
       "error": ""
     },
     {
@@ -26,6 +26,27 @@
     }
   ],
   "items": [
+    {
+      "id": "jin10:20261128010708927800",
+      "title": "市场消息：法国加入荷兰行列，反对美国拟议的出口限制。",
+      "url": "https://www.jin10.com/#/flash/20261128010708927800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "市场消息：法国加入荷兰行列，反对美国拟议的出口限制。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:07:08+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:13:12.531718+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
     {
       "id": "jin10:20261128010409769800",
       "title": "【Anthropic盘中涨超10%】金十数据11月28日讯，周五盘中，Anthropic(ANT.O)股价涨超10%至91美元上方，有望结束连续两个交易日收盘低",

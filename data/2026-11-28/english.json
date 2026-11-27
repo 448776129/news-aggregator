@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T01:07:18.514993+08:00",
-  "count": 141,
+  "generated_at": "2026-11-28T01:13:18.374896+08:00",
+  "count": 142,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,30 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 15,
+      "count": 16,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mostly-rise-markets-025702679.html?.tsrc=rss",
+      "title": "Stocks gain as tech rebound holds, but Nvidia dips",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mostly-rise-markets-025702679.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Global stock markets rallied on Friday, with technology firms extending gains at the end of a turbulent week marked by the uncertain outlook for the massive spending by AI heavyweights.Major European markets closed the week in the green, London adding 0.8 percent and Frankfurt and Paris both ending with similar gains.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:05:52+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:13:13.549569+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0543Fa:0",
       "title": "REG - City of London IT - Issue of Equity",
