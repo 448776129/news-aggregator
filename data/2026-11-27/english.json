@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T10:22:17.671433+08:00",
-  "count": 927,
+  "generated_at": "2026-11-27T10:25:20.059189+08:00",
+  "count": 930,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -38,6 +38,25 @@
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/26/stocks-are-plunging-right-now-heres-what-history-s/?.tsrc=rss",
+      "title": "Stocks Are Plunging Right Now. Here's What History Says Investors Should Do.",
+      "url": "https://www.fool.com/investing/2026/11/26/stocks-are-plunging-right-now-heres-what-history-s/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Stocks briefly swung into correction territory in November; here's why staying invested may be a smart choice.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:20:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:25:14.802952+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:DJN_DN20261126004375_20261126004375:0",
       "title": "AFT Pharmaceuticals Price Target Raised 25% to NZ$6.30/Share by Forsyth Barr",
@@ -1790,6 +1809,25 @@
           "ASX:AHF"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/could-tesla-tsla-merger-talks-013007632.html?.tsrc=rss",
+      "title": "What Could Tesla (TSLA) Merger Talks Mean For Its Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/could-tesla-tsla-merger-talks-013007632.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Tesla (NasdaqGS:TSLA) and SpaceX are reportedly in advanced talks over a potential merger of their operations. The proposed deal would bring Tesla's automotive, AI, and robotics units under a shared structure with SpaceX's aerospace business. A combined group would consolidate Elon Musk's AI compute infrastructure, autonomous systems research, and launch capabilities into a single corporate entity. The reported Tesla and SpaceX merger talks are important, but investors should weigh them...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:30:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:25:14.802952+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770D8:0",
@@ -13731,6 +13769,25 @@
       "published_at": "2026-11-27T02:09:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T10:22:15.191071+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:bf20f83008113a4c40dabc3c4a1eadfc0195bdfb",
+      "title": "Adobe: The Next Chapter Is Still Being Written (Q4 Earnings Preview)",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08ea0ba13543d7a95edbe74c013ba2&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972410-adobe-the-next-chapter-is-still-being-written-q4-earnings-preview&c=8851009591392163459&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Adobe's freemium monthly active users rose 70% to over 100 million in Q3, while AI-first ARR grew over 150% to $650 million.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:09:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:25:16.606198+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",

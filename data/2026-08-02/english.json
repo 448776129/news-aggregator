@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-02",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-27T10:25:19.418429+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:f86a9963db247cd7470363bd946165fc37d2d1fd",
+      "title": "The Stock Market Is Doing Something Observed Only 6 Times Since 1871 -- and the Previous 5 ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08ea0ad0664ada8697a44e65574505&url=https%3a%2f%2fwww.fool.com%2finvesting%2f2026%2f08%2f02%2fstock-market-do-something-6-times-1871-wall-street%2f&c=3714066435381535225&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The stock market has crushed all other asset classes on an annualized return basis over the long term. Stocks have entered dubious valuation territory that's only been visited a half-dozen times over ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-08-02T12:36:00+08:00",
+      "published_date": "2026-08-02",
+      "fetched_at": "2026-11-27T10:25:16.606198+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
