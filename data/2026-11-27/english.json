@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T09:10:16.585830+08:00",
-  "count": 794,
+  "generated_at": "2026-11-27T09:13:23.682189+08:00",
+  "count": 796,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261126004231_20261126004253:0",
+      "title": "CVC: Sale of TRY Expected to Be Completed in December",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004231_20261126004253:0-cvc-sale-of-try-expected-to-be-completed-in-december/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:12:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:13:20.301013+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:CVC"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261126004248:0",
       "title": "Australia Orders LNG Exporters Reserve Some Gas to Plug Shortages at Home",
@@ -1122,6 +1146,28 @@
           "NZX:NZ50G",
           "SP:XJO"
         ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N46N040:0",
+      "title": "Central bank money an anchor of trust in diversifying monetary system, BOJ official says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46N040:0-central-bank-money-an-anchor-of-trust-in-diversifying-monetary-system-boj-official-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:56:30+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:13:20.301013+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
