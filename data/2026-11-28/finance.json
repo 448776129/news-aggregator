@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T06:34:19.780379+08:00",
-  "count": 106,
+  "generated_at": "2026-11-28T07:52:27.735483+08:00",
+  "count": 107,
   "sources": [
     {
       "name": "cls",
@@ -21,7 +21,7 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 26,
+      "count": 27,
       "error": ""
     }
   ],
@@ -1392,6 +1392,25 @@
       "extra": {
         "important": 0
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/jjxw/2026-11-28/doc-inkafiiv2940873.shtml",
+      "title": "不任职不代表可免责 监管重拳打击“幕后玩家”",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-28/doc-inkafiiv2940873.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "证券时报",
+      "summary": "证券时报记者 胡敏文 日前，神雾节能公告，收到江西证监局下发的《行政处罚事先告知书》，因年报虚假记载，上市公司连同5名相关责任人合计拟被罚1570万元...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:10:14+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T07:52:22.330950+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "jin10:20261128020711851800",
