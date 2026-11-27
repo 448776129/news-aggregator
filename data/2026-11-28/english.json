@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T05:10:21.351079+08:00",
-  "count": 544,
+  "generated_at": "2026-11-28T05:13:20.499865+08:00",
+  "count": 554,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,194 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47810V:0",
+      "title": "S&P Says Hungary Outlook Revised To Stable From Negative, 'Bbb-/A-3' Ratings Affirmed",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47810V:0-s-p-says-hungary-outlook-revised-to-stable-from-negative-bbb-a-3-ratings-affirmed/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:11:48+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:13:15.307917+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:business_wire:7a2d8b82f488d:0",
+      "title": "BNY Mellon Municipal Bond Closed-End Funds Declare Distributions",
+      "url": "https://www.tradingview.com/news/business_wire:7a2d8b82f488d:0-bny-mellon-municipal-bond-closed-end-funds-declare-distributions/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:11:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:13:15.307917+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BNY",
+          "NYSE:DSM",
+          "NYSE:LEO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4899217:0",
+      "title": "Paranapanema: Debt settlement transformed reported earnings, while operations remained constrained",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4899217:0-paranapanema-debt-settlement-transformed-reported-earnings-while-operations-remained-constrained/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:10:07+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:13:15.307917+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BMFBOVESPA:PMAM3"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:13e53c432a82c:0",
+      "title": "Cheche Chief Executive Officer Purchased Shares Worth Over $1.2M",
+      "url": "https://www.tradingview.com/news/tradingview:13e53c432a82c:0-cheche-chief-executive-officer-purchased-shares-worth-over-1-2m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:10:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:13:15.307917+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:51b8827b39c17:0",
+      "title": "Chubb Chief Risk Officer Sold Shares Worth Over $3.2M",
+      "url": "https://www.tradingview.com/news/tradingview:51b8827b39c17:0-chubb-chief-risk-officer-sold-shares-worth-over-3-2m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:10:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:13:15.307917+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:CB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127004876_20261127004876:0",
+      "title": "DJIA Rises 591.99 Points (1.18%)",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127004876_20261127004876:0-djia-rises-591-99-points-1-18/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:10:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:13:15.307917+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127004878_20261127004878:0",
+      "title": "Nasdaq Composite Rises 543.70 Points (2.31%)",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127004878_20261127004878:0-nasdaq-composite-rises-543-70-points-2-31/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:10:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:13:15.307917+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127004877_20261127004877:0",
+      "title": "S&P 500 Rises 114.71 Points (1.60%)",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127004877_20261127004877:0-s-p-500-rises-114-71-points-1-60/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:10:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:13:15.307917+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SP:SPX"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L5N4781EW:0",
       "title": "Cerence Inc. expected to post earnings of 22 cents a share - Earnings Preview",
@@ -84,6 +272,28 @@
         "symbols": [
           "NASDAQ:NNE"
         ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N46500U:0",
+      "title": "North Korea To Convene Ruling Workers' Party Central Committee Plenary Meeting In Late December - KCNA",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46500U:0-north-korea-to-convene-ruling-workers-party-central-committee-plenary-meeting-in-late-december-kcna/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:06:46+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:13:15.307917+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -344,6 +554,30 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:OCS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:7f83b39be25ab:0",
+      "title": "Galleon Gold Corp. (GGO) Issues 90,041 Shares for $115K in Debenture Interest",
+      "url": "https://www.tradingview.com/news/tradingview:7f83b39be25ab:0-galleon-gold-corp-ggo-issues-90-041-shares-for-115k-in-debenture-interest/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:05:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:13:15.307917+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:GGO"
         ]
       }
     },
