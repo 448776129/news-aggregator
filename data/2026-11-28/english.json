@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T02:10:17.569135+08:00",
-  "count": 304,
+  "generated_at": "2026-11-28T02:13:23.135947+08:00",
+  "count": 310,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,107 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 22,
+      "count": 23,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780VN:0",
+      "title": "Conifex Timber Secures Up To $2 Mln In Additional Non-Repayable Funding From Govt. Of Canada",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4780VN:0-conifex-timber-secures-up-to-2-mln-in-additional-non-repayable-funding-from-govt-of-canada/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:08:54+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:13:17.335574+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:CFF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUABVX4F6:0",
+      "title": "Fulcrum Therapeutics Sets Special Dividend Of $3.6095/Share Tied To Slate Medicines Deal",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUABVX4F6:0-fulcrum-therapeutics-sets-special-dividend-of-3-6095-share-tied-to-slate-medicines-deal/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:07:41+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:13:17.335574+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:FULC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:dff1f9f762479:0",
+      "title": "VisionWave Holdings, Inc. (VWAV) Closes $2.0M Offering With Warrants",
+      "url": "https://www.tradingview.com/news/tradingview:dff1f9f762479:0-visionwave-holdings-inc-vwav-closes-2-0m-offering-with-warrants/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:06:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:13:17.335574+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:VWAV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:4c1103e27094b:0",
+      "title": "VisionWave Holdings, Inc. Announces Closing of $2.0 Million Registered Direct Offering",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411466/0/en/visionwave-holdings-inc-announces-closing-of-2-0-million-registered-direct-offering.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:06:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:13:17.335574+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:VWAV"
+        ]
+      }
+    },
     {
       "id": "tradingview:seekingalpha:e521c5511094b:0",
       "title": "U.S. equities close on top on Black Friday",
@@ -311,6 +407,25 @@
       }
     },
     {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/arm-holdings-stocks-climb-3-180219496.html?.tsrc=rss",
+      "title": "Arm Holdings Stocks Climb 3.12% as CEO Haas Commits Through 2033",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-stocks-climb-3-180219496.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The CEO's new agreement keeps him at Arm through 2033, and he becomes vice chairman of majority owner SoftBank Group on December 1.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:02:19+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:13:17.004053+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780VM:0",
       "title": "Bains De Mer Monaco H1 Operating Profit €119 Million",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4780VM:0-bains-de-mer-monaco-h1-operating-profit-119-million/",
@@ -475,6 +590,25 @@
           "NASDAQ:GOOGL"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/franklin-templeton-flags-hidden-risk-180023148.html?.tsrc=rss",
+      "title": "Franklin Templeton Flags Hidden Risk in S&P 500 Investing",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/franklin-templeton-flags-hidden-risk-180023148.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Wall Street's biggest growth story comes with a catch.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:00:23+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:13:17.004053+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:coinmarketcal:f4b696d13094b:0",
