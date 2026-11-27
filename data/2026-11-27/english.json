@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T10:25:20.059189+08:00",
-  "count": 930,
+  "generated_at": "2026-11-27T10:28:16.768498+08:00",
+  "count": 939,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,164 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47802K:0",
+      "title": "Iron ore heads for third weekly loss on weak China demand",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47802K:0-iron-ore-heads-for-third-weekly-loss-on-weak-china-demand/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:26:51+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:28:12.461607+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:TIO1!",
+          "SGX:RBF1!",
+          "COMEX:EHR1!",
+          "COMEX:HRC1!",
+          "SGX:FEF1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004388_20261126004388:0",
+      "title": "Spot Gold Rises 1.3% to $3,611.89 a Troy Ounce",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004388_20261126004388:0-spot-gold-rises-1-3-to-3-611-89-a-troy-ounce/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:26:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:28:12.461607+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004388_20261126004389:0",
+      "title": "Spot Silver Rises 3.6% to $42.99 a Troy Ounce",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004388_20261126004389:0-spot-silver-rises-3-6-to-42-99-a-troy-ounce/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:26:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:28:12.461607+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47804Y:0",
+      "title": "Japan futures set for weekly gain as oil stays firm",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47804Y:0-japan-futures-set-for-weekly-gain-as-oil-stays-firm/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:24:27+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:28:12.461607+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TOCOM:TRB1!",
+          "SHFE:RU1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47801H:0",
+      "title": "Indonesian rupiah weakens in largely muted Asian FX trade",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47801H:0-indonesian-rupiah-weakens-in-largely-muted-asian-fx-trade/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:23:44+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:28:12.461607+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX_IDC:USDIDR",
+          "FX_IDC:USDKRW",
+          "FX_IDC:USDMYR",
+          "FX_IDC:USDPHP",
+          "FTMO_OANDA:USDSGD",
+          "OANDA:USDTHB",
+          "FX_IDC:USDVND",
+          "HOSE:VNINDEX",
+          "IDX:COMPOSITE",
+          "MYX:BURSA",
+          "PSE:PSEI",
+          "TVC:STI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47802X:0",
+      "title": "India's Swara Baby Products seeks $347.5 million valuation in smaller IPO",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47802X:0-india-s-swara-baby-products-seeks-347-5-million-valuation-in-smaller-ipo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:22:51+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:28:12.461607+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:FIRSTCRY"
+        ]
+      }
+    },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/26/stocks-are-plunging-right-now-heres-what-history-s/?.tsrc=rss",
       "title": "Stocks Are Plunging Right Now. Here's What History Says Investors Should Do.",
@@ -56,6 +214,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "tradingview:cnbctv:937f9e9a6094b:0",
+      "title": "Urban Company shares in focus after starting pre-booking for Native residential ACs",
+      "url": "https://www.tradingview.com/news/cnbctv:937f9e9a6094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:18:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:28:12.461607+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:URBANCO"
+        ]
+      }
     },
     {
       "id": "tradingview:DJN_DN20261126004375_20261126004375:0",
@@ -13794,6 +13976,25 @@
       "extra": {}
     },
     {
+      "id": "msn:6d6bfd903586210df4716313fce9305ddb7765f1",
+      "title": "Adobe: The Next Chapter Is Still Being Written (Q4 Earnings Preview)",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08eabcc7cb48348646bd7e49a52fd1&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972410-adobe-the-next-chapter-is-still-being-written-q4-earnings-preview&c=8851009591392163459&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Adobe's freemium monthly active users rose 70% to over 100 million in Q3, while AI-first ARR grew over 150% to $650 million.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:09:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:28:14.247601+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:c6241f1a8af4b:0",
       "title": "Stabilus SE (STM) Extends CEO Contract Through September 2030",
       "url": "https://www.tradingview.com/news/tradingview:c6241f1a8af4b:0-stabilus-se-stm-extends-ceo-contract-through-september-2030/",
@@ -19438,6 +19639,25 @@
       "published_at": "2026-11-27T00:39:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T10:16:15.700810+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6024f54483af0e9201656274c14aa165d24bcc5d",
+      "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty down 60 pts; Brent remains above $96",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08eabc0db94098abafe37719edf0a8&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:28:14.247601+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
