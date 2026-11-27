@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T02:34:19.581178+08:00",
-  "count": 340,
+  "generated_at": "2026-11-28T02:37:19.054381+08:00",
+  "count": 342,
   "sources": [
     {
       "name": "alpaca",
@@ -134,6 +134,25 @@
           "NASDAQ:FTSM"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://app.moby.co/home/news/news-peter-thiel-takes-122m-of-palantir-off-the-market?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "title": "Peter Thiel Takes $122M of Palantir Off the Market",
+      "url": "https://app.moby.co/home/news/news-peter-thiel-takes-122m-of-palantir-off-the-market?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The last time Thiel traded PLTR, he was selling.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:29:33+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:37:13.533910+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:dpa_afx:58642a5abb20d:0",
@@ -651,6 +670,25 @@
           "CRYPTO:USDTUSD"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/sandisk-stocks-jump-12-85-181316890.html?.tsrc=rss",
+      "title": "SanDisk Stocks Jump 12.85% After Kioxia and Nvidia Stretch GPU Memory With SSDs",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stocks-jump-12-85-181316890.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "A proof of concept used 144 Kioxia SSDs in an Nvidia GB200 rack to reach about 1.1 petabytes of extended memory.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:13:16+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:37:13.533910+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:f0aae19a4ee3d:0",
