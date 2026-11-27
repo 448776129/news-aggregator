@@ -3,8 +3,8 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T17:07:16.373477+08:00",
-  "count": 183,
+  "generated_at": "2026-11-27T17:16:16.912958+08:00",
+  "count": 184,
   "sources": [
     {
       "name": "stocktwits",
@@ -14,6 +14,30 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670270605",
+      "title": "$TSLA",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "misterzeng",
+      "summary": "$TSLA",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:15:21+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:16:12.065199+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "TSLA"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670270443",
       "title": "$XPEV $TSLA $SPCX XPeng is going to win the race! You absolutely have to check out the XPeng AI Day 2026 that took place",
