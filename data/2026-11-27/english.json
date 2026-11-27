@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T09:04:17.377550+08:00",
-  "count": 786,
+  "generated_at": "2026-11-27T09:10:16.585830+08:00",
+  "count": 794,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,125 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261126004248:0",
+      "title": "Australia Orders LNG Exporters Reserve Some Gas to Plug Shortages at Home",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004248:0-australia-orders-lng-exporters-reserve-some-gas-to-plug-shortages-at-home/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:09:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:10:12.811461+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:NG1!",
+          "ICEENDEX:TFM1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004231_20261126004247:0",
+      "title": "CVC: Tokyo-Based TRY Offers Educational Services, Focusing on Personalized Tutoring",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004231_20261126004247:0-cvc-tokyo-based-try-offers-educational-services-focusing-on-personalized-tutoring/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:07:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:10:12.811461+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:CVC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004246:0",
+      "title": "Press Metal's Earnings Outlook Likely Supported by Hedging Through 2029 — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004246:0-press-metal-s-earnings-outlook-likely-supported-by-hedging-through-2029-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:05:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:10:12.811461+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:PMETAL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004240:0",
+      "title": "Australia Dollar's Weakness to Extend Into 2027 — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004240:0-australia-dollar-s-weakness-to-extend-into-2027-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:04:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:10:12.811461+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004231_20261126004243:0",
+      "title": "CVC: Acquired TRY Stake From Founding Family in 2021",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004231_20261126004243:0-cvc-acquired-try-stake-from-founding-family-in-2021/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:04:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:10:12.811461+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:CVC"
+        ]
+      }
+    },
     {
       "id": "alpaca:131754069",
       "title": "Agape ATP Corporation Reports Q3 2026 Financial Results",
@@ -131,6 +250,30 @@
         "source": "fiscal.ai",
         "symbols": [
           "LHSW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:f4ac9f5bf094b:0",
+      "title": "Bank of America sees the S&P 500 climbing to 7,800 next year, making up lost ground",
+      "url": "https://www.tradingview.com/news/cnbctv:f4ac9f5bf094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:02:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:10:12.811461+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SP:SPX"
         ]
       }
     },
@@ -810,6 +953,28 @@
       }
     },
     {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N44406L:0",
+      "title": "Philippines' trade deficit widens to $6.9 billion in October",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N44406L:0-philippines-trade-deficit-widens-to-6-9-billion-in-october/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:00:53+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:10:12.811461+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
       "id": "tradingview:DJN_DN20261126004231_20261126004231:0",
       "title": "CVC: To Sell TRY Group to Polaris Buyouts",
       "url": "https://www.tradingview.com/news/DJN_DN20261126004231_20261126004231:0-cvc-to-sell-try-group-to-polaris-buyouts/",
@@ -1449,6 +1614,30 @@
         "urgency": 2,
         "symbols": [
           "LSE:HLN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:beincrypto:43766ac4f094b:0",
+      "title": "Is the Bitcoin Bear Market Repeating 2022? Key Gaps Remain",
+      "url": "https://beincrypto.com/bitcoin-bear-market-2022-comparison/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Beincrypto",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:10:12.811461+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
         ]
       }
     },
