@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T05:25:21.371519+08:00",
-  "count": 88,
+  "generated_at": "2026-11-28T05:28:23.647354+08:00",
+  "count": 90,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,51 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 16,
+      "count": 17,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafprp0799433.shtml",
+      "title": "标普将南非信用评级上调至BB+ 评级展望为稳定",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafprp0799433.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "标普将南非长期外币债务评级从BB上调至BB+，较投资级低一级。 标普将长期本币债务评级从BB上调至BBB-，为最低投资级评级。 评级展望从正面调整为稳定。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:26:28+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:28:18.359782+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261128052218999800",
+      "title": "【标普将法国的信用评级展望下调至负面】金十数据11月28日讯，随着经济低迷加剧，加之大选前政治与预算局势动荡，标普将法国的信用评级展望下调至负面。标普维持法国“",
+      "url": "https://www.jin10.com/#/flash/20261128052218999800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【标普将法国的信用评级展望下调至负面】金十数据11月28日讯，随着经济低迷加剧，加之大选前政治与预算局势动荡，标普将法国的信用评级展望下调至负面。标普维持法国“A+”评级不变，该评级较投机级（垃圾级）高出六个等级，与西班牙、日本等国处于同一水平。不过，标普表示，未来法国评级面临下调的风险正在上升。标普周五在声明中表示：“法国评级展望为负面，反映出在政治共识薄弱、难以就如何应对巨额结构性预算赤字达成一致的背景下，法国政府债务持续增加，经济增长前景低迷。”此次调整意味着，法国目前在三大评级机构的评级展望均为负面。惠誉上个月也采取了类似行动。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:22:18+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:28:17.522588+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafpru5220169.shtml",
       "title": "标普将法国评级展望调整为负面 确认长期外币债务评级为A+",
