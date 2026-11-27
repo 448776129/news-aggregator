@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T11:16:18.798130+08:00",
-  "count": 1047,
+  "generated_at": "2026-11-27T11:19:25.870982+08:00",
+  "count": 1052,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,54 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUA8VLKBH:0",
+      "title": "Ero Copper Corp Says Suspension Of Mining And Processing Activities At The Tucumã Operation",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA8VLKBH:0-ero-copper-corp-says-suspension-of-mining-and-processing-activities-at-the-tucum-operation/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:18:41+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:19:22.362113+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:ERO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004450_20261126004450:0",
+      "title": "NC Corp. Target Price Cut to KRW338,000 From KRW350,000 by Citigroup >036570.SE",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004450_20261126004450:0-nc-corp-target-price-cut-to-krw338-000-from-krw350-000-by-citigroup-036570-se/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:17:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:19:22.362113+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:036570"
+        ]
+      }
+    },
     {
       "id": "tradingview:tmx_newsfile:dfe71162e094b:0",
       "title": "District Announces Q1 2027 Results",
@@ -967,6 +1015,33 @@
           "IDX:KPIG",
           "IDX:COMPOSITE",
           "NYSE:MSCI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:beincrypto:3efa0b08d094b:0",
+      "title": "Saylor Says STRC Beat Bitcoin by 45 Points, but Strategy's MSTR Lost Nearly Half",
+      "url": "https://beincrypto.com/strategy-strc-beats-bitcoin-saylor-chart/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Beincrypto",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:43:24+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:19:22.362113+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CAPITALCOM:STRC",
+          "BITSTAMP:BTCUSD",
+          "CAPITALCOM:MSTR",
+          "NASDAQ:MSTR"
         ]
       }
     },
@@ -15967,6 +16042,25 @@
       "extra": {}
     },
     {
+      "id": "msn:87ab50875a6d0a383fdfe1503bab0e9c8ca6b3a8",
+      "title": "Adobe: The Next Chapter Is Still Being Written (Q4 Earnings Preview)",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f6ba601746de92b6072677580872&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972410-adobe-the-next-chapter-is-still-being-written-q4-earnings-preview&c=8851009591392163459&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Adobe's freemium monthly active users rose 70% to over 100 million in Q3, while AI-first ARR grew over 150% to $650 million.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:09:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:19:24.101142+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:c6241f1a8af4b:0",
       "title": "Stabilus SE (STM) Extends CEO Contract Through September 2030",
       "url": "https://www.tradingview.com/news/tradingview:c6241f1a8af4b:0-stabilus-se-stm-extends-ceo-contract-through-september-2030/",
@@ -21934,6 +22028,25 @@
       "published_at": "2026-11-27T00:39:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T11:13:14.457852+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:fa2ee569548462aaae94d71a1c53bd41d9efae5d",
+      "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty falls 60 pts lower; EMS stocks in focus",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f6ba48414445b5da2ee3fa79bd77&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:19:24.101142+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
