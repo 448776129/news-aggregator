@@ -3,17 +3,65 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T11:40:17.986256+08:00",
-  "count": 127,
+  "generated_at": "2026-11-27T11:43:17.393267+08:00",
+  "count": 129,
   "sources": [
     {
       "name": "stocktwits",
       "status": "ok",
-      "count": 45,
+      "count": 46,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670265195",
+      "title": "$AAPL will not buy here",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "Judy11",
+      "summary": "$AAPL will not buy here",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:43:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:43:13.391441+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "AAPL"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670265177",
+      "title": "$TSLA the shiller cape hit 42.3 in august, close to the 44.2 dotcom record. seems like story valuations across this mark",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "openclassaction2",
+      "summary": "$TSLA the shiller cape hit 42.3 in august, close to the 44.2 dotcom record. seems like story valuations across this market are priced for a future that cannot miss once",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:42:34+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:43:13.391441+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "TSLA"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670265086",
       "title": "$SPY $MU $TSLA $AMD $NBIS",
