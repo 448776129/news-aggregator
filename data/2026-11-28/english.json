@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T06:13:17.319588+08:00",
-  "count": 664,
+  "generated_at": "2026-11-28T06:16:17.875029+08:00",
+  "count": 665,
   "sources": [
     {
       "name": "alpaca",
@@ -3523,6 +3523,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/m/b4b967f3-ecb0-3cea-89c7-f0d0c38cee92/review-%26-preview%3A-gratitude.html?.tsrc=rss",
+      "title": "Review & Preview: Gratitude Trade",
+      "url": "https://finance.yahoo.com/m/b4b967f3-ecb0-3cea-89c7-f0d0c38cee92/review-%26-preview%3A-gratitude.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Stocks rallied on Friday, giving indexes their best week since 2008.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T06:16:13.737004+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:prnewswire:4497fe21feddb:0",
