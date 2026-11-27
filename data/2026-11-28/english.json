@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T03:52:19.794170+08:00",
-  "count": 450,
+  "generated_at": "2026-11-28T03:55:25.347120+08:00",
+  "count": 453,
   "sources": [
     {
       "name": "alpaca",
@@ -120,6 +120,55 @@
         "urgency": 2,
         "symbols": [
           "NYMEX:CL1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:a87cbc3fd04c1:0",
+      "title": "Athabasca Oil Corporation (ATH) Shareholders Approve Cenovus Arrangement",
+      "url": "https://www.tradingview.com/news/tradingview:a87cbc3fd04c1:0-athabasca-oil-corporation-ath-shareholders-approve-cenovus-arrangement/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:49:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:55:15.772295+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:ATH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:a7e8a5ff8094b:0",
+      "title": "Athabasca Oil Corporation Announces Shareholder Approval of the Proposed Arrangement with Cenovus",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411482/0/en/athabasca-oil-corporation-announces-shareholder-approval-of-the-proposed-arrangement-with-cenovus.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:49:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:55:15.772295+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:ATH",
+          "TSX:CVE"
         ]
       }
     },
@@ -1983,6 +2032,25 @@
           "SP:SPX"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/trump-ai-gambit-fuels-wild-184336528.html?.tsrc=rss",
+      "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
+      "url": "https://finance.yahoo.com/technology/ai/articles/trump-ai-gambit-fuels-wild-184336528.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The message from Washington this week was unmistakable: America must do whatever it takes to win the artificial-intelligence race with China, and the government is prepared to intervene to make it happen.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:43:36+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:55:16.067039+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:272eb9fc2b67c:0",
