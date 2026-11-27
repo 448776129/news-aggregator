@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T02:07:30.796321+08:00",
-  "count": 303,
+  "generated_at": "2026-11-28T02:10:17.569135+08:00",
+  "count": 304,
   "sources": [
     {
       "name": "alpaca",
@@ -404,6 +404,25 @@
           "NASDAQ:IXIC"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/27/nvidias-key-man-problem/?.tsrc=rss",
+      "title": "Nvidia’s Key Man Problem",
+      "url": "https://www.fool.com/investing/2026/11/27/nvidias-key-man-problem/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Talking about Nvidia, Rocket Lab, The Trade Desk, and Anthropic. A full plate.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:01:02+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:10:12.816458+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780MD:0",
