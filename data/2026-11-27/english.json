@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T14:49:28.032067+08:00",
-  "count": 1717,
+  "generated_at": "2026-11-27T14:52:20.076357+08:00",
+  "count": 1728,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,224 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N47807M:0",
+      "title": "Hagar Decides On Reverse Offer Process Buyback Of ISK 750 Mln",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N47807M:0-hagar-decides-on-reverse-offer-process-buyback-of-isk-750-mln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:50:50+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:52:14.251359+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXICE:HAGA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3944867:0",
+      "title": "TPGR: Revenue fell 35% as losses persisted, while new financing improved flexibility",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3944867:0-tpgr-revenue-fell-35-as-losses-persisted-while-new-financing-improved-flexibility/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:50:40+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:52:14.251359+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NGM:TPGR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N47807U:0",
+      "title": "CIMIC's UGL Wins Hunter Transmission Project Substation Works In Australia",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N47807U:0-cimic-s-ugl-wins-hunter-transmission-project-substation-works-in-australia/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:50:36+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:52:14.251359+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BME:ACS",
+          "XETR:HOT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:u_today:f07a5f3a9094b:0",
+      "title": "Bank of Japan Warns Stablecoins and Tokenization Threaten Financial Stability",
+      "url": "https://u.today/bank-of-japan-warns-stablecoins-and-tokenization-threaten-financial-stability",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "U.Today",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:50:21+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:52:14.251359+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSE:8301"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4770M9:0",
+      "title": "Tata Capital accepts bids for 10-year bonds, bankers say",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4770M9:0-tata-capital-accepts-bids-for-10-year-bonds-bankers-say/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:49:41+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:52:14.251359+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TATACAP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N47807S:0",
+      "title": "Terveystalo Records About €59 Mln In Impairment-Related Write-Offs In Q4",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N47807S:0-terveystalo-records-about-59-mln-in-impairment-related-write-offs-in-q4/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:49:34+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:52:14.251359+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXHEX:TTALO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:01e7217fd094b:0",
+      "title": "Gold rises 2.2%, silver jumps 5.4% on MCX: What's driving the rally",
+      "url": "https://www.tradingview.com/news/cnbctv:01e7217fd094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:48:39+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:52:14.251359+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD",
+          "COMEX:SI1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N478036:0",
+      "title": "India's Tata Sons: the rules, the rift and what happens next",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N478036:0-india-s-tata-sons-the-rules-the-rift-and-what-happens-next/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:48:36+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:52:14.251359+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TATACOMM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N47806W:0",
+      "title": "Polenergia Units Activate Refinancing Loan, Close IRS Hedging Transactions",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N47806W:0-polenergia-units-activate-refinancing-loan-close-irs-hedging-transactions/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:48:18+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:52:14.251359+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:PEP"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_TUA99694G:0",
       "title": "Bavarian Nordic: Allan Bødskov Andersen Appointed Chief Financial Officer",
@@ -21798,6 +22016,25 @@
       }
     },
     {
+      "id": "msn:cfaedb9558abc628dd6e3a0da85c37fc2d3fa2d8",
+      "title": "Is Yara International (OB:YAR) Still A Bargain On Earnings?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09289ee9b3447eac18b7bcfc92d24d&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fyara-international-ob-yar-still-061400912.html&c=5560035152386098530&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Yara International has delivered a total return of 18.4% over the past 5 years, which naturally puts the spotlight on whether that journey is supported by the profits the business is generating today.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:14:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:52:16.042715+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770QU:0",
       "title": "Japan's JERA enters talks with Anthropic, Meta to build data centres, Nikkei reports",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770QU:0-japan-s-jera-enters-talks-with-anthropic-meta-to-build-data-centres-nikkei-reports/",
@@ -39712,6 +39949,25 @@
       "published_at": "2026-11-27T00:00:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T14:49:24.205410+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d5db12b49e2625515e3fbadac4adeb9cd8d4f0b2",
+      "title": "Tenaz Energy (TSX:TNZ) Stock Trades At A Premium To Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09289ee9b3447eac18b7bcfc92d24d&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2ftenaz-energy-tsx-tnz-stock-012706649.html&c=13302110412068100848&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Tenaz Energy has delivered very strong share price gains in recent years, which puts a spotlight on whether the current valuation is properly supported by its earnings power. With that kind of track ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:52:16.042715+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
