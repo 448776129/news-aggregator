@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T08:43:23.353738+08:00",
-  "count": 742,
+  "generated_at": "2026-11-27T08:52:16.100666+08:00",
+  "count": 743,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tmx_newsfile:0b1c63bbd094b:0",
+      "title": "Blade Resources Closes First Tranche of Private Placement",
+      "url": "https://www.newsfilecorp.com/release/326074/Blade-Resources-Closes-First-Tranche-of-Private-Placement",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:47:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:52:11.838977+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:AZCU"
+        ]
+      }
+    },
     {
       "id": "tradingview:cnbctv:bcec25bca094b:0",
       "title": "Sensex Today | Stock Market LIVE Updates: Nifty bulls continue to push for 26,000; Crude prices rise",
