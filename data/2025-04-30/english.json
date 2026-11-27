@@ -1,0 +1,61 @@
+{
+  "date": "2025-04-30",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-27T17:37:14.917866+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:76840eaf82d9f3ed9d3f35095e947ae615ab7936",
+      "title": "U.S. economy shrank 0.3% in the first quarter as Trump policy uncertainty weighed on businesses",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b094f48160f4daa859946df3d863238&url=https%3a%2f%2fwww.cnbc.com%2f2025%2f04%2f30%2fgdp-q1-2025-.html&c=14197541053083051365&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Gross domestic product fell at a 0.3% annualized pace, largely pushed by a surge in imports ahead of President Donald Trump's tariffs. Imports soared 41.3%, driven by a 50.9% increase in goods.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2025-04-30T13:30:00+08:00",
+      "published_date": "2025-04-30",
+      "fetched_at": "2026-11-27T17:37:14.162726+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
