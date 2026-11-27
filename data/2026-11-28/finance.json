@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T03:34:24.298408+08:00",
-  "count": 63,
+  "generated_at": "2026-11-28T03:52:19.801050+08:00",
+  "count": 66,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,72 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 11,
+      "count": 12,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7655547.shtml",
+      "title": "11月28日美股成交额前20：Anthropic收涨10.98% 创下11月19日开始交易以来的最高收盘价",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7655547.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "周二美股成交额第2名英伟达收涨0.80%，成交269.76亿美元。 美国总统特朗普谈及推动黄仁勋复职一事时称：“我认为我为美国、甚至全世界做了一件大好事。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:52:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:52:15.378179+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261128034535161800",
+      "title": "【美债收益率曲线创近两年最平坦水平，凯投宏观警告紧缩政策或拖累增长与盈利】金十数据11月28日讯，凯投宏观首席市场经济学家戈尔特曼表示，美国国债收益率曲线目前处",
+      "url": "https://www.jin10.com/#/flash/20261128034535161800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【美债收益率曲线创近两年最平坦水平，凯投宏观警告紧缩政策或拖累增长与盈利】金十数据11月28日讯，凯投宏观首席市场经济学家戈尔特曼表示，美国国债收益率曲线目前处于去年初以来最平坦水平。尽管市场对于这一指标究竟能提供多大预测信号仍存争议，但他警告称：“短期国债收益率相对于长期国债收益率维持高位，反映市场参与者认为紧缩货币政策未来将进一步拖累经济增长和企业获利。”",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:45:35+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:52:15.534350+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261128033055378800",
+      "title": "美国原油期货收于每桶83.08美元，下跌60美分，跌幅0.72%。",
+      "url": "https://www.jin10.com/#/flash/20261128033055378800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "美国原油期货收于每桶83.08美元，下跌60美分，跌幅0.72%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:30:55+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:52:15.534350+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "jin10:20261128032825521800",
       "title": "据伊朗学生通讯社：伊朗海军少将伊朗尼表示，如今，敌方任何舰艇只要进入霍尔木兹海峡相关海域，就会遭到伊朗伊斯兰革命卫队海军和伊朗陆军海军的打击。",

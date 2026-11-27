@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T03:49:19.802457+08:00",
-  "count": 447,
+  "generated_at": "2026-11-28T03:52:19.794170+08:00",
+  "count": 450,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,91 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUA1PRRC5:0",
+      "title": "Athabasca Oil Corporation Expects Final Court Order On Cenovus Energy Deal On December 1",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA1PRRC5:0-athabasca-oil-corporation-expects-final-court-order-on-cenovus-energy-deal-on-december-1/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:51:15+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:52:15.700132+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:ATH",
+          "TSX:CVE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4780W6:0",
+      "title": "Brazil leads LatAm higher as Lula taps Bradesco chairman for finance chief",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4780W6:0-brazil-leads-latam-higher-as-lula-taps-bradesco-chairman-for-finance-chief/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:50:21+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:52:15.700132+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BMFBOVESPA:IBOV",
+          "BMFBOVESPA:PETR3",
+          "BMFBOVESPA:VALE3",
+          "FX_IDC:USDBRL",
+          "FX_IDC:USDCLP",
+          "FX_IDC:USDPEN",
+          "FX_IDC:USDMXN",
+          "FX_IDC:USDCOP",
+          "BVC:ICAP",
+          "BMV:ME",
+          "FX_IDC:USDARS",
+          "FOREXCOM:USDBRL",
+          "FX:USDMXN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:8fdb937c48ace:0",
+      "title": "Crude Oil Slides As Trump Offers More Time For Diplomacy To Resolve Iran Crisis",
+      "url": "https://www.tradingview.com/news/dpa_afx:8fdb937c48ace:0-crude-oil-slides-as-trump-offers-more-time-for-diplomacy-to-resolve-iran-crisis/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:49:38+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:52:15.700132+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:CL1!"
+        ]
+      }
+    },
     {
       "id": "tradingview:tradingview:4afa42c10f480:0",
       "title": "VisionWave Raises About $2 Million in Registered Offering With Resettable Warrants",
