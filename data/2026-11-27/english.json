@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T11:25:17.422243+08:00",
-  "count": 1069,
+  "generated_at": "2026-11-27T11:28:19.892355+08:00",
+  "count": 1073,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,56 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47800Y:0",
+      "title": "Gold rebounds from one-year low as AI jitters ease",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47800Y:0-gold-rebounds-from-one-year-low-as-ai-jitters-ease/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:26:26+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:28:15.170124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:GC1!",
+          "COMEX:SI1!",
+          "NYMEX:PL1!",
+          "NYMEX:PA1!",
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004461:0",
+      "title": "Path for Australian Interest Rates Harder to See — Analysis",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004461:0-path-for-australian-interest-rates-harder-to-see-analysis/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:25:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:28:15.170124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261126004455:0",
       "title": "NC Corp.'s Growth Outlook Brightens Despite Sector Derating — Market Talk",
@@ -16322,6 +16372,25 @@
       "extra": {}
     },
     {
+      "id": "msn:f93839c7cf768e641c206ad47a1d16db91906213",
+      "title": "Adobe: The Next Chapter Is Still Being Written (Q4 Earnings Preview)",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f8cf4a4546d49cb0bc82e828b7e5&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972410-adobe-the-next-chapter-is-still-being-written-q4-earnings-preview&c=8851009591392163459&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Adobe's freemium monthly active users rose 70% to over 100 million in Q3, while AI-first ARR grew over 150% to $650 million.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:09:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:28:16.992753+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:c6241f1a8af4b:0",
       "title": "Stabilus SE (STM) Extends CEO Contract Through September 2030",
       "url": "https://www.tradingview.com/news/tradingview:c6241f1a8af4b:0-stabilus-se-stm-extends-ceo-contract-through-september-2030/",
@@ -22384,6 +22453,25 @@
       "published_at": "2026-11-27T00:39:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T11:25:15.896422+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:e35064c0fb31300c2d6ee69dfdd72731a7769427",
+      "title": "Sensex Today | Stock Market LIVE Updates: IGI shares worth ₹280 crore change hands in ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f8cffce640d6a2a503617a22aecb&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:28:16.992753+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
