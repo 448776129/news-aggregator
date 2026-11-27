@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T03:01:19.492376+08:00",
-  "count": 384,
+  "generated_at": "2026-11-28T03:07:19.581011+08:00",
+  "count": 401,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 0,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,336 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261127004523:0",
+      "title": "Soybeans Close Week With Solid Gains — Daily Grain Highlights",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127004523:0-soybeans-close-week-with-solid-gains-daily-grain-highlights/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:05:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:07:14.320887+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOT:ZS1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:c751cb1b46d39:0",
+      "title": "Researchers Identify New Depression Subtype Linked To Body's Internal Clock",
+      "url": "https://www.tradingview.com/news/dpa_afx:c751cb1b46d39:0-researchers-identify-new-depression-subtype-linked-to-body-s-internal-clock/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:02:54+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:07:14.320887+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3944685:0",
+      "title": "edyoutec: 10Monkeys entered UAE sales as costs fell, but recurring revenue growth remains unproven",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3944685:0-edyoutec-10monkeys-entered-uae-sales-as-costs-fell-but-recurring-revenue-growth-remains-unproven/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:00:49+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:07:14.320887+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FWB:7Q4"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:199f9defd094b:0",
+      "title": "Catalyst Watch: Jobs report, Jensen Huang in DC, and Cyber Monday",
+      "url": "https://seekingalpha.com/news/4677053-catalyst-watch-jobs-report-jensen-huang-in-dc-and-cyber-monday?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:00:07+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:07:14.320887+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:MU",
+          "NASDAQ:ASTS",
+          "NASDAQ:AVZO",
+          "NASDAQ:ULBI",
+          "NASDAQ:ANDE",
+          "NYSE:SOC",
+          "NYSE:TE",
+          "NASDAQ:UPST",
+          "NYSE:RBRK",
+          "NASDAQ:EXOZ",
+          "NASDAQ:INIO",
+          "NASDAQ:QNT",
+          "NASDAQ:LFTO",
+          "NASDAQ:PSNL",
+          "NASDAQ:TEM",
+          "NYSE:NIO",
+          "NYSE:ASAN",
+          "NYSE:BOX",
+          "NASDAQ:MRVL",
+          "NASDAQ:OKTA",
+          "NASDAQ:MDB",
+          "NYSE:XPEV",
+          "NASDAQ:LI",
+          "OTC:BYDDF",
+          "NASDAQ:NVDA",
+          "NASDAQ:MNST",
+          "NASDAQ:WMT",
+          "NYSE:HD",
+          "NYSE:STZ",
+          "NYSE:BMO",
+          "NYSE:BNS",
+          "NASDAQ:CBRL",
+          "NYSE:AEO",
+          "NASDAQ:FIVE",
+          "NYSE:CRM",
+          "NYSE:SNOW",
+          "NYSE:BKSY",
+          "NASDAQ:NSIT",
+          "NASDAQ:BATRA",
+          "OTC:BATRB",
+          "NASDAQ:DKNG",
+          "NYSE:FLUT",
+          "NYSE:RCI",
+          "NASDAQ:COST",
+          "NYSE:KR",
+          "NYSE:DG",
+          "NASDAQ:DOCU",
+          "NYSE:PD",
+          "NYSE:GWRE",
+          "NYSE:NSC",
+          "NYSE:UNP",
+          "NYSE:VOYG",
+          "NYSE:DIS",
+          "NASDAQ:CMCSA",
+          "NYSE:LION",
+          "NYSE:HSY",
+          "NASDAQ:BHF",
+          "TSX:BMO",
+          "NYSE:FUN",
+          "TSX:BNS",
+          "TSX:RCI.A",
+          "HKEX:2015",
+          "NASDAQ:AMBA",
+          "NASDAQ:SGRY",
+          "NYSE:BRBR",
+          "NYSE:SPHR",
+          "HKEX:9868",
+          "NASDAQ:PLBL",
+          "NASDAQ:ANT",
+          "NASDAQ:NUCL",
+          "NASDAQ:ASPE",
+          "NASDAQ:BBTX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:59cff5e7f094b:0",
+      "title": "ALX Oncology Reports Inducement Grant as permitted by the Nasdaq Listing Rules",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411478/0/en/alx-oncology-reports-inducement-grant-as-permitted-by-the-nasdaq-listing-rules.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:07:14.320887+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ALXO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127004503:0",
+      "title": "Major Canadian Economic Indicators Expected Next Week",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127004503:0-major-canadian-economic-indicators-expected-next-week/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:07:14.320887+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:4e0e6545f0104:0",
+      "title": "Orexo AB (publ) (ORX) Raises SEK 175M; Nonparticipants Face 86.2% Dilution",
+      "url": "https://www.tradingview.com/news/tradingview:4e0e6545f0104:0-orexo-ab-publ-orx-raises-sek-175m-nonparticipants-face-86-2-dilution/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:07:14.320887+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:ORX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:9fa21cbe8ab40:0",
+      "title": "Orexo announces the outcome of the rights issue",
+      "url": "https://www.tradingview.com/news/modular_finance:9fa21cbe8ab40:0-orexo-announces-the-outcome-of-the-rights-issue/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:07:14.320887+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:ORX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127004515:0",
+      "title": "Unemployment Rate Seen Holding at 4.1% — Data Week Ahead",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127004515:0-unemployment-rate-seen-holding-at-4-1-data-week-ahead/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:07:14.320887+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ECONOMICS:USEC",
+          "ECONOMICS:USFO",
+          "ECONOMICS:USCONSTS",
+          "FRED:UMCSENT",
+          "ECONOMICS:USUR"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:2cfa5782a63c0082fc00f08656d6406b5fb4bb5a",
+      "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
+      "url": "https://stocktwits.com/news-articles/markets/equity/ant-stock-ends-first-full-week-of-trading-around-11-above-ipo-price-lockup-expiry-nasdaq-100-entry-loom/cNb6Tp0R9VW?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Anthropic shares climbed back above their $83 offering price on Friday as broader tech sentiment rebounded after a turbulent first week of public trading.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:57:52+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:07:14.204602+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:stocktwits:1b5016a04094b:0",
+      "title": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
+      "url": "https://stocktwits.com/news-articles/markets/equity/ant-stock-ends-first-full-week-of-trading-around-11-above-ipo-price-lockup-expiry-nasdaq-100-entry-loom/cNb6Tp0R9VW",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:57:52+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:07:14.320887+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ANT"
+        ]
+      }
+    },
     {
       "id": "tradingview:dpa_afx:174b2499c2450:0",
       "title": "Gold Soars As Trump's Stance On Diplomacy In Iran Crisis Clouds Fed Rate Hike Concerns",
@@ -85,6 +415,49 @@
           "NYSE:PSX"
         ]
       }
+    },
+    {
+      "id": "tradingview:gurufocus:27637a738094b:0",
+      "title": "Shopify Stocks Jump 6.05% as Record Online Holiday Spending Kicks Off",
+      "url": "https://www.gurufocus.com/news/9228793/shopify-stocks-jump-605-as-record-online-holiday-spending-kicks-off",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:53:10+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:07:14.320887+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SHOP"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/27/big-short-investor-michael-burry-thinks-this-chinese-stock-is-worth-about-60-more-than-its-price-should-you-buy/?.tsrc=rss",
+      "title": "'Big Short' Investor Michael Burry Thinks This Chinese Stock Is Worth About 60% More Than Its Price. Should You Buy?",
+      "url": "https://www.fool.com/investing/2026/11/27/big-short-investor-michael-burry-thinks-this-chinese-stock-is-worth-about-60-more-than-its-price-should-you-buy/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Burry has stopped betting against the Nasdaq and is putting his money into cheap stocks overseas, led by one Chinese e-commerce giant.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:53:03+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:07:14.204602+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_SN20261127005843:0",
@@ -322,6 +695,54 @@
           "NYSE:APO",
           "NYSE:NP",
           "NASDAQ:BCFN"
+        ]
+      }
+    },
+    {
+      "id": "finnhub:8818858",
+      "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+      "url": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "CNBC",
+      "summary": "Jensen Huang's return sparked a fleeting AI rally, but persistent market volatility gave us another opportunity to put cash to work.",
+      "content": "Jensen Huang's return sparked a fleeting AI rally, but persistent market volatility gave us another opportunity to put cash to work.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:46:20+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:07:15.010502+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "CNBC",
+        "category": "top news",
+        "related": "",
+        "image": "https://image.cnbcfm.com/api/v1/image/108550021-1794492334597-gettyimages-2224669758-AFP_66W349F.jpeg?v=1795450267&w=1920&h=1080"
+      }
+    },
+    {
+      "id": "tradingview:gurufocus:c31a1f44c094b:0",
+      "title": "Vertex Stocks Fall 7.06% as FDA Pushes Kidney Drug Decision to 2027",
+      "url": "https://www.gurufocus.com/news/9228794/vertex-stocks-fall-706-as-fda-pushes-kidney-drug-decision-to-2027",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:45:16+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:07:14.320887+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:VRTX"
         ]
       }
     },
@@ -665,6 +1086,31 @@
         "urgency": 2,
         "symbols": [
           "NYSE:VMC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:gurufocus:096491bac094b:0",
+      "title": "SAP Stocks Climb 2.06% Despite Confirmed Cybersecurity Incident",
+      "url": "https://www.gurufocus.com/news/9228802/sap-stocks-climb-206-despite-confirmed-cybersecurity-incident",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:31:55+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:07:14.320887+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:SAP",
+          "XETR:SAP"
         ]
       }
     },
@@ -5069,6 +5515,30 @@
         "symbols": [
           "VIE:CPI"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8818760",
+      "title": "Britain's FTSE 100 posts biggest weekly gain in eight months as miners, banks rally - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSFRCSGhuNWlueUFObDgwZDBGenpUODhVdkhrQWtra2lxOWdNVldJZXNLVnRQNldMVTdaTmtRNUNjM3hndjJRYmtUNXE5c2p1TmMyaVVZY1M1a2dSX1Bfbm00ck8zamF0SkVUc0p2ZkM0Z0pfVVIyU0VzeU5vYklZRkxDUnBxZ3cwbktSQmROQVVacnlWekpNY3hLS2IyampaZEJPMFJ0X2dIQQ?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Britain's FTSE 100 posts biggest weekly gain in eight months as miners, banks rally Reuters",
+      "content": "Britain's FTSE 100 posts biggest weekly gain in eight months as miners, banks rally Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:16:14+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:07:15.010502+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
