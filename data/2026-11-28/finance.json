@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T00:49:19.645111+08:00",
-  "count": 13,
+  "generated_at": "2026-11-28T00:52:20.311057+08:00",
+  "count": 14,
   "sources": [
     {
       "name": "cls",
@@ -15,17 +15,36 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 13,
+      "count": 11,
       "error": ""
     },
     {
       "name": "sina",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafazt0926514.shtml",
+      "title": "欧盟1.7万亿美元长期预算案谈判破裂，27国分歧加剧年末大考压力",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafazt0926514.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "周四，欧洲领导人未能打破欧盟下一期长期预算的僵局，这使得谈判代表们面临巨大压力，必须在2027年繁忙的选举周期带来更多复杂因素之前，赶在年底前达成目标。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:49:16+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:52:15.599605+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261128004254360800",
       "title": "巴基斯坦外交部：三国再次强烈谴责胡塞武装针对沙特平民及民用基础设施的袭击。",
