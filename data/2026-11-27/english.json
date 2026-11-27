@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T11:07:15.821703+08:00",
-  "count": 1035,
+  "generated_at": "2026-11-27T11:10:16.968284+08:00",
+  "count": 1042,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,123 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261126004433:0",
+      "title": "Tenaga Nasional Earnings Likely to Remain Resilient — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004433:0-tenaga-nasional-earnings-likely-to-remain-resilient-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:09:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:10:14.184662+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:TENAGA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3694200:0",
+      "title": "AGUAS_A: 9M26 EBITDA rose 8.9% as investment and water resilience remained priorities",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3694200:0-aguas_a-9m26-ebitda-rose-8-9-as-investment-and-water-resilience-remained-priorities/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:08:25+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:10:14.184662+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BCS:AGUAS_A"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47801Y:0",
+      "title": "Palm oil climbs on Dalian oils, Indonesia export fee plan; weekly gain in sight",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47801Y:0-palm-oil-climbs-on-dalian-oils-indonesia-export-fee-plan-weekly-gain-in-sight/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:07:31+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:10:14.184662+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:FCPO1!",
+          "CME:CPO1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004426:0",
+      "title": "Key Clues About US MATCH Act Likely to Come From Defense Bill — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004426:0-key-clues-about-us-match-act-likely-to-come-from-defense-bill-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:06:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:10:14.184662+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004419:0",
+      "title": "Singapore's Manufacturing Growth Likely to Moderate in 2027 — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004419:0-singapore-s-manufacturing-growth-likely-to-moderate-in-2027-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:04:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:10:14.184662+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "alpaca:131758227",
       "title": "Sankei Real Estate Reports No Notice of KKR Bid Withdrawal",
@@ -15744,6 +15861,25 @@
       "extra": {}
     },
     {
+      "id": "msn:b46e01f14ea265c9a02bc71240fe72d0f786dd98",
+      "title": "Adobe: The Next Chapter Is Still Being Written (Q4 Earnings Preview)",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f496588c43a1b148c2add9b0eb97&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972410-adobe-the-next-chapter-is-still-being-written-q4-earnings-preview&c=8851009591392163459&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Adobe's freemium monthly active users rose 70% to over 100 million in Q3, while AI-first ARR grew over 150% to $650 million.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:09:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:10:15.771706+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:c6241f1a8af4b:0",
       "title": "Stabilus SE (STM) Extends CEO Contract Through September 2030",
       "url": "https://www.tradingview.com/news/tradingview:c6241f1a8af4b:0-stabilus-se-stm-extends-ceo-contract-through-september-2030/",
@@ -24325,6 +24461,25 @@
       "published_at": "2026-11-27T00:00:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T10:58:15.368631+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:e894fb0f49f18697828458eaf67bed3e46675a75",
+      "title": "Tenaz Energy (TSX:TNZ) Stock Trades At A Premium To Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f496588c43a1b148c2add9b0eb97&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2ftenaz-energy-tsx-tnz-stock-012706649.html&c=13302110412068100848&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Tenaz Energy has delivered very strong share price gains in recent years, which puts a spotlight on whether the current valuation is properly supported by its earnings power. With that kind of track ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:10:15.771706+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
