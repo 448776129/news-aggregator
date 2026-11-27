@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T16:10:17.151053+08:00",
-  "count": 934,
+  "generated_at": "2026-11-27T16:13:19.100849+08:00",
+  "count": 936,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 43,
+      "count": 40,
       "error": ""
     },
     {
@@ -88,6 +88,25 @@
       "extra": {
         "important": 0
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkaefwe7906295.shtml",
+      "title": "港股收评：恒指涨2.11% 恒生科技指数大涨6.45% 科网股普涨 芯片股持续走强 智谱、MINIMAX均涨超17%",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkaefwe7906295.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "新浪港股",
+      "summary": "11月27日消息，港股三大指数集体上涨。截至收盘，恒生指数涨2.11%，报22694.77，恒生科技指数涨6.45%，国企指数涨2.01%。盘面上，科网股普涨，联想、美团...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:08:49+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:13:14.738500+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "jin10:20261127160801020800",
@@ -1395,6 +1414,25 @@
       "extra": {
         "important": 1
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/roll/2026-11-27/doc-inkaefwi3244068.shtml",
+      "title": "科创50创单日历史第三高涨幅 国产算力领涨 以史为鉴后市怎么看？",
+      "url": "https://finance.sina.com.cn/roll/2026-11-27/doc-inkaefwi3244068.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "市场资讯",
+      "summary": "财联社 《科创板日报》11月27日讯今日午后，科创50指数涨幅进一步扩大，截至收盘大涨15.07%，创下单日历史第三高涨幅。 随着盘面成交显著放量，科创板批量个股走强...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T15:39:20+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:13:14.738500+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaefwe7879640.shtml",
