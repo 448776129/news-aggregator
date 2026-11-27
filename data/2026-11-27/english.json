@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T14:16:15.251365+08:00",
-  "count": 1601,
+  "generated_at": "2026-11-27T14:19:19.364892+08:00",
+  "count": 1609,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 1,
       "error": ""
     },
     {
@@ -38,6 +38,126 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3694274:0",
+      "title": "SFG: Sales recovered in Q3, but weaker margins drove lower earnings and revised guidance",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3694274:0-sfg-sales-recovered-in-q3-but-weaker-margins-drove-lower-earnings-and-revised-guidance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:18:27+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:19:14.853835+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BVB:SFG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4276948:0",
+      "title": "SFG: Q3 sales recovered, while higher costs and expansion weighed on profit",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4276948:0-sfg-q3-sales-recovered-while-higher-costs-and-expansion-weighed-on-profit/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:18:09+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:19:14.853835+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BVB:SFG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUE2S0Z1G:0",
+      "title": "Terracom Appoints Stephen Nye As Non-Executive Director",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUE2S0Z1G:0-terracom-appoints-stephen-nye-as-non-executive-director/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:17:48+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:19:14.853835+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:TER"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN477167:0",
+      "title": "Vanzo Holdings Appoints Ng Yee Heng As Executive Managing Director",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN477167:0-vanzo-holdings-appoints-ng-yee-heng-as-executive-managing-director/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:16:52+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:19:14.853835+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:VANZO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N47806I:0",
+      "title": "REN Approves Gross Dividend Of 0.064 Eur/Shr",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N47806I:0-ren-approves-gross-dividend-of-0-064-eur-shr/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:16:34+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:19:14.853835+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:RENE"
+        ]
+      }
+    },
     {
       "id": "tradingview:urn:summary_document_report:quartr.com:3677709:0",
       "title": "PLSV: Higher utilization, new contract prospects and 1.3x net leverage mark Q3 performance",
@@ -132,6 +252,54 @@
         "urgency": 2,
         "symbols": [
           "OSL:PLSV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:e7a2f056413fa:0",
+      "title": "Exosens (EXENS) Secures Order for 6,000 Night Vision Tubes",
+      "url": "https://www.tradingview.com/news/tradingview:e7a2f056413fa:0-exosens-exens-secures-order-for-6-000-night-vision-tubes/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:15:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:19:14.853835+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:EXENS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:6cf9d69c1094b:0",
+      "title": "Exosens supports Germany’s Future Soldier program with advanced 5G night vision technology",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411077/0/en/exosens-supports-germany-s-future-soldier-program-with-advanced-5g-night-vision-technology.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:15:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:19:14.853835+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:EXENS"
         ]
       }
     },
@@ -37030,6 +37198,25 @@
       "published_at": "2026-11-27T00:00:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T13:25:17.928182+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0c62f0a892fc789d258c7019265440172255aa06",
+      "title": "Tenaz Energy (TSX:TNZ) Stock Trades At A Premium To Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0920e3bec241dcb3653c4a1ba9ee53&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2ftenaz-energy-tsx-tnz-stock-012706649.html&c=13302110412068100848&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Tenaz Energy has delivered very strong share price gains in recent years, which puts a spotlight on whether the current valuation is properly supported by its earnings power. With that kind of track ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:19:16.918754+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",

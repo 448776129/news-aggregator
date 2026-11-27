@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T13:25:20.641168+08:00",
-  "count": 135,
+  "generated_at": "2026-11-27T14:19:18.846868+08:00",
+  "count": 136,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -2598,6 +2598,25 @@
       "published_at": "2026-01-15T02:47:00+08:00",
       "published_date": "2026-01-15",
       "fetched_at": "2026-11-27T13:25:17.928182+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:822be269f0ece50903ca72110cc094dc0cc5155c",
+      "title": "What Is an Earnings Report?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0920e3bec241dcb3653c4a1ba9ee53&url=https%3a%2f%2fwww.fool.com%2fterms%2fe%2fearnings-report%2f&c=5021984359977569252&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Earnings reports, mandated by the SEC, include detailed financials such as income and cash flow. Investors should monitor key metrics in these reports, including revenue growth and net margin.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-01-15T02:47:00+08:00",
+      "published_date": "2026-01-15",
+      "fetched_at": "2026-11-27T14:19:16.918754+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
