@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T13:22:19.858822+08:00",
-  "count": 6237,
+  "generated_at": "2026-11-27T13:25:20.691703+08:00",
+  "count": 6238,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 1,
       "error": ""
     },
     {
@@ -11647,6 +11647,25 @@
       "published_at": "2026-11-24T23:38:00+08:00",
       "published_date": "2026-11-24",
       "fetched_at": "2026-11-27T13:22:17.822804+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:e0f2a568480f326ff8321085103714e0920b5f20",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as chip stocks fall, investors test Nvidia-fueled rally",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09143cf5064487ade073c1511f1c6a&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fstock-market-today-dow-s-p-500-nasdaq-futures-fall-as-chip-stocks-fall-investors-test-nvidia-fueled-rally%2far-AA2i86Lx&c=14855521923332159490&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Investors took stock of a blistering stock rally and what's next for Nvidia and the AI trade.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-24T23:38:00+08:00",
+      "published_date": "2026-11-24",
+      "fetched_at": "2026-11-27T13:25:17.928182+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",

@@ -3,8 +3,8 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T13:22:20.533830+08:00",
-  "count": 154,
+  "generated_at": "2026-11-27T13:25:21.414901+08:00",
+  "count": 155,
   "sources": [
     {
       "name": "stocktwits",
@@ -14,6 +14,34 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670267345",
+      "title": "$SPY $QQQ $NVDA $TSLA $BTC.X Heads-up. 10-yr yield is spiking now. Probably due to hot core PCE number.",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "AlbertAFT",
+      "summary": "$SPY $QQQ $NVDA $TSLA $BTC.X Heads-up. 10-yr yield is spiking now. Probably due to hot core PCE number.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:22:26+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:25:15.762342+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "SPY",
+          "QQQ",
+          "NVDA",
+          "TSLA",
+          "BTC.X"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670267303",
       "title": "$FFAI $NIO $RIVN $LCID $TSLA https://youtu.be/yj1QxsrxpgI?is=b8mpBQF2ghjvrSEk",
