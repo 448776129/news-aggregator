@@ -3,17 +3,68 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T11:43:17.393267+08:00",
-  "count": 129,
+  "generated_at": "2026-11-27T11:52:24.300738+08:00",
+  "count": 131,
   "sources": [
     {
       "name": "stocktwits",
       "status": "ok",
-      "count": 46,
+      "count": 47,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670265411",
+      "title": "$TSLA buying a Tesla soon! Just drove one around with FSD and fell in love. Unbeatable",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "Dollarsforboats",
+      "summary": "$TSLA buying a Tesla soon! Just drove one around with FSD and fell in love. Unbeatable",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:52:01+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:52:19.698288+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "TSLA"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670265393",
+      "title": "$AAPL $VZ $T 👉 $GLW Corning🔥🚀📈",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "Masonato",
+      "summary": "$AAPL $VZ $T 👉 $GLW Corning🔥🚀📈",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:50:53+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:52:19.698288+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": "Bullish",
+        "symbols": [
+          "AAPL",
+          "VZ",
+          "T",
+          "GLW"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670265195",
       "title": "$AAPL will not buy here",
