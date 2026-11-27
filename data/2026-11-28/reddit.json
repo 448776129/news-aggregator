@@ -3,17 +3,86 @@
   "category": "reddit",
   "category_name": "Reddit 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T01:46:22.668501+08:00",
-  "count": 13,
+  "generated_at": "2026-11-28T01:55:22.561269+08:00",
+  "count": 16,
   "sources": [
     {
       "name": "reddit",
       "status": "ok",
-      "count": 13,
+      "count": 16,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "reddit:1y6zj7z",
+      "title": "The stock I wanted to buy is at its peak, and right after I buy it, it goes into free fall or don't rise",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1y6zj7z/the_stock_i_wanted_to_buy_is_at_its_peak_and/",
+      "source": "reddit",
+      "source_name": "Reddit",
+      "author": "Snehith220",
+      "summary": "When ever I try to pick a stock by looking at fundamentals it looks expensive. After entering at a dip it takes free fall or don't rise. If you invest and forget it doesn't rise but fall",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:53:52+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:55:21.376252+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "reddit",
+      "extra": {
+        "subreddit": "wallstreetbets",
+        "score": 1,
+        "num_comments": 0
+      }
+    },
+    {
+      "id": "reddit:1y6zj3m",
+      "title": "DD: Crypto is in extreme risk. IBIT puts",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1y6zj3m/dd_crypto_is_in_extreme_risk_ibit_puts/",
+      "source": "reddit",
+      "source_name": "Reddit",
+      "author": "gekx",
+      "summary": "I think the market is massively underpricing the risk AI poses to crypto right now. AI has been making insane leaps in math, most recently solving the Reimann Hypothesis which has eluded mathematicians for 167 years. Scott Aaronson, one of the world's leading quantum computing researchers, said he's virtually certain based on multiple reliable sources that AI labs are sitting on major cryptographic breakthroughs. Nature article: [https://www.nature.com/articles/d41586-026-03875-6](https://www.nature.com/articles/d41586-026-03875-6) There are also rumors on Twitter that P=BQP has been solved. There are 3 major mathematical breakthroughs I'm watching: * P=NP: Undermines essentially all computational cryptography. * P=BQP: Allows classical computers to achieve the same results as Shor's algorithm in polynomial time. * ECDLP: A practical solution directly breaks Bitcoin's private keys. We only need one of these to yield a practical algorithm for crypto to essentially be destroyed. Note that these formulas do not need to be released publicly, simply the information that they exist will cause the mother of all selloffs. Position: https://i.redd.it/3uz13m4zz64i1.png 100x IBIT 6 month puts at 15 strike. If my thesis is correct, I expect 80-100k profit from this trade.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:53:45+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:55:21.376252+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "reddit",
+      "extra": {
+        "subreddit": "wallstreetbets",
+        "score": 1,
+        "num_comments": 0
+      }
+    },
+    {
+      "id": "reddit:1y6zj2l",
+      "title": "AIFA’s November 20 Update: How the Pieces of Its AI Strategy Could Fit Together",
+      "url": "https://www.reddit.com/r/stocks/comments/1y6zj2l/aifas_november_20_update_how_the_pieces_of_its_ai/",
+      "source": "reddit",
+      "source_name": "Reddit",
+      "author": "AIFA-NASDAQ",
+      "summary": "[removed]",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:53:42+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:55:21.376252+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "reddit",
+      "extra": {
+        "subreddit": "stocks",
+        "score": 1,
+        "num_comments": 0
+      }
+    },
     {
       "id": "reddit:1y6z36g",
       "title": "Now I can lose money 23 hours per day, 5 days per week",
