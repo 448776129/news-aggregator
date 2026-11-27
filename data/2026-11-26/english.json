@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T23:31:23.847378+08:00",
-  "count": 10460,
+  "generated_at": "2026-11-27T23:34:19.455314+08:00",
+  "count": 10461,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 20,
+      "count": 19,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 1,
       "error": ""
     },
     {
@@ -46568,6 +46568,25 @@
       "published_at": "2026-11-26T18:07:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-27T23:25:22.323288+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:a0b3e4247d0572342ce8d5580cc502764e98f0c2",
+      "title": "Jim Cramer sends strong words to stock market investors",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09a2f8439b44959fe4f0bffe59710e&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fjim-cramer-sends-strong-words-to-stock-market-investors%2far-AA2ij2wN&c=7400492802266220061&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Jim Cramer named what the stock market is really doing on Mad Money and explained why the pain feels worse than the S&P 500 suggests and how to position now.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T18:07:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-27T23:34:18.434199+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
