@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T00:31:21.398996+08:00",
-  "count": 2361,
+  "generated_at": "2026-11-28T00:40:19.888499+08:00",
+  "count": 2363,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     },
     {
@@ -4297,6 +4297,25 @@
       "published_date": "2026-11-23",
       "fetched_at": "2026-11-27T15:40:21.599258+08:00",
       "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:5786ab9dca2a1061deea9ec800a2462f237637ee",
+      "title": "Stock Market Correction: The Most Expensive Mistake Investors Make During a 10% Drop",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09b271385f40048c4f96e818370397&url=https%3a%2f%2fwww.fool.com%2finvesting%2f2026%2f11%2f23%2fstock-market-correction-the-most-expensive-mistake-investors-make-during-a-10-drop%2f&c=16464736231231038691&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Studies have consistently shown that the average investor underperforms the overall stock market, and a big reason why is knee-jerk reactions to scary market conditions. In 2022, for example, the S&P ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T17:53:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-28T00:40:18.945359+08:00",
+      "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
       "extra": {}
@@ -21873,6 +21892,25 @@
       "published_date": "2026-11-23",
       "fetched_at": "2026-11-27T22:28:19.531247+08:00",
       "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6eac902a2daefbdb85cc99e88d09248ed941c8a1",
+      "title": "Is the stock market open on Thanksgiving, Black Friday?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09b271385f40048c4f96e818370397&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fmoney%2fis-the-stock-market-open-on-thanksgiving-black-friday%2far-AA2i27ez&c=5354299360325556885&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Thanksgiving falls on Thursday, Nov. 26, this year. Here's what to know about whether the stock market will be open or closed.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T11:04:15+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-28T00:40:18.945359+08:00",
+      "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
       "extra": {}

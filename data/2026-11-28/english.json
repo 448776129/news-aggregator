@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T00:37:20.552793+08:00",
-  "count": 82,
+  "generated_at": "2026-11-28T00:40:20.658404+08:00",
+  "count": 86,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,102 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780SZ:0",
+      "title": "Vigo Photonics Q3 Net Profit 1.5 Million Zlotys",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4780SZ:0-vigo-photonics-q3-net-profit-1-5-million-zlotys/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:38:50+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:40:17.259700+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:VGO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:a2f9fcaa12cb2:0",
+      "title": "B of A Securities maintains Regeneron Pharmaceuticals at Buy, raises price target to $1104 from $1030",
+      "url": "https://www.tradingview.com/news/tradingview:a2f9fcaa12cb2:0-b-of-a-securities-maintains-regeneron-pharmaceuticals-at-buy-raises-price-target-to-1104-from-1030/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:37:31+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:40:17.259700+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:REGN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4896229:0",
+      "title": "OM: A 2.147 Bt open-pit M&I resource anchors a potential 2032 copper project",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4896229:0-om-a-2-147-bt-open-pit-m-i-resource-anchors-a-potential-2032-copper-project/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:37:19+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:40:17.259700+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:OM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4134809:0",
+      "title": "VGO: Sales and adjusted profitability rebounded, but scale-up and covenant risks persist",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4134809:0-vgo-sales-and-adjusted-profitability-rebounded-but-scale-up-and-covenant-risks-persist/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:36:48+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:40:17.259700+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:VGO"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4780QX:0",
       "title": "Euro zone bond yields nudge lower to end the week",
