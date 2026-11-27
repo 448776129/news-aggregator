@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T09:52:17.006431+08:00",
-  "count": 885,
+  "generated_at": "2026-11-27T09:58:15.902946+08:00",
+  "count": 894,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 0,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,183 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261126004307_20261126004307:0",
+      "title": "QBE Insurance Price Target Raised 5.4% to A$29.50/Share by Barrenjoey",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004307_20261126004307:0-qbe-insurance-price-target-raised-5-4-to-a-29-50-share-by-barrenjoey/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:57:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:58:12.425824+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:QBE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N478014:0",
+      "title": "Palm oil may rise to 4,372 ringgit",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N478014:0-palm-oil-may-rise-to-4-372-ringgit/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:55:29+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:58:12.425824+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:FCPO1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:83953ef918eb0:0",
+      "title": "Japanese Market Notably Higher",
+      "url": "https://www.tradingview.com/news/dpa_afx:83953ef918eb0:0-japanese-market-notably-higher/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:54:19+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:58:12.425824+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:NI225"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004304:0",
+      "title": "Asian Currencies Consolidate Amid Cautious Mood — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004304:0-asian-currencies-consolidate-amid-cautious-mood-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:54:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:58:12.425824+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:6877e4e07094b:0",
+      "title": "First Tick: Top global cues to watch in today's trade",
+      "url": "https://www.tradingview.com/news/moneycontrol:6877e4e07094b:0-first-tick-top-global-cues-to-watch-in-today-s-trade/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:53:53+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:58:12.425824+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BSE:SENSEX",
+          "NSE:NIFTY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N477150:0",
+      "title": "Shares find footing after bruising month, dollar set for third monthly gain",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N477150:0-shares-find-footing-after-bruising-month-dollar-set-for-third-monthly-gain/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:53:32+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:58:12.425824+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ICEEUR:BRN1!",
+          "CME_MINI:ES1!",
+          "CME_MINI:NQ1!",
+          "TVC:NI225",
+          "KRX:KOSPI",
+          "SZSE:399300",
+          "NASDAQ:NVDA",
+          "NASDAQ:SPCX",
+          "TVC:DXY",
+          "FX:EURUSD",
+          "FX:NZDUSD",
+          "TVC:US10Y",
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47800W:0",
+      "title": "China's industrial firms post faster profit growth as recovery remains uneven",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47800W:0-china-s-industrial-firms-post-faster-profit-growth-as-recovery-remains-uneven/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:52:14+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:58:12.425824+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N47801I:0",
       "title": "Philippines' trade deficit widens to a record $6.9 billion in October",
@@ -20973,6 +21150,44 @@
           "LSE:ARS"
         ]
       }
+    },
+    {
+      "id": "msn:8800545ad88119132f900206f4760e47de080d73",
+      "title": "Tenaz Energy (TSX:TNZ) Stock Trades At A Premium To Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08e3b4d0db4eeeb3f527777a65c611&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2ftenaz-energy-tsx-tnz-stock-012706649.html&c=13302110412068100848&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Tenaz Energy has delivered very strong share price gains in recent years, which puts a spotlight on whether the current valuation is properly supported by its earnings power. With that kind of track ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:58:14.128686+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:c92cd0d935c9a2a72fc04a314ee56db7a169a1a2",
+      "title": "Huhtamaki (HLSE:HUH1V) Stock May Look Reasonable Based On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08e3b4d0db4eeeb3f527777a65c611&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fhuhtamaki-hlse-huh1v-stock-may-013032431.html&c=16158619199306963741&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Huhtamäki Oyj has seen mixed share-price results in recent years, which puts extra focus on whether today's valuation is properly backed by what the business earns. With the stock around €27.00, the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:58:14.128686+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     }
   ]
 }
