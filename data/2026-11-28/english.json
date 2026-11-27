@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T01:55:22.555373+08:00",
-  "count": 262,
+  "generated_at": "2026-11-28T01:58:21.088789+08:00",
+  "count": 263,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 20,
+      "count": 21,
       "error": ""
     }
   ],
@@ -3452,6 +3452,25 @@
           "NASDAQ:NVDA"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/pltr-vs-arm-ai-tech-165200990.html?.tsrc=rss",
+      "title": "PLTR vs. ARM: Which AI-Tech Stock is Better Positioned Now?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/pltr-vs-arm-ai-tech-165200990.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Palantir and Arm Holdings stand to benefit from accelerating AI adoption, but stronger revenue growth, profitability and liquidity give one stock an edge over the other.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:52:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:58:15.904472+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN47810K:0",
