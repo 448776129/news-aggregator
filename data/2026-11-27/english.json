@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T11:31:15.391328+08:00",
-  "count": 1075,
+  "generated_at": "2026-11-27T11:34:18.500822+08:00",
+  "count": 1090,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "error": ""
     },
     {
@@ -38,6 +38,221 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261126004480_20261126004480:0",
+      "title": "QBE Insurance Target Price Raised 5.9% to A$26.75/Share by Citi>QBE.AU",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004480_20261126004480:0-qbe-insurance-target-price-raised-5-9-to-a-26-75-share-by-citi-qbe-au/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:32:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:34:14.426178+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:QBE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:c4aca5465094b:0",
+      "title": "Why gold remains attractive despite volatility; Lyn Alden explains",
+      "url": "https://www.tradingview.com/news/cnbctv:c4aca5465094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:30:15+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:34:14.426178+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4880610:0",
+      "title": "FEX: FY26 growth supports Beebyn ramp-up and the next stage of Weld Range development",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4880610:0-fex-fy26-growth-supports-beebyn-ramp-up-and-the-next-stage-of-weld-range-development/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:30:13+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:34:14.426178+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:FEX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:f8d3695b2094b:0",
+      "title": "Hertz Energy Announces Amendment to Previously Announced Non-Brokered Private Placement",
+      "url": "https://www.newsfilecorp.com/release/326083/Hertz-Energy-Announces-Amendment-to-Previously-Announced-NonBrokered-Private-Placement",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:34:14.426178+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:HZ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:e488a889bca1d:0",
+      "title": "Hertz Energy Inc. (HZ) Cuts Amended Placement Size to $1.31M",
+      "url": "https://www.tradingview.com/news/tradingview:e488a889bca1d:0-hertz-energy-inc-hz-cuts-amended-placement-size-to-1-31m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:34:14.426178+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:HZ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004466:0",
+      "title": "Japan 13-Wk TD-Bill 99.6600 Lowest Price To Yld 1.2706%",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004466:0-japan-13-wk-td-bill-99-6600-lowest-price-to-yld-1-2706/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:34:14.426178+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:moodys:0192b8ee4fd9b:0",
+      "title": "XIAOMI-W SkyNomad Series Total Deliveries Exceed 60,000 Units",
+      "url": "https://www.tradingview.com/news/moodys:0192b8ee4fd9b:0-xiaomi-w-skynomad-series-total-deliveries-exceed-60-000-units/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "AASTOCKS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:29:01+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:34:14.426178+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1810"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:9de9a77d5094b:0",
+      "title": "Tata Steel-APL Apollo deal structure has 'infirmities'; sweetened offer may not be enough: IiAS",
+      "url": "https://www.tradingview.com/news/cnbctv:9de9a77d5094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:28:09+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:34:14.426178+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TATASTEEL",
+          "NSE:APLAPOLLO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004463:0",
+      "title": "Sime Darby's Earnings Outlook Likely to Remain Clouded — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004463:0-sime-darby-s-earnings-outlook-likely-to-remain-clouded-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:27:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:34:14.426178+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SIME"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47800Y:0",
       "title": "Gold rebounds from one-year low as AI jitters ease",
@@ -80,6 +295,28 @@
       "published_at": "2026-11-27T11:25:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T11:28:15.170124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:db2878868094b:0",
+      "title": "International Gemological Institute shares worth ₹281 crore change hands in pre-open block window",
+      "url": "https://www.tradingview.com/news/cnbctv:db2878868094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:24:41+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:34:14.426178+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -135,6 +372,44 @@
           "HKEX:780"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/articles/5-best-quantum-computing-stocks-032149616.html?.tsrc=rss",
+      "title": "5 Best Quantum Computing Stocks To Buy for 2027",
+      "url": "https://finance.yahoo.com/technology/articles/5-best-quantum-computing-stocks-032149616.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Quantum computing is entering a consequential period as technology companies work to turn experimental processors into systems capable of solving commercially relevant problems. The competition increasingly extends beyond building more qubits to improving their reliability, reducing error-correction requirements, and integrating quantum hardware with conventional computing infrastructure. The industry’s commercial opportunity is also beginning to take […]",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:21:49+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:34:14.287707+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/26/nvidia-is-down-35-from-its-all-time-high-tied-for-its-biggest-drop-since-the-ai-boom-began-is-it-a-buy/?.tsrc=rss",
+      "title": "Nvidia Is Down 35% From Its All-Time High, Tied for Its Biggest Drop Since the AI Boom Began. Is It a Buy?",
+      "url": "https://www.fool.com/investing/2026/11/26/nvidia-is-down-35-from-its-all-time-high-tied-for-its-biggest-drop-since-the-ai-boom-began-is-it-a-buy/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia is a bargain buy right now.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:20:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:34:14.287707+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261126004452_20261126004452:0",
@@ -13815,6 +14090,25 @@
       }
     },
     {
+      "id": "msn:22c6b5dea5925aef262ab7a34235084974ec1dae",
+      "title": "Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade higher",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08fa36acf746cf9d989f196fec47a3&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-share-price-27-november-2026%2fliveblog%2f136206762.cms&c=17461454488585503924&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "GIFT Nifty on the NSE IX trades lower, signalling that Dalal Street is set for a negative start on Friday as investors remain cautious ahead of the opening bell.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T03:24:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:34:16.468843+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:benzinga:19364ffcd094b:0",
       "title": "Google’s Amazon Blind Spot: Gemini Recommends It More Than Any Retailer, But Never Links to It",
       "url": "https://www.tradingview.com/news/benzinga:19364ffcd094b:0-google-s-amazon-blind-spot-gemini-recommends-it-more-than-any-retailer-but-never-links-to-it/",
@@ -16404,6 +16698,25 @@
       "published_at": "2026-11-27T02:09:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T11:31:14.472030+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:37bb8775d130d09b828f6b3498a8735db3e442ea",
+      "title": "Adobe: The Next Chapter Is Still Being Written (Q4 Earnings Preview)",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08fa37aaec4be39ad16025c4d62903&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972410-adobe-the-next-chapter-is-still-being-written-q4-earnings-preview&c=8851009591392163459&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Adobe's freemium monthly active users rose 70% to over 100 million in Q3, while AI-first ARR grew over 150% to $650 million.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:09:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:34:16.468843+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -22491,6 +22804,25 @@
       "published_at": "2026-11-27T00:39:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T11:28:16.992753+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:332cf2c09901a0836380104aa3b8f8cf7f6d24c6",
+      "title": "Sensex Today | Stock Market LIVE Updates: IGI shares worth ₹280 crore change hands in ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08fa36acf746cf9d989f196fec47a3&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:34:16.468843+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
