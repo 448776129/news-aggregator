@@ -3,17 +3,43 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T10:55:15.350485+08:00",
-  "count": 122,
+  "generated_at": "2026-11-27T11:04:20.262710+08:00",
+  "count": 123,
   "sources": [
     {
       "name": "stocktwits",
       "status": "ok",
-      "count": 44,
+      "count": 45,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670264091",
+      "title": "$CVR $AAPL $NVDA https://www.themirror.com/news/us-news/billionaire-carl-icahn-loses-93-2122732",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "Maribor",
+      "summary": "$CVR $AAPL $NVDA https://www.themirror.com/news/us-news/billionaire-carl-icahn-loses-93-2122732",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:02:38+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:04:13.732760+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": "Bullish",
+        "symbols": [
+          "CVR",
+          "AAPL",
+          "NVDA"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670263824",
       "title": "$BTC.X $TSLA $SPY $NVDA $AKAN Fibonacci sequence activated.. protocol initiated. Resistance is futile!",
