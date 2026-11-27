@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T17:07:16.291513+08:00",
-  "count": 2452,
+  "generated_at": "2026-11-27T17:10:18.320209+08:00",
+  "count": 2508,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 6,
       "error": ""
     },
     {
@@ -38,6 +38,679 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:dpa_afx:b32ea48f445b4:0",
+      "title": "Entain Agrees To AU$185 Mln Settlement With AUSTRAC Over AML Breaches",
+      "url": "https://www.tradingview.com/news/dpa_afx:b32ea48f445b4:0-entain-agrees-to-au-185-mln-settlement-with-austrac-over-aml-breaches/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:09:16+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:ENT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47606F:0",
+      "title": "Meituan Q3 revenue meets estimates as delivery demand offsets competition",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47606F:0-meituan-q3-revenue-meets-estimates-as-delivery-demand-offsets-competition/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:08:38+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:3690",
+          "NYSE:BABA",
+          "HKEX:89618"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001471:0",
+      "title": "Spritzer Bhd Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001471:0-spritzer-bhd-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:08:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SPRITZER"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001472_20261127001473:0",
+      "title": "TIME dotCom 3Q EPS MYR0.0622",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001472_20261127001473:0-time-dotcom-3q-eps-myr0-0622/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:08:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:TIMECOM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001472_20261127001472:0",
+      "title": "TIME dotCom 3Q Net MYR115M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001472_20261127001472:0-time-dotcom-3q-net-myr115m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:08:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:TIMECOM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001472_20261127001474:0",
+      "title": "TIME dotCom 3Q Rev MYR499.3M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001472_20261127001474:0-time-dotcom-3q-rev-myr499-3m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:08:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:TIMECOM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001472:0",
+      "title": "TIME dotCom Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001472:0-time-dotcom-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:08:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:TIMECOM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4270482:0",
+      "title": "Tele Columbus: Internet gains and recapitalisation plans counter TV pressure and divestment impacts",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4270482:0-tele-columbus-internet-gains-and-recapitalisation-plans-counter-tv-pressure-and-divestment-impacts/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:07:04+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HAM:TC1"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47807Y:0",
+      "title": "Belgian minister says offers for 20% stake in Belfius bank are too low",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47807Y:0-belgian-minister-says-offers-for-20-stake-in-belfius-bank-are-too-low/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:06:58+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:cryptobriefing:84ca2a036094b:0",
+      "title": "Bitcoin defends June low as key support, Glassnode says",
+      "url": "https://cryptobriefing.com/bitcoin-defends-june-low-support-glassnode/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:06:23+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001463:0",
+      "title": "Paragon Globe Malaysia 2nd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001463:0-paragon-globe-malaysia-2nd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:06:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:PGLOBE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001462:0",
+      "title": "Reservoir Link Energy Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001462:0-reservoir-link-energy-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:06:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:RL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001448_20261127001466:0",
+      "title": "Rheinmetall Backs 2030 Cash Conversion Rate View",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001448_20261127001466:0-rheinmetall-backs-2030-cash-conversion-rate-view/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:06:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:RHM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001448_20261127001467:0",
+      "title": "Rheinmetall Sees 2030 Cash Conversion Rate Above 50%",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001448_20261127001467:0-rheinmetall-sees-2030-cash-conversion-rate-above-50/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:06:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:RHM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001464:0",
+      "title": "Supreme Consolidated Rscs Malaysia 4th-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001464:0-supreme-consolidated-rscs-malaysia-4th-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:06:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:SUPREME"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4780LH:0",
+      "title": "Sharetronic Data Technology Plans To Boost Capital In Unit",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4780LH:0-sharetronic-data-technology-plans-to-boost-capital-in-unit/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:05:44+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SZSE:300857"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N45T04T:0",
+      "title": "South Korea's Kakao Founder Kim Cleared Of SM Entertainment Stock Manipulation Charges As Prosecutors Drop Appeal - Yonhap",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45T04T:0-south-korea-s-kakao-founder-kim-cleared-of-sm-entertainment-stock-manipulation-charges-as-prosecutors-drop-appeal-yonhap/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:05:27+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:035720",
+          "TSE:4772"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001448_20261127001459:0",
+      "title": "Rheinmetall Raises 2030 Oper Margin View",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001448_20261127001459:0-rheinmetall-raises-2030-oper-margin-view/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:05:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:RHM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001448_20261127001461:0",
+      "title": "Rheinmetall Sees 2030 Oper Margin Of About 20%, Prior About 15.5%",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001448_20261127001461:0-rheinmetall-sees-2030-oper-margin-of-about-20-prior-about-15-5/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:05:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:RHM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001454:0",
+      "title": "AGX Group Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001454:0-agx-group-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:04:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:AGX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001452:0",
+      "title": "CI Holdings Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001452:0-ci-holdings-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:04:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:CIHLDG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:88d75c2f1094b:0",
+      "title": "LVMH 2026 Interim dividend",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411113/0/en/lvmh-2026-interim-dividend.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:04:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:MC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:e794e1ccd4b55:0",
+      "title": "LVMH Moët Hennessy Louis Vuitton (MC) Sets €5.50 Interim Dividend",
+      "url": "https://www.tradingview.com/news/tradingview:e794e1ccd4b55:0-lvmh-mo-t-hennessy-louis-vuitton-mc-sets-5-50-interim-dividend/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:04:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:MC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001456:0",
+      "title": "Meituan Posts Earnings Beat as Price War Cools",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001456:0-meituan-posts-earnings-beat-as-price-war-cools/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:04:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:3690"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001453:0",
+      "title": "Mudajaya Group Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001453:0-mudajaya-group-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:04:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:MUDAJYA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001448_20261127001450:0",
+      "title": "Rheinmetall Sees 2030 Sales Between EUR33B and EUR37B, Prior Roughly EUR50B",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001448_20261127001450:0-rheinmetall-sees-2030-sales-between-eur33b-and-eur37b-prior-roughly-eur50b/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:04:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:RHM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4273449:0",
+      "title": "CHINA GAS HOLDINGS: Revenue growth and LPG profit gains offset softer gross profit and services performance",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4273449:0-china-gas-holdings-revenue-growth-and-lpg-profit-gains-offset-softer-gross-profit-and-services-performance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:03:27+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:384"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001448_20261127001448:0",
+      "title": "Rheinmetall Cuts 2030 Sales View",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001448_20261127001448:0-rheinmetall-cuts-2030-sales-view/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:03:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:RHM"
+        ]
+      }
+    },
     {
       "id": "alpaca:131789988",
       "title": "Tullow Oil Announces Strategic Transactions and Group Restructuring Update",
@@ -59,6 +732,30 @@
         "source": "fiscal.ai",
         "symbols": [
           "TLW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:f6b0b158237a3:0",
+      "title": "Titan shares gain 1.4% as gold rebounds from 1-year low",
+      "url": "https://www.tradingview.com/news/moodys:f6b0b158237a3:0-titan-shares-gain-1-4-as-gold-rebounds-from-1-year-low/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:02:54+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TITAN"
         ]
       }
     },
@@ -107,6 +804,56 @@
         "source": "fiscal.ai",
         "symbols": [
           "HUD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:bd7eb9dfe4dba:0",
+      "title": "Asian Shares Rally On Hopes Of Policy Support",
+      "url": "https://www.tradingview.com/news/dpa_afx:bd7eb9dfe4dba:0-asian-shares-rally-on-hopes-of-policy-support/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:02:37+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SSE:000001",
+          "HSI:HSI",
+          "TVC:NI225"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4884723:0",
+      "title": "ATANA: BioNavis deal expands reach as Q3 losses widen",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4884723:0-atana-bionavis-deal-expands-reach-as-q3-losses-widen/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:02:23+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NGM:ATANA"
         ]
       }
     },
@@ -563,6 +1310,126 @@
         "source": "fiscal.ai",
         "symbols": [
           "GRL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001446:0",
+      "title": "Ahmad Zaki Resources Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001446:0-ahmad-zaki-resources-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:02:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:AZRB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001447:0",
+      "title": "Aimflex Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001447:0-aimflex-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:02:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:AIMFLEX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001445:0",
+      "title": "Binasat Communications Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001445:0-binasat-communications-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:02:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:BINACOM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001444:0",
+      "title": "Far East Holdings Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001444:0-far-east-holdings-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:02:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:FAREAST"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001443:0",
+      "title": "Perak Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001443:0-perak-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:02:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:PRKCORP"
         ]
       }
     },
@@ -1235,6 +2102,346 @@
         "source": "fiscal.ai",
         "symbols": [
           "035720"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47808S:0",
+      "title": "Global brands shift hundreds of millions in orders from Bangladesh to India amid unrest",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47808S:0-global-brands-shift-hundreds-of-millions-in-orders-from-bangladesh-to-india-amid-unrest/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:01:33+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BME:ITX",
+          "LSE:MKS",
+          "OMXSTO:HM_B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001442:0",
+      "title": "Rheinmetall Gets $810 Million Tank Order From Romania",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001442:0-rheinmetall-gets-810-million-tank-order-from-romania/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:01:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:RHM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:1285e260d094b:0",
+      "title": "Germany's unemployment stays flat at 6.40% in November",
+      "url": "https://seekingalpha.com/news/4676922-germany-unemployment-stays-flat-at-640-in-november?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:00:55+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:GF",
+          "NASDAQ:FGM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:8e685610a094b:0",
+      "title": "Kinetiq: Supply unlock covers about 3.6% of circulating tokens - Feb 2027",
+      "url": "https://coinmarketcal.com/event/token-unlock-da7f2316-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:00:23+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:KNTQUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:3228a9dfe094b:0",
+      "title": "Kinetiq: Unlocks at Least 12.92 Million KNTQ - Jan 2027",
+      "url": "https://coinmarketcal.com/event/token-unlock-545d4788-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:00:16+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:KNTQUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:77267ff17094b:0",
+      "title": "Sahara AI: Unlocks at Least 72.4 Million SAHARA - 26 Nov 2027",
+      "url": "https://coinmarketcal.com/event/1-1-supply-unlock-50437500-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:00:08+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BINANCE:TUSDT.P"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_S8N45G0EA:0",
+      "title": "Euro zone consumers sharply increase inflation expectation, ECB survey shows",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N45G0EA:0-euro-zone-consumers-sharply-increase-inflation-expectation-ecb-survey-shows/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:00:01+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0728b2542400b:0",
+      "title": "FORESIGHT VCT PLC Seeks Up to £20M Through Share Offer",
+      "url": "https://www.tradingview.com/news/tradingview:0728b2542400b:0-foresight-vct-plc-seeks-up-to-20m-through-share-offer/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:a1520cb268ca4:0",
+      "title": "Lumito enters into collaboration with CTC, strengthening its pathway to new customer projects in clinical research and drug development",
+      "url": "https://www.tradingview.com/news/modular_finance:a1520cb268ca4:0-lumito-enters-into-collaboration-with-ctc-strengthening-its-pathway-to-new-customer-projects-in-clinical-research-and-drug-development/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NGM:LUMITO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:0081ecd41094b:0",
+      "title": "Publication of an Offer Document",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411111/0/en/publication-of-an-offer-document.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:FTV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001429:0",
+      "title": "Rising Oil Prices Could Weigh on Euro Versus Dollar — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001429:0-rising-oil-prices-could-weigh-on-euro-versus-dollar-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:CL1!",
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N478072:0",
+      "title": "Gold gains nearly 3% as dollar rally stalls, equities stabilise",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N478072:0-gold-gains-nearly-3-as-dollar-rally-stalls-equities-stabilise/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:59:59+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:GC1!",
+          "COMEX:SI1!",
+          "NYMEX:PL1!",
+          "NYMEX:PA1!",
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47803H:0",
+      "title": "Acenta Enters Distribution Deal With SportAI",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47803H:0-acenta-enters-distribution-deal-with-sportai/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:59:28+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:PADEL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4262674:0",
+      "title": "RHM: A more conservative 2030 plan targets €33-37bn sales and ~20% margins",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4262674:0-rhm-a-more-conservative-2030-plan-targets-33-37bn-sales-and-20-margins/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:59:21+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:15.321434+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:RHM"
         ]
       }
     },
@@ -30990,6 +32197,25 @@
       }
     },
     {
+      "id": "msn:34bee97639562d7a5df4701c3455e3a7b20375c9",
+      "title": "Stock Market Live Updates: Sensex tumbles over 700 points, Nifty below 25,700; IT, FMCG ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0948f7d57246619f483a65195d2f32&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-share-price-27-november-2026%2fliveblog%2f136206762.cms&c=17461454488585503924&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "GIFT Nifty on the NSE IX trades lower, signalling that Dalal Street is set for a negative start on Friday as investors remain cautious ahead of the opening bell.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:53:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:17.048583+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tmx_newsfile:0b1c63bbd094b:0",
       "title": "Blade Resources Closes First Tranche of Private Placement",
       "url": "https://www.newsfilecorp.com/release/326074/Blade-Resources-Closes-First-Tranche-of-Private-Placement",
@@ -31433,6 +32659,25 @@
       "published_at": "2026-11-27T08:37:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T17:07:14.224776+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:ba53c3d91dee5ccb3f08829779591400e3b76a54",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to rally ahead of shortened Black Friday ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0948f7d57246619f483a65195d2f32&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-thanksgiving-holiday-shortened-black-friday-trading&c=8147742822321622525&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Friday here ahead of the the New York Stock Exchange and Nasdaq closing early.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:37:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:17.048583+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -31909,6 +33154,25 @@
           "OANDA:XAUUSD"
         ]
       }
+    },
+    {
+      "id": "msn:047b81f4e9772dd46cfcc8be9683f1ced5ecfb0c",
+      "title": "French economy contracts more than expected in third quarter",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0948f70bc84dc2b6ae485b43127c30&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2feconomy%2ffrench-economy-contracts-more-than-expected-in-third-quarter%2far-AA2il7U7&c=1518555763152116619&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nov 27 (Reuters) - France's economy contracted by 0.2% in the third quarter, final data from statistics office INSEE showed on Friday, more than the preliminary estimate for a 0.1% decline. The ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:21:40+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:17.048583+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:d6af3c862867c:0",
@@ -34593,6 +35857,25 @@
       "published_at": "2026-11-27T07:08:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T17:01:19.953824+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:49dcf29638f238525bd6c19ab7c173c0d1e472a1",
+      "title": "BJ's Restaurants (BJRI) Stock May Be Overvalued On Its Earnings Story",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0948f7abbf4a5998b3fc8804bfc40f&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fbjs-restaurants-bjri-stock-may-070836174.html&c=8783731677816608580&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "BJ's Restaurants has delivered a strong run in recent years, and that kind of climb naturally raises a simple question for you as a shareholder or potential buyer: Is the current share price properly ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:08:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:17.048583+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -39968,6 +41251,25 @@
       "published_at": "2026-11-27T05:01:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T17:07:14.224776+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:9fc4cb54ca8d7f924f731009557ddc4e307806d5",
+      "title": "Is the stock market open today? Here are the trading hours for Black Friday.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0948f7d57246619f483a65195d2f32&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-black-friday%2far-AA2iknKI&c=15349360073239060809&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A while lot of businesses are open on Black Friday but what about the stock market?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:01:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:17.048583+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -53176,6 +54478,25 @@
       "published_at": "2026-11-27T00:39:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T17:07:14.224776+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:253dffbe7b41bac26ed09f89fa8fc378705ea58e",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty down 200 points; BEML extends gains to 16%",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0948f7d57246619f483a65195d2f32&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:10:17.048583+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
