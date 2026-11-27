@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T00:46:18.762104+08:00",
-  "count": 93,
+  "generated_at": "2026-11-28T00:49:19.642838+08:00",
+  "count": 103,
   "sources": [
     {
       "name": "alpaca",
@@ -39,6 +39,78 @@
   ],
   "items": [
     {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780T0:0",
+      "title": "Pcf Group Q3 Net Profit At 9.3 Million Zlotys",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4780T0:0-pcf-group-q3-net-profit-at-9-3-million-zlotys/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:46:25+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:49:15.655202+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:PCF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0492Fa:0",
+      "title": "REG - Tate & Lyle PLC - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0492Fa:0-reg-tate-lyle-plc-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:45:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:49:15.655202+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TATE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:26754d0f10906:0",
+      "title": "Needham maintains Reddit at Buy, lowers price target to $110 from $150",
+      "url": "https://www.tradingview.com/news/tradingview:26754d0f10906:0-needham-maintains-reddit-at-buy-lowers-price-target-to-110-from-150/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:44:16+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:49:15.655202+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:RDDT"
+        ]
+      }
+    },
+    {
       "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-us-october-164220958.html?.tsrc=rss",
       "title": "Top Midday Stories: US October Advance Trade Gap Widens; Nvidia Chips Found Installed at Chinese Data Center Tied to Megaspeed",
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-us-october-164220958.html?.tsrc=rss",
@@ -56,6 +128,177 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "tradingview:seekingalpha:1783cd70e094b:0",
+      "title": "AI shopping gains ground as Salesforce sees Black Friday sales hitting $83B",
+      "url": "https://seekingalpha.com/news/4677065-ai-shopping-gains-ground-as-salesforce-sees-black-friday-sales-hitting-83b?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:41:59+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:49:15.655202+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:CRM",
+          "NASDAQ:GOOG",
+          "NASDAQ:OPENAI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0505Fa:0",
+      "title": "REG - Thames Wtr.Utltes. - Recapitalisation Update - Notice of Plan Meetings",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0505Fa:0-reg-thames-wtr-utltes-recapitalisation-update-notice-of-plan-meetings/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:41:41+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:49:15.655202+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:94NA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:2e78e48471e89:0",
+      "title": "B. Riley Securities downgrades Zscaler to Neutral from Buy, lowers price target to $245 from $260",
+      "url": "https://www.tradingview.com/news/tradingview:2e78e48471e89:0-b-riley-securities-downgrades-zscaler-to-neutral-from-buy-lowers-price-target-to-245-from-260/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:41:26+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:49:15.655202+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ZS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127003815:0",
+      "title": "Swatch Benefiting From Improving Trends in Watches — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127003815:0-swatch-benefiting-from-improving-trends-in-watches-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:41:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:49:15.655202+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SIX:UHR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0504Fa:0",
+      "title": "REG - Travis Perkins PLC Jupiter Fund Mgmt - Holding(s) in Company - TR-1",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0504Fa:0-reg-travis-perkins-plc-jupiter-fund-mgmt-holding-s-in-company-tr-1/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:40:50+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:49:15.655202+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TPK",
+          "LSE:JUP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0501Fa:0",
+      "title": "REG - Nostrum Oil & Gas - Financial Results for 9M ended 30 September 2026",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0501Fa:0-reg-nostrum-oil-gas-financial-results-for-9m-ended-30-september-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:40:11+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:49:15.655202+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:NOG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:0077a0c3e5b88:0",
+      "title": "Tesla Reportedly Plans To Acquire German Manufacturing Systems Supplier EMAG",
+      "url": "https://www.tradingview.com/news/dpa_afx:0077a0c3e5b88:0-tesla-reportedly-plans-to-acquire-german-manufacturing-systems-supplier-emag/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:40:08+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:49:15.655202+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:TSLA"
+        ]
+      }
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780SZ:0",
