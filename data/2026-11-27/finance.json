@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T17:46:17.765506+08:00",
-  "count": 1086,
+  "generated_at": "2026-11-27T17:49:17.975209+08:00",
+  "count": 1089,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 48,
+      "count": 49,
       "error": ""
     },
     {
@@ -26,6 +26,46 @@
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaenef3200334.shtml",
+      "title": "特朗普称普京想来G20就可以来：“我希望他到场”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaenef3200334.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "特朗普总统周四对记者表示，他不确定俄罗斯总统普京是否会出席下月在佛罗里达州举办的G20峰会；但如果由他说了算，只要普京愿意来，就可以参会。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:47:25+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:49:12.840127+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261127174551742800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261127174551742800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:45:51+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:49:12.773299+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/observe/2026-11-27/doc-inkaenef3199041.shtml",
       "title": "锅圈三季度利润近乎腰斩、门店净减开店目标再缩水、大股东套现4.73亿港元后股价跌超七成",
@@ -44,6 +84,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127174223129800",
+      "title": "南向资金今日净买入45.87亿元。港股通（沪）方面，中国神华、阿里巴巴-W分别获净买入11.09亿港元、8.56亿港元；中芯国际净卖出额居首，金额为3.89亿港",
+      "url": "https://www.jin10.com/#/flash/20261127174223129800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "南向资金今日净买入45.87亿元。港股通（沪）方面，中国神华、阿里巴巴-W分别获净买入11.09亿港元、8.56亿港元；中芯国际净卖出额居首，金额为3.89亿港元；港股通（深）方面，中芯国际、建设银行分别获净买入9.0亿港元、4.14亿港元；小米集团-W净卖出额居首，金额为1.18亿港元。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:42:23+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T17:49:12.773299+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261127174153084800",
