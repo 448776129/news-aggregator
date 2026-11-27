@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T02:46:18.250247+08:00",
-  "count": 366,
+  "generated_at": "2026-11-28T02:49:20.074048+08:00",
+  "count": 372,
   "sources": [
     {
       "name": "alpaca",
@@ -39,6 +39,124 @@
   ],
   "items": [
     {
+      "id": "tradingview:DJN_DN20261126004172:0",
+      "title": "Correction to South Florida Article — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004172:0-correction-to-south-florida-article-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:48:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:49:15.340429+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:85bf6fb61094b:0",
+      "title": "SunPower receives Nasdaq deficiency notice over delayed Q3 filing",
+      "url": "https://seekingalpha.com/news/4677091-sunpower-receives-nasdaq-deficiency-notice-over-delayed-q3-filing?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:44:57+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:49:15.340429+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SPWR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4780VD:0",
+      "title": "Afreximbank to sign $1.45 billion financing deal for Angola fertiliser plant",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4780VD:0-afreximbank-to-sign-1-45-billion-financing-deal-for-angola-fertiliser-plant/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:44:45+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:49:15.340429+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127004428:0",
+      "title": "Repeat: Tech Stocks Jump as Investors Take a Break From AI Jitters — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127004428:0-repeat-tech-stocks-jump-as-investors-take-a-break-from-ai-jitters-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:44:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:49:15.340429+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:IXIC",
+          "TVC:DJI",
+          "SP:SPX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:272eb9fc2b67c:0",
+      "title": "Fulcrum Therapeutics Declares Special Dividend of Up to $275.7 Million",
+      "url": "https://www.tradingview.com/news/tradingview:272eb9fc2b67c:0-fulcrum-therapeutics-declares-special-dividend-of-up-to-275-7-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:43:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:49:15.340429+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:FULC"
+        ]
+      }
+    },
+    {
       "id": "tradingview:stocktwits:23f622a62094b:0",
       "title": "PLTR Stock Sees Best Week In 4 Months: Palantir Bags Reported $300M Defense Deal With Poland",
       "url": "https://stocktwits.com/news-articles/markets/equity/pltr-stock-sees-best-week-in-4-months-palantir-bags-reported-300-m-defense-deal-with-poland/cNb6TaWR9Vg",
@@ -61,6 +179,25 @@
           "NASDAQ:PLTR"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-jensen-183902792.html?.tsrc=rss",
+      "title": "US Equity Indexes Rise as Jensen Huang's Return to Nvidia Guardrails AI Trade While Investors Slice Growth Exposure This Week",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-jensen-183902792.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "US equity indexes rose as Jensen Huang's reinstatement as Nvidia's (NVDA) chief executive officer he",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:39:02+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:49:15.222096+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261127004410:0",
