@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T00:22:29.286935+08:00",
-  "count": 44,
+  "generated_at": "2026-11-28T00:25:23.763155+08:00",
+  "count": 46,
   "sources": [
     {
       "name": "alpaca",
@@ -27,7 +27,7 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 40,
+      "count": 42,
       "error": ""
     },
     {
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261127003740:0",
+      "title": "Brookfield's Private Assets Seen Trading at Steep Discount Ahead of 2027 Fee Jump — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127003740:0-brookfield-s-private-assets-seen-trading-at-steep-discount-ahead-of-2027-fee-jump-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:23:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:25:18.596780+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BN"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261127003735:0",
       "title": "Canada Posts Budget Deficit in September on Public-Debt Charges — Update",
@@ -52,6 +76,28 @@
       "published_at": "2026-11-28T00:21:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T00:22:25.660603+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127003736:0",
+      "title": "Gulf Equities Could Gain 20%-25% Under Favorable Peace Scenario — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127003736:0-gulf-equities-could-gain-20-25-under-favorable-peace-scenario-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:21:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:25:18.596780+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
