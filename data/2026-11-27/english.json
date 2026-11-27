@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T12:40:17.794874+08:00",
-  "count": 1251,
+  "generated_at": "2026-11-27T12:43:18.922998+08:00",
+  "count": 1256,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 3,
       "error": ""
     },
     {
@@ -589,6 +589,25 @@
           "COMEX:HG1!"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-fair-value-042301514.html?.tsrc=rss",
+      "title": "Nvidia (NVDA) Stock Fair Value Falls After Analysts Reassess Leadership And Regulatory Risks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-fair-value-042301514.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Analysts have reset their fair value estimate for Nvidia from about US$320 to about US$242, which marks a clear change in how the stock’s long term potential is being framed. This shift comes alongside fresh Street research that points to renewed confidence in Jensen Huang’s leadership and AI execution, while still flagging governance and regulatory risks that could influence how closely market prices track these updated targets. As you read on, you will see how these moving pieces fit...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:23:01+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:43:13.813920+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:cnbctv:d5b10c0a9094b:0",
@@ -2550,6 +2569,25 @@
           "ASX:FEX"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/articles/microsoft-brad-smith-says-didn-033007136.html?.tsrc=rss",
+      "title": "Microsoft’s Brad Smith Says ‘We Didn’t Know’ $10 Million Trump Ballroom Donation Would Involve Demolition of the East Wing: ’We Never Expect to Get Everything Perfect",
+      "url": "https://finance.yahoo.com/technology/articles/microsoft-brad-smith-says-didn-033007136.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Microsoft Corp. Vice Chair and President Brad Smith said the company partners with every administration it can, but was not aware that its reported $10 million donation to the new White House ballroom would involve demolishing the East Wing. MSFT...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:30:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:43:13.813920+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tmx_newsfile:f8d3695b2094b:0",
@@ -19887,6 +19925,25 @@
       "extra": {}
     },
     {
+      "id": "msn:43bf228eba923b51cf40780a1e5d1b6f474f7bf0",
+      "title": "Adobe: The Next Chapter Is Still Being Written (Q4 Earnings Preview)",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b090a62b98e4e0490ea0c53b4b1b32f&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972410-adobe-the-next-chapter-is-still-being-written-q4-earnings-preview&c=8851009591392163459&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Adobe's freemium monthly active users rose 70% to over 100 million in Q3, while AI-first ARR grew over 150% to $650 million.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:09:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:43:15.719312+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:c6241f1a8af4b:0",
       "title": "Stabilus SE (STM) Extends CEO Contract Through September 2030",
       "url": "https://www.tradingview.com/news/tradingview:c6241f1a8af4b:0-stabilus-se-stm-extends-ceo-contract-through-september-2030/",
@@ -20263,6 +20320,25 @@
       "published_at": "2026-11-27T02:04:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T12:40:14.911582+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:3bb7f7f4ae270f758d8479475f74affc868a4810",
+      "title": "Stock Market LIVE: IT शेयरों में तेज बिकवाली का ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b090a615e2244748d005e0a5f93ca41&url=https%3a%2f%2fhindi.business-standard.com%2fmarkets%2fstock-market%2fstock-market-live-updates-27-november-2026-sensex-nifty-today-gift-nifty-share-market-news-id-17950531394%2f&c=16606766826370253539&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stock Market Live Updates: गुरुवार को भारतीय शेयर बाजार की तेजी में आईटी शेयरों का अहम योगदान रहा था। हालांकि, बैंक निफ्टी गिरावट के साथ बंद हुआ ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:04:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:43:15.719312+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -29076,6 +29152,25 @@
       "published_at": "2026-11-27T00:00:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T12:40:14.911582+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0a60a02996af01b89377473764885552b6175cd6",
+      "title": "Tenaz Energy (TSX:TNZ) Stock Trades At A Premium To Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b090a62b98e4e0490ea0c53b4b1b32f&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2ftenaz-energy-tsx-tnz-stock-012706649.html&c=13302110412068100848&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Tenaz Energy has delivered very strong share price gains in recent years, which puts a spotlight on whether the current valuation is properly supported by its earnings power. With that kind of track ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:43:15.719312+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
