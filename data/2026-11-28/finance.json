@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T01:16:21.392431+08:00",
-  "count": 24,
+  "generated_at": "2026-11-28T01:22:19.610988+08:00",
+  "count": 25,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafazt0939638.shtml",
+      "title": "欧洲债市：风险情绪提振意大利和法国国债表现 英债及德债走低",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafazt0939638.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "股市上涨之际，英国和德国国债下跌，标普500指数有望录得2025年5月以来最佳单周表现。 英国国债收益率曲线各期限上升2至3个基点，跟随美国国债走势；掉期市场显示...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:19:09+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:22:14.120345+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261128010844688800",
       "title": "【英国钢铁业要求修改英欧协议，称欧盟钢企获不公平竞争优势】金十数据11月28日讯，英国钢铁行业呼吁政府修改近期与欧盟达成的部分协议，称现有条款给予欧盟钢铁出口商",

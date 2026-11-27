@@ -3,17 +3,69 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T01:19:18.061661+08:00",
-  "count": 177,
+  "generated_at": "2026-11-28T01:22:19.614753+08:00",
+  "count": 179,
   "sources": [
     {
       "name": "stocktwits",
       "status": "ok",
-      "count": 42,
+      "count": 43,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670300780",
+      "title": "$NVDA $MU $SNDK $AAPL $BA more",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "CNGLLC",
+      "summary": "$NVDA $MU $SNDK $AAPL $BA more",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:21:12+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:22:13.519511+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": "Bullish",
+        "symbols": [
+          "NVDA",
+          "MU",
+          "SNDK",
+          "AAPL",
+          "BA"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670300726",
+      "title": "$TSLA Others are moving, and you're not even budging! I'm going to tell your DADDY!!",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "Alphatonfinity01_Omega",
+      "summary": "$TSLA Others are moving, and you're not even budging! I'm going to tell your DADDY!!",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:20:38+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:22:13.519511+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "TSLA"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670300575",
       "title": "$TSLA wen 400",
