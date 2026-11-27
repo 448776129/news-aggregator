@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T11:37:19.690038+08:00",
-  "count": 1093,
+  "generated_at": "2026-11-27T11:40:17.956506+08:00",
+  "count": 1100,
   "sources": [
     {
       "name": "alpaca",
@@ -39,6 +39,101 @@
   ],
   "items": [
     {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770WX:0",
+      "title": "Proteina Wins 1 Billion Won Order",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770WX:0-proteina-wins-1-billion-won-order/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:38:52+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:40:13.345515+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:468530"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47715X:0",
+      "title": "Hanshin Construction Wins 65.7 Billion Won Order",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47715X:0-hanshin-construction-wins-65-7-billion-won-order/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:38:43+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:40:13.345515+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:004960"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:d74fba6da3d48:0",
+      "title": "Asian Markets Trade Mostly Higher",
+      "url": "https://www.tradingview.com/news/dpa_afx:d74fba6da3d48:0-asian-markets-trade-mostly-higher/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:37:50+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:40:13.345515+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SP:XJO",
+          "TVC:NI225"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:0140713b1094b:0",
+      "title": "Currency Check | Rupee opens 6 paise lower at 92.50 per dollar",
+      "url": "https://www.tradingview.com/news/moneycontrol:0140713b1094b:0-currency-check-rupee-opens-6-paise-lower-at-92-50-per-dollar/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:32:20+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:40:13.345515+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
       "id": "tradingview:DJN_DN20261126004480_20261126004480:0",
       "title": "QBE Insurance Target Price Raised 5.9% to A$26.75/Share by Citi>QBE.AU",
       "url": "https://www.tradingview.com/news/DJN_DN20261126004480_20261126004480:0-qbe-insurance-target-price-raised-5-9-to-a-26-75-share-by-citi-qbe-au/",
@@ -60,6 +155,28 @@
         "symbols": [
           "ASX:QBE"
         ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N46509L:0",
+      "title": "Thai October exports rise 27.5% on year, above forecast",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46509L:0-thai-october-exports-rise-27-5-on-year-above-forecast/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:31:26+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:40:13.345515+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -16766,6 +16883,25 @@
       "extra": {}
     },
     {
+      "id": "msn:e568bc4b9a95e32af3f48b42eb2f28662606c793",
+      "title": "Adobe: The Next Chapter Is Still Being Written (Q4 Earnings Preview)",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08fb9d9d5545e1b62515c5b8a32cb8&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972410-adobe-the-next-chapter-is-still-being-written-q4-earnings-preview&c=8851009591392163459&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Adobe's freemium monthly active users rose 70% to over 100 million in Q3, while AI-first ARR grew over 150% to $650 million.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:09:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:40:15.275381+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:c6241f1a8af4b:0",
       "title": "Stabilus SE (STM) Extends CEO Contract Through September 2030",
       "url": "https://www.tradingview.com/news/tradingview:c6241f1a8af4b:0-stabilus-se-stm-extends-ceo-contract-through-september-2030/",
@@ -25575,6 +25711,25 @@
       "published_at": "2026-11-27T00:00:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T11:31:14.472030+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6394e159060460a9f074c1b262cf76b8bfeb6b7c",
+      "title": "Tenaz Energy (TSX:TNZ) Stock Trades At A Premium To Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08fb9d9d5545e1b62515c5b8a32cb8&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2ftenaz-energy-tsx-tnz-stock-012706649.html&c=13302110412068100848&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Tenaz Energy has delivered very strong share price gains in recent years, which puts a spotlight on whether the current valuation is properly supported by its earnings power. With that kind of track ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:40:15.275381+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
