@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T14:40:16.467862+08:00",
-  "count": 1681,
+  "generated_at": "2026-11-27T14:43:19.134710+08:00",
+  "count": 1683,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 34,
+      "count": 35,
       "error": ""
     }
   ],
@@ -348,6 +348,25 @@
           "EURONEXT:SCR"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/miles-masterclass-launches-worlds-first-063400104.html?.tsrc=rss",
+      "title": "Miles Masterclass Launches the World's First AI Labs for Accountants at the World Congress of Accountants in Seoul",
+      "url": "https://finance.yahoo.com/technology/ai/articles/miles-masterclass-launches-worlds-first-063400104.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Miles Masterclass, the NASBA-registered provider of AI-in-Accounting continuing education, announced the global launch of Miles AI Labs, the world's first hands-on AI lab built for accountants, at the World Congress of Accountants (WCOA) 2026. Founder & CEO Varun Jain, CPA, CMA, delivered the keynote 'The Art of the Impossible: Building Agentic AI with Microsoft Copilot,' and his team built and deployed a working AI agent live on stage, without writing a line of code.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:34:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:43:14.273597+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780H0:0",
@@ -38872,6 +38891,25 @@
       "published_at": "2026-11-27T00:00:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T14:37:18.955764+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:262c932796e6371554004716376c66341cc432a2",
+      "title": "Tenaz Energy (TSX:TNZ) Stock Trades At A Premium To Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b092682519c49788b652f117f0a6815&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2ftenaz-energy-tsx-tnz-stock-012706649.html&c=13302110412068100848&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Tenaz Energy has delivered very strong share price gains in recent years, which puts a spotlight on whether the current valuation is properly supported by its earnings power. With that kind of track ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T14:43:16.345112+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
