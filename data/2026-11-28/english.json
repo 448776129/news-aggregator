@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T04:55:21.256246+08:00",
-  "count": 512,
+  "generated_at": "2026-11-28T04:58:19.393947+08:00",
+  "count": 513,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261127004779:0",
+      "title": "New York Late Money Rates from The Wall Street Journal",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127004779:0-new-york-late-money-rates-from-the-wall-street-journal/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T04:55:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T04:58:14.635843+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ECONOMICS:USINTR"
+        ]
+      }
+    },
     {
       "id": "tradingview:stockstory:e4a8fd1e4094b:0",
       "title": "Why Qualys stock is trading up today",
