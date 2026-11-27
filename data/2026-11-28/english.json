@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T04:10:22.949554+08:00",
-  "count": 486,
+  "generated_at": "2026-11-28T04:16:20.285338+08:00",
+  "count": 491,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,79 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:stocktwits:c60802be4094b:0",
+      "title": "OpenAI Reportedly Fires Back At Apple Over Trade Secrets And Hardware Suppliers",
+      "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-reportedly-fires-back-at-apple-over-trade-secrets-and-hardware-suppliers/cNb65s2R9Vi",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T04:13:53+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T04:16:14.684711+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:OPENAI",
+          "NASDAQ:AAPL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0276c6e6126b8:0",
+      "title": "Quanterix Director Purchased Shares Worth Over $542K",
+      "url": "https://www.tradingview.com/news/tradingview:0276c6e6126b8:0-quanterix-director-purchased-shares-worth-over-542k/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T04:10:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T04:16:14.684711+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:QTRX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:bravenewcoin:3aad7f986094b:0",
+      "title": "Lithium Price Outlook as Sellers Target 80,000 Yuan After Failed Recovery",
+      "url": "https://bravenewcoin.com/insights/lithium-price-outlook-as-sellers-target-80000-yuan-after-failed-recovery",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Brave New Coin",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T04:09:58+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T04:16:14.684711+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:LTH1!"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261127004671:0",
       "title": "Precious Metals Rally as AI Trade Revives Risk Appetite — 2nd Update",
@@ -85,6 +158,30 @@
         "urgency": 2,
         "symbols": [
           "OSL:TRMED"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stockstory:e4aeba175094b:0",
+      "title": "Why is Credicorp stock rocketing higher today",
+      "url": "https://stockstory.org/us/stocks/nyse/bap/news/why-up-down/why-is-credicorp-stock-rocketing-higher-today",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stock Story",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T04:05:41+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T04:16:14.684711+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BAP"
         ]
       }
     },
@@ -296,6 +393,30 @@
       "published_at": "2026-11-28T04:01:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T04:10:15.142064+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:NAU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:830a29c2dbe3f:0",
+      "title": "NevGold Corp. (NAU) Moves to TSX Senior Board Around Dec. 1",
+      "url": "https://www.tradingview.com/news/tradingview:830a29c2dbe3f:0-nevgold-corp-nau-moves-to-tsx-senior-board-around-dec-1/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T04:01:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T04:16:14.684711+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
