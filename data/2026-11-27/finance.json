@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T13:40:20.051023+08:00",
-  "count": 714,
+  "generated_at": "2026-11-27T13:46:18.573506+08:00",
+  "count": 716,
   "sources": [
     {
       "name": "cls",
@@ -27,6 +27,25 @@
   ],
   "items": [
     {
+      "id": "sina:https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkaczqh7904673.shtml",
+      "title": "港股拉升！恒生科技指数涨超6%，恒生指数涨超2%",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkaczqh7904673.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "新浪港股",
+      "summary": "11月27日消息，港股主要指数拉升，恒生科技指数涨超6%，恒生指数涨超2%。 午间消息，国务院总理李强11月27日主持召开国务院常务会议，会议指出...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:42:38+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:46:14.818753+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/money/future/fmnews/2026-11-27/doc-inkaczqf1121560.shtml",
       "title": "快讯：中证1000股指期货（IM）主力合约触及涨停，涨幅10%",
       "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-27/doc-inkaczqf1121560.shtml",
@@ -44,6 +63,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127133633238800",
+      "title": "【创业板指大涨10%】金十数据11月27日讯，创业板指大涨10%，科创50指数涨近13%；半导体、CPO、先进封装板块涨幅居前。监管部门表示，将密切跟踪科技产业",
+      "url": "https://www.jin10.com/#/flash/20261127133633238800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【创业板指大涨10%】金十数据11月27日讯，创业板指大涨10%，科创50指数涨近13%；半导体、CPO、先进封装板块涨幅居前。监管部门表示，将密切跟踪科技产业发展最新趋势，提高相关制度的包容性、精准性，严防“伪科技”借机上市、无真实业绩公司“注水”上市，切实维护公平有序的新股发行秩序。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:36:33+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:46:13.613111+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
     },
     {
       "id": "jin10:20261127133517126800",
