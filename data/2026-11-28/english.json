@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T00:16:19.436552+08:00",
-  "count": 26,
+  "generated_at": "2026-11-28T00:19:28.624230+08:00",
+  "count": 27,
   "sources": [
     {
       "name": "alpaca",
@@ -27,13 +27,13 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 20,
+      "count": 25,
       "error": ""
     },
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     }
   ],
@@ -419,6 +419,25 @@
           "NYSE:MS"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/27/here-s-why-i-d-still-buy-nvidia-over-amd-with-or-without-jensen-huang-at-ceo/?.tsrc=rss",
+      "title": "Here’s Why I’d Still Buy Nvidia Over AMD With or Without Jensen Huang at CEO.",
+      "url": "https://www.fool.com/investing/2026/11/27/here-s-why-i-d-still-buy-nvidia-over-amd-with-or-without-jensen-huang-at-ceo/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia's market share lead is too much to ignore.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:05:02+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:19:24.694133+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:urn:summary_document_transcript:quartr.com:4896031:0",
