@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T08:34:14.441159+08:00",
-  "count": 732,
+  "generated_at": "2026-11-27T08:37:15.177676+08:00",
+  "count": 733,
   "sources": [
     {
       "name": "alpaca",
@@ -158,6 +158,25 @@
           "LSE:HLN"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise%3B-look.html?.tsrc=rss",
+      "title": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
+      "url": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise%3B-look.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Futures rose on Thanksgiving after a wild market session, with the Nasdaq rallying off lows and Anthropic reversing higher.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:28:08+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:37:11.223400+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/26/1-incredibly-cheap-artificial-intelligence-ai-stock-to-buy-before-it-doubles-in-2027/?.tsrc=rss",
