@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T03:52:19.801050+08:00",
-  "count": 66,
+  "generated_at": "2026-11-28T04:07:18.850842+08:00",
+  "count": 68,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 12,
+      "count": 13,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafpru5186287.shtml",
+      "title": "美国国债下跌 股市上涨削弱避险需求",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafpru5186287.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "感恩节假期过后，美国国债恢复交易，收盘下跌，股市上涨削弱了对避险资产的需求。 抛售推动各期限美债收益率上涨6至8个基点，10年期美债收益率报4.93%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T04:06:59+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T04:07:14.063063+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7655547.shtml",
       "title": "11月28日美股成交额前20：Anthropic收涨10.98% 创下11月19日开始交易以来的最高收盘价",
@@ -44,6 +63,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261128034739147800",
+      "title": "布伦特原油期货结算价为每桶95.44美元，下跌1.13美元，跌幅1.17%。",
+      "url": "https://www.jin10.com/#/flash/20261128034739147800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "布伦特原油期货结算价为每桶95.44美元，下跌1.13美元，跌幅1.17%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:47:39+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T04:07:12.917227+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261128034535161800",
