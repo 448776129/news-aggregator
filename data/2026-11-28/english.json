@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T01:04:19.250839+08:00",
-  "count": 137,
+  "generated_at": "2026-11-28T01:07:18.514993+08:00",
+  "count": 141,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,101 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0543Fa:0",
+      "title": "REG - City of London IT - Issue of Equity",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0543Fa:0-reg-city-of-london-it-issue-of-equity/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:05:04+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:07:12.786119+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:CTY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0540Fa:0",
+      "title": "REG - Polar Capital Global - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0540Fa:0-reg-polar-capital-global-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:05:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:07:12.786119+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:PCFT",
+          "NYSE:RJF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47810M:0",
+      "title": "Ibersol 9-Month Turnover €414.2 Mln",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47810M:0-ibersol-9-month-turnover-414-2-mln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:04:41+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:07:12.786119+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:IBS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127003954:0",
+      "title": "Gulf Airlines Face Fuel-Cost, Competition Risks — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127003954:0-gulf-airlines-face-fuel-cost-competition-risks-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:04:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:07:12.786119+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN47810O:0",
       "title": "Indra To Implement Share Buy-Back Programme For Up To €15 Mln",

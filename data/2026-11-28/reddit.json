@@ -3,13 +3,13 @@
   "category": "reddit",
   "category_name": "Reddit 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T01:01:24.859456+08:00",
-  "count": 8,
+  "generated_at": "2026-11-28T01:07:18.518094+08:00",
+  "count": 9,
   "sources": [
     {
       "name": "reddit",
       "status": "ok",
-      "count": 3,
+      "count": 9,
       "error": ""
     }
   ],
@@ -33,6 +33,29 @@
       "category": "reddit",
       "extra": {
         "subreddit": "investing",
+        "score": 1,
+        "num_comments": 0
+      }
+    },
+    {
+      "id": "reddit:1y6y609",
+      "title": "Nvidia Blackwell chips found in Shanghai data center tied to Alice Huang",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1y6y609/nvidia_blackwell_chips_found_in_shanghai_data/",
+      "source": "reddit",
+      "source_name": "Reddit",
+      "author": "NiceOwner",
+      "summary": "Is that why he doesn’t wear the leather jacket since he came back? Goodluck on the hearing December 1st",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:58:54+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:07:17.729101+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "reddit",
+      "extra": {
+        "subreddit": "wallstreetbets",
         "score": 1,
         "num_comments": 0
       }
