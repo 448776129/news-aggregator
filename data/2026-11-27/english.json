@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T10:07:15.532982+08:00",
-  "count": 905,
+  "generated_at": "2026-11-27T10:10:16.394031+08:00",
+  "count": 911,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,128 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261126004331_20261126004331:0",
+      "title": "Coliwoo Target Price Cut to S$0.60 From S$0.82 by RHB Research >W8W.SG",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004331_20261126004331:0-coliwoo-target-price-cut-to-s-0-60-from-s-0-82-by-rhb-research-w8w-sg/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:07:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:10:11.375129+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SGX:W8W"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004332:0",
+      "title": "Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004332:0-short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:07:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:10:11.375129+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47715D:0",
+      "title": "Australia, NZ dollars find support as yield gap remains a drag",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47715D:0-australia-nz-dollars-find-support-as-yield-gap-remains-a-drag/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:05:44+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:10:11.375129+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:AUDUSD",
+          "FX:NZDUSD",
+          "FX:AUDJPY",
+          "FX:AUDNZD",
+          "FX:EURAUD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:740259:0",
+      "title": "Tenaga Nasional Q3 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:740259:0-tenaga-nasional-q3-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:04:58+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:10:11.375129+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:TENAGA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4274288:0",
+      "title": "HAS: Thailand MREC cash flow is targeted for Q2 2027 as Yangibana advances toward development",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4274288:0-has-thailand-mrec-cash-flow-is-targeted-for-q2-2027-as-yangibana-advances-toward-development/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:04:35+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:10:11.375129+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:HAS"
+        ]
+      }
+    },
     {
       "id": "alpaca:131756110",
       "title": "NewGenIvf Announces 1-for-100 Reverse Stock Split",
@@ -18952,6 +19074,25 @@
       "published_at": "2026-11-27T00:39:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T10:07:14.766365+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0ecd94a0f15b1a188bbc5b5d788cf27990a82ce4",
+      "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty down 60 pts; Brent remains above $96",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08e683e7ac48dcb9eaee51b46a3202&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:10:13.216662+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",

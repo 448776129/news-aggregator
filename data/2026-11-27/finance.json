@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T10:07:15.551619+08:00",
-  "count": 452,
+  "generated_at": "2026-11-27T10:10:16.408320+08:00",
+  "count": 456,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 48,
+      "count": 50,
       "error": ""
     },
     {
@@ -26,6 +26,25 @@
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhk7831564.shtml",
+      "title": "巨子生物盘中涨超4% 获三位董事拟增持最多1500万港元股份",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhk7831564.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "新浪港股",
+      "summary": "巨子生物（02367）盘中涨超4%，截至发稿，股价上涨3.14%，现报18.06港元，成交额1456.04万港元。 11月26日，巨子生物发布公告，董事会获公司执行董事...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:09:25+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:10:12.534703+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhp3236198.shtml",
       "title": "壁仞科技盘中涨超7% 广东鼓励算力中心优先使用国产算力芯片",
@@ -44,6 +63,48 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127100226060800",
+      "title": "现货黄金站上3600美元/盎司，日内涨0.96%。",
+      "url": "https://www.jin10.com/#/flash/20261127100226060800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "现货黄金站上3600美元/盎司，日内涨0.96%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:02:26+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:10:10.280627+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127100130201800",
+      "title": "现货白银日内涨超3.00%，现报42.66美元/盎司。",
+      "url": "https://www.jin10.com/#/flash/20261127100130201800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "现货白银日内涨超3.00%，现报42.66美元/盎司。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:01:30+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:10:10.280627+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
     },
     {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhi1046817.shtml",
@@ -82,6 +143,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127095950444800",
+      "title": "恒生科技指数涨超2%，光通信、物理AI、芯片等板块涨幅居前。",
+      "url": "https://www.jin10.com/#/flash/20261127095950444800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "恒生科技指数涨超2%，光通信、物理AI、芯片等板块涨幅居前。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:59:50+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:10:10.280627+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
     },
     {
       "id": "jin10:20261127095920577800",
