@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T16:31:17.195046+08:00",
-  "count": 2267,
+  "generated_at": "2026-11-27T16:34:19.994603+08:00",
+  "count": 2280,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 3,
       "error": ""
     },
     {
@@ -38,6 +38,246 @@
     }
   ],
   "items": [
+    {
+      "id": "alpaca:131781786",
+      "title": "Bavarian Nordic Appoints Allan Bødskov Andersen as Chief Financial Officer",
+      "url": "https://www.marketscreener.com/news/bavarian-nordic-names-new-cfo-ce7851d9da80f626",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Bavarian Nordic A/S has announced the appointment of Allan Bødskov Andersen as its new Chief Financial Officer.",
+      "content": "Bavarian Nordic A/S has officially appointed Allan Bødskov Andersen to the position of Chief Financial Officer. This executive leadership change was reported on November 27, 2026. The company announced the appointment as part of broader executive changes within its leadership team.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:32:08+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:34:15.191334+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BAVA"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131781785",
+      "title": "SCOR and Japan Post Insurance Approve Reinsurance Vehicle Deal",
+      "url": "https://www.marketscreener.com/news/scor-japan-post-insurance-boards-clear-reinsurance-vehicle-deal-ce7851d9da81f225",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "The boards of SCOR and Japan Post Insurance have approved a transaction involving the transfer of legacy policy risks.",
+      "content": "SCOR and Japan Post Insurance have officially cleared a reinsurance agreement. Under the terms of the deal, Japan Post Insurance will cede 3 trillion yen of legacy policy risks to the French reinsurer. The transaction represents a significant transfer of risk between the two entities. The boards of both companies have provided their formal approval for the reinsurance vehicle.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:32:03+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:34:15.191334+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SCR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131781784",
+      "title": "SAP Confirms No Customer Data Breach Following Security Incident",
+      "url": "https://www.marketscreener.com/news/germany-s-sap-finds-no-signs-of-customer-data-breach-following-security-incident-ce7851d9da81fe2c",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "SAP SE has reported that an internal investigation found no evidence of customer data compromise following a recent security incident.",
+      "content": "Following a security incident, SAP SE conducted an investigation to determine if customer information had been accessed or compromised. The company has officially stated that there are no signs of a data breach affecting its customers. This update provides clarity on the scope and impact of the security event, confirming the integrity of customer data.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:32:01+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:34:15.191334+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SAP"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131781516",
+      "title": "Deutsche Telekom and Rheinmetall Reportedly Explore Joint Surveillance Platform Offering",
+      "url": "https://www.finanzen.at/nachrichten/aktien/rheinmetall-aktie-zieht-weiter-an-vor-mittelfristausblick-auch-renk-hensoldt-&-tkms-im-plus-1036804680",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Deutsche Telekom and Rheinmetall are reportedly considering a potential partnership to jointly market a surveillance platform for civilian applications.",
+      "content": "According to a report by Wirtschaftswoche, Deutsche Telekom and Rheinmetall are exploring a collaborative effort to offer a surveillance platform for civilian use. The potential partnership involves the joint marketing of technology currently associated with the defense contractor. While the report highlights the companies' interest in this venture, the initiative remains in the discussion phase. Market observers have noted the development as a secondary point of interest alongside other corporate updates.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:31:59+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:34:15.191334+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "DTE"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131781515",
+      "title": "Stellantis in Advanced Negotiations with Struggling Supplier",
+      "url": "https://www.milanofinanza.it/news/stellantis-vuole-ricomprare-una-parte-di-marelli-sul-tavolo-tre-fabbriche-italiane-202611270908224741",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Stellantis is reportedly in advanced negotiations regarding the future of its Melfi, Sulmona, and Rivalta plants in connection with a struggling supplier.",
+      "content": "Stellantis is engaged in advanced negotiations involving its production facilities in Melfi, Sulmona, and Rivalta. The discussions are linked to a supplier currently facing financial difficulties. The supplier is expected to present an industrial plan to the relevant ministry on December 1, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:31:56+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:34:15.191334+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "STLA"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131781514",
+      "title": "Transamerica Life Bermuda Expands Operations in Dubai International Financial Centre",
+      "url": "https://money.udn.com/money/story/12987/9906055",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Transamerica Life Bermuda, a subsidiary of Aegon Ltd., has announced a further expansion of its business operations within the Dubai International Financial Centre (DIFC).",
+      "content": "Transamerica Life Bermuda, a provider of life insurance services for high-net-worth individuals and a subsidiary of Aegon Ltd., has officially expanded its presence in the Dubai International Financial Centre (DIFC). The DIFC serves as a major financial hub for the Middle East, Africa, and South Asia (MEASA) region. This latest development builds upon the company's initial entry into the DIFC in 2025. The expansion is intended to strengthen the firm's service capabilities and market reach within the region.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:31:43+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:34:15.191334+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "AEG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131781513",
+      "title": "Capgemini Announces Employee Share Ownership Plan Results",
+      "url": "https://news.europawire.eu/capgemini-employee-share-plan-draws-more-than-37-thousand-subscribers-across-37-countries/eu-press-release/2026/11/27/09/12/06/189986/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Capgemini has successfully concluded its latest employee share ownership plan, attracting over 37,000 subscribers across 37 countries.",
+      "content": "Capgemini reported that more than 37,000 employees across 37 countries participated in its latest employee share ownership plan. The company issued three million new shares at a price of €106.89 per share, resulting in a capital increase of €321 million scheduled for December 17, 2026. To offset the dilution, the Group has repurchased an equivalent number of shares for cancellation. Management expects employee ownership to remain at approximately 8% of the company's total capital by the end of the year.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:31:37+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:34:15.191334+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "CAP"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131781512",
+      "title": "Graubündner Kantonalbank to Increase State Guarantee Compensation",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/gkb-aktie-stabil-kanton-plant-hoehere-abgeltung-der-staatsgarantie-1036803781",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "The government of the Canton of Graubünden has reviewed a report recommending that Graubündner Kantonalbank (GKB) increase its compensation for the state guarantee provided by the canton.",
+      "content": "The government of the Canton of Graubünden has acknowledged a report from the Department of Finance and Municipalities (DFG) regarding the future strategic direction of Graubündner Kantonalbank (GKB). The report, commissioned in 2024, recommends that the bank maintain its current purpose and legal form while further developing its public corporate governance. A key finding is the proposal that GKB should pay higher compensation to the canton for the state guarantee it receives. This development reflects the government's ongoing assessment of the bank's relationship with the state.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:31:32+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:34:15.191334+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GRKP"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131781511",
+      "title": "Dottikon ES Reports Strong Profit Growth and Planned Investments",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/dottikon-es-aktie-befluegelt-gewinn-steigt-kraftig-weitere-investitionen-geplant-1036804531",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Dottikon ES Holding AG announced a significant increase in profit and outlined plans for further capital investments.",
+      "content": "Dottikon ES reported a strong increase in profit, which has positively impacted the company's stock performance. Alongside the financial results, the company disclosed plans for further investments to support its ongoing business operations. The announcement highlights the company's continued focus on growth and capital allocation in its specialized chemical manufacturing sector.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:31:27+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:34:15.191334+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "DESN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131781510",
+      "title": "Toyota, Honda, Nissan, and Mazda Collaborate on Vehicle Component Standardization",
+      "url": "https://www.newswire.lk/category/news/page/2/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Toyota Motor Corporation is joining forces with Honda, Nissan, and Mazda to standardize vehicle components and materials.",
+      "content": "Toyota Motor Corporation has entered into a collaborative effort with fellow Japanese automakers Honda, Nissan, and Mazda. The partnership aims to standardize vehicle components and materials across their respective manufacturing processes. This strategic move is intended to streamline production and improve efficiency within the automotive supply chain. The initiative reflects a broader industry trend toward cooperation to address manufacturing complexities and cost management.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:31:21+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:34:15.191334+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "TM"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261127001208:0",
       "title": "European Stock Indexes Rise as Tech Rally Extends — Market Talk",
@@ -30354,6 +30594,25 @@
       "extra": {}
     },
     {
+      "id": "msn:cf47b47b814e7556118f2db1ae853e2a17e53fd8",
+      "title": "Stock Market Live Updates | Sensex tumbles over 650 points, Nifty below 25,700; IT, FMCG ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b094087555f4166bead73133de33c33&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-share-price-27-november-2026%2fliveblog%2f136206762.cms&c=17461454488585503924&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "GIFT Nifty on the NSE IX trades lower, signalling that Dalal Street is set for a negative start on Friday as investors remain cautious ahead of the opening bell.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:33:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:34:16.914988+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026-11-26:newsml_AZN4TX572:0",
       "title": "Tokyo Nov core CPI rises 2.9% yr/yr",
       "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_AZN4TX572:0-tokyo-nov-core-cpi-rises-2-9-yr-yr/",
@@ -35967,6 +36226,25 @@
       "published_at": "2026-11-27T05:01:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T16:31:14.195828+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:37631692a7d4183b197fd67bfb67617658e99f11",
+      "title": "Is the stock market open today? Here are the trading hours for Black Friday.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b094087555f4166bead73133de33c33&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-black-friday%2far-AA2iknKI&c=15349360073239060809&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A while lot of businesses are open on Black Friday but what about the stock market?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:01:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:34:16.914988+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -48966,6 +49244,25 @@
       "published_at": "2026-11-27T00:39:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T16:31:14.195828+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:bfad34adb36bad8f25f5d90b662c83f4ea258d01",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty extends losses to 200 points; 36 stocks in ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b094087555f4166bead73133de33c33&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:34:16.914988+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
