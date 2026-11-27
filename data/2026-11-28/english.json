@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T00:43:15.965817+08:00",
-  "count": 90,
+  "generated_at": "2026-11-28T00:46:18.762104+08:00",
+  "count": 93,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,30 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 6,
+      "count": 9,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-us-october-164220958.html?.tsrc=rss",
+      "title": "Top Midday Stories: US October Advance Trade Gap Widens; Nvidia Chips Found Installed at Chinese Data Center Tied to Megaspeed",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-us-october-164220958.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "All three major US stock indexes were up in late-morning trading Friday, as technology stocks reboun",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:42:20+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:46:14.293301+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780SZ:0",
       "title": "Vigo Photonics Q3 Net Profit 1.5 Million Zlotys",
@@ -61,6 +80,25 @@
           "GPW:VGO"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "title": "Stock Market Today: Nasdaq Leads Charge; Nvidia Falls On China Data-Center Chip News (Live Coverage)",
+      "url": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The Dow Jones index and the Nasdaq composite rose in Friday's post-Thanksgiving session. Anthropic, SpaceX and Tesla gain.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:38:22+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:46:14.293301+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:a2f9fcaa12cb2:0",
@@ -229,6 +267,25 @@
           "NASDAQ:SELF"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/27/jensen-huangs-troubles-cost-him-30-billion/?.tsrc=rss",
+      "title": "Jensen Huang’s Troubles Cost Him $30 Billion",
+      "url": "https://247wallst.com/investing/2026/11/27/jensen-huangs-troubles-cost-him-30-billion/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia's CEO fought his way back into the job, but a three-day gauntlet before multiple congressional committees awaits him. Lawmakers from both parties want answers about China, and an accounting question could reach deeper into the company's revenue.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:34:08+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:46:14.293301+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:seekingalpha:b52067097094b:0",
