@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T01:40:21.115874+08:00",
-  "count": 236,
+  "generated_at": "2026-11-28T01:46:22.662509+08:00",
+  "count": 237,
   "sources": [
     {
       "name": "alpaca",
@@ -835,6 +835,25 @@
           "NYMEX:RB1!"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://investorshub.advfn.com/market-news/article/40827/gold-mining-stocks-oversold-market-fear?.tsrc=rss",
+      "title": "Gold mining stocks hit oversold levels as fear grips markets",
+      "url": "https://investorshub.advfn.com/market-news/article/40827/gold-mining-stocks-oversold-market-fear?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysInvestor sentiment has deteriorated, with the CNN Fear and Greed Index reaching extreme fear territory. A gold miners ETF has registered a relative strength index reading close to 10, suggesting exceptionally oversold conditions.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:30:40+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:46:17.345091+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN478132:0",
