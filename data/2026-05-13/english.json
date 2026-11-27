@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T19:31:20.161986+08:00",
-  "count": 4,
+  "generated_at": "2026-11-28T04:28:20.114938+08:00",
+  "count": 5,
   "sources": [
     {
       "name": "alpaca",
@@ -110,6 +110,25 @@
       "published_date": "2026-05-13",
       "fetched_at": "2026-11-27T19:31:17.108253+08:00",
       "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:22643169cc57b14311cfb43293fbe0bfa9e1c0d3",
+      "title": "Cisco's stock pops 15% on surging AI orders, as company says it's cutting almost 4,000 jobs",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09e7e026044372a8824061e9bf1ba2&url=https%3a%2f%2fwww.cnbc.com%2f2026%2f05%2f13%2fcisco-csco-q3-earnings-report-2026.html&c=1603976062435695153&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Cisco reported better-than-expected earnings and revenue. Heading into earnings, Wall Street was showing increased optimism around the networking company, which has trailed many of its data center ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-05-13T21:12:00+08:00",
+      "published_date": "2026-05-13",
+      "fetched_at": "2026-11-28T04:28:17.941497+08:00",
+      "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
       "extra": {}
