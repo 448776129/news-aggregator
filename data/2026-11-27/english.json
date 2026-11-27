@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T09:25:17.323810+08:00",
-  "count": 820,
+  "generated_at": "2026-11-27T09:31:19.532996+08:00",
+  "count": 833,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 0,
+      "count": 2,
       "error": ""
     },
     {
@@ -39,6 +39,218 @@
   ],
   "items": [
     {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770D8:0",
+      "title": "Strong rupee keeps India rice rates anchored near 19-month peak",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770D8:0-strong-rupee-keeps-india-rice-rates-anchored-near-19-month-peak/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:31:15.084572+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOT:ZR1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770WW:0",
+      "title": "Doosan Fuel Cell Wins 48 Billion Won Order",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770WW:0-doosan-fuel-cell-wins-48-billion-won-order/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:28:26+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:31:15.084572+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:336260"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004274_20261126004276:0",
+      "title": "ChiNext Price Index Opens 0.6% Higher at 2202.82",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004274_20261126004276:0-chinext-price-index-opens-0-6-higher-at-2202-82/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:28:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:31:15.084572+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004274_20261126004275:0",
+      "title": "Shenzhen Composite Index Opens 0.4% Higher at 1900.89",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004274_20261126004275:0-shenzhen-composite-index-opens-0-4-higher-at-1900-89/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:28:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:31:15.084572+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47713D:0",
+      "title": "Dl E&C Wins 216.4 Billion Won Order",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47713D:0-dl-e-c-wins-216-4-billion-won-order/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:27:18+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:31:15.084572+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:375500"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47800K:0",
+      "title": "Korea Gas Corp studying feasibility of joining Rovuma LNG project",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47800K:0-korea-gas-corp-studying-feasibility-of-joining-rovuma-lng-project/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:27:14+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:31:15.084572+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:XOM",
+          "KRX:036460"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004274_20261126004274:0",
+      "title": "Shanghai Composite Index Opens 0.2% Higher at 3482.38",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004274_20261126004274:0-shanghai-composite-index-opens-0-2-higher-at-3482-38/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:27:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:31:15.084572+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N478021:0",
+      "title": "Vietnam dong, gold rates - November 27",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N478021:0-vietnam-dong-gold-rates-november-27/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:26:38+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:31:15.084572+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX_IDC:USDVND",
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:smallcaps:330d37506094b:0",
+      "title": "Vysarn Targeting 34% FY27 Profit Growth on Welltech Acquisition and Water Services Recovery",
+      "url": "https://smallcaps.com.au/article/vysarn-targeting-34percent-fy27-profit-growth-on-welltech-acquisition-and-water-services-recovery",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Small Caps",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:24:49+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:31:15.084572+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:VYS"
+        ]
+      }
+    },
+    {
       "id": "tradingview:DJN_DN20261126004267_20261126004267:0",
       "title": "Korea Exchange Briefly Suspends Trading on Tech-Heavy Kosdaq",
       "url": "https://www.tradingview.com/news/DJN_DN20261126004267_20261126004267:0-korea-exchange-briefly-suspends-trading-on-tech-heavy-kosdaq/",
@@ -52,6 +264,28 @@
       "published_at": "2026-11-27T09:24:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T09:25:12.604933+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004267_20261126004268:0",
+      "title": "Korea Exchange: Kosdaq Futures Rise More Than 6%, Triggering Five-Minute Trading Halt",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004267_20261126004268:0-korea-exchange-kosdaq-futures-rise-more-than-6-triggering-five-minute-trading-halt/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:24:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:31:15.084572+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -406,6 +640,28 @@
       "published_at": "2026-11-27T09:17:20+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T09:25:12.604933+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:116cb4d55094b:0",
+      "title": "AI worries set US Dollar for longest winning run since 2024",
+      "url": "https://www.tradingview.com/news/cnbctv:116cb4d55094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:17:20+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:31:15.084572+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -14408,6 +14664,25 @@
       "extra": {}
     },
     {
+      "id": "msn:b08789b57f3af95be5a2e5a8fa27edfa38129e81",
+      "title": "Stock market outlook today, 27 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08dd639a0a4dfe9555dcea47e93a21&url=https%3a%2f%2fwww.livemint.com%2fmarket%2fstock-market-news%2fstock-market-outlook-today-16-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cue-11795740282564.html&c=9465835963407008364&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stock market prediction for Friday, 27 November, 2026: The Indian stock market benchmark indices, Sensex and Nifty 50, are expected to have a gap-down opening today.(AI generated image) Stock market ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:20:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:31:17.177211+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770QT:0",
       "title": "Giant Biogene Holding Co Says Senior Vice President, Others Plan To Purchase Up To HK$15 Million In Shares",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770QT:0-giant-biogene-holding-co-says-senior-vice-president-others-plan-to-purchase-up-to-hk-15-million-in-shares/",
@@ -17068,6 +17343,25 @@
       "published_at": "2026-11-27T00:39:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T09:22:14.428657+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:3f2371be833ac2a14b7ef96b5a414364106ce418",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty futures signal a negative start as index ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08dd639a0a4dfe9555dcea47e93a21&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:31:17.177211+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
