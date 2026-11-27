@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T19:40:18.638082+08:00",
-  "count": 3517,
+  "generated_at": "2026-11-27T19:43:18.016959+08:00",
+  "count": 3533,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 4,
       "error": ""
     },
     {
@@ -33,11 +33,247 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 49,
+      "count": 50,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0217Fa:0",
+      "title": "REG - Boku Inc - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0217Fa:0-reg-boku-inc-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:41:34+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:43:12.527592+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:BOKU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:26ff24f4640f2:0",
+      "title": "American Resources 1Q 2026: Revenue $0, EPS ($0.05) — 10-Q Summary",
+      "url": "https://www.tradingview.com/news/tradingview:26ff24f4640f2:0-american-resources-1q-2026-revenue-0-eps-0-05-10-q-summary/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:41:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:43:12.527592+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AREC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:2d4ea2349f1cf:0",
+      "title": "Volkswagen drags Mercedes, BMW into $1.2 billion India tax battle",
+      "url": "https://www.tradingview.com/news/moodys:2d4ea2349f1cf:0-volkswagen-drags-mercedes-bmw-into-1-2-billion-india-tax-battle/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:40:53+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:43:12.527592+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:VOW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4780JQ:0",
+      "title": "India central bank cuts CRR daily maintenance to 90% from 99%",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4780JQ:0-india-central-bank-cuts-crr-daily-maintenance-to-90-from-99/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:40:42+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:43:12.527592+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0214Fa:0",
+      "title": "REG - Societe Generale SA Prologis, Inc. - Form 8.3 - Prologis, Inc.",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0214Fa:0-reg-societe-generale-sa-prologis-inc-form-8-3-prologis-inc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:40:11+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:43:12.527592+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:PLD",
+          "EURONEXT:GLE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4780MD:0",
+      "title": "India bonds slump as oil spike adds to RBI hike bets",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4780MD:0-india-bonds-slump-as-oil-spike-adds-to-rbi-hike-bets/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:40:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:43:12.527592+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002284:0",
+      "title": "AI Companies' Debt Issuance Likely to Rise Further in 2027 — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002284:0-ai-companies-debt-issuance-likely-to-rise-further-in-2027-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:40:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:43:12.527592+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:1b14c545d8ace:0",
+      "title": "CORUS ENTERTAINMENT ANNOUNCES FISCAL 2026 FOURTH QUARTER AND YEAR END RESULTS",
+      "url": "https://www.tradingview.com/news/prnewswire:1b14c545d8ace:0-corus-entertainment-announces-fiscal-2026-fourth-quarter-and-year-end-results/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:40:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:43:12.527592+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4780S2:0",
+      "title": "Zhongnanhong Culture, Unit To Acquire Assets",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4780S2:0-zhongnanhong-culture-unit-to-acquire-assets/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:39:11+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:43:12.527592+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SZSE:002445",
+          "SSE:600635"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002281:0",
+      "title": "Yomiuri: Suzuki to Mass-Produce LFP Batteries for EVs",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002281:0-yomiuri-suzuki-to-mass-produce-lfp-batteries-for-evs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:43:12.527592+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSE:7269"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4780GV:0",
       "title": "Britain's FTSE 100 heads for best week in 8 months; miners, banks rally",
@@ -164,6 +400,45 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:c3d71fb76094b:0",
+      "title": "Black Friday: Shoppers hunt for deals as investors buy staples",
+      "url": "https://seekingalpha.com/news/4676987-black-friday-shoppers-hunt-for-deals-as-investors-buy-staples?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:37:20+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:43:12.527592+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:XLP",
+          "NYSE:TGT",
+          "NASDAQ:COST",
+          "NASDAQ:WMT",
+          "NYSE:KO",
+          "NYSE:CL",
+          "NYSE:PG",
+          "NASDAQ:MDLZ",
+          "NASDAQ:DLTR",
+          "NASDAQ:CASY",
+          "NYSE:SJM",
+          "NYSE:CHD",
+          "NASDAQ:PSL",
+          "NASDAQ:PSCC",
+          "NASDAQ:FTXG",
+          "NASDAQ:KDP"
+        ]
       }
     },
     {
@@ -570,6 +845,25 @@
           "NSE:CCCL"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/27/is-meta-stock-a-buy-as-amazon-reportedly-weighs-letting-its-ai-shopping-agent-back-in/?.tsrc=rss",
+      "title": "Is Meta Stock a Buy as Amazon Reportedly Weighs Letting Its AI Shopping Agent Back In?",
+      "url": "https://www.fool.com/investing/2026/11/27/is-meta-stock-a-buy-as-amazon-reportedly-weighs-letting-its-ai-shopping-agent-back-in/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "A deal would bring Muse back into Amazon's store. But Muse's shopping fees are still just a plan.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:33:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:43:11.972705+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN477173:0",
@@ -43646,6 +43940,25 @@
       "extra": {}
     },
     {
+      "id": "msn:b6f3a529e36f868585e47b77e4e19f4dd181a2ba",
+      "title": "TV anchor breaks down and tears up during live report on stock market share slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096cd0b43d4ec6997f41b37eeb094b&url=https%3a%2f%2fwww.dailymail.com%2fnews%2farticle-16326325%2fTV-anchor-breaks-tears-live-report-stock-market-share-slump.html&c=16264336640663226042&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A South Korean news anchor broke down in tears on live television while reporting on a stock market slump. Kim Ah-hyun, who hosts the programme Kim Ah-hyun's Golden Stock on Seoul Economic TV, was ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:23:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:43:14.541771+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261126004455:0",
       "title": "NC Corp.'s Growth Outlook Brightens Despite Sector Derating — Market Talk",
       "url": "https://www.tradingview.com/news/DJN_DN20261126004455:0-nc-corp-s-growth-outlook-brightens-despite-sector-derating-market-talk/",
@@ -44660,6 +44973,25 @@
       "published_at": "2026-11-27T11:00:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T19:40:16.186009+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:1f7bb881523680d549b1590089412fc0b6fde76f",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures gain as AI jitters steady",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096cd0b43d4ec6997f41b37eeb094b&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2flive%2fstock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html&c=6717116993747436823&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Futures on the Dow Jones Industrial Average ( YM=F) rose 1%, while those on the S&P 500 ( ES=F) added 2%. Contracts for the Nasdaq-100 ( NQ=F) jumped 2.8% after markets were closed for the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:43:14.541771+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -52626,6 +52958,25 @@
       "extra": {}
     },
     {
+      "id": "msn:db01d10ec0ebddf1775ec4d00e44fb102061c7d8",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to rally ahead of shortened Black Friday ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096cd0b43d4ec6997f41b37eeb094b&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-thanksgiving-holiday-shortened-black-friday-trading&c=8147742822321622525&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Friday here ahead of the the New York Stock Exchange and Nasdaq closing early.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:37:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:43:14.541771+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:cointelegraph:65d5e148f094b:0",
       "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
       "url": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
@@ -53605,6 +53956,25 @@
       "published_at": "2026-11-27T08:21:40+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T19:34:24.821195+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b6fd6697aecfb61d66838454c42f18c96f3bce5a",
+      "title": "French economy contracts more than expected in third quarter",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096cd0787c40c2873b70b8ce0c7cfa&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2feconomy%2ffrench-economy-contracts-more-than-expected-in-third-quarter%2far-AA2il7U7&c=1518555763152116619&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nov 27 (Reuters) - France's economy contracted by 0.2% in the third quarter, final data from statistics office INSEE showed on Friday, more than the preliminary estimate for a 0.1% decline. The ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:21:40+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:43:14.541771+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
