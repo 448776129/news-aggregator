@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T08:04:17.572405+08:00",
-  "count": 695,
+  "generated_at": "2026-11-27T08:10:25.748498+08:00",
+  "count": 712,
   "sources": [
     {
       "name": "alpaca",
@@ -39,6 +39,105 @@
   ],
   "items": [
     {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N478001:0",
+      "title": "Japan Tobacco shares up 1% after Imperial Brands report",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N478001:0-japan-tobacco-shares-up-1-after-imperial-brands-report/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:09:35+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:10:21.412124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSE:2914",
+          "TSE:TOPIX",
+          "LSE:IMB",
+          "NYSE:MO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:04eb486100e44:0",
+      "title": "THS Maple Holdings Ltd. (YAY) Q1 Revenue Rises 62.8% to $8.0M",
+      "url": "https://www.tradingview.com/news/tradingview:04eb486100e44:0-ths-maple-holdings-ltd-yay-q1-revenue-rises-62-8-to-8-0m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:06:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:10:21.412124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:YAY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:0e7501525094b:0",
+      "title": "THS Maple Holdings Ltd. (YAY) Reports Financial Results for the First Quarter of Fiscal Year 2027",
+      "url": "https://www.newsfilecorp.com/release/326072/THS-Maple-Holdings-Ltd.-YAY-Reports-Financial-Results-for-the-First-Quarter-of-Fiscal-Year-2027",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:06:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:10:21.412124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:YAY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770RW:0",
+      "title": "Australia's WiseTech jumps 20% as CFO reiterates annual revenue outlook",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770RW:0-australia-s-wisetech-jumps-20-as-cfo-reiterates-annual-revenue-outlook/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:04:24+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:10:21.412124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:WTC"
+        ]
+      }
+    },
+    {
       "id": "alpaca:131753664",
       "title": "BofA Securities Updates Bank of Montreal Rating and Price Target",
       "url": "https://www.moomoo.com/stock/BMO-US?chain_id=Name1K9-3FXPhg.1lgg0p0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FCM-CA%22%7D",
@@ -60,6 +159,60 @@
         "symbols": [
           "BMO"
         ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770SH:0",
+      "title": "Commodities intraday targets/key levels",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770SH:0-commodities-intraday-targets-key-levels/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:02:06+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:10:21.412124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOT:ZC1!",
+          "CBOT:ZS1!",
+          "CBOT:ZW1!",
+          "OANDA:XAUUSD",
+          "TVC:UKOIL",
+          "ICEUS:CC1!",
+          "ICEUS:KC1!",
+          "MYX:FCPO1!",
+          "NYMEX:CL1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004187_20261126004187:0",
+      "title": "South Korea's Kospi Opens 0.4% Higher at 4728.80",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004187_20261126004187:0-south-korea-s-kospi-opens-0-4-higher-at-4728-80/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:02:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:10:21.412124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -183,6 +336,58 @@
       }
     },
     {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4750W7:0",
+      "title": "Cautious consumers gear up for Black Friday as inflation woes bite",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4750W7:0-cautious-consumers-gear-up-for-black-friday-as-inflation-woes-bite/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:01:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:10:21.412124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:TGT",
+          "NASDAQ:DLTR",
+          "NYSE:KSS",
+          "NASDAQ:NVDA",
+          "NASDAQ:MAT",
+          "NYSE:BBY",
+          "BX:0UB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N46L02T:0",
+      "title": "UK auto production rises 4.8% from a year ago in October, SMMT data shows",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46L02T:0-uk-auto-production-rises-4-8-from-a-year-ago-in-october-smmt-data-shows/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:01:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:10:21.412124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
       "id": "tradingview:urn:summary_document_report:quartr.com:4122392:0",
       "title": "BLGO: 2027 sales ramp hinges on launches after heavy commercialization investment",
       "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4122392:0-blgo-2027-sales-ramp-hinges-on-launches-after-heavy-commercialization-investment/",
@@ -207,6 +412,102 @@
       }
     },
     {
+      "id": "tradingview:cryptobriefing:d9d04e556094b:0",
+      "title": "Saylor says Strategy aims to become the world's largest company by market cap",
+      "url": "https://cryptobriefing.com/saylor-strategy-largest-company-market-cap/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:00:51+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:10:21.412124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:MSTR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:a5bc06a23094b:0",
+      "title": "deBridge: Unlocks at least 323.59 million DBR for ecosystem and team - 16 Oct 2027",
+      "url": "https://coinmarketcal.com/event/token-unlock-7e49595b-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:00:40+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:10:21.412124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:DBRUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:26f3bc453094b:0",
+      "title": "RaveDAO: Unlocks 21.38 million RAVE - Nov 2027",
+      "url": "https://coinmarketcal.com/event/token-unlock-ef5149cf-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:00:23+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:10:21.412124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:RAVEUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:69483b977094b:0",
+      "title": "RaveDAO: Unlocks 21.38 Million RAVE - Oct 2027",
+      "url": "https://coinmarketcal.com/event/token-unlock-a1665f46-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:00:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:10:21.412124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:RAVEUSD"
+        ]
+      }
+    },
+    {
       "id": "tradingview:DJN_DN20261126004172:0",
       "title": "The Relentless Rise of South Florida's Megamansion King — WSJ",
       "url": "https://www.tradingview.com/news/DJN_DN20261126004172:0-the-relentless-rise-of-south-florida-s-megamansion-king-wsj/",
@@ -226,6 +527,125 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:77284ecaa2fd3:0",
+      "title": "BQE Water Inc. (BQE) Q3 Revenue Rose 32% and Net Income Rose 33%",
+      "url": "https://www.tradingview.com/news/tradingview:77284ecaa2fd3:0-bqe-water-inc-bqe-q3-revenue-rose-32-and-net-income-rose-33/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:10:21.412124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:BQE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:7bc2204ed094b:0",
+      "title": "BQE Water Reports Q3 2026 Results",
+      "url": "https://www.newsfilecorp.com/release/325980/BQE-Water-Reports-Q3-2026-Results",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:10:21.412124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:BQE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:42b7c1c4d0b34:0",
+      "title": "Key facts: Japan Tobacco weighs Imperial bid; Russia move risks loss",
+      "url": "https://www.tradingview.com/news/tradingview:42b7c1c4d0b34:0-key-facts-japan-tobacco-weighs-imperial-bid-russia-move-risks-loss/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:10:21.412124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSE:2914"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004186_20261126004186:0",
+      "title": "Nikkei Stock Average Opens 0.3% Higher at 57669.79, Led by Financial Stocks",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004186_20261126004186:0-nikkei-stock-average-opens-0-3-higher-at-57669-79-led-by-financial-stocks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:10:21.412124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:acceswire:5aeab7d2f094b:0",
+      "title": "North Shore Closes Flow-Through Share Private Placement",
+      "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/north-shore-closes-flow-through-share-private-placement-1349936",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "ACCESS Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:10:21.412124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:NSU",
+          "OTC:NSURF"
+        ]
       }
     },
     {
