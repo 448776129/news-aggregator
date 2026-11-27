@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T20:31:19.253698+08:00",
-  "count": 3798,
+  "generated_at": "2026-11-27T20:34:20.168225+08:00",
+  "count": 3868,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 0,
+      "count": 26,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 7,
       "error": ""
     },
     {
@@ -38,6 +38,1467 @@
     }
   ],
   "items": [
+    {
+      "id": "alpaca:131867065",
+      "title": "Ero Copper Suspends Tucumã Mine Operations Following Environmental Notice",
+      "url": "https://www.marketscreener.com/news/ero-copper-suspends-northern-brazil-mine-operations-pays-fine-after-flooding-ce7851d9dc8ef022",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Ero Copper Corp. has temporarily suspended mining and processing activities at its Tucumã operation in Brazil following a notice from the Pará State Environment and Sustainability Secretariat.",
+      "content": "Ero Copper Corp. announced the temporary suspension of mining and processing activities at its Tucumã operation in northern Brazil. The suspension follows a notice received from the Pará State Environment and Sustainability Secretariat, which also involved the payment of a fine related to flooding at the site. The company is currently managing the operational impact of this regulatory action. This event represents a material operational disruption at one of the company's key assets.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:33:30+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ERO"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131867064",
+      "title": "Adaptive Biotechnologies Insider Sells Shares Worth Approximately $19.9 Million",
+      "url": "https://www.moomoo.com/hans/news/post/1005984486",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "An insider at Adaptive Biotechnologies Corporation has executed a sale of company stock valued at approximately $19.9 million, according to a recent regulatory filing.",
+      "content": "Adaptive Biotechnologies Corporation reported that an insider sold shares of the company's stock with a total value of approximately $19,899,736. The transaction was disclosed in a recent filing with the U.S. Securities and Exchange Commission (SEC). This event represents a significant divestment by an internal party. No further details regarding the specific identity of the insider or the strategic rationale for the sale were provided in the initial reports.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:33:19+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ADPT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47803Q:0",
+      "title": "Foresight VCT Launches Offer To Raise Up To £20 Million Via New Shares",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47803Q:0-foresight-vct-launches-offer-to-raise-up-to-20-million-via-new-shares/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:33:04+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:FTV"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131867063",
+      "title": "Bernstein Adjusts Price Target on CF Industries",
+      "url": "https://www.marketscreener.com/news/bernstein-adjusts-price-target-on-cf-industries-to-163-from-162-ce7851d9dc8ff427",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Bernstein has updated its price target for CF Industries Holdings, Inc., increasing it from $162 to $163.",
+      "content": "Bernstein has adjusted its price target for CF Industries Holdings, Inc. to $163, up from the previous target of $162. This analyst action reflects the firm's updated valuation assessment of the company. The adjustment was reported on November 27, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:33:04+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "CF"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866637",
+      "title": "Truist Adjusts Price Target on Medtronic to $101",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/medtronic-plc-truist-securities-gibt-neutrale-einschaetzung-ce7851d9dc80f721",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Truist Securities has adjusted its price target for Medtronic plc to $101 from $99 while maintaining a Hold rating.",
+      "content": "Truist Securities has updated its outlook on Medtronic plc, increasing the price target to $101 from $99. The firm has maintained its Hold rating on the company's stock. This analyst action was reported on November 27, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:57+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MDT"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866636",
+      "title": "HSBC Adjusts Price Target on Marvell Technology to $200 From $450",
+      "url": "https://www.marketscreener.com/news/hsbc-adjusts-price-target-on-marvell-technology-to-200-from-450-ce7851d9dc8ff425",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "HSBC has revised its price target for Marvell Technology, lowering it from $450 to $200.",
+      "content": "HSBC has updated its financial outlook for Marvell Technology, Inc., significantly reducing the price target on the company's stock from $450 to $200. This adjustment reflects the firm's latest analysis of the semiconductor company. The move is part of routine analyst coverage and provides new, actionable information for investors regarding the firm's valuation of Marvell.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:54+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MRVL"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866635",
+      "title": "Huntington Adjusts Price Target on Sabra Health Care REIT",
+      "url": "https://www.marketscreener.com/news/huntington-adjusts-price-target-on-sabra-health-care-reit-to-23-50-from-23-maintains-outperform-r-ce7851d9dd80f221",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Huntington Bancshares has updated its price target for Sabra Health Care REIT, increasing it to $23.50 from $23.00 while maintaining an Outperform rating.",
+      "content": "Huntington Bancshares has revised its price target for Sabra Health Care REIT, raising the target from $23.00 to $23.50. The firm continues to maintain an Outperform rating on the stock. This adjustment reflects the firm's ongoing equity research coverage of the healthcare real estate sector.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:48+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "HBAN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866634",
+      "title": "Huntington Adjusts Price Target on LTC Properties",
+      "url": "https://www.marketscreener.com/news/huntington-adjusts-price-target-on-ltc-properties-to-50-from-49-50-maintains-outperform-rating-ce7851d9dd8ef022",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Huntington Bancshares has increased its price target for LTC Properties, Inc. to $50 from $49.50, maintaining an Outperform rating.",
+      "content": "Huntington Bancshares has raised its price target for LTC Properties, Inc. from $49.50 to $50.00. The firm continues to maintain an Outperform rating on the stock. This update follows the firm's ongoing analysis of the healthcare real estate investment trust.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:48+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "HBAN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866633",
+      "title": "Huntington Adjusts Price Target on Chiron Real Estate",
+      "url": "https://www.marketscreener.com/news/huntington-adjusts-price-target-on-chiron-real-estate-to-31-from-34-maintains-market-perform-rati-ce7851d9dd80f121",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Huntington Bancshares has lowered its price target for Chiron Real Estate Inc. to $31 from $34, while maintaining a Market Perform rating.",
+      "content": "Huntington Bancshares has updated its outlook on Chiron Real Estate Inc., reducing the price target from $34.00 to $31.00. The firm maintains a Market Perform rating on the company's shares. This action is part of the firm's regular analyst coverage of the real estate sector.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:48+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "HBAN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866632",
+      "title": "Huntington Adjusts Price Target on LTC Properties to $50",
+      "url": "https://www.marketscreener.com/news/huntington-adjusts-price-target-on-ltc-properties-to-50-from-49-50-maintains-outperform-rating-ce7851d9dd8ef022",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Huntington has raised its price target for LTC Properties, Inc. from $49.50 to $50.00 while maintaining an Outperform rating.",
+      "content": "Huntington Bancshares has updated its outlook on LTC Properties, Inc., increasing the price target for the company's stock to $50.00 from the previous target of $49.50. The firm continues to maintain an Outperform rating on the stock. This adjustment reflects the latest analyst assessment of the real estate investment trust's market position and performance expectations.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:48+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "LTC"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866631",
+      "title": "Life360 Insider Executes Significant Stock Sale",
+      "url": "https://de.marketscreener.com/boerse-nachrichten/life360-insider-verkaufte-laut-juengster-sec-meldung-aktien-im-wert-von-7-266-009-usd-ce7851d9da80f427",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "A Life360 insider has sold shares of the company's common stock valued at approximately $7.27 million, as disclosed in a recent SEC filing.",
+      "content": "According to a recent SEC filing, a Life360 insider completed a sale of company shares totaling $7,266,009. This transaction represents a notable movement of equity by a company insider. The filing provides transparency regarding the change in ownership stake for the involved party.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:47+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "LIF"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866630",
+      "title": "Citigroup Adjusts Price Target on Dollar Tree to $155 From $125",
+      "url": "https://www.marketscreener.com/news/citigroup-adjusts-price-target-on-dollar-tree-to-155-from-125-ce7851d9dc8df724",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Citigroup has updated its price target for Dollar Tree, Inc., raising it from $125 to $155.",
+      "content": "Citigroup has revised its price target for Dollar Tree, Inc., increasing the target to $155 from the previous level of $125. This adjustment reflects the firm's updated outlook on the company's valuation. The change was reported on November 27, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:46+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "DLTR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866629",
+      "title": "Berenberg Downgrades AST SpaceMobile to Hold",
+      "url": "https://www.marketscreener.com/news/berenberg-downgrades-ast-spacemobile-to-hold-from-buy-adjusts-pt-to-30-from-92-ce7851d9dc8af720",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Berenberg has downgraded AST SpaceMobile from Buy to Hold and lowered its price target for the company's stock.",
+      "content": "Berenberg has downgraded AST SpaceMobile, Inc. from a Buy rating to a Hold rating. In conjunction with this rating change, the firm adjusted its price target for the company's stock to $30, down from its previous target of $92. This action reflects a shift in the firm's outlook on the company's equity.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:45+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ASTS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866628",
+      "title": "Huntington Adjusts Price Target on Sabra Health Care REIT to $23.50 From $23, Maintains Outperform Rating",
+      "url": "https://www.marketscreener.com/news/huntington-adjusts-price-target-on-sabra-health-care-reit-to-23-50-from-23-maintains-outperform-r-ce7851d9dd80f221",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Huntington Securities has updated its price target for Sabra Health Care REIT, increasing it to $23.50 from $23.00 while maintaining an Outperform rating.",
+      "content": "Huntington Securities has adjusted its price target for Sabra Health Care REIT, Inc. to $23.50, up from the previous target of $23.00. The firm continues to maintain an Outperform rating on the company's stock. This analyst action reflects a change in the firm's valuation outlook for the REIT.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:44+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SBRA"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866627",
+      "title": "Morningstar Insider Sells Shares Worth $5.16 Million",
+      "url": "https://www.marketscreener.com/news/morningstar-insider-sold-shares-worth-5-157-166-according-to-a-recent-sec-filing-ce7851d9da80f521",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "A Morningstar insider has sold company shares valued at approximately $5.16 million, according to a recent SEC filing.",
+      "content": "A Morningstar insider executed a sale of company shares totaling $5,157,166, as disclosed in a recent filing with the U.S. Securities and Exchange Commission. The transaction was reported on November 27, 2026. Such filings provide transparency regarding the trading activities of company insiders.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:44+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MORN"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866626",
+      "title": "Rocket Lab Completes 101st Electron Rocket Launch",
+      "url": "https://www.marketscreener.com/news/rocket-lab-completes-101st-electron-rocket-launch-deploying-satellite-to-low-earth-orbit-ce7851d9df89f624",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Rocket Lab successfully executed its 101st Electron mission, deploying a satellite into low-Earth orbit.",
+      "content": "Rocket Lab has successfully completed its 101st Electron rocket mission. The launch resulted in the successful deployment of a satellite into low-Earth orbit. This mission follows the company's recent milestone of its 100th launch, further demonstrating the flight heritage of the Electron vehicle. The event marks continued operational activity for the company's launch services business.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:40+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "RKLB"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866625",
+      "title": "JPMorgan Adjusts Price Target on Mid-America Apartment Communities to $137 From $145",
+      "url": "https://www.marketscreener.com/news/jpmorgan-adjusts-price-target-on-mid-america-apartment-communities-to-137-from-145-ce7851d9dc8af223",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "JPMorgan has revised its price target for Mid-America Apartment Communities, Inc. (MAA), lowering it from $145 to $137.",
+      "content": "JPMorgan has adjusted its price target for Mid-America Apartment Communities, Inc. (MAA) to $137 from the previous target of $145. This update reflects a change in the firm's valuation outlook for the real estate investment trust. The adjustment was reported on November 27, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:35+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MAA"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866624",
+      "title": "Senior Managing Principal Jonathan Doyle Sells Piper Sandler Shares",
+      "url": "https://www.moomoo.com/ja/news/post/1006000771/this-insider-has-just-sold-shares-in-piper-sandler-companies",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Jonathan Doyle, a Senior Managing Principal at Piper Sandler Companies, recently sold a portion of his holdings in the firm.",
+      "content": "Jonathan Doyle, Senior Managing Principal at Piper Sandler Companies, recently executed a sale of company shares, netting approximately $939,000 at an average price of $62.63 per share. This transaction reduced his total stake in the firm by 3.1%. Despite the sale, the company continues to report high levels of insider ownership, with management and insiders collectively holding approximately 3.3% of the company's shares, valued at roughly $140 million.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:32+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "PIPR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866623",
+      "title": "Jefferies Adjusts Price Target on Archer-Daniels-Midland to $76 From $89",
+      "url": "https://www.marketscreener.com/news/jefferies-adjusts-price-target-on-archer-daniels-midland-to-76-from-89-ce7851d9dc8af020",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Investment firm Jefferies has lowered its price target for Archer-Daniels-Midland Company from $89 to $76.",
+      "content": "Jefferies has revised its price target for Archer-Daniels-Midland Company, reducing it to $76 from the previous target of $89. This adjustment reflects the firm's updated outlook on the company's valuation. The change was reported on November 27, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:29+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ADM"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866622",
+      "title": "BMO Adjusts NRG Energy Price Target Following Asset Sale",
+      "url": "https://www.finanznachrichten.de/nachrichten-aktien/nrg-energy-inc.htm",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "BMO has lowered its price target for NRG Energy, citing an asset sale to LS Power as a factor in the revision.",
+      "content": "BMO has updated its outlook on NRG Energy, resulting in a reduction of the company's stock price target. The adjustment is attributed to an asset sale involving LS Power. This analyst action reflects a reassessment of the company's valuation in light of the transaction.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:19+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "NRG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866621",
+      "title": "Market Analysis Highlights Bitmine Immersion Technologies' Ethereum Treasury Strategy",
+      "url": "https://www.24-7pressrelease.com/press-release/540837/ethereums-treasury-companies-are-copying-a-playbook-that-hasnt-been-fully-tested",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "A market report examines Bitmine Immersion Technologies' corporate Ethereum accumulation strategy, noting its role as a prominent institutional treasury model.",
+      "content": "Bitmine Immersion Technologies, led by chairman Tom Lee, has become a notable proponent of corporate Ethereum accumulation. The company is building one of the largest corporate Ethereum holdings, utilizing a strategy modeled on the Bitcoin treasury playbook. This approach is funded through equity raises and is positioned as a long-term conviction bet on Ethereum's role in institutional finance, particularly regarding tokenization and stablecoin infrastructure. Analysts have highlighted the potential risks of this strategy, specifically noting that staking lockups could limit liquidity during market crises compared to Bitcoin treasury models.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:17+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BMNR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866620",
+      "title": "S&P Downgrades Tata Motors Passenger Vehicles and JLR Ratings",
+      "url": "https://www.marketscreener.com/news/s-p-downgrades-tata-motors-passenger-vehicles-jlr-ratings-on-weak-operating-performance-ce7851d9dd8df025",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "S&P Global Ratings has downgraded Tata Motors Passenger Vehicles Limited and its Jaguar Land Rover division, citing weak operating performance.",
+      "content": "S&P Global Ratings has issued a downgrade for the credit ratings of Tata Motors Passenger Vehicles Limited and its subsidiary, Jaguar Land Rover. The rating action is attributed to the companies' weak operating performance. This adjustment reflects a shift in the credit assessment of the automotive manufacturer and its premium division.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:16+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "TMPV"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866619",
+      "title": "Ausgold Shareholders Approve OceanaGold Acquisition Scheme",
+      "url": "https://newsfilter.io/articles/oceanagold-announces-ausgold-shareholder-approval-b7e20062c6b753909eb592d82dc6554c",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Ausgold shareholders have voted to approve the scheme of arrangement for OceanaGold Corporation to acquire 100% of Ausgold shares.",
+      "content": "On November 27, 2026, Ausgold shareholders voted in favor of the acquisition by OceanaGold Corporation, with 99.40% of votes cast in support of the transaction. Under the terms of the agreement, Ausgold shareholders are entitled to receive 0.03365 OceanaGold common shares for each Ausgold share held, or alternatively, they may elect to receive A$1.36 per share in cash, subject to a maximum cash pool of A$194 million. Upon the successful completion of the deal, which is expected to close on December 11, 2026, following court approval, Ausgold shareholders are anticipated to hold approximately 6% to 8% of OceanaGold. The transaction is currently scheduled to become effective on December 2, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:12+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "OGC"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866618",
+      "title": "Light & Wonder Debuts 'Kong: Skull Island Unchained' Slot Game at Pechanga Resort Casino",
+      "url": "https://g3newswire.com/light-wonders-kong-skull-island-unchained-debuts-at-pechanga-resort-casino-in-temecula/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Light & Wonder has launched its new slot game, Kong: Skull Island Unchained, at Pechanga Resort Casino in Temecula, California.",
+      "content": "Light & Wonder, in collaboration with Warner Bros. Global Experiences, has officially debuted its new slot game, Kong: Skull Island Unchained, at Pechanga Resort Casino. The game serves as a sequel to the company's 2024 title, Kong: Skull Island, which was a significant success in its portfolio of licensed games. The new release is now live on the casino floor and features enhanced graphics, sound, and bonus features. Company leadership noted that the launch continues the franchise's momentum and highlights the ongoing partnership with the casino operator for world premieres.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:32:06+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "LNW"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866212",
+      "title": "LILYGO Updates T-Beam 1W Development Board with Semtech LR2021 LoRa Radio",
+      "url": "https://lxer.com/module/newswire/view/369629/index.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "LILYGO has released a revised version of its ESP32-S3-based T-Beam 1W development board, which now incorporates Semtech's fourth-generation LR2021 LoRa transceiver.",
+      "content": "The updated T-Beam 1W2 development board features Semtech's fourth-generation LR2021 LoRa radio technology. This new model maintains the established T-Beam form factor while providing enhanced modulation capabilities compared to the previous version, which utilized the Semtech SX1262 transceiver. The board is designed for embedded applications and continues the integration of Semtech's wireless technology into development hardware.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:31:58+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SMTC"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866211",
+      "title": "Best Buy Observes Consumer Shift Toward Value and Premium Upgrades",
+      "url": "https://newsfilter.io/articles/inflation-has-shoppers-hunting-for-value-that-bodes-well-for-black-friday-6f76218415ef561a9512842a4d06e577",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Best Buy reports that shoppers are balancing a focus on value with a willingness to upgrade to premium price points during the holiday season.",
+      "content": "Best Buy has observed a dual trend among holiday shoppers, who are simultaneously prioritizing value-conscious purchases and opting for upgrades to more premium product tiers. This insight comes as retailers navigate macroeconomic headwinds while preparing for robust holiday spending through Black Friday and the remainder of the season. The company's observations reflect broader retail industry dynamics where consumer behavior remains sensitive to pricing despite interest in higher-end electronics and appliances.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:31:48+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BBY"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866210",
+      "title": "Omnicom Selected as Agency Partner for The Coca-Cola Company in North America",
+      "url": "https://newsfilter.io/ticker/KO",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Omnicom Group Inc. has been chosen as the agency partner for The Coca-Cola Company in North America following a comprehensive global marketing review.",
+      "content": "The Coca-Cola Company has concluded a global marketing review, resulting in the selection of Omnicom Group Inc. as its agency partner for the North American market. This partnership is part of a broader strategic shift by Coca-Cola to leverage data, technology, and artificial intelligence in its marketing operations. The new agency structure, which also involves other partners in different global regions, is scheduled to take effect on December 1, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:31:45+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "OMC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0287Fa:0",
+      "title": "REG - Squarepoint Ops LLC Bodycote PLC - Form 8.3 - Bodycote PLC",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0287Fa:0-reg-squarepoint-ops-llc-bodycote-plc-form-8-3-bodycote-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:31:44+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:BOY"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866209",
+      "title": "Bleakley Financial Group LLC Acquires Shares of The Hartford Insurance Group, Inc.",
+      "url": "https://insurancenewsnet.com/oarticle/16776-shares-of-the-hartford-insurance-group-inc-hig-bought-by-bleakley-financial-group-llc",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Bleakley Financial Group LLC has reported the acquisition of 16,776 shares of The Hartford Insurance Group, Inc. (NYSE: HIG).",
+      "content": "Bleakley Financial Group LLC disclosed the purchase of 16,776 shares of The Hartford Insurance Group, Inc. The transaction involves a change in the investment firm's holdings of the insurance company's stock. No further financial terms or strategic rationale were disclosed in the report.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:31:41+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "HIG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866208",
+      "title": "B3 Partners with Major Financial Firms to Launch Digital Asset Settlement Platform",
+      "url": "https://www.moomoo.com/th/news/post/1006002106/brazil-s-stock-exchange-teams-up-with-major-banks-to",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "B3 is collaborating with six major financial institutions to develop a shared infrastructure for settling digital asset trades using a neutral token.",
+      "content": "B3 has partnered with Bradesco, BTG Pactual, Itaú Unibanco, Safra, Santander, and XP to create a shared infrastructure designed to facilitate the movement of money and settlement of digital asset trades. The initiative aims to provide a neutral token that rival institutions can accept, addressing a significant challenge for bank-led crypto projects. According to Luiz Masagão, B3's vice president of products, the platform is expected to launch in the first quarter of 2027. Additionally, B3 plans to utilize this 'Open BRL' token to settle tokenized stock trades on a digital equities platform currently under development, leveraging blockchain and smart contracts to automate settlement processes.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:31:41+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "B3SA3"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866207",
+      "title": "S&P Global Ratings Upgrades Sri Lanka's Sovereign Credit Rating",
+      "url": "https://www.newswire.lk/2026/11/27/sp-upgrades-sri-lankas-credit-rating-to-b-outlook-stable/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "S&P Global Ratings has upgraded Sri Lanka's sovereign credit rating to 'B-' from 'CCC+', citing improvements in the country's fiscal and external positions.",
+      "content": "S&P Global Ratings announced an upgrade to Sri Lanka's long-term sovereign credit rating from 'CCC+' to 'B-', while also raising short-term foreign and local currency ratings to 'B' from 'C'. The agency attributed the decision to robust revenue growth and the accumulation of foreign reserves, which have helped strengthen fiscal and external buffers. Despite the upgrade and a stable outlook, S&P cautioned that the country still faces risks, including high debt burdens and potential exposure to global energy shortages or geopolitical conflicts. The agency projects economic growth to slow to 4% in 2026 before recovering to 4.5% in 2027.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:31:35+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SPGI"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866206",
+      "title": "Morgan Stanley Discloses Major Holding in tk accelis Group AG & Co. KGaA",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-pvr-tk-accelis-group-ag-&-co-kgaa-release-according-to-article-40-section-1-of-the-wphg-[the-german-securities-trading-act]-with-the-objective-of-europe-wide-distribution-1036805282",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Morgan Stanley reported a change in its voting rights position in tk accelis Group AG & Co. KGaA, crossing a regulatory threshold.",
+      "content": "In a regulatory filing dated November 27, 2026, Morgan Stanley reported that it had crossed a voting rights threshold in the German company tk accelis Group AG & Co. KGaA. The disclosure indicates that as of November 23, 2026, Morgan Stanley held a total of 5.08% of voting rights, comprised of 5.03% attached to shares and 0.05% through financial instruments. This notification was made in accordance with the German Securities Trading Act (WpHG).",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:31:34+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131866205",
+      "title": "Alphabet and Other Tech Providers Impacted by US Air Force Cloud One Security Breach",
+      "url": "https://news.futunn.com/post/1005853439/market-chatter-hackers-breach-us-air-force-cloud-platform-powered",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Alphabet is among the technology providers for the US Air Force's Cloud One platform, which recently suffered a security breach that disrupted operations and potentially exposed sensitive data.",
+      "content": "Alphabet, alongside Microsoft, Amazon, and Oracle, provides technology for the US Air Force's Cloud One platform, which was recently breached by hackers. The intrusion, discovered during a system upgrade, disrupted application migrations and updates, leaving some personnel unable to install software fixes. The US Cyber Command is currently investigating the incident to determine the extent of the data exposure and the identity of the attackers. The companies involved have not yet provided a formal response to the reports of the breach.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:31:32+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.923246+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GOOG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:86e5e7a8eaa65:0",
+      "title": "Deutsche Börse Wins EU Clearance For Allfunds Acquisition",
+      "url": "https://www.tradingview.com/news/dpa_afx:86e5e7a8eaa65:0-deutsche-b-rse-wins-eu-clearance-for-allfunds-acquisition/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:31:05+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:DB1",
+          "EURONEXT:ALLFG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:f2a842272610a:0",
+      "title": "Argo Defence Group (ARGO) Awarded Up to SEK 13M Framework Agreement",
+      "url": "https://www.tradingview.com/news/tradingview:f2a842272610a:0-argo-defence-group-argo-awarded-up-to-sek-13m-framework-agreement/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:31:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NGM:ARGO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:ed486758b4f7e:0",
+      "title": "Argo Defence Group awarded framework agreement with the Swedish Civil Defence and Resilience Agency (MCF) with a contract value of up to approximately SEK 13 million",
+      "url": "https://www.tradingview.com/news/modular_finance:ed486758b4f7e:0-argo-defence-group-awarded-framework-agreement-with-the-swedish-civil-defence-and-resilience-agency-mcf-with-a-contract-value-of-up-to-approximately-sek-13-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:31:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NGM:ARGO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002556_20261127002568:0",
+      "title": "WW International: Cuts Debt by Around $16.3M >WW",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002556_20261127002568:0-ww-international-cuts-debt-by-around-16-3m-ww/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:31:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:WW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002556_20261127002570:0",
+      "title": "WW International: Debt Cut Via Discounted Term Loan Prepayment Solicitation >WW",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002556_20261127002570:0-ww-international-debt-cut-via-discounted-term-loan-prepayment-solicitation-ww/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:31:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:WW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780CO:0",
+      "title": "Brazil loan defaults hit fresh record as households struggle with debt burden",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4780CO:0-brazil-loan-defaults-hit-fresh-record-as-households-struggle-with-debt-burden/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:30:54+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:11c00b833094b:0",
+      "title": "Dynacor Announces December 2026 Dividend",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411171/0/en/dynacor-announces-december-2026-dividend.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:DNG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:58f5d9fb4409d:0",
+      "title": "Dynacor Group Inc. (DNG) Sets December Dividend at C$0.01333 Per Share",
+      "url": "https://www.tradingview.com/news/tradingview:58f5d9fb4409d:0-dynacor-group-inc-dng-sets-december-dividend-at-c-0-01333-per-share/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:DNG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:421fdbb6db0dc:0",
+      "title": "Element 29 Resources Inc. (ECU) Secures Access, Awaits Elida Drill Assays",
+      "url": "https://www.tradingview.com/news/tradingview:421fdbb6db0dc:0-element-29-resources-inc-ecu-secures-access-awaits-elida-drill-assays/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:ECU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:14e1d7a76094b:0",
+      "title": "Element 29 Resources Receives 3-Year Surface Access Agreement at Its Flor de Cobre Project, Peru",
+      "url": "https://www.newsfilecorp.com/release/326063/Element-29-Resources-Receives-3Year-Surface-Access-Agreement-at-Its-Flor-de-Cobre-Project-Peru",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:ECU",
+          "BVL:ECU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:f02944b41094b:0",
+      "title": "GCL Announces Withdrawal of All Proposals for December 1, 2026 Extraordinary General Meeting Following Regained Compliance with Nasdaq Minimum Bid Price Requirement",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411170/0/en/gcl-announces-withdrawal-of-all-proposals-for-december-1-2026-extraordinary-general-meeting-following-regained-compliance-with-nasdaq-minimum-bid-price-requirement.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:GCL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:fad306c3ef3a9:0",
+      "title": "GCL Global Holdings Ltd (GCL) Withdraws Share Consolidation Proposals",
+      "url": "https://www.tradingview.com/news/tradingview:fad306c3ef3a9:0-gcl-global-holdings-ltd-gcl-withdraws-share-consolidation-proposals/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:GCL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:f9c55bf5cc096:0",
+      "title": "Jones Soda Co. (JSDA) Seeks CSE Delisting; OTCQB Trading Expected to Continue",
+      "url": "https://www.tradingview.com/news/tradingview:f9c55bf5cc096:0-jones-soda-co-jsda-seeks-cse-delisting-otcqb-trading-expected-to-continue/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OTC:JSDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:e00fc4f3240ac:0",
+      "title": "Jones Soda Co. Announces Proposed Voluntary Delisting from the Canadian Securities Exchange",
+      "url": "https://www.tradingview.com/news/prnewswire:e00fc4f3240ac:0-jones-soda-co-announces-proposed-voluntary-delisting-from-the-canadian-securities-exchange/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:JSDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:modular_finance:8fe9acfe9ce66:0",
+      "title": "MediTuner participates in Redeye Life Science Day 2026",
+      "url": "https://www.tradingview.com/news/modular_finance:8fe9acfe9ce66:0-medituner-participates-in-redeye-life-science-day-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MFN by Modular Finance",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:d855bb106d774:0",
+      "title": "WW International, Inc. (WW) Retires $16.3M of Debt for $10M",
+      "url": "https://www.tradingview.com/news/tradingview:d855bb106d774:0-ww-international-inc-ww-retires-16-3m-of-debt-for-10m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:WW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:218a40c60094b:0",
+      "title": "Weight Watchers Announces Results of Discounted Term Loan Prepayment Solicitation, Retiring $16.3 Million in Debt for $10 Million",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411169/0/en/weight-watchers-announces-results-of-discounted-term-loan-prepayment-solicitation-retiring-16-3-million-in-debt-for-10-million.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:WW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3696481:0",
+      "title": "CORS: Recapitalization reset debt as Television declines and liquidity risks persisted",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3696481:0-cors-recapitalization-reset-debt-as-television-declines-and-liquidity-risks-persisted/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:29:55+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:CORS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0285Fa:0",
+      "title": "REG - L&G – Asset Mgmt. Ld Rotork PLC - Form 8.3 - Rotork plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0285Fa:0-reg-l-g-asset-mgmt-ld-rotork-plc-form-8-3-rotork-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:29:26+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:ROR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0284Fa:0",
+      "title": "REG - L&G – Asset Mgmt. Ld Pollen Street Group - Form 8.3 - Pollen Street Group Limited",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0284Fa:0-reg-l-g-asset-mgmt-ld-pollen-street-group-form-8-3-pollen-street-group-limited/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:28:35+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:POLN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4002368:0",
+      "title": "BWLK: Lower costs improved H1 results; H2 hinges on commercial conversion through ServiceNow and IBM",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4002368:0-bwlk-lower-costs-improved-h1-results-h2-hinges-on-commercial-conversion-through-servicenow-and-ibm/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:28:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:BWLK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:b8f9dd784094b:0",
+      "title": "Supriya Lifescience shares settle 7% higher as pharma company considers first-ever buyback; board meet next week",
+      "url": "https://www.tradingview.com/news/moneycontrol:b8f9dd784094b:0-supriya-lifescience-shares-settle-7-higher-as-pharma-company-considers-first-ever-buyback-board-meet-next-week/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:26:36+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:SUPRIYA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0282Fa:0",
+      "title": "REG - L&G – Asset Mgmt. Ld Intertek Group Plc - Form 8.3 - Intertek Group plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0282Fa:0-reg-l-g-asset-mgmt-ld-intertek-group-plc-form-8-3-intertek-group-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:26:20+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:ITRK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0281Fa:0",
+      "title": "REG - L&G – Asset Mgmt. Ld Imperial Brands PLC - Form 8.3 - Imperial Brands plc",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0281Fa:0-reg-l-g-asset-mgmt-ld-imperial-brands-plc-form-8-3-imperial-brands-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:26:10+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:IMB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4889496:0",
+      "title": "WINE: Sales and net profit fell, but Q4 acceleration is expected to support guidance and deleveraging",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4889496:0-wine-sales-and-net-profit-fell-but-q4-acceleration-is-expected-to-support-guidance-and-deleveraging/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:26:01+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BVB:WINE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:10386d551c2cf:0",
+      "title": "Uber Secures 87.13% Stake In Delivery Hero",
+      "url": "https://www.tradingview.com/news/dpa_afx:10386d551c2cf:0-uber-secures-87-13-stake-in-delivery-hero/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:25:47+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:UBER",
+          "XETR:DHER"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002549:0",
+      "title": "Eurozone Gross Bond Issuance Set to Hit Record High in 2027 — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002549:0-eurozone-gross-bond-issuance-set-to-hit-record-high-in-2027-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:25:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:228910292094b:0",
+      "title": "XPeng To Roll Out Five New Models Overseas In 2027, Reiterates Target Of More Than Doubling International Sales Next Year",
+      "url": "https://stocktwits.com/news-articles/markets/equity/xpeng-to-roll-out-five-new-models-overseas-in-2027-reiterates-target-of-more-than-doubling-international-sales-next-year/cNbCtJSR9Nt",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:24:53+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:9868"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0280Fa:0",
       "title": "REG - L&G – Asset Mgmt. Ld DCC Energy PLC - Form 8.3 - DCC Energy plc",
@@ -131,6 +1592,30 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:b53a51d8e094b:0",
+      "title": "Nvidia Blackwell chips found at China data center linked to Alice Huang: report",
+      "url": "https://seekingalpha.com/news/4676998-nvidia-blackwell-chips-found-at-china-data-center-linked-to-alice-huang-report?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:23:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
       }
     },
     {
@@ -248,6 +1733,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "tradingview:cryptobriefing:22eca87e0094b:0",
+      "title": "Bitcoin's EMA death cross is already in place as SMA cross looms",
+      "url": "https://cryptobriefing.com/bitcoin-death-cross-50-day-200-day-average/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:20:55+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:14.677425+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
     },
     {
       "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0256Fa:0",
@@ -47105,6 +48614,25 @@
       "extra": {}
     },
     {
+      "id": "msn:d18c05f940306ea98055d75affa9e301a1b2a2f2",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures gain as AI jitters steady",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0978c60c4d414da958849b3b59ae6a&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2flive%2fstock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html&c=6717116993747436823&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Futures on the Dow Jones Industrial Average ( YM=F) rose 1%, while those on the S&P 500 ( ES=F) added 2%. Contracts for the Nasdaq-100 ( NQ=F) jumped 2.8% after markets were closed for the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:01:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:16.820738+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:prnewswire:e61c1df136b64:0",
       "title": "Folding Bikes Were Never Built for Everyone? DAHON is Fixing That",
       "url": "https://www.tradingview.com/news/prnewswire:e61c1df136b64:0-folding-bikes-were-never-built-for-everyone-dahon-is-fixing-that/",
@@ -48574,6 +50102,25 @@
       "extra": {}
     },
     {
+      "id": "msn:4b3a91c3298a53c7becbee973310f5cffee3340d",
+      "title": "TV anchor breaks down and tears up during live report on stock market share slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0978c60c4d414da958849b3b59ae6a&url=https%3a%2f%2fwww.dailymail.com%2fnews%2farticle-16326325%2fTV-anchor-breaks-tears-live-report-stock-market-share-slump.html&c=16264336640663226042&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A South Korean news anchor broke down in tears on live television while reporting on a stock market slump. Kim Ah-hyun, who hosts the programme Kim Ah-hyun's Golden Stock on Seoul Economic TV, was ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:23:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:16.820738+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261126004455:0",
       "title": "NC Corp.'s Growth Outlook Brightens Despite Sector Derating — Market Talk",
       "url": "https://www.tradingview.com/news/DJN_DN20261126004455:0-nc-corp-s-growth-outlook-brightens-despite-sector-derating-market-talk/",
@@ -48996,6 +50543,25 @@
       "published_at": "2026-11-27T11:17:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T20:28:16.149074+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:11ba8c18c7468be981b314aef1eb6fc92a03472d",
+      "title": "Stock Market Highlights: Sensex sinks 989 pts, Nifty ends near 25,600; Bajaj Auto, HCL Tech ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0978c60c4d414da958849b3b59ae6a&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-share-price-27-november-2026%2fliveblog%2f136206762.cms&c=17461454488585503924&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "GIFT Nifty on the NSE IX trades lower, signalling that Dalal Street is set for a negative start on Friday as investors remain cautious ahead of the opening bell.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:17:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:16.820738+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -58295,6 +59861,25 @@
       "extra": {}
     },
     {
+      "id": "msn:2c094892c2b83952f2522d56f22b85eed2ef5f22",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to rally ahead of shortened Black Friday ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0978c60c4d414da958849b3b59ae6a&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-thanksgiving-holiday-shortened-black-friday-trading&c=8147742822321622525&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Friday here ahead of the the New York Stock Exchange and Nasdaq closing early.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:37:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:16.820738+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:cointelegraph:65d5e148f094b:0",
       "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
       "url": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
@@ -59369,6 +60954,25 @@
       "published_at": "2026-11-27T08:21:40+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T20:31:16.812116+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:fbe679735ad8cbb147364239c54b79c317234cbb",
+      "title": "French economy contracts more than expected in third quarter",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0978c7d992421b8f3e0fd4757e262a&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2feconomy%2ffrench-economy-contracts-more-than-expected-in-third-quarter%2far-AA2il7U7&c=1518555763152116619&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nov 27 (Reuters) - France's economy contracted by 0.2% in the third quarter, final data from statistics office INSEE showed on Friday, more than the preliminary estimate for a 0.1% decline. The ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:21:40+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:16.820738+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -64955,6 +66559,25 @@
       "extra": {}
     },
     {
+      "id": "msn:4aa5c43f84a86517048040c7a1bd32654ef539a3",
+      "title": "ComfortDelGro's Zig drivers to get clearer view of earnings under collective agreements ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0978c7e5ba44bf82d20ad1e0437906&url=https%3a%2f%2fwww.asiaone.com%2fsingapore%2fearnings-transparency-drivers-comfortdelgro-zig-nta-nphva&c=15970369421840041318&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Drivers on ComfortDelGro's Zig will have a clearer view of their earnings and how they are calculated under two new collective agreements signed between the platform operator and two National Trades ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:15:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:16.820738+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:cfaedb9558abc628dd6e3a0da85c37fc2d3fa2d8",
       "title": "Is Yara International (OB:YAR) Still A Bargain On Earnings?",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09289ee9b3447eac18b7bcfc92d24d&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fyara-international-ob-yar-still-061400912.html&c=5560035152386098530&mkt=en-us",
@@ -69465,6 +71088,25 @@
       "published_at": "2026-11-27T05:01:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T20:31:16.812116+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:14277126363b9b310a228a5ac4ad92ec1aafab4b",
+      "title": "Is the stock market open today? Here are the trading hours for Black Friday.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0978c60c4d414da958849b3b59ae6a&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-black-friday%2far-AA2iknKI&c=15349360073239060809&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A while lot of businesses are open on Black Friday but what about the stock market?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:01:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T20:34:16.820738+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
