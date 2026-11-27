@@ -3,17 +3,70 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T12:07:17.988713+08:00",
-  "count": 137,
+  "generated_at": "2026-11-27T12:10:18.181005+08:00",
+  "count": 139,
   "sources": [
     {
       "name": "stocktwits",
       "status": "ok",
-      "count": 49,
+      "count": 50,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670265797",
+      "title": "$SPY $QQQ $AAPL",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "SaylorsPonz",
+      "summary": "$SPY $QQQ $AAPL",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:09:27+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:10:13.363213+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "SPY",
+          "QQQ",
+          "AAPL"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670265775",
+      "title": "$SPY $QQQ $ES_F $AAPL",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "SaylorsPonz",
+      "summary": "$SPY $QQQ $ES_F $AAPL",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:08:24+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:10:13.363213+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "SPY",
+          "QQQ",
+          "ES_F",
+          "AAPL"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670265732",
       "title": "$PRFX Happy Thanksgiving to everyone! 🦃🍁 LET'S GO! 🚀📈🔥💲🪙🤑💰🟢 $AMD \" EXTREMELY BULLISH! \" $NVDA $TSLA $META",
