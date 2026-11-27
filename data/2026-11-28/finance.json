@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T02:40:19.715780+08:00",
-  "count": 55,
+  "generated_at": "2026-11-28T02:52:21.002374+08:00",
+  "count": 56,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 8,
+      "count": 9,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7624312.shtml",
+      "title": "人工智能热提振美股 标普500指数创下2025年4月以来最大单周涨幅",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7624312.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "美国股市以上涨为华尔街动荡的一周划上了句号，人工智能交易反弹加速，降低了投资者对美国国债和避险货币的需求。 人工智能热的重燃拉动一度走到熊市边缘的纳斯达克100指数...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:49:50+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:52:16.237544+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7618666.shtml",
       "title": "纽约汇市：美元随股市走高 AI乐观情绪回归",
