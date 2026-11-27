@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T05:28:23.647354+08:00",
-  "count": 90,
+  "generated_at": "2026-11-28T05:34:16.030599+08:00",
+  "count": 95,
   "sources": [
     {
       "name": "cls",
@@ -15,17 +15,78 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 50,
+      "count": 49,
       "error": ""
     },
     {
       "name": "sina",
       "status": "ok",
-      "count": 17,
+      "count": 18,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafprq7580101.shtml",
+      "title": "标普将匈牙利的评级展望从负面调整为稳定",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafprq7580101.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "标普确认匈牙利长期外币债务评级为BBB-，为最低投资级评级。 标普确认长期本币债务评级为BBB-，为最低投资级评级。 评级展望从负面调整至稳定。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:33:51+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:34:12.795422+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261128053309746800",
+      "title": "美国至11月20日当周外国央行持有美国国债 -470亿美元，前值198.22亿美元。",
+      "url": "https://www.jin10.com/#/flash/20261128053309746800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "美国至11月20日当周外国央行持有美国国债 -470亿美元，前值198.22亿美元。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:33:09+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:34:12.640795+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261128053307740800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261128053307740800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:33:07+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:34:12.640795+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafprp0799433.shtml",
       "title": "标普将南非信用评级上调至BB+ 评级展望为稳定",
@@ -44,6 +105,48 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261128052529642800",
+      "title": "法国财长回应标普评级调整：标普认为亟需确保预算案获得通过。法国经济前景仍不明朗。",
+      "url": "https://www.jin10.com/#/flash/20261128052529642800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "法国财长回应标普评级调整：标普认为亟需确保预算案获得通过。法国经济前景仍不明朗。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:25:29+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:34:12.640795+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261128052332366800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261128052332366800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:23:32+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:34:12.640795+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261128052218999800",
