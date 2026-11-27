@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T10:37:15.902466+08:00",
-  "count": 958,
+  "generated_at": "2026-11-27T10:40:20.058631+08:00",
+  "count": 966,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,76 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47802T:0",
+      "title": "Elevated oil, fresh debt supply may pressure Indian bonds",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47802T:0-elevated-oil-fresh-debt-supply-may-pressure-indian-bonds/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:38:32+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:40:16.459063+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004401:0",
+      "title": "Copper Higher Supported by Strong AI Spending Expectations — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004401:0-copper-higher-supported-by-strong-ai-spending-expectations-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:37:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:40:16.459063+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:HG1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:3ced4fa2ac8c2:0",
+      "title": "India tribunal orders $52mn payout to Jet Airways staff",
+      "url": "https://www.tradingview.com/news/moodys:3ced4fa2ac8c2:0-india-tribunal-orders-52mn-payout-to-jet-airways-staff/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "bne Intellinews",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:34:10+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:40:16.459063+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261126004397:0",
       "title": "Japan Inflation Likely to Accelerate on Energy, Food — Market Talk",
@@ -752,6 +822,54 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:eqs:bdde0fa80094b:0",
+      "title": "Adaspace Announces World’s Most Powerful In-Orbit Computing Satellite",
+      "url": "https://www.eqs-news.com/news/corporate-news/adaspace-announces-world-s-most-powerful-in-orbit-computing-satellite/ca01a3b9-e1fd-419e-83ac-24ed65ca0d9c_en",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "EQS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:06:12+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:40:16.459063+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:6935"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:77d678a3ffac6:0",
+      "title": "Adaspace Reports 50 POPS of In-Orbit Computing Capacity",
+      "url": "https://www.tradingview.com/news/tradingview:77d678a3ffac6:0-adaspace-reports-50-pops-of-in-orbit-computing-capacity/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:06:12+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:40:16.459063+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:6935"
+        ]
       }
     },
     {
@@ -2307,6 +2425,25 @@
       "published_at": "2026-11-27T09:30:07+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T10:25:14.802952+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/articles/tsla-compete-waymo-gary-black-013007370.html?.tsrc=rss",
+      "title": "‘How Can TSLA Compete With Waymo?’ Gary Black Questions Tesla’s Robotaxi Strategy, Predicts Waymo Will Lead in Miles and Trips",
+      "url": "https://finance.yahoo.com/technology/articles/tsla-compete-waymo-gary-black-013007370.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Investor Gary Black of The Future Fund LLC slammed Tesla Inc.‘s bullish supporters, backing Alphabet Inc.‘s Waymo Robotaxi service in the autonomous race instead. Waymo Is Not ‘Terrified’ Of Tesla’s FSD On Sunday, user Randy Kirk took to X, quoting...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:30:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:40:16.312191+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -14372,6 +14509,25 @@
       "extra": {}
     },
     {
+      "id": "msn:9d70031c317d6d5092dbb7be39fad63298562352",
+      "title": "Adobe: The Next Chapter Is Still Being Written (Q4 Earnings Preview)",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08ed90099b4576868d843e2515f673&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972410-adobe-the-next-chapter-is-still-being-written-q4-earnings-preview&c=8851009591392163459&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Adobe's freemium monthly active users rose 70% to over 100 million in Q3, while AI-first ARR grew over 150% to $650 million.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:09:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:40:18.473531+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:c6241f1a8af4b:0",
       "title": "Stabilus SE (STM) Extends CEO Contract Through September 2030",
       "url": "https://www.tradingview.com/news/tradingview:c6241f1a8af4b:0-stabilus-se-stm-extends-ceo-contract-through-september-2030/",
@@ -20092,6 +20248,25 @@
       "published_at": "2026-11-27T00:39:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T10:37:13.187881+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:bc294089839792d3483dcf1faa0e2794eedd26c2",
+      "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty falls 60 pts lower; EMS stocks in focus",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08ed9016b5446f8a0f48137599e6b3&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:40:18.473531+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
