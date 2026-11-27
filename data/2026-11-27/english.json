@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T09:40:16.465061+08:00",
-  "count": 855,
+  "generated_at": "2026-11-27T09:43:16.085591+08:00",
+  "count": 867,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,174 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 30,
+      "count": 31,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47800R:0",
+      "title": "BOJ calls for safeguards against digital money, AI risks",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47800R:0-boj-calls-for-safeguards-against-digital-money-ai-risks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:42:35+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:43:11.627852+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN477137:0",
+      "title": "Yuen Kee Food Global Offering Of 16.3 Million H Shares",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN477137:0-yuen-kee-food-global-offering-of-16-3-million-h-shares/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:42:31+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:43:11.627852+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N478021:0",
+      "title": "New Zealand’s ruling coalition falls just short of majority in final election count",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N478021:0-new-zealand-s-ruling-coalition-falls-just-short-of-majority-in-final-election-count/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:42:26+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:43:11.627852+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:NZDUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUE6Z5DSP:0",
+      "title": "Ainsworth Game Technology Says Lynn Mah Resigns As CFO",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUE6Z5DSP:0-ainsworth-game-technology-says-lynn-mah-resigns-as-cfo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:40:19+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:43:11.627852+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:AGI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUE6TXT7Z:0",
+      "title": "Vita Resources Executes Otago Gold Binding Agreement",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUE6TXT7Z:0-vita-resources-executes-otago-gold-binding-agreement/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:39:59+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:43:11.627852+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:VTA",
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:f468029d488c7:0",
+      "title": "CHINA PBOC CONDUCTS CNY794 BLN VIA O/N REVERSE REPO FRI",
+      "url": "https://www.tradingview.com/news/dpa_afx:f468029d488c7:0-china-pboc-conducts-cny794-bln-via-o-n-reverse-repo-fri/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:39:53+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:43:11.627852+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770U6:0",
+      "title": "China Shenhua Energy To Place Up To 177 Million H Shares At HK$38.10 Each",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770U6:0-china-shenhua-energy-to-place-up-to-177-million-h-shares-at-hk-38-10-each/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:39:40+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:43:11.627852+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SSE:601088"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_TUE4DXXC0:0",
       "title": "Playside Studios Signs Global Publishing Agreement With Wishfully",
@@ -59,6 +222,30 @@
         "urgency": 2,
         "symbols": [
           "ASX:PLY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004294:0",
+      "title": "Genting's Earnings Recovery Hinges on Casino Operations — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004294:0-genting-s-earnings-recovery-hinges-on-casino-operations-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:43:11.627852+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:GENTING"
         ]
       }
     },
@@ -154,6 +341,54 @@
         "symbols": [
           "NYMEX:CL1!",
           "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:a215663c1094b:0",
+      "title": "MISSION SUCCESS: Rocket Lab Launches 101st Electron Mission",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411054/0/en/mission-success-rocket-lab-launches-101st-electron-mission.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:38:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:43:11.627852+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:RKLB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:e7c9ac5213894:0",
+      "title": "Rocket Lab Corporation (RKLB) Completes 101st Electron Mission",
+      "url": "https://www.tradingview.com/news/tradingview:e7c9ac5213894:0-rocket-lab-corporation-rklb-completes-101st-electron-mission/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:38:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:43:11.627852+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:RKLB"
         ]
       }
     },
@@ -10183,6 +10418,25 @@
       }
     },
     {
+      "id": "yahoo:https://www.barchart.com/story/news/9022924/apple-enters-the-ai-agent-race-as-it-takes-on-openai-anthropic-and-meta-what-that-means-for-aapl-stock?.tsrc=rss",
+      "title": "Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta. What That Means for AAPL Stock.",
+      "url": "https://www.barchart.com/story/news/9022924/apple-enters-the-ai-agent-race-as-it-takes-on-openai-anthropic-and-meta-what-that-means-for-aapl-stock?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Apple is reportedly developing an autonomous AI agent capable of controlling apps, writing code, and completing complex tasks as competition with OpenAI, Anthropic, and Meta intensifies.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T03:30:03+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:43:11.456903+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:urn:summary_document_transcript:quartr.com:4853795:0",
       "title": "MINEST: T-Dragon broadens site access as plans target financing, references and industrial scale-up",
       "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4853795:0-minest-t-dragon-broadens-site-access-as-plans-target-financing-references-and-industrial-scale-up/",
@@ -17869,6 +18123,25 @@
       "published_at": "2026-11-27T00:39:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T09:40:14.408736+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:da765cc29eba820470f53d56d3df721b1d2c97cd",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty futures signal a negative start as index ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08e02fdc4549df84886b6bfff86491&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:43:13.501158+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
