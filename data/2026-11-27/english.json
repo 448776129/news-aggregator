@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T19:07:19.087126+08:00",
-  "count": 3286,
+  "generated_at": "2026-11-27T19:10:17.086051+08:00",
+  "count": 3310,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 3,
       "error": ""
     },
     {
@@ -38,6 +38,494 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780BC:0",
+      "title": "Gasoline margin extend losses; KPC sells December cargo",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4780BC:0-gasoline-margin-extend-losses-kpc-sells-december-cargo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:09:42+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4284463:0",
+      "title": "ILC: Stronger banking and health results could not offset lower pension and annuity earnings",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4284463:0-ilc-stronger-banking-and-health-results-could-not-offset-lower-pension-and-annuity-earnings/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:08:38+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BCS:ILC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002202:0",
+      "title": "Countries Increasingly Prioritize Own Economic, Security Interests — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002202:0-countries-increasingly-prioritize-own-economic-security-interests-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:08:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002194:0",
+      "title": "Inflation Slides in France, Spain on Declining Fuel Prices — 4th Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002194:0-inflation-slides-in-france-spain-on-declining-fuel-prices-4th-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:08:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:CL1!",
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002203:0",
+      "title": "Novo Nordisk to Launch Wegovy Weight-Loss Pill in Sweden Next Month",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002203:0-novo-nordisk-to-launch-wegovy-weight-loss-pill-in-sweden-next-month/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:08:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:NOVO_B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002196:0",
+      "title": "PBS Malaysia 3rd-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002196:0-pbs-malaysia-3rd-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:08:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:PBSB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002079_20261127002197:0",
+      "title": "X Financial 3Q Loss/Shr 65c >XYF",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002079_20261127002197:0-x-financial-3q-loss-shr-65c-xyf/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:08:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:XYF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:4db4dc5d0daed:0",
+      "title": "Centre Collects Rs 32,626 Cr In CPSE Dividends, Meets 44% Of FY27 Target",
+      "url": "https://www.tradingview.com/news/moodys:4db4dc5d0daed:0-centre-collects-rs-32-626-cr-in-cpse-dividends-meets-44-of-fy27-target/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:07:51+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:COALINDIA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:dac54ec7e37ce:0",
+      "title": "NLMC Considers Rs 1,300 Cr BSNL, MTNL Assets For Monetisation",
+      "url": "https://www.tradingview.com/news/moodys:dac54ec7e37ce:0-nlmc-considers-rs-1-300-cr-bsnl-mtnl-assets-for-monetisation/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:07:50+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:moodys:e69b72de24aab:0",
+      "title": "Suba Hotels appoints Gilbert John Buthello as GM – Sales & Marketing, West India",
+      "url": "https://www.tradingview.com/news/moodys:e69b72de24aab:0-suba-hotels-appoints-gilbert-john-buthello-as-gm-sales-marketing-west-india/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:07:48+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:SUBAHOTELS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4086657:0",
+      "title": "XYF: Loan volume plunged 87.1% YoY as revenue fell and Q3 swung to a net loss",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4086657:0-xyf-loan-volume-plunged-87-1-yoy-as-revenue-fell-and-q3-swung-to-a-net-loss/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:07:23+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:XYF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002147_20261127002191:0",
+      "title": "ECARX Holdings to Repurchase Up to $20M >ECX",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002147_20261127002191:0-ecarx-holdings-to-repurchase-up-to-20m-ecx/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:07:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ECX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002079_20261127002192:0",
+      "title": "X Financial 3Q Rev $115.1M >XYF",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002079_20261127002192:0-x-financial-3q-rev-115-1m-xyf/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:07:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:XYF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4780R3:0",
+      "title": "India's Swiggy to cut 340 roles at Instamart, source says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4780R3:0-india-s-swiggy-to-cut-340-roles-at-instamart-source-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:06:59+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:SWIGGY",
+          "NSE:ETERNAL"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/27/this-mindset-shift-helped-me-stop-dreading-market-sell-offs-now-i-look-forward-to-them/?.tsrc=rss",
+      "title": "This Mindset Shift Helped Me Stop Dreading Market Sell-Offs. Now I Look Forward to Them.",
+      "url": "https://www.fool.com/investing/2026/11/27/this-mindset-shift-helped-me-stop-dreading-market-sell-offs-now-i-look-forward-to-them/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Keeping a long-term perspective can help investors stay calm and confident during stock market crashes.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:06:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.598431+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_APNBLJ0AC:0",
+      "title": "Irish annual retail sales growth 3.9% in October",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_APNBLJ0AC:0-irish-annual-retail-sales-growth-3-9-in-october/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:06:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47809X:0",
+      "title": "Turkey's central bank suspends repo auctions in liquidity-tightening move",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47809X:0-turkey-s-central-bank-suspends-repo-auctions-in-liquidity-tightening-move/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:05:30+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX_IDC:USDTRY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:223264d1ac8c1:0",
+      "title": "Pathward FY 2026: Revenue $822.2M, EPS $8.14 — 10-K Summary",
+      "url": "https://www.tradingview.com/news/tradingview:223264d1ac8c1:0-pathward-fy-2026-revenue-822-2m-eps-8-14-10-k-summary/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:05:18+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CASH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:6d372d95efcac:0",
+      "title": "StoneX FY 2026: Revenue $162.44B, EPS $4.15 — 10-K Summary",
+      "url": "https://www.tradingview.com/news/tradingview:6d372d95efcac:0-stonex-fy-2026-revenue-162-44b-eps-4-15-10-k-summary/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:05:18+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SNEX"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:5b9fa19d1997237724c72d18744cb63fb074fd38",
+      "title": "The Stock Market Is Flashing a Signal Seen Only 6 Times in 156 Years. History Suggests These Stocks Could Take the Biggest Hit.",
+      "url": "https://www.fool.com/investing/2026/11/27/the-stock-market-is-flashing-a-signal-seen-only-6-times-in-156-years-history-suggests-these-stocks-could-take-the-biggest-hit/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The stock market is teetering. And these stocks could have the most to lose.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:05:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.598431+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47718C:0",
+      "title": "Salik Signs Service Agreement With A.R.M. Holding Group To Enhance Smart Parking Services",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47718C:0-salik-signs-service-agreement-with-a-r-m-holding-group-to-enhance-smart-parking-services/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:04:21+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:12.662366+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "DFM:SALIK"
+        ]
+      }
+    },
     {
       "id": "tradingview:tradingview:3dff401023bf8:0",
       "title": "Applied Digital Updates Investor Presentation, Citing $41.13B in Lease Value",
@@ -40497,6 +40985,25 @@
       }
     },
     {
+      "id": "msn:05e194470b63d049010dcbe0fdc97b3f581f134d",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures gain as AI jitters steady",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096514f5734a9d835847c7ef1239f1&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2flive%2fstock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html&c=6717116993747436823&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Futures on the Dow Jones Industrial Average ( YM=F) rose 1%, while those on the S&P 500 ( ES=F) added 2%. Contracts for the Nasdaq-100 ( NQ=F) jumped 2.8% after markets were closed for the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:14.474952+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261126004413:0",
       "title": "Korean Won Poised to Strengthen Against Dollar in 2027 — Market Talk",
       "url": "https://www.tradingview.com/news/DJN_DN20261126004413:0-korean-won-poised-to-strengthen-against-dollar-in-2027-market-talk/",
@@ -48020,6 +48527,25 @@
       "extra": {}
     },
     {
+      "id": "msn:bd716036c73aa5c6422bb8a52bd4f760393487a0",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to rally ahead of shortened Black Friday ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096514f5734a9d835847c7ef1239f1&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-thanksgiving-holiday-shortened-black-friday-trading&c=8147742822321622525&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Friday here ahead of the the New York Stock Exchange and Nasdaq closing early.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:37:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:14.474952+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:cointelegraph:65d5e148f094b:0",
       "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
       "url": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
@@ -48904,6 +49430,25 @@
       "published_at": "2026-11-27T08:21:40+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T19:07:16.108855+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:91bd14e54150953ded3f313b9bb9ecd0e1381760",
+      "title": "French economy contracts more than expected in third quarter",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096514bafc46c6b44207bc50666460&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2feconomy%2ffrench-economy-contracts-more-than-expected-in-third-quarter%2far-AA2il7U7&c=1518555763152116619&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nov 27 (Reuters) - France's economy contracted by 0.2% in the third quarter, final data from statistics office INSEE showed on Friday, more than the preliminary estimate for a 0.1% decline. The ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:21:40+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:10:14.474952+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
