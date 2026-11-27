@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T14:55:16.983821+08:00",
-  "count": 620,
+  "generated_at": "2026-11-27T14:58:16.965495+08:00",
+  "count": 622,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     },
     {
@@ -5904,6 +5904,25 @@
       "extra": {}
     },
     {
+      "id": "msn:eb051cb15ff21f78c0e74527d5505a85d35d65f3",
+      "title": "Strong Earnings No Match for the Crumbling AI Trade",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b092a06322e4315a5e60280c4814255&url=https%3a%2f%2fwww.bloomberg.com%2fnews%2farticles%2f2026-11-22%2fstrong-earnings-prove-no-match-for-the-crumbling-ai-trade&c=996942547770317145&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "For years, a strong earnings season has given Wall Street something to fall back on. But the crumbling artificial-intelligence trade has ripped away that support. Companies in the S&P 500 Index just ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T22:42:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-27T14:58:15.462485+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "finnhub:8794283",
       "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
       "url": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html",
@@ -7959,6 +7978,25 @@
           "NSE:ADANIENSOL"
         ]
       }
+    },
+    {
+      "id": "msn:193ce34259557b168093e387bcf22dd369c436b4",
+      "title": "The circular economy depends on millions of waste‑pickers whose labour is rarely rewarded",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b092a054d3b4c24b82272d6bafa4f8b&url=https%3a%2f%2ftheconversation.com%2fthe-circular-economy-depends-on-millions-of-waste-pickers-whose-labour-is-rarely-rewarded-296379&c=8035111543306644744&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "In Bogota, Colombia, thousands of waste pickers roam the streets every day to collect cardboard, plastic, metal and paper. Without them, a significant portion of recyclable materials would end up in ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-22T17:08:00+08:00",
+      "published_date": "2026-11-22",
+      "fetched_at": "2026-11-27T14:58:15.462485+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N473015:0",
