@@ -1,0 +1,61 @@
+{
+  "date": "2026-03-20",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-28T00:16:18.604980+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:4a414a972cc8313cb4d787eb475aedfa139a4610",
+      "title": "Beijing’s Big Problem: An Incredible Shrinking Economy",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09accef2044365942ad78baf697d0d&url=https%3a%2f%2fwww.wsj.com%2fworld%2fchina%2fbeijings-big-problem-an-incredible-shrinking-economy-b4f446aa&c=18127965536175507336&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Yet, by one important measure, China’s global heft is shrinking. In dollar terms, China’s gross domestic product, as a share of the global economy, peaked in 2021 at around 18.5%, when it grew to be ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-03-20T04:00:00+08:00",
+      "published_date": "2026-03-20",
+      "fetched_at": "2026-11-28T00:16:16.355353+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
