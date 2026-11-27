@@ -3,19 +3,19 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T08:01:21.450392+08:00",
-  "count": 688,
+  "generated_at": "2026-11-27T08:04:17.572405+08:00",
+  "count": 695,
   "sources": [
     {
       "name": "alpaca",
       "status": "ok",
-      "count": 0,
+      "count": 6,
       "error": ""
     },
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 11,
+      "count": 12,
       "error": ""
     },
     {
@@ -38,6 +38,150 @@
     }
   ],
   "items": [
+    {
+      "id": "alpaca:131753664",
+      "title": "BofA Securities Updates Bank of Montreal Rating and Price Target",
+      "url": "https://www.moomoo.com/stock/BMO-US?chain_id=Name1K9-3FXPhg.1lgg0p0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FCM-CA%22%7D",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "BofA Securities maintained a \"Hold\" rating on Bank of Montreal while adjusting its price target for the stock.",
+      "content": "BofA Securities analyst Ebrahim Poonawala maintained a \"Hold\" rating on Bank of Montreal (BMO) shares. The firm adjusted its price target for the bank from $182.49 to $182.92. This update reflects the firm's current assessment of the company's market position and valuation.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:03:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:04:13.288630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BMO"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131753653",
+      "title": "Reports Indicate McDonald's App Sending Unauthorized Notifications",
+      "url": "https://infosertecla.com/2026/11/26/reportan-apps-de-iphone-que-mandan-anuncios-por-live-activities/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Users have reported receiving promotional push notifications and Live Activities from the McDonald's app even when notifications are disabled.",
+      "content": "Reports have emerged indicating that the McDonald's mobile app is sending promotional push notifications and utilizing Live Activities to display advertisements to iPhone users, even when those users have explicitly disabled notification permissions. The issue, which has also been observed with other retail and restaurant apps, raises questions regarding compliance with Apple's App Store guidelines, which generally prohibit the use of push notifications for marketing without user consent. While the technical cause remains unclear, the reports suggest a potential conflict between app functionality and iOS notification settings.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:01:52+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:04:13.288630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MCD"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131753652",
+      "title": "Families File Lawsuit Against Uber Following Fatal Arizona Collision",
+      "url": "https://www.einpresswire.com/article/958529862/families-sue-uber-following-arizona-crash-that-killed-four-seriously-injured-child",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Families of victims involved in a 2025 Arizona car crash have filed a lawsuit against Uber, alleging negligence in driver screening and supervision.",
+      "content": "A lawsuit has been filed in Pima County Superior Court against Uber Technologies, Inc. following a fatal October 2025 collision in Tucson, Arizona. The complaint alleges that the company failed to adequately screen, qualify, train, and supervise the driver involved in the accident, which resulted in the deaths of four individuals, including two Uber passengers and a minor. The plaintiffs contend that Uber did not exercise reasonable care in monitoring its drivers, raising concerns about the company's safety protocols for transporting passengers. The litigation seeks to address these alleged failures and hold the company accountable for the incident.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:01:51+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:04:13.288630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "UBER"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131753651",
+      "title": "Nexus Advanced Technologies Inc. Appoints Cheng Sin Yi as Co-Chief Executive Officer",
+      "url": "https://www.morningstar.com/news/globe-newswire/9885131/nexus-advanced-technologies-inc-appoints-cheng-sin-yi-as-co-chief-executive-officer",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Nexus Advanced Technologies Inc. has appointed Cheng Sin Yi as Co-Chief Executive Officer, effective November 21, 2026, as part of a leadership transition.",
+      "content": "Nexus Advanced Technologies Inc. (Nasdaq: NXAT) announced the appointment of Ms. Cheng Sin Yi as Co-Chief Executive Officer, effective November 21, 2026. As part of this leadership change, Myungjong Kim has stepped down from his role as of the same date, and current Co-CEO Ted Kim is scheduled to step down at the beginning of next year. Ms. Cheng brings over 15 years of experience in finance, corporate management, and capital markets to the company. The company stated that her appointment is intended to strengthen its financial foundation, governance, and efforts to meet Nasdaq continued listing requirements.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:01:43+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:04:13.288630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "NXAT"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131753650",
+      "title": "Investigation into Alleged Deliberate Methane Releases at Chevron Facilities",
+      "url": "https://www.finanznachrichten.de/nachrichten-aktien/chevron-corporation.htm",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "A probe has identified instances of methane plumes at Chevron facilities that were allegedly released deliberately.",
+      "content": "An investigation has reportedly uncovered evidence of methane plumes at Chevron-operated sites that were characterized as being deliberately released. This finding raises concerns regarding operational practices and environmental compliance. The company is now facing scrutiny over these specific emissions events, which have been highlighted in recent reports.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:01:38+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:04:13.288630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "CVX"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:131753649",
+      "title": "Johanna Mendez Appointed Global Procurement Director at Johnson & Johnson",
+      "url": "https://procurementmag.com/news/procurement-executive-appointments-in-november-2026",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Johnson & Johnson has appointed Johanna Mendez as the new Global Procurement Director for Enterprise Categories (GPO).",
+      "content": "Johanna Mendez has been appointed as the Global Procurement Director, Enterprise Categories (GPO) at Johnson & Johnson. Mendez brings over 19 years of experience in finance, procurement, and sustainability across Latin America and the EMEA region. In her new role, she is expected to leverage her expertise in scaling regional and global operations to drive financial impact and optimize end-to-end procurement processes for the company.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:01:37+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:04:13.288630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "JNJ"
+        ]
+      }
+    },
     {
       "id": "tradingview:urn:summary_document_report:quartr.com:4122392:0",
       "title": "BLGO: 2027 sales ramp hinges on launches after heavy commercialization investment",
@@ -10313,6 +10457,30 @@
         "symbols": [
           "TVC:UKOIL"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8815256",
+      "title": "UK's Imperial Brands says Altria weighs possible offer - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHV2aHhOY1ZmZ2N0bFZXLUxSSHNlaGtRZnVLWlJwNHY0RlB5b2VFLThsUkhwa3pEY29SMVB2X1kzT19XVlNkamxnQkJlbHREd0F5cmo1VTRvU3ZzTUlUWnBpUzVkejg4V1NkVTA3UDlsTlhucEp3OWxfR3M5NFJwYTdSRS1fbVJGX3poWmlzNlp4VWtiYnVBWng1amxrclE?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "UK's Imperial Brands says Altria weighs possible offer Reuters",
+      "content": "UK's Imperial Brands says Altria weighs possible offer Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T01:37:29+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:04:13.388833+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
