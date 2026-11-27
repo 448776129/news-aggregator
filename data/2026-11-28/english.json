@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T02:13:23.135947+08:00",
-  "count": 310,
+  "generated_at": "2026-11-28T02:19:17.862761+08:00",
+  "count": 319,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,243 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780KP:0",
+      "title": "Volatile stock market confronts jobs data, rate view as next tests",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4780KP:0-volatile-stock-market-confronts-jobs-data-rate-view-as-next-tests/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:18:54+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:19:14.431404+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA",
+          "NYSE:CRM",
+          "NASDAQ:MRVL",
+          "TVC:IXIC",
+          "TVC:VIX",
+          "SP:SPX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N478122:0",
+      "title": "Verizon in talks over $6 billion deal for Fidium, FT reports",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N478122:0-verizon-in-talks-over-6-billion-deal-for-fidium-ft-reports/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:17:32+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:19:14.431404+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:VZ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:4797049:0",
+      "title": "GXI: Impairments and weaker segment earnings hit H1 results; divestment proceeds target debt reduction",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4797049:0-gxi-impairments-and-weaker-segment-earnings-hit-h1-results-divestment-proceeds-target-debt-reduction/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:17:09+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:19:14.431404+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:GXI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0602Fa:0",
+      "title": "REG - Ashtead Tech Hldgs JPMorgan Chase & Co - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0602Fa:0-reg-ashtead-tech-hldgs-jpmorgan-chase-co-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:16:57+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:19:14.431404+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:AT.",
+          "NYSE:JPM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4780S0:0",
+      "title": "AI leads, but the rally runs deeper",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4780S0:0-ai-leads-but-the-rally-runs-deeper/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:16:28+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:19:14.431404+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SP:S5COND",
+          "SP:S5INFT",
+          "SP:S5MATR",
+          "SP:S5CONS",
+          "NASDAQ:AAPL",
+          "TVC:RUT",
+          "NASDAQ:SOX",
+          "NASDAQ:NVDA",
+          "NASDAQ:NCLD",
+          "TVC:IXIC",
+          "DJ:DJI",
+          "SP:SVX",
+          "NASDAQ:IXIC",
+          "SP:SPX",
+          "TVC:DJI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:the_block:4ff74dbbc094b:0",
+      "title": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
+      "url": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560?utm_source=tradingview&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "The Block",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:13:45+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:19:14.431404+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD",
+          "CRYPTO:USDTUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:f0aae19a4ee3d:0",
+      "title": "Cardiff Oncology Disclosed Failure to Satisfy a Continued Listing Rule or Standard",
+      "url": "https://www.tradingview.com/news/tradingview:f0aae19a4ee3d:0-cardiff-oncology-disclosed-failure-to-satisfy-a-continued-listing-rule-or-standard/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:13:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:19:14.431404+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:CRDF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:6db3a735d7d21:0",
+      "title": "Carnival amends CEO Josh Weinstein’s performance-based stock award",
+      "url": "https://www.tradingview.com/news/tradingview:6db3a735d7d21:0-carnival-amends-ceo-josh-weinstein-s-performance-based-stock-award/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:13:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:19:14.431404+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:CCL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:2386ec0b30a02:0",
+      "title": "Metagenomi Therapeutics Disclosed Failure to Satisfy a Continued Listing Rule or Standard",
+      "url": "https://www.tradingview.com/news/tradingview:2386ec0b30a02:0-metagenomi-therapeutics-disclosed-failure-to-satisfy-a-continued-listing-rule-or-standard/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:13:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:19:14.431404+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:MGX"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780VN:0",
       "title": "Conifex Timber Secures Up To $2 Mln In Additional Non-Repayable Funding From Govt. Of Canada",

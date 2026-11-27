@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T21:37:25.094583+08:00",
-  "count": 196,
+  "generated_at": "2026-11-28T02:19:17.036409+08:00",
+  "count": 197,
   "sources": [
     {
       "name": "alpaca",
@@ -3758,6 +3758,25 @@
       "published_date": "2012-01-30",
       "fetched_at": "2026-11-26T21:37:22.858018+08:00",
       "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09c9a2b4dd421cb9dede9d1cde92ff&url=https%3a%2f%2fwww.cnbc.com%2fstocks%2f&c=11963878870468302998&mkt=en-us",
+      "title": "Market News",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09c9a2b4dd421cb9dede9d1cde92ff&url=https%3a%2f%2fwww.cnbc.com%2fstocks%2f&c=11963878870468302998&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox, and ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2012-01-30T01:48:00+08:00",
+      "published_date": "2012-01-30",
+      "fetched_at": "2026-11-28T02:19:16.682275+08:00",
+      "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
       "extra": {}
