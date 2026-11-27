@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T00:10:15.736885+08:00",
-  "count": 21,
+  "generated_at": "2026-11-28T00:13:18.902644+08:00",
+  "count": 26,
   "sources": [
     {
       "name": "alpaca",
@@ -27,7 +27,7 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 20,
+      "count": 25,
       "error": ""
     },
     {
@@ -38,6 +38,127 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47810G:0",
+      "title": "Fitch Rates Stellantis 'Bbb', Outlook Negative",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47810G:0-fitch-rates-stellantis-bbb-outlook-negative/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:12:24+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:13:13.917220+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MIL:STLAM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0483Fa:0",
+      "title": "REG - Informa PLC HSBC Holdings PLC - Holding(s) in Company",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0483Fa:0-reg-informa-plc-hsbc-holdings-plc-holding-s-in-company/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:12:15+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:13:13.917220+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:INF",
+          "LSE:HSBA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:3a29761a0ceed:0",
+      "title": "Lifco Buys Italy's EG Medical For Undisclosed Terms",
+      "url": "https://www.tradingview.com/news/dpa_afx:3a29761a0ceed:0-lifco-buys-italy-s-eg-medical-for-undisclosed-terms/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:11:30+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:13:13.917220+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:LIFCO_B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:1908bb977f75b:0",
+      "title": "Kothari Industrial, Thiagarajar College to set up drone training and R&D centres in Madurai",
+      "url": "https://www.tradingview.com/news/moodys:1908bb977f75b:0-kothari-industrial-thiagarajar-college-to-set-up-drone-training-and-r-d-centres-in-madurai/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:10:55+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:13:13.917220+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:KOTIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:3c9a9da2b094b:0",
+      "title": "Christian Dior : 2026 interim dividend",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411389/0/en/christian-dior-2026-interim-dividend.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:09:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:13:13.917220+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:CDI"
+        ]
+      }
+    },
     {
       "id": "tradingview:moodys:f85875c6479a1:0",
       "title": "Dyti Dawn Joins DBS Bank As Vice President, Learning And Development",
