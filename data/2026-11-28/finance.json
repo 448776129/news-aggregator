@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T01:22:19.610988+08:00",
-  "count": 25,
+  "generated_at": "2026-11-28T01:27:45.454002+08:00",
+  "count": 26,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 23,
+      "count": 24,
       "error": ""
     },
     {
@@ -44,6 +44,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261128011331652800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261128011331652800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:13:31+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:27:39.886354+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261128010844688800",

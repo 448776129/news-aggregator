@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T01:25:21.724687+08:00",
-  "count": 176,
+  "generated_at": "2026-11-28T01:27:45.449126+08:00",
+  "count": 181,
   "sources": [
     {
       "name": "alpaca",
@@ -107,6 +107,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/nvidia-coreweave-face-u-restrictions-172327378.html?.tsrc=rss",
+      "title": "Nvidia, CoreWeave Face New U.S. Restrictions on China AI Chip Access",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-coreweave-face-u-restrictions-172327378.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia chip sellers are reportedly restricting sales to cloud providers serving Chinese customers.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:23:27+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:27:40.869266+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4780QW:0",
@@ -563,6 +582,44 @@
       }
     },
     {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/dell-faces-ai-server-shipment-171229537.html?.tsrc=rss",
+      "title": "Dell Faces AI Server Shipment Halt as Nvidia Tightens Asia Restrictions",
+      "url": "https://finance.yahoo.com/technology/ai/articles/dell-faces-ai-server-shipment-171229537.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "New U.S. semiconductor export controls increase regulatory uncertainty for artificial intelligence server manufacturers.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:12:29+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:27:40.869266+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/coreweave-default-insurance-costs-hit-171055522.html?.tsrc=rss",
+      "title": "CoreWeave Default Insurance Costs Hit Record 15.34% Amid AI Debt Fears",
+      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-default-insurance-costs-hit-171055522.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Credit markets signal growing concerns about debt-funded artificial intelligence infrastructure investments.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:10:55+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:27:40.869266+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_PLXNTN8HK:0",
       "title": "CPI Europe Reports Q1–Q3 Unaudited Net Profit €265.60 Mln",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_PLXNTN8HK:0-cpi-europe-reports-q1-q3-unaudited-net-profit-265-60-mln/",
@@ -684,6 +741,25 @@
       }
     },
     {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/meta-anthropic-talks-build-ai-170949948.html?.tsrc=rss",
+      "title": "Meta, Anthropic in Talks to Build AI Data Centers in Japan",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-anthropic-talks-build-ai-170949948.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Japan's largest electricity producer is exploring partnerships with major U.S. technology companies to expand computing infrastructure.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:09:49+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:27:40.869266+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0532Fa:0",
       "title": "REG - Hugh Ronald Bennet Futura Medical PLC - Form 8.3 - Futura Medical plc",
       "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0532Fa:0-reg-hugh-ronald-bennet-futura-medical-plc-form-8-3-futura-medical-plc/",
@@ -754,6 +830,25 @@
           "NYSE:TGT"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/trump-says-market-selloff-briefly-170723440.html?.tsrc=rss",
+      "title": "Trump Says Market Selloff Briefly Worried Him as He Defends Nvidia CEO Jensen Huang",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-says-market-selloff-briefly-170723440.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia: Trump Says Huang Is No National Security Threat, But Offers No Evidence",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:07:23+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:27:40.869266+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mostly-rise-markets-025702679.html?.tsrc=rss",
