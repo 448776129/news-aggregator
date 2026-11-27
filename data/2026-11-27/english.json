@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T10:55:15.325901+08:00",
-  "count": 995,
+  "generated_at": "2026-11-27T10:58:17.803627+08:00",
+  "count": 1003,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,98 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261126004410_20261126004410:0",
+      "title": "Tongcheng Travel Cut to Hold From Buy by UOB Kay Hian >0780.HK",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004410_20261126004410:0-tongcheng-travel-cut-to-hold-from-buy-by-uob-kay-hian-0780-hk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:56:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:58:13.429568+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:780"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:6a836abfd094b:0",
+      "title": "China warns of retaliation after Trump administration proposes new tariffs over overcapacity",
+      "url": "https://www.tradingview.com/news/cnbctv:6a836abfd094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:51:25+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:58:13.429568+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004408:0",
+      "title": "Palm Oil Rises on Stronger Soybean Oil Prices — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004408:0-palm-oil-rises-on-stronger-soybean-oil-prices-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:50:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:58:13.429568+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:FCPO1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47803Y:0",
+      "title": "Vietnam has made very strong commitments in trade talks with US, PM says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47803Y:0-vietnam-has-made-very-strong-commitments-in-trade-talks-with-us-pm-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:48:37+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:58:13.429568+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261126004406:0",
       "title": "Iron Ore Prices Fall as Supply Growth, Weakening Demand Weigh — Market Talk",
@@ -15007,6 +15099,25 @@
       "extra": {}
     },
     {
+      "id": "msn:316e75838a1e6d9611902f2874cf0025e6f9a728",
+      "title": "Adobe: The Next Chapter Is Still Being Written (Q4 Earnings Preview)",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f1c5f8c7405e8768de0a4288b536&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972410-adobe-the-next-chapter-is-still-being-written-q4-earnings-preview&c=8851009591392163459&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Adobe's freemium monthly active users rose 70% to over 100 million in Q3, while AI-first ARR grew over 150% to $650 million.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:09:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:58:15.368631+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:c6241f1a8af4b:0",
       "title": "Stabilus SE (STM) Extends CEO Contract Through September 2030",
       "url": "https://www.tradingview.com/news/tradingview:c6241f1a8af4b:0-stabilus-se-stm-extends-ceo-contract-through-september-2030/",
@@ -15413,6 +15524,25 @@
         "related": "",
         "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
+    },
+    {
+      "id": "msn:161a98d3e680d4ceea12915916460c5ed5513966",
+      "title": "Stock market : పెరుగుతున్న చమురు ధర- స్టాక్ మార్కెట్​ పరిస్థితేంటి? స్టాక్స్ టు బై లిస్ట్..",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f1c528c944f3b00fffdc6efef919&url=https%3a%2f%2fwww.msn.com%2fte-in%2fnews%2fother%2fstock-market-%25E0%25B0%25AA%25E0%25B1%2586%25E0%25B0%25B0-%25E0%25B0%2597-%25E0%25B0%25A4-%25E0%25B0%25A8%25E0%25B1%258D%25E0%25B0%25A8-%25E0%25B0%259A%25E0%25B0%25AE-%25E0%25B0%25B0-%25E0%25B0%25A7%25E0%25B0%25B0-%25E0%25B0%25B8%25E0%25B1%258D%25E0%25B0%259F%25E0%25B0%25BE%25E0%25B0%2595%25E0%25B1%258D-%25E0%25B0%25AE%25E0%25B0%25BE%25E0%25B0%25B0%25E0%25B1%258D%25E0%25B0%2595%25E0%25B1%2586%25E0%25B0%259F%25E0%25B1%258D-%25E0%25B0%25AA%25E0%25B0%25B0%25E0%25B0%25BF%25E0%25B0%25B8%25E0%25B1%258D%25E0%25B0%25A5%25E0%25B0%25BF%25E0%25B0%25A4%25E0%25B1%2587-%25E0%25B0%259F%25E0%25B0%25BF-%25E0%25B0%25B8%25E0%25B1%258D%25E0%25B0%259F%25E0%25B0%25BE%25E0%25B0%2595%25E0%25B1%258D%25E0%25B0%25B8%25E0%25B1%258D-%25E0%25B0%259F-%25E0%25B0%25AC%25E0%25B1%2588-%25E0%25B0%25B2%25E0%25B0%25BF%25E0%25B0%25B8%25E0%25B1%258D%25E0%25B0%259F%25E0%25B1%258D%2far-AA2ijRXq&c=3661804482178586151&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "నవంబర్ 27, 2026 ట్రేడర్లు నేడు ట్రాక్​ చేయాల్సిన స్టాక్స్​ టు బై లిస్ట్​ని నిపుణులు వెల్లడించారు. వీటితో పాటు లేటెస్ట్​ స్టాక్​ మార్కెట్​ అప్డేట్స్, ముడి చమురు ధర వంటి వివరాలను ఇక్కడ తెలుసుకోండి..",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:01:16+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:58:15.368631+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:urn:summary_document_report:quartr.com:3675467:0",
@@ -20828,6 +20958,25 @@
       "extra": {}
     },
     {
+      "id": "msn:dd0edf4f0ca198be4de17dbe0075670642ced817",
+      "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty falls 60 pts lower; EMS stocks in focus",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f1c528c944f3b00fffdc6efef919&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:58:15.368631+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:seekingalpha:95ab3f6ae094b:0",
       "title": "YieldMax BABA Option Income Strategy ETF declares $0.0343 dividend",
       "url": "https://seekingalpha.com/news/4676857-yieldmax-baba-option-income-strategy-etf-declares-0_0343-dividend?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
@@ -23436,6 +23585,25 @@
       "published_at": "2026-11-27T00:00:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T10:55:13.208125+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:bc50e266db17d95cab6f27b8f623527b21c22ff3",
+      "title": "Tenaz Energy (TSX:TNZ) Stock Trades At A Premium To Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f1c5f8c7405e8768de0a4288b536&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2ftenaz-energy-tsx-tnz-stock-012706649.html&c=13302110412068100848&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Tenaz Energy has delivered very strong share price gains in recent years, which puts a spotlight on whether the current valuation is properly supported by its earnings power. With that kind of track ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:58:15.368631+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",

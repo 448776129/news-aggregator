@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T10:55:15.340555+08:00",
-  "count": 529,
+  "generated_at": "2026-11-27T10:58:17.824394+08:00",
+  "count": 531,
   "sources": [
     {
       "name": "cls",
@@ -26,6 +26,25 @@
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhq5610068.shtml",
+      "title": "迅策盘中涨超8% 公司获纳入恒生科技指数成份股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhq5610068.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "新浪港股",
+      "summary": "迅策（03317）盘中涨超8%，截至发稿，股价上涨6.56%，现报42.24港元，成交额2868.76万港元。 近日，迅策科技公告，公司获纳入恒生科技指数成份股...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:56:38+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:58:15.144579+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhq5608977.shtml",
       "title": "芯片股早盘全线走高 壁仞科技涨超10%天数智芯涨超8%",
@@ -82,6 +101,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127104744619800",
+      "title": "越南总理：越南在贸易谈判中作出了非常坚定的承诺。",
+      "url": "https://www.jin10.com/#/flash/20261127104744619800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "越南总理：越南在贸易谈判中作出了非常坚定的承诺。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:47:44+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:58:12.619853+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261127104648386800",
