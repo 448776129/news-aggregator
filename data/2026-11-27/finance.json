@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T11:34:18.522308+08:00",
-  "count": 579,
+  "generated_at": "2026-11-27T11:37:19.717891+08:00",
+  "count": 585,
   "sources": [
     {
       "name": "cls",
@@ -27,6 +27,25 @@
   ],
   "items": [
     {
+      "id": "sina:https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhk7920139.shtml",
+      "title": "剂泰科技-P午前涨超6% 近期宣布回购及A股上市计划",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhk7920139.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "新浪港股",
+      "summary": "剂泰科技-P（07666）盘中涨超7%。截至发稿，股价上涨6.03%，报7.56港元，成交额2350.97万港元。 剂泰科技近日迎来多重利好。11月18日...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:34:12+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:37:14.704184+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhp3310350.shtml",
       "title": "芯碁微装午前大涨超21% 公司先进封装、mSAP业务卡位优势明确",
       "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhp3310350.shtml",
@@ -46,6 +65,27 @@
       "extra": {}
     },
     {
+      "id": "jin10:20261127113225843800",
+      "title": "【离岸人民币同业拆息利率多数回落】金十数据11月27日讯，离岸人民币香港银行同业拆息(CNH HIBOR)周五显示：主要期限利率多数回落；其中隔夜HIBOR回落",
+      "url": "https://www.jin10.com/#/flash/20261127113225843800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【离岸人民币同业拆息利率多数回落】金十数据11月27日讯，离岸人民币香港银行同业拆息(CNH HIBOR)周五显示：主要期限利率多数回落；其中隔夜HIBOR回落10个基点至1.19780%，创10月6日以来新低。一周期的HIBOR回落至1.42788%，两周期HIBOR升至1.42576%，一年期HIBOR小跌至1.82394%。点击链接查看历史数据>>",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:32:25+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:37:13.668148+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/money/future/fmnews/2026-11-27/doc-inkacvhi1140608.shtml",
       "title": "快讯：沪银期货主力合约日内涨近11%",
       "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-27/doc-inkacvhi1140608.shtml",
@@ -63,6 +103,90 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127113121278800",
+      "title": "【国债期货早盘收盘】金十期货11月27日讯，2年期国债期货（TS）主力合约跌0.01%，5年期国债期货（TF）主力合约跌0.03%，10年期国债期货（T）主力合",
+      "url": "https://www.jin10.com/#/flash/20261127113121278800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【国债期货早盘收盘】金十期货11月27日讯，2年期国债期货（TS）主力合约跌0.01%，5年期国债期货（TF）主力合约跌0.03%，10年期国债期货（T）主力合约跌0.06%，30年期国债期货（TL）主力合约跌0.34%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:31:21+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:37:13.668148+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127113116441800",
+      "title": "【股指期货早盘收盘】金十期货11月27日讯，沪深300股指期货（IF）主力合约涨1.12%，上证50股指期货（IH）主力合约涨0.11%，中证500股指期货（I",
+      "url": "https://www.jin10.com/#/flash/20261127113116441800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【股指期货早盘收盘】金十期货11月27日讯，沪深300股指期货（IF）主力合约涨1.12%，上证50股指期货（IH）主力合约涨0.11%，中证500股指期货（IC）主力合约涨4.11%，中证1000股指期货（IM）主力合约涨5.01%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:31:16+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:37:13.668148+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261127113013774800",
+      "title": "早盘收盘，国内期货主力合约涨多跌少，沪银涨超10%，沪锡涨超5%，沪铜涨超4%，钯、铂、国际铜涨近4%，乙二醇（EG）、低硫燃料油（LU）涨超3%。跌幅方面，纯",
+      "url": "https://www.jin10.com/#/flash/20261127113013774800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "早盘收盘，国内期货主力合约涨多跌少，沪银涨超10%，沪锡涨超5%，沪铜涨超4%，钯、铂、国际铜涨近4%，乙二醇（EG）、低硫燃料油（LU）涨超3%。跌幅方面，纯碱跌超1%，菜籽、红枣、铁矿石跌近1%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:30:13+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:37:13.668148+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261127112912705800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261127112912705800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:29:12+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:37:13.668148+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhq5635723.shtml",
