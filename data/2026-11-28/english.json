@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T03:28:20.271723+08:00",
-  "count": 426,
+  "generated_at": "2026-11-28T03:31:20.356596+08:00",
+  "count": 427,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "error": ""
     },
     {
@@ -1672,6 +1672,30 @@
           "NASDAQ:AAPL",
           "NASDAQ:OPENAI"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8818556",
+      "title": "Son of Hamas chief survives Israeli strike, Hamas says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXhxUTlzbVROVWJBME9JOGtIQnZUczNMMXdBTUV0QlByWWRCWThyeXlfcDA0T2MyaHlVbFlFSW0wbkpjbGd1WXVjQkZQaDNuZFM1VFkxaU9fN2lXUGtwa0xmQ0xHZHVaYko0M3FfVmdmd0l1LUpJOVhrNF9vTzk2OUJ0bVB4MU9JNnFCWFdESncyd0NBbHJodGpyUlRLNXRRRjhDYXJTRQ?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Son of Hamas chief survives Israeli strike, Hamas says Reuters",
+      "content": "Son of Hamas chief survives Israeli strike, Hamas says Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:33:44+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:31:16.359509+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
