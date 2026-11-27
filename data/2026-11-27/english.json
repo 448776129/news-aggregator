@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T13:31:19.043765+08:00",
-  "count": 1431,
+  "generated_at": "2026-11-27T13:34:17.418983+08:00",
+  "count": 1435,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:seekingalpha:1b9a93d9a094b:0",
+      "title": "Euro Zone picks Spain's Pablo Hernandez de Cos as next ECB president",
+      "url": "https://seekingalpha.com/news/4676927-euro-zone-picks-spains-pablo-hernandez-de-cos-as-next-ecb-president?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:30:16+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:34:14.673225+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:EUFN"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N478060:0",
       "title": "Is this a dead turkey bounce?",
@@ -211,6 +235,31 @@
         "urgency": 2,
         "symbols": [
           "MYX:UOADEV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:9966dd1e6094b:0",
+      "title": "SG Mart, E2E Networks will not be included in the latest MSCI inclusion - Here's the reason why",
+      "url": "https://www.tradingview.com/news/cnbctv:9966dd1e6094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:26:56+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:34:14.673225+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:SGMART",
+          "NSE:E2E"
         ]
       }
     },
@@ -18349,6 +18398,25 @@
       "extra": {}
     },
     {
+      "id": "msn:72e2e18cad3e617c2f38e389fbbf8b42dfca8cee",
+      "title": "Stock Market Live Updates: Sensex falls over 400 pts, Nifty below 25,800; HDFC Bank, BEL ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b091656b0b44637bf193f5372b112f0&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-share-price-27-november-2026%2fliveblog%2f136206762.cms&c=17461454488585503924&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "GIFT Nifty on the NSE IX trades lower, signalling that Dalal Street is set for a negative start on Friday as investors remain cautious ahead of the opening bell.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:10:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:34:16.379195+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:7af8dc7a7d2ae2a2e50efc8b0348ede854f3d114",
       "title": "Stock Market Live Updates: Sensex falls over 400 pts, Nifty below 25,800; HDFC Bank, BEL ...",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0912204e094d98b32cb80d02bb5305&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-share-price-27-november-2026%2fliveblog%2f136206762.cms&c=17461454488585503924&mkt=en-us",
@@ -30157,6 +30225,25 @@
       "published_at": "2026-11-27T00:39:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T13:22:17.822804+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0a537c4360cd6b8dc95c7b9ce2c4ef8f5fcf2e3b",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty extends gains to 110 points; Jupiter Wagons ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b091656b0b44637bf193f5372b112f0&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:34:16.379195+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
