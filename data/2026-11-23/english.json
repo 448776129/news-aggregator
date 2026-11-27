@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T00:40:19.888499+08:00",
-  "count": 2363,
+  "generated_at": "2026-11-28T01:19:17.425846+08:00",
+  "count": 2364,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -2930,6 +2930,25 @@
       "published_at": "2026-11-23T20:30:00+08:00",
       "published_date": "2026-11-23",
       "fetched_at": "2026-11-28T00:31:19.238340+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:5ac0dafe4991ca128bb6f9479e8e6b7e6963e435",
+      "title": "The Economy Is a Hostage Situation",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09bb9169814934a20a5822e5b09895&url=https%3a%2f%2fwww.theatlantic.com%2ftechnology%2f2026%2f11%2fai-hostage-economy-nvidia-huang%2f689552%2f&c=15558128507356715281&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "If there was ever any doubt, it ought to be silenced now. You, me, and Donald Trump—we all live in an Nvidia-state. What you need to know about living in an Nvidia-state is that it is not a democracy.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-23T20:30:00+08:00",
+      "published_date": "2026-11-23",
+      "fetched_at": "2026-11-28T01:19:15.448926+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
