@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T08:52:16.100666+08:00",
-  "count": 743,
+  "generated_at": "2026-11-27T08:58:17.718463+08:00",
+  "count": 749,
   "sources": [
     {
       "name": "alpaca",
@@ -39,6 +39,138 @@
   ],
   "items": [
     {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N477154:0",
+      "title": "Australian shares set for best week since August as financials, WiseTech rally",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N477154:0-australian-shares-set-for-best-week-since-august-as-financials-wisetech-rally/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:56:48+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:58:13.496250+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:XJO",
+          "ASX:WTC",
+          "ASX:XIJ",
+          "ASX:XFJ",
+          "ASX:NAB",
+          "ASX:ANZ",
+          "ASX:XEJ",
+          "ASX:WDS",
+          "ASX:XMM",
+          "ASX:BHP",
+          "ASX:RIO",
+          "NZX:NZ50G",
+          "SP:XJO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004227_20261126004229:0",
+      "title": "Sandfire Resources Price Target Cut 2.3% to A$21.50/Share by Barrenjoey",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004227_20261126004229:0-sandfire-resources-price-target-cut-2-3-to-a-21-50-share-by-barrenjoey/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:56:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:58:13.496250+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:SFR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004227_20261126004227:0",
+      "title": "Sandfire Resources Upgraded to Overweight from Neutral by Barrenjoey",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004227_20261126004227:0-sandfire-resources-upgraded-to-overweight-from-neutral-by-barrenjoey/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:55:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:58:13.496250+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:SFR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004226:0",
+      "title": "Australia Orders LNG Exporters Reserve Some Gas to Plug Shortages at Home",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004226:0-australia-orders-lng-exporters-reserve-some-gas-to-plug-shortages-at-home/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:54:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:58:13.496250+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:NG1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004225_20261126004225:0",
+      "title": "Barrenjoey Restarts Many Peaks Minerals at Overweight, A$2.20/Share Price Target",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004225_20261126004225:0-barrenjoey-restarts-many-peaks-minerals-at-overweight-a-2-20-share-price-target/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:53:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:58:13.496250+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:MPK"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tmx_newsfile:0b1c63bbd094b:0",
       "title": "Blade Resources Closes First Tranche of Private Placement",
       "url": "https://www.newsfilecorp.com/release/326074/Blade-Resources-Closes-First-Tranche-of-Private-Placement",
@@ -52,6 +184,30 @@
       "published_at": "2026-11-27T08:47:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T08:52:11.838977+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:AZCU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:88d0ab23a6518:0",
+      "title": "Blade Resources Inc. (AZCU) Raises $6.1M in First Placement Tranche",
+      "url": "https://www.tradingview.com/news/tradingview:88d0ab23a6518:0-blade-resources-inc-azcu-raises-6-1m-in-first-placement-tranche/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:47:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:58:13.496250+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
