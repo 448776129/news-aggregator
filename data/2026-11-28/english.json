@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T07:31:21.050195+08:00",
-  "count": 719,
+  "generated_at": "2026-11-28T07:34:27.574636+08:00",
+  "count": 722,
   "sources": [
     {
       "name": "alpaca",
@@ -59,6 +59,80 @@
         "urgency": 2,
         "symbols": [
           "NYSE:DXYZ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:d7f130c82094b:0",
+      "title": "Integrated Quantum Technologies Announces Adoption of Semi-Annual Financial Reporting",
+      "url": "https://www.newsfilecorp.com/release/326210/Integrated-Quantum-Technologies-Announces-Adoption-of-SemiAnnual-Financial-Reporting",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T07:30:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T07:34:22.743209+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:VEIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:c190e1dcafd04:0",
+      "title": "Integrated Quantum Technologies Inc. (VEIL) Moves to Semi-Annual Financial Reporting",
+      "url": "https://www.tradingview.com/news/tradingview:c190e1dcafd04:0-integrated-quantum-technologies-inc-veil-moves-to-semi-annual-financial-reporting/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T07:30:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T07:34:22.743209+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:VEIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:acceswire:1861c2d05094b:0",
+      "title": "UraniumX Announces Flow-Through Private Placement",
+      "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/uraniumx-announces-flow-through-private-placement-1426875",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "ACCESS Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T07:30:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T07:34:22.743209+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:STMN",
+          "OTC:STMXF",
+          "FWB:Q7S"
         ]
       }
     },
