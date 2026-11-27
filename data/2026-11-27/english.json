@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T23:43:27.497194+08:00",
-  "count": 5256,
+  "generated_at": "2026-11-27T23:46:19.064754+08:00",
+  "count": 5268,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 7,
+      "count": 4,
       "error": ""
     },
     {
@@ -38,6 +38,144 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tradingview:503c3e389dccd:0",
+      "title": "SemiLEDs FY 2026: Revenue $19.12M, EPS $0.1 — 10-K Summary",
+      "url": "https://www.tradingview.com/news/tradingview:503c3e389dccd:0-semileds-fy-2026-revenue-19-12m-eps-0-1-10-k-summary/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:45:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:46:13.692200+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:LEDS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4780ZR:0",
+      "title": "Germany's Schwarz Digits bets on flexible cloud to challenge Big Tech",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4780ZR:0-germany-s-schwarz-digits-bets-on-flexible-cloud-to-challenge-big-tech/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:44:22+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:46:13.692200+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:cryptobriefing:fe5b2e1fa094b:0",
+      "title": "3,269 Bitcoin moves from Coinbase Institutional to an unknown wallet",
+      "url": "https://cryptobriefing.com/3269-bitcoin-coinbase-institutional-unknown-wallet/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:43:06+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:46:13.692200+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4895107:0",
+      "title": "PLSV: Near-99% utilization, lower leverage and narrowed FY guidance; Seagems strategic review remains active",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4895107:0-plsv-near-99-utilization-lower-leverage-and-narrowed-fy-guidance-seagems-strategic-review-remains-active/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:42:50+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:46:13.692200+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:PLSV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0470Fa:0",
+      "title": "RCS - Aragvi Finance Intnl - ANNOUNCEMENTS OF AMENDMENTS TO TERMS",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0470Fa:0-rcs-aragvi-finance-intnl-announcements-of-amendments-to-terms/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:42:36+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:46:13.692200+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780FI:0",
+      "title": "US goods trade deficit deteriorates further as AI helps to lift imports to record high",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4780FI:0-us-goods-trade-deficit-deteriorates-further-as-ai-helps-to-lift-imports-to-record-high/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:40:27+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:46:13.692200+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:dpa_afx:f6afbc02175e0:0",
       "title": "Southwest Airlines Offers Rapid Rewards Members Promotional Companion Pass",
@@ -141,6 +279,28 @@
           "NYSE:GME",
           "NYSE:CALY"
         ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_S8N46R02B:0",
+      "title": "Tunisia, UN sign five-year cooperation framework requiring $444 million",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_S8N46R02B:0-tunisia-un-sign-five-year-cooperation-framework-requiring-444-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:36:18+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:46:13.692200+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -412,6 +572,25 @@
           "LSE:QED"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://247wallst.com/investing/etf/2026/11/27/sofis-500-stock-etf-doesnt-weight-strictly-by-size-sfy-tilts-americas-biggest-companies-toward-growth/?.tsrc=rss",
+      "title": "SoFi’s 500-Stock ETF Doesn’t Weight Strictly by Size. SFY Tilts America’s Biggest Companies Toward Growth",
+      "url": "https://247wallst.com/investing/etf/2026/11/27/sofis-500-stock-etf-doesnt-weight-strictly-by-size-sfy-tilts-americas-biggest-companies-toward-growth/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Two funds each hold 500 of the largest US companies, yet one quietly bets on growth and charges less to own it. After a rough stretch for tech, the gap between them is getting hard to ignore.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:32:40+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:46:13.215545+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:b7c4f2896c6ee:0",
@@ -65957,6 +66136,25 @@
       "extra": {}
     },
     {
+      "id": "msn:55417e77dadadd229cf89858522d1896ea6a1346",
+      "title": "Stock Market Today: Futures Point Sharply Higher as AI Stocks Surge; Major Indexes on Pace ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09a5c5ff954a9684a403341f73af06&url=https%3a%2f%2fwww.investopedia.com%2fstock-market-today-dow-jones-s-and-p-500-nasdaq-11272026-12283022&c=12535528285631320466&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The stock market is poised to wrap up another volatile week of trading on a high note. Tech-heavy Nasdaq futures were up 2.2% recently, while futures linked to the Dow Jones Indus ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:04:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:46:15.689039+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:urn:summary_document_report:quartr.com:4130242:0",
       "title": "RHBBANK: Funding and loan growth supported modest profit gains as capital ratios eased",
       "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4130242:0-rhbbank-funding-and-loan-growth-supported-modest-profit-gains-as-capital-ratios-eased/",
@@ -75107,6 +75305,25 @@
       "published_at": "2026-11-27T11:33:43+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T23:37:17.212233+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:a000acbdb1875b8d9c94cf5a42c93300006e1219",
+      "title": "Is the Stock Market Open Today? Black Friday 2026 Trading Hours",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09a5c5ff954a9684a403341f73af06&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fis-the-stock-market-open-today-black-friday-2026-trading-hours%2far-AA2imdpW&c=3983687322722147819&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Black Friday brings a schedule change for Wall Street. Find out when the stock market opens and closes after Thanksgiving.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:33:43+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:46:15.689039+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -84389,6 +84606,25 @@
       "extra": {}
     },
     {
+      "id": "msn:c1a0a50fc6de1bbcd3ed9afa3798c8401bb56021",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq gain on Black Friday as AI jitters steady",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09a5c5ff954a9684a403341f73af06&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2flive%2fstock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html&c=6717116993747436823&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Futures on the Dow Jones Industrial Average ( YM=F) rose 1%, while those on the S&P 500 ( ES=F) added 2%. Contracts for the Nasdaq-100 ( NQ=F) jumped 2.8% after markets were closed for the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:11:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:46:15.689039+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261126004248:0",
       "title": "Australia Orders LNG Exporters Reserve Some Gas to Plug Shortages at Home",
       "url": "https://www.tradingview.com/news/DJN_DN20261126004248:0-australia-orders-lng-exporters-reserve-some-gas-to-plug-shortages-at-home/",
@@ -88582,6 +88818,25 @@
       "published_at": "2026-11-27T08:37:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T23:43:26.821766+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:c4440bec6c7d5c1d44116f1152778a4bfad36c10",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq rally as gains broaden beyond tech — live updates",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09a5c5ff954a9684a403341f73af06&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-thanksgiving-holiday-shortened-black-friday-trading&c=8147742822321622525&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Friday here ahead of the the New York Stock Exchange and Nasdaq closing early.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:37:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:46:15.689039+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
