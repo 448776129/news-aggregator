@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T09:13:23.696870+08:00",
-  "count": 352,
+  "generated_at": "2026-11-27T09:16:16.086770+08:00",
+  "count": 358,
   "sources": [
     {
       "name": "cls",
@@ -27,6 +27,109 @@
   ],
   "items": [
     {
+      "id": "sina:https://finance.sina.com.cn/money/future/2026-11-27/doc-inkacqyr3323031.shtml",
+      "title": "光大期货：11月27日金融日报",
+      "url": "https://finance.sina.com.cn/money/future/2026-11-27/doc-inkacqyr3323031.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "市场资讯",
+      "summary": "股指： （王东灜，从业资格号：F03087149；交易咨询资格号：Z0019537） 昨日，A股市场宽幅震荡，Wind全A下跌0.13%，成交额1.33万亿元。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:15:54+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:16:12.303489+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261127091543384800",
+      "title": "恒指期货日盘开盘跌0.23%，报22150点，低水77点。",
+      "url": "https://www.jin10.com/#/flash/20261127091543384800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "恒指期货日盘开盘跌0.23%，报22150点，低水77点。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:15:43+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:16:10.974806+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127091445887800",
+      "title": "金十数据整理：每日热门ETF要闻汇总（2026-11-27）",
+      "url": "https://www.jin10.com/#/flash/20261127091445887800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "1. 商务部：坚决反对美对中国等经济体加征301关税。 2. 广东：鼓励算力中心优先使用国产算力芯片 提升国产化替代水平和应用规模。 3. 纳指科技ETF景顺今日临停至10:30，前一日收盘溢价约38.5%。 4. 多只纳指ETF今日开盘临停，富国旗下产品提示或再次停牌。 5. 国投白银LOF溢价约12%，或申请盘中停牌。 6. 华泰柏瑞中韩半导体ETF提示溢价，场内价格明显高于参考净值。 7. 国泰标普500ETF溢价8.74%，或申请盘中停牌。 8. 前海开源民企300ETF溢价6.58%，或申请盘中临停。 9. 中证指数拟发布10条新指数，覆盖港股成长、A股低波动和工程机械。 10. 宽基ETF最新交易日净流入108.39亿元，创业板ETF易方达居首。 11. 跨境ETF最新交易日净流出34.15亿元，汇添富港股创新药ETF流出居首。 12. 行业主题ETF最新交易日净流出11.20亿元，国泰通信ETF获资金流入。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:14:45+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:16:10.974806+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261127091106343800",
+      "title": "现货白银日内涨幅达1.00%，现报41.81美元/盎司。",
+      "url": "https://www.jin10.com/#/flash/20261127091106343800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "现货白银日内涨幅达1.00%，现报41.81美元/盎司。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:11:06+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:16:10.974806+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127091054877800",
+      "title": "韩国KOSPI指数日内涨幅达1.00%。",
+      "url": "https://www.jin10.com/#/flash/20261127091054877800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "韩国KOSPI指数日内涨幅达1.00%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:10:54+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:16:10.974806+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/money/future/hyxh/2026-11-27/doc-inkacqyr3318659.shtml",
       "title": "中央气象台：每 日 天 气 提 示（2026年11月27日）",
       "url": "https://finance.sina.com.cn/money/future/hyxh/2026-11-27/doc-inkacqyr3318659.shtml",
@@ -44,6 +147,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127090904267800",
+      "title": "【机构：澳元疲软料将延续至2027年】金十数据11月27日讯，澳大利亚国民银行外汇策略主管Ray Attrill说，澳元近期疲软料将延续到2027年。这一跌势在",
+      "url": "https://www.jin10.com/#/flash/20261127090904267800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【机构：澳元疲软料将延续至2027年】金十数据11月27日讯，澳大利亚国民银行外汇策略主管Ray Attrill说，澳元近期疲软料将延续到2027年。这一跌势在很大程度上将受美元推动，美元似乎正处在强势持续时间长于此前预期的轨道上。他补充表示，从现在到年底，澳元兑美元AUD/USD应会守在0.65上方，但明年不太可能如此，预计2027年第三季度低点为0.64。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:09:04+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:16:10.974806+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261127090828477800",

@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T09:13:23.682189+08:00",
-  "count": 796,
+  "generated_at": "2026-11-27T09:16:16.073701+08:00",
+  "count": 800,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "error": ""
     },
     {
@@ -38,6 +38,76 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:moodys:49c8adab50da8:0",
+      "title": "Bangladesh loses half of Adani's Godda power supply",
+      "url": "https://www.tradingview.com/news/moodys:49c8adab50da8:0-bangladesh-loses-half-of-adani-s-godda-power-supply/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "bne Intellinews",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:14:12+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:16:11.403769+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:ADANIPOWER"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cryptobriefing:fa0482709094b:0",
+      "title": "Bitcoin miners log longest block gap since July at 98 minutes",
+      "url": "https://cryptobriefing.com/bitcoin-longest-block-gap-since-july/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:13:38+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:16:11.403769+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004254:0",
+      "title": "MSCI India Gets Rare Earnings Upgrade — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004254:0-msci-india-gets-rare-earnings-upgrade-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:13:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:16:11.403769+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261126004231_20261126004253:0",
       "title": "CVC: Sale of TRY Expected to Be Completed in December",
@@ -16525,6 +16595,25 @@
           "AMEX:CONY"
         ]
       }
+    },
+    {
+      "id": "msn:15ce040cb63d2bf96f854f0751b7d6fcd1c4b277",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty futures signal a negative start as index ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08d9db123e423488b48810e68879ba&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:16:13.546175+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:seekingalpha:95ab3f6ae094b:0",
