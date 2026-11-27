@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T02:28:16.948522+08:00",
-  "count": 329,
+  "generated_at": "2026-11-28T02:31:18.065915+08:00",
+  "count": 338,
   "sources": [
     {
       "name": "alpaca",
@@ -39,6 +39,205 @@
   ],
   "items": [
     {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780T2:0",
+      "title": "Ionis Pharmaceuticals Files For Stock Shelf; Size Not Disclosed",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4780T2:0-ionis-pharmaceuticals-files-for-stock-shelf-size-not-disclosed/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:30:39+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:31:12.772048+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:IONS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0608Fa:0",
+      "title": "REG - RNS - Final Announcement Released",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0608Fa:0-reg-rns-final-announcement-released/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:30:02+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:31:12.772048+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:217c8768f5114:0",
+      "title": "ExlService Executive Vice President Sold Shares Worth Over $597K",
+      "url": "https://www.tradingview.com/news/tradingview:217c8768f5114:0-exlservice-executive-vice-president-sold-shares-worth-over-597k/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:30:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:31:12.772048+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:EXLS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:business_wire:63f9795474389:0",
+      "title": "First Trust Advisors L.P. Announces Distributions for Exchange-Traded Funds",
+      "url": "https://www.tradingview.com/news/business_wire:63f9795474389:0-first-trust-advisors-l-p-announces-distributions-for-exchange-traded-funds/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:30:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:31:12.772048+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:BFAP",
+          "AMEX:BFJL",
+          "AMEX:BFOC",
+          "NASDAQ:FTSM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:58642a5abb20d:0",
+      "title": "U.S. Stocks Move Sharply Higher, Post Substantial Weekly Gains",
+      "url": "https://www.tradingview.com/news/dpa_afx:58642a5abb20d:0-u-s-stocks-move-sharply-higher-post-substantial-weekly-gains/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:28:38+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:31:12.772048+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:IXIC",
+          "SP:SPX",
+          "TVC:DJI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47813I:0",
+      "title": "OpenAI countersues Apple for stealing trade secrets, FT reports",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47813I:0-openai-countersues-apple-for-stealing-trade-secrets-ft-reports/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:27:12+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:31:12.772048+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AAPL",
+          "NASDAQ:OPENAI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:3d10105c5edee:0",
+      "title": "European Markets Finish Higher, Extend Thursday's Gains",
+      "url": "https://www.tradingview.com/news/dpa_afx:3d10105c5edee:0-european-markets-finish-higher-extend-thursday-s-gains/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:26:25+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:31:12.772048+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:DAX",
+          "TVC:UKX",
+          "TVC:CAC40"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780T3:0",
+      "title": "OpenAI Countersues Apple For Stealing Trade Secrets - FT",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4780T3:0-openai-countersues-apple-for-stealing-trade-secrets-ft/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:23:55+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:31:12.772048+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:OPENAI",
+          "NASDAQ:AAPL"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tradingview:342d9c297fda0:0",
       "title": "Eightco Holdings Disclosed Failure to Satisfy a Continued Listing Rule or Standard",
       "url": "https://www.tradingview.com/news/tradingview:342d9c297fda0:0-eightco-holdings-disclosed-failure-to-satisfy-a-continued-listing-rule-or-standard/",
@@ -59,6 +258,30 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:ORBS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:baystreet:06db26462094b:0",
+      "title": "SMX Gains on Newspaper Article",
+      "url": "https://www.baystreet.ca/articles/stockstowatch/125730/smx-gains-on-newspaper-article",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BayStreet",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:22:19+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:31:12.772048+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SMX"
         ]
       }
     },
