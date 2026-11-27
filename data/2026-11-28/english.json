@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T03:19:20.489526+08:00",
-  "count": 412,
+  "generated_at": "2026-11-28T03:22:23.812375+08:00",
+  "count": 413,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,25 @@
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-indexes.html?.tsrc=rss",
+      "title": "Stock Market Today: Indexes Log Best Thanksgiving Week In 18 Years",
+      "url": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-indexes.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The Dow Jones index and the Nasdaq composite rose in Friday's post-Thanksgiving session. Anthropic, SpaceX and Tesla gain.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:19:22+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:22:18.828313+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780OB:0",
       "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
