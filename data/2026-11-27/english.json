@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T12:01:16.838732+08:00",
-  "count": 1128,
+  "generated_at": "2026-11-27T12:04:17.271061+08:00",
+  "count": 1141,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 13,
+      "count": 15,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "error": ""
     },
     {
@@ -38,6 +38,146 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770UJ:0",
+      "title": "Mitsubishi Logistics Corporation - To Buy Up To 13,000,000 Shares",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770UJ:0-mitsubishi-logistics-corporation-to-buy-up-to-13-000-000-shares/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:02:13+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:04:13.657477+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSE:9301"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:prnewswire:e61c1df136b64:0",
+      "title": "Folding Bikes Were Never Built for Everyone? DAHON is Fixing That",
+      "url": "https://www.tradingview.com/news/prnewswire:e61c1df136b64:0-folding-bikes-were-never-built-for-everyone-dahon-is-fixing-that/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "PR Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:04:13.657477+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:96781a711094b:0",
+      "title": "Laurent-Perrier : Financial press release - Results for the first six months of the 2026-2027 financial year",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411062/0/en/laurent-perrier-financial-press-release-results-for-the-first-six-months-of-the-2026-2027-financial-year.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:04:13.657477+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:LPE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:7c16f297c0c9e:0",
+      "title": "Laurent-Perrier Group (LPE) Reports Net Profit Down 9.1% to €21M",
+      "url": "https://www.tradingview.com/news/tradingview:7c16f297c0c9e:0-laurent-perrier-group-lpe-reports-net-profit-down-9-1-to-21m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:04:13.657477+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:LPE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004511:0",
+      "title": "Singapore Dollar Strengthens Slightly Amid Mild Risk Appetite — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004511:0-singapore-dollar-strengthens-slightly-amid-mild-risk-appetite-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:04:13.657477+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:0b8bccc70094b:0",
+      "title": "Rocket Lab Launches 101st Electron Mission",
+      "url": "https://seekingalpha.com/news/4676910-rocket-lab-launches-101st-electron-mission?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:59:16+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:04:13.657477+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:RKLB"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N478083:0",
       "title": "Indian shares open flat after recent rally, set for fifth weekly gain",
@@ -86,6 +226,30 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:ed742ee31094b:0",
+      "title": "Dollar set for longest winning run since 2024 on AI risk",
+      "url": "https://www.tradingview.com/news/moneycontrol:ed742ee31094b:0-dollar-set-for-longest-winning-run-since-2024-on-ai-risk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:55:37+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:04:13.657477+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX:EURUSD"
+        ]
       }
     },
     {
@@ -3272,6 +3436,30 @@
         "symbols": [
           "NIVF"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8816079",
+      "title": "Shares find footing after bruising month, dollar set for third monthly gain - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDB1T1E2SVA0LVpuZFR6d2d5dWFobkEwdkN5aFVmZUZKN1pSVWExbEJzWlZhV0tKcklRQ09yZlFTZklkLTBNSGFwbHBfbHR2SWZoQTdXcWtFdEViWGdQamN2a0JjWjZ4M0Mydmlpc1lrQUdYaFBNVkFBdTQ4djVpbjZrRQ?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Shares find footing after bruising month, dollar set for third monthly gain Reuters",
+      "content": "Shares find footing after bruising month, dollar set for third monthly gain Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:01:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:04:14.312692+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -7001,6 +7189,30 @@
       }
     },
     {
+      "id": "finnhub:8816078",
+      "title": "Trump says Putin can come to G20 if he wants - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjY3Sm9MUkZXUEQyNDc3MFdwRlFBaWcyWkpxbDRYT21RVFYySkgtUm9WeFNFb1lZUU9lM1BqbDBWLW5VLW9PR1ZvMjFxVHZNX2Q2b01rNXdVQUJIYmZ5ZHd4eEI1RkI3dlctelgwODgwczQta2ZWZEpDU2Jwa29MT21ZMlJ1clVNMkM0?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Trump says Putin can come to G20 if he wants Reuters",
+      "content": "Trump says Putin can come to G20 if he wants Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:35:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:04:14.312692+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L5N47800L:0",
       "title": "Trip.com Group Limited expected to post earnings of CNY8.25 a share - Earnings Preview",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N47800L:0-trip-com-group-limited-expected-to-post-earnings-of-cny8-25-a-share-earnings-preview/",
@@ -7229,6 +7441,30 @@
         "symbols": [
           "OSL:ROM"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8816075",
+      "title": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHRXZnN1TmZVRDJ6VUJtNjhuRm85eGlQVmdGNGQ0SC0yeHlPVUlKSksyLVNZa0VqRGdqUWVtaW1oNHhjQldDdHlKYnZ0TVgtbkpEcmJfVEcyTUxnNkNYeEdaYXlWUmQwcnhyLUtrUERoYnhIdnVxV3lFeUhza21Wc3U2WW9yd2loWmpxeXE4SG9OT2Rlai1reWtSemRkYnlBZndLaFVNOHJHeDF4ZkVmckpqSzZSbElNZHpfdUFLTTBsOW9C?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered Reuters",
+      "content": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:25:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:04:14.312692+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -14206,6 +14442,25 @@
       "extra": {}
     },
     {
+      "id": "msn:8983d482989ab991970a1a7933585ca5e988eb88",
+      "title": "Stock Market Today Live Updates: BSE Sensex falls over 100 pts, Nifty50 holds above 25,850",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09013d3f3d4385ae108bf578fad2b6&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fbusiness%2findia-business%2fsensex-stock-market-today-27-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news%2fliveblog%2f136208203.cms&c=13360932459420895778&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Asian markets were mostly higher in early trading on Friday, tracking developments in global markets after Wall Street remained closed on Thursday fo ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T03:53:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:04:15.878929+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770OG:0",
       "title": "New Zealand's Green Cross Health interim half-year revenue rises on pharmacy retail and dispensary growth",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770OG:0-new-zealand-s-green-cross-health-interim-half-year-revenue-rises-on-pharmacy-retail-and-dispensary-growth/",
@@ -17374,6 +17629,25 @@
       "published_at": "2026-11-27T02:09:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T12:01:15.250311+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:728cad2e437250be2876d437f7a8770e86997eb9",
+      "title": "Adobe: The Next Chapter Is Still Being Written (Q4 Earnings Preview)",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09013e1e6448919d7513267ded4f3b&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972410-adobe-the-next-chapter-is-still-being-written-q4-earnings-preview&c=8851009591392163459&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Adobe's freemium monthly active users rose 70% to over 100 million in Q3, while AI-first ARR grew over 150% to $650 million.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:09:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:04:15.878929+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -26322,6 +26596,25 @@
       "published_at": "2026-11-27T00:00:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T11:58:23.611124+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b51179f8fec12e5c284b7e2720d072c534b2e332",
+      "title": "Tenaz Energy (TSX:TNZ) Stock Trades At A Premium To Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09013e1e6448919d7513267ded4f3b&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2ftenaz-energy-tsx-tnz-stock-012706649.html&c=13302110412068100848&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Tenaz Energy has delivered very strong share price gains in recent years, which puts a spotlight on whether the current valuation is properly supported by its earnings power. With that kind of track ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:04:15.878929+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
