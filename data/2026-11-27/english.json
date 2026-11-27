@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T08:40:14.864108+08:00",
-  "count": 738,
+  "generated_at": "2026-11-27T08:43:23.353738+08:00",
+  "count": 742,
   "sources": [
     {
       "name": "alpaca",
@@ -39,6 +39,56 @@
   ],
   "items": [
     {
+      "id": "tradingview:cnbctv:bcec25bca094b:0",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty bulls continue to push for 26,000; Crude prices rise",
+      "url": "https://www.tradingview.com/news/cnbctv:bcec25bca094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:40:33+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:43:20.195672+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:NIFTY",
+          "NSE:BANKNIFTY",
+          "TVC:UKOIL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_Tnw8mR3S6:0",
+      "title": "Results of Annual General Meeting",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_Tnw8mR3S6:0-results-of-annual-general-meeting/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TheNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:40:06+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:43:20.195672+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:MTH"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N478001:0",
       "title": "Gold steady, heads for weekly gain as markets await Fed signals",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N478001:0-gold-steady-heads-for-weekly-gain-as-markets-await-fed-signals/",
@@ -63,6 +113,31 @@
           "NYMEX:PL1!",
           "NYMEX:PA1!",
           "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:smallcaps:8829db8ff094b:0",
+      "title": "Pancontinental Energy Pursues Farmout Partner for Namibian PEL 87 Operation",
+      "url": "https://smallcaps.com.au/article/pancontinental-energy-pursues-farmout-partner-for-namibian-pel-87-operation",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Small Caps",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:38:30+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:43:20.195672+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:PCL",
+          "ASX:DUG"
         ]
       }
     },
@@ -114,6 +189,32 @@
         "urgency": 2,
         "symbols": [
           "HKEX:145"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cointelegraph:65d5e148f094b:0",
+      "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
+      "url": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Cointelegraph",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:35:39+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:43:20.195672+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRAKEN:XMRUSD",
+          "CRYPTO:XMRUSD",
+          "COINBASE:ZECUSD"
         ]
       }
     },

@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T08:19:19.690995+08:00",
-  "count": 298,
+  "generated_at": "2026-11-27T08:43:22.946630+08:00",
+  "count": 300,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,25 @@
     }
   ],
   "items": [
+    {
+      "id": "msn:516814c32be099da38d2caf686d18faee95bb444",
+      "title": "Oracle's stock edges up on earnings beat as cloud infrastructure revenue more than doubles",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08d2284f0c46479882d5afad3db5f6&url=https%3a%2f%2fwww.cnbc.com%2f2026%2f09%2f10%2foracle-orcl-q1-earnings-report-2027.html&c=1367780556134222528&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Oracle's results surpassed consensus on the top and bottom lines. Revenue growth came in at about 30% for the fiscal first quarter and could accelerate this period. In this article Oracle shares moved ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-09-10T21:12:00+08:00",
+      "published_date": "2026-09-10",
+      "fetched_at": "2026-11-27T08:43:22.106901+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "msn:c9c2979ed3484d0c92a18b57e5117ea2bb51ada1",
       "title": "Upcoming Earnings Reports in 2026",
@@ -4935,6 +4954,25 @@
       "published_at": "2026-09-10T15:18:00+08:00",
       "published_date": "2026-09-10",
       "fetched_at": "2026-11-27T08:19:17.512162+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:3b731f0199e4e877982b2d3a7c363e5006d82d97",
+      "title": "Upcoming Earnings Reports in 2026",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08d2284f0c46479882d5afad3db5f6&url=https%3a%2f%2fwww.fool.com%2finvesting%2fstock-market%2fupcoming-earnings-reports%2f&c=10624373174590001561&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Earnings reports reveal a company's revenue, net income, and forward guidance. Quarterly insights and projections help investors assess stock suitability. Reading earnings helps informed ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-09-10T15:18:00+08:00",
+      "published_date": "2026-09-10",
+      "fetched_at": "2026-11-27T08:43:22.106901+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
