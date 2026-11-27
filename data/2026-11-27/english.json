@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T10:31:16.398294+08:00",
-  "count": 941,
+  "generated_at": "2026-11-27T10:34:18.231677+08:00",
+  "count": 955,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,282 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261126004397:0",
+      "title": "Japan Inflation Likely to Accelerate on Energy, Food — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004397:0-japan-inflation-likely-to-accelerate-on-energy-food-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:32:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:34:13.502039+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47803M:0",
+      "title": "Thai baht/US dollar steady on Friday",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47803M:0-thai-baht-us-dollar-steady-on-friday/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:31:46+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:34:13.502039+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "FX_IDC:USDTHB",
+          "COMEX:GC1!",
+          "OANDA:USDTHB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:24a89b338094b:0",
+      "title": "COMEX gold rises, silver gains over 2%; can the recovery hold",
+      "url": "https://www.tradingview.com/news/cnbctv:24a89b338094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:31:05+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:34:13.502039+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD",
+          "COMEX:SI1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004396:0",
+      "title": "Brambles Bull Seems Sanguine on U.S. Retailer Destocking — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004396:0-brambles-bull-seems-sanguine-on-u-s-retailer-destocking-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:31:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:34:13.502039+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:BXB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_slides:quartr.com:4880039:0",
+      "title": "NMT: Ironclad targets an April 2027 FID as gold and copper exploration advances",
+      "url": "https://www.tradingview.com/news/urn:summary_document_slides:quartr.com:4880039:0-nmt-ironclad-targets-an-april-2027-fid-as-gold-and-copper-exploration-advances/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:30:19+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:34:13.502039+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:NMT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47715V:0",
+      "title": "Fitch Affirms Zambia At 'B-'; Outlook Stable",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47715V:0-fitch-affirms-zambia-at-b-outlook-stable/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:30:12+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:34:13.502039+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004395:0",
+      "title": "China's Industrial Profit Surged Despite Headwinds",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004395:0-china-s-industrial-profit-surged-despite-headwinds/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:34:13.502039+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ECONOMICS:CNIPMM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47804E:0",
+      "title": "Indian shares set to open higher, eye fifth weekly gain as inflows boost momentum",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47804E:0-indian-shares-set-to-open-higher-eye-fifth-weekly-gain-as-inflows-boost-momentum/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:29:49+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:34:13.502039+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:NIFTY",
+          "BSE:SENSEX",
+          "ICEEUR:BRN1!",
+          "NSE:COALINDIA",
+          "NSE:IGIL",
+          "NSE:URBANCO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47802P:0",
+      "title": "Japan's Nikkei extends weekly gain as investors scoop up battered AI shares",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47802P:0-japan-s-nikkei-extends-weekly-gain-as-investors-scoop-up-battered-ai-shares/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:29:16+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:34:13.502039+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:NI225",
+          "TSE:TOPIX",
+          "TSE:2914",
+          "LSE:IMB",
+          "TSE:6526",
+          "TSE:5801",
+          "TSE:285A",
+          "TSE:6098",
+          "TSE:4324",
+          "TSE:9697"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47801F:0",
+      "title": "Japan short-term yields gain as inflation bolsters rate-hike bets",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47801F:0-japan-short-term-yields-gain-as-inflation-bolsters-rate-hike-bets/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:29:10+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:34:13.502039+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:78b6038a5094b:0",
+      "title": "Trading Plan: Can Nifty 50 defend 25,800, Bank Nifty hold above 63,000 as consolidation continues?",
+      "url": "https://www.tradingview.com/news/moneycontrol:78b6038a5094b:0-trading-plan-can-nifty-50-defend-25-800-bank-nifty-hold-above-63-000-as-consolidation-continues/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:28:50+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:34:13.502039+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:NIFTY",
+          "NSE:BANKNIFTY"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N47802K:0",
       "title": "Iron ore heads for third weekly loss on weak China demand",
@@ -110,6 +386,31 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:272392e6a094b:0",
+      "title": "China industrial profits growth rises 20%, at 5-month high",
+      "url": "https://www.tradingview.com/news/cnbctv:272392e6a094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:24:33+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:34:13.502039+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:HG1!",
+          "LME:AH1!"
+        ]
       }
     },
     {
@@ -14014,6 +14315,25 @@
       "extra": {}
     },
     {
+      "id": "msn:279e0f7ea178d2a975f8c96b93642fdff6b9c2f3",
+      "title": "Adobe: The Next Chapter Is Still Being Written (Q4 Earnings Preview)",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08ec26c59f4dee98347740d9730f32&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972410-adobe-the-next-chapter-is-still-being-written-q4-earnings-preview&c=8851009591392163459&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Adobe's freemium monthly active users rose 70% to over 100 million in Q3, while AI-first ARR grew over 150% to $650 million.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:09:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:34:15.512487+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:c6241f1a8af4b:0",
       "title": "Stabilus SE (STM) Extends CEO Contract Through September 2030",
       "url": "https://www.tradingview.com/news/tradingview:c6241f1a8af4b:0-stabilus-se-stm-extends-ceo-contract-through-september-2030/",
@@ -19696,6 +20016,25 @@
       "published_at": "2026-11-27T00:39:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T10:31:15.338534+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:aaccc43b52167bd24e8b738cbf5e3acb386af271",
+      "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty down 60 pts; Brent remains above $96",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08ec2544964d5290efc7d568f48817&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:34:15.512487+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
