@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T13:19:19.486458+08:00",
-  "count": 1396,
+  "generated_at": "2026-11-27T13:22:20.490180+08:00",
+  "count": 1406,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,125 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N47809Y:0",
+      "title": "Danantara unit's management of RGE's revoked Indonesia forest concession is temporary, reports say",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47809Y:0-danantara-unit-s-management-of-rge-s-revoked-indonesia-forest-concession-is-temporary-reports-say/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:17:18+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:22:16.070453+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4780BB:0",
+      "title": "Hetero close to securing India approval for generic Gilead HIV prevention drug, sources say",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4780BB:0-hetero-close-to-securing-india-approval-for-generic-gilead-hiv-prevention-drug-sources-say/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:17:06+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:22:16.070453+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:GILD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127000064:0",
+      "title": "Australia Orders LNG Exporters Reserve Some Gas to Plug Shortages at Home — Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127000064:0-australia-orders-lng-exporters-reserve-some-gas-to-plug-shortages-at-home-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:16:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:22:16.070453+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:SHEL",
+          "NYSE:COP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47716A:0",
+      "title": "India's Hetero Close To Securing Regulatory Approval For Generic Gilead HIV Prevention Drug Lenacapavir In Country- Sources",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47716A:0-india-s-hetero-close-to-securing-regulatory-approval-for-generic-gilead-hiv-prevention-drug-lenacapavir-in-country-sources/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:14:58+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:22:16.070453+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:GILD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:896a44bb0094b:0",
+      "title": "Nifty IT index could hit new high in 12-18 months as AI demand picks up: Sowilo Investment",
+      "url": "https://www.tradingview.com/news/cnbctv:896a44bb0094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:14:55+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:22:16.070453+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:CNXIT"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261127000045:0",
       "title": "U.S., China Expected to Maintain Stable Trade Relationship in Near Term — Market Talk",
@@ -58,6 +177,54 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:795f20ea7094b:0",
+      "title": "InnoCare Announces Approval of the Next-Generation TRK Inhibitor Zurletrectinib for the Treatment of Pediatric Patients with Solid Tumors in China",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411068/0/en/innocare-announces-approval-of-the-next-generation-trk-inhibitor-zurletrectinib-for-the-treatment-of-pediatric-patients-with-solid-tumors-in-china.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:13:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:22:16.070453+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SSE:688428"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:6a22550baa8dc:0",
+      "title": "InnoCare Pharma Wins China Approval for Pediatric Zurletrectinib Use",
+      "url": "https://www.tradingview.com/news/tradingview:6a22550baa8dc:0-innocare-pharma-wins-china-approval-for-pediatric-zurletrectinib-use/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:13:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:22:16.070453+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SSE:688428"
+        ]
       }
     },
     {
@@ -366,6 +533,28 @@
           "TVC:UKOIL",
           "NYMEX:CL1!"
         ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:b9ab48bc6094b:0",
+      "title": "ICICI Securities sees FMCG rally continuing on strong volume growth, pricing power",
+      "url": "https://www.tradingview.com/news/cnbctv:b9ab48bc6094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:06:28+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:22:16.070453+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -17723,6 +17912,25 @@
       }
     },
     {
+      "id": "msn:00637fd149230e2b12dc0bd7da8cf27e5ccbb664",
+      "title": "Stock Market Live Updates: Sensex falls over 400 pts, Nifty below 25,800; HDFC Bank, BEL ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b091388b6e04101bd607f9be845264f&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-share-price-27-november-2026%2fliveblog%2f136206762.cms&c=17461454488585503924&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "GIFT Nifty on the NSE IX trades lower, signalling that Dalal Street is set for a negative start on Friday as investors remain cautious ahead of the opening bell.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:10:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:22:17.822804+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:7af8dc7a7d2ae2a2e50efc8b0348ede854f3d114",
       "title": "Stock Market Live Updates: Sensex falls over 400 pts, Nifty below 25,800; HDFC Bank, BEL ...",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0912204e094d98b32cb80d02bb5305&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-share-price-27-november-2026%2fliveblog%2f136206762.cms&c=17461454488585503924&mkt=en-us",
@@ -29398,6 +29606,25 @@
       "published_at": "2026-11-27T00:39:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T11:55:17.011235+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:f284157af66595e7a41f3b6f5f95c6e9495d1fe6",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty looks to recover from lows; BEML jumps 8%",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b091388b6e04101bd607f9be845264f&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:22:17.822804+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
