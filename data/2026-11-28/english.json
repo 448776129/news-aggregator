@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T07:10:19.210713+08:00",
-  "count": 712,
+  "generated_at": "2026-11-28T07:13:19.419444+08:00",
+  "count": 713,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tradingview:142f47b25dc61:0",
+      "title": "Enphase Energy Director Sold Shares Worth Over $3.5M",
+      "url": "https://www.tradingview.com/news/tradingview:142f47b25dc61:0-enphase-energy-director-sold-shares-worth-over-3-5m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T07:10:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T07:13:13.726570+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ENPH"
+        ]
+      }
+    },
     {
       "id": "tradingview:tradingview:d302161f380f9:0",
       "title": "Green Rise Foods Inc. (GRF) Confirms $0.43 Per-Share Arrangement Consideration",
