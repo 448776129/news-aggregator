@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T03:31:20.356596+08:00",
-  "count": 427,
+  "generated_at": "2026-11-28T03:34:24.287858+08:00",
+  "count": 438,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,36 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 26,
+      "count": 27,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:gurufocus:2bcefc0da094b:0",
+      "title": "Samsung Electronics Stocks Jump 4.55% as Seoul Rallies on Stabilization Hopes",
+      "url": "https://www.gurufocus.com/news/9228780/samsung-electronics-stocks-jump-455-as-seoul-rallies-on-stabilization-hopes",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:28:12+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:34:19.019136+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:005930",
+          "KRX:KOSPI"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4780WQ:0",
       "title": "Yields rise as tech stocks extend rebound",
@@ -149,6 +174,54 @@
       }
     },
     {
+      "id": "tradingview:gurufocus:88efe1ecd094b:0",
+      "title": "Micron Stocks Climb 4.29% as Chip Rebound Meets Tight 2027 Memory Supply",
+      "url": "https://www.gurufocus.com/news/9228781/micron-stocks-climb-429-as-chip-rebound-meets-tight-2027-memory-supply",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:24:47+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:34:19.019136+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:MU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:gurufocus:a6181da60094b:0",
+      "title": "Alibaba Stocks Climb 4.38% as Beijing Calls on State Funds to Steady Markets",
+      "url": "https://www.gurufocus.com/news/9228782/alibaba-stocks-climb-438-as-beijing-calls-on-state-funds-to-steady-markets",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:24:09+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:34:19.019136+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:BABA"
+        ]
+      }
+    },
+    {
       "id": "tradingview:DJN_DN20261127004579:0",
       "title": "Precious Metals Rally as AI Trade Revives Risk Appetite — Update",
       "url": "https://www.tradingview.com/news/DJN_DN20261127004579:0-precious-metals-rally-as-ai-trade-revives-risk-appetite-update/",
@@ -171,6 +244,30 @@
           "OANDA:XAUUSD",
           "COMEX:SI1!",
           "COMEX:HG1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:gurufocus:f8a45a262094b:0",
+      "title": "Palantir Stocks Climb 3.72% on $300 Million Poland Defense AI Deal",
+      "url": "https://www.gurufocus.com/news/9228784/palantir-stocks-climb-372-on-300-million-poland-defense-ai-deal",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:23:23+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:34:19.019136+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:PLTR"
         ]
       }
     },
@@ -223,6 +320,30 @@
       }
     },
     {
+      "id": "tradingview:gurufocus:d240d963e094b:0",
+      "title": "SpaceX Stocks Climb 2.74% as FCC Clears One Million AI Satellites",
+      "url": "https://www.gurufocus.com/news/9228783/spacex-stocks-climb-274-as-fcc-clears-one-million-ai-satellites",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:22:36+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:34:19.019136+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SPCX"
+        ]
+      }
+    },
+    {
       "id": "tradingview:seekingalpha:42030ecef094b:0",
       "title": "SA Asks: What's the best gold play right now for investors?",
       "url": "https://seekingalpha.com/news/4677104-sa-asks-whats-the-best-gold-play-right-now-for-investors?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
@@ -246,6 +367,30 @@
           "AMEX:GDX",
           "AMEX:GDXJ",
           "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:gurufocus:172d9a3da094b:0",
+      "title": "Intel Stocks Climb 2.86% as Court Filings Detail Washington's 10% Stake Push",
+      "url": "https://www.gurufocus.com/news/9228786/intel-stocks-climb-286-as-court-filings-detail-washingtons-10-stake-push",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:21:24+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:34:19.019136+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:INTC"
         ]
       }
     },
@@ -353,6 +498,55 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "tradingview:gurufocus:f4253da0d094b:0",
+      "title": "Alphabet Stocks Move Lower as Record Credit Spreads Shadow AI Spending",
+      "url": "https://www.gurufocus.com/news/9228789/alphabet-stocks-move-lower-as-record-credit-spreads-shadow-ai-spending",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:18:39+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:34:19.019136+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:GOOGL",
+          "NASDAQ:GOOG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:gurufocus:6c393ccf8094b:0",
+      "title": "AMD Stocks Rise Despite Erste Group Downgrade on Valuation",
+      "url": "https://www.gurufocus.com/news/9228787/amd-stocks-rise-despite-erste-group-downgrade-on-valuation",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:18:08+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:34:19.019136+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMD"
+        ]
+      }
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780OB:0",
@@ -530,6 +724,49 @@
       "extra": {}
     },
     {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/iren-nasdaqgs-iren-stock-sees-190922720.html?.tsrc=rss",
+      "title": "IREN (NasdaqGS:IREN) Stock Sees Modest Fair Value Cut After AI Cloud Sentiment Swings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/iren-nasdaqgs-iren-stock-sees-190922720.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The analyst fair value estimate for IREN has shifted from US$56.69 to US$52.74, pointing to a modest reset in the price target used in current valuation work. This updated view comes against a backdrop of sharp share price swings following IREN’s Q1 update, moves in Microsoft’s capex guidance, and sentiment shifts around AI cloud infrastructure tied to Nvidia’s GPU ecosystem. As you read on, you will see how these valuation changes fit into the broader IREN story and what to watch as the...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:09:22+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:34:18.663535+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:gurufocus:5f1750f56094b:0",
+      "title": "Amazon Stocks Climb 2.96% as Thanksgiving Online Spending Hits $7.1 Billion",
+      "url": "https://www.gurufocus.com/news/9228788/amazon-stocks-climb-296-as-thanksgiving-online-spending-hits-71-billion",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:09:08+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:34:19.019136+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AMZN"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_B5N46N004:0",
       "title": "Puig agrees to buy 75% stake in perfume group Artessence in deal valuing it at $1.9 billion",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_B5N46N004:0-puig-agrees-to-buy-75-stake-in-perfume-group-artessence-in-deal-valuing-it-at-1-9-billion/",
@@ -691,6 +928,30 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:gurufocus:7de5d65e3094b:0",
+      "title": "Dell Stocks Jump 5.28% as $132.3 Billion AI Backlog Keeps Buyers Coming",
+      "url": "https://www.gurufocus.com/news/9228792/dell-stocks-jump-528-as-1323-billion-ai-backlog-keeps-buyers-coming",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:02:15+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:34:19.019136+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:DELL"
+        ]
       }
     },
     {
