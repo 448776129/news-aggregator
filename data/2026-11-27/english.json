@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T08:37:15.177676+08:00",
-  "count": 733,
+  "generated_at": "2026-11-27T08:40:14.864108+08:00",
+  "count": 738,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,133 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N478001:0",
+      "title": "Gold steady, heads for weekly gain as markets await Fed signals",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N478001:0-gold-steady-heads-for-weekly-gain-as-markets-await-fed-signals/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:38:30+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:40:10.485633+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COMEX:GC1!",
+          "COMEX:SI1!",
+          "NYMEX:PL1!",
+          "NYMEX:PA1!",
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N478004:0",
+      "title": "Japan Tobacco up 2% on Imperial Brands takeover talk",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N478004:0-japan-tobacco-up-2-on-imperial-brands-takeover-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:37:49+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:40:10.485633+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSE:2914",
+          "LSE:IMB",
+          "NYSE:MO",
+          "TSE:TOPIX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770WU:0",
+      "title": "HKEX Says Trading In CCIAM Future Energy Halted",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770WU:0-hkex-says-trading-in-cciam-future-energy-halted/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:37:48+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:40:10.485633+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:145"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:0944724f44f8a:0",
+      "title": "Fab-Form Industries Ltd. (FBF) Missouri Branch Generates $306.0K in Revenue",
+      "url": "https://www.tradingview.com/news/tradingview:0944724f44f8a:0-fab-form-industries-ltd-fbf-missouri-branch-generates-306-0k-in-revenue/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:35:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:40:10.485633+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:FBF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:3d315bc21094b:0",
+      "title": "Fab-Form Industries Ltd. Announces Results for the Quarter Ended 30 September 2026",
+      "url": "https://www.newsfilecorp.com/release/326073/FabForm-Industries-Ltd.-Announces-Results-for-the-Quarter-Ended-30-September-2026",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:35:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:40:10.485633+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:FBF"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L5N47800L:0",
       "title": "Trip.com Group Limited expected to post earnings of CNY8.25 a share - Earnings Preview",

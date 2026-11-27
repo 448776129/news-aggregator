@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T08:37:15.187985+08:00",
-  "count": 300,
+  "generated_at": "2026-11-27T08:40:14.878824+08:00",
+  "count": 302,
   "sources": [
     {
       "name": "cls",
@@ -26,6 +26,25 @@
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/world/2026-11-27/doc-inkacqyn7865695.shtml",
+      "title": "汇丰预计美元在年底前将获得支撑 对欧元和英镑温和看跌",
+      "url": "https://finance.sina.com.cn/world/2026-11-27/doc-inkacqyn7865695.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "汇丰对美元年底前走势持谨慎乐观态度，美联储鹰派预期和美国经济韧性将为美元提供支撑，同时股市和人工智能交易的强劲表现也将起到支撑作用。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:39:09+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:40:10.823962+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-27/doc-inkacqyn7863131.shtml",
       "title": "金泰能源控股：汇益国际辞任核数师",
@@ -63,6 +82,27 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127083454525800",
+      "title": "拉脱维亚军方：卢扎市镇上空出现空中威胁。",
+      "url": "https://www.jin10.com/#/flash/20261127083454525800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "拉脱维亚军方：卢扎市镇上空出现空中威胁。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:34:54+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T08:40:09.685439+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacqyr3291390.shtml",
