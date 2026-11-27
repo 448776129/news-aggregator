@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T05:34:16.030599+08:00",
-  "count": 95,
+  "generated_at": "2026-11-28T05:43:23.709109+08:00",
+  "count": 96,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 18,
+      "count": 19,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafprt2901022.shtml",
+      "title": "大选前响起警报 法国信评展望遭标普下调至负面",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafprt2901022.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "法国信用评级被标普全球评级列入负面观察名单，因该国大选前经济衰退叠加了政治和预算动荡。 标普维持了法国的A+评级。这一水平与西班牙和日本旗鼓相当并高出垃圾级六档。...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:43:11+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:43:18.238675+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafprq7580101.shtml",
       "title": "标普将匈牙利的评级展望从负面调整为稳定",

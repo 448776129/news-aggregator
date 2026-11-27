@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T05:34:16.022000+08:00",
-  "count": 606,
+  "generated_at": "2026-11-28T05:43:23.700216+08:00",
+  "count": 608,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,30 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 31,
+      "count": 32,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/27/billionaire-chase-colemans-tiger-global-raised-its-cerebras-stake-48-to-790-million/?.tsrc=rss",
+      "title": "Billionaire Chase Coleman’s Tiger Global Raised Its Cerebras Stake 48% to $790 Million",
+      "url": "https://247wallst.com/investing/2026/11/27/billionaire-chase-colemans-tiger-global-raised-its-cerebras-stake-48-to-790-million/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "A famed hedge fund keeps buying a newly public AI chipmaker even as the stock sinks far below its debut high. Before retirement investors copy the move, one detail about how Tiger sized the bet matters more than the purchase itself.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:37:57+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:43:18.069060+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:tradingview:21c0f5808f83e:0",
       "title": "ASPAC II Acquisition Secures $500,000 Interest-Free Sponsor Note",
@@ -3548,6 +3567,25 @@
           "NASDAQ:NVDA"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-slip-1-66-194936975.html?.tsrc=rss",
+      "title": "Nvidia Stocks Slip 1.66% as S&P Weighs Downgrade Over Key-Man Risk",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-slip-1-66-194936975.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Jensen Huang is back as CEO, but a possible cut to AA- puts board oversight and succession planning under a 90-day spotlight.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:49:36+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:43:18.069060+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "finnhub:8818758",
