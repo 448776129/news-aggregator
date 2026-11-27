@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T07:46:21.712305+08:00",
-  "count": 729,
+  "generated_at": "2026-11-28T07:49:15.647526+08:00",
+  "count": 730,
   "sources": [
     {
       "name": "alpaca",
@@ -610,6 +610,32 @@
         "urgency": 2,
         "symbols": [
           "TSXV:VIPR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:beincrypto:272832d51094b:0",
+      "title": "America Blacklisted VTB Over Iran. Now Russia's No. 2 Bank Sells Bitcoin",
+      "url": "https://beincrypto.com/us-blacklisted-vtb-iran-sells-bitcoin/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Beincrypto",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T07:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T07:49:10.856080+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD",
+          "BITSTAMP:ETHUSD",
+          "RUS:VTBR"
         ]
       }
     },
