@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T16:07:16.147981+08:00",
-  "count": 2171,
+  "generated_at": "2026-11-27T16:10:17.110633+08:00",
+  "count": 2182,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 3,
       "error": ""
     },
     {
@@ -38,6 +38,150 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUC5KXNMW:0",
+      "title": "Accelerate Property Fund Expects HY Distributable Loss Per Share Between 0.45 and 1 Cent",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC5KXNMW:0-accelerate-property-fund-expects-hy-distributable-loss-per-share-between-0-45-and-1-cent/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:08:10+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:10:12.420753+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "JSE:APF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN477147:0",
+      "title": "Aboitiz Equity Ventures Says Tax Penalty Imposed On American Feed Co Settled",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN477147:0-aboitiz-equity-ventures-says-tax-penalty-imposed-on-american-feed-co-settled/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:07:26+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:10:12.420753+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "PSE:AEV"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780HE:0",
+      "title": "Global Standard Technology Co Ltd To Cancel 2.7 Billion Won Worth Of Own Shares",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4780HE:0-global-standard-technology-co-ltd-to-cancel-2-7-billion-won-worth-of-own-shares/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:07:19+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:10:12.420753+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:083450"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127000945:0",
+      "title": "Norse Atlantic Receives Termination Notices For Aircraft Leases",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127000945:0-norse-atlantic-receives-termination-notices-for-aircraft-leases/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:07:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:10:12.420753+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OSL:NORSE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001116_20261127001119:0",
+      "title": "Taiwan 2026 GDP Forecast +13.28%",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001116_20261127001119:0-taiwan-2026-gdp-forecast-13-28/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:07:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:10:12.420753+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ECONOMICS:TWGDP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127001116_20261127001121:0",
+      "title": "Taiwan 2027 Real GDP Forecast +6.51%",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127001116_20261127001121:0-taiwan-2027-real-gdp-forecast-6-51/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:07:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:10:12.420753+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ECONOMICS:TWGDP"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N47805N:0",
       "title": "Vietnamese partners of Trump Organization plan Trump Tower in Hanoi, sources say",
@@ -1575,6 +1719,28 @@
       }
     },
     {
+      "id": "tradingview:tag:reuters.com,2026:newsml_P8N45G01E:0",
+      "title": "Taiwan raises 2026 GDP growth projection to 13.28%",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N45G01E:0-taiwan-raises-2026-gdp-growth-projection-to-13-28/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:02:27+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:10:12.420753+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
       "id": "tradingview:coindar:97a8c779e094b:0",
       "title": "GMT to Begin Round 2 of Marathon Season 4 on November 30th",
       "url": "https://www.tradingview.com/news/coindar:97a8c779e094b:0-gmt-to-begin-round-2-of-marathon-season-4-on-november-30th/",
@@ -2526,6 +2692,30 @@
         "urgency": 2,
         "symbols": [
           "MIL:UCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:25089c9633b98:0",
+      "title": "Key facts: Fortum's three-unit plan for 2027; Ollus to leave",
+      "url": "https://www.tradingview.com/news/tradingview:25089c9633b98:0-key-facts-fortum-s-three-unit-plan-for-2027-ollus-to-leave/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T16:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:10:12.420753+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXHEX:FORTUM"
         ]
       }
     },
@@ -28604,6 +28794,25 @@
       "extra": {}
     },
     {
+      "id": "msn:a570e5cfe828c21107908330d3d5bc3b2c4cd84e",
+      "title": "Stock Market Live Updates | Sensex tumbles over 650 points, Nifty below 25,700; IT, FMCG ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b093ae426e5449d81ab5d00bdeb2423&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-share-price-27-november-2026%2fliveblog%2f136206762.cms&c=17461454488585503924&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "GIFT Nifty on the NSE IX trades lower, signalling that Dalal Street is set for a negative start on Friday as investors remain cautious ahead of the opening bell.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:33:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:10:14.533220+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026-11-26:newsml_AZN4TX572:0",
       "title": "Tokyo Nov core CPI rises 2.9% yr/yr",
       "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_AZN4TX572:0-tokyo-nov-core-cpi-rises-2-9-yr-yr/",
@@ -33970,6 +34179,25 @@
       "published_at": "2026-11-27T05:01:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T16:07:14.061595+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:cad3809eef2dae3ed1a37492414cb1f34a52bb38",
+      "title": "Is the stock market open today? Here are the trading hours for Black Friday.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b093ae426e5449d81ab5d00bdeb2423&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-black-friday%2far-AA2iknKI&c=15349360073239060809&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A while lot of businesses are open on Black Friday but what about the stock market?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:01:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:10:14.533220+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -46855,6 +47083,25 @@
       "published_at": "2026-11-27T00:39:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T16:07:14.061595+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:1e17aa6d4c23cc569a3119fbf4617137e9704725",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty extends losses to 200 points; 36 stocks in ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b093ae426e5449d81ab5d00bdeb2423&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T16:10:14.533220+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
