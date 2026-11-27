@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T11:52:23.767051+08:00",
-  "count": 47,
+  "generated_at": "2026-11-28T00:01:15.626343+08:00",
+  "count": 48,
   "sources": [
     {
       "name": "alpaca",
@@ -927,6 +927,25 @@
       "published_date": "2024-11-01",
       "fetched_at": "2026-11-27T11:52:21.472677+08:00",
       "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:ea7a0ca97412cc2bb62cb83b826c980b3f0eb67b",
+      "title": "U.S. economy added just 12,000 jobs in October, impacted by hurricanes, Boeing strike",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09a949c134411b8eb15987e2d66789&url=https%3a%2f%2fwww.cnbc.com%2f2024%2f11%2f01%2fus-jobs-report-october-2024.html&c=14855017058257585305&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nonfarm payrolls increased by 12,000 for the month, down sharply from September and below the Dow Jones estimate for 100,000. The unemployment rate held at 4.1%, in line with expectations. The BLS ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2024-11-01T13:31:00+08:00",
+      "published_date": "2024-11-01",
+      "fetched_at": "2026-11-28T00:01:15.347459+08:00",
+      "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
       "extra": {}
