@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T02:37:19.054381+08:00",
-  "count": 342,
+  "generated_at": "2026-11-28T02:40:19.707257+08:00",
+  "count": 344,
   "sources": [
     {
       "name": "alpaca",
@@ -155,6 +155,25 @@
       "extra": {}
     },
     {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-182910314.html?.tsrc=rss",
+      "title": "Investing.com’s stocks of the week",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-182910314.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Investing.com -- A U-turn in the Nvidia saga and a blockbuster cybersecurity deal drove a volatile but holiday-shortened week, with the S&P 500 on course for a strong weekly gain.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:29:10+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:40:14.636852+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:dpa_afx:58642a5abb20d:0",
       "title": "U.S. Stocks Move Sharply Higher, Post Substantial Weekly Gains",
       "url": "https://www.tradingview.com/news/dpa_afx:58642a5abb20d:0-u-s-stocks-move-sharply-higher-post-substantial-weekly-gains/",
@@ -179,6 +198,25 @@
           "TVC:DJI"
         ]
       }
+    },
+    {
+      "id": "yahoo:801e0d9cf21039e0f76d2cdc8a918629e231feda",
+      "title": "Stanley Druckenmiller, David Tepper and 5 Other Famous Investors Own Taiwan Semiconductor. Here’s Who Sold Recently",
+      "url": "https://www.tikr.com/blog/stanley-druckenmiller-david-tepper-and-5-other-famous-investors-own-taiwan-semiconductor-heres-who-sold-recently?ref=yahoofinance&tlnk=yf-261127-678h6x89&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysSeven famous investors held Taiwan Semiconductor on Sept. 30, but Stanley Druckenmiller cut his stake 94% in the third quarter and Leopold Aschenbrenner sold all of his.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:28:19+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:40:14.636852+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N47813I:0",

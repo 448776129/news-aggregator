@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T02:37:19.061529+08:00",
-  "count": 53,
+  "generated_at": "2026-11-28T02:40:19.715780+08:00",
+  "count": 55,
   "sources": [
     {
       "name": "cls",
@@ -15,17 +15,57 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 43,
+      "count": 47,
       "error": ""
     },
     {
       "name": "sina",
       "status": "ok",
-      "count": 7,
+      "count": 8,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7618666.shtml",
+      "title": "纽约汇市：美元随股市走高 AI乐观情绪回归",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7618666.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "随着人工智能交易重新活跃、股市上涨，美元兑多数G10货币走强。 彭博美元指数上涨0.1%。随着避险需求减弱，美国国债下跌。人工智能乐观情绪重燃推动纳斯达克100指数上涨...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:38:39+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:40:15.281915+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261128023116116800",
+      "title": "土耳其外交部长：麦加协议盟友就联盟新增成员的部分原则达成一致。",
+      "url": "https://www.jin10.com/#/flash/20261128023116116800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "土耳其外交部长：麦加协议盟友就联盟新增成员的部分原则达成一致。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:31:16+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:40:14.285726+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "jin10:20261128023112928800",
       "title": "土耳其部长：土耳其、巴基斯坦和沙特阿拉伯在伊斯兰堡会议上讨论了潜在新成员加入麦加防务条约的路线图。",
