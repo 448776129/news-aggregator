@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T02:22:18.972011+08:00",
-  "count": 42,
+  "generated_at": "2026-11-28T02:25:18.639644+08:00",
+  "count": 47,
   "sources": [
     {
       "name": "cls",
@@ -15,17 +15,120 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 37,
+      "count": 41,
       "error": ""
     },
     {
       "name": "sina",
       "status": "ok",
-      "count": 5,
+      "count": 6,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7611498.shtml",
+      "title": "欧元区通胀率预计出现五个月来首度放缓 但料无碍欧洲央行加息",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7611498.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "欧元区通胀率可能五个月来首次放缓，但幅度料不足以打乱欧洲央行再次加息的计划。 预测中值显示，11月消费者价格可能同比上涨3.8%，低于10月的4%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:23:17+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:25:13.907497+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261128022156457800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261128022156457800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:21:56+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:25:12.874782+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261128022145116800",
+      "title": "据英国金融时报：威瑞森通信公司正就以约60亿美元收购宽带运营商Fidium进行谈判。此举将扩大威瑞森的网络覆盖，使这家移动通信巨头能够在美国争取更多互联网服务用",
+      "url": "https://www.jin10.com/#/flash/20261128022145116800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "据英国金融时报：威瑞森通信公司正就以约60亿美元收购宽带运营商Fidium进行谈判。此举将扩大威瑞森的网络覆盖，使这家移动通信巨头能够在美国争取更多互联网服务用户。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:21:45+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:25:12.874782+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261128022017763800",
+      "title": "委内瑞拉临时总统罗德里格斯预计，到年底石油产量将达到每日130万桶。",
+      "url": "https://www.jin10.com/#/flash/20261128022017763800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "委内瑞拉临时总统罗德里格斯预计，到年底石油产量将达到每日130万桶。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:20:17+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:25:12.874782+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261128021249265800",
+      "title": "据以色列第12频道：以色列安全内阁将于周日召开会议，批准实施特朗普提出的加沙计划。",
+      "url": "https://www.jin10.com/#/flash/20261128021249265800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "据以色列第12频道：以色列安全内阁将于周日召开会议，批准实施特朗普提出的加沙计划。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:12:49+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:25:12.874782+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "jin10:20261128021206251800",
       "title": "金十图示：2026年11月27日（周五）全球股市指数-美洲市场",
