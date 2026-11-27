@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T01:01:24.856279+08:00",
-  "count": 124,
+  "generated_at": "2026-11-28T01:04:19.250839+08:00",
+  "count": 137,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,154 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 12,
+      "count": 15,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47810O:0",
+      "title": "Indra To Implement Share Buy-Back Programme For Up To €15 Mln",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47810O:0-indra-to-implement-share-buy-back-programme-for-up-to-15-mln/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:03:33+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:04:14.806722+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BME:IDR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780VJ:0",
+      "title": "Insur Board Approves Termination Of Share Buyback Program",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4780VJ:0-insur-board-approves-termination-of-share-buyback-program/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:03:09+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:04:14.806722+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BME:ISUR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4780RY:0",
+      "title": "EU wheat extends gains on Black Sea disruption",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4780RY:0-eu-wheat-extends-gains-on-black-sea-disruption/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:02:26+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:04:14.806722+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:EBM1!",
+          "CBOT:ZW1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:6b7f5f210094b:0",
+      "title": "Gold’s Biggest Challenge Is No Longer The Fed, Says Economist Robin Brooks – ‘We Are Back To Oil As The Principal Risk Factor For Gold’",
+      "url": "https://stocktwits.com/news-articles/markets/equity/gold-challenge-is-no-longer-the-fed-says-economist-robin-brooks-we-are-back-to-oil-as-the-principal-risk-factor-for-gold/cNbC68YR9VJ",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:02:05+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:04:14.806722+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0538Fa:0",
+      "title": "REG - Transense Technlgy - Result of AGM",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0538Fa:0-reg-transense-technlgy-result-of-agm/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:02:03+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:04:14.806722+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:TRT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0535Fa:0",
+      "title": "REG - University of Leeds - Annual Financial Report",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0535Fa:0-reg-university-of-leeds-annual-financial-report/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:01:30+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:04:14.806722+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0335Fa:0",
       "title": "REG - IP Group PLC Bank of America Corp - Holding(s) in Company",
@@ -64,6 +207,38 @@
       }
     },
     {
+      "id": "tradingview:seekingalpha:4e19a3f1d094b:0",
+      "title": "Dutch drugmaker Lundbeck reportedly eyeing deals in psychedelic space",
+      "url": "https://seekingalpha.com/news/4677070-psychedelic-stocks-gain-lundbeck-eyes-deals?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:00:34+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:04:14.806722+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OTC:HLBBF",
+          "OTC:HLUBF",
+          "NASDAQ:HELP",
+          "NASDAQ:CMPS",
+          "NASDAQ:DFTX",
+          "NASDAQ:GHRS",
+          "NASDAQ:DRUG",
+          "NYSE:LLY",
+          "OMXCOP:HLUN_A"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N47618W:0",
       "title": "Global measles deaths fall to historic low in 2025, WHO says",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N47618W:0-global-measles-deaths-fall-to-historic-low-in-2025-who-says/",
@@ -83,6 +258,52 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:5703b8b90094b:0",
+      "title": "CSE Bulletin: Name Change - Seahawk Ventures Inc. (SEAG.X)",
+      "url": "https://www.newsfilecorp.com/release/326150/CSE-Bulletin-Name-Change-Seahawk-Ventures-Inc.-SEAG.X",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:04:14.806722+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:1369b6957094b:0",
+      "title": "VALLOUREC : Monthly information relating to the total number of voting rights and shares comprising the share capital",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411432/0/en/vallourec-monthly-information-relating-to-the-total-number-of-voting-rights-and-shares-comprising-the-share-capital.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:04:14.806722+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:VK"
+        ]
       }
     },
     {
@@ -182,6 +403,25 @@
       }
     },
     {
+      "id": "yahoo:https://www.fool.com/coverage/better-buy/2026/11/27/c3ai-vs-uipath-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "title": "C3.ai vs. UiPath: Which Technology Stock Is a Better Buy for 2027?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/11/27/c3ai-vs-uipath-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "UiPath is profitable and growing at a steady pace, though rivals are crowding into AI agents. C3.ai is rebuilding under its founder, but its sales are shrinking and it still loses money.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:57:26+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:04:14.603057+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:seekingalpha:23123ecca094b:0",
       "title": "Dynacor Group declares CAD 0.0133 dividend",
       "url": "https://seekingalpha.com/news/4677071-dynacor-group-declares-cad-0_0133-dividend?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
@@ -255,6 +495,49 @@
           "NASDAQ:IXIC",
           "SP:SPX",
           "TVC:DJI"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/articles/nvidia-fans-just-got-worrying-165257509.html?.tsrc=rss",
+      "title": "Nvidia fans just got worrying news from China",
+      "url": "https://finance.yahoo.com/technology/articles/nvidia-fans-just-got-worrying-165257509.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "A serial number links one of the most powerful Nvidia server racks to a Shanghai data center",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:52:57+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:04:14.603057+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:gurufocus:1597fb661094b:0",
+      "title": "Nvidia fans just got worrying news from China",
+      "url": "https://www.gurufocus.com/news/9228596/nvidia-fans-just-got-worrying-news-from-china",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GuruFocus",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:52:57+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:04:14.806722+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
         ]
       }
     },
@@ -425,6 +708,25 @@
           "CAPITALCOM:XAUUSD"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/27/why-sandisk-investors-are-giving-thanks-after-thanksgiving/?.tsrc=rss",
+      "title": "Why Sandisk Investors Are Giving Thanks After Thanksgiving",
+      "url": "https://www.fool.com/investing/2026/11/27/why-sandisk-investors-are-giving-thanks-after-thanksgiving/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Sandisk investors just got a reason to resume buying.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:48:39+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:04:14.603057+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:moneycontrol:17efd96d5094b:0",

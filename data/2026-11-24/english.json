@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T01:01:24.200275+08:00",
-  "count": 7158,
+  "generated_at": "2026-11-28T01:04:18.651209+08:00",
+  "count": 7159,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 1,
       "error": ""
     },
     {
@@ -56280,6 +56280,25 @@
       "published_at": "2026-11-24T20:53:37+08:00",
       "published_date": "2026-11-24",
       "fetched_at": "2026-11-28T00:40:18.945359+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:393e9058d1280e0ec6baf74392a270c0506c3336",
+      "title": "Maybe the market is the economy after all",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09b80ea0c04d72930a21c7927254b8&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fmaybe-the-market-is-the-economy-after-all%2far-AA2i93m2&c=7332701073420013296&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Judging by his handling of the Huang affair, the president certainly seems to think so.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-24T20:53:37+08:00",
+      "published_date": "2026-11-24",
+      "fetched_at": "2026-11-28T01:04:17.196739+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
