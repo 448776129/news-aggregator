@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T13:28:14.876500+08:00",
-  "count": 7,
+  "generated_at": "2026-11-27T08:19:19.685939+08:00",
+  "count": 8,
   "sources": [
     {
       "name": "alpaca",
@@ -167,6 +167,25 @@
       "published_date": "2026-05-18",
       "fetched_at": "2026-11-25T13:28:14.217570+08:00",
       "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:19faada2250da3e806903ce7d345d0d87dca2f5d",
+      "title": "China’s economy ‘weaker than expected’ in April as Iran war headwinds bite",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08cc830f7e43b6b804d936135f5c30&url=https%3a%2f%2fwww.scmp.com%2feconomy%2fchina-economy%2farticle%2f3353914%2fchinas-economy-shows-signs-strain-april-iran-war-headwinds-grow&c=2047232865118203725&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The Chinese economy showed signs of slowing in April, as industrial output, retail sales and fixed-asset investment all missed expectations amid a deepening global energy crisis, the latest data shows ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-05-18T12:47:00+08:00",
+      "published_date": "2026-05-18",
+      "fetched_at": "2026-11-27T08:19:17.512162+08:00",
+      "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
       "extra": {}
