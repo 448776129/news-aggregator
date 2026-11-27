@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T23:10:20.404387+08:00",
-  "count": 5046,
+  "generated_at": "2026-11-27T23:13:22.070953+08:00",
+  "count": 5067,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 7,
+      "count": 6,
       "error": ""
     },
     {
@@ -38,6 +38,241 @@
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/article/stocks-snap-from-a-6-trillion-washout-to-a-3-trillion-surge-as-nvidia-micron-and-spacex-bounce-back-151218930.html?.tsrc=rss",
+      "title": "Stocks snap from a $6 trillion washout to a $3 trillion surge as Nvidia, Micron, and SpaceX bounce back",
+      "url": "https://finance.yahoo.com/markets/article/stocks-snap-from-a-6-trillion-washout-to-a-3-trillion-surge-as-nvidia-micron-and-spacex-bounce-back-151218930.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Wall Street is no longer running for the exits as chipmakers pull stocks off Wednesday's lows.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:12:18+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:13.104764+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0449Fa:0",
+      "title": "REG - Verition Fund Mgmt Vesuvius plc RHI Magnesita N.V. - Form 8.3 - VESUVIUS PLC",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0449Fa:0-reg-verition-fund-mgmt-vesuvius-plc-rhi-magnesita-n-v-form-8-3-vesuvius-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:11:32+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:13.263959+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:VESUVIUS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0448Fa:0",
+      "title": "REG - Verition Fund Mgmt Adv Medical Solutns. - Form 8.3 - ADVANCED MEDICAL SOLUTIONS GROUP PLC",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0448Fa:0-reg-verition-fund-mgmt-adv-medical-solutns-form-8-3-advanced-medical-solutions-group-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:11:22+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:13.263959+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:AMS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47810E:0",
+      "title": "Aster DM Quality Care Subscribes To 200,000 OCRPS Of Alfaone Medicals For 140 Million Rupees",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47810E:0-aster-dm-quality-care-subscribes-to-200-000-ocrps-of-alfaone-medicals-for-140-million-rupees/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:11:20+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:13.263959+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:ASTERDM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780UV:0",
+      "title": "Unity Group Holdings International Expects Unaudited Consol Profit Of HK$12 Mln For HY",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4780UV:0-unity-group-holdings-international-expects-unaudited-consol-profit-of-hk-12-mln-for-hy/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:10:58+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:13.263959+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1539"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780ID:0",
+      "title": "Chinese school operator Tianli International's FY revenue rises on AI products strength",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4780ID:0-chinese-school-operator-tianli-international-s-fy-revenue-rises-on-ai-products-strength/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:10:42+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:13.263959+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1773"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780IC:0",
+      "title": "Hong Kong's Infinity Development annual profit falls 15% as costs rise",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4780IC:0-hong-kong-s-infinity-development-annual-profit-falls-15-as-costs-rise/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:10:27+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:13.263959+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:640"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780JA:0",
+      "title": "Shenzhen Creality 3D Technology Says Vice Chairman Buys 273,000 H Shares Of Co",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4780JA:0-shenzhen-creality-3d-technology-says-vice-chairman-buys-273-000-h-shares-of-co/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:10:15+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:13.263959+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:3388"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:aa8ee3d8b7029:0",
+      "title": "SemiLEDs Corporation (LEDS) FY2026 Revenue Fell 56% to $19.1M",
+      "url": "https://www.tradingview.com/news/tradingview:aa8ee3d8b7029:0-semileds-corporation-leds-fy2026-revenue-fell-56-to-19-1m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:10:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:13.263959+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:LEDS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:business_wire:daebbce34d806:0",
+      "title": "SemiLEDs Reports Fourth Quarter and Fiscal Year End 2026 Financial Results",
+      "url": "https://www.tradingview.com/news/business_wire:daebbce34d806:0-semileds-reports-fourth-quarter-and-fiscal-year-end-2026-financial-results/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:10:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:13.263959+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:LEDS"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0446Fa:0",
       "title": "REG - Verition Fund Mgmt easyJet PLC - Form 8.3 - EASYJET PLC",
@@ -83,6 +318,30 @@
         "urgency": 2,
         "symbols": [
           "LSE:IMB"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:d4fc3c663094b:0",
+      "title": "Dalmia Bharat to buy back shares worth ₹700 crore; sets ₹1,850 price ceiling",
+      "url": "https://www.tradingview.com/news/cnbctv:d4fc3c663094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:08:08+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:13.263959+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:DALBHARAT"
         ]
       }
     },
@@ -255,6 +514,25 @@
       }
     },
     {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/27/berkshire-hathaway-s-ceo-greg-abel-just-bought-usd9-6-billion-worth-of-1-of-buffett-s-favorite-stocks/?.tsrc=rss",
+      "title": "Berkshire Hathaway’s CEO, Greg Abel, Just Bought $9.6 Billion Worth of 1 of Buffett’s Favorite Stocks",
+      "url": "https://www.fool.com/investing/2026/11/27/berkshire-hathaway-s-ceo-greg-abel-just-bought-usd9-6-billion-worth-of-1-of-buffett-s-favorite-stocks/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The buyback era is still ongoing at Berkshire.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:05:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:13.104764+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780SC:0",
       "title": "Macau Legend Development Proposes Share Consolidation Of 10 Existing Shares Into 1 Consolidated Share",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4780SC:0-macau-legend-development-proposes-share-consolidation-of-10-existing-shares-into-1-consolidated-share/",
@@ -325,6 +603,25 @@
           "NASDAQ:SPCX"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://247wallst.com/investing/2026/11/27/stock-market-today-markets-off-to-a-strong-black-friday-start/?.tsrc=rss",
+      "title": "Stock Market Today: Markets Off to a Strong Black Friday Start",
+      "url": "https://247wallst.com/investing/2026/11/27/stock-market-today-markets-off-to-a-strong-black-friday-start/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Tech just endured a brutal November, and a half-day session leaves little time to prove the bounce is real. One signal could show whether the selloff is finally cooling, while tariffs and oil threaten to spoil the party.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:03:13+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:13.104764+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261127003469:0",
@@ -567,6 +864,25 @@
           "CRYPTO:NOSUSD"
         ]
       }
+    },
+    {
+      "id": "yahoo:fbdc6f299b70a500835d51cc10d34151fddb9999",
+      "title": "Jensen Huang Said Nvidia's Blackwell Racks Were Too Big to Smuggle. One Just Turned Up in Shanghai",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63672242/nvidia-blackwell-china-smuggling-huang?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "In May 2025, Nvidia Corp. (NASDAQ:NVDA) CEO Jensen Huang dismissed concerns about his company’s Blackwell chips being smuggled into China, pointing out that the systems weighed nearly two tons. “You’re not going to be putting that in your pocket or...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T23:00:16+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:13.104764+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:coinmarketcal:04e359ab0094b:0",
@@ -1273,6 +1589,25 @@
           "HKEX:1025"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/m/977de44c-fcf5-3369-bcdd-0c3ddc7cfec9/sandisk%2C-bloom%2C-marvell%2C-amd%2C.html?.tsrc=rss",
+      "title": "Sandisk, Bloom, Marvell, AMD, Nvidia, HP, and More Stocks That Explain Today’s Market",
+      "url": "https://finance.yahoo.com/m/977de44c-fcf5-3369-bcdd-0c3ddc7cfec9/sandisk%2C-bloom%2C-marvell%2C-amd%2C.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "AI stocks are flying on Black Friday, with memory-card supplier Sandisk and data-center power provider Bloom Energy leading the way.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T22:56:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:13.104764+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:seekingalpha:f4cdf45fa094b:0",
@@ -59864,6 +60199,25 @@
       "extra": {}
     },
     {
+      "id": "msn:4299aa54dbad4e2896f7aa11959e0ee199e58632",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq gain on Black Friday as AI jitters steady",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b099e09019c498f83d4647056837fb9&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2flive%2fstock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html&c=6717116993747436823&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Futures on the Dow Jones Industrial Average ( YM=F) rose 1%, while those on the S&P 500 ( ES=F) added 2%. Contracts for the Nasdaq-100 ( NQ=F) jumped 2.8% after markets were closed for the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:32:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:15.259146+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N47808R:0",
       "title": "Exosens wins order for 6,000 night-vision tubes for German military",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47808R:0-exosens-wins-order-for-6-000-night-vision-tubes-for-german-military/",
@@ -62344,6 +62698,25 @@
       "published_at": "2026-11-27T14:04:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T23:10:17.421308+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:2b60ab47c961713ab914c8e1f2277329a0ada882",
+      "title": "Stock Market Today: Futures Point Sharply Higher as AI Stocks Surge; Major Indexes on Pace ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b099e09019c498f83d4647056837fb9&url=https%3a%2f%2fwww.investopedia.com%2fstock-market-today-dow-jones-s-and-p-500-nasdaq-11272026-12283022&c=12535528285631320466&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The stock market is poised to wrap up another volatile week of trading on a high note. Tech-heavy Nasdaq futures were up 2.2% recently, while futures linked to the Dow Jones Indus ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T14:04:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:15.259146+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -68191,6 +68564,25 @@
           "NSE:LEMONTREE"
         ]
       }
+    },
+    {
+      "id": "msn:7754a487e14f0711d0953867314cb20ac3df1211",
+      "title": "Is the stock market open today? NYSE trading hours for Black Friday",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b099e09019c498f83d4647056837fb9&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fis-the-stock-market-open-today-nyse-trading-hours-for-black-friday%2far-AA2imKcr&c=1273821805611708232&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Is the stock market open or closed on Black Friday? Here are the trading hours today and the market holidays the rest of the year.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:31:22+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:15.259146+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261126004581:0",
@@ -84335,6 +84727,25 @@
       "extra": {}
     },
     {
+      "id": "msn:0d7664b6ea0a59f5f8cfe12d32ff712d30a75ddc",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to rally ahead of shortened Black Friday ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b099e09019c498f83d4647056837fb9&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-thanksgiving-holiday-shortened-black-friday-trading&c=8147742822321622525&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Friday here ahead of the the New York Stock Exchange and Nasdaq closing early.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:37:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:15.259146+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:cointelegraph:65d5e148f094b:0",
       "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
       "url": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
@@ -89693,6 +90104,25 @@
       "published_at": "2026-11-27T07:08:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T23:10:17.421308+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:c0a92c4c601939a6946006a4a891fc5aa617d5f4",
+      "title": "BJ's Restaurants (BJRI) Stock May Be Overvalued On Its Earnings Story",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b099e09bb7c4215b17a90872ae0a3d3&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fbjs-restaurants-bjri-stock-may-070836174.html&c=8783731677816608580&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "BJ's Restaurants has delivered a strong run in recent years, and that kind of climb naturally raises a simple question for you as a shareholder or potential buyer: Is the current share price properly ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:08:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:15.259146+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -97747,6 +98177,25 @@
       "published_at": "2026-11-27T05:01:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T23:10:17.421308+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:4fdfa59eaef2875423c39ffbfc74fd1995b29390",
+      "title": "Is the stock market open today? Here are the trading hours for Black Friday.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b099e09019c498f83d4647056837fb9&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-black-friday%2far-AA2iknKI&c=15349360073239060809&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A while lot of businesses are open on Black Friday but what about the stock market?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:01:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T23:13:15.259146+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
