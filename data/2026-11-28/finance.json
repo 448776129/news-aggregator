@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T02:19:17.868776+08:00",
-  "count": 41,
+  "generated_at": "2026-11-28T02:22:18.972011+08:00",
+  "count": 42,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 34,
+      "count": 37,
       "error": ""
     },
     {
@@ -26,6 +26,27 @@
     }
   ],
   "items": [
+    {
+      "id": "jin10:20261128021206251800",
+      "title": "金十图示：2026年11月27日（周五）全球股市指数-美洲市场",
+      "url": "https://www.jin10.com/#/flash/20261128021206251800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "收盘",
+      "summary": "金十图示：2026年11月27日（周五）全球股市指数-美洲市场",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:12:06+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:22:13.198111+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "jin10:20261128021113260800",
       "title": "金十图示：2026年11月27日（周五）华尔街恐惧与贪婪指数（美盘后）",
