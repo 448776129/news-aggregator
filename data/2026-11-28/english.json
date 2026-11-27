@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T05:16:19.560617+08:00",
-  "count": 567,
+  "generated_at": "2026-11-28T05:22:18.211662+08:00",
+  "count": 575,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,178 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4780WZ:0",
+      "title": "TSX posts weekly gain of nearly 5% as gold miners rally",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4780WZ:0-tsx-posts-weekly-gain-of-nearly-5-as-gold-miners-rally/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:19:39+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:22:13.317462+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:TSX",
+          "TSX:TTMT",
+          "COMEX:GC1!",
+          "NYMEX:CL1!",
+          "TSX:TTEN",
+          "TSX:TTTK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:stocktwits:fa60a56fc094b:0",
+      "title": "Tom Lee Says Market Tests Traders Vs. Investors: Now Is the Best Time In 18 Months To Buy Stocks",
+      "url": "https://stocktwits.com/news-articles/markets/equity/tom-lee-says-market-tests-traders-vs-investors-now-is-the-best-time-in-18-months-to-buy-stocks/cNb6EjSR9V0",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:19:19+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:22:13.317462+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N478169:0",
+      "title": "S&P lifts South Africa ratings on improving fiscal trajectory",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N478169:0-s-p-lifts-south-africa-ratings-on-improving-fiscal-trajectory/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:19:06+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:22:13.317462+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N478168:0",
+      "title": "S&P lifts Hungary outlook to 'stable' on fiscal framework",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N478168:0-s-p-lifts-hungary-outlook-to-stable-on-fiscal-framework/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:19:02+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:22:13.317462+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:c1034cfeb31f2:0",
+      "title": "Ezra Beyman Reports 17.9% Group Stake in Reliance Global Group",
+      "url": "https://www.tradingview.com/news/tradingview:c1034cfeb31f2:0-ezra-beyman-reports-17-9-group-stake-in-reliance-global-group/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:16:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:22:13.317462+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:XGPU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cointelegraph:1e5683fe0094b:0",
+      "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+      "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Cointelegraph",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:15:29+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:22:13.317462+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:HYPEUSD",
+          "BITSTAMP:BTCUSD",
+          "BITSTAMP:ETHUSD",
+          "COINBASE:SOLUSD",
+          "CRYPTO:HYPEHUSD",
+          "NYSE:BEN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780VW:0",
+      "title": "S&P Says France Outlook Revised To Negative On Budgetary Consolidation Risks, 'A+/A-1' Ratings Affirmed",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4780VW:0-s-p-says-france-outlook-revised-to-negative-on-budgetary-consolidation-risks-a-a-1-ratings-affirmed/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:13:56+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:22:13.317462+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:urn:summary_document_slides:quartr.com:4899221:0",
       "title": "Paranapanema: Debt restructuring drove a sharp deleveraging and EBITDA turnaround, while Eluma revenue grew 34%",
@@ -559,6 +731,30 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:CRNC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:eqs:b2297c5e2094b:0",
+      "title": "Global Health Care AG: Restated option B for the reorganisation of the milon stake for the extraordinary General Meeting on 14 December 2026",
+      "url": "https://www.eqs-news.com/news/inside-information-ad-hoc-release/global-health-care-ag-restated-option-b-for-the-reorganisation-of-the-milon-stake-for-the-extraordinary-general-meeting-on-14-december-2026/71fcd745-f7c3-4be7-823e-d2773fb01b1d_en",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "EQS",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:07:33+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:22:13.317462+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MUN:EFIT"
         ]
       }
     },

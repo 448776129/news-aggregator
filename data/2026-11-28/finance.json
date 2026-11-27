@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T05:19:20.932406+08:00",
-  "count": 81,
+  "generated_at": "2026-11-28T05:22:18.222199+08:00",
+  "count": 84,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,72 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 15,
+      "count": 16,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafpru5220169.shtml",
+      "title": "标普将法国评级展望调整为负面 确认长期外币债务评级为A+",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafpru5220169.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "标普确认法国长期外币债务评级为A+。 评级展望从稳定调整为负面。 信用评级概况： 穆迪：外币发行人评级为Aa3u，展望负面。 近期评级行动： 惠誉将法国评级展望下调至负面...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:21:46+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:22:15.034441+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261128051422978800",
+      "title": "标普：（关于法国）认为2027年总统选举后政治碎片化将持续存在的高风险，继续制约政策有效性。法国实际GDP增速在连续两年经济表现疲弱后，2027年可能仍将低迷。",
+      "url": "https://www.jin10.com/#/flash/20261128051422978800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "标普：（关于法国）认为2027年总统选举后政治碎片化将持续存在的高风险，继续制约政策有效性。法国实际GDP增速在连续两年经济表现疲弱后，2027年可能仍将低迷。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:14:22+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:22:12.423132+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261128051224503800",
+      "title": "标普：（关于南非）近期GDP增长和消费者需求将受到通胀及近期加息的抑制。预计2026年下半年实际GDP增长将小幅回升，此前上半年表现不均衡。",
+      "url": "https://www.jin10.com/#/flash/20261128051224503800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "标普：（关于南非）近期GDP增长和消费者需求将受到通胀及近期加息的抑制。预计2026年下半年实际GDP增长将小幅回升，此前上半年表现不均衡。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:12:24+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T05:22:12.423132+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "jin10:20261128050916537800",
       "title": "标普将匈牙利评级展望从“负面”上调至“稳定”，确认其“BBB-/A-3”主权信用评级。",
