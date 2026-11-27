@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T21:19:25.906024+08:00",
-  "count": 4198,
+  "generated_at": "2026-11-27T21:22:21.586299+08:00",
+  "count": 4226,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 8,
+      "count": 5,
       "error": ""
     },
     {
@@ -38,6 +38,248 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:stocktwits:73927a098094b:0",
+      "title": "SNDK, MU, WDC, Other Memory Stocks Rally As Investors Return To Beaten-Down AI Names",
+      "url": "https://stocktwits.com/news-articles/markets/equity/sndk-mu-wdc-other-memory-stocks-rally-as-investors-return-to-beaten-down-ai-names/cNbCupeR9ND",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:19:21+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SNDK",
+          "NASDAQ:MU",
+          "NASDAQ:WDC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:c7ec3ee03094b:0",
+      "title": "Carlsberg plans an IPO for its India unit",
+      "url": "https://seekingalpha.com/news/4677018-carlsberg-plans-an-ipo-for-its-india-unit?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:19:06+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OTC:CABGY",
+          "OMXCOP:CARL_A"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002841_20261127002847:0",
+      "title": "ProStar Holdings: To Use Proceeds for Gen Corporate Purposes, Support Growth Strategy >MAPS.V",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002841_20261127002847:0-prostar-holdings-to-use-proceeds-for-gen-corporate-purposes-support-growth-strategy-maps-v/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:18:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:MAPS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0330Fa:0",
+      "title": "REG - AllianceBernstein LP MITIE Group PLC - Form 8.3 - Mitie Group PLC",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0330Fa:0-reg-alliancebernstein-lp-mitie-group-plc-form-8-3-mitie-group-plc/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:17:54+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:MTO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:9bd01993a7764:0",
+      "title": "Clavister Bags SEK 450 Mln Contract From BAE Systems",
+      "url": "https://www.tradingview.com/news/dpa_afx:9bd01993a7764:0-clavister-bags-sek-450-mln-contract-from-bae-systems/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:16:39+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:CLAV",
+          "LSE:BA."
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0329Fa:0",
+      "title": "REG - Games Workshop Group - Admission of Further Securities to Trading",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0329Fa:0-reg-games-workshop-group-admission-of-further-securities-to-trading/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:16:38+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:GAW"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:5aa88b9a4094b:0",
+      "title": "Kapitalforeningen IA Invest – Forventede udbytter for 2026",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411201/0/en/kapitalforeningen-ia-invest-forventede-udbytter-for-2026.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:16:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:IAKBSC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002841_20261127002841:0",
+      "title": "ProStar Holdings to Raise $2.5M via Pvt Placement >MAPS.V",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002841_20261127002841:0-prostar-holdings-to-raise-2-5m-via-pvt-placement-maps-v/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:16:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:MAPS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L5N4780UG:0",
+      "title": "Aksa Enerji Says It Expects Average Selling Price To Be $75/MWh For Three Solar Power Plants And $61/MWh Wind Power Plant",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N4780UG:0-aksa-enerji-says-it-expects-average-selling-price-to-be-75-mwh-for-three-solar-power-plants-and-61-mwh-wind-power-plant/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:15:51+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BIST:AKSEN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:6e8e66f3a7df4:0",
+      "title": "US 25 NOV SOFR VOLUME USD 3.145 TLN (3.158 TLN PRIOR)",
+      "url": "https://www.tradingview.com/news/dpa_afx:6e8e66f3a7df4:0-us-25-nov-sofr-volume-usd-3-145-tln-3-158-tln-prior/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:15:08+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:dpa_afx:7f415fc53da4e:0",
       "title": "MNI: US 25 NOV SECURED OVERNIGHT FINANCING RATE 3.95% (+1BP VS PRIOR)",
@@ -58,6 +300,263 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/27/unitedhealth-keeps-raising-guidance-heres-what-a-10000-investment-could-be-worth-if-the-turnaround-sticks/?.tsrc=rss",
+      "title": "UnitedHealth Keeps Raising Guidance. Here's What a $10,000 Investment Could Be Worth If the Turnaround Sticks.",
+      "url": "https://www.fool.com/investing/2026/11/27/unitedhealth-keeps-raising-guidance-heres-what-a-10000-investment-could-be-worth-if-the-turnaround-sticks/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The stock has declined despite rosy guidance predictions from the health insurer.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:15:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:13.792544+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:globenewswire:1dcb8e156094b:0",
+      "title": "Director/PDMR Dealings",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411199/0/en/director-pdmr-dealings.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:15:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:NVT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:d8e6a753d094b:0",
+      "title": "Investeringsforeningen IA Invest – Forventede udbytter for 2026",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411200/0/en/investeringsforeningen-ia-invest-forventede-udbytter-for-2026.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:15:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:PMISDA",
+          "OMXCOP:PMIACG",
+          "OMXCOP:PMICBB",
+          "OMXCOP:IAIFGK",
+          "OMXCOP:IAIFFS",
+          "OMXCOP:IAIRIN",
+          "OMXCOP:IAIMCA",
+          "OMXCOP:IAIPGA",
+          "OMXCOP:IAIMWC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:6c663585f094b:0",
+      "title": "Issue of equity and total voting rights",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411195/0/en/issue-of-equity-and-total-voting-rights.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:15:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:NTN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:77df1c875b6cb:0",
+      "title": "Northern 2 VCT PLC Allots 4.5M Shares for £2.5M Net Proceeds",
+      "url": "https://www.tradingview.com/news/tradingview:77df1c875b6cb:0-northern-2-vct-plc-allots-4-5m-shares-for-2-5m-net-proceeds/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:15:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:59a00c65c2c05:0",
+      "title": "Northern 3 VCT PLC Allots 2.89M Shares for £2.5M Net Proceeds",
+      "url": "https://www.tradingview.com/news/tradingview:59a00c65c2c05:0-northern-3-vct-plc-allots-2-89m-shares-for-2-5m-net-proceeds/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:15:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:e4a4f77c543d3:0",
+      "title": "Northern 3 VCT PLC Reports PDMR Share Acquisition",
+      "url": "https://www.tradingview.com/news/tradingview:e4a4f77c543d3:0-northern-3-vct-plc-reports-pdmr-share-acquisition/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:15:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:d7774c11a69a1:0",
+      "title": "Northern Venture Trust PLC Allots 5.7M Shares for £3.3M Net",
+      "url": "https://www.tradingview.com/news/tradingview:d7774c11a69a1:0-northern-venture-trust-plc-allots-5-7m-shares-for-3-3m-net/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:15:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tradingview:bcc88f3bc4b6c:0",
+      "title": "Northern Venture Trust PLC Reports PDMR Share Acquisition",
+      "url": "https://www.tradingview.com/news/tradingview:bcc88f3bc4b6c:0-northern-venture-trust-plc-reports-pdmr-share-acquisition/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:15:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:01439f113094b:0",
+      "title": "ProStar Announces US$2,500,000 Secured Convertible Debenture Financing",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411194/0/en/prostar-announces-us-2-500-000-secured-convertible-debenture-financing.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:15:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:MAPS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:3b57df0fb4d03:0",
+      "title": "ProStar Holdings Inc. (MAPS) Plans Up to $2.5M Secured Convertible Debenture Financing",
+      "url": "https://www.tradingview.com/news/tradingview:3b57df0fb4d03:0-prostar-holdings-inc-maps-plans-up-to-2-5m-secured-convertible-debenture-financing/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:15:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:14.223588+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:MAPS"
+        ]
       }
     },
     {
@@ -3086,6 +3585,25 @@
       }
     },
     {
+      "id": "yahoo:https://www.trefis.com/stock/aapl/articles/629378/why-should-apple-stock-holders-watch-the-december-quarter/2026-11-27?.tsrc=rss",
+      "title": "Why Should Apple Stock Holders Watch The December Quarter?",
+      "url": "https://www.trefis.com/stock/aapl/articles/629378/why-should-apple-stock-holders-watch-the-december-quarter/2026-11-27?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:58:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:13.792544+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:cnbctv:ef8928aa0094b:0",
       "title": "Balaji Amines gets FDA approval to manufacture Propylene Glycol for pharma industry",
       "url": "https://www.tradingview.com/news/cnbctv:ef8928aa0094b:0/",
@@ -3955,6 +4473,25 @@
           "TSX:CAE"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.wsj.com/finance/allstate-joins-growing-list-of-companies-hit-by-tech-outages-77dbb488?.tsrc=rss",
+      "title": "Allstate Joins Growing List of Companies Hit by Tech Outages",
+      "url": "https://www.wsj.com/finance/allstate-joins-growing-list-of-companies-hit-by-tech-outages-77dbb488?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The multiday outage has left customers struggling to reach the insurer during one of the year’s busiest travel weeks.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T20:48:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:13.792544+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780UY:0",
@@ -51181,6 +51718,25 @@
       "extra": {}
     },
     {
+      "id": "msn:eaf0b04fb1c017aebd94fadcd66470ef91a6ab73",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures gain as AI jitters steady",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09840631dd484f8eca216aab77ca78&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2flive%2fstock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html&c=6717116993747436823&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Futures on the Dow Jones Industrial Average ( YM=F) rose 1%, while those on the S&P 500 ( ES=F) added 2%. Contracts for the Nasdaq-100 ( NQ=F) jumped 2.8% after markets were closed for the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:53:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:15.862024+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:cnbctv:b6cca6205094b:0",
       "title": "Qualcomm CEO, CFO to get $65 million in stock rewards amid layoffs worldwide",
       "url": "https://www.tradingview.com/news/cnbctv:b6cca6205094b:0/",
@@ -58832,6 +59388,25 @@
       "published_at": "2026-11-27T10:30:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T21:13:21.914956+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:60aac10cd9e88838afdcc5e27c01a8b2cc5d947a",
+      "title": "Trump can't rescue the stock market. Here's what can.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09840631dd484f8eca216aab77ca78&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2ftrump-cant-rescue-the-stock-market-heres-what-can%2far-AA2ildOj&c=9211609296449915281&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The president tried to arrest the stock market’s decline by engineering Jensen Huang’s return to Nvidia. To find a bottom, something more fundamental needs to shift.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:15.862024+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -68611,6 +69186,25 @@
       "extra": {}
     },
     {
+      "id": "msn:2fa43dfae93d96a81079826d1fce5e2d680b8376",
+      "title": "UCB (ENXTBR:UCB) Stock Looks About Right For Its Earnings Outlook",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b098406edc84403b0225eaeaa41c458&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fucb-enxtbr-ucb-stock-looks-081108061.html&c=7609984302821547802&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "UCB has delivered strong multi year gains, so the obvious question for anyone looking at the stock today is whether the current market value lines up with what its earnings can reasonably support.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:11:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:15.862024+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N478001:0",
       "title": "Japan Tobacco shares up 1% after Imperial Brands report",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N478001:0-japan-tobacco-shares-up-1-after-imperial-brands-report/",
@@ -71376,6 +71970,25 @@
       "published_at": "2026-11-27T07:08:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T21:10:18.196583+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:be55bc9b317fad929c7d5437f6a60b08a48e089e",
+      "title": "BJ's Restaurants (BJRI) Stock May Be Overvalued On Its Earnings Story",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b098406edc84403b0225eaeaa41c458&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fbjs-restaurants-bjri-stock-may-070836174.html&c=8783731677816608580&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "BJ's Restaurants has delivered a strong run in recent years, and that kind of climb naturally raises a simple question for you as a shareholder or potential buyer: Is the current share price properly ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:08:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:15.862024+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -78518,6 +79131,25 @@
       "published_at": "2026-11-27T05:01:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T21:19:23.376809+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:49764e758da84639e64ea01c8170494d7301313b",
+      "title": "Is the stock market open today? Here are the trading hours for Black Friday.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09840631dd484f8eca216aab77ca78&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-black-friday%2far-AA2iknKI&c=15349360073239060809&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A while lot of businesses are open on Black Friday but what about the stock market?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:01:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T21:22:15.862024+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
