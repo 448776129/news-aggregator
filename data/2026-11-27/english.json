@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T13:25:21.371948+08:00",
-  "count": 1414,
+  "generated_at": "2026-11-27T13:28:14.265373+08:00",
+  "count": 1420,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 4,
       "error": ""
     },
     {
@@ -60,6 +60,28 @@
         "symbols": [
           "NSEKE:KPC"
         ]
+      }
+    },
+    {
+      "id": "tradingview:cointelegraph:823696b5e094b:0",
+      "title": "Japan’s crypto security group taps SEAL to speed up hack response",
+      "url": "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Cointelegraph",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:22:36+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:28:10.238919+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -300,6 +322,25 @@
           "NSE:CNXIT"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-nvidia-051409281.html?.tsrc=rss",
+      "title": "Learn Why The Bull Case For Nvidia Stock Could Change Following CEO Reinstatement",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-nvidia-051409281.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Nvidia reinstated founder Jensen Huang as CEO and president in late November while multiple US investigations into export controls, governance and disclosure practices continue. Kioxia also announced a collaboration with Nvidia to use SCADA software and high performance SSDs to extend effective GPU memory capacity to roughly 1.1 PB at rack scale. The Kioxia partnership around Nvidia’s Storage Next initiative highlights how the business is trying to tackle AI data bottlenecks at the system...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:14:09+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:28:10.091515+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:DJN_DN20261127000045:0",
@@ -18094,6 +18135,25 @@
       "extra": {}
     },
     {
+      "id": "msn:11baa010b42094afc1485b8529ddad902bf4320c",
+      "title": "Stock Market Live Updates: Sensex falls over 400 pts, Nifty below 25,800; HDFC Bank, BEL ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0914ea638d476bbc1547c386a02a2f&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-share-price-27-november-2026%2fliveblog%2f136206762.cms&c=17461454488585503924&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "GIFT Nifty on the NSE IX trades lower, signalling that Dalal Street is set for a negative start on Friday as investors remain cautious ahead of the opening bell.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:10:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:28:12.190760+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:7af8dc7a7d2ae2a2e50efc8b0348ede854f3d114",
       "title": "Stock Market Live Updates: Sensex falls over 400 pts, Nifty below 25,800; HDFC Bank, BEL ...",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0912204e094d98b32cb80d02bb5305&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-share-price-27-november-2026%2fliveblog%2f136206762.cms&c=17461454488585503924&mkt=en-us",
@@ -19215,6 +19275,25 @@
       "extra": {}
     },
     {
+      "id": "msn:61c230e6c63701cfc604723ec71a01a8991c97f2",
+      "title": "Stock Market Today Live Updates: BSE Sensex falls over 100 pts, Nifty50 holds above 25,850",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0914ea638d476bbc1547c386a02a2f&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fbusiness%2findia-business%2fsensex-stock-market-today-27-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news%2fliveblog%2f136208203.cms&c=13360932459420895778&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Asian markets were mostly higher in early trading on Friday, tracking developments in global markets after Wall Street remained closed on Thursday fo ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:13:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:28:12.190760+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N47713P:0",
       "title": "Peru's Fujimori announces $16 billion loan package",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47713P:0-peru-s-fujimori-announces-16-billion-loan-package/",
@@ -19235,6 +19314,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "msn:cbaf91c3134bc6e22afbb02befa09951ac2f17dd",
+      "title": "Stock Market Today (November 27): Sensex, Nifty Open Lower; Investors Eye Geopolitical ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0914ea638d476bbc1547c386a02a2f&url=https%3a%2f%2fwww.timesnownews.com%2fbusiness-economy%2fmarkets%2fstock-market-today-november-27-sensex-nifty-open-lower-investors-eye-geopolitical-tensions-brent-crude-at-96-article-156572999&c=1814062267327271386&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "In the previous session, the Nifty 50 closed at 25,884.50, gained 65.25 points or 0.25 percent. The Sensex also ended higher at 84,328.59, rising 390.31 points or 0.46 percent. Vikram Kasat, Chief ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:07:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:28:12.190760+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:cryptobriefing:df9bd605b094b:0",
@@ -23855,6 +23953,25 @@
       "published_at": "2026-11-27T02:04:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T13:19:16.627704+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6e9bd325326542f92541f52022f58e4e83b4dc89",
+      "title": "Stock Market LIVE: IT शेयरों में तेज बिकवाली का ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0914ea638d476bbc1547c386a02a2f&url=https%3a%2f%2fhindi.business-standard.com%2fmarkets%2fstock-market%2fstock-market-live-updates-27-november-2026-sensex-nifty-today-gift-nifty-share-market-news-id-17950531394%2f&c=16606766826370253539&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stock Market Live Updates: गुरुवार को भारतीय शेयर बाजार की तेजी में आईटी शेयरों का अहम योगदान रहा था। हालांकि, बैंक निफ्टी गिरावट के साथ बंद हुआ ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:04:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:28:12.190760+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",

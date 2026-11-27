@@ -3,8 +3,8 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T13:25:21.414901+08:00",
-  "count": 155,
+  "generated_at": "2026-11-27T13:28:14.299000+08:00",
+  "count": 156,
   "sources": [
     {
       "name": "stocktwits",
@@ -14,6 +14,32 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670267423",
+      "title": "$SPY 730 as expected… $AAPL wait for 360. $TSLA 400 …. Black Friday deals canceled not going lower",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "Marcusmccord",
+      "summary": "$SPY 730 as expected… $AAPL wait for 360. $TSLA 400 …. Black Friday deals canceled not going lower",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:25:38+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:28:09.480103+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "SPY",
+          "AAPL",
+          "TSLA"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670267345",
       "title": "$SPY $QQQ $NVDA $TSLA $BTC.X Heads-up. 10-yr yield is spiking now. Probably due to hot core PCE number.",
