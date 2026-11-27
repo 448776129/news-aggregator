@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T18:19:19.676501+08:00",
-  "count": 178,
+  "generated_at": "2026-11-27T18:25:27.529410+08:00",
+  "count": 180,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     },
     {
@@ -1749,6 +1749,25 @@
       "extra": {}
     },
     {
+      "id": "msn:77337f47afa8b39ef3354e4c6cb49231a098a665",
+      "title": "Unlock Earnings Surprises with Straddles and Strangles",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b095a94072d4f4abfc03e5744a79705&url=https%3a%2f%2fwww.investopedia.com%2farticles%2foptioninvestor%2f09%2flong-straddle-strangle-earnings.asp&c=13020573608018758244&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Jay Kaeppel has 25+ years of experience as a trader, analyst, and portfolio manager. He is the author of four books on financial trading. Thomas J Catalano is a CFP and Registered Investment Adviser ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-01-15T21:58:00+08:00",
+      "published_date": "2026-01-15",
+      "fetched_at": "2026-11-27T18:25:25.733134+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:6b1e8a697ad83eb8d07c8b6a9a2fdee430f56c92",
       "title": "What Is an Earnings Report?",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0806ee85514ddd839526765bc18441&url=https%3a%2f%2fwww.fool.com%2fterms%2fe%2fearnings-report%2f&c=5021984359977569252&mkt=en-us",
@@ -3415,6 +3434,25 @@
       "published_at": "2026-01-15T02:47:00+08:00",
       "published_date": "2026-01-15",
       "fetched_at": "2026-11-27T18:19:17.241358+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:2ef59fe8e4b6ea890500c9966cc27bd8426befcc",
+      "title": "What Is an Earnings Report?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b095a94072d4f4abfc03e5744a79705&url=https%3a%2f%2fwww.fool.com%2fterms%2fe%2fearnings-report%2f&c=5021984359977569252&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Earnings reports, mandated by the SEC, include detailed financials such as income and cash flow. Investors should monitor key metrics in these reports, including revenue growth and net margin.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-01-15T02:47:00+08:00",
+      "published_date": "2026-01-15",
+      "fetched_at": "2026-11-27T18:25:25.733134+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
