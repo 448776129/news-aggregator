@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T02:31:18.071052+08:00",
-  "count": 49,
+  "generated_at": "2026-11-28T02:34:19.587370+08:00",
+  "count": 53,
   "sources": [
     {
       "name": "cls",
@@ -15,17 +15,99 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 43,
+      "count": 46,
       "error": ""
     },
     {
       "name": "sina",
       "status": "ok",
-      "count": 6,
+      "count": 7,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "jin10:20261128023112928800",
+      "title": "土耳其部长：土耳其、巴基斯坦和沙特阿拉伯在伊斯兰堡会议上讨论了潜在新成员加入麦加防务条约的路线图。",
+      "url": "https://www.jin10.com/#/flash/20261128023112928800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "土耳其部长：土耳其、巴基斯坦和沙特阿拉伯在伊斯兰堡会议上讨论了潜在新成员加入麦加防务条约的路线图。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:31:12+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:34:14.222951+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261128023108500800",
+      "title": "【夜盘主力合约收盘】金十数据11月28日讯，截至2:30收盘，沪金主力合约收涨0.80%，报781元/克，沪银主力合约收涨3.74%，报10344元/千克，SC",
+      "url": "https://www.jin10.com/#/flash/20261128023108500800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【夜盘主力合约收盘】金十数据11月28日讯，截至2:30收盘，沪金主力合约收涨0.80%，报781元/克，沪银主力合约收涨3.74%，报10344元/千克，SC原油主力合约收跌2.22%，报585元/桶。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:31:08+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:34:14.222951+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7614686.shtml",
+      "title": "OpenAI反诉苹果窃取商业机密",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkafiis7614686.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "OpenAI已对苹果发起新的法律诉讼，指控这家大型科技巨头窃取其商业机密，并阻断其接触硬件供应商的渠道，企图“不择手段地进行不正当竞争”。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:31:08+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:34:15.177669+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261128023012434800",
+      "title": "上海黄金交易所黄金T+D 11月27日（周五）晚盘收盘上涨0.56%报780.14元/克； 上海黄金交易所白银T+D 11月27日（周五）晚盘收盘上涨1.59%",
+      "url": "https://www.jin10.com/#/flash/20261128023012434800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "上海黄金交易所黄金T+D 11月27日（周五）晚盘收盘上涨0.56%报780.14元/克； 上海黄金交易所白银T+D 11月27日（周五）晚盘收盘上涨1.59%报10303.0元/千克。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:30:12+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T02:34:14.222951+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "jin10:20261128022700392800",
       "title": "【英媒：OpenAI起诉苹果窃取商业秘密】金十数据11月28日讯，OpenAI对苹果公司提起新的法律诉讼，指控这家科技巨头窃取其商业机密并阻止其与硬件供应商的对",
