@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T12:46:21.349737+08:00",
-  "count": 1287,
+  "generated_at": "2026-11-27T12:49:23.277376+08:00",
+  "count": 1296,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -38,6 +38,196 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47606C:0",
+      "title": "Parties to negotiate after no one wins majority in New Zealand election",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47606C:0-parties-to-negotiate-after-no-one-wins-majority-in-new-zealand-election/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:48:49+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:49:18.348948+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004598_20261126004621:0",
+      "title": "Bumi Armada: Total Liabilities MYR2.18B as at Sept. 30",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004598_20261126004621:0-bumi-armada-total-liabilities-myr2-18b-as-at-sept-30/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:48:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:49:18.348948+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:ARMADA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004619:0",
+      "title": "Harbour-Link Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004619:0-harbour-link-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:48:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:49:18.348948+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:HARBOUR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004601_20261126004620:0",
+      "title": "MISC: Group's Total Assets MYR55.02B as of Sept. 30",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004601_20261126004620:0-misc-group-s-total-assets-myr55-02b-as-of-sept-30/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:48:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:49:18.348948+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:MISC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004617_20261126004622:0",
+      "title": "RHB Bank: 3Q Net Interest Income MYR1.04B Vs. MYR965.2M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004617_20261126004622:0-rhb-bank-3q-net-interest-income-myr1-04b-vs-myr965-2m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:48:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:49:18.348948+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:RHBBANK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004598_20261126004618:0",
+      "title": "Bumi Armada: Total Assets MYR8.21B as at Sept. 30",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004598_20261126004618:0-bumi-armada-total-assets-myr8-21b-as-at-sept-30/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:47:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:49:18.348948+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:ARMADA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004617_20261126004617:0",
+      "title": "RHB Bank: 3Q Net Profit Fell 11% on Year",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004617_20261126004617:0-rhb-bank-3q-net-profit-fell-11-on-year/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:47:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:49:18.348948+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:RHBBANK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004616:0",
+      "title": "Hibiscus Petroleum Malaysia 1st-Quarter 2026 Earnings Summary Table",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004616:0-hibiscus-petroleum-malaysia-1st-quarter-2026-earnings-summary-table/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T12:46:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:49:18.348948+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:HIBISCS"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261126004598_20261126004613:0",
       "title": "Bumi Armada: Total Assets MYR8.21B as at Sept. 30",
@@ -29912,6 +30102,25 @@
       "published_at": "2026-11-27T00:00:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T12:46:18.129561+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:bc228209f6972555366870d6c6100b1a215c2ad4",
+      "title": "Tenaz Energy (TSX:TNZ) Stock Trades At A Premium To Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b090bcfbccb48058fb4378931aeb04d&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2ftenaz-energy-tsx-tnz-stock-012706649.html&c=13302110412068100848&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Tenaz Energy has delivered very strong share price gains in recent years, which puts a spotlight on whether the current valuation is properly supported by its earnings power. With that kind of track ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T12:49:20.478139+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
