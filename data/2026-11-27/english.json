@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T09:16:16.073701+08:00",
-  "count": 800,
+  "generated_at": "2026-11-27T09:19:17.011580+08:00",
+  "count": 804,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,77 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261126004256_20261126004256:0",
+      "title": "South Korea's Kospi Extends Gains; Last 1.6% Higher at 4784.13",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004256_20261126004256:0-south-korea-s-kospi-extends-gains-last-1-6-higher-at-4784-13/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:18:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:19:12.563080+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4865958:0",
+      "title": "WHF: Industrials grew H1 earnings 5% as market weakness pressured portfolio returns",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4865958:0-whf-industrials-grew-h1-earnings-5-as-market-weakness-pressured-portfolio-returns/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:17:50+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:19:12.563080+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:WHF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47800O:0",
+      "title": "Brent oil may climb into $98.23-$98.72 range",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47800O:0-brent-oil-may-climb-into-98-23-98-72-range/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:16:01+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:19:12.563080+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ICEEUR:BRN1!",
+          "TVC:UKOIL"
+        ]
+      }
+    },
     {
       "id": "tradingview:moodys:49c8adab50da8:0",
       "title": "Bangladesh loses half of Adani's Godda power supply",
@@ -16610,6 +16681,25 @@
       "published_at": "2026-11-27T00:39:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T09:16:13.546175+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d5442b88896e720aee03f1aee65a3b1a3a636d28",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty futures signal a negative start as index ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08da90478c4678aa0e4df824191987&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:19:14.467097+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
