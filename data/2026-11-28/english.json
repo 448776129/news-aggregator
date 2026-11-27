@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T01:28:19.021233+08:00",
-  "count": 185,
+  "generated_at": "2026-11-28T01:31:29.293620+08:00",
+  "count": 187,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 18,
+      "count": 19,
       "error": ""
     }
   ],
@@ -85,6 +85,25 @@
           "MYX:HEXCARE"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-friday-172702126.html?.tsrc=rss",
+      "title": "Sector Update: Tech Stocks Gain Friday Afternoon",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-friday-172702126.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Tech stocks were higher Friday afternoon, with the State Street Technology Select Sector SPDR ETF (X",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:27:02+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:31:15.707518+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780LV:0",
@@ -470,6 +489,25 @@
           "NYSE:TPB"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.thestreet.com/technology/new-orrorin-799-smart-glasses-challenge-apple-but-dont-offer-all-features?.tsrc=rss",
+      "title": "New $799 smart glasses challenge Apple, but with a major catch",
+      "url": "https://www.thestreet.com/technology/new-orrorin-799-smart-glasses-challenge-apple-but-dont-offer-all-features?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "A startup promises Vision Pro-style controls in ordinary-looking glasses.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:17:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:31:15.707518+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:urn:summary_document_report:quartr.com:4896840:0",

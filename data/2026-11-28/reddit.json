@@ -3,17 +3,40 @@
   "category": "reddit",
   "category_name": "Reddit 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T01:27:45.455270+08:00",
-  "count": 11,
+  "generated_at": "2026-11-28T01:31:29.298027+08:00",
+  "count": 12,
   "sources": [
     {
       "name": "reddit",
       "status": "ok",
-      "count": 11,
+      "count": 12,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "reddit:1y6yxnq",
+      "title": "I am just a small man",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1y6yxnq/i_am_just_a_small_man/",
+      "source": "reddit",
+      "source_name": "Reddit",
+      "author": "Oncotte",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T01:28:57+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T01:31:19.385238+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "reddit",
+      "extra": {
+        "subreddit": "wallstreetbets",
+        "score": 1,
+        "num_comments": 0
+      }
+    },
     {
       "id": "reddit:1y6yw55",
       "title": "China’s Tencent leases 100,000 chips from Oracle to accelerate AI push",
