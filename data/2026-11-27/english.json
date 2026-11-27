@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T09:22:16.117286+08:00",
-  "count": 806,
+  "generated_at": "2026-11-27T09:25:17.323810+08:00",
+  "count": 820,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 0,
       "error": ""
     },
     {
@@ -38,6 +38,314 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261126004267_20261126004267:0",
+      "title": "Korea Exchange Briefly Suspends Trading on Tech-Heavy Kosdaq",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004267_20261126004267:0-korea-exchange-briefly-suspends-trading-on-tech-heavy-kosdaq/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:24:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:25:12.604933+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770SJ:0",
+      "title": "Australia clears law requiring LNG exporters to keep 20% for domestic use",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770SJ:0-australia-clears-law-requiring-lng-exporters-to-keep-20-for-domestic-use/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:22:45+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:25:12.604933+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:ORG",
+          "LSE:SHEL",
+          "ASX:STO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770WO:0",
+      "title": "Elk Range Mining Says Unit To Buy 103 Friday Gold Mining Claims For Us$4.0 Million",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770WO:0-elk-range-mining-says-unit-to-buy-103-friday-gold-mining-claims-for-us-4-0-million/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:22:43+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:25:12.604933+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:ELK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770WV:0",
+      "title": "Sea Forest CFO To Step Down",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770WV:0-sea-forest-cfo-to-step-down/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:22:05+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:25:12.604933+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:SEA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004265:0",
+      "title": "Hong Leong Bank to Prioritizes Margin Defence Amid Deposit Competition — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004265:0-hong-leong-bank-to-prioritizes-margin-defence-amid-deposit-competition-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:22:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:25:12.604933+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:HLBANK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004263_20261126004263:0",
+      "title": "Hang Seng Index Opens 0.2% Higher at 22263.70",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004263_20261126004263:0-hang-seng-index-opens-0-2-higher-at-22263-70/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:21:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:25:12.604933+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004263_20261126004264:0",
+      "title": "Hang Seng Tech Index Opens 0.5% Higher at 3433.38",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004263_20261126004264:0-hang-seng-tech-index-opens-0-5-higher-at-3433-38/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:21:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:25:12.604933+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004258:0",
+      "title": "Japan MOF To Auction Y3.1T Of TD-Bills Dec 4",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004258:0-japan-mof-to-auction-y3-1t-of-td-bills-dec-4/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:20:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:25:12.604933+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004260:0",
+      "title": "Japan Offering Y3.1T Of TD-Bills (No 1422)",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004260:0-japan-offering-y3-1t-of-td-bills-no-1422/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:20:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:25:12.604933+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004262:0",
+      "title": "Table: Logah Technology Oct Rev NT$54.1M Vs NT$69.5M",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004262:0-table-logah-technology-oct-rev-nt-54-1m-vs-nt-69-5m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:20:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:25:12.604933+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TWSE:3593"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:96d21d6471f21:0",
+      "title": "AECOM to manage $15bn Adani infrastructure programmes in India",
+      "url": "https://www.tradingview.com/news/moodys:96d21d6471f21:0-aecom-to-manage-15bn-adani-infrastructure-programmes-in-india/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "bne Intellinews",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:19:11+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:25:12.604933+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:ACM",
+          "NSE:ADANIENT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004231_20261126004257:0",
+      "title": "CVC: Have Strengthened TRY's Position as Provider of One-On-One Tutoring in Japan",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004231_20261126004257:0-cvc-have-strengthened-try-s-position-as-provider-of-one-on-one-tutoring-in-japan/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:19:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:25:12.604933+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:CVC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:4b3696b6c094b:0",
+      "title": "Japan, South Korea indices rise: Asian markets extend gains as AI stocks rebound",
+      "url": "https://www.tradingview.com/news/cnbctv:4b3696b6c094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:18:59+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:25:12.604933+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:NI225",
+          "KRX:KOSPI",
+          "TVC:UKOIL",
+          "NYMEX:CL1!"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261126004256_20261126004256:0",
       "title": "South Korea's Kospi Extends Gains; Last 1.6% Higher at 4784.13",
@@ -82,6 +390,28 @@
         "symbols": [
           "ASX:WHF"
         ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:6489cc678094b:0",
+      "title": "AI worries sets US Dollar for longest winning run since 2024",
+      "url": "https://www.tradingview.com/news/cnbctv:6489cc678094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:17:20+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:25:12.604933+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
