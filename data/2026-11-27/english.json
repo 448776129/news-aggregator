@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T13:04:20.735074+08:00",
-  "count": 1360,
+  "generated_at": "2026-11-27T13:07:25.328954+08:00",
+  "count": 1367,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,123 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261127000013_20261127000013:0",
+      "title": "Spot Gold Extends Gains; Last 2.0% Higher at $3,637.78/Oz",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127000013_20261127000013:0-spot-gold-extends-gains-last-2-0-higher-at-3-637-78-oz/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:06:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:07:20.611593+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127000013_20261127000014:0",
+      "title": "Spot Silver Extends Gains; Last 4.7% Higher at $43.51/Oz",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127000013_20261127000014:0-spot-silver-extends-gains-last-4-7-higher-at-43-51-oz/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:06:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:07:20.611593+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:593e93e00094b:0",
+      "title": "Momentum Stocks: Geojit Financial Services, Patel Engineering, Wanbury gain up to 7% on sheer momentum",
+      "url": "https://www.tradingview.com/news/moneycontrol:593e93e00094b:0-momentum-stocks-geojit-financial-services-patel-engineering-wanbury-gain-up-to-7-on-sheer-momentum/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:04:50+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:07:20.611593+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47803H:0",
+      "title": "Malaysian palm oil rises on Dalian strength, eyes weekly gain",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47803H:0-malaysian-palm-oil-rises-on-dalian-strength-eyes-weekly-gain/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:04:08+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:07:20.611593+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:FCPO1!",
+          "CME:CPO1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004699_20261127000011:0",
+      "title": "Axiata: 3Q Swung to Profit, Helped by Turnaround in Associate Earnings, Lower Finance Costs",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004699_20261127000011:0-axiata-3q-swung-to-profit-helped-by-turnaround-in-associate-earnings-lower-finance-costs/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T13:04:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:07:20.611593+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MYX:AXIATA"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N478058:0",
       "title": "Thailand's Bangchak buys prompt diesel following Bangkok refinery fire, sources say",
@@ -17642,6 +17759,25 @@
       "extra": {}
     },
     {
+      "id": "msn:01445f26623cc7ee9d460f395a98cf583023f21b",
+      "title": "Stock Market Live Updates: Sensex falls over 200 pts, Nifty below 25,800; HDFC Bank, BEL ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0910082a4c4475a5b117d57f2391cf&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-share-price-27-november-2026%2fliveblog%2f136206762.cms&c=17461454488585503924&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "GIFT Nifty on the NSE IX trades lower, signalling that Dalal Street is set for a negative start on Friday as investors remain cautious ahead of the opening bell.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T04:52:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:07:22.690228+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:acceswire:e43673e70094b:0",
       "title": "Jade Leader Announces Change of Auditor",
       "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/jade-leader-announces-change-of-auditor-1344484",
@@ -31632,6 +31768,25 @@
       "published_at": "2026-11-27T00:00:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T13:01:14.667393+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:70bf12c854e44bff4b5ff7486b637d1f6f3029d2",
+      "title": "Tenaz Energy (TSX:TNZ) Stock Trades At A Premium To Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b091009f48c4e49a4cc8cf0b8537dfb&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2ftenaz-energy-tsx-tnz-stock-012706649.html&c=13302110412068100848&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Tenaz Energy has delivered very strong share price gains in recent years, which puts a spotlight on whether the current valuation is properly supported by its earnings power. With that kind of track ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T13:07:22.690228+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
