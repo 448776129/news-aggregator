@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T00:04:19.117834+08:00",
-  "count": 9,
+  "generated_at": "2026-11-28T00:07:29.999492+08:00",
+  "count": 10,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "error": ""
     }
   ],
@@ -157,6 +157,25 @@
           "NYSE:LUV"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/video/why-this-portfolio-manager-says-investors-should-avoid-the-neoclouds-160003179.html?.tsrc=rss",
+      "title": "Why this portfolio manager says investors should 'avoid the neoclouds'",
+      "url": "https://finance.yahoo.com/video/why-this-portfolio-manager-says-investors-should-avoid-the-neoclouds-160003179.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Washington Crossing Advisors senior portfolio manager Chad Morganlander chats with Yahoo Finance Executive Editor Brian Sozzi about how investors should be approaching dip buying, the AI trade, and more.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:00:03+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:07:24.301624+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0403Fa:0",
