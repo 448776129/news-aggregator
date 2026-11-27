@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T05:58:20.970296+08:00",
-  "count": 101,
+  "generated_at": "2026-11-28T06:01:19.193363+08:00",
+  "count": 102,
   "sources": [
     {
       "name": "cls",
@@ -21,7 +21,7 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 21,
+      "count": 22,
       "error": ""
     }
   ],
@@ -1192,6 +1192,25 @@
       "extra": {
         "important": 0
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/roll/2026-11-28/doc-inkafiiw5276198.shtml",
+      "title": "美国空军核心云平台Cloud One遭黑客入侵，内部人士警告“事态极其严重”",
+      "url": "https://finance.sina.com.cn/roll/2026-11-28/doc-inkafiiw5276198.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "市场资讯",
+      "summary": "美国军方最大云平台之一首次被公开披露遭突破，事件发生在平台升级期间，目前尚不清楚攻击者的身份，也无法确认其是否实际获取了数据。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:17:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T06:01:15.771151+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "jin10:20261128021249265800",
