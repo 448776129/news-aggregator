@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T11:10:16.455099+08:00",
-  "count": 96,
+  "generated_at": "2026-11-27T11:31:15.053312+08:00",
+  "count": 98,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     },
     {
@@ -1559,6 +1559,25 @@
       "extra": {}
     },
     {
+      "id": "msn:f210278b93e90cf21104b22aa20b095d96ad174c",
+      "title": "Analysis: China Insurers’ Stock Bets Test the Limits of Equity Risk",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f9809d0d4355bcd01bac43954df5&url=https%3a%2f%2fen.caixin.com%2f2026-11-13%2f102504542.html&c=13601615529278947263&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Insurance funds, typically seen as a stabilizing force, have been accused of triggering market declines with recent selling ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-13T17:44:00+08:00",
+      "published_date": "2026-11-13",
+      "fetched_at": "2026-11-27T11:31:14.472030+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:b51adafd443d89959ce67a499c9671f6eba64cd9",
       "title": "Wall Street forecasters see tumbling corporate earnings hobbling the stock market in 2027",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0517a29a714db6af96163e0d10380d&url=https%3a%2f%2fwww.businessinsider.com%2fstock-market-earnings-slowdown-2027-wall-street-outlook-2026-11&c=8493203222518674628&mkt=en-us",
@@ -1857,6 +1876,25 @@
       "published_at": "2026-11-13T17:31:00+08:00",
       "published_date": "2026-11-13",
       "fetched_at": "2026-11-27T11:10:15.771706+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:a89e80a8ccfbd21ae849d25c9732653e03605517",
+      "title": "Wall Street forecasters see tumbling corporate earnings hobbling the stock market in 2027",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f980790b4524821ec3269ce5c921&url=https%3a%2f%2fwww.businessinsider.com%2fstock-market-earnings-slowdown-2027-wall-street-outlook-2026-11&c=8493203222518674628&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "You're currently following this author! Click to unsubscribe from email alerts. The market has plenty on its mind: the Iran war, hotter inflation, and the scandal around Nvidia CEO Jensen Huang, to ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-13T17:31:00+08:00",
+      "published_date": "2026-11-13",
+      "fetched_at": "2026-11-27T11:31:14.472030+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
