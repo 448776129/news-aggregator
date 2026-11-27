@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T21:01:19.562942+08:00",
-  "count": 125,
+  "generated_at": "2026-11-28T00:28:27.121309+08:00",
+  "count": 126,
   "sources": [
     {
       "name": "alpaca",
@@ -2409,6 +2409,25 @@
       "published_date": "2026-05-10",
       "fetched_at": "2026-11-27T21:01:17.319363+08:00",
       "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:37bd4469514e0db4bb45d116fb7e39eb24867bef",
+      "title": "A History of U.S. Stock Market Crashes",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09afa723a34073939118148baf00d3&url=https%3a%2f%2fwww.fool.com%2finvesting%2fstock-market%2fbasics%2fcrashes%2f&c=13991067171525713360&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stock market crashes often follow debt-fueled economic expansions. Rapid sell-offs can result from automated trading or external crises. Significant financial interventions can help accelerate ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-05-10T19:08:00+08:00",
+      "published_date": "2026-05-10",
+      "fetched_at": "2026-11-28T00:28:24.900972+08:00",
+      "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
       "extra": {}

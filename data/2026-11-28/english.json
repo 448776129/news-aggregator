@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T00:25:23.763155+08:00",
-  "count": 46,
+  "generated_at": "2026-11-28T00:28:27.813840+08:00",
+  "count": 54,
   "sources": [
     {
       "name": "alpaca",
@@ -27,7 +27,7 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 42,
+      "count": 50,
       "error": ""
     },
     {
@@ -38,6 +38,195 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780KG:0",
+      "title": "Corn, soy basis flat to weaker after autumn harvests",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4780KG:0-corn-soy-basis-flat-to-weaker-after-autumn-harvests/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:27:16+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:28:23.032013+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOT:ZC1!",
+          "CBOT:ZS1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127003750:0",
+      "title": "Gulf IPO Activity Slumps Amid Elevated Geopolitical Risks — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127003750:0-gulf-ipo-activity-slumps-amid-elevated-geopolitical-risks-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:27:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:28:23.032013+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_transcript:quartr.com:4896191:0",
+      "title": "Accton Technology: Strong 9M growth backs investment in global capability and next-generation AI networking",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4896191:0-accton-technology-strong-9m-growth-backs-investment-in-global-capability-and-next-generation-ai-networking/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:26:53+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:28:23.032013+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TWSE:2345"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780SY:0",
+      "title": "Action Q3 Net Profit 35.8 Million Zlotys",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4780SY:0-action-q3-net-profit-35-8-million-zlotys/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:26:46+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:28:23.032013+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:ACT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0490Fa:0",
+      "title": "REG - Unilever PLC - Director/PDMR Shareholding",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0490Fa:0-reg-unilever-plc-director-pdmr-shareholding/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:25:59+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:28:23.032013+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:ULVR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0491Fa:0",
+      "title": "REG - GCM Resources PLC - Suspension of CEO & Requisition Letter",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-27:newsml_RSa0491Fa:0-reg-gcm-resources-plc-suspension-of-ceo-requisition-letter/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "London Stock Exchange",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:25:42+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:28:23.032013+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:GCM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47810H:0",
+      "title": "Spyrosoft Q3 Net Profit 6.3 Million Zlotys",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47810H:0-spyrosoft-q3-net-profit-6-3-million-zlotys/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:25:05+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:28:23.032013+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:SPR"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:baystreet:767b8678b094b:0",
+      "title": "FirstService, Knight, Kinaxis at 52-Week Highs on News",
+      "url": "https://www.baystreet.ca/articles/breakoutstocks/125720/firstservice-knight-kinaxis-at-52-week-highs-on-news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BayStreet",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:24:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T00:28:23.032013+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261127003740:0",
       "title": "Brookfield's Private Assets Seen Trading at Steep Discount Ahead of 2027 Fee Jump — Market Talk",
