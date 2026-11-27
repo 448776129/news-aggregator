@@ -3,13 +3,13 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T10:01:21.193404+08:00",
-  "count": 901,
+  "generated_at": "2026-11-27T10:04:26.281167+08:00",
+  "count": 904,
   "sources": [
     {
       "name": "alpaca",
       "status": "ok",
-      "count": 34,
+      "count": 35,
       "error": ""
     },
     {
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 0,
       "error": ""
     },
     {
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "alpaca:131756110",
+      "title": "NewGenIvf Announces 1-for-100 Reverse Stock Split",
+      "url": "https://www.moomoo.com/stock/NIVF-US?chain_id=Name1K9-3FXPhg.1lgg49g&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FLI-US%2Fcommunity%22%7D",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "NewGenIvf Group Limited is set to implement a 1-for-100 reverse stock split, with trading on a split-adjusted basis beginning November 30, 2026.",
+      "content": "NewGenIvf Group Limited has announced a 1-for-100 reverse stock split of its shares. The company confirmed that the shares will begin trading on a split-adjusted basis effective November 30, 2026. This corporate action is a standard governance procedure to adjust the share count and price per share.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:02:21+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:04:13.249600+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "NIVF"
+        ]
+      }
+    },
     {
       "id": "tradingview:prnewswire:dee4a12ff217c:0",
       "title": "Encore Season: Agoda Sees Searches for Jakarta Stays More Than Triple as the BTS World Tour 'Arirang' Heads to Southeast Asia",
@@ -107,6 +131,54 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:ANT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:34306a0a2abd5:0",
+      "title": "DSC Holdings Ltd. (DSC) Partners With JAPANCARS on Used-Car Exports",
+      "url": "https://www.tradingview.com/news/tradingview:34306a0a2abd5:0-dsc-holdings-ltd-dsc-partners-with-japancars-on-used-car-exports/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:04:12.894078+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:DSC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:82354b07d094b:0",
+      "title": "DSC Partners with JAPANCARS to Channel China’s Used Cars to Global Dealers",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411055/0/en/dsc-partners-with-japancars-to-channel-china-s-used-cars-to-global-dealers.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T10:04:12.894078+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:DSC"
         ]
       }
     },
