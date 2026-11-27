@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T09:34:16.503004+08:00",
-  "count": 835,
+  "generated_at": "2026-11-27T09:37:26.306689+08:00",
+  "count": 845,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 0,
       "error": ""
     },
     {
@@ -38,6 +38,241 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47713A:0",
+      "title": "Kingsgate Consolidated Says Mischa Mutavdzic Resigns As CFO",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47713A:0-kingsgate-consolidated-says-mischa-mutavdzic-resigns-as-cfo/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:36:01+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:37:21.446874+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:KCN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUE1ZHCFZ:0",
+      "title": "Emperor Energy Appoints Paul Blakeley As Chairman",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUE1ZHCFZ:0-emperor-energy-appoints-paul-blakeley-as-chairman/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:35:08+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:37:21.446874+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:EMP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770UB:0",
+      "title": "Steadfast Says Shareholders Vote In Favour Of Acquisition By Starboard Bidco",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770UB:0-steadfast-says-shareholders-vote-in-favour-of-acquisition-by-starboard-bidco/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:34:39+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:37:21.446874+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:SDF"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47715U:0",
+      "title": "HSBC Reorganizes India Support Roles, Impacting Hundreds Of Jobs- Bloomberg News",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47715U:0-hsbc-reorganizes-india-support-roles-impacting-hundreds-of-jobs-bloomberg-news/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:33:32+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:37:21.446874+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:HSBA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_AZN4TX7XT:0",
+      "title": "Chinese industrial profit rises 16% in January-October",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_AZN4TX7XT:0-chinese-industrial-profit-rises-16-in-january-october/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:33:21+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:37:21.446874+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:44a7bdda163ae:0",
+      "title": "CHINA SETS YUAN CENTRAL PARITY AT 6.7075 FRI VS 6.7096",
+      "url": "https://www.tradingview.com/news/dpa_afx:44a7bdda163ae:0-china-sets-yuan-central-parity-at-6-7075-fri-vs-6-7096/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:33:12+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:37:21.446874+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261126004282:0",
+      "title": "StarHub-M1 Merger Likely Faces Limited Opposition From Singapore Regulators — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261126004282:0-starhub-m1-merger-likely-faces-limited-opposition-from-singapore-regulators-market-talk/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:32:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:37:21.446874+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SGX:CC3",
+          "XETR:M12"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:b13dad58d094b:0",
+      "title": "Swara Baby Products fixes price band for ₹800 crore IPO - Details here",
+      "url": "https://www.tradingview.com/news/cnbctv:b13dad58d094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:31:19+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:37:21.446874+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4770UC:0",
+      "title": "Kcc Engineering & Construction Wins 143.6 Billion Won Order",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4770UC:0-kcc-engineering-construction-wins-143-6-billion-won-order/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:31:01+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:37:21.446874+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "KRX:021320"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47713C:0",
+      "title": "Australian Dairy Nutritionals Says Adoption Of Remuneration Report Not Carried At AGM",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47713C:0-australian-dairy-nutritionals-says-adoption-of-remuneration-report-not-carried-at-agm/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T09:30:58+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T09:37:21.446874+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ASX:AHF"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770D8:0",
       "title": "Strong rupee keeps India rice rates anchored near 19-month peak",
