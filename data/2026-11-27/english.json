@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T19:55:26.516993+08:00",
-  "count": 3590,
+  "generated_at": "2026-11-27T19:58:17.808680+08:00",
+  "count": 3601,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 7,
+      "count": 4,
       "error": ""
     },
     {
@@ -38,6 +38,109 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4780SA:0",
+      "title": "India central bank cuts reserve ratio requirement maintenance to 90% from 99%",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4780SA:0-india-central-bank-cuts-reserve-ratio-requirement-maintenance-to-90-from-99/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:57:12+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:58:12.835818+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:urn:live_audio:quartr.com:545402:0",
+      "title": "Asseco Poland Q3 2026 Earnings Call Is Live",
+      "url": "https://www.tradingview.com/news/urn:live_audio:quartr.com:545402:0-asseco-poland-q3-2026-earnings-call-is-live/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:57:03+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:58:12.835818+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "GPW:ACP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4780RV:0",
+      "title": "Forwards head for weekly fall on milder weather, improving water reserves",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4780RV:0-forwards-head-for-weekly-fall-on-milder-weather-improving-water-reserves/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:55:48+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:58:12.835818+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "ICEENDEX:ECF1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:af2b24f07094b:0",
+      "title": "Graphic Packaging, Hawkins lead materials stocks' November gains",
+      "url": "https://seekingalpha.com/news/4676994-graphic-packaging-hawkins-lead-materials-stocks-november-gains?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:52:17+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:58:12.835818+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:GPK",
+          "NASDAQ:HWKN",
+          "NYSE:ATR",
+          "NYSE:MOS",
+          "NYSE:PPG",
+          "NYSE:VMC",
+          "NYSE:AVNT",
+          "NYSE:RPM",
+          "NYSE:SLGN",
+          "NYSE:EXP"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_S0N46L001:0",
       "title": "Axia Energia, Alupar Sign Deal To Unwind Cross-Holdings",
@@ -203,6 +306,30 @@
         "urgency": 2,
         "symbols": [
           "NYSE:HPQ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4780SB:0",
+      "title": "Beijing Jingneng Power Adjusts Private Share Placement Plan",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4780SB:0-beijing-jingneng-power-adjusts-private-share-placement-plan/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:50:01+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:58:12.835818+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SSE:600578"
         ]
       }
     },
@@ -1185,6 +1312,25 @@
           "NASDAQ:KDP"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/ai-chips-ai-surge-accelerates-113719623.html?.tsrc=rss",
+      "title": "AI Chips Update - AI Surge Accelerates Semiconductor Growth Through 2026",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-ai-surge-accelerates-113719623.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The artificial intelligence (AI) industry is experiencing a significant transformation as it moves from experimental phases to large-scale enterprise integration across various sectors such as pharmaceuticals, financial services, telecommunications, and manufacturing. According to BCC Research, there is a surge in investments into AI infrastructure, with global semiconductor sales projected to double by the end of 2026, reflecting a sustained focus on infrastructure development to support AI...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:37:19+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:58:12.714086+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L5N4780CL:0",
@@ -7011,6 +7157,25 @@
           "NSE:IOC"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/articles/elon-musk-hopes-teslas-spacex-104507393.html?.tsrc=rss",
+      "title": "Elon Musk Hopes All Teslas Will Get SpaceX’s Starlink Connectivity—Except in China, Where It’s ‘Illegal’: Says It Will Be Key for Unsupervised FSD",
+      "url": "https://finance.yahoo.com/technology/articles/elon-musk-hopes-teslas-spacex-104507393.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Tesla Inc. CEO Elon Musk said on Sunday he hopes that the automaker can integrate Space Exploration Technologies Corp.’s Starlink satellite internet connectivity across its entire vehicle lineup by the end of 2027. Starlink in All Tesla Cars? Responding to...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T18:45:07+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:58:12.714086+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026-11-27:newsml_RSa0097Fa:0",
@@ -44381,6 +44546,25 @@
       "extra": {}
     },
     {
+      "id": "msn:76d172f93fe2ef63fdd15a88e7742ff1d0af6d35",
+      "title": "Is the Stock Market Open Today? Black Friday 2026 Trading Hours",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b097055b28a44cfa84db5ac37861267&url=https%3a%2f%2fhollywoodlife.com%2f2026%2f11%2f27%2fis-stock-market-open-today-black-friday-2026-hours%2f&c=3767926176721575031&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Black Friday brings a schedule change for Wall Street. Find out when the stock market opens and closes after Thanksgiving.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:32:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:58:14.965420+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_P8N46509L:0",
       "title": "Thai October exports rise 27.5% on year, above forecast",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N46509L:0-thai-october-exports-rise-27-5-on-year-above-forecast/",
@@ -44774,6 +44958,25 @@
       "published_at": "2026-11-27T11:23:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T19:49:22.028555+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:a8ec6477c47df2cdff1abf73a944972b7f4362cf",
+      "title": "TV anchor breaks down and tears up during live report on stock market share slump",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b097055b28a44cfa84db5ac37861267&url=https%3a%2f%2fwww.dailymail.com%2fnews%2farticle-16326325%2fTV-anchor-breaks-tears-live-report-stock-market-share-slump.html&c=16264336640663226042&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A South Korean news anchor broke down in tears on live television while reporting on a stock market slump. Kim Ah-hyun, who hosts the programme Kim Ah-hyun's Golden Stock on Seoul Economic TV, was ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:23:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:58:14.965420+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -54020,6 +54223,25 @@
       "published_at": "2026-11-27T08:37:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T19:55:24.295076+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:85d2070d4bfb9b17ea01fb99de94bf6006677d4e",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to rally ahead of shortened Black Friday ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b097055b28a44cfa84db5ac37861267&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-thanksgiving-holiday-shortened-black-friday-trading&c=8147742822321622525&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Friday here ahead of the the New York Stock Exchange and Nasdaq closing early.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:37:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:58:14.965420+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -64873,6 +65095,25 @@
       "published_at": "2026-11-27T05:01:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T19:55:24.295076+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:c7897c1ac8e869b5a4909e13efb3adbda8294085",
+      "title": "Is the stock market open today? Here are the trading hours for Black Friday.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b097055b28a44cfa84db5ac37861267&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-black-friday%2far-AA2iknKI&c=15349360073239060809&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A while lot of businesses are open on Black Friday but what about the stock market?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:01:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:58:14.965420+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
