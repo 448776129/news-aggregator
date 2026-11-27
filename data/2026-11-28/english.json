@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T03:22:23.812375+08:00",
-  "count": 413,
+  "generated_at": "2026-11-28T03:28:20.271723+08:00",
+  "count": 426,
   "sources": [
     {
       "name": "alpaca",
@@ -39,6 +39,284 @@
   ],
   "items": [
     {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4780WQ:0",
+      "title": "Yields rise as tech stocks extend rebound",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4780WQ:0-yields-rise-as-tech-stocks-extend-rebound/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:27:55+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:28:15.841548+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:US10Y",
+          "NASDAQ:NDX",
+          "TVC:IXIC"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127004587:0",
+      "title": "Nymex Natural Gas Delivery Intentions Breakdown - Nov 27",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127004587:0-nymex-natural-gas-delivery-intentions-breakdown-nov-27/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:26:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:28:15.841548+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYMEX:NG1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780KW:0",
+      "title": "Dollar set for weekly gain as risk appetite returns",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4780KW:0-dollar-set-for-weekly-gain-as-risk-appetite-returns/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:25:32+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:28:15.841548+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:DXY",
+          "FX:EURUSD",
+          "FX:AUDUSD",
+          "FX_IDC:USDJPY",
+          "BITSTAMP:BTCUSD",
+          "FX:EURCHF",
+          "FX:EURJPY",
+          "FX:GBPUSD",
+          "FX:NZDUSD",
+          "FX:USDCNH",
+          "FX:USDCAD",
+          "FX:USDJPY"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:16698bdd1094b:0",
+      "title": "Apple faces countersuit from OpenAI for stealing trade secrets - FT",
+      "url": "https://seekingalpha.com/news/4677105-apple-faces-countersuit-from-openai-for-stealing-trade-secrets---ft?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:24:52+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:28:15.841548+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:OPENAI",
+          "NASDAQ:AAPL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127004579:0",
+      "title": "Precious Metals Rally as AI Trade Revives Risk Appetite — Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127004579:0-precious-metals-rally-as-ai-trade-revives-risk-appetite-update/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:24:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:28:15.841548+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OANDA:XAUUSD",
+          "COMEX:SI1!",
+          "COMEX:HG1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:cc634a9074d9f:0",
+      "title": "Quantum terminates Chief Revenue Officer Anthony Craythorne; sales and marketing to report to James C. Clancy",
+      "url": "https://www.tradingview.com/news/tradingview:cc634a9074d9f:0-quantum-terminates-chief-revenue-officer-anthony-craythorne-sales-and-marketing-to-report-to-james-c-clancy/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:23:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:28:15.841548+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:QMCO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cointelegraph:64f18ce02094b:0",
+      "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+      "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Cointelegraph",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:23:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:28:15.841548+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:42030ecef094b:0",
+      "title": "SA Asks: What's the best gold play right now for investors?",
+      "url": "https://seekingalpha.com/news/4677104-sa-asks-whats-the-best-gold-play-right-now-for-investors?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:22:07+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:28:15.841548+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:GLD",
+          "AMEX:GDX",
+          "AMEX:GDXJ",
+          "OANDA:XAUUSD"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/27/rtx-unit-pratt-and-whitney-wins-usd2-5-billion-navy-contract/?.tsrc=rss",
+      "title": "RTX Unit Pratt & Whitney Wins $2.5 Billion Navy Contract",
+      "url": "https://www.fool.com/investing/2026/11/27/rtx-unit-pratt-and-whitney-wins-usd2-5-billion-navy-contract/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The company's aircraft engine subsidiary will perform work on the F-35 Lightning II fighter.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:21:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:28:15.212972+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:tradingview:73314d95dce15:0",
+      "title": "MGM Resorts Chief Legal Administrative Officer and Secretary Sold Shares Worth Over $695K",
+      "url": "https://www.tradingview.com/news/tradingview:73314d95dce15:0-mgm-resorts-chief-legal-administrative-officer-and-secretary-sold-shares-worth-over-695k/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:20:03+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:28:15.841548+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:MGM"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:c1bfdd45b4cbd:0",
+      "title": "NIPPON STEEL CORP. Stock 12‑Month Price Target Raised to JPY 753.33, Implies 11% Upside",
+      "url": "https://www.tradingview.com/news/tradingview:c1bfdd45b4cbd:0-nippon-steel-corp-stock-12-month-price-target-raised-to-jpy-753-33-implies-11-upside/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:20:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:28:15.841548+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSE:5401"
+        ]
+      }
+    },
+    {
       "id": "yahoo:https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-indexes.html?.tsrc=rss",
       "title": "Stock Market Today: Indexes Log Best Thanksgiving Week In 18 Years",
       "url": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-indexes.html?.tsrc=rss",
@@ -52,6 +330,25 @@
       "published_at": "2026-11-28T03:19:22+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T03:22:18.828313+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/27/anthropic-gets-a-blockbuster-ipo-take-two-gets-a-blockbuster-gta-vi-release/?.tsrc=rss",
+      "title": "Anthropic Gets a Blockbuster IPO; Take-Two Gets a Blockbuster GTA VI Release",
+      "url": "https://www.fool.com/investing/2026/11/27/anthropic-gets-a-blockbuster-ipo-take-two-gets-a-blockbuster-gta-vi-release/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "What was initially targeted to be an $80 billion raise ended up being a $100 billion capital raise, the largest in history (so far).",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:19:02+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:28:15.212972+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -231,6 +528,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_B5N46N004:0",
+      "title": "Puig agrees to buy 75% stake in perfume group Artessence in deal valuing it at $1.9 billion",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_B5N46N004:0-puig-agrees-to-buy-75-stake-in-perfume-group-artessence-in-deal-valuing-it-at-1-9-billion/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T03:08:43+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T03:28:15.841548+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BME:PUIG"
+        ]
+      }
     },
     {
       "id": "tradingview:prnewswire:a9d04f176fbcb:0",
