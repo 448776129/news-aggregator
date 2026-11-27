@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T11:16:18.823693+08:00",
-  "count": 559,
+  "generated_at": "2026-11-27T11:22:18.801183+08:00",
+  "count": 569,
   "sources": [
     {
       "name": "cls",
@@ -27,6 +27,109 @@
   ],
   "items": [
     {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacvhi1128658.shtml",
+      "title": "越南预计2030年股市市值达到GDP的120%",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacvhi1128658.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "越南总理黎明兴周五表示，预计到2030年，越南股市总市值将达到GDP的120%。 越南预计从今年到2030年，通过股票市场（包括股票、债券和认股权证）筹集的资金将达到5...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:19:53+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:22:14.703140+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "jin10:20261127111653072800",
+      "title": "深证成指涨超2%，软件开发、半导体、元件板块涨幅居前；成分股中，精测电子、慧博云通等多股涨停。",
+      "url": "https://www.jin10.com/#/flash/20261127111653072800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "深证成指涨超2%，软件开发、半导体、元件板块涨幅居前；成分股中，精测电子、慧博云通等多股涨停。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:16:53+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:22:13.472815+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261127111648090800",
+      "title": "美元未来几个月或保持强势，美股跌多少才进入衰退？",
+      "url": "https://www.jin10.com/#/flash/20261127111648090800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "瑞银预计美元强势的基本面仍有望维持数月，转弱的时间节点可能出现在2027年二季度；摩根士丹利认为美股当前跌幅仍是常规调整，触发衰退性结果的阈值在...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:16:48+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:22:13.472815+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261127111634379800",
+      "title": "【假期后美债收益率全线上升 亚洲股市反弹削弱避险需求】金十数据11月27日讯，美国国债在感恩节假期后恢复交易，交投清淡，债券价格下跌。亚洲股市上涨削弱了投资者对",
+      "url": "https://www.jin10.com/#/flash/20261127111634379800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【假期后美债收益率全线上升 亚洲股市反弹削弱避险需求】金十数据11月27日讯，美国国债在感恩节假期后恢复交易，交投清淡，债券价格下跌。亚洲股市上涨削弱了投资者对避险资产的需求。美债收益率曲线各期限收益率均上升至少3个基点，其中基准10年期收益率上涨5个基点，至4.90%。随着投资者风险偏好初步回升，资金从美国国债等避险资产流出。道明证券策略师Prashant Newnaha表示：“风险情绪改善是推动债券收益率小幅上升的主要因素。”过去两周，美国10年期国债收益率累计下跌近25个基点。此前，随着市场对AI交易的疑虑不断增加并引发股市下跌，市场下调了对美联储加息的押注。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:16:34+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:22:13.472815+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127111502579800",
+      "title": "【植田和男30日讲话若提及股市下跌担忧 日元抛压或加剧】金十数据11月27日讯，据日经新闻报道，美元兑日元USD/JPY在160关口附近反复震荡，作为判断汇率下",
+      "url": "https://www.jin10.com/#/flash/20261127111502579800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【植田和男30日讲话若提及股市下跌担忧 日元抛压或加剧】金十数据11月27日讯，据日经新闻报道，美元兑日元USD/JPY在160关口附近反复震荡，作为判断汇率下一步走向的重要事件，市场正密切关注日本央行行长植田和男30日发表的讲话。有市场人士认为，如果植田和男提及股市下跌可能拖累经济增长的担忧，日元卖压或将进一步加剧。瑞穗银行国际外汇部副总裁三波广典认为：“市场尚未完全消化日本央行12月加息预期，背后原因之一是股市表现不稳定。如果植田提及股市下跌引发的经济担忧，日元可能遭到抛售，美元兑日元汇率有可能再次突破160关口。”青空银行首席市场策略师诸我晃表示：“即使植田释放加息相关信号，日元升值空间可能也仅限于汇率升至1美元兑158日元左右。”",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:15:02+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:22:13.472815+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacvhk7898804.shtml",
       "title": "韩国据报考虑扩大股票稳定基金的规模",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacvhk7898804.shtml",
@@ -44,6 +147,111 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261127111436637800",
+      "title": "【腾讯混元发布3D大模型Hy3D 3.6】金十数据11月27日讯，11月27日，腾讯混元发布最新一代3D大模型Hy3D 3.6。目前，Hy3D 3.6已经上线腾",
+      "url": "https://www.jin10.com/#/flash/20261127111436637800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "【腾讯混元发布3D大模型Hy3D 3.6】金十数据11月27日讯，11月27日，腾讯混元发布最新一代3D大模型Hy3D 3.6。目前，Hy3D 3.6已经上线腾讯云Token Hub，对外提供API服务。腾讯AI创意智能体Miora、腾讯游戏旗下专业资产生成平台LAP、专业影视AI平台WorkRally等也已接入，用户可在这些产品中直接使用。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:14:36+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:22:13.472815+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127111408089800",
+      "title": "【预告：中国贸促会11月例行新闻发布会将于30日上午10：00线上直播】金十数据11月27日讯，中国贸促会定于11月30日（星期一）上午10：00在中国贸促会礼",
+      "url": "https://www.jin10.com/#/flash/20261127111408089800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "中国贸促",
+      "summary": "【预告：中国贸促会11月例行新闻发布会将于30日上午10：00线上直播】金十数据11月27日讯，中国贸促会定于11月30日（星期一）上午10：00在中国贸促会礼堂组织召开11月例行新闻发布会。本期发布会主要内容包含：2026年APEC工商领导人峰会成果、推动中美工商界持续深化交流合作举措、中国贸促会境外参展办展相关工作，以及第24届“贸仲杯”国际商事仲裁模拟仲裁庭辩论赛、中国贸促会企业信用服务平台“基础信用证明”、全国首份电子商事证明书有关工作情况，发布9月份全球经贸摩擦指数、10月份全国贸促系统商事认证数据，介绍全球首个技贸措施评议人员能力提升国际标准等。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:14:08+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:22:13.472815+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261127111340573800",
+      "title": "韩国KOSPI指数日内大涨3.00%，现报4856.30点。",
+      "url": "https://www.jin10.com/#/flash/20261127111340573800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "韩国KOSPI指数日内大涨3.00%，现报4856.30点。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:13:40+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:22:13.472815+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261127111316979800",
+      "title": "中证500股指期货（IC）主力合约日内大涨4.00%，现报5980.4点。",
+      "url": "https://www.jin10.com/#/flash/20261127111316979800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "中证500股指期货（IC）主力合约日内大涨4.00%，现报5980.4点。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:13:16+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:22:13.472815+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
+    },
+    {
+      "id": "jin10:20261127111239648800",
+      "title": "科创50指数涨超4%，半导体产业链全线走强；成分股中，中科飞测涨超14%。",
+      "url": "https://www.jin10.com/#/flash/20261127111239648800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "科创50指数涨超4%，半导体产业链全线走强；成分股中，中科飞测涨超14%。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:12:39+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:22:13.472815+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 1
+      }
     },
     {
       "id": "jin10:20261127111200422800",

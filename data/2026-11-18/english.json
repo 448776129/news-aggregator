@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-25T20:46:15.962703+08:00",
-  "count": 7,
+  "generated_at": "2026-11-27T11:22:18.031765+08:00",
+  "count": 8,
   "sources": [
     {
       "name": "alpaca",
@@ -167,6 +167,25 @@
       "published_date": "2026-11-18",
       "fetched_at": "2026-11-25T20:46:13.659480+08:00",
       "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:e17a23a2a0cbfe5266f7a3a1879fb6e4ec5e5c5a",
+      "title": "U.S. Stocks Mostly Lower After Nvidia Earnings Fail to Soothe Nerves",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f766a83e4b789f6295af7e383220&url=https%3a%2f%2fwww.wsj.com%2ffinance%2fcommodities-futures%2fstock-futures-rally-as-nvidia-earnings-calm-ai-trade-fears-96f51546&c=8538341509108265700&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Tech stocks rallied across the globe after Nvidia’s market-beating earnings steadied investor sentiment.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-18T19:59:00+08:00",
+      "published_date": "2026-11-18",
+      "fetched_at": "2026-11-27T11:22:15.736629+08:00",
+      "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
       "extra": {}

@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T11:19:25.870982+08:00",
-  "count": 1052,
+  "generated_at": "2026-11-27T11:22:18.773829+08:00",
+  "count": 1057,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "error": ""
     },
     {
@@ -33,11 +33,30 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 31,
+      "count": 33,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/apple-aapl-found-ai-opportunity-031905510.html?.tsrc=rss",
+      "title": "Apple (AAPL) Has Found a New AI Opportunity That Has Little to Do With the iPhone",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-found-ai-opportunity-031905510.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "We just published the list of the 10 Best Tech Stocks to Buy for 2027 According to Hedge Funds, and Apple Inc. (NASDAQ:AAPL) ranked 10th on this list. Tech stocks aren’t lacking in growth stories for 2027. The problem is that smart money is increasingly selective about which companies it’s willing to pay a premium […]",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:19:05+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:22:13.885039+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_TUA8VLKBH:0",
       "title": "Ero Copper Corp Says Suspension Of Mining And Processing Activities At The Tucumã Operation",
@@ -133,6 +152,25 @@
           "MYX:TENAGA"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-buy-030856400.html?.tsrc=rss",
+      "title": "5 Best Tech Stocks to Buy for 2027 According to Hedge Funds",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-buy-030856400.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Tech stocks aren’t lacking in growth stories for 2027. The problem is that smart money is increasingly selective about which companies it’s willing to pay a premium for. AI is still the big story, but skepticism is growing about whether the money invested will deliver the promised returns. You could see that shift very clearly […]",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:08:56+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:22:13.885039+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:urn:summary_document_report:quartr.com:3694200:0",
@@ -16061,6 +16099,25 @@
       "extra": {}
     },
     {
+      "id": "msn:44ba3d6c6f4ee92406d2b2bdf8578bd6c4ee8e5d",
+      "title": "Adobe: The Next Chapter Is Still Being Written (Q4 Earnings Preview)",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f766a83e4b789f6295af7e383220&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972410-adobe-the-next-chapter-is-still-being-written-q4-earnings-preview&c=8851009591392163459&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Adobe's freemium monthly active users rose 70% to over 100 million in Q3, while AI-first ARR grew over 150% to $650 million.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:09:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:22:15.736629+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:c6241f1a8af4b:0",
       "title": "Stabilus SE (STM) Extends CEO Contract Through September 2030",
       "url": "https://www.tradingview.com/news/tradingview:c6241f1a8af4b:0-stabilus-se-stm-extends-ceo-contract-through-september-2030/",
@@ -16520,6 +16577,25 @@
       "published_at": "2026-11-27T02:01:16+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T11:07:15.044415+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:63e4c42f84550ab1ede48666a1f7147f0fab9372",
+      "title": "Stock market : పెరుగుతున్న చమురు ధర- స్టాక్ మార్కెట్​ పరిస్థితేంటి? స్టాక్స్ టు బై లిస్ట్..",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f766a0ac4a91ac09e921cf54a3cf&url=https%3a%2f%2fwww.msn.com%2fte-in%2fnews%2fother%2fstock-market-%25E0%25B0%25AA%25E0%25B1%2586%25E0%25B0%25B0-%25E0%25B0%2597-%25E0%25B0%25A4-%25E0%25B0%25A8%25E0%25B1%258D%25E0%25B0%25A8-%25E0%25B0%259A%25E0%25B0%25AE-%25E0%25B0%25B0-%25E0%25B0%25A7%25E0%25B0%25B0-%25E0%25B0%25B8%25E0%25B1%258D%25E0%25B0%259F%25E0%25B0%25BE%25E0%25B0%2595%25E0%25B1%258D-%25E0%25B0%25AE%25E0%25B0%25BE%25E0%25B0%25B0%25E0%25B1%258D%25E0%25B0%2595%25E0%25B1%2586%25E0%25B0%259F%25E0%25B1%258D-%25E0%25B0%25AA%25E0%25B0%25B0%25E0%25B0%25BF%25E0%25B0%25B8%25E0%25B1%258D%25E0%25B0%25A5%25E0%25B0%25BF%25E0%25B0%25A4%25E0%25B1%2587-%25E0%25B0%259F%25E0%25B0%25BF-%25E0%25B0%25B8%25E0%25B1%258D%25E0%25B0%259F%25E0%25B0%25BE%25E0%25B0%2595%25E0%25B1%258D%25E0%25B0%25B8%25E0%25B1%258D-%25E0%25B0%259F-%25E0%25B0%25AC%25E0%25B1%2588-%25E0%25B0%25B2%25E0%25B0%25BF%25E0%25B0%25B8%25E0%25B1%258D%25E0%25B0%259F%25E0%25B1%258D%2far-AA2ijRXq&c=3661804482178586151&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "నవంబర్ 27, 2026 ట్రేడర్లు నేడు ట్రాక్​ చేయాల్సిన స్టాక్స్​ టు బై లిస్ట్​ని నిపుణులు వెల్లడించారు. వీటితో పాటు లేటెస్ట్​ స్టాక్​ మార్కెట్​ అప్డేట్స్, ముడి చమురు ధర వంటి వివరాలను ఇక్కడ తెలుసుకోండి..",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T02:01:16+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:22:15.736629+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -22047,6 +22123,25 @@
       "published_at": "2026-11-27T00:39:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T11:19:24.101142+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:5ed24f8371d76fd188e87d3448ed97ee4ca76b9f",
+      "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty falls 60 pts lower; EMS stocks in focus",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08f766a0ac4a91ac09e921cf54a3cf&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T11:22:15.736629+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
