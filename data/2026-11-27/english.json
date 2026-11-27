@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T15:40:23.714535+08:00",
-  "count": 1972,
+  "generated_at": "2026-11-27T15:43:17.395245+08:00",
+  "count": 1976,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 3,
       "error": ""
     },
     {
@@ -33,11 +33,30 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 35,
+      "count": 36,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://www.electronicpaymentsinternational.com/news/phonepe-resumes-ipo-plans-with-15bn-valuation-target-report/?.tsrc=rss",
+      "title": "PhonePe resumes IPO plans with $15bn valuation target- report",
+      "url": "https://www.electronicpaymentsinternational.com/news/phonepe-resumes-ipo-plans-with-15bn-valuation-target-report/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "PhonePe expected to submit updated draft documents to the SEBI within 30 to 45 days.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T15:40:36+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T15:43:13.522296+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN47803F:0",
       "title": "Transense Technologies On Track To Deliver FY27 Profits In Line With Market Expectations",
@@ -24514,6 +24533,25 @@
       "extra": {}
     },
     {
+      "id": "msn:6f628abb53050775cb7c31901fd027670afe9e76",
+      "title": "Stock Market Live Updates | Sensex tumbles over 650 points, Nifty below 25,700; IT, FMCG ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b093491ac0c45e18cda7a3784e8e610&url=https%3a%2f%2feconomictimes.indiatimes.com%2fmarkets%2fstocks%2flive-blog%2fbse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-share-price-27-november-2026%2fliveblog%2f136206762.cms&c=17461454488585503924&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "GIFT Nifty on the NSE IX trades lower, signalling that Dalal Street is set for a negative start on Friday as investors remain cautious ahead of the opening bell.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T07:33:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T15:43:15.778889+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026-11-26:newsml_AZN4TX572:0",
       "title": "Tokyo Nov core CPI rises 2.9% yr/yr",
       "url": "https://www.tradingview.com/news/reuters.com,2026-11-26:newsml_AZN4TX572:0-tokyo-nov-core-cpi-rises-2-9-yr-yr/",
@@ -29538,6 +29576,25 @@
       "published_at": "2026-11-27T05:01:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T15:40:21.599258+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:69563c40e496026fca38dc5e32fcfdf7f16e1149",
+      "title": "Is the stock market open today? Here are the trading hours for Black Friday.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b093491ac0c45e18cda7a3784e8e610&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-black-friday%2far-AA2iknKI&c=15349360073239060809&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A while lot of businesses are open on Black Friday but what about the stock market?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:01:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T15:43:15.778889+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -42271,6 +42328,25 @@
       "published_at": "2026-11-27T00:39:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T15:40:21.599258+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b273283e0d859b8dcb03316bdea0c85c915f596c",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty extends losses to 200 points; 36 stocks in ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b093491ac0c45e18cda7a3784e8e610&url=https%3a%2f%2fwww.cnbctv18.com%2fmarket%2fstock-market-live-updates-sensex-nifty-50-today-oil-nifty-bank-tata-motors-pv-igi-nse-bse-zydus-heg-mahanadi-share-price-liveblog-20042533.htm&c=585785489448561513&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nifty eyes a fifth straight weekly gain as bulls target a close above 25,800. Track live stock market updates, Sensex trends, and key levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T00:39:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T15:43:15.778889+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
