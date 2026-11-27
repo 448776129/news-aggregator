@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T06:28:18.013622+08:00",
-  "count": 104,
+  "generated_at": "2026-11-28T06:31:16.622662+08:00",
+  "count": 105,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 24,
+      "count": 25,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkaftxs5120131.shtml",
+      "title": "从一致看空到剧烈逼空 铝市动荡如何再次将LME推向危机边缘",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkaftxs5120131.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "1月初，全球铝市场开始出现历史罕见的供应紧张局面，伦敦金属交易所（LME）开始接到愈发急切的求助电话，恳请交易所出手干预。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T06:29:45+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T06:31:13.896880+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-28/doc-inkaftxr2790176.shtml",
       "title": "大宗商品综述：油价震荡 中东袭击事件增多 铜和金均随科技股升",
