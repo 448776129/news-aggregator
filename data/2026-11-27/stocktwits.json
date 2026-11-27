@@ -3,8 +3,8 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T19:46:17.981118+08:00",
-  "count": 206,
+  "generated_at": "2026-11-27T19:52:17.888356+08:00",
+  "count": 207,
   "sources": [
     {
       "name": "stocktwits",
@@ -14,6 +14,30 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670273361",
+      "title": "$TSLA $350 today",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "Jbaer45",
+      "summary": "$TSLA $350 today",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:50:42+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:11.453278+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": "Bearish",
+        "symbols": [
+          "TSLA"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670273180",
       "title": "$TSLA seems like who gets blamed was decided in advance. robots, autonomy, ai, every miss gets a new label, and the valu",

@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T19:49:24.633107+08:00",
-  "count": 3551,
+  "generated_at": "2026-11-27T19:52:17.819664+08:00",
+  "count": 3580,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 7,
       "error": ""
     },
     {
@@ -38,6 +38,421 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780BO:0",
+      "title": "South African retailer SPAR flags up to 50% drop in annual earnings",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4780BO:0-south-african-retailer-spar-flags-up-to-50-drop-in-annual-earnings/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:51:40+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "JSE:SPP",
+          "OTC:SGRP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47804W:0",
+      "title": "Pharma Equity Group To Issue Convertible Loans",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47804W:0-pharma-equity-group-to-issue-convertible-loans/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:51:13+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:PEG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002348:0",
+      "title": "Lundbeck, Top Antidepressant Maker, Weighs Move Into Psychedelics — Interview",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002348:0-lundbeck-top-antidepressant-maker-weighs-move-into-psychedelics-interview/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:51:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:HLUN_A"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002362:0",
+      "title": "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed's December Rate Decision",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002362:0-week-ahead-for-fx-bonds-key-labor-data-in-focus-ahead-of-fed-s-december-rate-decision/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:51:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSE:8301",
+          "TSX:NA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N4780PB:0",
+      "title": "Tata Sons' shareholder charities seek to halt board meeting in fight over chairman's reelection",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4780PB:0-tata-sons-shareholder-charities-seek-to-halt-board-meeting-in-fight-over-chairman-s-reelection/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:50:36+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002348_20261127002348:0",
+      "title": "Danish Drugmaker Lundbeck Is Exploring Deals in Psychedelics, CEO Says",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002348_20261127002348:0-danish-drugmaker-lundbeck-is-exploring-deals-in-psychedelics-ceo-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:50:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:HLUN_A"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002348_20261127002350:0",
+      "title": "Lundbeck Looking for Deals to Bolster Areas Where It Has Know-How, CEO Says",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002348_20261127002350:0-lundbeck-looking-for-deals-to-bolster-areas-where-it-has-know-how-ceo-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:50:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:HLUN_A"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002348_20261127002349:0",
+      "title": "Lundbeck in Active Conversations Regarding Psychedelic Therapies, CEO Says",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002348_20261127002349:0-lundbeck-in-active-conversations-regarding-psychedelic-therapies-ceo-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:50:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:HLUN_A"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:urn:summary_document_report:quartr.com:3696482:0",
+      "title": "CORS: Advertising trends improved, but FY26 revenue fell 15% and free cash flow was negative $47.7M",
+      "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3696482:0-cors-advertising-trends-improved-but-fy26-revenue-fell-15-and-free-cash-flow-was-negative-47-7m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Quartr",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:49:57+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:CORS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002320_20261127002330:0",
+      "title": "Deutsche Boerse: Acquisition Remains Subject to Receipt of Further Clearances",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002320_20261127002330:0-deutsche-boerse-acquisition-remains-subject-to-receipt-of-further-clearances/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:49:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:ALLFG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002320_20261127002326:0",
+      "title": "Deutsche Boerse: Completion of Acquisition Now Expected in 1Q 2027",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002320_20261127002326:0-deutsche-boerse-completion-of-acquisition-now-expected-in-1q-2027/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:48:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:ALLFG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002320_20261127002323:0",
+      "title": "Deutsche Boerse Sees Allfunds Acquisition Completed in 1Q",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002320_20261127002323:0-deutsche-boerse-sees-allfunds-acquisition-completed-in-1q/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:47:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:DB1"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N478099:0",
+      "title": "Copper sweeps higher as China offers stock market support",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N478099:0-copper-sweeps-higher-as-china-offers-stock-market-support/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:46:32+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LME:CA1!",
+          "MYX:FTIN1!",
+          "LME:AH1!",
+          "COMEX:ZNC1!",
+          "MCX:NICKEL1!",
+          "MCX:LEAD1!",
+          "COMEX:HG1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4780J5:0",
+      "title": "Snaring Imperial will take a fair degree of puff",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4780J5:0-snaring-imperial-will-take-a-fair-degree-of-puff/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:46:29+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:IMB",
+          "NYSE:MO",
+          "TSE:2914"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:3f60f0943273f:0",
+      "title": "Pound Rises Against Majors",
+      "url": "https://www.tradingview.com/news/dpa_afx:3f60f0943273f:0-pound-rises-against-majors/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:46:08+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002320_20261127002321:0",
+      "title": "EU Approves Deutsche Boerse's Allfunds Acquisition Unconditionally",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002320_20261127002321:0-eu-approves-deutsche-boerse-s-allfunds-acquisition-unconditionally/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:46:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:ALLFG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUCNKX5Q:0",
+      "title": "Deutsche Boerse: Receives Unconditional Clearance Of Allfunds Acquisition From EU Commission",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUCNKX5Q:0-deutsche-boerse-receives-unconditional-clearance-of-allfunds-acquisition-from-eu-commission/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:45:53+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:DB1",
+          "EURONEXT:ALLFG"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261127002311:0",
       "title": "Major Canadian Economic Indicators Expected This Week",
@@ -81,6 +496,30 @@
         "urgency": 2,
         "symbols": [
           "TSX:RSI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127002320_20261127002320:0",
+      "title": "EU Approves Deutsche Boerse's Acquisition of Allfunds",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127002320_20261127002320:0-eu-approves-deutsche-boerse-s-acquisition-of-allfunds/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:45:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:ALLFG"
         ]
       }
     },
@@ -133,6 +572,32 @@
       }
     },
     {
+      "id": "tradingview:seekingalpha:d70c048e3094b:0",
+      "title": "Top energy stocks in November: EagleRock Land, Range Resources, Excelerate Energy",
+      "url": "https://seekingalpha.com/news/4676990-top-energy-stocks-in-november-eaglerock-land-range-resources-excelerate-energy?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:43:11+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:EROK",
+          "NYSE:RRC",
+          "NYSE:EE"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780UK:0",
       "title": "Oneconstruction Group Ltd CFO Hau Wai Tsang Resigns - SEC Filing",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4780UK:0-oneconstruction-group-ltd-cfo-hau-wai-tsang-resigns-sec-filing/",
@@ -176,6 +641,79 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:seekingalpha:64179e410094b:0",
+      "title": "F4 Uranium to raise up to C$1.5M via flow-through financing",
+      "url": "https://seekingalpha.com/news/4676991-f4-uranium-to-raise-up-to-c15m-via-flow-through-financing?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:42:20+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OTC:FFUCF",
+          "TSXV:FFU"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:d7d063f61db1f:0",
+      "title": "Pharma Equity Group A/S (PEG) Approves DKK 6.3M Convertible Loans",
+      "url": "https://www.tradingview.com/news/tradingview:d7d063f61db1f:0-pharma-equity-group-a-s-peg-approves-dkk-6-3m-convertible-loans/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:42:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:PEG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:1d445f0d3094b:0",
+      "title": "The Board of Directors' resolution on the issuance of convertible loans",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411156/0/en/the-board-of-directors-resolution-on-the-issuance-of-convertible-loans.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T19:42:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:12.126630+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXCOP:PEG"
+        ]
       }
     },
     {
@@ -45252,6 +45790,25 @@
       "extra": {}
     },
     {
+      "id": "msn:8e1e0d17e57bf32d8a21c836d4a6fb9d00f4d08e",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures gain as AI jitters steady",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096eec1de94af2bad95bf217b16174&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2flive%2fstock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html&c=6717116993747436823&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Futures on the Dow Jones Industrial Average ( YM=F) rose 1%, while those on the S&P 500 ( ES=F) added 2%. Contracts for the Nasdaq-100 ( NQ=F) jumped 2.8% after markets were closed for the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T11:00:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:14.050081+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261126004413:0",
       "title": "Korean Won Poised to Strengthen Against Dollar in 2027 — Market Talk",
       "url": "https://www.tradingview.com/news/DJN_DN20261126004413:0-korean-won-poised-to-strengthen-against-dollar-in-2027-market-talk/",
@@ -46026,6 +46583,25 @@
       "published_at": "2026-11-27T10:30:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T19:19:16.393977+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0fe726658304b500d8590195fcd77da16e1758d4",
+      "title": "Trump can't rescue the stock market. Here's what can.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096eec1de94af2bad95bf217b16174&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2ftrump-cant-rescue-the-stock-market-heres-what-can%2far-AA2ildOj&c=9211609296449915281&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The president tried to arrest the stock market’s decline by engineering Jensen Huang’s return to Nvidia. To find a bottom, something more fundamental needs to shift.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:14.050081+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -47345,6 +47921,25 @@
       "published_at": "2026-11-27T10:02:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T19:25:22.491711+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:ba0b10f2088a4c9fabde5c943887c0db22fbb335",
+      "title": "How to Live Calmly, Despite Stock Market Whiplash",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096eec1de94af2bad95bf217b16174&url=https%3a%2f%2fwww.nytimes.com%2f2026%2f11%2f27%2fbusiness%2fnvidia-jensen-huang-trump-markets.html&c=4301162802463646542&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nvidia has been down, up, and down again, and the market has followed. But there’s no need for long-term, diversified investors to alter their course, our columnist says.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:02:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:14.050081+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -53269,6 +53864,25 @@
       "extra": {}
     },
     {
+      "id": "msn:041e050f37219e6ea1e8ec9cb4cfd193d81798be",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to rally ahead of shortened Black Friday ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096eec1de94af2bad95bf217b16174&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-thanksgiving-holiday-shortened-black-friday-trading&c=8147742822321622525&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Friday here ahead of the the New York Stock Exchange and Nasdaq closing early.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:37:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:14.050081+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:cointelegraph:65d5e148f094b:0",
       "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
       "url": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
@@ -54868,6 +55482,25 @@
       "published_at": "2026-11-27T08:11:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T19:40:16.186009+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:7dffe30195775264c1320bc9fedf47f1bc7e760a",
+      "title": "UCB (ENXTBR:UCB) Stock Looks About Right For Its Earnings Outlook",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096eec8af04160a529aae5892d166f&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fucb-enxtbr-ucb-stock-looks-081108061.html&c=7609984302821547802&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "UCB has delivered strong multi year gains, so the obvious question for anyone looking at the stock today is whether the current market value lines up with what its earnings can reasonably support.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T08:11:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:14.050081+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
@@ -60233,6 +60866,25 @@
       "extra": {}
     },
     {
+      "id": "msn:29be5f992bec5b914cd79def4d0e59ab850faa95",
+      "title": "Is Yara International (OB:YAR) Still A Bargain On Earnings?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096eec8af04160a529aae5892d166f&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fyara-international-ob-yar-still-061400912.html&c=5560035152386098530&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Yara International has delivered a total return of 18.4% over the past 5 years, which naturally puts the spotlight on whether that journey is supported by the profits the business is generating today.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T06:14:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:14.050081+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4770QU:0",
       "title": "Japan's JERA enters talks with Anthropic, Meta to build data centres, Nikkei reports",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4770QU:0-japan-s-jera-enters-talks-with-anthropic-meta-to-build-data-centres-nikkei-reports/",
@@ -64002,6 +64654,25 @@
       "published_at": "2026-11-27T05:01:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-27T19:49:22.028555+08:00",
+      "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:3a34976979bfd18b96f8b06d242ab6cf9c1af5c2",
+      "title": "Is the stock market open today? Here are the trading hours for Black Friday.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b096eec1de94af2bad95bf217b16174&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-black-friday%2far-AA2iknKI&c=15349360073239060809&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A while lot of businesses are open on Black Friday but what about the stock market?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T05:01:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-27T19:52:14.050081+08:00",
       "crawl_date": "2026-11-27",
       "lang": "en",
       "category": "english",
