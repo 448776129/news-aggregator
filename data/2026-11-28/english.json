@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T09:10:17.405974+08:00",
-  "count": 798,
+  "generated_at": "2026-11-28T09:13:19.841763+08:00",
+  "count": 800,
   "sources": [
     {
       "name": "alpaca",
@@ -639,6 +639,30 @@
       }
     },
     {
+      "id": "tradingview:tradingview:b1673f7db21d9:0",
+      "title": "Custom Health Holdings Inc. (CHLT) Amends Note at 17% Interest, Up to US$15.0M",
+      "url": "https://www.tradingview.com/news/tradingview:b1673f7db21d9:0-custom-health-holdings-inc-chlt-amends-note-at-17-interest-up-to-us-15-0m/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:01:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T09:13:15.504658+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:CHLT"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47504M:0",
       "title": "China's premium puffer jacket push meets consumer resistance",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47504M:0-china-s-premium-puffer-jacket-push-meets-consumer-resistance/",
@@ -681,6 +705,25 @@
       "published_at": "2026-11-28T09:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T09:10:13.954072+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/27/3-reasons-i-might-buy-more-nvidia-in-december/?.tsrc=rss",
+      "title": "3 Reasons I Might Buy More Nvidia in December",
+      "url": "https://www.fool.com/investing/2026/11/27/3-reasons-i-might-buy-more-nvidia-in-december/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The stock is down nearly 30% over the past month, even as its fundamentals have only improved.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:58:50+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T09:13:15.464387+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
