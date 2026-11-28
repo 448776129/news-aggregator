@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T01:10:30.540101+08:00",
-  "count": 20,
+  "generated_at": "2026-11-29T01:16:22.436349+08:00",
+  "count": 22,
   "sources": [
     {
       "name": "alpaca",
@@ -27,7 +27,7 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 15,
+      "count": 17,
       "error": ""
     },
     {
@@ -38,6 +38,47 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:seekingalpha:ed20a24a2094b:0",
+      "title": "Real estate stocks jump amid broader market optimism",
+      "url": "https://seekingalpha.com/news/4677109-real-estate-stocks-jump-amid-broader-market-optimism?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T01:00:59+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T01:16:17.400338+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "AMEX:XLRE",
+          "NASDAQ:CSGP",
+          "NYSE:DOC",
+          "NYSE:IRM",
+          "NYSE:DLR",
+          "NASDAQ:EQIX",
+          "NYSE:COLD",
+          "NYSE:CWK",
+          "NASDAQ:AGNT",
+          "NASDAQ:HBNB",
+          "NYSE:MPT",
+          "NASDAQ:OPEN",
+          "NYSE:BXDC",
+          "AMEX:ESBA",
+          "NASDAQ:SRET",
+          "NASDAQ:KBWY",
+          "NASDAQ:DTCR",
+          "NASDAQ:REIT"
+        ]
+      }
+    },
     {
       "id": "tradingview:DJN_DN20261128000774:0",
       "title": "Smartglasses Are Coming to Work. Is Your Office Ready? — WSJ",
@@ -504,6 +545,31 @@
       "extra": {
         "urgency": 2,
         "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:u_today:f5189a2b3094b:0",
+      "title": "'Huge for XRP': XRPL Exec Signals Utility Shift as Two Features Near Launch",
+      "url": "https://u.today/huge-for-xrp-xrpl-exec-signals-utility-shift-as-two-features-near-launch",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "U.Today",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:00:00+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T01:16:17.400338+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CAPITALCOM:AML",
+          "BITSTAMP:XRPUSD"
+        ]
       }
     }
   ]
