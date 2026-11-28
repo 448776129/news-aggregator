@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T15:37:20.874101+08:00",
-  "count": 189,
+  "generated_at": "2026-11-28T15:40:19.681803+08:00",
+  "count": 191,
   "sources": [
     {
       "name": "cls",
@@ -21,7 +21,7 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 41,
+      "count": 43,
       "error": ""
     }
   ],
@@ -120,6 +120,25 @@
       "published_at": "2026-11-28T15:11:08+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T15:13:15.824819+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/jjxw/2026-11-28/doc-inkahkvk4989682.shtml",
+      "title": "《黑神话：悟空》制作人长文刷屏：AI加剧内容产业分化，腰部生存更难了",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-28/doc-inkahkvk4989682.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "一财网",
+      "summary": "《黑神话：悟空》制作人、游戏科学创始人冯骥近日发表的一篇文章在社交媒体刷屏，在这篇8000字左右的长文中，他谈及后AI时代最重要的问题，内容产业的两极分化...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:09:15+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:40:16.333103+08:00",
       "crawl_date": "2026-11-28",
       "lang": "zh",
       "category": "finance",
@@ -246,6 +265,25 @@
       "extra": {
         "important": 0
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/wm/2026-11-28/doc-inkahrcf2534869.shtml",
+      "title": "OpenAI，起诉苹果窃密",
+      "url": "https://finance.sina.com.cn/wm/2026-11-28/doc-inkahrcf2534869.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "滚动播报",
+      "summary": "财联社 周五，OpenAI起诉苹果，称苹果窃取OpenAI的商业机密，并阻止硬件供应商参与OpenAI未来的设备研发。 苹果公司于7月起诉OpenAI及其前员工Tang Tan和Chang Liu...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:50:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:40:16.333103+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "jin10:20261128143715026800",
