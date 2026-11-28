@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T15:43:17.666342+08:00",
-  "count": 972,
+  "generated_at": "2026-11-28T15:46:17.627493+08:00",
+  "count": 974,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -60,6 +60,28 @@
         "symbols": [
           "COINBASE:SOLUSD"
         ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:f725f6855094b:0",
+      "title": "'There is a need to deepen the F&O market': SEBI chairman Tuhin Pandey exclusive",
+      "url": "https://www.tradingview.com/news/cnbctv:f725f6855094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:33:04+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:46:14.540944+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -5359,6 +5381,25 @@
       "published_at": "2026-11-28T06:56:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T15:43:16.688506+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:76c40cc2d96606cc48991c16acf13fd58886dd62",
+      "title": "Stock Market: This Defence Stock Turns Multibagger In 2026, Jumps 200%: Do You Own?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a86c6d5f2458bb7df7ed71ce8365d&url=https%3a%2f%2fwww.ndtv.com%2fbusiness-news%2fstock-market-news-this-defence-stock-turns-multibagger-in-2026-jumps-200-do-you-own-12388089&c=1178085241897707777&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Raymond shares have gained over 135 per cent in the past six months and more than 20 per cent in the last one month.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T06:56:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:46:16.407651+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",

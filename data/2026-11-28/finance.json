@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T15:43:17.679906+08:00",
-  "count": 191,
+  "generated_at": "2026-11-28T15:46:17.644996+08:00",
+  "count": 192,
   "sources": [
     {
       "name": "cls",
@@ -21,7 +21,7 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 42,
+      "count": 43,
       "error": ""
     }
   ],
@@ -595,6 +595,25 @@
       "extra": {
         "important": 0
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/wm/2026-11-28/doc-inkahkvc0573825.shtml",
+      "title": "国际油价暗盘大跌，比特币跌破6万美元，伊朗：两艘油轮在霍尔木兹海峡发生爆炸",
+      "url": "https://finance.sina.com.cn/wm/2026-11-28/doc-inkahkvc0573825.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "21世纪经济报道",
+      "summary": "据21财经雷达，北京时间11月28日午间，国际油价、金价暗盘跌幅扩大。截至发稿，布油暗盘跌超1.8%，美油暗盘跌近3%。 比特币跌幅扩大至3%，再度跌破6万美元...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T13:27:21+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:46:15.886818+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "jin10:20261128132329859800",
