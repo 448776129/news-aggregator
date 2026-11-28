@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T12:10:21.509993+08:00",
-  "count": 843,
+  "generated_at": "2026-11-28T12:19:18.559768+08:00",
+  "count": 844,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "error": ""
     },
     {
@@ -8217,6 +8217,25 @@
       "published_at": "2026-11-28T04:13:53+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T08:07:12.430468+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:3afb76e3514bcd8c1c60221aa9371f529d072809",
+      "title": "Upcoming stock split, bonus issue record dates next week, Nov 30-Dec 4: Tech Mahindra ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a5642ea7d49dcb3fc958a6bac8b3a&url=https%3a%2f%2fwww.livemint.com%2fmarket%2fstock-market-news%2fupcoming-stock-split-bonus-issue-record-dates-next-week-nov-30-dec-4-tech-mahindra-indus-finance-interarch-beeyu-11795837936736.html&c=7422011348744682750&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Investors will track several corporate actions from November 30 to December 4: Tech Mahindra’s 1:1 bonus issue, Indus Finance’s 5:9 bonus issue, Interarch Building Solutions’ 1:5 stock split and Beeyu ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T04:12:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T12:19:16.696299+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
