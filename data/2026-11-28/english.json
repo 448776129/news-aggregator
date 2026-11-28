@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T13:22:18.647772+08:00",
-  "count": 865,
+  "generated_at": "2026-11-28T13:31:17.947670+08:00",
+  "count": 866,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,30 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 37,
+      "count": 38,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/28/the-first-ai-stock-i-plan-to-buy-in-2027/?.tsrc=rss",
+      "title": "The First AI Stock I Plan to Buy in 2027",
+      "url": "https://www.fool.com/investing/2026/11/28/the-first-ai-stock-i-plan-to-buy-in-2027/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Investors should still be considering the world's most popular AI stock.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T13:20:02+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T13:31:14.056970+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:stocktwits:b32fee322094b:0",
       "title": "Coinbase CEO Brian Armstrong Scales Back Bitcoin Prediction, Still Sees Nearly 7x Upside By 2030",
