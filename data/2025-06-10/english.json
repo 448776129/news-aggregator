@@ -1,0 +1,61 @@
+{
+  "date": "2025-06-10",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-28T17:22:21.155560+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:7557ee6ed2a84bc6c4895308c5e98ac82a02429f",
+      "title": "What Does Stock Market Volatility Mean?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a9d49d28942cebce3aea86d5cf4cf&url=https%3a%2f%2fwww.fool.com%2fterms%2fs%2fstock-market-volatility%2f&c=7339835364639458181&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The stock market was \"volatile\" in the early days of the COVID-19 pandemic. It was \"volatile\" again, to a lesser degree, ahead of the 2020 U.S. presidential election. Maybe you've heard about the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2025-06-10T08:01:00+08:00",
+      "published_date": "2025-06-10",
+      "fetched_at": "2026-11-28T17:22:19.818272+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
