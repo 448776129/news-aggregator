@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T14:01:18.361692+08:00",
-  "count": 167,
+  "generated_at": "2026-11-28T14:04:19.042991+08:00",
+  "count": 170,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 35,
+      "count": 36,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/world/2026-11-28/doc-inkahkvc0583829.shtml",
+      "title": "英国首相伯纳姆的欧洲政策框架仍在酝酿 脱欧阵营对手伺机而动",
+      "url": "https://finance.sina.com.cn/world/2026-11-28/doc-inkahkvc0583829.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "英国首相安迪·伯纳姆本周表态，英国想要重新加入欧盟，就必须再次举行公投，而这番表态甚至让他手下的大臣与政府官员都倍感意外。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:02:52+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:04:13.798817+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "sina:https://finance.sina.com.cn/world/2026-11-28/doc-inkahkvk4952096.shtml",
       "title": "韩总统李在明：将打造亚洲最大的AI基础设施",
@@ -44,6 +63,48 @@
       "lang": "zh",
       "category": "finance",
       "extra": {}
+    },
+    {
+      "id": "jin10:20261128135721534800",
+      "title": "美国环境保护局：首批实验室结果表明，美国陆军在艾奥瓦州陆军弹药厂进行的受控引爆未导致水体中铅含量升高，所采集的饮用水源中未检测到铅。",
+      "url": "https://www.jin10.com/#/flash/20261128135721534800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "美国环境保护局：首批实验室结果表明，美国陆军在艾奥瓦州陆军弹药厂进行的受控引爆未导致水体中铅含量升高，所采集的饮用水源中未检测到铅。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T13:57:21+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:04:12.677797+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
+    {
+      "id": "jin10:20261128135600384800",
+      "title": "巴基斯坦总理和国防军司令兼陆军参谋长同正在中国空间站执行任务的巴方航天员天地通话。",
+      "url": "https://www.jin10.com/#/flash/20261128135600384800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "央视新闻",
+      "summary": "巴基斯坦总理和国防军司令兼陆军参谋长同正在中国空间站执行任务的巴方航天员天地通话。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T13:56:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:04:12.677797+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
     },
     {
       "id": "jin10:20261128134929304800",
