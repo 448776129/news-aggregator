@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T00:25:26.407877+08:00",
-  "count": 10,
+  "generated_at": "2026-11-29T00:34:21.375952+08:00",
+  "count": 11,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,30 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/28/fantastic-news-for-spacex-stock-investors/?.tsrc=rss",
+      "title": "Fantastic News for SpaceX Stock Investors!",
+      "url": "https://www.fool.com/investing/2026/11/28/fantastic-news-for-spacex-stock-investors/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The FCC just handed SpaceX a first-of-its-kind authorization.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:21:02+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:34:16.349266+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:moodys:448bd084b8b90:0",
       "title": "Simply Put: Minority Shareholder Rights",
