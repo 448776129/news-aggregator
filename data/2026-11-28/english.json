@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T15:04:18.674295+08:00",
-  "count": 921,
+  "generated_at": "2026-11-28T15:07:21.616095+08:00",
+  "count": 925,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 0,
+      "count": 3,
       "error": ""
     },
     {
@@ -710,6 +710,32 @@
           "NASDAQ:NVDA",
           "NSE:APLAPOLLO",
           "NSE:TATASTEEL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:beincrypto:87511125f094b:0",
+      "title": "Trump-Backed WLFI Falls 50% as World Liberty Dumps Ethereum at a $19M Loss",
+      "url": "https://beincrypto.com/wlfi-crashes-world-liberty-sells-ethereum/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Beincrypto",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:05:18+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:07:17.413338+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:ETHUSD",
+          "COINBASE:WLFIUSD",
+          "CRYPTO:USD1WUSD"
         ]
       }
     },
@@ -4467,6 +4493,25 @@
       }
     },
     {
+      "id": "msn:02c334e9a83faaee77400687aabbd4c4d932d1c7",
+      "title": "Stock Market: This Defence Stock Turns Multibagger In 2026, Jumps 200%: Do You Own?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a7da51b394f9184c20b238830aff6&url=https%3a%2f%2fwww.ndtv.com%2fbusiness-news%2fstock-market-news-this-defence-stock-turns-multibagger-in-2026-jumps-200-do-you-own-12388089&c=1178085241897707777&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Raymond shares have gained over 135 per cent in the past six months and more than 20 per cent in the last one month.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T06:56:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:07:19.291514+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:a91f48a5c9e99:0",
       "title": "Theralase Technologies Inc. (TLT) Reports 60.4% Complete Response Rate in Phase II Study",
       "url": "https://www.tradingview.com/news/tradingview:a91f48a5c9e99:0-theralase-technologies-inc-tlt-reports-60-4-complete-response-rate-in-phase-ii-study/",
@@ -5436,6 +5481,25 @@
       "published_at": "2026-11-28T06:13:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T14:49:21.588082+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:a599564e684bf60e3ac46bbd61cd24bf5ca4e699",
+      "title": "Is Afcon Holdings (TASE:AFHL) Too Expensive To Trust Its Earnings?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a7da5311a4dfcbb33656623217af2&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fafcon-holdings-tase-afhl-too-061327226.html&c=6368275658776269831&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Afcon Holdings has delivered a powerful share price run in recent years, so the obvious question now is whether the current valuation still lines up with the earnings that support it. Over the past 3 ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T06:13:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:07:19.291514+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -7885,6 +7949,25 @@
       "published_at": "2026-11-28T05:14:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T15:01:23.422044+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:5c1c67ea49261927dc4dcc55441bdac1be9fb177",
+      "title": "Hinge Health (HNGE) Stock Trades Above Fair Value On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a7da5311a4dfcbb33656623217af2&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fhinge-health-hnge-stock-trades-051528661.html&c=11750597560096836354&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Hinge Health has been one of the stronger movers in digital health this year, and the share price run puts a sharp spotlight on what investors are actually paying for its earnings. With the stock now ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:14:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:07:19.291514+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
