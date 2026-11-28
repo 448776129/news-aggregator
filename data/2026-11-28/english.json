@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T11:49:21.886068+08:00",
-  "count": 837,
+  "generated_at": "2026-11-28T12:01:19.910904+08:00",
+  "count": 841,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,102 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:stocktwits:bd13a03a3094b:0",
+      "title": "Chamath Palihapitiya Warns AI’s ‘Alien Mathematics’ Could Break Bitcoin As AI Tackles 167-Year-Old Riemann Hypothesis",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/chamath-palihapitiya-ai-alien-mathematics-bitcoin-riemann-hypothesis/cNRRnyYR9VN",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T12:00:03+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T12:01:15.576080+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N479009:0",
+      "title": "United Fidelity Bank shut in biggest US bank failure in 2 years, First Citizens buys assets",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N479009:0-united-fidelity-bank-shut-in-biggest-us-bank-failure-in-2-years-first-citizens-buys-assets/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T11:55:38+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T12:01:15.576080+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:FCNCA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moneycontrol:797bcbe9b094b:0",
+      "title": "SBI plans to raise MSME loan limit 10-fold to Rs 50 crore by March 2027",
+      "url": "https://www.tradingview.com/news/moneycontrol:797bcbe9b094b:0-sbi-plans-to-raise-msme-loan-limit-10-fold-to-rs-50-crore-by-march-2027/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T11:55:02+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T12:01:15.576080+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:SBIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:acceswire:382c6a0d2094b:0",
+      "title": "BEACN Announces Financial Results for the Third Quarter of 2026",
+      "url": "https://www.accessnewswire.com/newsroom/en/electronics-and-engineering/beacn-announces-financial-results-for-the-third-quarter-of-2026-1436848",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "ACCESS Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T11:55:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T12:01:15.576080+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSXV:BECN"
+        ]
+      }
+    },
     {
       "id": "yahoo:https://finance.yahoo.com/technology/articles/recent-outages-bad-software-033947446.html?.tsrc=rss",
       "title": "Are recent outages bad for software?",
