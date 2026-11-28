@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T02:19:21.562209+08:00",
-  "count": 39,
+  "generated_at": "2026-11-29T02:25:24.095557+08:00",
+  "count": 40,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,30 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 11,
+      "count": 12,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/28/2-stocks-to-buy-in-the-ai-chip-stock-sell-off-and-hold-for-5-years/?.tsrc=rss",
+      "title": "2 Stocks to Buy in the AI Chip Stock Sell-Off and Hold for 5 Years",
+      "url": "https://www.fool.com/investing/2026/11/28/2-stocks-to-buy-in-the-ai-chip-stock-sell-off-and-hold-for-5-years/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The sell-off has dragged down two leaders with years of growth still ahead.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T02:20:02+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T02:25:17.488714+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:business_wire:a84caf079d29d:0",
       "title": "Sensormatic Solutions ShopperTrak Analytics Data Indicates Intentional Shopping Shaped Black Friday 2026 in the U.S.",
