@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T23:22:27.039429+08:00",
-  "count": 12896,
+  "generated_at": "2026-11-28T23:25:21.027559+08:00",
+  "count": 12898,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "error": ""
     },
     {
@@ -141657,6 +141657,25 @@
       "extra": {}
     },
     {
+      "id": "msn:06473c115c320a838f4bb7925a85019a0ed6fd89",
+      "title": "Is the Stock Market Open on Thanksgiving Day 2026?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0af25c978a448f9af4272b2d22254e&url=https%3a%2f%2fwww.newsweek.com%2fstock-market-thanksgiving-2026-12761725&c=5194482333637650025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "U.S. stock markets will close for Thanksgiving 2026, with the NYSE and Nasdaq reopening for shorter hours on Friday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:00:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-28T23:25:19.058128+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L3N4760Q1:0",
       "title": "Wistron's Unit Wiwynn Buys Equipment From Air Matrix For $24.4 Mln",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N4760Q1:0-wistron-s-unit-wiwynn-buys-equipment-from-air-matrix-for-24-4-mln/",
@@ -229001,6 +229020,25 @@
       "published_at": "2026-11-25T08:32:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-28T23:19:17.016170+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:4cf1840f55966c9813a5af690d3bee4bad08c322",
+      "title": "Stock Market Today: Dow erases losses, S&P 500 and Nasdaq pare losses as tech selling eases ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0af25c978a448f9af4272b2d22254e&url=https%3a%2f%2fwww.marketwatch.com%2flivecoverage%2fstock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia&c=9558319776707145456&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Follow all the latest U.S. market action for Wednesday here ahead of October's personal consumption expenditures price index.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T08:32:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-28T23:25:19.058128+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
