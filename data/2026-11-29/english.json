@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T00:04:22.686435+08:00",
-  "count": 6,
+  "generated_at": "2026-11-29T00:07:21.555402+08:00",
+  "count": 7,
   "sources": [
     {
       "name": "alpaca",
@@ -27,7 +27,7 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 6,
+      "count": 7,
       "error": ""
     },
     {
@@ -38,6 +38,39 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:seekingalpha:3bebd27f0094b:0",
+      "title": "Insider Trades: Palantir, Walmart, Home Depot among notable names",
+      "url": "https://seekingalpha.com/news/4677103-insider-trades-palantir-walmart-home-depot-among-notable-names?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:03:28+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:07:16.055603+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:PLTR",
+          "NYSE:O",
+          "NYSE:CVX",
+          "NASDAQ:WMT",
+          "NYSE:HD",
+          "NASDAQ:EXE",
+          "NYSE:CTVA",
+          "NYSE:WMB",
+          "NYSE:HTGC",
+          "NASDAQ:WKHS"
+        ]
+      }
+    },
     {
       "id": "tradingview:moodys:e084b9e518e36:0",
       "title": "Honda Ties Up With Four Firms Ahead Of Alpha EV Launch",
