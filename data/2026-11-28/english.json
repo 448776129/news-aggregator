@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T07:55:29.832302+08:00",
-  "count": 734,
+  "generated_at": "2026-11-28T08:01:17.192880+08:00",
+  "count": 738,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,100 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N4780KY:0",
+      "title": "US Black Friday online sales to cross $13 billion, Adobe says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4780KY:0-us-black-friday-online-sales-to-cross-13-billion-adobe-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:00:45+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:01:13.805028+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ADBE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:8b65a925ebe97:0",
+      "title": "American Salars (USLI) to Settle $210K Debt With Equity",
+      "url": "https://www.tradingview.com/news/tradingview:8b65a925ebe97:0-american-salars-usli-to-settle-210k-debt-with-equity/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:00:06+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:01:13.805028+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:USLI"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026-11-28:newsml_Tnw5qwdmT:0",
+      "title": "American Salars Announces $210,000 Debt Settlement",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-11-28:newsml_Tnw5qwdmT:0-american-salars-announces-210-000-debt-settlement/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TheNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:00:06+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:01:13.805028+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127005319:0",
+      "title": "Citigroup's $35 Billion Bookkeeping Snafu Sparks Shake-Up in Upper Ranks — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127005319:0-citigroup-s-35-billion-bookkeeping-snafu-sparks-shake-up-in-upper-ranks-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:01:13.805028+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:C"
+        ]
+      }
+    },
     {
       "id": "tradingview:stocktwits:40cb5a01f094b:0",
       "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
