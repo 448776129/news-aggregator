@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T08:43:29.065124+08:00",
-  "count": 764,
+  "generated_at": "2026-11-28T08:46:19.728151+08:00",
+  "count": 765,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 34,
+      "count": 35,
       "error": ""
     }
   ],
@@ -109,6 +109,25 @@
           "NASDAQ:FCNCA"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/articles/2027-smartphone-market-outlook-apple-003322633.html?.tsrc=rss",
+      "title": "2027 smartphone market outlook: Apple to outperform as shipments fall 5%",
+      "url": "https://finance.yahoo.com/technology/articles/2027-smartphone-market-outlook-apple-003322633.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Investing.com -- Global smartphone shipments are expected to decline 5% in 2027 following a projected 14% contraction in 2026, with Apple (NASDAQ:AAPL) positioned to gain market share, according to Bernstein.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:33:22+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:46:14.915347+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/27/anthropic-s-best-customers-spend-20-times-more-than-the-rest-that-s-why-i-m-buying-the-stock/?.tsrc=rss",
