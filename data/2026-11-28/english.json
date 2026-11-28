@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T17:04:19.687536+08:00",
-  "count": 1138,
+  "generated_at": "2026-11-28T17:07:22.859218+08:00",
+  "count": 1150,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 8,
+      "count": 9,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 1,
       "error": ""
     },
     {
@@ -83,6 +83,32 @@
         "source": "fiscal.ai",
         "symbols": [
           "BIRD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L1N47900F:0",
+      "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N47900F:0-musk-says-google-is-interested-in-renting-more-computing-capacity-from-spacex/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T17:02:20+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T17:07:17.884739+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:GOOG",
+          "NASDAQ:SPCX",
+          "NASDAQ:NVDA"
         ]
       }
     },
@@ -588,6 +614,192 @@
         "symbols": [
           "KIE"
         ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:f8ba062bb094b:0",
+      "title": "ChainOpera AI: Supply unlock releases at least 11.25 million COAI - Aug 2027",
+      "url": "https://coinmarketcal.com/event/6-supply-unlock-acecc304-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T17:00:52+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T17:07:17.884739+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:COAICHUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:0d2ff0fc4094b:0",
+      "title": "ChainOpera AI: Supply unlock releases at least 11.25 million COAI - Jul 2027",
+      "url": "https://coinmarketcal.com/event/6-supply-unlock-6d2c4ffc-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T17:00:33+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T17:07:17.884739+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:COAICHUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:25575a86a094b:0",
+      "title": "ChainOpera AI: Unlocks at least 11.25 million COAI for advisors, investors and team - Jun 2027",
+      "url": "https://coinmarketcal.com/event/6-supply-unlock-b4ae1b22-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T17:00:14+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T17:07:17.884739+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:COAICHUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:newsbtc:cf85ea93c094b:0",
+      "title": "BlackRock Bitcoin ETF Loses $2.8 Billion in Eight Consecutive Trading Sessions",
+      "url": "https://www.newsbtc.com/bitcoin-news/blackrock-bitcoin-etf-outflows-november-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "NewsBTC",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:59:59+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T17:07:17.884739+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD",
+          "PYTH:IBIT"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://stocktwits.com/news-articles/markets/equity/gene-munster-ai-fundamentals-mistake-nvda-stock-rewarded/cNRRuDVR9Vy?.tsrc=rss",
+      "title": "Gene Munster Admits Focusing On AI Fundamentals Was A Mistake, But Believes Investors Buying NVDA Stock Now Could Be Rewarded",
+      "url": "https://stocktwits.com/news-articles/markets/equity/gene-munster-ai-fundamentals-mistake-nvda-stock-rewarded/cNRRuDVR9Vy?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Munster acknowledged that his own approach to the AI sell-off may have overlooked an important part of the market equation.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:59:40+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T17:07:17.684073+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:stocktwits:3506b1e84094b:0",
+      "title": "Gene Munster Admits Focusing On AI Fundamentals Was A Mistake, But Believes Investors Buying NVDA Stock Now Could Be Rewarded",
+      "url": "https://stocktwits.com/news-articles/markets/equity/gene-munster-ai-fundamentals-mistake-nvda-stock-rewarded/cNRRuDVR9Vy",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:59:40+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T17:07:17.884739+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:cb8ab1196094b:0",
+      "title": "E2E Networks bags ₹136 crore international order from AI foundation model developer",
+      "url": "https://www.tradingview.com/news/cnbctv:cb8ab1196094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:54:37+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T17:07:17.884739+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:E2E"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:e092f19a4094b:0",
+      "title": "Monthly Economic Review: Consumption & demand resilient, private investment broadening gradually",
+      "url": "https://www.tradingview.com/news/cnbctv:e092f19a4094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:51:16+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T17:07:17.884739+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
       }
     },
     {
@@ -2467,6 +2679,31 @@
       }
     },
     {
+      "id": "tradingview:financemagnates:3e44af719094b:0",
+      "title": "Weekly Recap: CMC Markets Profit More Than Doubles, Revenue Rises 54%; MetaQuotes Warns of DDoS Attacks",
+      "url": "https://www.financemagnates.com/forex/weekly-recap-cmc-markets-profit-more-than-doubles-revenue-rises-54-metaquotes-warns-of-ddos-attacks/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Finance Magnates",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T17:07:17.884739+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:CMCX",
+          "LSE:IGG"
+        ]
+      }
+    },
+    {
       "id": "tradingview:stocktwits:c3c1e6e03094b:0",
       "title": "There’s ‘A Tourist Element’ To Bitcoin, But True Believers Are Dug In At $60,000, Says Eric Balchunas",
       "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/there-s-a-tourist-element-to-bitcoin-but-true-believers-are-dug-in-at-60-000-says-eric-balchunas/cNRRtBxR9Vv",
@@ -3093,6 +3330,30 @@
           "NASDAQ:GOOG",
           "NASDAQ:SPCX"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8821574",
+      "title": "Iran's flogging of singer was warning from anxious hardliners, insiders say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHEwNVJXaUs1bXFUR0FoQUQ2TTJWNThDakwyUkMxZk41VlYwYUthWVdNck1vT3pIY1BZdjQ4S3RIOFZuUlRjRUZoRUxxTmRaOVI1ZjU2RURfVzJMSGo0RVpnZ29XTmlXeV9zbExvOWMwdEZ6a0ozQzBZNkhsQWpsamFrTnlLMUgwTnpHd2htUTdrRUw3a0F5V1lTUDI2dDRTbjQ1UjBObzdKUm50N2hfTHNzVE1hSDNGMng0?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Iran's flogging of singer was warning from anxious hardliners, insiders say Reuters",
+      "content": "Iran's flogging of singer was warning from anxious hardliners, insiders say Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:14:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T17:07:18.252030+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -6543,6 +6804,25 @@
       "published_at": "2026-11-28T08:20:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T17:04:16.721109+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:2967030946dbc3fe69c683542fa4277e478257be",
+      "title": "If A Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move You Can Make",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a99c5ea094111b92cb03a863dc317&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fstock-market-crash-coming-warren-082000641.html&c=5602532842286879625&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "This trend increases leverage and risk in the economy because debt must be repaid. It also generates interest expense, which can be a long-term drain on corporate profitability. This comes at a time ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:20:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T17:07:19.563058+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
