@@ -1,0 +1,61 @@
+{
+  "date": "2024-07-23",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-28T11:49:20.883236+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:9ca00e5aa330429ca07ed8f53ac5341e2c91161e",
+      "title": "Alphabet meets earnings expectations but misses on YouTube ad revenue",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a4f3fd877422f91bd0286185f2b62&url=https%3a%2f%2fwww.cnbc.com%2f2024%2f07%2f23%2falphabet-set-to-report-q2-earnings-results-after-the-bell.html&c=3079853542720204050&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Google parent company Alphabet reported earnings after the bell. Alphabet's revenue was up 14% year over year, driven by search as well as cloud, which surpassed $10 billion in quarterly revenues and ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2024-07-23T17:00:00+08:00",
+      "published_date": "2024-07-23",
+      "fetched_at": "2026-11-28T11:49:20.422653+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
