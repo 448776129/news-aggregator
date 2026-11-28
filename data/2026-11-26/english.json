@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T01:25:20.787544+08:00",
-  "count": 12135,
+  "generated_at": "2026-11-29T01:28:19.617993+08:00",
+  "count": 12137,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     },
     {
@@ -160224,6 +160224,25 @@
       "extra": {}
     },
     {
+      "id": "msn:63212d0345572b03939511c1ceefba1e9a446473",
+      "title": "Is the stock market open today? Here are the trading hours for Thanksgiving.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0b0f2f15624a61911196ae7b8cc5d2&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fis-the-stock-market-open-today-here-are-the-trading-hours-for-thanksgiving%2far-AA2ifPMA&c=15504855894997742158&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "It’s time to give thanks. What traders should know about the stock market on Thanksgiving.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T05:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-29T01:28:17.626146+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:seekingalpha:2e893931d094b:0",
       "title": "SA Asks: What should Nvidia investors be watching for in the next few weeks? (Update)",
       "url": "https://seekingalpha.com/news/4676388-sa-asks-what-should-nvidia-investors-be-watching-for-in-the-next-few-weeks?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
@@ -191973,6 +191992,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-29T01:22:25.724387+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:87d8875885be0d6c599117231e9811f29914aeec",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0b0f2f15624a61911196ae7b8cc5d2&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-29T01:28:17.626146+08:00",
       "crawl_date": "2026-11-29",
       "lang": "en",
       "category": "english",
