@@ -3,8 +3,8 @@
   "category": "reddit",
   "category_name": "Reddit 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T22:43:18.693971+08:00",
-  "count": 156,
+  "generated_at": "2026-11-28T22:55:20.750679+08:00",
+  "count": 157,
   "sources": [
     {
       "name": "reddit",
@@ -14,6 +14,29 @@
     }
   ],
   "items": [
+    {
+      "id": "reddit:1y7nud7",
+      "title": "Anyone had any luck building out their own options tracker/trading bot?",
+      "url": "https://www.reddit.com/r/stocks/comments/1y7nud7/anyone_had_any_luck_building_out_their_own/",
+      "source": "reddit",
+      "source_name": "Reddit",
+      "author": "DuckFonaldTrump69420",
+      "summary": "1. A+ Stealth Accumulation (ask-side fill, green 5m bar between 0% and +2%, before 2 PM ET) • 19 trades | +$8,279.50 realized P&L 2. Caution / Chasing Green (ask-side fill, but chasing a candle already up 2%+) • 18 trades | -$464.50 realized P&L I built a bot that alerts option flows to my discord and takes trades on some of the flows that I identified as better quality and so far it is up a good bit of money, but I did add 0dte flows on Mag 7 that made it take a hit. Right now I am still in the data collection territory to try to refine the trading bot, but the flow tracker is very nice to have and I even set it up to send alerts to my phone for free.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T22:51:49+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T22:55:19.539193+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "reddit",
+      "extra": {
+        "subreddit": "stocks",
+        "score": 0,
+        "num_comments": 0
+      }
+    },
     {
       "id": "reddit:1y7nls6",
       "title": "Largest U.S. bank failure in more than two years occurred yesterday",
