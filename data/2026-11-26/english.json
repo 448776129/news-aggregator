@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T09:22:18.038320+08:00",
-  "count": 11167,
+  "generated_at": "2026-11-28T09:25:19.385445+08:00",
+  "count": 11169,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 2,
       "error": ""
     },
     {
@@ -132674,6 +132674,25 @@
       "extra": {}
     },
     {
+      "id": "msn:http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a2d7be6344c078477beab37f96610&url=https%3a%2f%2fwww.cnbc.com%2fworld-economy%2f&c=11383359351768635123&mkt=en-us",
+      "title": "World Economy",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a2d7be6344c078477beab37f96610&url=https%3a%2f%2fwww.cnbc.com%2fworld-economy%2f&c=11383359351768635123&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox, and ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T07:08:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-28T09:25:17.653819+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261125008247:0",
       "title": "SpaceX Will Donate Shares to Trump Accounts — WSJ",
       "url": "https://www.tradingview.com/news/DJN_DN20261125008247:0-spacex-will-donate-shares-to-trump-accounts-wsj/",
@@ -219830,6 +219849,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-28T09:22:15.788757+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:f29c70c879a88a3695377886621e3a2d5c933bf3",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a2d7b0e47475ab08ac4d2c2eb72d9&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-28T09:25:17.653819+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
