@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T01:31:23.437749+08:00",
-  "count": 27,
+  "generated_at": "2026-11-29T01:40:27.642442+08:00",
+  "count": 30,
   "sources": [
     {
       "name": "alpaca",
@@ -27,17 +27,79 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 18,
+      "count": 19,
       "error": ""
     },
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 8,
+      "count": 9,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L1N47903M:0",
+      "title": "EU set to delay plug-in hybrid emissions rating update until 2030",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N47903M:0-eu-set-to-delay-plug-in-hybrid-emissions-rating-update-until-2030/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T01:39:34+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T01:40:22.656169+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:VOW"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/jensen-back-5-ai-stocks-173347195.html?.tsrc=rss",
+      "title": "Jensen Is Back: 5 AI Stocks Poised to Soar After Nvidia’s Shocking Reversal",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jensen-back-5-ai-stocks-173347195.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Jensen Huang’s return turned November 23 into a relief rally for the AI trade. The chipmaker he co-founded announced his reinstatement as chief executive, president, and director, reversing its leadership upheaval. Its shares finished 31.48% higher, while the S&P 500 gained 4.7%. The rebound spread well beyond one company, lifting businesses that supply the chips, […]",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T01:33:47+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T01:40:22.280801+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/jensen-back-10-ai-stocks-172943500.html?.tsrc=rss",
+      "title": "Jensen Is Back: These 10 AI Stocks Are Riding Nvidia’s Rebound",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jensen-back-10-ai-stocks-172943500.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Jensen Huang’s return turned November 23 into a relief rally for the AI trade. The chipmaker he co-founded announced his reinstatement as chief executive, president, and director, reversing its leadership upheaval. Its shares finished 31.48% higher, while the S&P 500 gained 4.7%. The rebound spread well beyond one company, lifting businesses that supply the chips, […]",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T01:29:43+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T01:40:22.280801+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:seekingalpha:f5e59fb62094b:0",
       "title": "Aschenbrenner’s Situational Awareness records 65% net loss in Q3",
