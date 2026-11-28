@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T09:34:21.687392+08:00",
-  "count": 803,
+  "generated_at": "2026-11-28T09:55:17.654292+08:00",
+  "count": 805,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,57 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47900A:0",
+      "title": "Soft red winter wheat basis bids decline",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47900A:0-soft-red-winter-wheat-basis-bids-decline/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:54:37+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T09:55:14.017152+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CBOT:ZW1!",
+          "CBOT:ZC1!",
+          "CBOT:ZS1!"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cryptobriefing:c7539dd83094b:0",
+      "title": "CryptoStar USA shuts down its last Bitcoin miners in Utah",
+      "url": "https://cryptobriefing.com/cryptostar-usa-shuts-down-bitcoin-miners/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:46:14+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T09:55:14.017152+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BINANCE:BTCUSDC",
+          "BITFLYER:BTCJPY"
+        ]
+      }
+    },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/27/apple-is-beating-the-rest-of-the-magnificent-seven-in-2026-can-it-do-it-again-in-2027/?.tsrc=rss",
       "title": "Apple Is Beating the Rest of the \"Magnificent Seven\" in 2026. Can It Do It Again in 2027?",
