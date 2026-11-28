@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T16:37:21.006642+08:00",
-  "count": 1082,
+  "generated_at": "2026-11-28T16:40:25.655860+08:00",
+  "count": 1086,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 3,
       "error": ""
     },
     {
@@ -38,6 +38,25 @@
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/28/tech-stock-sell-off-down-36-is-spacex-a-buy-now/?.tsrc=rss",
+      "title": "Tech Stock Sell-Off: Down 36%, Is SpaceX a Buy Now?",
+      "url": "https://www.fool.com/investing/2026/11/28/tech-stock-sell-off-down-36-is-spacex-a-buy-now/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The stock has sold off since its June IPO, but SpaceX's AI and Starlink businesses are bringing in real revenue.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:30:02+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:40:20.079447+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:stocktwits:083af5ecf094b:0",
       "title": "OpenAI’s 457 MW TensorWave Deal Could Be Worth Up To $9.1B, Say Analysts: What It Means For AMD Stock",
@@ -5772,6 +5791,44 @@
       "extra": {}
     },
     {
+      "id": "msn:c104196c2e3de7ca3fb3f0cc23184a71b953fc82",
+      "title": "FCC (BME:FCC) Stock Looks Above Fair Value On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a93752f554ddca0a516839097d039&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2ffcc-bme-fcc-stock-looks-081326427.html&c=6123519845431259490&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Fomento de Construcciones y Contratas has delivered a strong multiyear return, which naturally puts the focus on whether the current share price still lines up with what its earnings can support. For ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:13:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:40:22.446445+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:47f1e3f51de99b80295a477f844a9b1848cc082b",
+      "title": "Traton (XTRA:8TRA) Stock May Still Be A Bargain On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a93752f554ddca0a516839097d039&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2ftraton-xtra-8tra-stock-may-081325584.html&c=11429120979339909028&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Traton has delivered a strong run in recent years, which puts a spotlight on whether the current share price lines up with what its earnings can support. With the stock now trading at €34.04, the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:13:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:40:22.446445+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:stocktwits:8cd9f5c56094b:0",
       "title": "Zero To Sixty: Tesla Cybercab Fleet Tops 1,000 In Texas, Lucid Starts Fully Driverless Tests And Chinese EV Maker Posts Stronger Margins",
       "url": "https://stocktwits.com/news-articles/markets/equity/zero-to-sixty-tesla-cybercab-fleet-tops-1-000-in-texas-lucid-starts-fully-driverless-tests-and-chinese-ev-maker-posts-stronger-margins/cNRRKv9R9Vl",
@@ -5892,6 +5949,25 @@
       "published_at": "2026-11-28T08:07:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T16:34:17.463484+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:865ed6bd61f3e3f48290cb2f289fa13d12b44e02",
+      "title": "Sylvamo: Better Earnings, Persistent Cash Flow Challenges",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a93752f554ddca0a516839097d039&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972713-sylvamo-better-earnings-persistent-cash-flow-challenges&c=5048870547865812009&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Analyst rates Sylvamo a Hold at $34.60: earnings may recover in 2027, but cash flow may lag; the target uses 6.5x EBITDA amid delayed Sumter benefits.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:07:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:40:22.446445+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
