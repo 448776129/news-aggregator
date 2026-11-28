@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T00:16:19.127450+08:00",
-  "count": 3,
+  "generated_at": "2026-11-29T00:19:21.195924+08:00",
+  "count": 4,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 2,
+      "count": 4,
       "error": ""
     },
     {
@@ -26,6 +26,27 @@
     }
   ],
   "items": [
+    {
+      "id": "jin10:20261129001218590800",
+      "title": "据日经新闻：日本综合商社三菱商事将从乌兹别克斯坦采购钨和锑。",
+      "url": "https://www.jin10.com/#/flash/20261129001218590800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "据日经新闻：日本综合商社三菱商事将从乌兹别克斯坦采购钨和锑。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:12:18+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:19:15.585696+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "jin10:20261129000840818800",
       "title": "伊通社（IRNA）：利用自主研发的系统，伊朗陆军防空部队在霍尔木兹海峡和波斯湾上空发现了一架敌方侦察无人机，并在国家统一防空网络的指挥下将其击落。",
