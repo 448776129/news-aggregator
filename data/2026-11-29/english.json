@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T02:04:21.588332+08:00",
-  "count": 37,
+  "generated_at": "2026-11-29T02:13:19.284300+08:00",
+  "count": 38,
   "sources": [
     {
       "name": "alpaca",
@@ -27,7 +27,7 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 24,
+      "count": 25,
       "error": ""
     },
     {
@@ -38,6 +38,31 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:cryptobriefing:6e7f04210094b:0",
+      "title": "Stacks lets institutions earn yield on Bitcoin without moving it off layer 1",
+      "url": "https://cryptobriefing.com/stacks-institutions-stake-bitcoin-layer-1/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T02:08:21+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T02:13:15.223689+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:STXUSD",
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
     {
       "id": "tradingview:coinmarketcal:d42973960094b:0",
       "title": "SoSoValue: SOSO supply unlock covers at least 19.31 million tokens - Jun 2027",
