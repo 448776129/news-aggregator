@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T20:43:20.863249+08:00",
-  "count": 1523,
+  "generated_at": "2026-11-28T20:46:19.381029+08:00",
+  "count": 1526,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,28 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN4790B6:0",
+      "title": "World Liberty Financial Says Aware Binance Automatically Closed WLFI Perpetual Futures Positions On Both The Long And Short Sides",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4790B6:0-world-liberty-financial-says-aware-binance-automatically-closed-wlfi-perpetual-futures-positions-on-both-the-long-and-short-sides/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T20:40:35+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:46:14.797837+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L1N47901H:0",
       "title": "Indian recyclers seek zero import duty on aluminium scrap amid EU export curbs",
@@ -10729,6 +10751,25 @@
       "published_at": "2026-11-28T09:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T20:43:19.702044+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:06897311a30d8ff7454fe3c63d20e9272fec1de3",
+      "title": "If A Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move You Can Make",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0acd1754684d65a273ff9534b299e9&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fif-a-stock-market-crash-is-coming-warren-buffett-says-this-is-the-smartest-move-you-can-make%2far-AA2ip5id&c=9620126643030031376&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "When the Oracle of Omaha speaks, it can pay to listen.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:46:16.759837+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -26171,6 +26212,25 @@
       "published_at": "2026-11-28T02:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T20:43:19.702044+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:2673b87c1d1c0ed2a44950777d49f3c8fec2c1a5",
+      "title": "Americans Are More Exposed to the Stock Market Than Ever Before",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0acd1754684d65a273ff9534b299e9&url=https%3a%2f%2fwww.wsj.com%2ffinance%2fstocks%2fus-stock-market-wealth-0caf5bac&c=2149664428336546729&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:46:16.759837+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
