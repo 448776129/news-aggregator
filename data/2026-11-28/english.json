@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T09:55:17.654292+08:00",
-  "count": 805,
+  "generated_at": "2026-11-28T10:07:18.441896+08:00",
+  "count": 809,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,76 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261127005370:0",
+      "title": "Americans Are More Exposed to the Stock Market Than Ever Before — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127005370:0-americans-are-more-exposed-to-the-stock-market-than-ever-before-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T10:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T10:07:14.337876+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127005369:0",
+      "title": "The High Political Cost of Trump's Loyalty to Jensen Huang — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127005369:0-the-high-political-cost-of-trump-s-loyalty-to-jensen-huang-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T10:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T10:07:14.337876+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:dpa_afx:84cef96bfaa90:0",
+      "title": "First Citizens Bank Acquires United Fidelity Bank Assets From FDIC",
+      "url": "https://www.tradingview.com/news/dpa_afx:84cef96bfaa90:0-first-citizens-bank-acquires-united-fidelity-bank-assets-from-fdic/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "dpa-AFX",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:57:54+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T10:07:14.337876+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:FCNCA"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N47900A:0",
       "title": "Soft red winter wheat basis bids decline",
@@ -767,6 +837,30 @@
         "urgency": 2,
         "symbols": [
           "TSX:CHLT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:beincrypto:01ced6e77094b:0",
+      "title": "S&P 500 Achieves Its Best Thanksgiving Rally Since 2008. What’s Next?",
+      "url": "https://beincrypto.com/sp-500-best-thanksgiving-week-since-2008/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Beincrypto",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:00:08+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T10:07:14.337876+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "SP:SPX"
         ]
       }
     },
