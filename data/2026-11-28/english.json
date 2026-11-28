@@ -3,13 +3,13 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T15:01:59.040036+08:00",
-  "count": 907,
+  "generated_at": "2026-11-28T15:04:18.674295+08:00",
+  "count": 921,
   "sources": [
     {
       "name": "alpaca",
       "status": "ok",
-      "count": 44,
+      "count": 50,
       "error": ""
     },
     {
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "error": ""
     },
     {
@@ -38,6 +38,343 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:stocktwits:3f463889f094b:0",
+      "title": "Michaël van de Poppe Says Bitcoin Could Hit $100,000 In First Quarter Of 2027",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/michael-van-de-poppe-says-bitcoin-could-hit-100-000-in-first-quarter-of-2027/cNRRruvR9Vs",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:03:31+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:04:14.161331+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132463238",
+      "title": "Exel Composites Plc: Notification of Major Shareholding by Lazard Freres Gestion SAS",
+      "url": "https://www.avanza.se/hall-koll/nyheter.html?a=%2Fnyheter%2Fhushallen-haller-hardare-i-planboken-kan-bromsa-aterhamtningen-2026-11-27",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Exel Composites Plc has received a notification regarding a change in major shareholding from Lazard Freres Gestion SAS (Lazard Investissement Microcaps).",
+      "content": "Exel Composites Plc announced a notification in accordance with the Finnish Securities Markets Act, Chapter 9, Section 10, regarding a change in the holdings of Lazard Freres Gestion SAS (Lazard Investissement Microcaps). The disclosure pertains to a shift in the major shareholding position within the company. Such notifications are standard regulatory requirements under Finnish law when ownership stakes cross specific thresholds.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:02:51+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:04:14.514017+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "EXEL"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132463237",
+      "title": "Aiforia Technologies Plc Draws Down EUR 5 Million Loan Tranche",
+      "url": "https://www.avanza.se/nyheter.html?a=%2Fanalys%2Fskf-koplage-efter-avknoppningen-2026-11-27",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Aiforia Technologies Plc has executed a drawdown of EUR 5 million from its existing EUR 20 million venture debt financing facility and issued associated warrants.",
+      "content": "Aiforia Technologies Plc has announced the drawdown of a EUR 5 million tranche under its previously established EUR 20 million venture debt financing agreement. In connection with this drawdown, the company has also issued warrants. This action represents a utilization of the company's existing debt facility to support its ongoing operations and strategic objectives.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:02:17+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:04:14.514017+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "AIFORIA"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132463236",
+      "title": "Herantis Pharma Registers 173,333 New Shares",
+      "url": "https://www.avanza.se/nyheter.html?a=%2Fnyheter%2Fgruvaktierna-lyfter-pa-stockholmsborsen-2026-11-27",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Herantis Pharma Oyj has officially registered 173,333 new shares with the Finnish trade register.",
+      "content": "Herantis Pharma Oyj announced the registration of 173,333 new shares with the Finnish trade register. This corporate action updates the company's total number of outstanding shares. The registration represents a formal administrative step in the company's capital structure management.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:02:08+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:04:14.514017+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "HRTIS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132463235",
+      "title": "Lamor Corporation Plc – Managers' transactions – Granarium Oy",
+      "url": "https://www.avanza.se/nyheter.html?a=%2Fnyheter%2Fgruvaktierna-lyfter-pa-stockholmsborsen-2026-11-27",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Lamor Corporation Plc has released a notification regarding managers' transactions involving Granarium Oy, a company closely associated with a board member.",
+      "content": "Lamor Corporation Plc has published a managers' transactions notice concerning Granarium Oy. Granarium Oy is a company closely associated with a member of the board of directors of Lamor. The disclosure follows standard regulatory requirements for reporting transactions by persons discharging managerial responsibilities and their closely associated persons.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:02:07+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:04:14.514017+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "LAMOR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132463234",
+      "title": "Betolar Appoints Timo Jaakkola as Director of Critical Infrastructure Protection",
+      "url": "https://www.avanza.se/nyheter.html?a=%2Fnyheter%2Fgruvaktierna-lyfter-pa-stockholmsborsen-2026-11-27",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Betolar has appointed Timo Jaakkola to lead its Critical Infrastructure Protection (CIP) business unit.",
+      "content": "Betolar has announced the appointment of Timo Jaakkola as the Director of its Critical Infrastructure Protection (CIP) unit. This move aligns with the company's strategic focus on developing solutions for the construction and infrastructure sectors. The appointment is part of the company's ongoing organizational development to strengthen its specialized business areas. No further financial or operational details regarding the appointment were disclosed in the announcement.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:02:05+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:04:14.514017+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BETOLAR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132463233",
+      "title": "Wulff Group Plc: Manager Transaction – Kristina Vienola",
+      "url": "https://www.avanza.se/hall-koll/nyheter.html?a=%2Fnyheter%2Fhushallen-haller-hardare-i-planboken-kan-bromsa-aterhamtningen-2026-11-27",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Wulff Group Plc has reported a manager transaction involving Kristina Vienola.",
+      "content": "Wulff Group Plc announced a manager transaction involving Kristina Vienola on November 27, 2026. The disclosure follows standard regulatory requirements for reporting transactions by persons discharging managerial responsibilities within the company. No further details regarding the nature or volume of the transaction were provided in the initial notification.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:02:02+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:04:14.514017+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "WUF1V"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132463232",
+      "title": "Solar Foods Oyj: Managers' Transactions – Rami Jokela",
+      "url": "https://www.avanza.se/hall-koll/nyheter.html?a=%2Fnyheter%2Fhushallen-haller-hardare-i-planboken-kan-bromsa-aterhamtningen-2026-11-27",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Solar Foods Oyj has reported a transaction involving a manager, Rami Jokela, as part of its regulatory disclosure requirements.",
+      "content": "Solar Foods Oyj released a notification regarding managers' transactions involving Rami Jokela. The disclosure follows standard regulatory requirements for reporting dealings by persons discharging managerial responsibilities within the company. No further details regarding the nature or volume of the transaction were provided in the summary snippet.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:01:49+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:04:14.514017+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SFOODS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132463183",
+      "title": "Mobileye Acquires Mentee Robotics for $637 Million",
+      "url": "https://www.moomoo.com/hans/news/post/1006050768",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Mobileye has announced the acquisition of Mentee Robotics for $637 million to integrate its automotive software ecosystem with embodied AI technology.",
+      "content": "Mobileye has acquired Mentee Robotics in a transaction valued at $637 million. The strategic move is intended to extend Mobileye's automotive-grade chip software ecosystem into the field of embodied AI. By building software barriers in this vertical domain, the company aims to establish a competitive advantage and avoid direct ecological competition with Nvidia. This acquisition reflects a broader industry trend where chip manufacturers are investing heavily in software to reduce customer migration costs and strengthen their market position.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:01:46+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:04:14.514017+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "MBLY"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132463182",
+      "title": "Goldman Sachs Maintains eToro Group Hold Rating, Lowers Price Target to $22",
+      "url": "https://www.moomoo.com/hans/news/post/1005623092/goldman-sachs-maintains-etoro-group-etorus-with-hold-rating-cuts",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Goldman Sachs analyst James Yaro has maintained a 'Hold' rating on eToro Group Ltd. while reducing the price target from $25 to $22.",
+      "content": "Goldman Sachs analyst James Yaro has updated his outlook on eToro Group Ltd., maintaining a 'Hold' rating while lowering the target price for the company's shares from $25 to $22. This adjustment reflects the analyst's latest assessment of the company's valuation and market position. The information is based on data provided by the third-party financial analysis platform TipRanks, which tracks analyst performance and ratings.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:01:41+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:04:14.514017+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "ETOR"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132463181",
+      "title": "Dynagas LNG Partners LP Announces Results of 2026 Annual Meeting of Limited Partners",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411462/0/en/dynagas-lng-partners-lp-announces-results-of-2026-annual-meeting-of-limited-partners.html",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Dynagas LNG Partners LP held its 2026 Annual Meeting of Limited Partners in Athens, Greece, where shareholders approved the re-election of a director and the appointment of independent auditors.",
+      "content": "On November 27, 2026, Dynagas LNG Partners LP conducted its Annual Meeting of Limited Partners in Athens, Greece. During the meeting, shareholders approved the re-election of Dimitris Anagnostopoulos as a Class III Director for a three-year term, extending until the 2029 Annual Meeting. Additionally, the Partnership ratified the appointment of Ernst & Young (Hellas) Certified Auditors Accountants S.A. as its independent auditors for the fiscal year ending December 31, 2026.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:01:35+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:04:14.514017+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "DLNG"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132463180",
+      "title": "Sol-Gel Technologies to Host Conference Call for Phase 3 SGT-610 Trial Results",
+      "url": "https://www.morningstar.com/news/globe-newswire/9885959/sol-gel-technologies-to-host-conference-call-to-discuss-top-line-results-from-pivotal-phase-3-clinical-trial-of-sgt-610-in-gorlin-syndrome",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Sol-Gel Technologies announced it will host a conference call on November 30, 2026, to discuss top-line results from its pivotal Phase 3 clinical trial of SGT-610 for Gorlin syndrome.",
+      "content": "Sol-Gel Technologies, Ltd. announced that it will host a conference call on Monday, November 30, 2026, at 8:00 am Eastern Time to discuss top-line results from its pivotal Phase 3 clinical trial (SGT-610-01). The trial evaluates the efficacy and safety of SGT-610 (patidegib gel, 2%) for the prevention of basal cell carcinoma lesions in adult patients with Gorlin syndrome. The company plans to issue a press release detailing the trial results at 7:00 am Eastern Time on the same day, prior to the conference call. SGT-610 is an investigational topical hedgehog inhibitor designed to offer an improved safety profile compared to oral alternatives. A replay of the conference call will be available on the company's website for 90 days following the event.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:01:34+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:04:14.514017+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "SLGL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:newsbtc:2b39263e1094b:0",
+      "title": "Trump Crypto News: World Liberty Financial Sells $20 Million in Ethereum Assets, Data Shows",
+      "url": "https://www.newsbtc.com/ethereum-news/trump-crypto-news-wlfi-ethereum-sale/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "NewsBTC",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:59:27+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:04:14.161331+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:USD1WUSD",
+          "BITSTAMP:ETHUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cryptobriefing:67370c73d094b:0",
+      "title": "CoinMarketCap's Fear and Greed Index sinks to 10 as extreme fear drags on",
+      "url": "https://cryptobriefing.com/coinmarketcap-fear-greed-index-extreme-fear-10/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:58:58+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:04:14.161331+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:BTCGBP"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN47905K:0",
       "title": "Guerbet Finalises Agreement To Amend And Extend Financing With Creditors",
