@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T10:22:21.296071+08:00",
-  "count": 810,
+  "generated_at": "2026-11-28T10:31:21.314607+08:00",
+  "count": 811,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 6,
+      "count": 0,
       "error": ""
     },
     {
@@ -38,6 +38,32 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:moneycontrol:3eca53e68094b:0",
+      "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
+      "url": "https://www.tradingview.com/news/moneycontrol:3eca53e68094b:0-wall-street-ends-higher-as-battered-ai-stocks-gain-in-volatile-week/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Moneycontrol",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T10:21:04+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T10:31:15.607633+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TVC:DJI",
+          "SP:SPX",
+          "NASDAQ:IXIC"
+        ]
+      }
+    },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/27/why-anthropic-stock-rallied-on-friday-wall-street-analysts-say-buy-right-now/?.tsrc=rss",
       "title": "Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now",
