@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T00:01:23.019389+08:00",
-  "count": 2,
+  "generated_at": "2026-11-29T00:04:22.686435+08:00",
+  "count": 6,
   "sources": [
     {
       "name": "alpaca",
@@ -27,7 +27,7 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 2,
+      "count": 6,
       "error": ""
     },
     {
@@ -38,6 +38,104 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:moodys:e084b9e518e36:0",
+      "title": "Honda Ties Up With Four Firms Ahead Of Alpha EV Launch",
+      "url": "https://www.tradingview.com/news/moodys:e084b9e518e36:0-honda-ties-up-with-four-firms-ahead-of-alpha-ev-launch/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:01:28+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:04:18.162590+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TATAPOWER",
+          "TSE:7267"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:3a7b56b4768a8:0",
+      "title": "IHG and ANA mark 20 years of joint venture in Japan",
+      "url": "https://www.tradingview.com/news/moodys:3a7b56b4768a8:0-ihg-and-ana-mark-20-years-of-joint-venture-in-japan/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:01:27+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:04:18.162590+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:IHG",
+          "TSE:9202"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:23d21007221b7:0",
+      "title": "Sandeep Sarma Exits Xiaomi India After Five-year Stint",
+      "url": "https://www.tradingview.com/news/moodys:23d21007221b7:0-sandeep-sarma-exits-xiaomi-india-after-five-year-stint/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:01:00+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:04:18.162590+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:1810"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:0d320e4c29bc0:0",
+      "title": "BPCL Clears Rs 1.27 Lakh Cr Refinery, Petrochemical Project In Andhra Pradesh",
+      "url": "https://www.tradingview.com/news/moodys:0d320e4c29bc0:0-bpcl-clears-rs-1-27-lakh-cr-refinery-petrochemical-project-in-andhra-pradesh/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:00:54+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:04:18.162590+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:BPCL"
+        ]
+      }
+    },
     {
       "id": "tradingview:moodys:f56ffeb40ce4c:0",
       "title": "CFOs Must Balance Growth With Financial Discipline In Capital Allocation, MA",
