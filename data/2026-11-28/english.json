@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T14:31:19.070473+08:00",
-  "count": 886,
+  "generated_at": "2026-11-28T14:34:21.621420+08:00",
+  "count": 888,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 6,
+      "count": 5,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "error": ""
     },
     {
@@ -38,6 +38,31 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:cnbctv:afc394ce7094b:0",
+      "title": "US Black Friday online sales to cross $13 billion, Adobe says",
+      "url": "https://www.tradingview.com/news/cnbctv:afc394ce7094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:28:35+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:34:17.427316+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ADBE",
+          "NYSE:CRM"
+        ]
+      }
+    },
     {
       "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/nvidia-ai-infrastructure-stocks-worth-061003955.html?.tsrc=rss",
       "title": "Nvidia And AI Infrastructure Stocks Worth Watching For Data Center Demand",
@@ -7079,6 +7104,25 @@
       "published_at": "2026-11-28T05:14:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T14:28:24.424916+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:4fe3c96c904a2f9ffd13b90fa1109d2071be9f5c",
+      "title": "Hinge Health (HNGE) Stock Trades Above Fair Value On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a75e97bb54c1597c14e7ff9cd76f2&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fhinge-health-hnge-stock-trades-051528661.html&c=11750597560096836354&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Hinge Health has been one of the stronger movers in digital health this year, and the share price run puts a sharp spotlight on what investors are actually paying for its earnings. With the stock now ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:14:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:34:19.326574+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
