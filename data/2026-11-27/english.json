@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T17:28:17.998229+08:00",
-  "count": 8900,
+  "generated_at": "2026-11-28T17:31:21.304993+08:00",
+  "count": 8906,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 41,
+      "count": 40,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 8,
+      "count": 5,
       "error": ""
     },
     {
@@ -25154,6 +25154,25 @@
       "published_at": "2026-11-27T21:09:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-28T17:22:19.818272+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:19795fb838c3903830b3a924b930a394490d559a",
+      "title": "Take This Quick Test to See How Much You Could Lose if the Stock Market Returns to 'Normal'",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a9f6422c544be86165914736d16c7&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fquick-test-see-much-could-210947859.html&c=17973100490729462481&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The S&P 500 has had a whale of a decade so far. What happens if the artificial, AI-driven, mega-cap momentum finally exhausts itself?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T21:09:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-28T17:31:18.705182+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -53652,6 +53671,25 @@
       "extra": {}
     },
     {
+      "id": "msn:60c193ef9a74265d25be2c0da12e1d67eb9fefe9",
+      "title": "The warnings behind this week’s stock-market rally",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a9f6422c544be86165914736d16c7&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fthe-warnings-behind-this-week-s-stock-market-rally%2far-AA2ioaPl&c=15872950708858791193&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T18:40:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-28T17:31:18.705182+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://finance.yahoo.com/technology/articles/electric-vehicles-today-driving-forward-103921382.html?.tsrc=rss",
       "title": "Electric Vehicles Today - Driving Forward: Innovations in Pedestrian Safety Systems",
       "url": "https://finance.yahoo.com/technology/articles/electric-vehicles-today-driving-forward-103921382.html?.tsrc=rss",
@@ -71962,6 +72000,25 @@
       "extra": {}
     },
     {
+      "id": "msn:84ad2120a03ce384ad018283d4aabd186155d6cf",
+      "title": "Snowflake Earnings Preview: Too Much Growth To Ignore",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a9f654dd64bf69cd0a6156594bace&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972610-snowflake-too-much-growth-to-ignore&c=9925178272029982401&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Snowflake's Q2 product revenue accelerated 37%, and the adjusted operating margin rose to 15.3%, supporting raised FY27 product revenue guidance. I rate SNOW stock as Buy.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:44:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-28T17:31:18.705182+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:seekingalpha:86448970d094b:0",
       "title": "DSC partners with JAPANCARS to expand China’s used car exports",
       "url": "https://seekingalpha.com/news/4676972-dsc-partners-with-japancars-to-expand-china-s-used-car-exports?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
@@ -72642,6 +72699,30 @@
           "BVB:BET",
           "FTMO_OANDA:EURPLN"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8821675",
+      "title": "Indian police rescue dozens of Indonesians, Malaysians from cyber fraud racket​ - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlVYNWllQjZsSWU2ZmwzNk5KM1FqdlhmM2N3LVNvTU1pcjRNZE5qOWplXzRTQzdIMWlCZGo1T09GYmR4eVFjZUd4bjMwVlRqbzc4bnpiQ19Bem1tV3ZUUV9fQmFfTURwMHpOVi1rYUZINzFZYS0tMk9jSEhvUVhCS05aTEQ3ckp1d0haQ0tNQ3p6Vnp3VzJSRmdzUVJsLXRRc0hEb0xJejJ3X3FQb1cyU2t1RXlua21hcDRmM3B2b29CQQ?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Indian police rescue dozens of Indonesians, Malaysians from cyber fraud racket​ Reuters",
+      "content": "Indian police rescue dozens of Indonesians, Malaysians from cyber fraud racket​ Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:33:30+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-28T17:31:17.031323+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -82714,6 +82795,25 @@
       "published_at": "2026-11-27T17:13:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-28T17:28:15.785773+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:1012b3a5651bb59ab4798583edf703010b3ee970",
+      "title": "Adobe (ADBE) Stock Looks Like A Bargain On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a9f654dd64bf69cd0a6156594bace&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fadobe-adbe-stock-looks-bargain-171331328.html&c=13781925753047336315&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Adobe has become a valuation puzzle, with the stock at US$232.83 after a long slide and investors asking whether that price still lines up with what its earnings can reasonably support. The focus is ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T17:13:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-28T17:31:18.705182+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -137925,6 +138025,25 @@
       "published_at": "2026-11-27T10:30:00+08:00",
       "published_date": "2026-11-27",
       "fetched_at": "2026-11-28T17:07:19.563058+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:0cede820f7a0a494473301c42fa9e087e2151883",
+      "title": "Trump can't rescue the stock market. Here's what can.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a9f6422c544be86165914736d16c7&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2ftrump-cant-rescue-the-stock-market-heres-what-can%2far-AA2ildOj&c=9211609296449915281&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The president tried to arrest the stock market’s decline by engineering Jensen Huang’s return to Nvidia. To find a bottom, something more fundamental needs to shift.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-27T10:30:00+08:00",
+      "published_date": "2026-11-27",
+      "fetched_at": "2026-11-28T17:31:18.705182+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
