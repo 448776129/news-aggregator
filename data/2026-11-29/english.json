@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T01:25:21.220095+08:00",
-  "count": 24,
+  "generated_at": "2026-11-29T01:31:23.437749+08:00",
+  "count": 27,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "error": ""
     },
     {
@@ -27,17 +27,61 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 17,
+      "count": 18,
       "error": ""
     },
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 7,
+      "count": 8,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:seekingalpha:f5e59fb62094b:0",
+      "title": "Aschenbrenner’s Situational Awareness records 65% net loss in Q3",
+      "url": "https://seekingalpha.com/news/4677121-situational-awareness-posts-65-net-loss-q3?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T01:22:49+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T01:31:18.270167+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:OPENAI",
+          "NASDAQ:ANT"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/28/spelling-out-intrinsic-value-using-the-alphabet/?.tsrc=rss",
+      "title": "Spelling Out Intrinsic Value Using the Alphabet",
+      "url": "https://www.fool.com/investing/2026/11/28/spelling-out-intrinsic-value-using-the-alphabet/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The team tackles the complicated and nuanced topic of intrinsic value, the “logical” valuation equalizer championed by famed investor Warren Buffett.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T01:20:02+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T01:31:18.070649+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "yahoo:https://www.tikr.com/blog/meta-soars-12-in-a-week-as-talks-with-amazon-could-reopen-its-store-to-muse-time-to-buy?ref=yahoofinance&tlnk=yf-261128-mx523wcq&.tsrc=rss",
       "title": "Meta Soars 12% in a Week as Talks With Amazon Could Reopen Its Store to Muse. Time to Buy?",
@@ -75,6 +119,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "finnhub:8822077",
+      "title": "MSF charity condemns Israeli drone strike that killed two staff outside Gaza clinic - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlN6bWNCajEzSzJDU0o3Qk5qQnJiS3Zxb2VaUnFjM05vM0hkZ2E3NnJNeXlVdEVVMkNwdGRXcmRaTGF3bHI4emRsaVhaTHVtV3dmNDJlWUFGY1YzTTFxNlNkaFViN1FYdlo3WVM4SUJlaTZkc1AyVE9MdmZkMDdYeE1wR3RzRXFzeTVvY0lrczh4N1ZGXzM4NWR2MmF6NkRYeDBWNEtMOEswT3BxU2dxYllRcmM?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "MSF charity condemns Israeli drone strike that killed two staff outside Gaza clinic Reuters",
+      "content": "MSF charity condemns Israeli drone strike that killed two staff outside Gaza clinic Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T01:02:37+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T01:31:18.624338+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
+      }
     },
     {
       "id": "tradingview:seekingalpha:ed20a24a2094b:0",
