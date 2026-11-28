@@ -3,8 +3,8 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T09:34:21.717278+08:00",
-  "count": 356,
+  "generated_at": "2026-11-28T09:43:20.626493+08:00",
+  "count": 357,
   "sources": [
     {
       "name": "stocktwits",
@@ -14,6 +14,33 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670318284",
+      "title": "$SPY $QQQ $NVDA $AAPL Make sure your team eats good",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "PivotPoint_101Official",
+      "summary": "$SPY $QQQ $NVDA $AAPL Make sure your team eats good",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:42:03+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T09:43:14.254466+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "SPY",
+          "QQQ",
+          "NVDA",
+          "AAPL"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670318130",
       "title": "$TSLA hourly",
