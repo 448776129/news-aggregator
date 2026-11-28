@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T13:46:17.884827+08:00",
-  "count": 871,
+  "generated_at": "2026-11-28T13:58:16.209873+08:00",
+  "count": 873,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,53 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N479012:0",
+      "title": "India's bottled-water crackdown widens as new Bisleri sample found with bacteria",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N479012:0-india-s-bottled-water-crackdown-widens-as-new-bisleri-sample-found-with-bacteria/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T13:52:37+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T13:58:12.880679+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TATACONSUM",
+          "NYSE:KO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:13a168900cb09:0",
+      "title": "India's FY28 fiscal deficit projected to stay unchanged at 4.3% of GDP: Deutsche Bank",
+      "url": "https://www.tradingview.com/news/moodys:13a168900cb09:0-india-s-fy28-fiscal-deficit-projected-to-stay-unchanged-at-4-3-of-gdp-deutsche-bank/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T13:52:22+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T13:58:12.880679+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "yahoo:https://stocktwits.com/news-articles/markets/equity/nvda-stock-hit-bottom-jensen-haung-congress/cNRRYXMR9Vp?.tsrc=rss",
       "title": "NVDA Stock Could Hit A Bottom Next Week As Jensen Huang Faces Congress, Says Analyst — 'I Would Buy It With Both Hands'",
