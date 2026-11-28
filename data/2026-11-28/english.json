@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T14:49:24.076486+08:00",
-  "count": 896,
+  "generated_at": "2026-11-28T14:52:20.736409+08:00",
+  "count": 906,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 0,
+      "count": 5,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 0,
       "error": ""
     },
     {
@@ -38,6 +38,226 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47905K:0",
+      "title": "Guerbet Finalises Agreement To Amend And Extend Financing With Creditors",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47905K:0-guerbet-finalises-agreement-to-amend-and-extend-financing-with-creditors/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:51:09+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:52:16.684462+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:GBT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coindar:d32d2d675094b:0",
+      "title": "Render to Close Year 4 Budget Vote on November 28th",
+      "url": "https://www.tradingview.com/news/coindar:d32d2d675094b:0-render-to-close-year-4-budget-vote-on-november-28th/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Coindar",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:46:13+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:52:16.684462+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:RENDERUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:4cd530e54439a:0",
+      "title": "Guerbet (GBT) Extends Debt Maturities; Targets €900M Revenue by 2030",
+      "url": "https://www.tradingview.com/news/tradingview:4cd530e54439a:0-guerbet-gbt-extends-debt-maturities-targets-900m-revenue-by-2030/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:45:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:52:16.684462+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:GBT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:c2b7a17ae094b:0",
+      "title": "Guerbet secures its medium-term liquidity: Comprehensive agreement finalised with creditors on extending its financing maturities",
+      "url": "https://www.globenewswire.com/news-release/2026/11/28/3411524/0/en/guerbet-secures-its-medium-term-liquidity-comprehensive-agreement-finalised-with-creditors-on-extending-its-financing-maturities.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:45:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:52:16.684462+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:GBT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coindar:42c6c01a4094b:0",
+      "title": "Teia Onboarder Workshop to Take Place in Bangalore on November 28th",
+      "url": "https://www.tradingview.com/news/coindar:42c6c01a4094b:0-teia-onboarder-workshop-to-take-place-in-bangalore-on-november-28th/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Coindar",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:44:24+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:52:16.684462+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BINANCE:XTZUSDT",
+          "COINBASE:XTZUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coindar:20d58871b094b:0",
+      "title": "TEZCITY Genesis Collection to Open for Minting on December 12th",
+      "url": "https://www.tradingview.com/news/coindar:20d58871b094b:0-tezcity-genesis-collection-to-open-for-minting-on-december-12th/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Coindar",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:44:23+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:52:16.684462+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:XTZUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coindar:435908e91094b:0",
+      "title": "ChainPort to Shut Down on December 1st",
+      "url": "https://www.tradingview.com/news/coindar:435908e91094b:0-chainport-to-shut-down-on-december-1st/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Coindar",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:44:22+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:52:16.684462+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:CHZUSD",
+          "CRYPTO:USDCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coindar:d6201e694094b:0",
+      "title": "Chiliz USDC Holders to Face ChainPort Deadline on December 1st",
+      "url": "https://www.tradingview.com/news/coindar:d6201e694094b:0-chiliz-usdc-holders-to-face-chainport-deadline-on-december-1st/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Coindar",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:44:21+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:52:16.684462+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BINANCE:CHZUSDT",
+          "CRYPTO:CHZUSD",
+          "CRYPTO:USDCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coindar:c6b174b41094b:0",
+      "title": "The Graph to Activate REO Step 5 on December 8th",
+      "url": "https://www.tradingview.com/news/coindar:c6b174b41094b:0-the-graph-to-activate-reo-step-5-on-december-8th/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Coindar",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:44:20+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:52:16.684462+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 1,
+        "symbols": [
+          "COINBASE:GRTUSD"
+        ]
+      }
+    },
     {
       "id": "tradingview:stocktwits:31f85e42c094b:0",
       "title": "US Black Friday Online Sales To Top $13B, Says Adobe, As Consumers Look Past Inflation And Elevated Gas Prices",
@@ -735,6 +955,30 @@
         "urgency": 2,
         "symbols": [
           "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:u_today:706c907d4094b:0",
+      "title": "What Awaits XRP Holders in December If the 4-Year Cycle Works",
+      "url": "https://u.today/what-awaits-xrp-holders-in-december-if-the-4-year-cycle-works",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "U.Today",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T12:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:52:16.684462+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:XRPUSD"
         ]
       }
     },
