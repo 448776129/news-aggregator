@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T01:28:20.057953+08:00",
-  "count": 16,
+  "generated_at": "2026-11-29T01:43:18.566763+08:00",
+  "count": 17,
   "sources": [
     {
       "name": "cls",
@@ -15,7 +15,7 @@
     {
       "name": "jin10",
       "status": "ok",
-      "count": 16,
+      "count": 17,
       "error": ""
     },
     {
@@ -26,6 +26,27 @@
     }
   ],
   "items": [
+    {
+      "id": "jin10:20261129012303030800",
+      "title": "金十快讯",
+      "url": "https://www.jin10.com/#/flash/20261129012303030800",
+      "source": "jin10",
+      "source_name": "金十数据",
+      "author": "",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T01:23:03+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T01:43:13.569595+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {
+        "important": 0
+      }
+    },
     {
       "id": "jin10:20261129011206068800",
       "title": "【英媒曝俄罗斯风险投资家持有Tether数十亿美元股份】金十数据11月29日讯，据英国金融时报：据知情人士透露，鲜为人知的俄罗斯风险投资家维塔利·别兹罗德内赫（",

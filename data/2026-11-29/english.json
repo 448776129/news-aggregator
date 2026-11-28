@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T01:40:27.642442+08:00",
-  "count": 30,
+  "generated_at": "2026-11-29T01:43:18.565509+08:00",
+  "count": 31,
   "sources": [
     {
       "name": "alpaca",
@@ -27,13 +27,13 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 19,
+      "count": 18,
       "error": ""
     },
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 9,
+      "count": 10,
       "error": ""
     }
   ],
@@ -61,6 +61,25 @@
           "XETR:VOW"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/28/4-etfs-holding-for-next-20-years-even-if-market-crashes/?.tsrc=rss",
+      "title": "4 ETFs I'm Holding for the Next 20 Years -- Even If the Market Crashes",
+      "url": "https://www.fool.com/investing/2026/11/28/4-etfs-holding-for-next-20-years-even-if-market-crashes/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Ignore the short-term noise and build your portfolio for the long term.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T01:35:02+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T01:43:14.590375+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/jensen-back-5-ai-stocks-173347195.html?.tsrc=rss",
