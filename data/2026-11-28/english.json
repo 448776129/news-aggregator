@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T11:04:19.767115+08:00",
-  "count": 829,
+  "generated_at": "2026-11-28T11:10:26.973507+08:00",
+  "count": 833,
   "sources": [
     {
       "name": "alpaca",
@@ -303,6 +303,78 @@
       }
     },
     {
+      "id": "tradingview:coinmarketcal:d42f4cc07094b:0",
+      "title": "ChainOpera AI: COAI supply unlock releases at least 11.25 million tokens - Feb 2027",
+      "url": "https://coinmarketcal.com/event/6-supply-unlock-bd97f157-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T11:00:47+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T11:10:23.536916+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:COAICHUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:2d0fa99bc094b:0",
+      "title": "ChainOpera AI: Unlocks at Least 11.25 Million COAI - Jan 2027",
+      "url": "https://coinmarketcal.com/event/6-supply-unlock-efa96900-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T11:00:32+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T11:10:23.536916+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:COAICHUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:e5fd83acd094b:0",
+      "title": "Ondo: Unlocks About 1.94 Billion ONDO - Jan 2027",
+      "url": "https://coinmarketcal.com/event/40-supply-unlock-05bb4f78-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T11:00:16+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T11:10:23.536916+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:ONDOUSD"
+        ]
+      }
+    },
+    {
       "id": "tradingview:prnewswire:3227d3d6b6df3:0",
       "title": "DPC Dash - Domino's Pizza China Wins Sixth Seven-Star Award, Underscoring Its Quality Control Advantage and Sustainable Operating Efficiency as It Expands",
       "url": "https://www.tradingview.com/news/prnewswire:3227d3d6b6df3:0-dpc-dash-domino-s-pizza-china-wins-sixth-seven-star-award-underscoring-its-quality-control-advantage-and-sustainable-operating-efficiency-as-it-expands/",
@@ -369,6 +441,31 @@
         "urgency": 2,
         "symbols": [
           "TSX:L"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:985c660e6094b:0",
+      "title": "Wall Street ends a chaotic week on high as AI remains in focus",
+      "url": "https://www.tradingview.com/news/cnbctv:985c660e6094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T10:56:18+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T11:10:23.536916+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NDX",
+          "NASDAQ:NVDA"
         ]
       }
     },
