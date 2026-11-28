@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T07:55:29.241934+08:00",
-  "count": 313,
+  "generated_at": "2026-11-28T12:16:24.369720+08:00",
+  "count": 314,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -2769,6 +2769,25 @@
       "published_at": "2026-01-15T21:58:00+08:00",
       "published_date": "2026-01-15",
       "fetched_at": "2026-11-28T07:55:26.548224+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:451488703973fe0d1bd9c5d4f6534127e48289e3",
+      "title": "Unlock Earnings Surprises with Straddles and Strangles",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a55944d474e0c8cf38663c3497918&url=https%3a%2f%2fwww.investopedia.com%2farticles%2foptioninvestor%2f09%2flong-straddle-strangle-earnings.asp&c=13020573608018758244&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Jay Kaeppel has 25+ years of experience as a trader, analyst, and portfolio manager. He is the author of four books on financial trading. Thomas J Catalano is a CFP and Registered Investment Adviser ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-01-15T21:58:00+08:00",
+      "published_date": "2026-01-15",
+      "fetched_at": "2026-11-28T12:16:21.927107+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
