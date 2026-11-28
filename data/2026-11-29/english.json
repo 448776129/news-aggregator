@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T01:07:21.451596+08:00",
-  "count": 19,
+  "generated_at": "2026-11-29T01:10:30.540101+08:00",
+  "count": 20,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 4,
+      "count": 5,
       "error": ""
     }
   ],
@@ -63,6 +63,25 @@
           "NYSE:LUV"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/28/what-nvidia-investors-should-watch-during-jensen-huang-s-senate-hearing/?.tsrc=rss",
+      "title": "What Nvidia Investors Should Watch During Jensen Huang's Senate Hearing",
+      "url": "https://www.fool.com/investing/2026/11/28/what-nvidia-investors-should-watch-during-jensen-huang-s-senate-hearing/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Jensen Huang's testimony is about export controls, not just one executive. Here is what an owner of the stock can listen for.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:55:06+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T01:10:26.031196+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/28/alphabet-stock-near-52-week-low-why-i-d-buy-the-dip/?.tsrc=rss",
