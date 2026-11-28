@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T11:19:20.196453+08:00",
-  "count": 146,
+  "generated_at": "2026-11-28T11:28:25.802372+08:00",
+  "count": 147,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 32,
+      "count": 33,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/world/2026-11-28/doc-inkahepm2683229.shtml",
+      "title": "伊朗袭击造成美驻巴林海军基地损失预计超4亿美元",
+      "url": "https://finance.sina.com.cn/world/2026-11-28/doc-inkahepm2683229.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "据报道，伊朗导弹与无人机袭击造成美国驻巴林海军基地损失预计超4亿美元，基地前景不明，五角大楼正考虑将波斯湾地区的美军转移至以色列和约旦。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T11:25:59+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T11:28:22.982481+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261128111123066800",
       "title": "【德商银行：各央行利率预期分化或推动外汇波动率上升】金十数据11月28日讯，德国商业银行的Michael Pfister在一份报告中指出，最近几个月，市场已反映",
