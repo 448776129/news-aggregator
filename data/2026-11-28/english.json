@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T13:10:18.356163+08:00",
-  "count": 861,
+  "generated_at": "2026-11-28T13:16:21.200798+08:00",
+  "count": 863,
   "sources": [
     {
       "name": "alpaca",
@@ -59,6 +59,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:http://www.intellinews.com/taiwan-south-korea-share-chip-whiplash-but-not-the-factory-boom-488384/?.tsrc=rss",
+      "title": "Taiwan, South Korea share chip whiplash but not the factory boom",
+      "url": "http://www.intellinews.com/taiwan-south-korea-share-chip-whiplash-but-not-the-factory-boom-488384/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "IntelliNews summary: Taiwan's October industrial output rose 29. 8% y/y to a record, with computers, electronic and optical products up 130.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T13:06:19+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T13:16:16.265783+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:moodys:03fea224c7a69:0",
@@ -1148,6 +1167,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "tradingview:bloomingbit:16fefa192094b:0",
+      "title": "Bitcoin Falls Below $60,000 as Placeholder’s Burniske Calls Crypto a ‘Black Friday’ Sale",
+      "url": "https://en.bloomingbit.io/feed/news/125422",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Bloomingbit",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:09:24+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T13:16:16.642722+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
     },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/27/vanguard-s-growth-etf-has-3-stocks-making-up-more-than-a-third-of-it-only-1-has-held-up-in-the-tech-sell-off/?.tsrc=rss",
