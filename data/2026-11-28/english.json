@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T13:34:19.478694+08:00",
-  "count": 868,
+  "generated_at": "2026-11-28T13:37:18.014044+08:00",
+  "count": 870,
   "sources": [
     {
       "name": "alpaca",
@@ -78,6 +78,54 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:a14017924a96d:0",
+      "title": "Beisen Holding Limited Reports 15% Revenue Growth and 72.1% Adjusted Profit Increase",
+      "url": "https://www.tradingview.com/news/tradingview:a14017924a96d:0-beisen-holding-limited-reports-15-revenue-growth-and-72-1-adjusted-profit-increase/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T13:28:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T13:37:14.511642+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:9669"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:globenewswire:01d07ce46094b:0",
+      "title": "Beisen Holding announced its interim results for fiscal year 2027: AI contract value increased by 390.3% year on year, and adjusted net profit increased by 72.1%",
+      "url": "https://www.globenewswire.com/news-release/2026/11/28/3411523/0/en/beisen-holding-announced-its-interim-results-for-fiscal-year-2027-ai-contract-value-increased-by-390-3-year-on-year-and-adjusted-net-profit-increased-by-72-1.html",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "GlobeNewswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T13:28:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T13:37:14.511642+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:9669"
         ]
       }
     },
