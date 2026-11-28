@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T23:25:21.658976+08:00",
-  "count": 1927,
+  "generated_at": "2026-11-28T23:28:27.047833+08:00",
+  "count": 1934,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 3,
       "error": ""
     },
     {
@@ -59,6 +59,77 @@
         "urgency": 2,
         "symbols": [
           "NSE:CGCL"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/28/is-microsoft-office-s-moat-in-trouble/?.tsrc=rss",
+      "title": "Is Microsoft Office's Moat In Trouble?",
+      "url": "https://www.fool.com/investing/2026/11/28/is-microsoft-office-s-moat-in-trouble/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Anthropic’s new productivity tools are taking aim at Microsoft Office, but can they break Microsoft’s grip on enterprise customers?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T23:20:02+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T23:28:20.790628+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/28/this-dividend-king-has-raised-its-payout-54-straight-years-its-my-top-pick-for-december/?.tsrc=rss",
+      "title": "This Dividend King Has Raised Its Payout 54 Straight Years. It's My Top Pick for December.",
+      "url": "https://www.fool.com/investing/2026/11/28/this-dividend-king-has-raised-its-payout-54-straight-years-its-my-top-pick-for-december/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Investors and analysts alike are skeptical at best. This skepticism, however, only bolsters the contrarian argument.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T23:20:02+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T23:28:20.790628+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:acceswire:2a23cb78a094b:0",
+      "title": "New to The Street Show #782 Premieres Tonight on Bloomberg Television with Sullivan & Cromwell's Frank Aquila, Stewards, Robo.ai and Roadzen",
+      "url": "https://www.accessnewswire.com/newsroom/en/publishing-and-media/new-to-the-street-show-%23782-premieres-tonight-on-bloomberg-television-with-s-1474723",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "ACCESS Newswire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T23:20:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T23:28:20.937312+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SWRD",
+          "NASDAQ:AIIO",
+          "NASDAQ:RDZN",
+          "OTC:SSGC",
+          "NASDAQ:BSIN",
+          "OTC:TRXA",
+          "NASDAQ:ACXP",
+          "NASDAQ:TMC",
+          "OTC:AMFN",
+          "LSE:TREX"
         ]
       }
     },
@@ -134,6 +205,25 @@
           "NSE:CRAFTSMAN"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/28/ice-cube-is-taking-the-big3-public-and-he-wants-you-to-own-a-piece/?.tsrc=rss",
+      "title": "Ice Cube Is Taking the BIG3 Public — and He Wants You to Own a Piece",
+      "url": "https://www.fool.com/investing/2026/11/28/ice-cube-is-taking-the-big3-public-and-he-wants-you-to-own-a-piece/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "For the first time in sports history, a professional league is going public — and Ice Cube wants everyday fans to be the ones buying in.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T23:09:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T23:28:20.790628+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:seekingalpha:022ec0974094b:0",
@@ -10270,6 +10360,25 @@
       "extra": {}
     },
     {
+      "id": "msn:c7bd3103490aa39c83b076e4402bb6ad1cd084f0",
+      "title": "Stock Market: This Smallcap Stock Raises Rs 400 Crore. What Should Investors Know",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0af314420c42e091837e745807e88d&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fstock-market-this-smallcap-stock-raises-rs-400-crore-what-should-investors-know%2far-AA2iqJnk&c=14054542331138331421&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stock Market News: Shalimar Paints announced the successful completion of the fundraise in an exchange filing.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T13:33:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T23:28:22.626836+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:7457c30aec49b494892ad20e2e591d2e7b0fedd8",
       "title": "Stock Market: This Smallcap Stock Raises Rs 400 Crore. What Should Investors Know",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0adbddb71742c2b727be30cea37839&url=https%3a%2f%2fwww.ndtv.com%2fbusiness-news%2fstock-market-this-smallcap-stock-raises-rs-400-crore-what-should-investors-know-12389450&c=16618941521859191036&mkt=en-us",
@@ -17555,6 +17664,25 @@
       "published_at": "2026-11-28T09:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T23:25:19.058128+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:75dd4ae5d732c9021bb144f2eeca30194bd24ce7",
+      "title": "If A Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move You Can Make",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0af314420c42e091837e745807e88d&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fif-a-stock-market-crash-is-coming-warren-buffett-says-this-is-the-smartest-move-you-can-make%2far-AA2ip5id&c=9620126643030031376&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "When the Oracle of Omaha speaks, it can pay to listen.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T23:28:22.626836+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -34631,6 +34759,25 @@
       "published_at": "2026-11-28T02:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T23:25:19.058128+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:6b4c9e916ec9c27981d32545f31ae96f1d02a1a0",
+      "title": "Americans Are More Exposed to the Stock Market Than Ever Before",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0af314420c42e091837e745807e88d&url=https%3a%2f%2fwww.wsj.com%2ffinance%2fstocks%2fus-stock-market-wealth-0caf5bac&c=2149664428336546729&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T23:28:22.626836+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
