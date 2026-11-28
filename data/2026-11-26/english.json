@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T13:07:22.553538+08:00",
-  "count": 11349,
+  "generated_at": "2026-11-28T13:10:17.960626+08:00",
+  "count": 11351,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "error": ""
     },
     {
@@ -124466,6 +124466,25 @@
       "extra": {}
     },
     {
+      "id": "msn:6a0ac09ec1fd1c55f15f6db07e23eef98b57bd19",
+      "title": "President Trump Just Hit Stock Market Investors With Bad News at a Bad Time",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a62365a424ab6991d0100c8e055ce&url=https%3a%2f%2fwww.fool.com%2finvesting%2f2026%2f11%2f26%2fpresident-trump-hit-stock-market-investors-with-bad-news%2f&c=11009659928029185689&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "President Trump’s latest tariff proposal could keep inflation and interest rates elevated, creating another headwind for the stock market.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T10:11:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-28T13:10:16.591127+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:0a989b77c37cb:0",
       "title": "Hamilton Director Sold Shares Worth Over $1.9M",
       "url": "https://www.tradingview.com/news/tradingview:0a989b77c37cb:0-hamilton-director-sold-shares-worth-over-1-9m/",
@@ -223288,6 +223307,25 @@
       "published_at": "2026-11-26T00:43:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-28T13:07:19.809163+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:5a3ec500acdea979991ed29be1fb20181980a6be",
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a62365a424ab6991d0100c8e055ce&url=https%3a%2f%2fwww.wsj.com%2flivecoverage%2fstock-market-today-dow-sp-500-nasdaq-11-25-2026&c=531235574103904066&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Live updates on markets and the top finance, economics and business stories. Plus the latest on Nvidia, tech stocks, the Dow, S&P 500 and Nasdaq.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T00:43:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-28T13:10:16.591127+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
