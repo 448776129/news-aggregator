@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T14:22:24.600490+08:00",
-  "count": 883,
+  "generated_at": "2026-11-28T14:28:30.746099+08:00",
+  "count": 886,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "error": ""
     },
     {
@@ -38,6 +38,25 @@
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/nvidia-ai-infrastructure-stocks-worth-061003955.html?.tsrc=rss",
+      "title": "Nvidia And AI Infrastructure Stocks Worth Watching For Data Center Demand",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ai-infrastructure-stocks-worth-061003955.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Artificial intelligence infrastructure is back in the spotlight after Nvidia reinstated Jensen Huang as CEO, paired with a sharply higher long-term revenue outlook and huge FY 2027 numbers that have refocused attention on the plumbing behind AI. Investors who ignore the hardware and data center layer risk missing where a lot of value could concentrate. This article spotlights three stocks exposed to that same news story. The three stocks below are just a sample of the idea, and the full...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:10:03+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:28:21.997170+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:cnbctv:4ff8cec65094b:0",
       "title": "Markets Espresso: Main Wapas Aaunga, ft. Jensen Huang, FIIs, Rohit Sharma, and tariffs!",
@@ -1312,6 +1331,30 @@
           "NSE:WELSPUNLIV",
           "NSE:KPRMILL",
           "NSE:VTL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:bloomingbit:a1baa5d9c094b:0",
+      "title": "Vitalik Buterin Calls for Open-Source Hardware Wallet Chip Designs; Ledger CTO Pushes Back",
+      "url": "https://en.bloomingbit.io/feed/news/125424",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Bloomingbit",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T10:23:46+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:28:22.477569+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:ETHUSD"
         ]
       }
     },
@@ -7017,6 +7060,25 @@
       "published_at": "2026-11-28T05:14:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T14:19:25.279256+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:18407cf9723f732a9334db00260a8bd83c15b306",
+      "title": "Hinge Health (HNGE) Stock Trades Above Fair Value On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a748742dc42708ee744105de4125f&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fhinge-health-hnge-stock-trades-051528661.html&c=11750597560096836354&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Hinge Health has been one of the stronger movers in digital health this year, and the share price run puts a sharp spotlight on what investors are actually paying for its earnings. With the stock now ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:14:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:28:24.424916+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
