@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T08:52:19.860085+08:00",
-  "count": 766,
+  "generated_at": "2026-11-28T08:55:23.276582+08:00",
+  "count": 769,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,54 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_TUA8RCRYX:0",
+      "title": "First Citizens Bank Enters Into Whole Bank Purchase Of United Fidelity Bank, FSB",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA8RCRYX:0-first-citizens-bank-enters-into-whole-bank-purchase-of-united-fidelity-bank-fsb/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:52:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:55:18.622431+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:FCNCA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:2f1e5e16ee457:0",
+      "title": "FCNR flows shore up first quarter BoP",
+      "url": "https://www.tradingview.com/news/moodys:2f1e5e16ee457:0-fcnr-flows-shore-up-first-quarter-bop/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:51:58+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:55:18.622431+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:BANKBARODA"
+        ]
+      }
+    },
     {
       "id": "tradingview:tradingview:f75dd6799e25b:0",
       "title": "BJ's Restaurants Director Sold Shares Worth Over $545K",
@@ -18260,6 +18308,25 @@
       "published_at": "2026-11-28T00:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T08:52:17.394825+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b35c87e3716a17b5bb4e9775f226a003509a325d",
+      "title": "Is Terex (TEX) Below Fair Value On Its Earnings Beat And Backlog Growth?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a26771c3e40848fbc2f5cce8b2ab1&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fterex-tex-below-fair-value-002426176.html&c=15351343927395186347&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Terex (TEX) moved back into focus after reporting adjusted earnings and revenue that topped consensus expectations, supported by sales strength across all four operating segments and higher order ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:55:20.942970+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
