@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T15:31:31.591522+08:00",
-  "count": 187,
+  "generated_at": "2026-11-28T15:37:20.874101+08:00",
+  "count": 189,
   "sources": [
     {
       "name": "cls",
@@ -21,7 +21,7 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 39,
+      "count": 41,
       "error": ""
     }
   ],
@@ -145,6 +145,44 @@
       "extra": {
         "important": 0
       }
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/wm/2026-11-28/doc-inkahrcf2534593.shtml",
+      "title": "央行：预计逾期罚息利率总体下行",
+      "url": "https://finance.sina.com.cn/wm/2026-11-28/doc-inkahrcf2534593.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "滚动播报",
+      "summary": "财经杂志 《规定》明确不再对逾期罚息利率区间进行具体规定，而是由金融机构跟借款人协商确定；《办法》明确，大额存单个人投资人认购起点金额由不低于20万元降至不低于10...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:06:23+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:37:15.392935+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/wm/2026-11-28/doc-inkahrcf2534565.shtml",
+      "title": "医保支付方式改革的逻辑",
+      "url": "https://finance.sina.com.cn/wm/2026-11-28/doc-inkahrcf2534565.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "滚动播报",
+      "summary": "财经杂志医保支付方式改革的逻辑，是推动医、患、保三方共赢 文 |应亚珍 中国医保支付方式改革的本质，是通过改变医保“怎么付钱”，引导医疗服务“怎么提供”...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:06:23+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:37:15.392935+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
     },
     {
       "id": "jin10:20261128150008650800",

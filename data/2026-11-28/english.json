@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T15:34:24.827963+08:00",
-  "count": 965,
+  "generated_at": "2026-11-28T15:37:20.852583+08:00",
+  "count": 968,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:newsbtc:bd9bb6222094b:0",
+      "title": "Solana News: Developers Issue Urgent Upgrade Notice to Mainnet Validators",
+      "url": "https://www.newsbtc.com/altcoin-news/solana-news-urgent-validator-upgrade/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "NewsBTC",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:34:40+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:37:15.471740+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:SOLUSD"
+        ]
+      }
+    },
     {
       "id": "tradingview:moodys:c5c2f5970e9eb:0",
       "title": "Indian Navy Receives Final Project 17A Frigate Vindhyagiri",
@@ -221,6 +245,25 @@
           "NSE:LT"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/28/the-best-natural-gas-stocks-to-buy-and-hold-through-2040/?.tsrc=rss",
+      "title": "The Best Natural Gas Stocks to Buy and Hold Through 2040",
+      "url": "https://www.fool.com/investing/2026/11/28/the-best-natural-gas-stocks-to-buy-and-hold-through-2040/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "With natural gas demand on the upswing, EQT Production and Kinder Morgan have the potential to reward long-term investors.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:25:02+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:37:15.536779+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:6cea1d3880f1d:0",
@@ -5259,6 +5302,25 @@
       "published_at": "2026-11-28T06:56:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T15:34:22.220979+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d1634ed66ff2e0fe4710f862f548fadf6bbd0494",
+      "title": "Stock Market: This Defence Stock Turns Multibagger In 2026, Jumps 200%: Do You Own?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a84ab6390458cad31aa7ecf010335&url=https%3a%2f%2fwww.ndtv.com%2fbusiness-news%2fstock-market-news-this-defence-stock-turns-multibagger-in-2026-jumps-200-do-you-own-12388089&c=1178085241897707777&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Raymond shares have gained over 135 per cent in the past six months and more than 20 per cent in the last one month.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T06:56:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:37:17.143765+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
