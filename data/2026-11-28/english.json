@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T18:34:17.267966+08:00",
-  "count": 1275,
+  "generated_at": "2026-11-28T18:37:21.186196+08:00",
+  "count": 1286,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 4,
+      "count": 6,
       "error": ""
     },
     {
@@ -38,6 +38,50 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L3N474016:0",
+      "title": "Conservatives set to win government in Australia's second-most populous state",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N474016:0-conservatives-set-to-win-government-in-australia-s-second-most-populous-state/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T18:32:20+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T18:37:16.652949+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:cointelegraph:b9244c300094b:0",
+      "title": "ASEAN+3 agrees on initiative to explore crypto payments cooperation",
+      "url": "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss-trading-view&utm_campaign=rss_partner_inbound",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Cointelegraph",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T18:31:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T18:37:16.652949+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/28/s-and-p-500-market-correction-3-safe-stocks-to-buy-now/?.tsrc=rss",
       "title": "S&P 500 Market Correction: 3 “Safe” Stocks to Buy Now",
@@ -342,6 +386,54 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "tradingview:coinpedia:901624416094b:0",
+      "title": "XRP Ledger Hits 80% Lending Threshold as Deaton Says XRP Has More to Unlock",
+      "url": "https://coinpedia.org/news/xrp-ledger-hits-80-lending-threshold-as-deaton-says-xrp-has-more-to-unlock/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Coinpedia",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T17:13:33+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T18:37:16.652949+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:XRPUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinpedia:660d3cb2f094b:0",
+      "title": "Chainlink Reserve Nears 7 Million LINK as Treasury Adds 122K Tokens: Can LINK Price Reclaim $10?",
+      "url": "https://coinpedia.org/price-analysis/chainlink-reserve-nears-7-million-link-as-treasury-adds-122k-tokens-can-link-price-reclaim-10/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Coinpedia",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T17:07:24+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T18:37:16.652949+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:LINKUSD"
+        ]
+      }
     },
     {
       "id": "alpaca:132475209",
@@ -1082,6 +1174,31 @@
         "urgency": 2,
         "symbols": [
           "NSE:E2E"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinpedia:919f08ac7094b:0",
+      "title": "Justin Sun Accuses Trump-Linked WLFI of Investor Fraud as WLFI Crashes 55%",
+      "url": "https://coinpedia.org/news/justin-sun-accuses-trump-linked-wlfi-of-investor-fraud-as-wlfi-crashes-55/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Coinpedia",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:53:17+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T18:37:16.652949+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:USD1WUSD",
+          "COINBASE:WLFIUSD"
         ]
       }
     },
@@ -5883,6 +6000,44 @@
       "extra": {}
     },
     {
+      "id": "msn:3cbb4020c034275ee27d903cefa743e16c1fecd7",
+      "title": "Sacyr (BME:SCYR) Stock May Look Fully Priced For Its Earnings Story",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0aaedd3aef4fc8bb6af0deef5230fb&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fsacyr-bme-scyr-stock-may-101221788.html&c=17731043270917157634&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Sacyr has delivered a strong multi-year share price run, so the obvious question is whether the current valuation is still grounded in its earnings power. With the stock last closing at €4.20, ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T10:12:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T18:37:18.550562+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:9761721ec23316e3e9110c7dda2935226222a836",
+      "title": "Is XD (SEHK:2400) Already Above Fair Value On Earnings?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0aaedd3aef4fc8bb6af0deef5230fb&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fxd-sehk-2400-already-above-101254388.html&c=2325578383888017438&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "XD has had a rough period lately, yet its longer history on the market is far from straightforward, which puts fresh attention on whether the current share price lines up with what its earnings can ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T10:12:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T18:37:18.550562+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261127005370:0",
       "title": "Americans Are More Exposed to the Stock Market Than Ever Before — WSJ",
       "url": "https://www.tradingview.com/news/DJN_DN20261127005370:0-americans-are-more-exposed-to-the-stock-market-than-ever-before-wsj/",
@@ -7408,6 +7563,25 @@
       "extra": {}
     },
     {
+      "id": "msn:b9a55d4168f07be420e462ecdb3775bede664872",
+      "title": "If A Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move You Can Make",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0aaedc890e4107a9c2ba6a9c099633&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fif-a-stock-market-crash-is-coming-warren-buffett-says-this-is-the-smartest-move-you-can-make%2far-AA2ip5id&c=9620126643030031376&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "When the Oracle of Omaha speaks, it can pay to listen.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T18:37:18.550562+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.fool.com/investing/2026/11/27/3-reasons-i-might-buy-more-nvidia-in-december/?.tsrc=rss",
       "title": "3 Reasons I Might Buy More Nvidia in December",
       "url": "https://www.fool.com/investing/2026/11/27/3-reasons-i-might-buy-more-nvidia-in-december/?.tsrc=rss",
@@ -7617,6 +7791,25 @@
       "published_at": "2026-11-28T08:28:02+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T17:04:16.721109+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:54bbfa8f5c4255fd8c751168ec7186ae6606b85b",
+      "title": "After an S&P 500 Correction, Your Money Could Double in 4 Years. Stock Market History Shows Reasons for Hope.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0aaedc890e4107a9c2ba6a9c099633&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fafter-an-s-p-500-correction-your-money-could-double-in-4-years-stock-market-history-shows-reasons-for-hope%2far-AA2iphYr&c=15052593008523722399&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Analysis of S&P 500 historical returns shows: the stock market often delivers above-average returns right after its biggest declines.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:28:02+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T18:37:18.550562+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -8380,6 +8573,25 @@
       "published_at": "2026-11-28T08:07:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T18:31:16.583190+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b7c8aafa9b73e0e7c67fa554ead8f7bc344f5b14",
+      "title": "Sylvamo: Better Earnings, Persistent Cash Flow Challenges",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0aaedd3aef4fc8bb6af0deef5230fb&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972713-sylvamo-better-earnings-persistent-cash-flow-challenges&c=5048870547865812009&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Analyst rates Sylvamo a Hold at $34.60: earnings may recover in 2027, but cash flow may lag; the target uses 6.5x EBITDA amid delayed Sumter benefits.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:07:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T18:37:18.550562+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -29264,6 +29476,25 @@
       "published_at": "2026-11-28T00:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T18:34:15.385647+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:7a9e0d144a12f06358f18734aec3ab37d30bd9a4",
+      "title": "Americans Are More Exposed to the Stock Market Than Ever Before",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0aaedc890e4107a9c2ba6a9c099633&url=https%3a%2f%2fwww.wsj.com%2ffinance%2fstocks%2fus-stock-market-wealth-0caf5bac&c=2149664428336546729&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T18:37:18.550562+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
