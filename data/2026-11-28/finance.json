@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T11:01:17.651173+08:00",
-  "count": 142,
+  "generated_at": "2026-11-28T11:04:19.785837+08:00",
+  "count": 143,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 31,
+      "count": 32,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/tech/2026-11-28/doc-inkahepm2670754.shtml",
+      "title": "华为已成为中国人工智能发展的核心力量",
+      "url": "https://finance.sina.com.cn/tech/2026-11-28/doc-inkahepm2670754.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "在中国深圳的华为总部，一条富丽堂皇的走廊金光闪闪，天花板鎏金，墙上绘有精美壁画。这条走廊以那位曾力图让这家中国科技巨头一蹶不振的美国总统命名。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T11:02:55+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T11:04:15.405215+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261128110015878800",
       "title": "据日经新闻：日本防卫省前一天发布了《防卫AI愿景》，包括新设一个统一管理AI所需数据的机构，将AI应用于自卫队执行任务。",
