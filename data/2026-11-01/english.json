@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-01",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-29T01:13:23.527941+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:3490a48a7c6e8672ed06e85588274d90c998b225",
+      "title": "Is the economy better than before Trump retook office? See the data",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0b0bae895f41f4a97aa562cb28c4e0&url=https%3a%2f%2fwww.usatoday.com%2fstory%2fmoney%2feconomy%2f2026%2f11%2f01%2ftrumps-economic-promises-vs-reality-before-the-midterms%2f92249396007%2f&c=5689001220732972346&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "President Donald Trump is not running in this year's midterm elections, but he'd like voters to act as if he is. “Just close your eyes and pretend I’m on the ballot,” Trump told a crowd in Mobile, ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-01T14:09:00+08:00",
+      "published_date": "2026-11-01",
+      "fetched_at": "2026-11-29T01:13:20.380820+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
