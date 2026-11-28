@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T19:10:17.974302+08:00",
-  "count": 12631,
+  "generated_at": "2026-11-28T19:13:26.764328+08:00",
+  "count": 12632,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 1,
       "error": ""
     },
     {
@@ -138668,6 +138668,25 @@
       "published_at": "2026-11-25T17:00:00+08:00",
       "published_date": "2026-11-25",
       "fetched_at": "2026-11-28T19:10:16.276004+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:439ee9ddcc6fbd6f02b1b02ab11144976e9da379",
+      "title": "Is the Stock Market Open on Thanksgiving Day 2026?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ab75380e24d23a6575e30695807b5&url=https%3a%2f%2fwww.newsweek.com%2fstock-market-thanksgiving-2026-12761725&c=5194482333637650025&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "U.S. stock markets will close for Thanksgiving 2026, with the NYSE and Nasdaq reopening for shorter hours on Friday.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-25T17:00:00+08:00",
+      "published_date": "2026-11-25",
+      "fetched_at": "2026-11-28T19:13:25.002415+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
