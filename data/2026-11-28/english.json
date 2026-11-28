@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T12:46:21.810224+08:00",
-  "count": 855,
+  "generated_at": "2026-11-28T12:49:31.010711+08:00",
+  "count": 856,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -20309,6 +20309,25 @@
       "published_at": "2026-11-28T00:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T12:46:18.445010+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:09a0ffb8443c20d7051a3cfd342431f5116759bc",
+      "title": "Alliance Resource Partners (ARLP) Stock Still Looks Reasonable Given Its Earnings Power",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a5d58551c4e21a62ca1f474fa1a85&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2falliance-partners-arlp-stock-still-040922849.html&c=6049277420654189503&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Alliance Resource Partners has delivered a very strong multi year run, yet the recent pullback leaves a clear question for investors about whether the current price of US$23.15 is supported by the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T12:49:29.667730+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
