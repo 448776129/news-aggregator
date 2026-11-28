@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T00:34:21.375952+08:00",
-  "count": 11,
+  "generated_at": "2026-11-29T00:43:19.974814+08:00",
+  "count": 15,
   "sources": [
     {
       "name": "alpaca",
@@ -27,7 +27,7 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 10,
+      "count": 14,
       "error": ""
     },
     {
@@ -38,6 +38,99 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:moodys:cc44d3b5894f8:0",
+      "title": "Who Am I? November 29, 2026",
+      "url": "https://www.tradingview.com/news/moodys:cc44d3b5894f8:0-who-am-i-november-29-2026/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:40:58+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:43:16.412262+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N47904G:0",
+      "title": "Trump-backed World Liberty crypto token falls around 50% overnight",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47904G:0-trump-backed-world-liberty-crypto-token-falls-around-50-overnight/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:40:30+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:43:16.412262+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L6N479056:0",
+      "title": "Sweden's Saab lands $492 million radar order from Ukraine",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N479056:0-sweden-s-saab-lands-492-million-radar-order-from-ukraine/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:37:42+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:43:16.412262+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "OMXSTO:SAAB_B"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:dea07a6e30187:0",
+      "title": "Honda Cars India Partners With Adani Total, Jio-bp, Tata Power To Expand EV Charging Network",
+      "url": "https://www.tradingview.com/news/moodys:dea07a6e30187:0-honda-cars-india-partners-with-adani-total-jio-bp-tata-power-to-expand-ev-charging-network/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:31:09+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:43:16.412262+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSE:7267",
+          "NSE:TATAPOWER"
+        ]
+      }
+    },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/28/fantastic-news-for-spacex-stock-investors/?.tsrc=rss",
       "title": "Fantastic News for SpaceX Stock Investors!",
