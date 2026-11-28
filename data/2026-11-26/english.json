@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T12:28:26.263436+08:00",
-  "count": 11312,
+  "generated_at": "2026-11-28T12:31:21.439360+08:00",
+  "count": 11313,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -112849,6 +112849,25 @@
       "published_at": "2026-11-26T12:34:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-28T12:28:23.820920+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:e06cba29065f3cc5c5c7a184d2e86799873d6d41",
+      "title": "How Much Is Jensen Huang Worth to Nvidia? The Stock Market Just Gave a Clear Answer",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a591520e74a849f22fdfb50117d94&url=https%3a%2f%2fwww.fool.com%2finvesting%2f2026%2f11%2f26%2fhow-much-is-jensen-huang-worth-to-nvidia-the-stock-market-just-gave-a-clear-answer%2f&c=2618231969656245332&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The company's revenue soared 103% year over year to $115.8 billion, with data center revenue rising 110% compared to the year-ago period. Nvidia's non-GAAP gross margin remains exceptional for a ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T12:34:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-28T12:31:19.035634+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",

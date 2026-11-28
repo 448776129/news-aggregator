@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-26T17:19:16.369232+08:00",
-  "count": 8,
+  "generated_at": "2026-11-28T12:31:20.963336+08:00",
+  "count": 9,
   "sources": [
     {
       "name": "alpaca",
@@ -186,6 +186,25 @@
       "published_date": "2026-10-22",
       "fetched_at": "2026-11-26T17:19:14.460482+08:00",
       "crawl_date": "2026-11-26",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d29cd81ea49cb395f17e46cd67e0eebd8eacefa5",
+      "title": "AAL",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a5915df4a4bdf864c248a44773fc8&url=https%3a%2f%2fseekingalpha.com%2fsymbol%2fAAL%2fearnings&c=14082004749751781933&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "* EPS estimates are Normalized unless otherwise noted.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-10-22T01:00:00+08:00",
+      "published_date": "2026-10-22",
+      "fetched_at": "2026-11-28T12:31:19.035634+08:00",
+      "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
       "extra": {}
