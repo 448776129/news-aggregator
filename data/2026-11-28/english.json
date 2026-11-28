@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T21:55:18.059769+08:00",
-  "count": 1666,
+  "generated_at": "2026-11-28T21:58:22.045839+08:00",
+  "count": 1672,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 3,
       "error": ""
     },
     {
@@ -38,6 +38,53 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:seekingalpha:23f31313a094b:0",
+      "title": "Elon Musk says Google willing to rent more compute from SpaceX",
+      "url": "https://seekingalpha.com/news/4677117-musk-says-google-willing-rent-spacex-compute?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T21:53:20+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T21:58:17.288058+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SPCX",
+          "NASDAQ:GOOG",
+          "NASDAQ:GOOGL",
+          "NASDAQ:ANT",
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/28/got-usd1-400-this-17-yielding-dividend-stock-could-pay-for-your-netflix-subscription/?.tsrc=rss",
+      "title": "Got $1,400? This 17%-Yielding Dividend Stock Could Pay for Your Netflix Subscription.",
+      "url": "https://www.fool.com/investing/2026/11/28/got-usd1-400-this-17-yielding-dividend-stock-could-pay-for-your-netflix-subscription/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Here is how this monster dividend stock could generate enough income to cover your monthly Netflix subscription.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T21:50:02+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T21:58:16.949959+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L1N479026:0",
       "title": "Black Friday online shopping rises to $13.1 billion in the US, Adobe Analytics data shows",
@@ -83,6 +130,25 @@
         "urgency": 2,
         "symbols": []
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/28/meet-the-consumer-stock-that-turned-usd10-000-into-usd20-600-in-2026-here-s-why-i-d-still-buy-it/?.tsrc=rss",
+      "title": "Meet the Consumer Stock That Turned $10,000 Into $20,600 in 2026. Here's Why I'd Still Buy It.",
+      "url": "https://www.fool.com/investing/2026/11/28/meet-the-consumer-stock-that-turned-usd10-000-into-usd20-600-in-2026-here-s-why-i-d-still-buy-it/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "This surprising stock has more than doubled this year. I'm still a believer.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T21:42:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T21:58:16.949959+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4790DY:0",
@@ -6785,6 +6851,25 @@
       "extra": {}
     },
     {
+      "id": "msn:ea100ec51bef5050b7b31e1cf9bdfe225e8cb001",
+      "title": "Stock Market: This Smallcap Stock Raises Rs 400 Crore. What Should Investors Know",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0addf97775447d95c03b02d2034649&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fstock-market-this-smallcap-stock-raises-rs-400-crore-what-should-investors-know%2far-AA2iqJnk&c=14054542331138331421&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stock Market News: Shalimar Paints announced the successful completion of the fundraise in an exchange filing.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T13:33:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T21:58:19.000440+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:7457c30aec49b494892ad20e2e591d2e7b0fedd8",
       "title": "Stock Market: This Smallcap Stock Raises Rs 400 Crore. What Should Investors Know",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0adbddb71742c2b727be30cea37839&url=https%3a%2f%2fwww.ndtv.com%2fbusiness-news%2fstock-market-this-smallcap-stock-raises-rs-400-crore-what-should-investors-know-12389450&c=16618941521859191036&mkt=en-us",
@@ -12778,6 +12863,25 @@
       "published_at": "2026-11-28T09:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T21:55:16.032445+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:8d5abfab1caa3aca3ea7ce465198ec219ff5e75f",
+      "title": "If A Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move You Can Make",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0addf97775447d95c03b02d2034649&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fif-a-stock-market-crash-is-coming-warren-buffett-says-this-is-the-smartest-move-you-can-make%2far-AA2ip5id&c=9620126643030031376&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "When the Oracle of Omaha speaks, it can pay to listen.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T21:58:19.000440+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -29037,6 +29141,25 @@
       "published_at": "2026-11-28T02:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T21:55:16.032445+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b9177de65acb94bc2f3ec737612ba01f1bafcc18",
+      "title": "Americans Are More Exposed to the Stock Market Than Ever Before",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0addf97775447d95c03b02d2034649&url=https%3a%2f%2fwww.wsj.com%2ffinance%2fstocks%2fus-stock-market-wealth-0caf5bac&c=2149664428336546729&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T21:58:19.000440+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
