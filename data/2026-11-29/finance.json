@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T02:46:22.944449+08:00",
-  "count": 36,
+  "generated_at": "2026-11-29T02:52:25.835094+08:00",
+  "count": 37,
   "sources": [
     {
       "name": "cls",
@@ -21,11 +21,30 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/usstock/c/2026-11-29/doc-inkaisqu8952572.shtml",
+      "title": "美国AI数据中心建设热潮 加剧全美建筑劳动力紧张局面",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-29/doc-inkaisqu8952572.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "环球市场播报",
+      "summary": "美国总统特朗普此前表示，美国企业若在美国境外建设数据中心，将会面临高额税收。 “有很多地区迫切想要引进数据中心，这些地方条件优越，能源供给充足，各项配套齐全。",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T02:51:13+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T02:52:20.598241+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
     {
       "id": "jin10:20261129023719780800",
       "title": "金十快讯",

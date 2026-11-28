@@ -3,8 +3,8 @@
   "category": "reddit",
   "category_name": "Reddit 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T02:49:23.903643+08:00",
-  "count": 27,
+  "generated_at": "2026-11-29T02:52:25.836998+08:00",
+  "count": 30,
   "sources": [
     {
       "name": "reddit",
@@ -14,6 +14,75 @@
     }
   ],
   "items": [
+    {
+      "id": "reddit:1y7tfg6",
+      "title": "Feels like February 2020 again, except what's spreading is outages. I'm long ARQQ",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1y7tfg6/feels_like_february_2020_again_except_whats/",
+      "source": "reddit",
+      "source_name": "Reddit",
+      "author": "CanadianDoc2019",
+      "summary": "Early 2020 was a pile of headlines that each had an explanation, officials saying contained, and everyone going about their day. November has felt the same to me. Last 30 days: a $6.3B exchange hack on Oct 29, the biggest on record, where the way in was a fake job interview plus the company's own internal AI tool. Microsoft services down for days Nov 12 to 14. Every US flight grounded by the FAA on the 13th, blamed on old equipment. On the 16th, six big banks had problems the same day (Chase says bug), United paused departures, and a poisoned Optimizely script sat on 178 sites for about 19 hours skimming card numbers. An internal NSA platform went dark on the 17th. On Nov 18 the intelligence, DHS and FBI chiefs told Congress none of it is related. Maybe they're right. Now the weird part. On Nov 20 Levent Alpöge at Anthropic posted a proof of the Riemann hypothesis built with Claude. The Lean FRO and Mathlib people checked the formal proof a day later and said they're fully confident. It's 17 million lines of code and no human-readable version exists yet. Four days after that, Scott Aaronson said in his own blog comments that he's heard \"many, many rumors\" that one or both big labs are sitting on fast factoring. Noah Smith quote-posted it to 704K views. Aaronson has since told people to stop citing him and said what he's sure of falls well short of that. Neither lab has said a word. So this is a rumor, and I'm trading it as one. Why it matters if it's even half true: RSA only works because factoring giant numbers is supposed to be impractical. Break that and software update signatures can be forged and RSA-encrypted data gets read. AES, hashes and the NIST post-quantum schemes survive, so everyone has to migrate off RSA. My pick for that migration is Arqit (ARQQ). It came public through Centricus Acquisition Corp in 2021 and sells symmetric key encryption, the kind that doesn't lean on factoring. It was around $12.26 late Friday morning, up about 10% from Wednesday's $11.09 close after an 11% day Wednesday. It's still down about 34% over 30 days. Titan Partners started coverage this week at Buy with a $22 target. The bear case is easy. Preliminary fiscal 2026 revenue is about $1 million, so this is a tiny company with a big story. Polynomial on paper can also still be uselessly slow, and plenty of systems are already off RSA. If the rumor dies, this gives it all back. If you want the same idea in size, IBM and Cloudflare (NET) are building post-quantum defenses too. I don't think this helps IonQ, Rigetti or D-Wave, because the rumor is about math on ordinary computers. Positions: long ARQQ, long gold. This is a rumor trade in a small cap and I could be completely wrong and regarded.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T02:51:00+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T02:52:24.192269+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "reddit",
+      "extra": {
+        "subreddit": "wallstreetbets",
+        "score": 1,
+        "num_comments": 0
+      }
+    },
+    {
+      "id": "reddit:1y7tf0l",
+      "title": "Wth Macy’s? $M",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1y7tf0l/wth_macys_m/",
+      "source": "reddit",
+      "source_name": "Reddit",
+      "author": "Valuemachineblog",
+      "summary": "Currently selling at a forward pe of 10.35 Twelve month Trailing sales of $22B market cap 6.4 billion. Berkshire been buying too. Need to do more DD, but definitely looks very cheap at these levels.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T02:50:27+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T02:52:24.192269+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "reddit",
+      "extra": {
+        "subreddit": "wallstreetbets",
+        "score": 1,
+        "num_comments": 0
+      }
+    },
+    {
+      "id": "reddit:1y7te5i",
+      "title": "Jensen explaining the allegations to shareholders",
+      "url": "https://www.reddit.com/r/wallstreetbets/comments/1y7te5i/jensen_explaining_the_allegations_to_shareholders/",
+      "source": "reddit",
+      "source_name": "Reddit",
+      "author": "wyudtix",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T02:49:28+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T02:52:24.192269+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "reddit",
+      "extra": {
+        "subreddit": "wallstreetbets",
+        "score": 1,
+        "num_comments": 0
+      }
+    },
     {
       "id": "reddit:1y7tbul",
       "title": "This feels like February 2020, except the thing spreading is AI. A month of \"one-off\" hacks and outages, Riemann solved etc PNP cracked.",
