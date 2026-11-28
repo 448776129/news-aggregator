@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-13",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-28T19:46:19.405699+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:2be302f52a116fa6b1bb0fbb35d5d5f189d140a9",
+      "title": "The Role of Earnings Forecasts in Stock Valuation",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abf091e4d48899643b7aa116448c6&url=https%3a%2f%2fwww.investopedia.com%2farticles%2fstocks%2f06%2fearningsforecasts.asp&c=7347736509355060194&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Ben McClure is a seasoned venture finance advisor with 10+ years of experience helping CEOs secure early-stage investments. Thomas J. Brock is a CFA and CPA with more than 20 years of experience in ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-08-13T03:15:00+08:00",
+      "published_date": "2026-08-13",
+      "fetched_at": "2026-11-28T19:46:19.095532+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
