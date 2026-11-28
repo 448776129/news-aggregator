@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-27T15:28:35.128629+08:00",
-  "count": 38,
+  "generated_at": "2026-11-28T08:22:32.951788+08:00",
+  "count": 39,
   "sources": [
     {
       "name": "alpaca",
@@ -756,6 +756,25 @@
       "published_date": "2023-05-07",
       "fetched_at": "2026-11-27T15:28:33.026448+08:00",
       "crawl_date": "2026-11-27",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:42e3c8abcebdf1ef6f96e994127e3fa5eb45225a",
+      "title": "Global Economy and Development",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a1ebe08954681bc20da6ba89e62a4&url=https%3a%2f%2fwww.brookings.edu%2fprograms%2fglobal-economy-and-development%2f&c=12118278970976190586&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The global economy is on an unsustainable path characterized by widening economic and social inequities, environmental degradation, and increasing concentration of poverty and deprivation that ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2023-05-07T16:22:00+08:00",
+      "published_date": "2023-05-07",
+      "fetched_at": "2026-11-28T08:22:24.638892+08:00",
+      "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
       "extra": {}
