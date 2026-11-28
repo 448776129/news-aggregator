@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T10:31:21.314607+08:00",
-  "count": 811,
+  "generated_at": "2026-11-28T10:34:21.145165+08:00",
+  "count": 812,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 0,
+      "count": 6,
       "error": ""
     },
     {
@@ -7183,6 +7183,25 @@
           "COMEX:SI1!"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.barchart.com/story/news/9037026/unstoppable-nvda-stock-jensen-huang-is-back-and-nvidia-is-eyeing-75-revenue-growth-in-fy-2028?.tsrc=rss",
+      "title": "Unstoppable NVDA Stock? Jensen Huang is Back, and Nvidia Is Eyeing 75% Revenue Growth in FY 2028.",
+      "url": "https://www.barchart.com/story/news/9037026/unstoppable-nvda-stock-jensen-huang-is-back-and-nvidia-is-eyeing-75-revenue-growth-in-fy-2028?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Jensen Huang is back at Nvidia’s helm, while record AI demand and a 75% FY2028 revenue-growth target give NVDA stock a fresh catalyst.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T04:30:03+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T10:34:17.107677+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L2N4780J6:0",
