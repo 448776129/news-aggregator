@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T09:07:20.533506+08:00",
-  "count": 796,
+  "generated_at": "2026-11-28T09:10:17.405974+08:00",
+  "count": 798,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 35,
+      "count": 36,
       "error": ""
     }
   ],
@@ -666,6 +666,25 @@
           "MIL:MONC"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/technology/ai/articles/openai-says-spy-handed-apple-010000370.html?.tsrc=rss",
+      "title": "OpenAI says a spy handed Apple secret plans for AI devices that could 'outcompete' the iPhone maker on its 'own turf'",
+      "url": "https://finance.yahoo.com/technology/ai/articles/openai-says-spy-handed-apple-010000370.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "OpenAI and Apple are suing each other for stealing as the race to develop AI products fuels competition for talent and technology.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T09:10:13.954072+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/27/why-monte-rosa-therapeutics-stock-slumped-today/?.tsrc=rss",
@@ -1762,6 +1781,25 @@
           "FWB:Q7S"
         ]
       }
+    },
+    {
+      "id": "yahoo:a6c2f32eb12aac5cc0b39ca3ff281bd4af48b575",
+      "title": "Plot Twist: Nvidia’s Vera Rubin Gets 2-6.5x GB300’s Tokens per Dollar. Amazon’s Trainium Edge Was Against the Old Chip",
+      "url": "https://www.tikr.com/blog/plot-twist-nvidias-vera-rubin-gets-2-6-5x-gb300s-tokens-per-dollar-amazons-trainium-edge-was-against-the-old-chip?ref=yahoofinance&tlnk=yf-261127-2mxwqf36&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysSemiAnalysis found that Nvidia’s Vera Rubin NVL72 rack delivers 2x to 6. 5x the tokens per dollar of total cost of its GB300 NVL72 rack.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T07:23:55+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T09:10:13.954072+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:urn:summary_document_report:quartr.com:4122167:0",
