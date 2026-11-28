@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T00:46:30.741865+08:00",
-  "count": 17,
+  "generated_at": "2026-11-29T01:03:49.894038+08:00",
+  "count": 18,
   "sources": [
     {
       "name": "alpaca",
@@ -27,7 +27,7 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 14,
+      "count": 15,
       "error": ""
     },
     {
@@ -38,6 +38,32 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_DN20261128000774:0",
+      "title": "Smartglasses Are Coming to Work. Is Your Office Ready? — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261128000774:0-smartglasses-are-coming-to-work-is-your-office-ready-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T01:00:00+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T01:03:44.152835+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:IT",
+          "NYSE:RCL",
+          "NYSE:LUV"
+        ]
+      }
+    },
     {
       "id": "tradingview:moodys:cc44d3b5894f8:0",
       "title": "Who Am I? November 29, 2026",
