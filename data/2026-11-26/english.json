@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T23:46:20.913214+08:00",
-  "count": 12007,
+  "generated_at": "2026-11-28T23:49:28.410271+08:00",
+  "count": 12009,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 2,
       "error": ""
     },
     {
@@ -135045,6 +135045,25 @@
       "extra": {}
     },
     {
+      "id": "msn:http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0af8030e7b4644816c6126ed05a6b7&url=https%3a%2f%2fwww.cnbc.com%2fchina-economy%2f&c=16086277071209177195&mkt=en-us",
+      "title": "China Economy",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0af8030e7b4644816c6126ed05a6b7&url=https%3a%2f%2fwww.cnbc.com%2fchina-economy%2f&c=16086277071209177195&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox, and ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T09:01:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-28T23:49:25.519844+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:prnewswire:fcfffa1c30a84:0",
       "title": "Agoda's Eco Deals Reaches US$1.5 Million Donation Target Ahead of Schedule, Raises US$4.39 Million for Conservation Across Asia",
       "url": "https://www.tradingview.com/news/prnewswire:fcfffa1c30a84:0-agoda-s-eco-deals-reaches-us-1-5-million-donation-target-ahead-of-schedule-raises-us-4-39-million-for-conservation-across-asia/",
@@ -189902,6 +189921,25 @@
       "published_at": "2026-11-26T04:15:00+08:00",
       "published_date": "2026-11-26",
       "fetched_at": "2026-11-28T23:46:17.744620+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:7ddf5c91d01d6028f463dad82f51b607efd26e40",
+      "title": "The Davenport Funds Q3 2026 Stock Market Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0af8039352419c9617a53787bea925&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972122-the-davenport-funds-q3-2026-stock-market-update&c=1750984287228659284&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Q3 2026 saw narrow market leadership amid rising interest rates, oil prices, and AI shifts. Read the full market commentary and outlook.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-26T04:15:00+08:00",
+      "published_date": "2026-11-26",
+      "fetched_at": "2026-11-28T23:49:25.519844+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
