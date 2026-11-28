@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-14",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-28T14:40:23.046019+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:cf959dacc731a7599e2240bd68741453494f52a1",
+      "title": "High-frequency data show improving trend in Chinese economy in October",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a775315134bf28379b9a6f6d3419c&url=http%3a%2f%2fen.ce.cn%2fmain%2flatest%2f202611%2ft20261114_3294279.shtml&c=16978046284735889280&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The data also showed that the departure deadweight tonnage of cargo ships at major Chinese ports increased 59.1 percent year on year in October, with the growth rate 5.9 percentage points higher than ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-14T09:07:00+08:00",
+      "published_date": "2026-11-14",
+      "fetched_at": "2026-11-28T14:40:20.741852+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}

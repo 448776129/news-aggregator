@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T14:37:20.558101+08:00",
-  "count": 888,
+  "generated_at": "2026-11-28T14:40:24.108461+08:00",
+  "count": 892,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 0,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,54 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:stocktwits:31f85e42c094b:0",
+      "title": "US Black Friday Online Sales To Top $13B, Says Adobe, As Consumers Look Past Inflation And Elevated Gas Prices",
+      "url": "https://stocktwits.com/news-articles/markets/equity/us-black-friday-online-sales-2026-13b-adobe-report-inflation/cNRRA2QR9Vr",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:36:03+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:40:18.735753+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ADBE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coindar:e9cbf5d5d094b:0",
+      "title": "Injective to Be Integrated With Bitget Wallet",
+      "url": "https://www.tradingview.com/news/coindar:e9cbf5d5d094b:0-injective-to-be-integrated-with-bitget-wallet/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Coindar",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:35:47+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:40:18.735753+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 1,
+        "symbols": [
+          "CRYPTO:INJUSD"
+        ]
+      }
+    },
     {
       "id": "tradingview:cnbctv:afc394ce7094b:0",
       "title": "US Black Friday online sales to cross $13 billion, Adobe says",
@@ -4934,6 +4982,25 @@
       }
     },
     {
+      "id": "msn:e175627e9ef313bc31868a7ba2b42da0553db136",
+      "title": "Laureate Education (LAUR) Stock May Still Be A Bargain As Earnings Matter",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a775331474e53b52ad7db0c33a171&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2flaureate-education-laur-stock-may-060817376.html&c=11563837292146655140&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Laureate Education has delivered very strong long term share gains, which puts a spotlight on whether the current price still lines up with what its earnings can support. With that kind of run behind ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T06:08:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:40:20.741852+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780VV:0",
       "title": "S&P Raises South Africa Foreign Currency Rating To \"BB+\", Local Currency Rating To \"BBB-\"",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4780VV:0-s-p-raises-south-africa-foreign-currency-rating-to-bb-local-currency-rating-to-bbb/",
@@ -7123,6 +7190,25 @@
       "published_at": "2026-11-28T05:14:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T14:34:19.326574+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:63d98a047ca18b1c725b839fb17f9e1e9c16b268",
+      "title": "Hinge Health (HNGE) Stock Trades Above Fair Value On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a775331474e53b52ad7db0c33a171&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fhinge-health-hnge-stock-trades-051528661.html&c=11750597560096836354&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Hinge Health has been one of the stronger movers in digital health this year, and the share price run puts a sharp spotlight on what investors are actually paying for its earnings. With the stock now ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:14:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:40:20.741852+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
