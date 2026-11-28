@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T20:28:29.561814+08:00",
-  "count": 1497,
+  "generated_at": "2026-11-28T20:31:30.875897+08:00",
+  "count": 1501,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 11,
+      "count": 0,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 5,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,54 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:DJN_SN20261128000908:0",
+      "title": "These tech stocks may let you play defense without giving up on AI",
+      "url": "https://www.tradingview.com/news/DJN_SN20261128000908:0-these-tech-stocks-may-let-you-play-defense-without-giving-up-on-ai/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "MarketWatch",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T20:30:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:31:17.048897+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:APH",
+          "NASDAQ:CDW",
+          "NYSE:ST"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L4N47900R:0",
+      "title": "Myanmar military airstrike on village school kills at least 30 people, opposition says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N47900R:0-myanmar-military-airstrike-on-village-school-kills-at-least-30-people-opposition-says/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T20:29:51+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:31:17.048897+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
     {
       "id": "tradingview:stocktwits:5d6c0c051094b:0",
       "title": "Peter Brandt Says BTC's Four-Year Cycle Is 'Out The Window,' Warns A Slide To The Low $30,000s Would Be 'The Doom Of Bitcoin'",
@@ -10388,6 +10436,25 @@
       "published_at": "2026-11-28T09:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T20:28:26.846143+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:f5dc429972e0af85e58ef94e25c73ce1afa4ede0",
+      "title": "If A Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move You Can Make",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac995f0cf453980031fe8ab3d992f&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fif-a-stock-market-crash-is-coming-warren-buffett-says-this-is-the-smartest-move-you-can-make%2far-AA2ip5id&c=9620126643030031376&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "When the Oracle of Omaha speaks, it can pay to listen.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:31:18.838504+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -25659,6 +25726,25 @@
       "published_at": "2026-11-28T02:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T20:28:26.846143+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:2c0fbf0c3f470dd4acbb246e3029e916ed7d034a",
+      "title": "Americans Are More Exposed to the Stock Market Than Ever Before",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac995f0cf453980031fe8ab3d992f&url=https%3a%2f%2fwww.wsj.com%2ffinance%2fstocks%2fus-stock-market-wealth-0caf5bac&c=2149664428336546729&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:31:18.838504+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
