@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T02:13:19.284300+08:00",
-  "count": 38,
+  "generated_at": "2026-11-29T02:19:21.562209+08:00",
+  "count": 39,
   "sources": [
     {
       "name": "alpaca",
@@ -27,7 +27,7 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 25,
+      "count": 26,
       "error": ""
     },
     {
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:business_wire:a84caf079d29d:0",
+      "title": "Sensormatic Solutions ShopperTrak Analytics Data Indicates Intentional Shopping Shaped Black Friday 2026 in the U.S.",
+      "url": "https://www.tradingview.com/news/business_wire:a84caf079d29d:0-sensormatic-solutions-shoppertrak-analytics-data-indicates-intentional-shopping-shaped-black-friday-2026-in-the-u-s/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T02:19:00+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T02:19:17.593190+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:JCI"
+        ]
+      }
+    },
     {
       "id": "tradingview:cryptobriefing:6e7f04210094b:0",
       "title": "Stacks lets institutions earn yield on Bitcoin without moving it off layer 1",
