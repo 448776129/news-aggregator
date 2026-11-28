@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T02:28:18.902711+08:00",
-  "count": 41,
+  "generated_at": "2026-11-29T02:37:23.903986+08:00",
+  "count": 44,
   "sources": [
     {
       "name": "alpaca",
@@ -27,7 +27,7 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 26,
+      "count": 28,
       "error": ""
     },
     {
@@ -38,6 +38,73 @@
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/28/jensen-huang-s-return-as-ceo-doesn-t-fix-all-of-nvidia-s-problems-but-it-gives-it-a-fighting-chance/?.tsrc=rss",
+      "title": "Jensen Huang's Return as CEO Doesn't Fix All of Nvidia's Problems, but It Gives It a Fighting Chance",
+      "url": "https://www.fool.com/investing/2026/11/28/jensen-huang-s-return-as-ceo-doesn-t-fix-all-of-nvidia-s-problems-but-it-gives-it-a-fighting-chance/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Huang's reinstatement is great news for the chipmaker, but issues remain.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T02:31:02+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T02:37:14.584391+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:seekingalpha:dbba98a23094b:0",
+      "title": "American Airlines planes clip wings at Reagan Airport before takeoff",
+      "url": "https://seekingalpha.com/news/4677123-american-airlines-planes-collide-reagan-airport?utm_source=tradingview&utm_medium=referral&feed_item_type=news",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Seeking Alpha",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T02:27:39+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T02:37:14.733153+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:AAL"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cryptobriefing:718cb28ff094b:0",
+      "title": "More Americans own Bitcoin than ETFs, says Bloomberg's Eric Balchunas",
+      "url": "https://cryptobriefing.com/more-americans-own-bitcoin-than-etfs/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T02:23:57+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T02:37:14.733153+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/28/2-stocks-to-buy-in-the-ai-chip-stock-sell-off-and-hold-for-5-years/?.tsrc=rss",
       "title": "2 Stocks to Buy in the AI Chip Stock Sell-Off and Hold for 5 Years",
