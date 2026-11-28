@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T16:04:25.005700+08:00",
-  "count": 1038,
+  "generated_at": "2026-11-28T16:07:23.501595+08:00",
+  "count": 1057,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,54 @@
     }
   ],
   "items": [
+    {
+      "id": "alpaca:132466876",
+      "title": "Bioextrax Announces Webcast for December 3, 2026",
+      "url": "https://www.avanza.se/nyheter.html?a=%2Fnyheter%2Fhushallen-haller-hardare-i-planboken-kan-bromsa-aterhamtningen-2026-11-27",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Bioextrax has scheduled a company webcast to take place on Thursday, December 3, 2026.",
+      "content": "Bioextrax has announced that it will host a webcast for investors and interested parties on Thursday, December 3, 2026. The event serves as a scheduled communication update from the company. No further details regarding the specific agenda or topics to be covered were provided in the announcement.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:04:06+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:18.771012+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BIOEX"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132466875",
+      "title": "Dataproces Enters New Subscription Agreement for SchulRadar",
+      "url": "https://www.avanza.se/nyheter.html?a=%2Fnyheter%2Fhushallen-haller-hardare-i-planboken-kan-bromsa-aterhamtningen-2026-11-27",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Dataproces Group has secured a new subscription agreement for its SchulRadar platform, bringing the total number of agreements to five.",
+      "content": "Dataproces Group A/S has announced the signing of a new subscription agreement for its SchulRadar solution. This latest contract increases the total number of active agreements for the platform to five. SchulRadar is part of the company's expansion into the German market, focusing on data analysis and software solutions for municipal administrations.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:04:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:18.771012+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "DATA"
+        ]
+      }
+    },
     {
       "id": "alpaca:132466733",
       "title": "Elicera Therapeutics: CARMA Phase IIa next – Q3 review",
@@ -1235,6 +1283,366 @@
         "source": "fiscal.ai",
         "symbols": [
           "NORCO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:783b613bd5aad:0",
+      "title": "Bajaj Group Targets 7-12 Cities With Rs 10,000 Cr Healthcare Plan",
+      "url": "https://www.tradingview.com/news/moodys:783b613bd5aad:0-bajaj-group-targets-7-12-cities-with-rs-10-000-cr-healthcare-plan/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:02:03+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:18.817285+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:BAJAJ_AUTO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:08eafcf8ef214:0",
+      "title": "India’s FY28 Fiscal Deficit Seen At 4.3% Amid Spending Pressures: Deutsche Bank",
+      "url": "https://www.tradingview.com/news/moodys:08eafcf8ef214:0-india-s-fy28-fiscal-deficit-seen-at-4-3-amid-spending-pressures-deutsche-bank/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:01:50+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:18.817285+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "XETR:DBK"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:225a25eb8792d:0",
+      "title": "Bajaj Group Enters Healthcare With Nivara, Bets Rs 2,500 Crore On Pune",
+      "url": "https://www.tradingview.com/news/moodys:225a25eb8792d:0-bajaj-group-enters-healthcare-with-nivara-bets-rs-2-500-crore-on-pune/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:01:47+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:18.817285+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:BAJAJHLDNG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:373c14dae1fd4:0",
+      "title": "Vodafone Idea Appoints Parthasarathy V S As Independent Director",
+      "url": "https://www.tradingview.com/news/moodys:373c14dae1fd4:0-vodafone-idea-appoints-parthasarathy-v-s-as-independent-director/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:01:43+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:18.817285+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:IDEA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:86ce03c1aa87b:0",
+      "title": "Key facts: Capex surges; TPU-8i may fall; Google eyes SpaceX capacity",
+      "url": "https://www.tradingview.com/news/tradingview:86ce03c1aa87b:0-key-facts-capex-surges-tpu-8i-may-fall-google-eyes-spacex-capacity/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:18.817285+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:GOOG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:18140a9deab13:0",
+      "title": "Key facts: Coca-Cola HBC Completes $2.6bn Africa Deal; 2027 EPS Gain",
+      "url": "https://www.tradingview.com/news/tradingview:18140a9deab13:0-key-facts-coca-cola-hbc-completes-2-6bn-africa-deal-2027-eps-gain/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:18.817285+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:CCH"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:a850597ecf016:0",
+      "title": "Key facts: ERAS-0015 Phase 1 Shows 44%-60% Responses; Well Tolerated",
+      "url": "https://www.tradingview.com/news/tradingview:a850597ecf016:0-key-facts-eras-0015-phase-1-shows-44-60-responses-well-tolerated/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:18.817285+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ERAS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:9b9a40ab05f2b:0",
+      "title": "Key facts: Morgan Stanley below 5%; Societe Generale crosses threshold",
+      "url": "https://www.tradingview.com/news/tradingview:9b9a40ab05f2b:0-key-facts-morgan-stanley-below-5-societe-generale-crosses-threshold/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:18.817285+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "LSE:EZJ"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:6d38f7a470481:0",
+      "title": "Key facts: NVIDIA revenue surges; shares fall; rating on negative watch",
+      "url": "https://www.tradingview.com/news/tradingview:6d38f7a470481:0-key-facts-nvidia-revenue-surges-shares-fall-rating-on-negative-watch/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:18.817285+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:bf12a4eb8d4e7:0",
+      "title": "Key facts: Price Target Cut to $150.58; Analysts Maintain Buy Consensus",
+      "url": "https://www.tradingview.com/news/tradingview:bf12a4eb8d4e7:0-key-facts-price-target-cut-to-150-58-analysts-maintain-buy-consensus/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:18.817285+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NTES"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:1f8b5d9a8e959:0",
+      "title": "Key facts: Refinancing risk; funds lose 31%; CEO and CFO pay rise",
+      "url": "https://www.tradingview.com/news/tradingview:1f8b5d9a8e959:0-key-facts-refinancing-risk-funds-lose-31-ceo-and-cfo-pay-rise/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:18.817285+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:IEP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:d7d6e1a3fbb23:0",
+      "title": "Key facts: Satellite approval; Anthropic $120.5B; Trump Account shares",
+      "url": "https://www.tradingview.com/news/tradingview:d7d6e1a3fbb23:0-key-facts-satellite-approval-anthropic-120-5b-trump-account-shares/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:18.817285+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SPCX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:e8481070923ad:0",
+      "title": "Key facts: Thales targets 51.6% of Lumibird; bids for Swiss SAMP/T NG",
+      "url": "https://www.tradingview.com/news/tradingview:e8481070923ad:0-key-facts-thales-targets-51-6-of-lumibird-bids-for-swiss-samp-t-ng/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:18.817285+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "EURONEXT:HO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:820535ebad3a7:0",
+      "title": "Key facts: UniCredit offer cleared; board overhaul sought; 47.59% stake",
+      "url": "https://www.tradingview.com/news/tradingview:820535ebad3a7:0-key-facts-unicredit-offer-cleared-board-overhaul-sought-47-59-stake/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:18.817285+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "MIL:UCG"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tradingview:f5ecbb2eb443e:0",
+      "title": "Key facts: XPeng 2027 model/robot launches; 2026 robotaxi trials",
+      "url": "https://www.tradingview.com/news/tradingview:f5ecbb2eb443e:0-key-facts-xpeng-2027-model-robot-launches-2026-robotaxi-trials/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:18.817285+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "HKEX:9868"
         ]
       }
     },
@@ -7824,6 +8232,25 @@
       "extra": {}
     },
     {
+      "id": "msn:0506217d01f7a8c4fc189359e058981a91b2772b",
+      "title": "Is Afcon Holdings (TASE:AFHL) Too Expensive To Trust Its Earnings?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a8bb731844a308f688a0b7ff8cf89&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fafcon-holdings-tase-afhl-too-061327226.html&c=6368275658776269831&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Afcon Holdings has delivered a powerful share price run in recent years, so the obvious question now is whether the current valuation still lines up with the earnings that support it. Over the past 3 ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T06:13:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:20.982554+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:DJN_DN20261127005181_20261127005181:0",
       "title": "News On Bowhead Specialty Holdings Inc. (BOW) Now Under AMFAM.XX",
       "url": "https://www.tradingview.com/news/DJN_DN20261127005181_20261127005181:0-news-on-bowhead-specialty-holdings-inc-bow-now-under-amfam-xx/",
@@ -10457,6 +10884,25 @@
       "published_at": "2026-11-28T05:14:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T15:52:26.358946+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:a42b5486d6cf5ce81cffabac6a526ed9ee629e99",
+      "title": "Hinge Health (HNGE) Stock Trades Above Fair Value On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a8bb731844a308f688a0b7ff8cf89&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fhinge-health-hnge-stock-trades-051528661.html&c=11750597560096836354&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Hinge Health has been one of the stronger movers in digital health this year, and the share price run puts a sharp spotlight on what investors are actually paying for its earnings. With the stock now ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:14:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:07:20.982554+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
