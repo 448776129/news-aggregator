@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T12:22:21.728515+08:00",
-  "count": 844,
+  "generated_at": "2026-11-28T12:34:21.137379+08:00",
+  "count": 848,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,86 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:stocktwits:0113d00c3094b:0",
+      "title": "Cathie Wood-Led Ark Invest Loads Up On SPCX, CRSP And TEM — But Sells SHOP, ILMN, BYD",
+      "url": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-ark-invest-buys-spcx-biotech-stocks-sells-shop-ilmn-byd/cNRRFtbR9V8",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T12:32:47+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T12:34:15.709022+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:SPCX",
+          "NASDAQ:CRSP",
+          "NASDAQ:TWST",
+          "NASDAQ:TEM",
+          "NASDAQ:NTRA",
+          "NASDAQ:RXRX",
+          "NASDAQ:BEAM",
+          "NASDAQ:SHOP",
+          "NASDAQ:ILMN",
+          "SZSE:002594",
+          "NASDAQ:ARCT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:208b2159d094b:0",
+      "title": "Tata Sons files caveats in Bombay HC, SC after court refuses interim relief to Tata Trusts",
+      "url": "https://www.tradingview.com/news/cnbctv:208b2159d094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T12:24:42+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T12:34:15.709022+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:3af53544f094b:0",
+      "title": "KEC International bags new orders worth ₹1,400 crore in T&D and cable segments",
+      "url": "https://www.tradingview.com/news/cnbctv:3af53544f094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T12:13:31+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T12:34:15.709022+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:KEC"
+        ]
+      }
+    },
     {
       "id": "yahoo:https://www.thestreet.com/investing/michael-burry-palantir-metlife-puts?.tsrc=rss",
       "title": "Michael Burry still sees 2 stocks worth betting against",
@@ -1864,6 +1944,30 @@
       "lang": "en",
       "category": "english",
       "extra": {}
+    },
+    {
+      "id": "tradingview:bloomingbit:429fcf75b094b:0",
+      "title": "Trader Flood Urges Buying Hyperliquid’s HYPE, Says Perpetual Futures Will Become Core Retail Product",
+      "url": "https://en.bloomingbit.io/feed/news/125420",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Bloomingbit",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:27:16+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T12:34:15.709022+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:HYPEHUSD"
+        ]
+      }
     },
     {
       "id": "tradingview:tmx_newsfile:51d004cb9094b:0",
