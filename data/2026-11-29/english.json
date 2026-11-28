@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-29",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-29T00:01:23.019389+08:00",
+  "count": 2,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 2,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "tradingview:moodys:f56ffeb40ce4c:0",
+      "title": "CFOs Must Balance Growth With Financial Discipline In Capital Allocation, MA",
+      "url": "https://www.tradingview.com/news/moodys:f56ffeb40ce4c:0-cfos-must-balance-growth-with-financial-discipline-in-capital-allocation-ma/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Businessworld",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:00:53+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:01:17.645534+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:KSHINTL",
+          "NSE:TATACAP"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261128000754:0",
+      "title": "Why Strict Privacy Laws Could Make Consumers Share More Personal Data — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261128000754:0-why-strict-privacy-laws-could-make-consumers-share-more-personal-data-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:00:00+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:01:17.645534+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    }
+  ]
+}

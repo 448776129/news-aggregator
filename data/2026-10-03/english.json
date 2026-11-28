@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T23:55:20.559121+08:00",
-  "count": 33,
+  "generated_at": "2026-11-29T00:01:21.969278+08:00",
+  "count": 34,
   "sources": [
     {
       "name": "alpaca",
@@ -661,6 +661,25 @@
       "published_date": "2026-10-03",
       "fetched_at": "2026-11-28T23:55:19.442012+08:00",
       "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:1d6dc1b65594e1c76cd5385a8cead65a90593ffc",
+      "title": "Vietnam's economy grew 9.95% in Q3, fastest pace in 4 years",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0aface68d7408c9deffb3fe850ed0e&url=https%3a%2f%2fasia.nikkei.com%2feconomy%2fvietnam-s-economy-grew-9.95-in-q3-fastest-pace-in-4-years&c=11184572313791017126&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "HANOI -- Vietnam's economy grew 9.95% in the third quarter, its fastest pace in four years, marking an acceleration from a revised 8.81% figure for April-June and supported by strong growth in ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-10-03T13:36:00+08:00",
+      "published_date": "2026-10-03",
+      "fetched_at": "2026-11-29T00:01:19.942213+08:00",
+      "crawl_date": "2026-11-29",
       "lang": "en",
       "category": "english",
       "extra": {}
