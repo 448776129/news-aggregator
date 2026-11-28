@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T01:19:22.709258+08:00",
-  "count": 23,
+  "generated_at": "2026-11-29T01:25:21.220095+08:00",
+  "count": 24,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,30 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 6,
+      "count": 7,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://www.tikr.com/blog/meta-soars-12-in-a-week-as-talks-with-amazon-could-reopen-its-store-to-muse-time-to-buy?ref=yahoofinance&tlnk=yf-261128-mx523wcq&.tsrc=rss",
+      "title": "Meta Soars 12% in a Week as Talks With Amazon Could Reopen Its Store to Muse. Time to Buy?",
+      "url": "https://www.tikr.com/blog/meta-soars-12-in-a-week-as-talks-with-amazon-could-reopen-its-store-to-muse-time-to-buy?ref=yahoofinance&tlnk=yf-261128-mx523wcq&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysThe stock rose 12% in the past week as Amazon reportedly held talks to let the company’s Muse agent back into its store. A deal would show that Muse has grown too big for Amazon to keep out.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T01:06:05+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T01:25:16.753112+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/28/tech-stock-sell-off-down-13-is-amazon-a-buy-now/?.tsrc=rss",
       "title": "Tech Stock Sell-Off: Down 13%, Is Amazon a Buy Now?",

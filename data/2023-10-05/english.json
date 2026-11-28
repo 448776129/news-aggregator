@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T22:55:19.829295+08:00",
-  "count": 184,
+  "generated_at": "2026-11-29T01:25:20.362672+08:00",
+  "count": 185,
   "sources": [
     {
       "name": "alpaca",
@@ -3530,6 +3530,25 @@
       "published_date": "2023-10-05",
       "fetched_at": "2026-11-28T22:55:17.747496+08:00",
       "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:1fd6340b44b674de2030eb9f95a59a1d69be541e",
+      "title": "Stock Market Crash Definition",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0b0e7ce5bd42838b53a462a184bf70&url=https%3a%2f%2fmoney.usnews.com%2finvesting%2fterm%2fstock-market-crash&c=9171292294926317913&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A stock market crash is a sudden and dramatic drop in the value of stocks listed on an exchange. Many factors can cause such a drop, including economic or geopolitical events, rumors or compounding ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2023-10-05T15:48:00+08:00",
+      "published_date": "2023-10-05",
+      "fetched_at": "2026-11-29T01:25:18.448535+08:00",
+      "crawl_date": "2026-11-29",
       "lang": "en",
       "category": "english",
       "extra": {}
