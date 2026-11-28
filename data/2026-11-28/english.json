@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T10:34:21.145165+08:00",
-  "count": 812,
+  "generated_at": "2026-11-28T10:37:19.807658+08:00",
+  "count": 815,
   "sources": [
     {
       "name": "alpaca",
@@ -33,11 +33,67 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 38,
+      "count": 37,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47900E:0",
+      "title": "Glass Lewis backs Vail Resorts board in proxy fight with activist Oasis",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47900E:0-glass-lewis-backs-vail-resorts-board-in-proxy-fight-with-activist-oasis/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T10:36:11+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T10:37:15.490482+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:MTN",
+          "NYSE:DIS"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47900I:0",
+      "title": "Global fashion brands shift orders from Bangladesh to India amid unrest",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47900I:0-global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T10:31:07+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T10:37:15.490482+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BME:ITX",
+          "LSE:MKS",
+          "OMXSTO:HM_B",
+          "NSE:GOKEX",
+          "NSE:TRIDENT",
+          "NSE:WELSPUNLIV",
+          "NSE:KPRMILL",
+          "NSE:VTL"
+        ]
+      }
+    },
     {
       "id": "tradingview:moneycontrol:3eca53e68094b:0",
       "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
@@ -1200,6 +1256,25 @@
           "NASDAQ:TSLA"
         ]
       }
+    },
+    {
+      "id": "yahoo:e4aadaf661625a4b2ff6ba7877a205a03b65eb93",
+      "title": "Zero To Sixty: Tesla Cybercab Fleet Tops 1,000 In Texas, Lucid Starts Fully Driverless Tests And Chinese EV Maker Posts Stronger Margins",
+      "url": "https://stocktwits.com/news-articles/markets/equity/zero-to-sixty-tesla-cybercab-fleet-tops-1-000-in-texas-lucid-starts-fully-driverless-tests-and-chinese-ev-maker-posts-stronger-margins/cNRRKv9R9Vl?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Tesla’s Cybercab fleet topped 1,000 units in Texas as it expanded in Dallas, while Lucid began fully driverless testing and U.S.-listed Chinese EV makers reported improving margins and modest growth outlooks.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:12:27+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T10:37:15.639319+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:stocktwits:f00923297094b:0",
