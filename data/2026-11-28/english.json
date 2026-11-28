@@ -3,13 +3,13 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T08:01:17.192880+08:00",
-  "count": 738,
+  "generated_at": "2026-11-28T08:04:24.530696+08:00",
+  "count": 746,
   "sources": [
     {
       "name": "alpaca",
       "status": "ok",
-      "count": 0,
+      "count": 8,
       "error": ""
     },
     {
@@ -38,6 +38,198 @@
     }
   ],
   "items": [
+    {
+      "id": "alpaca:132448449",
+      "title": "Trading Halt Imposed on Ribbon Acquisition Corp. Units",
+      "url": "https://newsfilter.io/ticker/RIBBU",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Nasdaq implemented a volatility trading pause on Ribbon Acquisition Corp. units (RIBBU) on November 27, 2026.",
+      "content": "On November 27, 2026, Nasdaq issued a trading halt for the units of Ribbon Acquisition Corp. (RIBBU) due to a volatility trading pause. This action is a standard market mechanism used to address sudden price fluctuations. No further details regarding the duration or specific cause of the volatility were provided in the report.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:01:53+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:04:19.013514+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "RIBB"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132448448",
+      "title": "Cloudflare Announces Strategic Shift to AI Infrastructure and 'System 1' Architecture",
+      "url": "https://newsfilter.io/interviews/why-cloudflare-became-a-neolab-michelle-chen-cloudflare-dd7a9bc411ea5a4daef224a1b50990e9",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Cloudflare has detailed a strategic evolution into an AI infrastructure provider, introducing a 'System 1' architecture designed to optimize AI agent performance and reduce operational costs.",
+      "content": "Cloudflare is transitioning its strategic focus toward becoming an AI infrastructure provider, moving beyond its origins as a content delivery network. The company has implemented a 'System 1' architecture, which utilizes a single forward pass for immediate decision-making, significantly improving latency and efficiency for AI agents compared to traditional autoregressive token generation. This shift aims to solve latency issues for real-time agent decision-making and reduce operational costs by 72% while achieving a 2x speedup in inference time. By developing its own infrastructure components, Cloudflare seeks to maintain strategic autonomy and mitigate risks associated with reliance on closed-source APIs. The company encourages developers to adopt this hybrid approach, which combines System 1 for routing and extraction with System 2 for complex reasoning.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:01:50+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:04:19.013514+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "NET"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132448447",
+      "title": "Qatar Tourism and Uber Sign Five-Year Mobility Agreement",
+      "url": "https://travelprnews.com/article/qatar-tourism-and-uber-explore-a-new-approach-to-getting-around-doha-and-beyond/amp/",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Qatar Tourism and Uber have entered into a five-year memorandum of understanding to enhance visitor mobility and driver hospitality in Qatar.",
+      "content": "Qatar Tourism and Uber signed a five-year memorandum of understanding on November 22, 2026, with details publicly disclosed on November 26, 2026. The partnership aims to integrate ground transportation more closely with the visitor experience in Qatar, focusing on areas such as airport and port mobility, driver hospitality training, and transport coordination for major events. The agreement also explores potential future offerings like premium services and visitor incentives. The initiative is intended to improve the quality of interactions between passengers and drivers, positioning the airport journey as a key part of the hospitality experience for international visitors.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:01:48+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:04:19.013514+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "UBER"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132448446",
+      "title": "J.P. Morgan Maintains Buy Rating on Salesforce",
+      "url": "https://www.moomoo.com/news/post/1006014871/jp-morgan-maintains-salesforce-crmus-with-buy-rating-announces-target",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "J.P. Morgan analyst Samik Chatterjee maintained a \"Buy\" rating on Salesforce shares with a price target of $265.",
+      "content": "J.P. Morgan analyst Samik Chatterjee reaffirmed a \"Buy\" rating for Salesforce (CRM) on November 27, 2026. The firm maintained its price target of $265 per share. This action reflects the analyst's continued outlook on the company's market position and performance.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:01:42+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:04:19.013514+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "CRM"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132448445",
+      "title": "The Goldman Sachs Group, Inc. Files Major Holdings Notification for Evotec SE",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-pvr-evotec-se-release-according-to-article-40-section-1-of-the-wphg-[the-german-securities-trading-act]-with-the-objective-of-europe-wide-distribution-1036805435",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "The Goldman Sachs Group, Inc. disclosed a change in its voting rights position in German biotech company Evotec SE, reaching a total of 8.74%.",
+      "content": "On November 27, 2026, The Goldman Sachs Group, Inc. released a regulatory notification regarding its holdings in Evotec SE, a German-based company. The filing, made in accordance with the German Securities Trading Act (WpHG), indicates that the firm's total voting rights in the issuer reached 8.74%, consisting of 1.37% in voting rights attached to shares and 7.37% through financial instruments. The threshold was crossed on November 20, 2026. This disclosure serves as a formal update on the firm's investment position in the entity.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:01:37+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:04:19.013514+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "GS"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132448444",
+      "title": "BlackRock, Inc. Discloses Reduction in GB Group Voting Rights",
+      "url": "https://www.investegate.co.uk/announcement/rns/gb-group--gbg/holding-s-in-company/9898101",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "BlackRock, Inc. filed a regulatory notification disclosing a reduction in its voting rights interest in GB Group, crossing a reporting threshold on November 26, 2026.",
+      "content": "BlackRock, Inc. reported a change in its holdings in GB Group, with the notification published on November 27, 2026. The firm's interest decreased to 5.04% of voting rights, down from a previously notified 6.99%. The position consists of 11,568,842 voting rights, including both direct holdings and financial instruments. This disclosure was made in accordance with standard regulatory requirements for major holdings.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:01:37+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:04:19.013514+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BLK"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132448443",
+      "title": "Grupo Aeroportuario del Pacífico Completes IPO of FIBRA GAP",
+      "url": "https://quantisnow.com/insight/grupo-aeroportuario-del-pacifico-announces-the-results-of-the-initial-6808654",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "Grupo Aeroportuario del Pacífico (GAP) successfully completed the initial public offering of FIBRA GAP, raising Ps. 7,820.1 million to fund airport infrastructure investments.",
+      "content": "Grupo Aeroportuario del Pacífico, S.A.B. de C.V. announced the successful completion of the initial public offering (IPO) of FIBRA GAP. The offering involved the issuance of 391,004,247 Energy and Infrastructure Investment Trust Certificates (CBFEs) at a price of Ps. 20.00 per certificate, totaling Ps. 7,820.1 million. Proceeds from the offering will be used to acquire a 3.98% equity stake in the concession-holding companies for GAP's twelve Mexican airports and to cover issuance expenses. The company stated that these funds will help finance investments committed for 2027 under the 2025–2029 Master Development Program. GAP noted that this issuance serves to diversify its financing sources and strengthen its capacity to execute its airport infrastructure expansion and modernization projects.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:01:37+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:04:19.013514+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "PAC"
+        ]
+      }
+    },
+    {
+      "id": "alpaca:132448442",
+      "title": "BlackRock, Inc. Files Major Holdings Notification for adidas AG",
+      "url": "https://www.eqs-news.com/news/voting-rights/blackrock-inc-wilmington-delaware-united-states-of-america-usa/e38349c6-9fcf-4f0e-a8fe-f69482f7533e_en",
+      "source": "alpaca",
+      "source_name": "Alpaca News",
+      "author": "",
+      "summary": "BlackRock, Inc. submitted a regulatory filing regarding its voting rights in adidas AG, confirming a threshold crossing that occurred on November 20, 2026.",
+      "content": "BlackRock, Inc. issued a formal notification of major holdings concerning its interest in adidas AG. The filing, disseminated on November 27, 2026, indicates that the company's total voting rights position in the issuer reached 7.35%, comprising 7.24% in voting rights attached to shares and 0.12% through financial instruments. This regulatory update reflects the firm's ongoing disclosure obligations regarding its equity positions in European-listed companies.",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:01:37+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:04:19.013514+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "fiscal.ai",
+        "symbols": [
+          "BLK"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4780KY:0",
       "title": "US Black Friday online sales to cross $13 billion, Adobe says",
