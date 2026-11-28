@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T13:58:16.209873+08:00",
-  "count": 873,
+  "generated_at": "2026-11-28T14:01:18.343056+08:00",
+  "count": 874,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "error": ""
     },
     {
@@ -6804,6 +6804,25 @@
           "NYSE:BEN"
         ]
       }
+    },
+    {
+      "id": "msn:7d29829e69e9b25919af766b03dd32992f89dafb",
+      "title": "Hinge Health (HNGE) Stock Trades Above Fair Value On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a6e2b3ac2469b9a828adfbe75d0b4&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fhinge-health-hnge-stock-trades-051528661.html&c=11750597560096836354&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Hinge Health has been one of the stronger movers in digital health this year, and the share price run puts a sharp spotlight on what investors are actually paying for its earnings. With the stock now ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:14:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:01:16.664592+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_FWN4780VW:0",
