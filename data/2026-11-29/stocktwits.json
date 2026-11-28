@@ -3,17 +3,71 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T00:22:21.461056+08:00",
-  "count": 14,
+  "generated_at": "2026-11-29T00:25:26.410312+08:00",
+  "count": 16,
   "sources": [
     {
       "name": "stocktwits",
       "status": "ok",
-      "count": 13,
+      "count": 15,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670327782",
+      "title": "$BTC.X $NVDA $SPY $TSLA",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "TheComedian1111",
+      "summary": "$BTC.X $NVDA $SPY $TSLA",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:24:59+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:25:21.148086+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "BTC.X",
+          "NVDA",
+          "SPY",
+          "TSLA"
+        ]
+      }
+    },
+    {
+      "id": "stocktwits:670327778",
+      "title": "$BTC.X $NVDA $SPY $TSLA The Fibonacci-Matrix has all of you now ‼️‼️‼️🩸🩸🩸🔺🐇",
+      "url": "https://stocktwits.com/symbol/TSLA",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "TheComedian1111",
+      "summary": "$BTC.X $NVDA $SPY $TSLA The Fibonacci-Matrix has all of you now ‼️‼️‼️🩸🩸🩸🔺🐇",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:24:44+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:25:21.148086+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": "Bearish",
+        "symbols": [
+          "BTC.X",
+          "NVDA",
+          "SPY",
+          "TSLA"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670327705",
       "title": "$BTC.X $NVDA $SPY $TSLA The END is NEAR for BITCOIN 🩸🩸🩸‼️‼️‼️",

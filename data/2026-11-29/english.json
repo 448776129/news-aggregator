@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T00:13:21.401575+08:00",
-  "count": 7,
+  "generated_at": "2026-11-29T00:25:26.407877+08:00",
+  "count": 10,
   "sources": [
     {
       "name": "alpaca",
@@ -27,7 +27,7 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 7,
+      "count": 10,
       "error": ""
     },
     {
@@ -38,6 +38,82 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:moodys:448bd084b8b90:0",
+      "title": "Simply Put: Minority Shareholder Rights",
+      "url": "https://www.tradingview.com/news/moodys:448bd084b8b90:0-simply-put-minority-shareholder-rights/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:20:55+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:25:21.317786+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:TATASTEEL",
+          "NSE:APLAPOLLO"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:moodys:12a433d26d96b:0",
+      "title": "Tech Query: Mazagon Dock Shipbuilders, Inox Wind, Indian Hume Pipe Company, Ahluwalia Contracts (India) — What is the outlook? Where are these stocks headed?",
+      "url": "https://www.tradingview.com/news/moodys:12a433d26d96b:0-tech-query-mazagon-dock-shipbuilders-inox-wind-indian-hume-pipe-company-ahluwalia-contracts-india-what-is-the-outlook-where-are-these-stocks-headed/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:20:54+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:25:21.317786+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:MAZDOCK",
+          "NSE:INOXWIND"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:bravenewcoin:a8e6c2c85094b:0",
+      "title": "Crypto News Today: Bitcoin Price Risks a $55K Breakdown, Ethereum Faces RSI Extremes, and XRP Defends $0.93 Support",
+      "url": "https://bravenewcoin.com/insights/crypto-news-today-bitcoin-price-risks-a-55k-breakdown-ethereum-faces-rsi-extremes-and-xrp-defends-0-93-support",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Brave New Coin",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:19:32+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:25:21.317786+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD",
+          "BITSTAMP:ETHUSD",
+          "BITSTAMP:XRPUSD"
+        ]
+      }
+    },
     {
       "id": "tradingview:seekingalpha:3bebd27f0094b:0",
       "title": "Insider Trades: Palantir, Walmart, Home Depot among notable names",
