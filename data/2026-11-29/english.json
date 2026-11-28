@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T00:43:19.974814+08:00",
-  "count": 15,
+  "generated_at": "2026-11-29T00:46:30.741865+08:00",
+  "count": 17,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 1,
+      "count": 3,
       "error": ""
     }
   ],
@@ -105,6 +105,44 @@
           "OMXSTO:SAAB_B"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/28/a-recession-could-be-coming-in-2027-heres-why-im-not-worried/?.tsrc=rss",
+      "title": "A Recession Could Be Coming in 2027. Here's Why I'm Not Worried.",
+      "url": "https://www.fool.com/investing/2026/11/28/a-recession-could-be-coming-in-2027-heres-why-im-not-worried/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "A common-sense plan can help you prepare for the next recession.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:35:02+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:46:26.240585+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://finance.yahoo.com/m/43ef927e-4aea-3539-8018-bdf5c43fc34a/nasdaq-100-shakeup-coming%3A.html?.tsrc=rss",
+      "title": "Nasdaq 100 Shakeup Coming: Anthropic, GM In; CoreWeave Out. What About Strategy?",
+      "url": "https://finance.yahoo.com/m/43ef927e-4aea-3539-8018-bdf5c43fc34a/nasdaq-100-shakeup-coming%3A.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "More bad news for the embattled neoclouds.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:31:53+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T00:46:26.240585+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:moodys:dea07a6e30187:0",
