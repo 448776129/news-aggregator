@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T15:28:23.214111+08:00",
-  "count": 951,
+  "generated_at": "2026-11-28T15:31:31.574218+08:00",
+  "count": 954,
   "sources": [
     {
       "name": "alpaca",
@@ -15,7 +15,7 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 5,
+      "count": 6,
       "error": ""
     },
     {
@@ -1395,6 +1395,30 @@
         "symbols": [
           "BITSTAMP:BTCUSD"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8821272",
+      "title": "US military repelled drones at UK airbase this month, FT reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLVBLa19DdUlDcGg5RVY2bjFfYS1QYXJRQmE0Z1ZfNm02WmI5RnBhcEhKSGdRR01XdUJhandJSzQ0SEF5bWRlZlBUbUJPbVJLbjROSUozYnJseGhLekl6bEhTTU5tbEVQMWtCU3Z1YzJiTTZNcnBrdVNYQ3ZudHpLVFREbWhkcUNWSVQ0bHdCVUF5RU0?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "US military repelled drones at UK airbase this month, FT reports Reuters",
+      "content": "US military repelled drones at UK airbase this month, FT reports Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T13:18:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:31:17.858420+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -5000,6 +5024,25 @@
       "extra": {}
     },
     {
+      "id": "msn:071cdb8232228d5830098194fe9e96989d25297f",
+      "title": "Stock Market: This Defence Stock Turns Multibagger In 2026, Jumps 200%: Do You Own?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a8345666b46d18683e7f24337b3b5&url=https%3a%2f%2fwww.ndtv.com%2fbusiness-news%2fstock-market-news-this-defence-stock-turns-multibagger-in-2026-jumps-200-do-you-own-12388089&c=1178085241897707777&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Raymond shares have gained over 135 per cent in the past six months and more than 20 per cent in the last one month.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T06:56:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:31:18.834158+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:tradingview:a91f48a5c9e99:0",
       "title": "Theralase Technologies Inc. (TLT) Reports 60.4% Complete Response Rate in Phase II Study",
       "url": "https://www.tradingview.com/news/tradingview:a91f48a5c9e99:0-theralase-technologies-inc-tlt-reports-60-4-complete-response-rate-in-phase-ii-study/",
@@ -8532,6 +8575,25 @@
       "published_at": "2026-11-28T05:14:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T15:28:21.606793+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:8f5a420205c0c2eb9d6a381f2904f4f7fb87dfd6",
+      "title": "Hinge Health (HNGE) Stock Trades Above Fair Value On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a8345e6b74e78baa27a94e5f86202&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fhinge-health-hnge-stock-trades-051528661.html&c=11750597560096836354&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Hinge Health has been one of the stronger movers in digital health this year, and the share price run puts a sharp spotlight on what investors are actually paying for its earnings. With the stock now ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:14:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T15:31:18.834158+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
