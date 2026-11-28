@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T21:22:22.981590+08:00",
-  "count": 1608,
+  "generated_at": "2026-11-28T21:25:25.354753+08:00",
+  "count": 1611,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "error": ""
     },
     {
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_FWN47905O:0",
+      "title": "Black Friday online shopping rises to $13.1 billion in the US, Adobe Analytics data shows",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN47905O:0-black-friday-online-shopping-rises-to-13-1-billion-in-the-us-adobe-analytics-data-shows/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T21:22:05+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T21:25:21.186355+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:ADBE"
+        ]
+      }
+    },
     {
       "id": "tradingview:cnbctv:dc6f5c048094b:0",
       "title": "Craftsman Automation to acquire 100% stake in EATA for ₹150 cr; invest ₹110 cr in German arm",
@@ -12026,6 +12050,25 @@
       "published_at": "2026-11-28T09:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T21:22:20.324864+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d4030a18b77f5cef52c02648cc386b6c6bbe94c0",
+      "title": "If A Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move You Can Make",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ad6419e4640d99c85b349080aa0c4&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fif-a-stock-market-crash-is-coming-warren-buffett-says-this-is-the-smartest-move-you-can-make%2far-AA2ip5id&c=9620126643030031376&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "When the Oracle of Omaha speaks, it can pay to listen.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T21:25:22.922692+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -27905,6 +27948,25 @@
       "published_at": "2026-11-28T02:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T21:22:20.324864+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:d9b98df1978ce31fd412d83e6e7d7a96935e5b4b",
+      "title": "Americans Are More Exposed to the Stock Market Than Ever Before",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ad6419e4640d99c85b349080aa0c4&url=https%3a%2f%2fwww.wsj.com%2ffinance%2fstocks%2fus-stock-market-wealth-0caf5bac&c=2149664428336546729&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T02:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T21:25:22.922692+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
