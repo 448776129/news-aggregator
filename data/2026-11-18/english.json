@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T14:13:17.710563+08:00",
-  "count": 69,
+  "generated_at": "2026-11-28T14:25:16.516084+08:00",
+  "count": 71,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "error": ""
     },
     {
@@ -72,6 +72,25 @@
       "published_date": "2026-11-18",
       "fetched_at": "2026-11-25T13:25:13.231866+08:00",
       "crawl_date": "2026-11-25",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:34496d6b9b0bb17f8e7d6b0d251a33e915b2ea18",
+      "title": "Nvidia Just Demolished Earnings, but the Stock Is Still Plunging. The Reason Is Obvious.",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a73cadcee4d69af3199d304889d4b&url=https%3a%2f%2fwww.fool.com%2finvesting%2f2026%2f11%2f18%2fnvidia-just-demolished-earnings-but-the-stock-is-still-plunging-the-reason-is-obvious%2f&c=399559058303648534&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Nvidia just conducted its first earnings call of the post-Jensen Huang era. Nvidia's revenue and profits are growing by triple digits, but investors appear to be more concerned about the company's ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-18T20:46:00+08:00",
+      "published_date": "2026-11-18",
+      "fetched_at": "2026-11-28T14:25:16.188752+08:00",
+      "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
       "extra": {}
@@ -280,6 +299,25 @@
       "published_at": "2026-11-18T19:59:00+08:00",
       "published_date": "2026-11-18",
       "fetched_at": "2026-11-28T14:13:16.844959+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:344a92b975f5e6027027798fa4a2e953f230fdb2",
+      "title": "U.S. Stocks Mostly Lower After Nvidia Earnings Fail to Soothe Nerves",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a73cadcee4d69af3199d304889d4b&url=https%3a%2f%2fwww.wsj.com%2ffinance%2fcommodities-futures%2fstock-futures-rally-as-nvidia-earnings-calm-ai-trade-fears-96f51546&c=8538341509108265700&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Tech stocks rallied across the globe after Nvidia’s market-beating earnings steadied investor sentiment.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-18T19:59:00+08:00",
+      "published_date": "2026-11-18",
+      "fetched_at": "2026-11-28T14:25:16.188752+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
