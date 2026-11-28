@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T13:31:17.947670+08:00",
-  "count": 866,
+  "generated_at": "2026-11-28T13:34:19.478694+08:00",
+  "count": 868,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,49 @@
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://stocktwits.com/news-articles/markets/equity/nvda-stock-hit-bottom-jensen-haung-congress/cNRRYXMR9Vp?.tsrc=rss",
+      "title": "NVDA Stock Could Hit A Bottom Next Week As Jensen Huang Faces Congress, Says Analyst — 'I Would Buy It With Both Hands'",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-hit-bottom-jensen-haung-congress/cNRRYXMR9Vp?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "During an interview with CNBC, Freedom Capital Markets’ Paul Meeks said he believes the recent pessimism could present a buying opportunity.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T13:31:54+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T13:34:15.118756+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "tradingview:stocktwits:04739fd12094b:0",
+      "title": "NVDA Stock Could Hit A Bottom Next Week As Jensen Huang Faces Congress, Says Analyst — 'I Would Buy It With Both Hands'",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-hit-bottom-jensen-haung-congress/cNRRYXMR9Vp",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T13:31:54+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T13:34:15.370725+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA"
+        ]
+      }
+    },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/28/the-first-ai-stock-i-plan-to-buy-in-2027/?.tsrc=rss",
       "title": "The First AI Stock I Plan to Buy in 2027",
