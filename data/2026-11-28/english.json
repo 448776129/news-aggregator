@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T12:01:19.910904+08:00",
-  "count": 841,
+  "generated_at": "2026-11-28T12:10:21.509993+08:00",
+  "count": 843,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,25 @@
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://www.thestreet.com/investing/michael-burry-palantir-metlife-puts?.tsrc=rss",
+      "title": "Michael Burry still sees 2 stocks worth betting against",
+      "url": "https://www.thestreet.com/investing/michael-burry-palantir-metlife-puts?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Burry has gone almost entirely long, saying volatility made puts too pricey. Not every holdout in his bearish book is a tech name.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T12:07:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T12:10:16.463252+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "tradingview:stocktwits:bd13a03a3094b:0",
       "title": "Chamath Palihapitiya Warns AI’s ‘Alien Mathematics’ Could Break Bitcoin As AI Tackles 167-Year-Old Riemann Hypothesis",
@@ -599,6 +618,30 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:SPCX"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:u_today:875cd885e094b:0",
+      "title": "+42% Shiba Inu (SHIB) Surges in 24 Hours: Transactional Activity Increases as Price Rebounds",
+      "url": "https://u.today/42-shiba-inu-shib-surges-in-24-hours-transactional-activity-increases-as-price-rebounds",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "U.Today",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T11:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T12:10:16.614176+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:SHIBUSD"
         ]
       }
     },
