@@ -3,8 +3,8 @@
   "category": "finance",
   "category_name": "财经新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T09:25:19.728947+08:00",
-  "count": 125,
+  "generated_at": "2026-11-28T09:34:21.706223+08:00",
+  "count": 126,
   "sources": [
     {
       "name": "cls",
@@ -21,7 +21,7 @@
     {
       "name": "sina",
       "status": "ok",
-      "count": 29,
+      "count": 30,
       "error": ""
     }
   ],
@@ -374,6 +374,25 @@
       "published_at": "2026-11-28T08:04:44+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T08:07:12.594791+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "zh",
+      "category": "finance",
+      "extra": {}
+    },
+    {
+      "id": "sina:https://finance.sina.com.cn/stock/s/2026-11-28/doc-inkafyfi0680561.shtml",
+      "title": "王兴罕见表态，回应美团与微信合作进展",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-28/doc-inkafyfi0680561.shtml",
+      "source": "sina",
+      "source_name": "新浪财经",
+      "author": "21世纪经济报道",
+      "summary": "记者丨周慧 编辑丨李新江 黎雨桐 魏雯静 11月27日，美团发布2026年第三季度业绩报告。三季度，美团实现收入1156亿元，同比增长21.6%，净利润同比由负转正...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T07:37:46+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T09:34:15.987991+08:00",
       "crawl_date": "2026-11-28",
       "lang": "zh",
       "category": "finance",
