@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T08:04:24.530696+08:00",
-  "count": 746,
+  "generated_at": "2026-11-28T08:07:16.880304+08:00",
+  "count": 753,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 32,
+      "count": 34,
       "error": ""
     }
   ],
@@ -231,6 +231,32 @@
       }
     },
     {
+      "id": "tradingview:stocktwits:a49f870a0094b:0",
+      "title": "US Fintech Weekly: Payment Networks Rally Into Black Friday As Wedbush Backs Brokerages",
+      "url": "https://stocktwits.com/news-articles/markets/equity/us-fintech-weekly-payment-networks-rally-into-black-friday-as-wedbush-backs-brokerages/cNRRKmjR9Vj",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Stocktwits",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:01:26+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:07:12.565081+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:MA",
+          "NYSE:V",
+          "NASDAQ:PYPL"
+        ]
+      }
+    },
+    {
       "id": "tradingview:tag:reuters.com,2026:newsml_L6N4780KY:0",
       "title": "US Black Friday online sales to cross $13 billion, Adobe says",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4780KY:0-us-black-friday-online-sales-to-cross-13-billion-adobe-says/",
@@ -251,6 +277,54 @@
         "urgency": 2,
         "symbols": [
           "NASDAQ:ADBE"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:d37977372094b:0",
+      "title": "Collector Crypt: Unlocks About 38.09 Million CARDS - 29 Nov 2026",
+      "url": "https://coinmarketcal.com/event/token-unlock-1d73f986-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:00:25+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:07:12.565081+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:CARDSCUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:95407cdde094b:0",
+      "title": "deBridge: Supply Unlock Releases at Least 349.23 Million DBR - 16 Jan 2027",
+      "url": "https://coinmarketcal.com/event/5-3-supply-unlock-f630f44c-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:00:14+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:07:12.565081+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BINANCE:TUSDT.P"
         ]
       }
     },
@@ -301,6 +375,30 @@
       }
     },
     {
+      "id": "tradingview:coinmarketcal:deb40e1d6094b:0",
+      "title": "Kinetiq: Supply unlock releases at least 12.92 million KNTQ - Oct 2027",
+      "url": "https://coinmarketcal.com/event/token-unlock-13c5589c-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:00:06+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:07:12.565081+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:KNTQUSD"
+        ]
+      }
+    },
+    {
       "id": "tradingview:DJN_DN20261127005319:0",
       "title": "Citigroup's $35 Billion Bookkeeping Snafu Sparks Shake-Up in Upper Ranks — WSJ",
       "url": "https://www.tradingview.com/news/DJN_DN20261127005319:0-citigroup-s-35-billion-bookkeeping-snafu-sparks-shake-up-in-upper-ranks-wsj/",
@@ -321,6 +419,30 @@
         "urgency": 2,
         "symbols": [
           "NYSE:C"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261127005320:0",
+      "title": "JPMorgan Plans a Private Club for Well-Heeled Clients in a 1930s Branch — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261127005320:0-jpmorgan-plans-a-private-club-for-well-heeled-clients-in-a-1930s-branch-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:07:12.565081+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:JPM"
         ]
       }
     },
@@ -3639,6 +3761,25 @@
       }
     },
     {
+      "id": "yahoo:https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-best-week-in-over-a-year-as-ai-optimism-makes-comeback/cNb6EtcR9VK?.tsrc=rss",
+      "title": "S&P 500, Nasdaq End Best Week In Over A Year As AI Optimism Makes Comeback — VZ, ANT, ADBE, TSLA In Focus",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-best-week-in-over-a-year-as-ai-optimism-makes-comeback/cNb6EtcR9VK?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Meanwhile, the Dow Jones index recorded its best week since October 2022.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:29:46+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:07:12.430468+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:business_wire:6389dc3e61769:0",
       "title": "Exelon Crews Mobilize to Support Customers and Restore Power During and After Severe Thanksgiving Storm",
       "url": "https://www.tradingview.com/news/business_wire:6389dc3e61769:0-exelon-crews-mobilize-to-support-customers-and-restore-power-during-and-after-severe-thanksgiving-storm/",
@@ -6012,6 +6153,25 @@
           "NASDAQ:AAPL"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://stocktwits.com/news-articles/markets/equity/open-ai-reportedly-fires-back-at-apple-over-trade-secrets-and-hardware-suppliers/cNb65s2R9Vi?.tsrc=rss",
+      "title": "OpenAI Reportedly Fires Back At Apple Over Trade Secrets And Hardware Suppliers",
+      "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-reportedly-fires-back-at-apple-over-trade-secrets-and-hardware-suppliers/cNb65s2R9Vi?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "OpenAI has countersued Apple in California, the FT reported, alleging trade secret theft and supplier coercion.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T04:13:53+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:07:12.430468+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tradingview:0276c6e6126b8:0",
