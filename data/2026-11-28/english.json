@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T19:46:19.910408+08:00",
-  "count": 1406,
+  "generated_at": "2026-11-28T19:49:21.857277+08:00",
+  "count": 1411,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 3,
       "error": ""
     },
     {
@@ -38,6 +38,31 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:cryptobriefing:de57f452a094b:0",
+      "title": "Keel Infrastructure sells entire Bitcoin treasury worth $192M",
+      "url": "https://cryptobriefing.com/keel-infrastructure-sells-bitcoin-treasury/?utm_source=tickers&utm_medium=rss",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T19:37:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T19:49:16.814050+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:KEEL",
+          "BITSTAMP:BTCUSD"
+        ]
+      }
+    },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/28/heres-what-1000-invested-in-anthropic-could-be-wor/?.tsrc=rss",
       "title": "Here's What $1,000 Invested in Anthropic Could Be Worth by 2030",
@@ -357,6 +382,25 @@
       "published_at": "2026-11-28T18:39:02+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T18:46:16.895398+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "yahoo:https://www.tikr.com/blog/alibaba-soars-11-in-a-week-even-as-the-u-s-blacklists-its-singapore-unit-is-the-bottom-in?ref=yahoofinance&tlnk=yf-261128-p8hcxg7q&.tsrc=rss",
+      "title": "Alibaba Soars 11% in a Week Even as the U.S. Blacklists Its Singapore Unit. Is the Bottom In?",
+      "url": "https://www.tikr.com/blog/alibaba-soars-11-in-a-week-even-as-the-u-s-blacklists-its-singapore-unit-is-the-bottom-in?ref=yahoofinance&tlnk=yf-261128-p8hcxg7q&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysAlibaba stock rose 11% in the past week as Nvidia’s reinstatement of Jensen Huang lifted the Nasdaq and Beijing pledged to support Chinese stocks. The U.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T18:35:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T19:49:16.623278+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -6020,6 +6064,25 @@
       "extra": {}
     },
     {
+      "id": "msn:305c70e040d4a30ea7d76f61b1b7f2dbe28e113e",
+      "title": "The Stock Market Just Dropped Into a Correction. History Is Crystal Clear About What ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abfbce25a431cb0c4fbaa01d5c681&url=https%3a%2f%2fwww.fool.com%2finvesting%2f2026%2f11%2f28%2fstock-market-correction-history-what-happens-next%2f&c=2447922426235988492&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The S&P 500 recently entered correction territory, something that has historically been an excellent buying opportunity for patient investors.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T11:12:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T19:49:18.373318+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "alpaca:132452841",
       "title": "Skydance Executes Debt Repayment and PIPE Share Registration Following WBD Deal",
       "url": "https://www.streetinsider.com/news.php?id=27405075&classic=1",
@@ -9107,6 +9170,25 @@
       "published_at": "2026-11-28T09:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T19:46:19.095532+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:87ed75f459840179355aa3e444070df228d82268",
+      "title": "If A Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move You Can Make",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abfbce25a431cb0c4fbaa01d5c681&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fif-a-stock-market-crash-is-coming-warren-buffett-says-this-is-the-smartest-move-you-can-make%2far-AA2ip5id&c=9620126643030031376&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "When the Oracle of Omaha speaks, it can pay to listen.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T19:49:18.373318+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -31824,6 +31906,25 @@
       "published_at": "2026-11-28T00:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T19:46:19.095532+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:2503c13b756064621232e018163c6af0344f57a7",
+      "title": "Americans Are More Exposed to the Stock Market Than Ever Before",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0abfbce25a431cb0c4fbaa01d5c681&url=https%3a%2f%2fwww.wsj.com%2ffinance%2fstocks%2fus-stock-market-wealth-0caf5bac&c=2149664428336546729&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T19:49:18.373318+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
