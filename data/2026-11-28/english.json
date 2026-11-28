@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T09:04:21.808361+08:00",
-  "count": 794,
+  "generated_at": "2026-11-28T09:07:20.533506+08:00",
+  "count": 796,
   "sources": [
     {
       "name": "alpaca",
@@ -611,6 +611,59 @@
         "source": "fiscal.ai",
         "symbols": [
           "AMZN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tmx_newsfile:7adbd76de094b:0",
+      "title": "Custom Health Engages Yorkville Ives & Co. as Capital Markets Advisor to Advance U.S. Capital Markets Strategy, and Amends YA II PN Promissory Note",
+      "url": "https://www.newsfilecorp.com/release/326277/Custom-Health-Engages-Yorkville-Ives-Co.-as-Capital-Markets-Advisor-to-Advance-U.S.-Capital-Markets-Strategy-and-Amends-YA-II-PN-Promissory-Note",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:01:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T09:07:14.629132+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "TSX:CHLT"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:tag:reuters.com,2026:newsml_L2N47504M:0",
+      "title": "China's premium puffer jacket push meets consumer resistance",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N47504M:0-china-s-premium-puffer-jacket-push-meets-consumer-resistance/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Reuters",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T09:07:14.629132+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:WMT",
+          "HKEX:3998",
+          "NYSE:BABA",
+          "TSE:9983",
+          "TSX:GOOS",
+          "MIL:MONC"
         ]
       }
     },
