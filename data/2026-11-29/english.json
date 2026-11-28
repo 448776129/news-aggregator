@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T01:03:49.894038+08:00",
-  "count": 18,
+  "generated_at": "2026-11-29T01:07:21.451596+08:00",
+  "count": 19,
   "sources": [
     {
       "name": "alpaca",
@@ -33,7 +33,7 @@
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 3,
+      "count": 4,
       "error": ""
     }
   ],
@@ -63,6 +63,25 @@
           "NYSE:LUV"
         ]
       }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/28/alphabet-stock-near-52-week-low-why-i-d-buy-the-dip/?.tsrc=rss",
+      "title": "Alphabet Stock Is Near a 52-Week Low. Here's Why I'd Buy the Dip.",
+      "url": "https://www.fool.com/investing/2026/11/28/alphabet-stock-near-52-week-low-why-i-d-buy-the-dip/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Wall Street is fixated on Alphabet's capex spending, but it may be overlooking what that money is building.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T00:55:02+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T01:07:15.165863+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:moodys:cc44d3b5894f8:0",

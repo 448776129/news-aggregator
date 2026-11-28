@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T17:07:21.812848+08:00",
-  "count": 2,
+  "generated_at": "2026-11-29T01:07:20.309711+08:00",
+  "count": 3,
   "sources": [
     {
       "name": "alpaca",
@@ -72,6 +72,25 @@
       "published_date": "2022-12-24",
       "fetched_at": "2026-11-28T17:07:19.563058+08:00",
       "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:1ece0caeee434a6cee10985778acef4219807981",
+      "title": "Brexit has cracked Britain’s economic foundations",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0b0a4378d542ab8d2cf1441ff8af5d&url=https%3a%2f%2fwww.cnn.com%2f2022%2f12%2f24%2feconomy%2fbrexit-uk-economy&c=12379197442896154439&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "It’s been two years since former Prime Minister Boris Johnson signed his Brexit trade deal and triumphantly declared that Britain would be “prosperous, dynamic and contented” after completing its exit ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2022-12-24T13:35:00+08:00",
+      "published_date": "2022-12-24",
+      "fetched_at": "2026-11-29T01:07:17.348008+08:00",
+      "crawl_date": "2026-11-29",
       "lang": "en",
       "category": "english",
       "extra": {}
