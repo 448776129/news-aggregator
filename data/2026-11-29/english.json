@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T01:46:30.242387+08:00",
-  "count": 31,
+  "generated_at": "2026-11-29T02:01:28.437265+08:00",
+  "count": 32,
   "sources": [
     {
       "name": "alpaca",
@@ -27,7 +27,7 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 19,
+      "count": 20,
       "error": ""
     },
     {
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:business_wire:7cbfdb38fa06b:0",
+      "title": "Mastercard SpendingPulse: Tech Takes Center Stage This Black Friday as U.S. Retail Sales Rise 5.8% YOY",
+      "url": "https://www.tradingview.com/news/business_wire:7cbfdb38fa06b:0-mastercard-spendingpulse-tech-takes-center-stage-this-black-friday-as-u-s-retail-sales-rise-5-8-yoy/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "BusinessWire",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T02:00:00+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T02:01:23.125807+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NYSE:MA"
+        ]
+      }
+    },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L1N47903M:0",
       "title": "EU set to delay plug-in hybrid emissions rating update until 2030",
