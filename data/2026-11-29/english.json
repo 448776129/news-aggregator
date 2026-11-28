@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-29T02:01:28.437265+08:00",
-  "count": 32,
+  "generated_at": "2026-11-29T02:04:21.588332+08:00",
+  "count": 37,
   "sources": [
     {
       "name": "alpaca",
@@ -27,17 +27,89 @@
     {
       "name": "tradingview",
       "status": "ok",
-      "count": 20,
+      "count": 24,
       "error": ""
     },
     {
       "name": "yahoo",
       "status": "ok",
-      "count": 10,
+      "count": 11,
       "error": ""
     }
   ],
   "items": [
+    {
+      "id": "tradingview:coinmarketcal:d42973960094b:0",
+      "title": "SoSoValue: SOSO supply unlock covers at least 19.31 million tokens - Jun 2027",
+      "url": "https://coinmarketcal.com/event/5-3-supply-unlock-7ce8c8de-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T02:00:20+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T02:04:15.843183+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BINANCE:TUSDT.P"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:d6193f2aa094b:0",
+      "title": "SoSoValue: Unlocks at least 19.31 million SOSO - May 2027",
+      "url": "https://coinmarketcal.com/event/5-3-supply-unlock-5a897ab1-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T02:00:15+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T02:04:15.843183+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BINANCE:TUSDT.P"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinmarketcal:2b7384b70094b:0",
+      "title": "SoSoValue: SOSO Supply Unlock Releases at Least 19.31 Million Tokens - Apr 2027",
+      "url": "https://coinmarketcal.com/event/5-3-supply-unlock-431fe214-1",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CoinMarketCal",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T02:00:08+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T02:04:15.843183+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BINANCE:TUSDT.P"
+        ]
+      }
+    },
     {
       "id": "tradingview:business_wire:7cbfdb38fa06b:0",
       "title": "Mastercard SpendingPulse: Tech Takes Center Stage This Black Friday as U.S. Retail Sales Rise 5.8% YOY",
@@ -61,6 +133,47 @@
           "NYSE:MA"
         ]
       }
+    },
+    {
+      "id": "tradingview:macenews:bb6ec1879094b:0",
+      "title": "TEXT: Full FDIC Statement on Closure of Evansville, Indiana's $5.9 Bln United Fideltiy Bank",
+      "url": "https://www.tradingview.com/news/macenews:bb6ec1879094b:0-text-full-fdic-statement-on-closure-of-evansville-indiana-s-5-9-bln-united-fideltiy-bank/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Mace News",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T01:56:00+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T02:04:15.843183+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "yahoo:https://www.fool.com/investing/2026/11/28/coreweave-is-down-40-this-year-is-this-a-once-in-a-lifetime-buying-opportunity/?.tsrc=rss",
+      "title": "CoreWeave Is Down 40% This Year. Is This a Once-in-a-Lifetime Buying Opportunity?",
+      "url": "https://www.fool.com/investing/2026/11/28/coreweave-is-down-40-this-year-is-this-a-once-in-a-lifetime-buying-opportunity/?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "It depends on whether you think the company’s massive spending is worth it.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-29T01:50:02+08:00",
+      "published_date": "2026-11-29",
+      "fetched_at": "2026-11-29T02:04:15.607150+08:00",
+      "crawl_date": "2026-11-29",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
     },
     {
       "id": "tradingview:tag:reuters.com,2026:newsml_L1N47903M:0",
