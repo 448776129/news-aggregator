@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T13:37:18.014044+08:00",
-  "count": 870,
+  "generated_at": "2026-11-28T13:46:17.884827+08:00",
+  "count": 871,
   "sources": [
     {
       "name": "alpaca",
@@ -126,6 +126,32 @@
         "urgency": 2,
         "symbols": [
           "HKEX:9669"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cryptobriefing:34bd919ba094b:0",
+      "title": "BlackRock leads $389M Bitcoin ETF exodus as November outflows hit a record",
+      "url": "https://cryptobriefing.com/blackrock-bitcoin-ethereum-etf-outflows-november/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Crypto Briefing",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T13:27:38+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T13:46:13.391986+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:BTCUSD",
+          "BITSTAMP:ETHUSD",
+          "NYSE:BLK"
         ]
       }
     },
