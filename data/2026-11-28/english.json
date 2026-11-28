@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T16:32:32.498397+08:00",
-  "count": 1077,
+  "generated_at": "2026-11-28T16:34:19.062406+08:00",
+  "count": 1081,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 1,
+      "count": 3,
       "error": ""
     },
     {
@@ -1891,6 +1891,30 @@
         "urgency": 2,
         "symbols": [
           "CRYPTO:BNBUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:beincrypto:4e0f07f4d094b:0",
+      "title": "XRP Holders Want to Burn 31 Billion Tokens, But Ripple CTO Pushes Back",
+      "url": "https://beincrypto.com/xrp-ripple-escrow-burn-campaign/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Beincrypto",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T15:38:16+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:34:15.471351+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:XRPUSD"
         ]
       }
     },
@@ -5729,6 +5753,25 @@
       }
     },
     {
+      "id": "msn:357ec50dc054ab6f711e4d5c8d3811ca77f7d4a9",
+      "title": "Traton (XTRA:8TRA) Stock May Still Be A Bargain On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a920840b845558493e5ba6c06f721&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2ftraton-xtra-8tra-stock-may-081325584.html&c=11429120979339909028&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Traton has delivered a strong run in recent years, which puts a spotlight on whether the current share price lines up with what its earnings can support. With the stock now trading at €34.04, the ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:13:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:34:17.463484+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "tradingview:stocktwits:8cd9f5c56094b:0",
       "title": "Zero To Sixty: Tesla Cybercab Fleet Tops 1,000 In Texas, Lucid Starts Fully Driverless Tests And Chinese EV Maker Posts Stronger Margins",
       "url": "https://stocktwits.com/news-articles/markets/equity/zero-to-sixty-tesla-cybercab-fleet-tops-1-000-in-texas-lucid-starts-fully-driverless-tests-and-chinese-ev-maker-posts-stronger-margins/cNRRKv9R9Vl",
@@ -5830,6 +5873,25 @@
       "published_at": "2026-11-28T08:07:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T16:19:26.242373+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:4c624d37962f62ebe3cbf4ffa752c2bc400f54be",
+      "title": "Sylvamo: Better Earnings, Persistent Cash Flow Challenges",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a920840b845558493e5ba6c06f721&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972713-sylvamo-better-earnings-persistent-cash-flow-challenges&c=5048870547865812009&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Analyst rates Sylvamo a Hold at $34.60: earnings may recover in 2027, but cash flow may lag; the target uses 6.5x EBITDA amid delayed Sumter benefits.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:07:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:34:17.463484+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -11307,6 +11369,25 @@
       "published_at": "2026-11-28T05:14:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T16:28:16.632704+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:1f840b14fc758dcb41089ec985e3e5855906977d",
+      "title": "Hinge Health (HNGE) Stock Trades Above Fair Value On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a920840b845558493e5ba6c06f721&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fhinge-health-hnge-stock-trades-051528661.html&c=11750597560096836354&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Hinge Health has been one of the stronger movers in digital health this year, and the share price run puts a sharp spotlight on what investors are actually paying for its earnings. With the stock now ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:14:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:34:17.463484+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
