@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T14:10:30.136850+08:00",
-  "count": 880,
+  "generated_at": "2026-11-28T14:13:18.560563+08:00",
+  "count": 881,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,32 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:cnbctv:4ff8cec65094b:0",
+      "title": "Markets Espresso: Main Wapas Aaunga, ft. Jensen Huang, FIIs, Rohit Sharma, and tariffs!",
+      "url": "https://www.tradingview.com/news/cnbctv:4ff8cec65094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T14:08:34+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T14:13:15.083571+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NASDAQ:NVDA",
+          "NSE:APLAPOLLO",
+          "NSE:TATASTEEL"
+        ]
+      }
+    },
     {
       "id": "alpaca:132460539",
       "title": "Ariana Resources Announces General Meeting for December 2026",
