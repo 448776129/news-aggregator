@@ -1,0 +1,61 @@
+{
+  "date": "2025-04-28",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-28T12:52:20.057557+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:1005a205c0e2e1b31012f1ae1e02830f68b9364f",
+      "title": "CNN Poll: A growing majority says Trump has made the economy worse, with most skeptical of ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a5e005fcd4ce0aaa6a4ce985d1d65&url=https%3a%2f%2fwww.cnn.com%2f2025%2f04%2f28%2fpolitics%2fpoll-trump-economy-tariffs&c=18090651230551506204&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A 59% majority of the public now says President Donald Trump’s policies have worsened economic conditions in the country, according to a new CNN poll conducted by SSRS, up from 51% in March and on par ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2025-04-28T21:00:00+08:00",
+      "published_date": "2025-04-28",
+      "fetched_at": "2026-11-28T12:52:18.091037+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
