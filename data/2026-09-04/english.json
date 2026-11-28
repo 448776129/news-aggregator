@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-04",
+  "category": "english",
+  "category_name": "英文新闻",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-11-28T22:40:21.074034+08:00",
+  "count": 1,
+  "sources": [
+    {
+      "name": "alpaca",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "finnhub",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "msn",
+      "status": "ok",
+      "count": 1,
+      "error": ""
+    },
+    {
+      "name": "tradingview",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    },
+    {
+      "name": "yahoo",
+      "status": "ok",
+      "count": 0,
+      "error": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "msn:853e077057acb6ce07316614335d7952e5f85777",
+      "title": "Social and Solidarity Economy",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ae7d0dd704d16ab82630e5ee6dfc3&url=https%3a%2f%2fwww.ilo.org%2ftopics-and-sectors%2fsocial-and-solidarity-economy&c=1898454317955146688&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The social and solidarity economy (SSE) contributes to decent work, inclusive and sustainable economies, social justice and sustainable development. What is the Social and Solidarity Economy (SSE)?",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-09-04T14:31:00+08:00",
+      "published_date": "2026-09-04",
+      "fetched_at": "2026-11-28T22:40:18.515621+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    }
+  ]
+}
