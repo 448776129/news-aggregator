@@ -3,8 +3,8 @@
   "category": "stocktwits",
   "category_name": "Stocktwits 社区",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T11:40:22.503746+08:00",
-  "count": 377,
+  "generated_at": "2026-11-28T11:43:21.867393+08:00",
+  "count": 378,
   "sources": [
     {
       "name": "stocktwits",
@@ -14,6 +14,34 @@
     }
   ],
   "items": [
+    {
+      "id": "stocktwits:670319929",
+      "title": "$NVDA +0.8% $150.49 quiet close; OpenAI countersued $AAPL (FT). $SAP +2.0% on a plan to cut 10k+ jobs. Gold settled near",
+      "url": "https://stocktwits.com/symbol/AAPL",
+      "source": "stocktwits",
+      "source_name": "Stocktwits",
+      "author": "StockPlaza",
+      "summary": "$NVDA +0.8% $150.49 quiet close; OpenAI countersued $AAPL (FT). $SAP +2.0% on a plan to cut 10k+ jobs. Gold settled near $4,180 (FXStreet via FJ); $TLT -1.2%, $GLD +2.1%.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T11:42:22+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T11:43:17.332283+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "stocktwits",
+      "extra": {
+        "sentiment": null,
+        "symbols": [
+          "NVDA",
+          "AAPL",
+          "SAP",
+          "TLT",
+          "GLD"
+        ]
+      }
+    },
     {
       "id": "stocktwits:670319887",
       "title": "$SNDK +16.0% $85.36 was the standout. $ANT +11.0% $91.88 closed the week above its $83 IPO price on initiations (Oppenhe",
