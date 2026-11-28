@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T20:04:19.086012+08:00",
-  "count": 1454,
+  "generated_at": "2026-11-28T20:07:22.477782+08:00",
+  "count": 1461,
   "sources": [
     {
       "name": "alpaca",
@@ -15,13 +15,13 @@
     {
       "name": "finnhub",
       "status": "ok",
-      "count": 10,
+      "count": 11,
       "error": ""
     },
     {
       "name": "msn",
       "status": "ok",
-      "count": 6,
+      "count": 5,
       "error": ""
     },
     {
@@ -38,6 +38,25 @@
     }
   ],
   "items": [
+    {
+      "id": "yahoo:https://finance.yahoo.com/markets/article/stocks-are-chasing-a-rare-buy-signal-as-markets-brace-for-a-potential-fed-hike-chart-of-the-day-120524657.html?.tsrc=rss",
+      "title": "Stocks are chasing a rare buy signal as markets brace for a potential Fed hike: Chart of the Day",
+      "url": "https://finance.yahoo.com/markets/article/stocks-are-chasing-a-rare-buy-signal-as-markets-brace-for-a-potential-fed-hike-chart-of-the-day-120524657.html?.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "The Zweig Breadth Thrust fires when the share of NYSE stocks that are rising, averaged over 10 days, jumps from below 40% to above 61.5% within 10 trading days.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T20:05:24+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:07:16.856483+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "alpaca:132505214",
       "title": "J.P. Morgan Upgrades Adecoagro to Hold Rating",
@@ -2244,6 +2263,30 @@
         "symbols": [
           "NSE:HERITGFOOD"
         ]
+      }
+    },
+    {
+      "id": "finnhub:8822077",
+      "title": "Israeli strike killed two staff outside Gaza clinic, MSF says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlN6bWNCajEzSzJDU0o3Qk5qQnJiS3Zxb2VaUnFjM05vM0hkZ2E3NnJNeXlVdEVVMkNwdGRXcmRaTGF3bHI4emRsaVhaTHVtV3dmNDJlWUFGY1YzTTFxNlNkaFViN1FYdlo3WVM4SUJlaTZkc1AyVE9MdmZkMDdYeE1wR3RzRXFzeTVvY0lrczh4N1ZGXzM4NWR2MmF6NkRYeDBWNEtMOEswT3BxU2dxYllRcmM?oc=5",
+      "source": "finnhub",
+      "source_name": "Finnhub News",
+      "author": "Reuters",
+      "summary": "Israeli strike killed two staff outside Gaza clinic, MSF says Reuters",
+      "content": "Israeli strike killed two staff outside Gaza clinic, MSF says Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:05:43+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:07:16.982074+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "source": "Reuters",
+        "category": "business",
+        "related": "",
+        "image": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg"
       }
     },
     {
@@ -6526,6 +6569,25 @@
       "extra": {}
     },
     {
+      "id": "msn:3d059b9291205e751842462a535821594f2b4592",
+      "title": "The Stock Market Just Dropped Into a Correction. History Is Crystal Clear About What ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac3f489e94c269143573b66ba017c&url=https%3a%2f%2fwww.fool.com%2finvesting%2f2026%2f11%2f28%2fstock-market-correction-history-what-happens-next%2f&c=2447922426235988492&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The S&P 500 recently entered correction territory, something that has historically been an excellent buying opportunity for patient investors.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T11:12:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:07:18.562000+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "alpaca:132452841",
       "title": "Skydance Executes Debt Repayment and PIPE Share Registration Following WBD Deal",
       "url": "https://www.streetinsider.com/news.php?id=27405075&classic=1",
@@ -7651,6 +7713,25 @@
       "published_at": "2026-11-28T10:07:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T20:01:19.988532+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:ad66744c98a930d4f81a616929a04535822d4b8e",
+      "title": "Halyk Bank Of Kazakhstan (LSE:HSBK) Stock May Still Look Reasonable On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac3f58ef54d8f8dd4587906001130&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fhalyk-bank-kazakhstan-lse-hsbk-100849200.html&c=10435403749553459957&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Halyk Bank of Kazakhstan has delivered a very strong share price run in recent years, which puts fresh focus on whether the current valuation is properly backed by its earnings. After that kind of ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T10:07:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:07:18.562000+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -9822,6 +9903,25 @@
       "published_at": "2026-11-28T09:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T20:04:17.489244+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:16cd6fbcf1e81872488af2fd73c796c7c66b515d",
+      "title": "If A Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move You Can Make",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac3f489e94c269143573b66ba017c&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fif-a-stock-market-crash-is-coming-warren-buffett-says-this-is-the-smartest-move-you-can-make%2far-AA2ip5id&c=9620126643030031376&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "When the Oracle of Omaha speaks, it can pay to listen.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:07:18.562000+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -17721,6 +17821,25 @@
       "published_at": "2026-11-28T05:14:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T20:04:17.489244+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:93155374add6f7d3ed1b56ffcf24ccde35b95909",
+      "title": "Hinge Health (HNGE) Stock Trades Above Fair Value On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac3f58ef54d8f8dd4587906001130&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fhinge-health-hnge-stock-trades-051528661.html&c=11750597560096836354&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Hinge Health has been one of the stronger movers in digital health this year, and the share price run puts a sharp spotlight on what investors are actually paying for its earnings. With the stock now ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T05:14:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:07:18.562000+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -32805,6 +32924,25 @@
       "published_at": "2026-11-28T00:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T20:04:17.489244+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:36806757f33ba226d820e502dd2fcddb64b59b97",
+      "title": "Americans Are More Exposed to the Stock Market Than Ever Before",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac3f489e94c269143573b66ba017c&url=https%3a%2f%2fwww.wsj.com%2ffinance%2fstocks%2fus-stock-market-wealth-0caf5bac&c=2149664428336546729&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:07:18.562000+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
