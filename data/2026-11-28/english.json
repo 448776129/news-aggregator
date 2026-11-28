@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T16:13:25.954891+08:00",
-  "count": 1062,
+  "generated_at": "2026-11-28T16:16:19.842888+08:00",
+  "count": 1065,
   "sources": [
     {
       "name": "alpaca",
@@ -21,7 +21,7 @@
     {
       "name": "msn",
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": ""
     },
     {
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:moodys:0c91e4e4405d2:0",
+      "title": "Heritage Foods CEO Srideep Kesavan resigns",
+      "url": "https://www.tradingview.com/news/moodys:0c91e4e4405d2:0-heritage-foods-ceo-srideep-kesavan-resigns/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Business Line",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:10:50+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:16:15.446723+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:HERITGFOOD"
+        ]
+      }
+    },
     {
       "id": "alpaca:132466876",
       "title": "Bioextrax Announces Webcast for December 3, 2026",
@@ -731,6 +755,30 @@
         "source": "fiscal.ai",
         "symbols": [
           "ATIN"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:cnbctv:f1675b2cb094b:0",
+      "title": "BPCL board approves ₹1.27 lakh crore refinery & petrochemical complex in Andhra Pradesh",
+      "url": "https://www.tradingview.com/news/cnbctv:f1675b2cb094b:0/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "CNBC TV18",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T16:03:01+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:16:15.446723+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "NSE:BPCL"
         ]
       }
     },
@@ -6971,6 +7019,25 @@
       "published_at": "2026-11-28T06:56:05+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T16:04:23.019023+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:2cbea9513bc7ef1ef63a47da2bfcabb7e87fabe7",
+      "title": "Stock Market: This Defence Stock Turns Multibagger In 2026, Jumps 200%: Do You Own?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a8dcf19a64904822cbbd88b02fa4f&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fstock-market-this-defence-stock-turns-multibagger-in-2026-jumps-200-do-you-own%2far-AA2ipmqv&c=5235095316800005782&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Stock Market News: Raymond shares have gained over 135 per cent in the past six months and more than 20 per cent in the last one month.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T06:56:05+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T16:16:17.512318+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
