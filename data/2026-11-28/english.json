@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T19:58:21.711926+08:00",
-  "count": 1427,
+  "generated_at": "2026-11-28T20:01:22.333444+08:00",
+  "count": 1439,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,71 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tradingview:95eebf75e0427:0",
+      "title": "Key facts: ETH loss, BlackRock holdings slide; Bitmine holds 6.09M ETH",
+      "url": "https://www.tradingview.com/news/tradingview:95eebf75e0427:0-key-facts-eth-loss-blackrock-holdings-slide-bitmine-holds-6-09m-eth/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TradingView",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T20:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:01:17.857857+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "BITSTAMP:ETHUSD"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:DJN_DN20261128000669:0",
+      "title": "The Newsletter Bonanza Is Slowing Down — WSJ",
+      "url": "https://www.tradingview.com/news/DJN_DN20261128000669:0-the-newsletter-bonanza-is-slowing-down-wsj/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Dow Jones Newswires",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T20:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:01:17.857857+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": []
+      }
+    },
+    {
+      "id": "yahoo:d27a1621deda755e7e257a9fcb7cb03b480f874b",
+      "title": "Dan Ives Calls Nvidia’s China and Asia Exposure a “Containable 15% to 20%” of Revenue. Huang Faces Congress Next Week",
+      "url": "https://www.tikr.com/blog/dan-ives-calls-nvidias-china-and-asia-exposure-a-containable-15-to-20-of-revenue-huang-faces-congress-next-week?ref=yahoofinance&tlnk=yf-261128-43p6xw35&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysDan Ives called China and the Southeast Asia loophole a “containable” 15% to 20% of Nvidia’s revenue. Even after losing a fifth of its earnings, Nvidia would trade at about 13x, against a five-year average of 35x.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T19:46:08+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:01:17.695617+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
     {
       "id": "yahoo:https://www.fool.com/investing/2026/11/28/history-says-what-tesla-stock-does-after-its-annual-meeting-this-year-s-is-dec-3/?.tsrc=rss",
       "title": "History Says What Tesla Stock Does After Its Annual Meeting. This Year's Is Dec. 3.",
@@ -388,6 +453,25 @@
       }
     },
     {
+      "id": "yahoo:https://www.tikr.com/blog/caterpillar-soars-10-in-a-week-as-jensen-huangs-return-revives-the-ai-trade-is-it-still-a-buy?ref=yahoofinance&tlnk=yf-261128-7rhfwrcg&.tsrc=rss",
+      "title": "Caterpillar Soars 10% in a Week as Jensen Huang’s Return Revives the AI Trade. Is It Still a Buy?",
+      "url": "https://www.tikr.com/blog/caterpillar-soars-10-in-a-week-as-jensen-huangs-return-revives-the-ai-trade-is-it-still-a-buy?ref=yahoofinance&tlnk=yf-261128-7rhfwrcg&.tsrc=rss",
+      "source": "yahoo",
+      "source_name": "雅虎新闻",
+      "author": "",
+      "summary": "Key TakeawaysCaterpillar shares rose 10% in the past week after Nvidia reinstated Jensen Huang as CEO. Caterpillar trades with the AI power stocks, and its rivals GE Vernova and Cummins still report strong data-center power demand.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T18:39:19+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:01:17.695617+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.fool.com/investing/2026/11/28/shopify-stock-is-down-about-12-in-2026-its-last-down-year-was-2022-history-says-what-came-next/?.tsrc=rss",
       "title": "Shopify Stock Is Down About 12% in 2026. Its Last Down Year Was 2022. History Says What Came Next.",
       "url": "https://www.fool.com/investing/2026/11/28/shopify-stock-is-down-about-12-in-2026-its-last-down-year-was-2022-history-says-what-came-next/?.tsrc=rss",
@@ -508,6 +592,31 @@
       "extra": {}
     },
     {
+      "id": "tradingview:coinpedia:c005db748094b:0",
+      "title": "World Liberty Financial (WLFI) Price Crashes as USD1 Stablecoin Depegs 6% — Can $0.03 Support Hold?",
+      "url": "https://coinpedia.org/price-analysis/world-liberty-financial-wlfi-price-crashes-as-usd1-stablecoin-depegs-6-can-0-03-support-hold/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Coinpedia",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T18:07:36+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:01:17.857857+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CRYPTO:USD1WUSD",
+          "COINBASE:WLFIUSD"
+        ]
+      }
+    },
+    {
       "id": "yahoo:https://www.fool.com/investing/2026/11/28/prediction-here-s-the-netflix-stock-price-i-expect-at-the-end-of-2030/?.tsrc=rss",
       "title": "Prediction: Here's the Netflix Stock Price I Expect at the End of 2030",
       "url": "https://www.fool.com/investing/2026/11/28/prediction-here-s-the-netflix-stock-price-i-expect-at-the-end-of-2030/?.tsrc=rss",
@@ -595,6 +704,31 @@
         "urgency": 2,
         "symbols": [
           "NSE:PNCINFRA"
+        ]
+      }
+    },
+    {
+      "id": "tradingview:coinpedia:e523efa4f094b:0",
+      "title": "Trump-Linked WLFI Price Crashes 60% as Justin Sun Calls for Token Delisting",
+      "url": "https://coinpedia.org/price-analysis/trump-linked-wlfi-price-crashes-60-as-justin-sun-calls-for-token-delisting/",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "Coinpedia",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T18:00:48+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:01:17.857857+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "COINBASE:WLFIUSD",
+          "CRYPTO:USD1WUSD"
         ]
       }
     },
@@ -6140,6 +6274,25 @@
       "extra": {}
     },
     {
+      "id": "msn:199313a8617345a8dce14f1a76888cfe34f4e385",
+      "title": "The Stock Market Just Dropped Into a Correction. History Is Crystal Clear About What ...",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac28d5cac40f4b229e6bafb7fc6f6&url=https%3a%2f%2fwww.fool.com%2finvesting%2f2026%2f11%2f28%2fstock-market-correction-history-what-happens-next%2f&c=2447922426235988492&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "The S&P 500 recently entered correction territory, something that has historically been an excellent buying opportunity for patient investors.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T11:12:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:01:19.988532+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "alpaca:132452841",
       "title": "Skydance Executes Debt Repayment and PIPE Share Registration Following WBD Deal",
       "url": "https://www.streetinsider.com/news.php?id=27405075&classic=1",
@@ -6986,6 +7139,25 @@
       "extra": {}
     },
     {
+      "id": "msn:b7505e5fd7c0d2d8996d88f0aa3afdb32e70ed4b",
+      "title": "Is XD (SEHK:2400) Already Above Fair Value On Earnings?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac28e50534b4d809df97a381eb0f5&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fxd-sehk-2400-already-above-101254388.html&c=2325578383888017438&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "XD has had a rough period lately, yet its longer history on the market is far from straightforward, which puts fresh attention on whether the current share price lines up with what its earnings can ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T10:12:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:01:19.988532+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "msn:4e0ac983ec04976ce754ebd7e888a2373805170d",
       "title": "Halyk Bank Of Kazakhstan (LSE:HSBK) Stock May Still Look Reasonable On Earnings",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0aaf90b55b442ba1ebd002dfaf08cd&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fhalyk-bank-kazakhstan-lse-hsbk-100849200.html&c=10435403749553459957&mkt=en-us",
@@ -7227,6 +7399,25 @@
       "published_at": "2026-11-28T10:07:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T19:58:20.052228+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:aeb2b4212f31edc5b7107bc5c23dc1ea5d0633e0",
+      "title": "Halyk Bank Of Kazakhstan (LSE:HSBK) Stock May Still Look Reasonable On Earnings",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac28e50534b4d809df97a381eb0f5&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fstocks%2farticles%2fhalyk-bank-kazakhstan-lse-hsbk-100849200.html&c=10435403749553459957&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Halyk Bank of Kazakhstan has delivered a very strong share price run in recent years, which puts fresh focus on whether the current valuation is properly backed by its earnings. After that kind of ...",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T10:07:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:01:19.988532+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -9347,6 +9538,25 @@
       "extra": {}
     },
     {
+      "id": "msn:c1b20c7dd7e778da38b27b37b54c54c28bdbf5aa",
+      "title": "If A Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move You Can Make",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac28d5cac40f4b229e6bafb7fc6f6&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fif-a-stock-market-crash-is-coming-warren-buffett-says-this-is-the-smartest-move-you-can-make%2far-AA2ip5id&c=9620126643030031376&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "When the Oracle of Omaha speaks, it can pay to listen.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T09:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:01:19.988532+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
       "id": "yahoo:https://www.fool.com/investing/2026/11/27/3-reasons-i-might-buy-more-nvidia-in-december/?.tsrc=rss",
       "title": "3 Reasons I Might Buy More Nvidia in December",
       "url": "https://www.fool.com/investing/2026/11/27/3-reasons-i-might-buy-more-nvidia-in-december/?.tsrc=rss",
@@ -10661,6 +10871,25 @@
       "published_at": "2026-11-28T08:07:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T19:58:20.052228+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:3da12289cd49b3b0355038453709db05e0393eb4",
+      "title": "Sylvamo: Better Earnings, Persistent Cash Flow Challenges",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac28e50534b4d809df97a381eb0f5&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4972713-sylvamo-better-earnings-persistent-cash-flow-challenges&c=5048870547865812009&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "Analyst rates Sylvamo a Hold at $34.60: earnings may recover in 2027, but cash flow may lag; the target uses 6.5x EBITDA amid delayed Sumter benefits.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:07:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:01:19.988532+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
@@ -32229,6 +32458,25 @@
       "published_at": "2026-11-28T00:00:00+08:00",
       "published_date": "2026-11-28",
       "fetched_at": "2026-11-28T19:58:20.052228+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {}
+    },
+    {
+      "id": "msn:b7225da76277206b361fb281d86ff91b4a3c8c00",
+      "title": "Americans Are More Exposed to the Stock Market Than Ever Before",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac28d5cac40f4b229e6bafb7fc6f6&url=https%3a%2f%2fwww.wsj.com%2ffinance%2fstocks%2fus-stock-market-wealth-0caf5bac&c=2149664428336546729&mkt=en-us",
+      "source": "msn",
+      "source_name": "微软 MSN",
+      "author": "",
+      "summary": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T00:00:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T20:01:19.988532+08:00",
       "crawl_date": "2026-11-28",
       "lang": "en",
       "category": "english",
