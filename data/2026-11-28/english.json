@@ -3,8 +3,8 @@
   "category": "english",
   "category_name": "英文新闻",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-28T08:28:18.232795+08:00",
-  "count": 759,
+  "generated_at": "2026-11-28T08:31:22.740787+08:00",
+  "count": 760,
   "sources": [
     {
       "name": "alpaca",
@@ -38,6 +38,30 @@
     }
   ],
   "items": [
+    {
+      "id": "tradingview:tmx_newsfile:51d004cb9094b:0",
+      "title": "Tenet Publishes Q3-2026 Financial Results Q&A Transcript",
+      "url": "https://www.newsfilecorp.com/release/326275/Tenet-Publishes-Q32026-Financial-Results-QA-Transcript",
+      "source": "tradingview",
+      "source_name": "TradingView",
+      "author": "TMX Newsfile",
+      "summary": "",
+      "content": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "published_at": "2026-11-28T08:23:00+08:00",
+      "published_date": "2026-11-28",
+      "fetched_at": "2026-11-28T08:31:14.553976+08:00",
+      "crawl_date": "2026-11-28",
+      "lang": "en",
+      "category": "english",
+      "extra": {
+        "urgency": 2,
+        "symbols": [
+          "CSE:PKK"
+        ]
+      }
+    },
     {
       "id": "tradingview:stocktwits:8cd9f5c56094b:0",
       "title": "Zero To Sixty: Tesla Cybercab Fleet Tops 1,000 In Texas, Lucid Starts Fully Driverless Tests And Chinese EV Maker Posts Stronger Margins",
